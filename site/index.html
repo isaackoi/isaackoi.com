@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Static Port Spike</title>
+    <meta
+      name="description"
+      content="A small proof of concept for moving a mostly text-and-table site to GitHub Pages."
+    >
+    <link rel="stylesheet" href="assets/css/site.css">
+  </head>
+  <body>
+    <main class="shell">
+      <section class="hero">
+        <p class="eyebrow">Migration spike</p>
+        <h1>Static site viability check</h1>
+        <p class="intro">
+          This page exists to prove the core model: text content, images, and
+          sortable tables can live comfortably on GitHub Pages without a Python
+          app serving requests.
+        </p>
+      </section>
+
+      <section class="card">
+        <h2>What fits well</h2>
+        <ul>
+          <li>Article and reference pages</li>
+          <li>Image libraries and illustrations</li>
+          <li>Comparison tables sorted in the browser</li>
+          <li>Shared layouts generated at build time</li>
+        </ul>
+      </section>
+
+      <section class="card">
+        <h2>Sample sortable table</h2>
+        <p>Click a column heading to sort.</p>
+        <div class="table-wrap">
+          <table data-sortable>
+            <thead>
+              <tr>
+                <th><button type="button" data-sort-key="page">Page</button></th>
+                <th><button type="button" data-sort-key="type">Type</button></th>
+                <th><button type="button" data-sort-key="effort">Port effort</button></th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td data-value="Article page">Article page</td>
+                <td data-value="Static">Static</td>
+                <td data-value="Low">Low</td>
+              </tr>
+              <tr>
+                <td data-value="Image gallery">Image gallery</td>
+                <td data-value="Static">Static</td>
+                <td data-value="Low">Low</td>
+              </tr>
+              <tr>
+                <td data-value="Filterable table">Filterable table</td>
+                <td data-value="Client-side JS">Client-side JS</td>
+                <td data-value="Medium">Medium</td>
+              </tr>
+              <tr>
+                <td data-value="Contact form">Contact form</td>
+                <td data-value="External service">External service</td>
+                <td data-value="Medium">Medium</td>
+              </tr>
+              <tr>
+                <td data-value="Logged-in dashboard">Logged-in dashboard</td>
+                <td data-value="Server-side">Server-side</td>
+                <td data-value="High">High</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </section>
+    </main>
+
+    <script src="assets/js/table-sort.js"></script>
+  </body>
+</html>
