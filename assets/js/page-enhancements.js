@@ -556,6 +556,75 @@
     });
   }
 
+  function countSearchTokenMatches(text, tokens) {
+    var normalizedText = normalizeSearchText(text);
+    if (!normalizedText || !Array.isArray(tokens) || !tokens.length) {
+      return 0;
+    }
+    var seen = {};
+    var count = 0;
+    tokens.forEach(function (token) {
+      if (!token || seen[token]) {
+        return;
+      }
+      if (
+        normalizedText === token
+        || normalizedText.indexOf(token + " ") === 0
+        || normalizedText.indexOf(" " + token + " ") !== -1
+        || normalizedText.lastIndexOf(" " + token) === normalizedText.length - token.length - 1
+        || normalizedText.indexOf(token) !== -1
+      ) {
+        seen[token] = true;
+        count += 1;
+      }
+    });
+    return count;
+  }
+
+  function matchesArchiveSearchEntry(query, item) {
+    var normalizedQuery = normalizeSearchText(query);
+    if (!normalizedQuery) {
+      return true;
+    }
+    var tokens = getSearchTokens(normalizedQuery);
+    var title = normalizeSearchText(item && (item.title_text || item.title));
+    var urlText = normalizeSearchText(item && (item.url_text || item.url));
+    var section = normalizeSearchText(item && (item.section_text || item.section));
+    var summary = normalizeSearchText(item && (item.summary_text || item.summary));
+    var tags = normalizeSearchText(item && (item.tags_text || (item.tags ? item.tags.join(" ") : "")));
+    var headings = normalizeSearchText(item && item.headings_text);
+    var body = normalizeSearchText(item && item.body_text);
+    var metadataHaystack = normalizeSearchText([title, urlText, section, summary, tags, headings].join(" "));
+
+    if (!metadataHaystack && !body) {
+      return false;
+    }
+
+    if (
+      title === normalizedQuery
+      || urlText === normalizedQuery
+      || tags === normalizedQuery
+      || title.indexOf(normalizedQuery) !== -1
+      || urlText.indexOf(normalizedQuery) !== -1
+      || section.indexOf(normalizedQuery) !== -1
+      || summary.indexOf(normalizedQuery) !== -1
+      || tags.indexOf(normalizedQuery) !== -1
+      || headings.indexOf(normalizedQuery) !== -1
+    ) {
+      return true;
+    }
+
+    if (matchesSearchQuery(normalizedQuery, metadataHaystack)) {
+      return true;
+    }
+
+    if (tokens.length === 1 && body.indexOf(tokens[0]) !== -1) {
+      return true;
+    }
+
+    return false;
+  }
+
   function initSidebarFilterForNav(nav) {
     if (!nav) {
       return;
@@ -1732,55 +1801,96 @@
       return 0;
     }
     var tokens = getSearchTokens(normalizedQuery);
-    var title = normalizeSearchText(item && item.title);
-    var section = normalizeSearchText(item && item.section);
-    var summary = normalizeSearchText(item && item.summary);
-    var tags = normalizeSearchText(item && item.tags ? item.tags.join(" ") : "");
+    var title = normalizeSearchText(item && (item.title_text || item.title));
+    var urlText = normalizeSearchText(item && (item.url_text || item.url));
+    var section = normalizeSearchText(item && (item.section_text || item.section));
+    var summary = normalizeSearchText(item && (item.summary_text || item.summary));
+    var tags = normalizeSearchText(item && (item.tags_text || (item.tags ? item.tags.join(" ") : "")));
+    var headings = normalizeSearchText(item && item.headings_text);
+    var body = normalizeSearchText(item && item.body_text);
     var haystack = normalizeSearchText(item && item.search_text);
     var score = 0;
+    var titleMatches = countSearchTokenMatches(title, tokens);
+    var urlMatches = countSearchTokenMatches(urlText, tokens);
+    var sectionMatches = countSearchTokenMatches(section, tokens);
+    var summaryMatches = countSearchTokenMatches(summary, tokens);
+    var tagMatches = countSearchTokenMatches(tags, tokens);
+    var headingMatches = countSearchTokenMatches(headings, tokens);
+    var bodyMatches = countSearchTokenMatches(body, tokens);
+    var metadataMatches = countSearchTokenMatches([title, urlText, section, summary, tags, headings].join(" "), tokens);
 
     if (title === normalizedQuery) {
-      score += 1200;
+      score += 2400;
+    } else if (title.indexOf(normalizedQuery) === 0) {
+      score += 1500;
     } else if (title.indexOf(normalizedQuery) !== -1) {
+      score += 900;
+    }
+
+    if (urlText === normalizedQuery) {
+      score += 1800;
+    } else if (urlText.indexOf(normalizedQuery) === 0) {
+      score += 900;
+    } else if (urlText.indexOf(normalizedQuery) !== -1) {
+      score += 650;
+    }
+
+    if (tags === normalizedQuery) {
+      score += 1100;
+    } else if (tags.indexOf(normalizedQuery) !== -1) {
+      score += 700;
+    }
+
+    if (headings.indexOf(normalizedQuery) !== -1) {
+      score += 360;
+    }
+
+    if (section.indexOf(normalizedQuery) !== -1) {
+      score += 240;
+    }
+
+    if (summary.indexOf(normalizedQuery) !== -1) {
+      score += 180;
+    }
+
+    if (body.indexOf(normalizedQuery) !== -1) {
+      score += 30;
+    }
+
+    score += titleMatches * 140;
+    score += urlMatches * 115;
+    score += tagMatches * 90;
+    score += headingMatches * 54;
+    score += sectionMatches * 38;
+    score += summaryMatches * 24;
+    score += bodyMatches * 4;
+
+    if (tokens.length && titleMatches === tokens.length) {
+      score += 1200;
+    }
+    if (tokens.length && (titleMatches + urlMatches) >= tokens.length) {
+      score += 760;
+    }
+    if (tokens.length && (titleMatches + urlMatches + tagMatches) >= tokens.length) {
+      score += 540;
+    }
+    if (tokens.length && metadataMatches === tokens.length) {
       score += 320;
     }
-    if (section.indexOf(normalizedQuery) !== -1) {
-      score += 80;
-    }
-    if (tags.indexOf(normalizedQuery) !== -1) {
+    if (tokens.length > 1 && summaryMatches === tokens.length) {
       score += 120;
     }
-    if (summary.indexOf(normalizedQuery) !== -1) {
-      score += 70;
+
+    if (haystack.indexOf(normalizedQuery) !== -1) {
+      score += 40;
     }
 
-    tokens.forEach(function (token) {
-      if (!token) {
-        return;
-      }
-      if (title.indexOf(token) === 0) {
-        score += 90;
-      } else if (title.indexOf(token) !== -1) {
-        score += 45;
-      }
-      if (tags.indexOf(token) !== -1) {
-        score += 24;
-      }
-      if (section.indexOf(token) !== -1) {
-        score += 16;
-      }
-      if (summary.indexOf(token) !== -1) {
-        score += 12;
-      }
-      if (haystack.indexOf(token) !== -1) {
-        score += 4;
-      }
-    });
-
     if ((item && item.kind) === "page") {
-      score += 20;
+      score += 24;
+    } else if ((item && item.kind) === "tag") {
+      score += (tagMatches || tags.indexOf(normalizedQuery) !== -1) ? 20 : 4;
     } else if ((item && item.kind) === "section") {
-      score += 8;
+      score += (sectionMatches || titleMatches) ? 12 : 6;
     }
 
     return score;
@@ -1962,7 +2072,7 @@
 
           var matches = entries
             .filter(function (entry) {
-              return matchesSearchQuery(query, entry && entry.search_text ? entry.search_text : entry && entry.title ? entry.title : "");
+              return matchesArchiveSearchEntry(query, entry);
             })
             .map(function (entry, index) {
               return {
