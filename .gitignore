@@ -3,3 +3,9 @@ Thumbs.db
 .sass-cache/
 _site/
 node_modules/
+__pycache__/
+.pytest_cache/
+
+backups/
+content/
+site/

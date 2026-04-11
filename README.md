@@ -1,48 +1,78 @@
-# GitHub Pages Port Spike
+# Joomla Extraction Workspace
 
-This repo is a clean test bed for evaluating a move from a Python-backed site to a static site hosted on GitHub Pages.
+This repo is now structured around extracting and normalizing content from a Joomla backup before any final GitHub Pages template is adopted.
 
-## Initial conclusion
+The Python-backed site is treated as non-authoritative. The backup database is the primary source of truth for structured content, and the backed-up Joomla filesystem is used for assets, media resolution, and template/rendering clues.
 
-For a site that is mostly:
+## Working layout
 
-- text pages
-- images
-- sortable/filterable tables in the browser
+- `backups/raw/db/` holds original SQL dump files unchanged
+- `backups/raw/joomla-site/` holds the original Joomla filesystem backup unchanged
+- `content/` is the normalized extraction target
+- `templates/reference-sites/` is where donor GitHub Pages sites should be staged later as references
+- `templates/static-preview/` holds the source assets for the temporary preview builder
+- `site/` is generated output and should be treated as disposable
 
-GitHub Pages is a realistic target.
+## Extractor
 
-It is a good fit if the current Python layer is mainly serving rendered pages and static assets rather than doing request-time work.
+The first-pass extractor lives at `scripts/extract_joomla.py`.
 
-## Not a fit if the live site depends on
+It currently:
 
-- server-side Python rendering per request
-- login or user-specific sessions
-- admin dashboards
-- database writes from the public site
-- file uploads handled by your server
-- private APIs that must stay hidden from the browser
+- scans `backups/raw/db/` for `.sql` and `.sql.gz` dumps
+- parses Joomla content, categories, users, menus, tags, and redirects when present
+- writes normalized Markdown content files with YAML front matter into `content/articles/`
+- writes machine-readable manifests and reports into `content/_meta/`
+- resolves referenced assets against `backups/raw/joomla-site/`, including Akeeba `.jpa` archives without unpacking them first
 
-## Practical migration shape
+The static preview builder lives at `scripts/build_static_site.py`.
 
-1. Export page content into Markdown, HTML, or structured data files.
-2. Keep images as static assets.
-3. Move table sorting/filtering to client-side JavaScript.
-4. Use a static site generator only if it improves maintainability.
-5. Deploy the built site to GitHub Pages with GitHub Actions.
+It assembles the current normalized content into `site/` by:
 
-## Repo layout
+- rendering published articles at their normalized legacy-style URLs
+- generating section index pages from the extracted Joomla categories
+- generating lightweight `/tags/*` pages from internal tag links
+- emitting redirect pages for legacy Joomla `.html` SEF URLs
+- copying extracted asset trees from `content/assets/source/` into the publish root
 
-- `site/` contains the published static site for the spike
-- `.github/workflows/deploy.yml` deploys `site/` to GitHub Pages
-- `migration-checklist.md` captures what to inspect on the existing live site
+## Run it
 
-## Next step
+```powershell
+python scripts/extract_joomla.py
+```
 
-Audit the live Python site page by page and classify each feature as one of:
+Optional overrides:
 
-- pure static content
-- static content with client-side enhancement
-- dynamic/server-only feature
+```powershell
+python scripts/extract_joomla.py --db-root backups/raw/db --joomla-root backups/raw/joomla-site --content-root content
+```
 
-If most pages land in the first two buckets, the port is likely worth doing.
+To also materialize resolved assets out of the Joomla backup or `.jpa` archive:
+
+```powershell
+python scripts/extract_joomla.py --extract-assets --assets-output-root content/assets/source
+```
+
+To unpack the full Joomla Akeeba archive into a derived workspace tree:
+
+```powershell
+python scripts/extract_joomla.py --extract-archive --archive-output-root backups/extracted/joomla-site
+```
+
+To assemble the current normalized content into the GitHub Pages output tree:
+
+```powershell
+python scripts/build_static_site.py
+```
+
+## Test it
+
+```powershell
+python -m unittest discover -s tests -p "test_*.py"
+```
+
+## Notes
+
+- Do not place a donor GitHub Pages site into `site/` yet.
+- Stage any candidate donor site later under `templates/reference-sites/<site-name>/`.
+- Template adoption should consume normalized content from `content/`, not raw Joomla schemas.
