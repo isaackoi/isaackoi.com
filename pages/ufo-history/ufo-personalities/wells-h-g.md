@@ -1,0 +1,166 @@
+---
+layout: "default"
+title: "Wells, H G"
+description: "H G Wells Brief comments to be added on this individual. H G Wells wrote the novel “ The War of the Worlds ” ( 1898 ) (available on Amazon USA and on Amazon UK )."
+permalink: "/ufo-history/ufo-personalities/wells-h-g/"
+display_title_short: "Wells, H G"
+nav_short_title: "Wells, H G"
+breadcrumb_links: [{"title": "UFO History", "permalink": "/ufo-history", "short_title": "UFO History"}, {"title": "UFO Personalities", "permalink": "/ufo-history/ufo-personalities", "short_title": "UFO Personalities"}]
+parent_permalink: "/ufo-history/ufo-personalities"
+parent_title: "UFO Personalities"
+sibling_links: [{"title": "Warrington, Peter", "permalink": "/ufo-history/ufo-personalities/warrington-peter", "short_title": "Warrington, Peter"}, {"title": "Watkins, Leslie", "permalink": "/ufo-history/ufo-personalities/watkins-leslie", "short_title": "Watkins, Leslie"}, {"title": "Watson, Nigel", "permalink": "/ufo-history/ufo-personalities/watson-nigel", "short_title": "Watson, Nigel"}, {"title": "Watts, Alan", "permalink": "/ufo-history/ufo-personalities/watts-alan", "short_title": "Watts, Alan"}, {"title": "Weaver, Richard L", "permalink": "/ufo-history/ufo-personalities/weaver-richard-l", "short_title": "Weaver, Richard L"}, {"title": "Webb, David", "permalink": "/ufo-history/ufo-personalities/webb-david", "short_title": "Webb, David"}, {"title": "Webre, Alfred Lambremont", "permalink": "/ufo-history/ufo-personalities/webre-alfred-lambremont", "short_title": "Webre, Alfred Lambremont"}, {"title": "Wessex Skeptics", "permalink": "/ufo-history/ufo-personalities/wessex-skeptics", "short_title": "Wessex Skeptics"}, {"title": "Wheaton, Glenn", "permalink": "/ufo-history/ufo-personalities/wheaton-glenn", "short_title": "Wheaton, Glenn"}, {"title": "Wheen, Francis", "permalink": "/ufo-history/ufo-personalities/wheen-francis", "short_title": "Wheen, Francis"}, {"title": "Whetnall, Paul", "permalink": "/ufo-history/ufo-personalities/whetnall-paul", "short_title": "Whetnall, Paul"}, {"title": "White, Michael", "permalink": "/ufo-history/ufo-personalities/white-michael", "short_title": "White, Michael"}, {"title": "Wilkins, Harold", "permalink": "/ufo-history/ufo-personalities/wilkins-harold", "short_title": "Wilkins, Harold"}]
+planned_sections: ["Web Resources", "Book References", "Other Material"]
+header: {"preview_image": "/images/stories/ufo_personalities/wells_h_g_1.jpg"}
+---
+
+![wells_h_g_1](/images/stories/ufo_personalities/wells_h_g_1.jpg)
+
+*H G Wells*
+
+Brief comments to be added on this individual.
+
+H G Wells wrote the novel “[The War of the Worlds](/ufo-history/ufo-books/wells-h-g-the-war-of-the-worlds)” ([1898](/tags/1898)) (available [on Amazon USA](http://www.amazon.com/dp/0553213385/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0553213385/ref=nosim?tag=ufot-21)).
+
+1. [Web Resources](#web)
+
+2. [Book References](#books)
+
+3. [Other material](#other)
+
+<a id="web"></a>
+### Web Resources
+
+There is a rapid turnover of UFO material on the Internet. Many links to material on UFO websites quickly become out of date. Therefore, instead of giving many links to specific webpages I have instead focused on providing tables of references to discussion of UFO incidents, personalities and other matters in various books. Those tables of references to discussion in books can be sorted by author, length and date. I hope these tools are useful.
+
+<a id="books"></a>
+### Book References
+
+The table below includes references to relevant discussions in UFO/SETI books noted by Isaac Koi during a review of approximately 963 UFO/SETI books during the period 2003-2006 (with a few later additions). The table can be sorted by author, date and length of discussion by clicking on the relevant word in the top line of the table.
+
+Many of the tables of references on this website are considerably longer than the references to books found on most other UFO websites. Indeed, some are probably the longest that have been collated in relation to some events and personalities. I hope that these tables are found to be a useful contribution to UFOlogy.
+
+For discussion of H G Wells see the following:
+
+<table border="1" cellpadding="0" cellspacing="0" class="sortable" data-sortable="true" id="sortabletable">
+<thead>
+<tr>
+<td valign="top" width="46">
+<p>Year</p>
+</td>
+<td valign="top" width="547">
+<p>Discussion by:</p>
+<p> </p>
+</td>
+<td valign="top" width="52">
+<p>No. of Pages</p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" width="46">
+<p><a href="/tags/1973">1973</a></p>
+</td>
+<td valign="top" width="547">
+<p>Aldiss, Brian in his “Billion Year Spree” (<a href="/tags/1973">1973</a>) (available <a href="http://www.amazon.com/dp/0805204504/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0805204504/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 113-133 (in Chapter 5 generally), 134-135 (in Chapter 6) of the Weidenfeld &amp; Nicolson hardback edition.</p>
+</td>
+<td valign="top" width="52">
+<p>23</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="46">
+<p><a href="/tags/1990">1990</a></p>
+</td>
+<td valign="top" width="547">
+<p><a href="/ufo-history/ufo-personalities/bracewell-ronald">Bracewell, Ronald</a> N in an interview in David W Swift’s “<a href="/ufo-history/ufo-books/swift-david-w-seti-pioneers-scientists-talk-about-their-search-for-extraterrestrial-intelligence">SETI Pioneers : Scientists Talk About Their Search for Extraterrestrial Intelligence</a>” (<a href="/tags/1990">1990</a>) (available <a href="http://www.amazon.com/dp/0816511195/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0816511195/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 141 (in the unnumbered chapter entitled “Ronald N Bracewell”) of the Arizona hardback edition.</p>
+</td>
+<td valign="top" width="52">
+<p>1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="46">
+<p><a href="/tags/2000">2000</a></p>
+</td>
+<td valign="top" width="547">
+<p><a href="/ufo-history/ufo-personalities/darling-david">Darling, David</a> in his “<a href="/ufo-history/ufo-books/darling-david-the-extraterrestrial-encyclopedia">The Extraterrestrial Encyclopedia</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/081293248X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/081293248X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 460-461 (in the entry entitled “Wells, Herbert George (1866-<a href="/tags/1946">1946</a>)”) of the Three Rivers softcover edition.</p>
+</td>
+<td valign="top" width="52">
+<p>2</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="46">
+<p><a href="/tags/2003">2003</a></p>
+</td>
+<td valign="top" width="547">
+<p><a href="/ufo-history/ufo-personalities/darling-david">Darling, David</a> in his online encyclopedia, “The Encyclopedia of Astrobiology, Astronomy and Spaceflight” (<a href="/tags/2003">2003</a>) in the entry entitled “Wells, Herbert George (1866-<a href="/tags/1946">1946</a>)”. The relevant entry is available online at:</p>
+<p><a href="http://www.daviddarling.info/encyclopedia/W/Wells.html">http://www.daviddarling.info/encyclopedia/W/Wells.html</a></p>
+</td>
+<td valign="top" width="52">
+<p>1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="46">
+<p><a href="/tags/1998">1998</a></p>
+</td>
+<td valign="top" width="547">
+<p><a href="/ufo-history/ufo-personalities/dick-steven-j">Dick, Steven J</a> in his “<a href="/ufo-history/ufo-books/dick-steven-j-life-on-other-worlds">Life on Other Worlds</a>“ (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0521620120/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521620120/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 107, 112-116, 117 (in Chapter 4) of the Cambridge hardback edition.</p>
+</td>
+<td valign="top" width="52">
+<p>7</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="46">
+<p><a href="/tags/1996">1996</a></p>
+</td>
+<td valign="top" width="547">
+<p><a href="/ufo-history/ufo-personalities/dick-steven-j">Dick, Steven J</a> in his “<a href="/ufo-history/ufo-books/dick-steven-j-the-biological-universe">The Biological Universe</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/0521343267/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521343267/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 224, 231-238 (in Chapter 5) of the Cambridge hardback edition.</p>
+</td>
+<td valign="top" width="52">
+<p>9</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="46">
+<p><a href="/tags/1990">1990</a></p>
+</td>
+<td valign="top" width="547">
+<p><a href="/ufo-history/ufo-personalities/dyson-freeman">Dyson, Freeman</a> in an interview in David W Swift’s “<a href="/ufo-history/ufo-books/swift-david-w-seti-pioneers-scientists-talk-about-their-search-for-extraterrestrial-intelligence">SETI Pioneers : Scientists Talk About Their Search for Extraterrestrial Intelligence</a>” (<a href="/tags/1990">1990</a>) (available <a href="http://www.amazon.com/dp/0816511195/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0816511195/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 323 (in the unnumbered chapter entitled “Freeman Dyson”) of the Arizona hardback edition.</p>
+</td>
+<td valign="top" width="52">
+<p>1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="46">
+<p><a href="/tags/1990">1990</a></p>
+</td>
+<td valign="top" width="547">
+<p><a href="/ufo-history/ufo-personalities/morrison-philip">Morrison, Philip</a> in an interview in David W Swift’s “<a href="/ufo-history/ufo-books/swift-david-w-seti-pioneers-scientists-talk-about-their-search-for-extraterrestrial-intelligence">SETI Pioneers : Scientists Talk About Their Search for Extraterrestrial Intelligence</a>” (<a href="/tags/1990">1990</a>) (available <a href="http://www.amazon.com/dp/0816511195/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0816511195/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 22 (in the unnumbered chapter entitled “<a href="/ufo-history/ufo-personalities/morrison-philip">Philip Morrison</a>”) of the Arizona hardback edition.</p>
+</td>
+<td valign="top" width="52">
+<p>1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="46">
+<p><a href="/tags/1994">1994</a></p>
+</td>
+<td valign="top" width="547">
+<p>Ritchie, David in his “<a href="/ufo-history/ufo-books/ritchie-david-ufo-the-definitive-guide">UFO : The Definitive Guide</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/1567312004/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1567312004/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 235 (in an entry entitled “Wells, H(erbert) G(eorge) (1866-<a href="/tags/1946">1946</a>)”) of the MJF hardback edition.</p>
+</td>
+<td valign="top" width="52">
+<p>1</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<a id="other"></a>
+### Other Material
+
+Please use the comments section below to share references to any particularly interesting relevant articles.

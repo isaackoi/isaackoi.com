@@ -1,0 +1,64 @@
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  {% if page.description %}
+  <meta name="description" content="{{ page.description | escape }}">
+  {% elsif site.description %}
+  <meta name="description" content="{{ site.description | escape }}">
+  {% endif %}
+  {% seo %}
+  <script>
+    (function () {
+      var root = document.documentElement;
+      if (!root) {
+        return;
+      }
+
+      var mode = String(root.getAttribute("data-appearance-color-default") || "automatic").trim().toLowerCase();
+      if (mode !== "automatic" && mode !== "light" && mode !== "dark") {
+        mode = "automatic";
+      }
+
+      try {
+        var storedMode = window.localStorage.getItem("phoenix-color-mode");
+        if (!storedMode) {
+          var legacyTheme = window.localStorage.getItem("phoenix-theme");
+          if (legacyTheme === "light" || legacyTheme === "dark") {
+            storedMode = legacyTheme;
+          }
+        }
+        if (storedMode) {
+          var normalizedStoredMode = String(storedMode).trim().toLowerCase();
+          if (normalizedStoredMode === "automatic" || normalizedStoredMode === "light" || normalizedStoredMode === "dark") {
+            mode = normalizedStoredMode;
+          }
+        }
+      } catch (err) {
+        // Ignore storage read failures.
+      }
+
+      var prefersDark = false;
+      try {
+        prefersDark = Boolean(window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches);
+      } catch (err) {
+        // Ignore matchMedia failures.
+      }
+
+      var resolvedTheme = mode === "automatic" ? (prefersDark ? "dark" : "light") : mode;
+      root.setAttribute("data-color-mode", mode);
+      root.setAttribute("data-theme", resolvedTheme === "dark" ? "dark" : "light");
+    })();
+  </script>
+
+  <link rel="icon" type="image/svg+xml" href="{{ '/favicon.svg' | relative_url }}">
+  <link rel="alternate icon" href="{{ '/favicon.svg' | relative_url }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@500;700&family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
+  <script src="{{ '/assets/js/theme-toggle.js' | relative_url }}?v={{ site.ui_bundle_version | default: '1' | uri_escape }}"></script>
+  <script src="{{ '/assets/js/page-enhancements.js' | relative_url }}?v={{ site.ui_bundle_version | default: '1' | uri_escape }}" defer></script>
+  <script src="{{ '/assets/js/table-sort.js' | relative_url }}?v={{ site.ui_bundle_version | default: '1' | uri_escape }}" defer></script>
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}?v={{ site.ui_bundle_version | default: '1' | uri_escape }}">
+
+</head>

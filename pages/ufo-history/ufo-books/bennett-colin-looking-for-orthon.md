@@ -1,0 +1,70 @@
+---
+layout: "default"
+title: "Bennett, Colin “Looking for Orthon”"
+description: "Brief review to be added of Colin Bennett 's book “ Looking for Orthon ” ( 2001 ) (available on Amazon USA and on Amazon UK )"
+permalink: "/ufo-history/ufo-books/bennett-colin-looking-for-orthon/"
+display_title_short: "Bennett, Colin “Looking for Orthon”"
+nav_short_title: "Bennett, Colin “Looking for Orthon”"
+breadcrumb_links: [{"title": "UFO History", "permalink": "/ufo-history", "short_title": "UFO History"}, {"title": "UFO Books", "permalink": "/ufo-history/ufo-books", "short_title": "UFO Books"}]
+parent_permalink: "/ufo-history/ufo-books"
+parent_title: "UFO Books"
+sibling_links: [{"title": "Bauval, Robert and Gilbert, Adrian “The Orion Mystery”", "permalink": "/ufo-history/ufo-books/bauval-robert-and-gilbert-adrian-the-orion-mystery", "short_title": "Bauval, Robert and Gilbert, Adrian “The O..."}, {"title": "Baxter, John and Aktins, Thomas “The Fire Came By”", "permalink": "/ufo-history/ufo-books/baxter-john-and-aktins-thomas-the-fire-came-by", "short_title": "Baxter, John and Aktins, Thomas “The Fire..."}, {"title": "Bear, Greg “The Forge of God”", "permalink": "/ufo-history/ufo-books/bear-greg-the-forge-of-god", "short_title": "Bear, Greg “The Forge of God”"}, {"title": "Bender, Albert K “Flying Saucers and the Three Men”", "permalink": "/ufo-history/ufo-books/bender-albert-k-flying-saucers-and-the-three-men", "short_title": "Bender, Albert K “Flying Saucers and the..."}, {"title": "Benford, Gregory “Great Sky River”", "permalink": "/ufo-history/ufo-books/benford-gregory-great-sky-river", "short_title": "Benford, Gregory “Great Sky River”"}, {"title": "Benjamin, Marina “Rocket Dreams”", "permalink": "/ufo-history/ufo-books/benjamin-marina-rocket-dreams", "short_title": "Benjamin, Marina “Rocket Dreams”"}, {"title": "Bennett, Colin “An American Demonology : Captain Edward J Ruppelt and the official UFO investigation of the United States Air Force”", "permalink": "/ufo-history/ufo-books/bennett-colin-an-american-demonology-captain-edward-j-ruppelt-and-the-official-ufo-investigation-of-the-united-states-air-force", "short_title": "Bennett, Colin “An American Demonology :..."}, {"title": "Bergier, Jacques “Extraterrestrial Visitations From Prehistoric Times to the Present”", "permalink": "/ufo-history/ufo-books/bergier-jacques-extraterrestrial-visitations-from-prehistoric-times-to-the-present", "short_title": "Bergier, Jacques “Extraterrestrial Visita..."}, {"title": "Bergmark, Janet “In The Presence Of Aliens”", "permalink": "/ufo-history/ufo-books/bergmark-janet-in-the-presence-of-aliens", "short_title": "Bergmark, Janet “In The Presence Of Aliens”"}, {"title": "Bergreen, Laurence “The Quest For Mars”", "permalink": "/ufo-history/ufo-books/bergreen-laurence-the-quest-for-mars", "short_title": "Bergreen, Laurence “The Quest For Mars”"}, {"title": "Berliner, Don with Galbraith, Marie and Huneeus, Antonio “UFO Briefing Document : The Best Available Evidence”", "permalink": "/ufo-history/ufo-books/berliner-don-with-galbraith-marie-and-huneeus-antonio-ufo-briefing-document-the-best-available-evidence", "short_title": "Berliner, Don with Galbraith, Marie and H..."}, {"title": "Berlitz, Charles and Moore, Bill “The Roswell Incident”", "permalink": "/ufo-history/ufo-books/berlitz-charles-and-moore-bill-the-roswell-incident", "short_title": "Berlitz, Charles and Moore, Bill “The Ros..."}, {"title": "Berlitz, Charles and Moore, William “The Philadelphia Experiment”", "permalink": "/ufo-history/ufo-books/berlitz-charles-and-moore-william-the-philadelphia-experiment", "short_title": "Berlitz, Charles and Moore, William “The..."}]
+planned_sections: ["Web Resources", "Book References", "Other Material"]
+header: {"preview_image": "/book-covers/1931044325.jpg"}
+book: {"identifiers": ["1931044325"], "primary_isbn": "1931044325", "cover_image": "/book-covers/1931044325.jpg", "cover_source": "local-cache"}
+---
+
+Brief review to be added of [Colin Bennett](/ufo-history/ufo-personalities/bennett-colin)'s book “[Looking for Orthon](/ufo-history/ufo-books/bennett-colin-looking-for-orthon)” ([2001](/tags/2001)) (available [on Amazon USA](http://www.amazon.com/dp/1931044325/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1931044325/?&tag=ufot-21))
+
+1. [Web Resources](#web)
+
+2. [Book References](#books)
+
+3. [Other material](#other)
+
+<a id="web"></a>
+### Web Resources
+
+There is a rapid turnover of UFO material on the Internet. Many links to material on UFO websites quickly become out of date. Therefore, instead of giving many links to specific webpages I have instead focused on providing tables of references to discussion of UFO incidents, personalities and other matters in various books. Those tables of references to discussion in books can be sorted by author, length and date. I hope these tools are useful.
+
+<a id="books"></a>
+### Book References
+
+The table below includes references to relevant discussions in UFO/SETI books noted by Isaac Koi during a review of approximately 963 UFO/SETI books during the period 2003-2006 (with a few later additions). The table can be sorted by author, date and length of discussion by clicking on the relevant word in the top line of the table.
+
+Many of the tables of references on this website are considerably longer than the references to books found on most other UFO websites. Indeed, some are probably the longest that have been collated in relation to some events and personalities. I hope that these tables are found to be a useful contribution to UFOlogy.
+
+<table border="1" cellpadding="0" cellspacing="0" class="sortable" data-sortable="true" id="sortabletable">
+<thead>
+<tr>
+<td valign="top" width="46">
+<p>Year</p>
+</td>
+<td valign="top" width="547">
+<p>Discussion by:</p>
+<p> </p>
+</td>
+<td valign="top" width="52">
+<p>No. of Pages</p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" width="46">
+<p><a href="/tags/2001">2001</a></p>
+</td>
+<td valign="top" width="547">
+<p><a href="/ufo-history/ufo-personalities/michell-john">Michell, John</a> in <a href="/ufo-history/ufo-personalities/bennett-colin">Colin Bennett</a>’s “<a href="/ufo-history/ufo-books/bennett-colin-looking-for-orthon">Looking for Orthon</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/1931044325/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1931044325/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 8-9 (in the Foreword) of the Paraview softcover edition.</p>
+</td>
+<td valign="top" width="52">
+<p>2</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<a id="other"></a>
+### Other Material
+
+Please use the comments section below to share references to any particularly interesting relevant articles.

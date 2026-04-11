@@ -1,0 +1,50 @@
+{% assign ui = page.ui_strings | default: site.ui_strings %}
+{% assign tree_level = include.level | default: 1 %}
+{% if include.items and include.items.size > 0 %}
+{% assign sidebar_items = include.items %}
+{% if tree_level == 1 and include.items.size == 1 %}
+{% assign single_root = include.items | first %}
+{% if single_root.children and single_root.children.size > 0 %}
+{% assign sidebar_items = single_root.children %}
+{% endif %}
+{% endif %}
+<nav class="sidebar-nav" aria-label="{{ ui.topic_tree_navigation | default: 'Topic tree navigation' | escape }}" data-sidebar-nav>
+  <ul class="sidebar-list" data-sidebar-level="{{ tree_level }}">
+    {% for item in sidebar_items %}
+    {% assign sidebar_full = item.title_full | default: item.title %}
+    {% assign has_children = false %}
+    {% if item.children %}
+    {% if item.children.size > 0 %}
+    {% assign has_children = true %}
+    {% endif %}
+    {% endif %}
+    <li class="sidebar-item{% if has_children %} has-children is-collapsed{% endif %}" data-sidebar-level="{{ tree_level }}">
+      {% if has_children %}
+      <button class="sidebar-toggle" type="button" data-sidebar-toggle aria-expanded="false" aria-label="{{ ui.expand_section | default: 'Expand section' | escape }}: {{ sidebar_full | escape }}" title="{{ ui.expand_section | default: 'Expand section' | escape }}">+</button>
+      {% endif %}
+      <a class="sidebar-link{% if page.url == item.url %} is-current{% endif %}" href="{{ item.url | relative_url }}" title="{{ sidebar_full | escape }}" aria-label="{{ ui.open_report | default: 'Open report' | escape }}: {{ sidebar_full | escape }}" data-sidebar-search="{{ item.title | downcase }} {{ sidebar_full | downcase }}">{{ item.title | default: item.title_full }}</a>
+      {% if has_children %}
+        {% assign next_level = tree_level | plus: 1 %}
+        <div class="sidebar-children" data-sidebar-children>
+          {% include sidebar.html items=item.children level=next_level %}
+        </div>
+      {% endif %}
+    </li>
+    {% endfor %}
+  </ul>
+</nav>
+{% if include.show_tools %}
+<div class="sidebar-tools" role="search" aria-label="{{ ui.search_this_branch | default: 'Search this branch' | escape }}">
+  <label class="sidebar-tools-label" for="sidebar-filter">{{ ui.search_this_branch | default: 'Search this branch' }}</label>
+  <div class="sidebar-filter-row">
+    <input id="sidebar-filter" class="sidebar-filter" type="search" placeholder="{{ ui.search_reports_in_this_branch | default: 'Search reports in this branch...' | escape }}" data-sidebar-filter>
+    <button class="sidebar-filter-clear sidebar-tree-btn" type="button" data-sidebar-filter-clear hidden>{{ ui.clear | default: 'Clear' }}</button>
+  </div>
+  <p class="sidebar-filter-status" data-sidebar-filter-status aria-live="polite"></p>
+</div>
+<div class="sidebar-tree-actions">
+  <button class="sidebar-tree-btn" type="button" data-sidebar-expand-all>{{ ui.expand_all | default: 'Expand all' }}</button>
+  <button class="sidebar-tree-btn" type="button" data-sidebar-collapse-all>{{ ui.collapse_all | default: 'Collapse all' }}</button>
+</div>
+{% endif %}
+{% endif %}

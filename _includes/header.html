@@ -1,0 +1,138 @@
+<header class="site-header">
+  {% assign ui = page.ui_strings | default: site.ui_strings %}
+  {% assign current_url = page.url | default: '' %}
+  {% assign is_home_page = current_url == '/' %}
+  <div class="container header-inner">
+    <div class="brand-block">
+      <a class="site-title" href="{{ '/' | relative_url }}">
+        <span class="brand-lockup">
+          <span class="brand-mark" aria-hidden="true">
+            <svg viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <g stroke="currentColor" stroke-width="4" stroke-linecap="square" stroke-linejoin="miter">
+                <path d="M64 20V34"/>
+                <path d="M64 34L44 50"/>
+                <path d="M64 34L84 50"/>
+                <path d="M44 50L28 66"/>
+                <path d="M44 50L52 66"/>
+                <path d="M84 50L76 66"/>
+                <path d="M84 50L100 66"/>
+              </g>
+              <rect x="60" y="66" width="8" height="24" fill="var(--accent)"/>
+              <path d="M64 90C50.8 82.8 27.9 82.8 15 90V105C29.4 98.6 50.3 98.6 64 105C77.7 98.6 98.6 98.6 113 105V90C100.1 82.8 77.2 82.8 64 90Z" fill="var(--accent)"/>
+              <rect x="62" y="93" width="4" height="8" fill="currentColor" opacity="0.2"/>
+              <path d="M64 10L74 20L64 30L54 20L64 10Z" fill="currentColor"/>
+              <path d="M44 42L52 50L44 58L36 50L44 42Z" fill="currentColor" opacity="0.88"/>
+              <path d="M84 42L92 50L84 58L76 50L84 42Z" fill="currentColor" opacity="0.88"/>
+              <path d="M28 60L33 65L28 70L23 65L28 60Z" fill="currentColor" opacity="0.54"/>
+              <path d="M52 60L57 65L52 70L47 65L52 60Z" fill="currentColor" opacity="0.54"/>
+              <path d="M76 60L81 65L76 70L71 65L76 60Z" fill="currentColor" opacity="0.54"/>
+              <path d="M100 60L105 65L100 70L95 65L100 60Z" fill="currentColor" opacity="0.54"/>
+            </svg>
+          </span>
+          <span class="brand-copy">
+            <span class="brand-name">{{ site.brand_name | default: 'Topic Canopy' }}</span>
+            <span class="site-title-full">{{ site.title | default: 'Research Topic Tree' }}</span>
+            <span class="site-title-short">{{ site.short_title | default: site.title | default: 'Research Topic Tree' }}</span>
+          </span>
+        </span>
+      </a>
+      <p class="site-tagline">{{ site.tagline | default: ui.follow_the_branches_from_overview_topics_to_focused_reports | default: 'Start with the overview, then move into topic pages and deeper pages' }}</p>
+    </div>
+    <nav class="site-nav" aria-label="{{ ui.primary_navigation | default: 'Primary' | escape }}">
+      {% unless is_home_page %}
+      <a class="nav-pill" href="{{ '/' | relative_url }}">{{ ui.home | default: 'Home' }}</a>
+      {% endunless %}
+      {% assign top_topics = site.data.navigation.sidebar_generated %}
+      {% if top_topics and top_topics.size > 0 %}
+      {% assign single_topic = top_topics | first %}
+      <details class="topics-menu">
+        <summary class="nav-pill nav-pill-button">{{ ui.topics | default: 'Topics' }}</summary>
+        <div class="topics-menu-panel">
+          <div class="topics-menu-list">
+            {% if top_topics.size == 1 %}
+            {% assign topic_full = single_topic.title_full | default: single_topic.title %}
+            <a class="topics-menu-link topics-menu-link-root" href="{{ single_topic.url | relative_url }}" title="{{ topic_full | escape }}" aria-label="{{ ui.open_topic | default: 'Open topic' | escape }}: {{ topic_full | escape }}">{{ ui.overview_prefix | default: 'Overview:' }} {{ single_topic.title | default: single_topic.title_full | escape }}</a>
+            {% for child in single_topic.children limit: 12 %}
+            {% assign child_full = child.title_full | default: child.title %}
+            <a class="topics-menu-link topics-menu-link-branch" href="{{ child.url | relative_url }}" title="{{ child_full | escape }}" aria-label="{{ ui.open_subtopic | default: 'Open subtopic' | escape }}: {{ child_full | escape }}">
+              <span class="topics-menu-link-title">{{ child.title | default: child.title_full | escape }}</span>
+              {% if child.children and child.children.size > 0 %}
+              <span class="topics-menu-group-count">{{ child.children.size }} {{ ui.children_label | default: 'pages' }}</span>
+              {% endif %}
+            </a>
+            {% endfor %}
+            {% if single_topic.children.size > 12 %}
+            <p class="topics-menu-more">+{{ single_topic.children.size | minus: 12 }} {{ ui.more_in_sidebar | default: 'more in sidebar' }}</p>
+            {% endif %}
+            {% else %}
+            {% for item in top_topics limit: 12 %}
+            {% assign topic_full = item.title_full | default: item.title %}
+            <a class="topics-menu-link topics-menu-link-branch" href="{{ item.url | relative_url }}" title="{{ topic_full | escape }}" aria-label="{{ ui.open_topic | default: 'Open topic' | escape }}: {{ topic_full | escape }}">
+              <span class="topics-menu-link-title">{{ item.title | default: item.title_full | escape }}</span>
+              {% if item.children and item.children.size > 0 %}
+              <span class="topics-menu-group-count">{{ item.children.size }} {{ ui.branches_label | default: 'branches' }}</span>
+              {% endif %}
+            </a>
+            {% endfor %}
+            {% if top_topics.size > 12 %}
+            <p class="topics-menu-more">+{{ top_topics.size | minus: 12 }} {{ ui.more_in_sidebar | default: 'more in sidebar' }}</p>
+            {% endif %}
+            {% endif %}
+            <a class="topics-menu-link topics-menu-link-browse" href="{{ '/' | relative_url }}#browse-reports">{{ ui.browse_reports | default: 'Browse reports' }}</a>
+          </div>
+        </div>
+      </details>
+      {% endif %}
+      <button class="theme-toggle" type="button" data-theme-toggle aria-label="{{ ui.switch_theme | default: 'Switch theme' | escape }}" title="{{ ui.switch_theme | default: 'Switch theme' | escape }}">
+        <svg class="icon icon-sun" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+          <circle cx="12" cy="12" r="4"></circle>
+          <line x1="12" y1="2.5" x2="12" y2="5.5"></line>
+          <line x1="12" y1="18.5" x2="12" y2="21.5"></line>
+          <line x1="2.5" y1="12" x2="5.5" y2="12"></line>
+          <line x1="18.5" y1="12" x2="21.5" y2="12"></line>
+          <line x1="5.3" y1="5.3" x2="7.4" y2="7.4"></line>
+          <line x1="16.6" y1="16.6" x2="18.7" y2="18.7"></line>
+          <line x1="5.3" y1="18.7" x2="7.4" y2="16.6"></line>
+          <line x1="16.6" y1="7.4" x2="18.7" y2="5.3"></line>
+        </svg>
+        <svg class="icon icon-moon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+          <path d="M14.5 3a8.8 8.8 0 1 0 6.5 14.7 9.2 9.2 0 0 1-6.5-14.7z"></path>
+        </svg>
+      </button>
+      <div class="sidebar-dock sidebar-dock-left" data-sidebar-dock="left" hidden>
+        <button class="sidebar-dock-toggle" type="button" data-sidebar-dock-toggle="left" aria-expanded="false" aria-label="{{ ui.restore_page_outline | default: 'Restore page outline' | escape }}" title="{{ ui.restore_page_outline | default: 'Restore page outline' | escape }}">
+          <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+            <line x1="4" y1="6" x2="20" y2="6"></line>
+            <circle cx="9" cy="6" r="1.8"></circle>
+            <line x1="4" y1="12" x2="20" y2="12"></line>
+            <circle cx="15" cy="12" r="1.8"></circle>
+            <line x1="4" y1="18" x2="20" y2="18"></line>
+            <circle cx="11" cy="18" r="1.8"></circle>
+          </svg>
+        </button>
+        <div class="sidebar-dock-menu" data-sidebar-dock-menu="left" hidden>
+          <p class="sidebar-dock-title">{{ ui.page_outline | default: 'Page outline' }}</p>
+          <button class="sidebar-dock-action" type="button" data-sidebar-restore="left">{{ ui.restore_page_outline | default: 'Restore page outline' }}</button>
+        </div>
+        <div class="sidebar-dock-toast" data-sidebar-dock-toast="left" hidden>{{ ui.page_outline_moved_here | default: 'The page outline has moved here.' }}</div>
+      </div>
+      <div class="sidebar-dock sidebar-dock-right" data-sidebar-dock="right" hidden>
+        <button class="sidebar-dock-toggle" type="button" data-sidebar-dock-toggle="right" aria-expanded="false" aria-label="{{ ui.restore_contents | default: 'Restore contents' | escape }}" title="{{ ui.restore_contents | default: 'Restore contents' | escape }}">
+          <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+            <line x1="6.5" y1="6.2" x2="19.5" y2="6.2"></line>
+            <line x1="6.5" y1="12" x2="19.5" y2="12"></line>
+            <line x1="6.5" y1="17.8" x2="19.5" y2="17.8"></line>
+            <circle cx="3.4" cy="6.2" r="1"></circle>
+            <circle cx="3.4" cy="12" r="1"></circle>
+            <circle cx="3.4" cy="17.8" r="1"></circle>
+          </svg>
+        </button>
+        <div class="sidebar-dock-menu" data-sidebar-dock-menu="right" hidden>
+          <p class="sidebar-dock-title">{{ ui.website_contents | default: 'Site contents' }}</p>
+          <button class="sidebar-dock-action" type="button" data-sidebar-restore="right">{{ ui.restore_contents | default: 'Restore contents' }}</button>
+        </div>
+        <div class="sidebar-dock-toast" data-sidebar-dock-toast="right" hidden>{{ ui.contents_panel_moved_here | default: 'The contents panel has moved here.' }}</div>
+      </div>
+    </nav>
+  </div>
+</header>

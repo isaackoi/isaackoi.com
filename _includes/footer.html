@@ -1,0 +1,40 @@
+{% assign ui = page.ui_strings | default: site.ui_strings %}
+{% assign footer_nav = site.data.navigation.footer_primary | default: empty %}
+{% assign top_sections = site.data.navigation.top_sections | default: empty %}
+<footer class="site-footer">
+  <div class="container footer-inner">
+    <div class="footer-grid">
+      <section class="footer-brand" aria-label="{{ ui.site_summary | default: 'Site summary' | escape }}">
+        <p class="footer-kicker">{{ ui.topic_guide | default: 'Archive guide' }}</p>
+        <p class="footer-title">{{ site.title | default: 'Isaac Koi Archive' }}</p>
+        <p class="footer-note">{{ site.tagline | default: ui.follow_the_branches_from_overview_topics_to_focused_reports | default: 'Start with the overview, then move into sections and deeper pages.' }}</p>
+      </section>
+      <nav class="footer-group" aria-label="{{ ui.footer_navigation | default: 'Footer navigation' | escape }}">
+        <p class="footer-heading">{{ ui.navigate | default: 'Navigate' }}</p>
+        <div class="footer-links">
+          {% for item in footer_nav %}
+          <a class="footer-link" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+          {% endfor %}
+          <button class="footer-link footer-link-button" type="button" data-footer-back-to-top>{{ ui.back_to_top | default: 'Back to top' }}</button>
+        </div>
+      </nav>
+      <section class="footer-group" aria-label="{{ ui.main_topic | default: 'Main section' | escape }}">
+        <p class="footer-heading">{{ ui.main_topic | default: 'Main section' }}</p>
+        <p class="footer-copy">{{ ui.footer_main_topic_intro | default: 'Start with the main overview, then explore the related pages.' }}</p>
+        <div class="footer-links">
+          {% for item in top_sections limit: 6 %}
+          <a class="footer-link" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+          {% endfor %}
+        </div>
+      </section>
+      <section class="footer-group" aria-label="{{ ui.how_to_use_this_site | default: 'How to use this site' | escape }}">
+        <p class="footer-heading">{{ ui.use_this_site | default: 'Use this site' }}</p>
+        <p class="footer-copy">{{ ui.footer_use_this_site_copy | default: 'Start on the homepage, then move into sections and article pages.' }}</p>
+      </section>
+    </div>
+    <div class="footer-meta">
+      <p>&copy; 2026 {{ site.brand_name | default: 'Isaac Koi' }}{% if site.brand_domain %} &middot; {{ site.brand_domain }}{% endif %}</p>
+      <p>{{ ui.built_for_long_form_topic_maps_and_report_collections | default: 'Built for long-form topic maps and article collections.' }}</p>
+    </div>
+  </div>
+</footer>
