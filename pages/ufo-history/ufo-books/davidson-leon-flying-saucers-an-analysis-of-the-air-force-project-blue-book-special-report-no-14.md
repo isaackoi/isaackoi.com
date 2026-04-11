@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0780800974.jpg"}
 book: {"identifiers": ["0780800974", "1573929913", "B000WVA1LA"], "primary_isbn": "0780800974", "cover_image": "/book-covers/0780800974.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Leon Davidson](/ufo-history/ufo-personalities/davidson-leon)'s book “[Flying Saucers: An Analysis of the Air Force Project Blue Book Special Report No. 14](/ufo-history/ufo-books/davidson-leon-flying-saucers-an-analysis-of-the-air-force-project-blue-book-special-report-no-14)”.
+Brief review to be added of [Leon Davidson]({{ '/ufo-history/ufo-personalities/davidson-leon' | relative_url }})'s book “[Flying Saucers: An Analysis of the Air Force Project Blue Book Special Report No. 14]({{ '/ufo-history/ufo-books/davidson-leon-flying-saucers-an-analysis-of-the-air-force-project-blue-book-special-report-no-14' | relative_url }})”.
 
 See also the references provided on this website in relation to Project Blue Book Special Report No. 14 itself.
 
@@ -56,10 +56,10 @@ Many of the tables of references on this website are considerably longer than th
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) in Volume 2:L-Z at page 743 (forming part of the entry entitled “Project Blue Book Special Report No. 14” at pages 742-745) of the Omnigraphics hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition' | relative_url }}">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) in Volume 2:L-Z at page 743 (forming part of the entry entitled “Project Blue Book Special Report No. 14” at pages 742-745) of the Omnigraphics hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -67,10 +67,10 @@ Many of the tables of references on this website are considerably longer than th
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2002">2002</a></p>
+<p><a href="{{ '/tags/2002' | relative_url }}">2002</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/moseley-james">Moseley, James</a> and <a href="/ufo-history/ufo-personalities/pflock-karl-t">Pflock, Karl</a> in their “<a href="/ufo-history/ufo-books/moseley-james-and-pflock-karl-shockingly-close-to-the-truth">Shockingly Close to the Truth!</a>” (<a href="/tags/2002">2002</a>) (available <a href="http://www.amazon.com/dp/1573929913/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573929913/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 116-117 (in Chapter 5) of the Prometheus hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/moseley-james' | relative_url }}">Moseley, James</a> and <a href="{{ '/ufo-history/ufo-personalities/pflock-karl-t' | relative_url }}">Pflock, Karl</a> in their “<a href="{{ '/ufo-history/ufo-books/moseley-james-and-pflock-karl-shockingly-close-to-the-truth' | relative_url }}">Shockingly Close to the Truth!</a>” (<a href="{{ '/tags/2002' | relative_url }}">2002</a>) (available <a href="http://www.amazon.com/dp/1573929913/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573929913/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 116-117 (in Chapter 5) of the Prometheus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

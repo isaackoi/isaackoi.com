@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/evans_hilary_4.jpg"}
 ---
 
-![evans_hilary_4](/images/stories/ufo_personalities/evans_hilary_4.jpg)
+![evans_hilary_4]({{ '/images/stories/ufo_personalities/evans_hilary_4.jpg' | relative_url }})
 
 *Hilary Evans*
 
@@ -36,66 +36,66 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1983">1983</a></p>
+<p><a href="{{ '/tags/1983' | relative_url }}">1983</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/evans-hilary">Evans, Hilary</a> “<a href="/ufo-history/ufo-books/evans-hilary-the-evidence-for-ufos">The Evidence for UFOs</a>” (<a href="/tags/1983">1983</a>) (available <a href="http://www.amazon.com/dp/0850303508/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0850303508/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }}">Evans, Hilary</a> “<a href="{{ '/ufo-history/ufo-books/evans-hilary-the-evidence-for-ufos' | relative_url }}">The Evidence for UFOs</a>” (<a href="{{ '/tags/1983' | relative_url }}">1983</a>) (available <a href="http://www.amazon.com/dp/0850303508/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0850303508/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1984">1984</a></p>
+<p><a href="{{ '/tags/1984' | relative_url }}">1984</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/evans-hilary">Evans, Hilary</a> “<a href="/ufo-history/ufo-books/evans-hilary-visions-apparitions-alien-visitors">Visions, Apparitions, Alien Visitors</a>” (<a href="/tags/1984">1984</a>) (available <a href="http://www.amazon.com/dp/0850304148/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0850304148/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }}">Evans, Hilary</a> “<a href="{{ '/ufo-history/ufo-books/evans-hilary-visions-apparitions-alien-visitors' | relative_url }}">Visions, Apparitions, Alien Visitors</a>” (<a href="{{ '/tags/1984' | relative_url }}">1984</a>) (available <a href="http://www.amazon.com/dp/0850304148/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0850304148/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1987">1987</a></p>
+<p><a href="{{ '/tags/1987' | relative_url }}">1987</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/evans-hilary">Evans, Hilary</a> “<a href="/ufo-history/ufo-books/evans-hilary-gods-spirits-cosmic-guardians">Gods, Spirits, Cosmic Guardians</a>” (<a href="/tags/1987">1987</a>) (available <a href="http://www.amazon.com/dp/0850305977/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0850305977/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }}">Evans, Hilary</a> “<a href="{{ '/ufo-history/ufo-books/evans-hilary-gods-spirits-cosmic-guardians' | relative_url }}">Gods, Spirits, Cosmic Guardians</a>” (<a href="{{ '/tags/1987' | relative_url }}">1987</a>) (available <a href="http://www.amazon.com/dp/0850305977/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0850305977/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1987">1987</a></p>
+<p><a href="{{ '/tags/1987' | relative_url }}">1987</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/evans-hilary">Evans, Hilary</a> and <a href="/ufo-history/ufo-personalities/spencer-john">Spencer, John</a> “<a href="/ufo-history/ufo-books/evans-hilary-and-spencer-john-ufo-1947-1987">UFO: 1947-1987</a>” (<a href="/tags/1987">1987</a>) (available <a href="http://www.amazon.com/dp/1870021029/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1870021029/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }}">Evans, Hilary</a> and <a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">Spencer, John</a> “<a href="{{ '/ufo-history/ufo-books/evans-hilary-and-spencer-john-ufo-1947-1987' | relative_url }}">UFO: 1947-1987</a>” (<a href="{{ '/tags/1987' | relative_url }}">1987</a>) (available <a href="http://www.amazon.com/dp/1870021029/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1870021029/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1988">1988</a></p>
+<p><a href="{{ '/tags/1988' | relative_url }}">1988</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/spencer-john">Spencer, John</a> and <a href="/ufo-history/ufo-personalities/evans-hilary">Evans, Hilary</a> “<a href="/ufo-history/ufo-books/spencer-john-and-evans-hilary-phenomenon">Phenomenon</a>” (<a href="/tags/1988">1988</a>) (available <a href="http://www.amazon.com/dp/0380706547/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380706547/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">Spencer, John</a> and <a href="{{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }}">Evans, Hilary</a> “<a href="{{ '/ufo-history/ufo-books/spencer-john-and-evans-hilary-phenomenon' | relative_url }}">Phenomenon</a>” (<a href="{{ '/tags/1988' | relative_url }}">1988</a>) (available <a href="http://www.amazon.com/dp/0380706547/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380706547/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1989">1989</a></p>
+<p><a href="{{ '/tags/1989' | relative_url }}">1989</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/evans-hilary">Evans, Hilary</a> (Editor) “<a href="/ufo-history/ufo-books/evans-hilary-frontiers-of-reality">Frontiers of Reality</a>” (<a href="/tags/1989">1989</a>) (available <a href="http://www.amazon.com/dp/0850308097/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0850308097/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }}">Evans, Hilary</a> (Editor) “<a href="{{ '/ufo-history/ufo-books/evans-hilary-frontiers-of-reality' | relative_url }}">Frontiers of Reality</a>” (<a href="{{ '/tags/1989' | relative_url }}">1989</a>) (available <a href="http://www.amazon.com/dp/0850308097/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0850308097/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/evans-hilary">Evans, Hilary</a> and <a href="/ufo-history/ufo-personalities/stacy-dennis">Stacy, Dennis</a> “<a href="/ufo-history/ufo-books/evans-hilary-and-stacy-dennis-ufo-1947-1997">UFO: 1947-1997</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1870870999/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1870870999/?&amp;tag=ufot-21">on Amazon UK</a>) (edited by <a href="/ufo-history/ufo-personalities/evans-hilary">Hilary Evans</a> and <a href="/ufo-history/ufo-personalities/stacy-dennis">Dennis Stacy</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }}">Evans, Hilary</a> and <a href="{{ '/ufo-history/ufo-personalities/stacy-dennis' | relative_url }}">Stacy, Dennis</a> “<a href="{{ '/ufo-history/ufo-books/evans-hilary-and-stacy-dennis-ufo-1947-1997' | relative_url }}">UFO: 1947-1997</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1870870999/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1870870999/?&amp;tag=ufot-21">on Amazon UK</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }}">Hilary Evans</a> and <a href="{{ '/ufo-history/ufo-personalities/stacy-dennis' | relative_url }}">Dennis Stacy</a>)</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/evans-hilary">Evans, Hilary</a> “<a href="/ufo-history/ufo-books/evans-hilary-from-other-worlds">From Other Worlds</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0762101083/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0762101083/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }}">Evans, Hilary</a> “<a href="{{ '/ufo-history/ufo-books/evans-hilary-from-other-worlds' | relative_url }}">From Other Worlds</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0762101083/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0762101083/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>

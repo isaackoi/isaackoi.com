@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/nasa_1.jpg"}
 ---
 
-![nasa_1](/images/stories/ufo_tags/nasa_1.jpg)
+![nasa_1]({{ '/images/stories/ufo_tags/nasa_1.jpg' | relative_url }})
 
 *NASA ET bibliography*
 
@@ -63,10 +63,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p>Smith, Angela Thompson in her “Diary Of An Abduction” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/1571742018/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1571742018/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 272 (in Chapter 15) of the Hampton Roads softcover edition.</p>
+<p>Smith, Angela Thompson in her “Diary Of An Abduction” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/1571742018/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1571742018/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 272 (in Chapter 15) of the Hampton Roads softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -78,6 +78,6 @@ For discussion see the following:
 <a id="other"></a>
 ### Other Material
 
-[NASA](/ufo-history/ufo-personalities/nasa) Publication SP-7015, “Extraterrestrial Life: A Bibliography. Part II: Published Literature”
+[NASA]({{ '/ufo-history/ufo-personalities/nasa' | relative_url }}) Publication SP-7015, “Extraterrestrial Life: A Bibliography. Part II: Published Literature”
 
 Please use the comments section below to share references to any particularly interesting relevant articles.

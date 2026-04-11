@@ -42,9 +42,9 @@ This video appears to show a huge creature with extremely long legs climbing an 
 
 Screen shots from this video are included below for ease of identification.
 
-![](/images/stories/ufo_videos/video100_1.JPG)
+![]({{ '/images/stories/ufo_videos/video100_1.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video100_2.JPG)
+![]({{ '/images/stories/ufo_videos/video100_2.JPG' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this video
@@ -62,11 +62,11 @@ The video of a creature climbing an apartment wall uploaded to Youtube by DimanO
 
 (1) [https://vk.com/diman_kataev](https://vk.com/diman_kataev): This is a webpage on a social media webpage relating to Dmitry Kataev. "DimanOperator" appears to be his username on Youtube.
 
-![](/images/stories/ufo_videos/video100_3.JPG)
+![]({{ '/images/stories/ufo_videos/video100_3.JPG' | relative_url }})
 
 (2) [http://www.studio-max.ru](http://www.studio-max.ru): Studio Max is an advertising company. Its website gives details of animations and 3D graphics it has created.
 
-![](/images/stories/ufo_videos/video100_4.JPG)
+![]({{ '/images/stories/ufo_videos/video100_4.JPG' | relative_url }})
 
 (3) [http://www.youtube.com/user/stdmaxprod](http://www.youtube.com/user/stdmaxprod): This is the Youtube channel for the Studio Max advertising company.
 
@@ -78,13 +78,13 @@ Dmitry Kataev has uploaded several other entertaining high-quality videos of hug
 
 Posts by Dmitry Kataev in relation to his "monster" videos on Youtube acknowledge that he created them using computer image software (specifically After Effects, Boujou and Lightwave).
 
-![](/images/stories/ufo_videos/video100_5.JPG)
+![]({{ '/images/stories/ufo_videos/video100_5.JPG' | relative_url }})
 
 Dmitry Kataev was interviewed by the Daily Star newspaper in England about his creation of the video of a creature climbing an apartment wall. A [relevant article by the Daily Star](http://www.dailystar.co.uk/news/latest-news/393350/Russian-climbing-monster-terrifies-YouTube-users-weirdest-stories) reported that "the monster is actually the creation of a bored Russian graphic designer who was unable to sleep". The article reported that Dmitry Kataev stated:
 
 "I woke up early and couldn't sleep, and was looking out the window when it was all still and quiet and I thought to myself that if a huge monster would start wandering around, it was the perfect time as nobody would notice. As I couldn't sleep, I decided to create a monster anyway and uploaded it online. It was really easy, I based the monster on a stick insect with a few modifications, and after that it all went crazy."
 
-![](/images/stories/ufo_videos/video100_6.JPG)
+![]({{ '/images/stories/ufo_videos/video100_6.JPG' | relative_url }})
 
 Dmitry Kataev appears to be very talented. I have seen FAR worse special effects in movies broadcast on the Sci-Fi Channel!
 
@@ -95,4 +95,4 @@ Relevant discussions on the AboveTopSecret.com forum include the following:
 
 2014 (October) discussion entitled "[Giant Spider Creature (Alien?) Filmed in Russia Climbing Building](http://www.abovetopsecret.com/forum/thread1035982/pg1)"
 
-![](/images/stories/ufo_videos/video100_2d.jpg)
+![]({{ '/images/stories/ufo_videos/video100_2d.jpg' | relative_url }})

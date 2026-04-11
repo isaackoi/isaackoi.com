@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0446357154.jpg"}
 book: {"identifiers": ["0446357154"], "primary_isbn": "0446357154", "cover_image": "/book-covers/0446357154.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Kevin Randle](/ufo-history/ufo-personalities/randle-kevin)'s book “[The UFO Casebook](/ufo-history/ufo-books/randle-kevin-d-the-ufo-casebook)” ([1989](/tags/1989)) (available [on Amazon USA](http://www.amazon.com/dp/0446357154/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0446357154/?&tag=ufot-21))
+Brief review to be added of [Kevin Randle]({{ '/ufo-history/ufo-personalities/randle-kevin' | relative_url }})'s book “[The UFO Casebook]({{ '/ufo-history/ufo-books/randle-kevin-d-the-ufo-casebook' | relative_url }})” ([1989]({{ '/tags/1989' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0446357154/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0446357154/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

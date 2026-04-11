@@ -40,11 +40,11 @@ This video is black and white footage appearing to show an alien on a stretcher 
 
 Screen shots from the video are included below for ease of identification:
 
-![](/images/stories/ufo_videos/video041_1.JPG)
+![]({{ '/images/stories/ufo_videos/video041_1.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video041_2.JPG)
+![]({{ '/images/stories/ufo_videos/video041_2.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video041_3.JPG)
+![]({{ '/images/stories/ufo_videos/video041_3.JPG' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this video
@@ -58,13 +58,13 @@ In fact, this footage was filmed by the producers of the movie "Alien Autopsy" -
 
 The relevant footage appeared at the end of the movie.
 
-![](/images/stories/ufo_videos/video041_4.JPG)
+![]({{ '/images/stories/ufo_videos/video041_4.JPG' | relative_url }})
 
 [https://www.youtube.com/watch?v=m6ZeOnu5nec](https://www.youtube.com/watch?v=m6ZeOnu5nec)
 
 The "Alien Autopsy" (2006) comedy was produced with the assistance of Ray Santilli (the chap behind the original "alien autopsy" footage) and he appeared in the movie itself - as shown by [the relevant entries in the IMDB movie database](http://imdb.com/title/tt0466664/fullcredits#cast).
 
-![](/images/stories/ufo_videos/video041_5.JPG)
+![]({{ '/images/stories/ufo_videos/video041_5.JPG' | relative_url }})
 
 Ray Santilli has stated (in the documentary "Eamonn Investigates") that the movie tells the true story behind the original infamous "alien autopsy" footage released by Ray Santilli in 1995, i.e. that the alien autopsy footage he released in 1995 was not original footatge, although Santilli insisted in the "Eamoon Investigates" documentary - with a BIG grin on his face - that the infamous "alien autopsy" footage was a "reconstruction", not a "hoax".
 
@@ -80,7 +80,7 @@ Notably, British researcher Philip Mantle contacted an executive of the company 
 
 The artist that created the dummies for the original 1995 footage and the 2006 movie (i.e. [John Humphreys](http://www.john-humphreys.co.uk/gallery/alien_autopsy)) also confirmed to Philip Mantle that that he["made the alien and performed the effects for the black and white sequence in the Ant and Dec film"](http://www.openminds.tv/alien-autopsy-end-game-answering-the-final-question-concerning-the-alien-autopsy-movie/1337).
 
-![](/images/stories/ufo_videos/video041_7.JPG)
+![]({{ '/images/stories/ufo_videos/video041_7.JPG' | relative_url }})
 
 It was interesting to see various webpages claim that the source of the "new" footage is unknown. This sort of claim is pretty common in relation to hoaxed footage.
 
@@ -111,4 +111,4 @@ Relevant discussions on the AboveTopSecret.com forum include the following:
 
 2014 (October) discussion entitled "[MUST SEE! Smoking Gun Found In Roswell Video](http://www.abovetopsecret.com/forum/thread1035514/pg1)"
 
-![](/images/stories/ufo_videos/video041_2d.jpg)
+![]({{ '/images/stories/ufo_videos/video041_2d.jpg' | relative_url }})

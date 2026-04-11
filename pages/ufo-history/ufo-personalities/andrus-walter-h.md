@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/andrus_walt_1.jpg"}
 ---
 
-![andrus_walt_1](/images/stories/ufo_personalities/andrus_walt_1.jpg)
+![andrus_walt_1]({{ '/images/stories/ufo_personalities/andrus_walt_1.jpg' | relative_url }})
 
 *Walt Andrus*
 
@@ -59,10 +59,10 @@ For discussion of Walt Andrus see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2004">2004</a></p>
+<p><a href="{{ '/tags/2004' | relative_url }}">2004</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/birnes-william">Birnes, William</a> in his “<a href="/ufo-history/ufo-books/birnes-william-the-ufo-magazine-ufo-encyclopedia">The UFO Magazine UFO Encyclopedia</a>” (<a href="/tags/2004">2004</a>) (available <a href="http://www.amazon.com/dp/0743466748/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743466748/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 19-20 (in an entry entitled “<a href="/ufo-history/ufo-personalities/andrus-walter-h">Andrus, Walt</a>”) of the Pocket Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/birnes-william' | relative_url }}">Birnes, William</a> in his “<a href="{{ '/ufo-history/ufo-books/birnes-william-the-ufo-magazine-ufo-encyclopedia' | relative_url }}">The UFO Magazine UFO Encyclopedia</a>” (<a href="{{ '/tags/2004' | relative_url }}">2004</a>) (available <a href="http://www.amazon.com/dp/0743466748/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743466748/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 19-20 (in an entry entitled “<a href="{{ '/ufo-history/ufo-personalities/andrus-walter-h' | relative_url }}">Andrus, Walt</a>”) of the Pocket Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -70,10 +70,10 @@ For discussion of Walt Andrus see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1988">1988</a></p>
+<p><a href="{{ '/tags/1988' | relative_url }}">1988</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/boyd-robert-d">Boyd, Robert D</a> in his “International Who’s Who in Ufology Directory” (<a href="/tags/1988">1988</a>) at pages 39-40 of the PMT Publishing softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/boyd-robert-d' | relative_url }}">Boyd, Robert D</a> in his “International Who’s Who in Ufology Directory” (<a href="{{ '/tags/1988' | relative_url }}">1988</a>) at pages 39-40 of the PMT Publishing softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -81,10 +81,10 @@ For discussion of Walt Andrus see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq">The UFO Encyclopedia: 1st edition</a>: Volume 1 – UFOs in the <a href="/tags/1980">1980</a>s” (<a href="/tags/1990">1990</a>) (available <a href="http://www.amazon.com/dp/1558883010/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558883010/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 16-17 (in an entry entitled “<a href="/ufo-history/ufo-personalities/andrus-walter-h">Andrus, Walter H</a>arrison Jr.”) of the Apogee hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq' | relative_url }}">The UFO Encyclopedia: 1st edition</a>: Volume 1 – UFOs in the <a href="{{ '/tags/1980' | relative_url }}">1980</a>s” (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) (available <a href="http://www.amazon.com/dp/1558883010/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558883010/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 16-17 (in an entry entitled “<a href="{{ '/ufo-history/ufo-personalities/andrus-walter-h' | relative_url }}">Andrus, Walter H</a>arrison Jr.”) of the Apogee hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -92,10 +92,10 @@ For discussion of Walt Andrus see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 95 (in an entry entitled “<a href="/ufo-history/ufo-personalities/andrus-walter-h">Andrus, Walter H</a>arrison Jr (1920- )”) of Volume 1:A-K of the Omnigraphics hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition' | relative_url }}">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 95 (in an entry entitled “<a href="{{ '/ufo-history/ufo-personalities/andrus-walter-h' | relative_url }}">Andrus, Walter H</a>arrison Jr (1920- )”) of Volume 1:A-K of the Omnigraphics hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -103,10 +103,10 @@ For discussion of Walt Andrus see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/emmons-charles-f">Emmons, Charles F</a> in his “<a href="/ufo-history/ufo-books/emmons-charles-f-at-the-threshold-ufos-science-and-the-new-age">At The Threshold: UFOs, Science and the New Age</a>” (available <a href="http://www.amazon.com/dp/0926524429/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0926524429/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 58 (in Chapter 4), 223-224 (in the Appendix, entitled “Ufologist Case Studies / Biographies) of the Wild Flower Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/emmons-charles-f' | relative_url }}">Emmons, Charles F</a> in his “<a href="{{ '/ufo-history/ufo-books/emmons-charles-f-at-the-threshold-ufos-science-and-the-new-age' | relative_url }}">At The Threshold: UFOs, Science and the New Age</a>” (available <a href="http://www.amazon.com/dp/0926524429/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0926524429/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 58 (in Chapter 4), 223-224 (in the Appendix, entitled “Ufologist Case Studies / Biographies) of the Wild Flower Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -114,10 +114,10 @@ For discussion of Walt Andrus see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2002">2002</a></p>
+<p><a href="{{ '/tags/2002' | relative_url }}">2002</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/moseley-james">Moseley, James</a> and <a href="/ufo-history/ufo-personalities/pflock-karl-t">Pflock, Karl</a> in their “<a href="/ufo-history/ufo-books/moseley-james-and-pflock-karl-shockingly-close-to-the-truth">Shockingly Close to the Truth!</a>” (<a href="/tags/2002">2002</a>) (available <a href="http://www.amazon.com/dp/1573929913/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573929913/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 225 (in Chapter 10) of the Prometheus hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/moseley-james' | relative_url }}">Moseley, James</a> and <a href="{{ '/ufo-history/ufo-personalities/pflock-karl-t' | relative_url }}">Pflock, Karl</a> in their “<a href="{{ '/ufo-history/ufo-books/moseley-james-and-pflock-karl-shockingly-close-to-the-truth' | relative_url }}">Shockingly Close to the Truth!</a>” (<a href="{{ '/tags/2002' | relative_url }}">2002</a>) (available <a href="http://www.amazon.com/dp/1573929913/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573929913/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 225 (in Chapter 10) of the Prometheus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -128,7 +128,7 @@ For discussion of Walt Andrus see the following:
 <p> </p>
 </td>
 <td valign="top" width="547">
-<p>Ridge, Francis in his online “International Who’s Who in Ufology” (<a href="/tags/2004">2004</a>) at <a href="http://www.nicap.org/bios/wandrus.htm">http://www.nicap.org/bios/wandrus.htm</a></p>
+<p>Ridge, Francis in his online “International Who’s Who in Ufology” (<a href="{{ '/tags/2004' | relative_url }}">2004</a>) at <a href="http://www.nicap.org/bios/wandrus.htm">http://www.nicap.org/bios/wandrus.htm</a></p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -136,10 +136,10 @@ For discussion of Walt Andrus see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sachs-margaret">Sachs, Margaret</a> in her “<a href="/ufo-history/ufo-books/sachs-margaret-the-ufo-encyclopedia">The UFO Encyclopedia</a>“ (<a href="/tags/1980">1980</a> (available <a href="http://www.amazon.com/dp/0399124217/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0399124217/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 15 (in an entry entitled “<a href="/ufo-history/ufo-personalities/andrus-walter-h">Andrus, Walter H</a>, Jr.”) of the Corgi softback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sachs-margaret' | relative_url }}">Sachs, Margaret</a> in her “<a href="{{ '/ufo-history/ufo-books/sachs-margaret-the-ufo-encyclopedia' | relative_url }}">The UFO Encyclopedia</a>“ (<a href="{{ '/tags/1980' | relative_url }}">1980</a> (available <a href="http://www.amazon.com/dp/0399124217/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0399124217/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 15 (in an entry entitled “<a href="{{ '/ufo-history/ufo-personalities/andrus-walter-h' | relative_url }}">Andrus, Walter H</a>, Jr.”) of the Corgi softback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -147,10 +147,10 @@ For discussion of Walt Andrus see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/story-ronald">Story, Ronald</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 70-71 (in an entry entitled “<a href="/ufo-history/ufo-personalities/andrus-walter-h">Andrus, Walter H</a>, Jr”) of the New American Library softcover edition, at pages 69-71 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Story, Ronald</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 70-71 (in an entry entitled “<a href="{{ '/ufo-history/ufo-personalities/andrus-walter-h' | relative_url }}">Andrus, Walter H</a>, Jr”) of the New American Library softcover edition, at pages 69-71 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -158,10 +158,10 @@ For discussion of Walt Andrus see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/story-ronald">Story, Ronald</a> in “<a href="/ufo-history/ufo-books/story-ronald-editor-and-green-j-richard-consulting-editor-the-encyclopedia-of-ufos">The Encyclopedia of UFOs</a>” (<a href="/tags/1980">1980</a>) edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a> (available <a href="http://www.amazon.com/dp/0385136773/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0385136773/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 17-18 (in an entry entitled “<a href="/ufo-history/ufo-personalities/andrus-walter-h">Andrus, Walter H</a>[arrison], Jr”) of the NEL hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Story, Ronald</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-editor-and-green-j-richard-consulting-editor-the-encyclopedia-of-ufos' | relative_url }}">The Encyclopedia of UFOs</a>” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a> (available <a href="http://www.amazon.com/dp/0385136773/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0385136773/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 17-18 (in an entry entitled “<a href="{{ '/ufo-history/ufo-personalities/andrus-walter-h' | relative_url }}">Andrus, Walter H</a>[arrison], Jr”) of the NEL hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -169,10 +169,10 @@ For discussion of Walt Andrus see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/story-ronald">Story, Ronald</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 77-79 (in an entry entitled “<a href="/ufo-history/ufo-personalities/andrus-walter-h">Andrus, Walter H</a>, Jr”) of the Robinson softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Story, Ronald</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 77-79 (in an entry entitled “<a href="{{ '/ufo-history/ufo-personalities/andrus-walter-h' | relative_url }}">Andrus, Walter H</a>, Jr”) of the Robinson softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>

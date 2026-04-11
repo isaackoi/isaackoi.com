@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/1873631774.jpg"}
 book: {"identifiers": ["1873631774"], "primary_isbn": "1873631774", "cover_image": "/book-covers/1873631774.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Ron Halliday](/ufo-history/ufo-personalities/halliday-ron)'s book “[McX: Scotland's X-Files](/ufo-history/ufo-books/halliday-ron-mcx-scotlands-x-files)” ([1997](/tags/1997)) (available [on Amazon USA](http://www.amazon.com/dp/1873631774/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1873631774/?&tag=ufot-21))
+Brief review to be added of [Ron Halliday]({{ '/ufo-history/ufo-personalities/halliday-ron' | relative_url }})'s book “[McX: Scotland's X-Files]({{ '/ufo-history/ufo-books/halliday-ron-mcx-scotlands-x-files' | relative_url }})” ([1997]({{ '/tags/1997' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1873631774/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1873631774/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

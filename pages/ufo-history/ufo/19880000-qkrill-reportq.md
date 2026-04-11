@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -69,10 +69,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/baker-alan">Baker, Alan</a> in his “<a href="/ufo-history/ufo-books/baker-alan-the-encyclopaedia-of-alien-encounters">The Encyclopaedia of Alien Encounters</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/1852277343/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1852277343/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 137-138 (in an entry entitled “Krll, O H”) of the Virgin hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/baker-alan' | relative_url }}">Baker, Alan</a> in his “<a href="{{ '/ufo-history/ufo-books/baker-alan-the-encyclopaedia-of-alien-encounters' | relative_url }}">The Encyclopaedia of Alien Encounters</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/1852277343/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1852277343/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 137-138 (in an entry entitled “Krll, O H”) of the Virgin hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -80,10 +80,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/brookesmith-peter">Brookesmith, Peter</a> in his “<a href="/ufo-history/ufo-books/brookesmith-peter-ufo-the-government-files">UFO: The Government Files</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/0760702187/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0760702187/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 117, 118 (in Chapter 6) of the Parragon hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/brookesmith-peter' | relative_url }}">Brookesmith, Peter</a> in his “<a href="{{ '/ufo-history/ufo-books/brookesmith-peter-ufo-the-government-files' | relative_url }}">UFO: The Government Files</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/0760702187/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0760702187/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 117, 118 (in Chapter 6) of the Parragon hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -91,10 +91,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/cooper-william">Cooper, William</a> in his “<a href="/ufo-history/ufo-books/cooper-william-behold-a-pale-horse">Behold a Pale Horse</a>” (<a href="/tags/1991">1991</a>) (available <a href="http://www.amazon.com/dp/0929385225/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0929385225/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 202 (in Chapter 12) of the Light Technology softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/cooper-william' | relative_url }}">Cooper, William</a> in his “<a href="{{ '/ufo-history/ufo-books/cooper-william-behold-a-pale-horse' | relative_url }}">Behold a Pale Horse</a>” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/0929385225/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0929385225/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 202 (in Chapter 12) of the Light Technology softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -102,10 +102,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Ecker, Don in his article “Freedom of Disinformation, Part 2”, <a href="/ufo-history/ufo-personalities/fortean-times">Fortean Times</a>, Issue 122, April <a href="/tags/1999">1999</a> (<a href="/tags/1999">1999</a>) at pages [insert check <a href="/ufo-history/ufo-personalities/fortean-times">Fortean Times</a>] to [insert check <a href="/ufo-history/ufo-personalities/fortean-times">Fortean Times</a>]. Relevant article available online at:</p>
+<p>Ecker, Don in his article “Freedom of Disinformation, Part 2”, <a href="{{ '/ufo-history/ufo-personalities/fortean-times' | relative_url }}">Fortean Times</a>, Issue 122, April <a href="{{ '/tags/1999' | relative_url }}">1999</a> (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) at pages [insert check <a href="{{ '/ufo-history/ufo-personalities/fortean-times' | relative_url }}">Fortean Times</a>] to [insert check <a href="{{ '/ufo-history/ufo-personalities/fortean-times' | relative_url }}">Fortean Times</a>]. Relevant article available online at:</p>
 <p><a href="http://www.forteantimes.com/articles/122_disin2.shtml">http://www.forteantimes.com/articles/122_disin2.shtml</a></p>
 </td>
 <td valign="top" width="52">
@@ -114,10 +114,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p>Kossy, Donna in her “<a href="/ufo-history/ufo-books/kossy-donna-kooks">Kooks</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/0922915679/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0922915679/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 195 (in Part 5, in the unnumbered chapter entitled “William Cooper”) of the Feral House softcover edition.</p>
+<p>Kossy, Donna in her “<a href="{{ '/ufo-history/ufo-books/kossy-donna-kooks' | relative_url }}">Kooks</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/0922915679/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0922915679/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 195 (in Part 5, in the unnumbered chapter entitled “William Cooper”) of the Feral House softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -125,10 +125,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/strieber-whitley">Strieber, Whitley</a> in his “<a href="/ufo-history/ufo-books/strieber-whitley-breakthrough">Breakthrough</a>“ (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/0060176539/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0060176539/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 215 (in Chapter 16) of the Harper Collins hardback edition (with the same page numbering in the Pocket Books paperback edition) at page 225 of the Harper Spotlight paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/strieber-whitley' | relative_url }}">Strieber, Whitley</a> in his “<a href="{{ '/ufo-history/ufo-books/strieber-whitley-breakthrough' | relative_url }}">Breakthrough</a>“ (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/0060176539/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0060176539/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 215 (in Chapter 16) of the Harper Collins hardback edition (with the same page numbering in the Pocket Books paperback edition) at page 225 of the Harper Spotlight paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -136,10 +136,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/vallee-jacques">Vallee, Jacques</a> in his “<a href="/ufo-history/ufo-books/vallee-jacques-revelations-alien-contact-and-human-deception">Revelations: Alien Contact and Human Deception</a>” (<a href="/tags/1991">1991</a>) (available <a href="http://www.amazon.com/dp/1933665300/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1933665300/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 73-74, 81 (in Chapter 3) of the Ballantine Books paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/vallee-jacques' | relative_url }}">Vallee, Jacques</a> in his “<a href="{{ '/ufo-history/ufo-books/vallee-jacques-revelations-alien-contact-and-human-deception' | relative_url }}">Revelations: Alien Contact and Human Deception</a>” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/1933665300/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1933665300/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 73-74, 81 (in Chapter 3) of the Ballantine Books paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>

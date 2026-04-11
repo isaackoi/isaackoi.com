@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0575075031.jpg"}
 book: {"identifiers": ["0575075031", "0312962878", "0709032765", "0806904763", "0881621684", "0749921005", "0806918918", "0880642262"], "primary_isbn": "0575075031", "cover_image": "/book-covers/0575075031.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of Ian Watson's novel “[Miracle Visitors](/ufo-history/ufo-books/watson-ian-miracle-visitors)” ([1978](/tags/1978)) (available [on Amazon USA](http://www.amazon.com/dp/0575075031/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0575075031/?&tag=ufot-21))
+Brief review to be added of Ian Watson's novel “[Miracle Visitors]({{ '/ufo-history/ufo-books/watson-ian-miracle-visitors' | relative_url }})” ([1978]({{ '/tags/1978' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0575075031/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0575075031/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion of Ian Watson and/or his novel “Miracle Visitors” see the fol
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p>Craft, Michael in his “<a href="/ufo-history/ufo-books/craft-michael-alien-impact">Alien Impact</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/0312962878/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312962878/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 242-243 (in Chapter 12) of the St Martin’s Paperbacks paperback edition.</p>
+<p>Craft, Michael in his “<a href="{{ '/ufo-history/ufo-books/craft-michael-alien-impact' | relative_url }}">Alien Impact</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/0312962878/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312962878/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 242-243 (in Chapter 12) of the St Martin’s Paperbacks paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -65,10 +65,10 @@ For discussion of Ian Watson and/or his novel “Miracle Visitors” see the fol
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1988">1988</a></p>
+<p><a href="{{ '/tags/1988' | relative_url }}">1988</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-abduction">Abduction</a>“ (<a href="/tags/1988">1988</a>) (available <a href="http://www.amazon.com/dp/0709032765/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0709032765/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 37 (in Chapter 2), 46-48, 49 (in Chapter 3), 190 (in Chapter 9) of the Hale hardback edition (with the same page numbering in the Headline paperback edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-abduction' | relative_url }}">Abduction</a>“ (<a href="{{ '/tags/1988' | relative_url }}">1988</a>) (available <a href="http://www.amazon.com/dp/0709032765/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0709032765/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 37 (in Chapter 2), 46-48, 49 (in Chapter 3), 190 (in Chapter 9) of the Hale hardback edition (with the same page numbering in the Headline paperback edition).</p>
 </td>
 <td valign="top" width="52">
 <p>6</p>
@@ -76,10 +76,10 @@ For discussion of Ian Watson and/or his novel “Miracle Visitors” see the fol
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-alien-contact-the-first-fifty-years">Alien Contact – The First Fifty Years</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0806904763/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806904763/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 91 (in the chapter entitled “<a href="/tags/1978">1978</a>”) of the Collins and Brown hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-alien-contact-the-first-fifty-years' | relative_url }}">Alien Contact – The First Fifty Years</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0806904763/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806904763/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 91 (in the chapter entitled “<a href="{{ '/tags/1978' | relative_url }}">1978</a>”) of the Collins and Brown hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -87,10 +87,10 @@ For discussion of Ian Watson and/or his novel “Miracle Visitors” see the fol
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1985">1985</a></p>
+<p><a href="{{ '/tags/1985' | relative_url }}">1985</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-beyond-explanation-the-paranormal-experiences-of-famous-people">Beyond Explanation? : The Paranormal Experiences of Famous People</a>” (<a href="/tags/1985">1985</a>) (available <a href="http://www.amazon.com/dp/0881621684/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0881621684/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 84-85 (in Chapter 7) of the TLC hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-beyond-explanation-the-paranormal-experiences-of-famous-people' | relative_url }}">Beyond Explanation? : The Paranormal Experiences of Famous People</a>” (<a href="{{ '/tags/1985' | relative_url }}">1985</a>) (available <a href="http://www.amazon.com/dp/0881621684/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0881621684/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 84-85 (in Chapter 7) of the TLC hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -98,10 +98,10 @@ For discussion of Ian Watson and/or his novel “Miracle Visitors” see the fol
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-the-complete-book-of-aliens-and-abductions">The Complete Book of Aliens and Abductions</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0749921005/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0749921005/ref=nosim?tag=ufot-21">on Amazon UK</a>) a page 130 (in Part 4) of the Piatkus hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-the-complete-book-of-aliens-and-abductions' | relative_url }}">The Complete Book of Aliens and Abductions</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0749921005/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0749921005/ref=nosim?tag=ufot-21">on Amazon UK</a>) a page 130 (in Part 4) of the Piatkus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -109,10 +109,10 @@ For discussion of Ian Watson and/or his novel “Miracle Visitors” see the fol
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-the-little-giant-encyclopedia-of-ufos">The Little Giant Encyclopedia of UFOs</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/0806918918/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806918918/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 286, 363 (in Part 3, “UFOs Worldwide”) of the Sterling softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-the-little-giant-encyclopedia-of-ufos' | relative_url }}">The Little Giant Encyclopedia of UFOs</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/0806918918/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806918918/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 286, 363 (in Part 3, “UFOs Worldwide”) of the Sterling softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -120,10 +120,10 @@ For discussion of Ian Watson and/or his novel “Miracle Visitors” see the fol
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/wilson-colin">Wilson, Colin</a> in his “<a href="/ufo-history/ufo-books/wilson-colin-alien-dawn">Alien Dawn</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0880642262/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0880642262/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 350-351, 367, 368 (in Chapter 10) of the Virgin softcover edition (with the same page numbering in the Virgin paperback edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/wilson-colin' | relative_url }}">Wilson, Colin</a> in his “<a href="{{ '/ufo-history/ufo-books/wilson-colin-alien-dawn' | relative_url }}">Alien Dawn</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0880642262/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0880642262/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 350-351, 367, 368 (in Chapter 10) of the Virgin softcover edition (with the same page numbering in the Virgin paperback edition).</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>

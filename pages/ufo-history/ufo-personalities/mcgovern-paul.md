@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/mcgovern_paul_1_on_left.jpg"}
 ---
 
-![mcgovern_paul_1_on_left](/images/stories/ufo_personalities/mcgovern_paul_1_on_left.jpg)
+![mcgovern_paul_1_on_left]({{ '/images/stories/ufo_personalities/mcgovern_paul_1_on_left.jpg' | relative_url }})
 
 *Paul McGovern (on left)*
 
@@ -57,10 +57,10 @@ For discussion of Paul McGovern see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2006">2006</a></p>
+<p><a href="{{ '/tags/2006' | relative_url }}">2006</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/collins-robert-m">Collins, Robert M</a> (with <a href="/ufo-history/ufo-personalities/doty-richard">Doty, Richard C</a> and <a href="/ufo-history/ufo-personalities/cooper-timothy-s">Cooper, Timothy S</a>) in “<a href="/ufo-history/ufo-books/collins-robert-m-with-doty-richard-c-and-cooper-timothy-s-exempt-from-disclosure">Exempt From Disclosure</a>” (<a href="/tags/2006">2006</a>) (available <a href="http://www.amazon.com/dp/0976642638/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0976642638/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 183-184, 185 (in Section 3, Chapter 4) of the Peregrine Communications softcover second edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/collins-robert-m' | relative_url }}">Collins, Robert M</a> (with <a href="{{ '/ufo-history/ufo-personalities/doty-richard' | relative_url }}">Doty, Richard C</a> and <a href="{{ '/ufo-history/ufo-personalities/cooper-timothy-s' | relative_url }}">Cooper, Timothy S</a>) in “<a href="{{ '/ufo-history/ufo-books/collins-robert-m-with-doty-richard-c-and-cooper-timothy-s-exempt-from-disclosure' | relative_url }}">Exempt From Disclosure</a>” (<a href="{{ '/tags/2006' | relative_url }}">2006</a>) (available <a href="http://www.amazon.com/dp/0976642638/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0976642638/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 183-184, 185 (in Section 3, Chapter 4) of the Peregrine Communications softcover second edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>

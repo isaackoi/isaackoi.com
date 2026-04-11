@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -71,10 +71,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1974">1974</a></p>
+<p><a href="{{ '/tags/1974' | relative_url }}">1974</a></p>
 </td>
 <td valign="top" width="547">
-<p>Blum, Ralph and Blum, Judy in their “<a href="/ufo-history/ufo-books/blum-ralph-and-blum-judy-beyond-earth-mans-contact-with-ufos">Beyond Earth: Man’s Contact with UFOs</a>” (<a href="/tags/1974">1974</a>) (available <a href="http://www.amazon.com/dp/B000H3RDQY/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000H3RDQY/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 195-205 (Chapter 17 generally), 209, 215 (in Chapter 18) of the Bantam paperback edition (with the same page numbering in the Corgi paperback edition).</p>
+<p>Blum, Ralph and Blum, Judy in their “<a href="{{ '/ufo-history/ufo-books/blum-ralph-and-blum-judy-beyond-earth-mans-contact-with-ufos' | relative_url }}">Beyond Earth: Man’s Contact with UFOs</a>” (<a href="{{ '/tags/1974' | relative_url }}">1974</a>) (available <a href="http://www.amazon.com/dp/B000H3RDQY/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000H3RDQY/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 195-205 (Chapter 17 generally), 209, 215 (in Chapter 18) of the Bantam paperback edition (with the same page numbering in the Corgi paperback edition).</p>
 </td>
 <td valign="top" width="52">
 <p>13</p>
@@ -82,10 +82,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1975">1975</a></p>
+<p><a href="{{ '/tags/1975' | relative_url }}">1975</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/jacobs-david-michael">Jacobs, David Michael</a> in his “<a href="/ufo-history/ufo-books/jacobs-david-michael-the-ufo-controversy-in-america">The UFO Controversy in America</a>” (<a href="/tags/1975">1975</a>) (available <a href="http://www.amazon.com/dp/0253190061/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0253190061/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 295 (in Chapter 10) of the Indiana hardback edition, pages 262-263 of the Signet paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/jacobs-david-michael' | relative_url }}">Jacobs, David Michael</a> in his “<a href="{{ '/ufo-history/ufo-books/jacobs-david-michael-the-ufo-controversy-in-america' | relative_url }}">The UFO Controversy in America</a>” (<a href="{{ '/tags/1975' | relative_url }}">1975</a>) (available <a href="http://www.amazon.com/dp/0253190061/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0253190061/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 295 (in Chapter 10) of the Indiana hardback edition, pages 262-263 of the Signet paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -93,10 +93,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Poundstone, William in his “<a href="/ufo-history/ufo-books/poundstone-william-carl-sagan-a-life-in-the-cosmos">Carl Sagan: A Life in the Cosmos</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0805057668/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0805057668/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 177 (in the chapter entitled “Ithaca <a href="/tags/1968">1968</a>-76”) of the Owl Books softcover edition.</p>
+<p>Poundstone, William in his “<a href="{{ '/ufo-history/ufo-books/poundstone-william-carl-sagan-a-life-in-the-cosmos' | relative_url }}">Carl Sagan: A Life in the Cosmos</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0805057668/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0805057668/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 177 (in the chapter entitled “Ithaca <a href="{{ '/tags/1968' | relative_url }}">1968</a>-76”) of the Owl Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -104,10 +104,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/rux-bruce">Rux, Bruce</a> in his “<a href="/ufo-history/ufo-books/rux-bruce-architects-of-the-underworld">Architects of the Underworld</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/1883319463/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1883319463/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 141, 146-147 (in Chapter 5) of the Frog softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/rux-bruce' | relative_url }}">Rux, Bruce</a> in his “<a href="{{ '/ufo-history/ufo-books/rux-bruce-architects-of-the-underworld' | relative_url }}">Architects of the Underworld</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/1883319463/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1883319463/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 141, 146-147 (in Chapter 5) of the Frog softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -115,10 +115,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/rux-bruce">Rux, Bruce</a> in his “<a href="/ufo-history/ufo-books/rux-bruce-hollywood-vs-the-aliens">Hollywood Vs. the Aliens</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1883319617/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1883319617/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 360-361 (in Chapter 7) of the Frog softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/rux-bruce' | relative_url }}">Rux, Bruce</a> in his “<a href="{{ '/ufo-history/ufo-books/rux-bruce-hollywood-vs-the-aliens' | relative_url }}">Hollywood Vs. the Aliens</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1883319617/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1883319617/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 360-361 (in Chapter 7) of the Frog softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -126,10 +126,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2008">2008</a></p>
+<p><a href="{{ '/tags/2008' | relative_url }}">2008</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/vallee-jacques">Vallee, Jacques</a> in his “<a href="/ufo-history/ufo-books/vallee-jacques-forbidden-science-volume-2-journals-1970-1979">Forbidden Science : Volume 2 (Journals 1970-1979)</a>” (<a href="/tags/2008">2008</a>) (available <a href="http://www.amazon.com/dp/0615249744/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0615249744/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 213-214 of the Documatica Research hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/vallee-jacques' | relative_url }}">Vallee, Jacques</a> in his “<a href="{{ '/ufo-history/ufo-books/vallee-jacques-forbidden-science-volume-2-journals-1970-1979' | relative_url }}">Forbidden Science : Volume 2 (Journals 1970-1979)</a>” (<a href="{{ '/tags/2008' | relative_url }}">2008</a>) (available <a href="http://www.amazon.com/dp/0615249744/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0615249744/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 213-214 of the Documatica Research hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -137,10 +137,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1975">1975</a></p>
+<p><a href="{{ '/tags/1975' | relative_url }}">1975</a></p>
 </td>
 <td valign="top" width="547">
-<p>Weldon, John and Levitt, Zola in their “<a href="/ufo-history/ufo-books/weldon-john-and-levitt-zola-encounters-with-ufos">Encounters With UFOs</a>“ (<a href="/tags/1975">1975</a>) (formerly “UFOs, What on Earth is Happening?”) (available <a href="http://www.amazon.com/dp/1930749023/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1930749023/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 6 (in Chapter 1) of the Harvest House paperback edition.</p>
+<p>Weldon, John and Levitt, Zola in their “<a href="{{ '/ufo-history/ufo-books/weldon-john-and-levitt-zola-encounters-with-ufos' | relative_url }}">Encounters With UFOs</a>“ (<a href="{{ '/tags/1975' | relative_url }}">1975</a>) (formerly “UFOs, What on Earth is Happening?”) (available <a href="http://www.amazon.com/dp/1930749023/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1930749023/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 6 (in Chapter 1) of the Harvest House paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -148,10 +148,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/wilson-colin">Wilson, Colin</a> in his “<a href="/ufo-history/ufo-books/wilson-colin-alien-dawn">Alien Dawn</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0880642262/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0880642262/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 256 (in Chapter 8) of the Virgin softcover edition (with the same page numbering in the Virgin paperback edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/wilson-colin' | relative_url }}">Wilson, Colin</a> in his “<a href="{{ '/ufo-history/ufo-books/wilson-colin-alien-dawn' | relative_url }}">Alien Dawn</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0880642262/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0880642262/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 256 (in Chapter 8) of the Virgin softcover edition (with the same page numbering in the Virgin paperback edition).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/1569247455.jpg"}
 book: {"identifiers": ["1569247455", "0780800974", "0451204247", "1841196134", "0963916122", "0815970005"], "primary_isbn": "1569247455", "cover_image": "/book-covers/1569247455.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Barry Downing](/ufo-history/ufo-personalities/downing-barry)'s book “[The Bible and Flying Saucers](/ufo-history/ufo-books/downing-barry-the-bible-and-flying-saucers)” ([1968](/tags/1968)) (available [on Amazon USA](http://www.amazon.com/dp/1569247455/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1569247455/?&tag=ufot-21))
+Brief review to be added of [Barry Downing]({{ '/ufo-history/ufo-personalities/downing-barry' | relative_url }})'s book “[The Bible and Flying Saucers]({{ '/ufo-history/ufo-books/downing-barry-the-bible-and-flying-saucers' | relative_url }})” ([1968]({{ '/tags/1968' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1569247455/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1569247455/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -52,10 +52,10 @@ Many of the tables of references on this website are considerably longer than th
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) in Volume 1:A-K at pages 81-82 (in an entry entitled “Ancient Astronauts in the UFO Literature”) of the Omnigraphics hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition' | relative_url }}">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) in Volume 1:A-K at pages 81-82 (in an entry entitled “Ancient Astronauts in the UFO Literature”) of the Omnigraphics hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -63,10 +63,10 @@ Many of the tables of references on this website are considerably longer than th
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fitzgerald-randall">Fitzgerald, Randall</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 110 (in an entry entitled “Bible and Flying Saucers, The”) of the New American Library softcover edition, at page 109 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }}">Fitzgerald, Randall</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 110 (in an entry entitled “Bible and Flying Saucers, The”) of the New American Library softcover edition, at page 109 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -74,10 +74,10 @@ Many of the tables of references on this website are considerably longer than th
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fitzgerald-randall">Fitzgerald, Randall</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 125 (in an entry entitled “Bible and Flying Saucers, The”) of the Robinson softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }}">Fitzgerald, Randall</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 125 (in an entry entitled “Bible and Flying Saucers, The”) of the Robinson softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -85,10 +85,10 @@ Many of the tables of references on this website are considerably longer than th
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fitzgerald-randall">Fitzgerald, Randall</a> in his “<a href="/ufo-history/ufo-books/fitzgerald-randall-the-cosmic-test-tube">The Cosmic Test Tube</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0963916122/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963916122/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 29-30 (in Section 1) with a one sentence summary at page 367 (in the Guide To Books) of the Moonlake Media softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }}">Fitzgerald, Randall</a> in his “<a href="{{ '/ufo-history/ufo-books/fitzgerald-randall-the-cosmic-test-tube' | relative_url }}">The Cosmic Test Tube</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0963916122/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963916122/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 29-30 (in Section 1) with a one sentence summary at page 367 (in the Guide To Books) of the Moonlake Media softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -96,10 +96,10 @@ Many of the tables of references on this website are considerably longer than th
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1974">1974</a></p>
+<p><a href="{{ '/tags/1974' | relative_url }}">1974</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/salisbury-frank">Salisbury, Frank</a> in his “The Utah UFO Display: A Biologist’s Report” (<a href="/tags/1974">1974</a>) (available <a href="http://www.amazon.com/dp/0815970005/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0815970005/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 228 (in the Appendix entitled “The Literature of Ufology”), 233 (in the Appendix entitled “Annotated Bibliography”) of the Devin Adair hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/salisbury-frank' | relative_url }}">Salisbury, Frank</a> in his “The Utah UFO Display: A Biologist’s Report” (<a href="{{ '/tags/1974' | relative_url }}">1974</a>) (available <a href="http://www.amazon.com/dp/0815970005/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0815970005/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 228 (in the Appendix entitled “The Literature of Ufology”), 233 (in the Appendix entitled “Annotated Bibliography”) of the Devin Adair hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -63,10 +63,10 @@ For discussion of Sperry’s sighting see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1952">1952</a></p>
+<p><a href="{{ '/tags/1952' | relative_url }}">1952</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/arnold-kenneth">Arnold, Kenneth</a> and <a href="/ufo-history/ufo-personalities/palmer-raymond-a">Palmer, Ray</a> in their “<a href="/ufo-history/ufo-books/arnold-kenneth-and-palmer-ray-the-coming-of-the-saucers">The Coming of the Saucers</a>” (<a href="/tags/1952">1952</a>) (available <a href="http://www.amazon.com/dp/0964499711/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0964499711/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 151 (in Chapter 11) of the Amherst softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/arnold-kenneth' | relative_url }}">Arnold, Kenneth</a> and <a href="{{ '/ufo-history/ufo-personalities/palmer-raymond-a' | relative_url }}">Palmer, Ray</a> in their “<a href="{{ '/ufo-history/ufo-books/arnold-kenneth-and-palmer-ray-the-coming-of-the-saucers' | relative_url }}">The Coming of the Saucers</a>” (<a href="{{ '/tags/1952' | relative_url }}">1952</a>) (available <a href="http://www.amazon.com/dp/0964499711/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0964499711/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 151 (in Chapter 11) of the Amherst softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -74,10 +74,10 @@ For discussion of Sperry’s sighting see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2003">2003</a></p>
+<p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-strange-skies-pilot-encounters-with-ufos">Strange Skies: Pilot Encounters with UFOs</a>” (<a href="/tags/2003">2003</a>) (available <a href="http://www.amazon.com/dp/0806522992/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806522992/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 83-84 (in Chapter 4), 226 (in the Notes) of the Citadel softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-strange-skies-pilot-encounters-with-ufos' | relative_url }}">Strange Skies: Pilot Encounters with UFOs</a>” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) (available <a href="http://www.amazon.com/dp/0806522992/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806522992/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 83-84 (in Chapter 4), 226 (in the Notes) of the Citadel softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -85,10 +85,10 @@ For discussion of Sperry’s sighting see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/hall-michael-david">Hall, Michael David</a> and <a href="/ufo-history/ufo-personalities/connors-wendy-ann">Connors, Wendy Ann</a> in their “<a href="/ufo-history/ufo-books/hall-michael-david-and-connors-wendy-ann-captain-edward-j-ruppelt">Captain Edward J Ruppelt : Summer of the Saucers - 1952</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/0970505507/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0970505507/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 22-23 (in Chapter 1) of the Rose Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hall-michael-david' | relative_url }}">Hall, Michael David</a> and <a href="{{ '/ufo-history/ufo-personalities/connors-wendy-ann' | relative_url }}">Connors, Wendy Ann</a> in their “<a href="{{ '/ufo-history/ufo-books/hall-michael-david-and-connors-wendy-ann-captain-edward-j-ruppelt' | relative_url }}">Captain Edward J Ruppelt : Summer of the Saucers - 1952</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/0970505507/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0970505507/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 22-23 (in Chapter 1) of the Rose Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -96,10 +96,10 @@ For discussion of Sperry’s sighting see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/hall-michael-david">Hall, Michael David</a> in his “<a href="/ufo-history/ufo-books/hall-michael-david-ufos-a-century-of-sightings">UFOs : A Century of Sightings</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/1880090627/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1880090627/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 134 (in Chapter 3) of the Galde Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hall-michael-david' | relative_url }}">Hall, Michael David</a> in his “<a href="{{ '/ufo-history/ufo-books/hall-michael-david-ufos-a-century-of-sightings' | relative_url }}">UFOs : A Century of Sightings</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/1880090627/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1880090627/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 134 (in Chapter 3) of the Galde Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -107,10 +107,10 @@ For discussion of Sperry’s sighting see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1950">1950</a></p>
+<p><a href="{{ '/tags/1950' | relative_url }}">1950</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/heard-gerald">Heard, Gerald</a> in his “<a href="/ufo-history/ufo-books/heard-gerald-the-riddle-of-the-flying-saucers">The Riddle of the Flying Saucers</a>: Is Another World Watching” (<a href="/tags/1950">1950</a>) (available <a href="http://www.amazon.com/dp/B0007E6U8A/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0007E6U8A/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 74 (in Chapter 9) of the Carroll &amp; Nicholson hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/heard-gerald' | relative_url }}">Heard, Gerald</a> in his “<a href="{{ '/ufo-history/ufo-books/heard-gerald-the-riddle-of-the-flying-saucers' | relative_url }}">The Riddle of the Flying Saucers</a>: Is Another World Watching” (<a href="{{ '/tags/1950' | relative_url }}">1950</a>) (available <a href="http://www.amazon.com/dp/B0007E6U8A/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0007E6U8A/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 74 (in Chapter 9) of the Carroll &amp; Nicholson hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -118,10 +118,10 @@ For discussion of Sperry’s sighting see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1960">1960</a></p>
+<p><a href="{{ '/tags/1960' | relative_url }}">1960</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/keyhoe-donald-e">Keyhoe, Donald E</a> in his “<a href="/ufo-history/ufo-books/keyhoe-donald-flying-saucers-top-secret">Flying Saucers: Top Secret</a>” (<a href="/tags/1960">1960</a>) (available <a href="http://www.amazon.com/dp/B0007F2EIY/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0007F2EIY/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 86 (in Chapter 6) of the G P Putnam hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/keyhoe-donald-e' | relative_url }}">Keyhoe, Donald E</a> in his “<a href="{{ '/ufo-history/ufo-books/keyhoe-donald-flying-saucers-top-secret' | relative_url }}">Flying Saucers: Top Secret</a>” (<a href="{{ '/tags/1960' | relative_url }}">1960</a>) (available <a href="http://www.amazon.com/dp/B0007F2EIY/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0007F2EIY/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 86 (in Chapter 6) of the G P Putnam hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -129,10 +129,10 @@ For discussion of Sperry’s sighting see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1968">1968</a></p>
+<p><a href="{{ '/tags/1968' | relative_url }}">1968</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/lore-gordon">Lore, Gordon</a> and <a href="/ufo-history/ufo-personalities/deneault-harold">Deneault, Harold</a> in their “<a href="/ufo-history/ufo-books/lore-gordon-and-deneault-harold-mysteries-of-the-skies">Mysteries of the Skies</a>” (<a href="/tags/1968">1968</a>) (available <a href="http://www.amazon.com/dp/B000IYEI9C/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000IYEI9C/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 169 (in the Epilogue) of the Prentice-Hall hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/lore-gordon' | relative_url }}">Lore, Gordon</a> and <a href="{{ '/ufo-history/ufo-personalities/deneault-harold' | relative_url }}">Deneault, Harold</a> in their “<a href="{{ '/ufo-history/ufo-books/lore-gordon-and-deneault-harold-mysteries-of-the-skies' | relative_url }}">Mysteries of the Skies</a>” (<a href="{{ '/tags/1968' | relative_url }}">1968</a>) (available <a href="http://www.amazon.com/dp/B000IYEI9C/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000IYEI9C/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 169 (in the Epilogue) of the Prentice-Hall hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -140,10 +140,10 @@ For discussion of Sperry’s sighting see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1956">1956</a></p>
+<p><a href="{{ '/tags/1956' | relative_url }}">1956</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/michel-aime">Michel, Aime</a> in his “<a href="/ufo-history/ufo-books/michel-aime-the-truth-about-flying-saucers">The Truth about Flying Saucers</a>” (<a href="/tags/1956">1956</a>) (available <a href="http://www.amazon.com/dp/B000OZY8EA/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000OZY8EA/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 61 (in Part 1, Chapter 2) of the Robert Hale hardback edition, page 64 of the Pyramid paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/michel-aime' | relative_url }}">Michel, Aime</a> in his “<a href="{{ '/ufo-history/ufo-books/michel-aime-the-truth-about-flying-saucers' | relative_url }}">The Truth about Flying Saucers</a>” (<a href="{{ '/tags/1956' | relative_url }}">1956</a>) (available <a href="http://www.amazon.com/dp/B000OZY8EA/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000OZY8EA/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 61 (in Part 1, Chapter 2) of the Robert Hale hardback edition, page 64 of the Pyramid paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -151,10 +151,10 @@ For discussion of Sperry’s sighting see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2002">2002</a></p>
+<p><a href="{{ '/tags/2002' | relative_url }}">2002</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/moseley-james">Moseley, James</a> and <a href="/ufo-history/ufo-personalities/pflock-karl-t">Pflock, Karl</a> in their “<a href="/ufo-history/ufo-books/moseley-james-and-pflock-karl-shockingly-close-to-the-truth">Shockingly Close to the Truth!</a>” (<a href="/tags/2002">2002</a>) (available <a href="http://www.amazon.com/dp/1573929913/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573929913/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 76 (in Chapter 3) of the Prometheus hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/moseley-james' | relative_url }}">Moseley, James</a> and <a href="{{ '/ufo-history/ufo-personalities/pflock-karl-t' | relative_url }}">Pflock, Karl</a> in their “<a href="{{ '/ufo-history/ufo-books/moseley-james-and-pflock-karl-shockingly-close-to-the-truth' | relative_url }}">Shockingly Close to the Truth!</a>” (<a href="{{ '/tags/2002' | relative_url }}">2002</a>) (available <a href="http://www.amazon.com/dp/1573929913/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573929913/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 76 (in Chapter 3) of the Prometheus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -162,10 +162,10 @@ For discussion of Sperry’s sighting see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1956">1956</a></p>
+<p><a href="{{ '/tags/1956' | relative_url }}">1956</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/ruppelt-edward">Ruppelt, Edward</a> J in his “<a href="/ufo-history/ufo-books/ruppelt-edward-the-report-on-unidentified-flying-objects">The Report on Unidentified Flying Objects</a>” (<a href="/tags/1956">1956</a>) (available <a href="http://www.amazon.com/dp/B0007FIFVE/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0007FIFVE/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 85-86 (in Chapter 7) of the original 17 chapter Doubleday hardback edition, at page 120 of the Gollancz hardback edition, at pages 116-117 of the Ace paperback edition, at pages 85-86 of the <a href="/tags/1959">1959</a> revised Doubleday 20 chapter hardback edition, at pages 62-63 of the reprinted Source Books softcover edition. The first of these editions (i.e. the original 17 chapter hardback edition) has the same page numbering as the version available free online at: <a href="http://www.nicap.org/rufo/contents2.htm">http://www.nicap.org/rufo/contents2.htm</a></p>
+<p><a href="{{ '/ufo-history/ufo-personalities/ruppelt-edward' | relative_url }}">Ruppelt, Edward</a> J in his “<a href="{{ '/ufo-history/ufo-books/ruppelt-edward-the-report-on-unidentified-flying-objects' | relative_url }}">The Report on Unidentified Flying Objects</a>” (<a href="{{ '/tags/1956' | relative_url }}">1956</a>) (available <a href="http://www.amazon.com/dp/B0007FIFVE/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0007FIFVE/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 85-86 (in Chapter 7) of the original 17 chapter Doubleday hardback edition, at page 120 of the Gollancz hardback edition, at pages 116-117 of the Ace paperback edition, at pages 85-86 of the <a href="{{ '/tags/1959' | relative_url }}">1959</a> revised Doubleday 20 chapter hardback edition, at pages 62-63 of the reprinted Source Books softcover edition. The first of these editions (i.e. the original 17 chapter hardback edition) has the same page numbering as the version available free online at: <a href="http://www.nicap.org/rufo/contents2.htm">http://www.nicap.org/rufo/contents2.htm</a></p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -173,10 +173,10 @@ For discussion of Sperry’s sighting see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2003">2003</a></p>
+<p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sparks-brad">Sparks, Brad</a> in version 1.7 of his “Comprehensive Catalog of 1,500 Project BLUE BOOK UFO Unknowns” (<a href="/tags/2003">2003</a>) as Case Number 240 on page 43 of the PDF edition (with the same page numbering in the Microsoft Word edition). Both editions are available online, respectively at the following links:</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sparks-brad' | relative_url }}">Sparks, Brad</a> in version 1.7 of his “Comprehensive Catalog of 1,500 Project BLUE BOOK UFO Unknowns” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) as Case Number 240 on page 43 of the PDF edition (with the same page numbering in the Microsoft Word edition). Both editions are available online, respectively at the following links:</p>
 <p><a href="http://www.cufos.org/BB_Unknowns_1_7.pdf">http://www.cufos.org/BB_Unknowns_1_7.pdf</a></p>
 <p><a href="http://www.nicap.org/bluebook/CufosBBUnknowns.doc">http://www.nicap.org/bluebook/CufosBBUnknowns.doc</a></p>
 </td>
@@ -186,10 +186,10 @@ For discussion of Sperry’s sighting see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1966">1966</a></p>
+<p><a href="{{ '/tags/1966' | relative_url }}">1966</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/stanton-l-jerome">Stanton, L Jerome</a> in his “<a href="/ufo-history/ufo-books/stanton-l-jerome-flying-saucers-hoax-or-reality">Flying Saucers : Hoax or Reality?</a>” (<a href="/tags/1966">1966</a>) (available <a href="http://www.amazon.com/dp/B000ILEK2A/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000ILEK2A/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 47-48 (in Chapter 3) of the Belmont paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/stanton-l-jerome' | relative_url }}">Stanton, L Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/stanton-l-jerome-flying-saucers-hoax-or-reality' | relative_url }}">Flying Saucers : Hoax or Reality?</a>” (<a href="{{ '/tags/1966' | relative_url }}">1966</a>) (available <a href="http://www.amazon.com/dp/B000ILEK2A/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000ILEK2A/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 47-48 (in Chapter 3) of the Belmont paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -197,10 +197,10 @@ For discussion of Sperry’s sighting see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1954">1954</a></p>
+<p><a href="{{ '/tags/1954' | relative_url }}">1954</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/wilkins-harold">Wilkins, Harold</a> in his “<a href="/ufo-history/ufo-books/wilkins-harold-flying-saucers-on-the-moon">Flying Saucers on the Moon</a>” (<a href="/tags/1954">1954</a>) (available <a href="http://www.amazon.com/dp/B0007J479O/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0007J479O/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 130 (in Chapter 7) of the Peter Owen hardback edition, at pages 122-123 of the Ace paperback edition published under the title “Flying Saucers on the Attack”.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/wilkins-harold' | relative_url }}">Wilkins, Harold</a> in his “<a href="{{ '/ufo-history/ufo-books/wilkins-harold-flying-saucers-on-the-moon' | relative_url }}">Flying Saucers on the Moon</a>” (<a href="{{ '/tags/1954' | relative_url }}">1954</a>) (available <a href="http://www.amazon.com/dp/B0007J479O/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0007J479O/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 130 (in Chapter 7) of the Peter Owen hardback edition, at pages 122-123 of the Ace paperback edition published under the title “Flying Saucers on the Attack”.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -212,7 +212,7 @@ For discussion of Sperry’s sighting see the following:
 <a id="other"></a>
 ### Other Material
 
-Listed as Project Blue Book Case Number 729a on the redacted US National Archives and Records Administration (“NARA”) microfilm records of Project Blue Book, released to the National Archives in [1975](/tags/1975) – see National Archives Microfilm Publication T1206 roll number 1. An image of the relevant index page has been given the unique Page ID (“PID”) of NARA-PBB1-36 (page 36 of 1014) at the link below.
+Listed as Project Blue Book Case Number 729a on the redacted US National Archives and Records Administration (“NARA”) microfilm records of Project Blue Book, released to the National Archives in [1975]({{ '/tags/1975' | relative_url }}) – see National Archives Microfilm Publication T1206 roll number 1. An image of the relevant index page has been given the unique Page ID (“PID”) of NARA-PBB1-36 (page 36 of 1014) at the link below.
 
 Listed (without a Project Blue Book Case Number) on the unredacted Maxwell Air Force Base (“Maxwell”) microfilm records of Project Blue Book – see Maxwell microfilm roll number 30,362. An image of the relevant index page has been given the unique Page ID (“PID”) of MAXW-PBB2-267 (page 267 of 1352) at the link below. The relevant case file is included on Maxwell microfilm roll number 30,368 – at the link below from the page with the PID of MAXW-PBB7-1660 (page 1660 of 1713) to the page with the PID of MAXW-PBB7-1661 (page 1661 of 1713).
 

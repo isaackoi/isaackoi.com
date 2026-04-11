@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/no_avatar.jpg"}
 ---
 
-![](/images/stories/no_avatar.jpg)
+![]({{ '/images/stories/no_avatar.jpg' | relative_url }})
 
 *Image needed*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/berliner-don">Berliner, Don</a> with <a href="/ufo-history/ufo-personalities/galbraith-marie">Galbraith, Marie</a> and <a href="/ufo-history/ufo-personalities/huneeus-antonio">Huneeus, Antonio</a> “<a href="/ufo-history/ufo-books/berliner-don-with-galbraith-marie-and-huneeus-antonio-ufo-briefing-document-the-best-available-evidence">UFO Briefing Document : The Best Available Evidence</a>” (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/044023638X/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/044023638X/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/berliner-don' | relative_url }}">Berliner, Don</a> with <a href="{{ '/ufo-history/ufo-personalities/galbraith-marie' | relative_url }}">Galbraith, Marie</a> and <a href="{{ '/ufo-history/ufo-personalities/huneeus-antonio' | relative_url }}">Huneeus, Antonio</a> “<a href="{{ '/ufo-history/ufo-books/berliner-don-with-galbraith-marie-and-huneeus-antonio-ufo-briefing-document-the-best-available-evidence' | relative_url }}">UFO Briefing Document : The Best Available Evidence</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/044023638X/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/044023638X/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>
@@ -63,7 +63,7 @@ The table below includes references to relevant discussions in UFO/SETI books no
 
 Many of the tables of references on this website are considerably longer than the references to books found on most other UFO websites. Indeed, some are probably the longest that have been collated in relation to some events and personalities. I hope that these tables are found to be a useful contribution to UFOlogy.
 
-For discussion of [Galbraith, Marie](/ufo-history/ufo-personalities/galbraith-marie) see the following:
+For discussion of [Galbraith, Marie]({{ '/ufo-history/ufo-personalities/galbraith-marie' | relative_url }}) see the following:
 
 <table border="1" cellpadding="0" cellspacing="0" class="sortable" data-sortable="true" id="sortabletable">
 <thead>
@@ -83,10 +83,10 @@ For discussion of [Galbraith, Marie](/ufo-history/ufo-personalities/galbraith-ma
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2006">2006</a></p>
+<p><a href="{{ '/tags/2006' | relative_url }}">2006</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/greer-steven">Greer, Steven</a> in his “<a href="/ufo-history/ufo-books/greer-steven-hidden-truth-forbidden-knowledge">Hidden Truth – Forbidden Knowledge</a>” (<a href="/tags/2006">2006</a>) (available <a href="http://www.amazon.com/dp/0967323827/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0967323827/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 98 (in Chapter 13), 101-102 (in Chapter 14) of the Crossing Point softcover edition. [Galbraith is referred to by Greer as a “woman in red” rather than by name, but is easily identifiable. See also relevant articles regarding Greer’s discussion of this individual on the <a href="http://web.archive.org/web/20080112191135/www.pehi.eu/archives_2006.htm">pehi.eu</a> website.]</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/greer-steven' | relative_url }}">Greer, Steven</a> in his “<a href="{{ '/ufo-history/ufo-books/greer-steven-hidden-truth-forbidden-knowledge' | relative_url }}">Hidden Truth – Forbidden Knowledge</a>” (<a href="{{ '/tags/2006' | relative_url }}">2006</a>) (available <a href="http://www.amazon.com/dp/0967323827/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0967323827/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 98 (in Chapter 13), 101-102 (in Chapter 14) of the Crossing Point softcover edition. [Galbraith is referred to by Greer as a “woman in red” rather than by name, but is easily identifiable. See also relevant articles regarding Greer’s discussion of this individual on the <a href="http://web.archive.org/web/20080112191135/www.pehi.eu/archives_2006.htm">pehi.eu</a> website.]</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>

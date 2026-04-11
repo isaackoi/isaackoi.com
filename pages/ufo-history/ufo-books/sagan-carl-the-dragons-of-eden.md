@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0394410459.jpg"}
 book: {"identifiers": ["0394410459", "0471395366", "0805057668"], "primary_isbn": "0394410459", "cover_image": "/book-covers/0394410459.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Carl Sagan](/ufo-history/ufo-personalities/sagan-carl)'s book “[The Dragons of Eden](/ufo-history/ufo-books/sagan-carl-the-dragons-of-eden)” ([1977](/tags/1977)) (available [on Amazon USA](http://www.amazon.com/dp/0394410459/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0394410459/?&tag=ufot-21))
+Brief review to be added of [Carl Sagan]({{ '/ufo-history/ufo-personalities/sagan-carl' | relative_url }})'s book “[The Dragons of Eden]({{ '/ufo-history/ufo-books/sagan-carl-the-dragons-of-eden' | relative_url }})” ([1977]({{ '/tags/1977' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0394410459/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0394410459/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Davidson, Keay in his “<a href="/ufo-history/ufo-personalities/sagan-carl">Carl Sagan</a>: A Life” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0471395366/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0471395366/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 211 (in Chapter 8), 288-299 (in Chapter 11), 392 (in Chapter 16) of the Wiley softcover edition.</p>
+<p>Davidson, Keay in his “<a href="{{ '/ufo-history/ufo-personalities/sagan-carl' | relative_url }}">Carl Sagan</a>: A Life” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0471395366/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0471395366/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 211 (in Chapter 8), 288-299 (in Chapter 11), 392 (in Chapter 16) of the Wiley softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>14</p>
@@ -65,10 +65,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Poundstone, William in his “<a href="/ufo-history/ufo-books/poundstone-william-carl-sagan-a-life-in-the-cosmos">Carl Sagan: A Life in the Cosmos</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0805057668/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0805057668/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 251, 253-254 (in the chapter entitled “Ithaca <a href="/tags/1977">1977</a>-78”) of the Owl Books softcover edition.</p>
+<p>Poundstone, William in his “<a href="{{ '/ufo-history/ufo-books/poundstone-william-carl-sagan-a-life-in-the-cosmos' | relative_url }}">Carl Sagan: A Life in the Cosmos</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0805057668/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0805057668/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 251, 253-254 (in the chapter entitled “Ithaca <a href="{{ '/tags/1977' | relative_url }}">1977</a>-78”) of the Owl Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>

@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/conroy_ed_1.jpg"}
 ---
 
-![conroy_ed_1](/images/stories/ufo_personalities/conroy_ed_1.jpg)
+![conroy_ed_1]({{ '/images/stories/ufo_personalities/conroy_ed_1.jpg' | relative_url }})
 
 *Ed Conroy*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1989">1989</a></p>
+<p><a href="{{ '/tags/1989' | relative_url }}">1989</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/conroy-ed">Conroy, Ed</a> “<a href="/ufo-history/ufo-books/conroy-ed-report-on-communion">Report on Communion</a>” (<a href="/tags/1989">1989</a>) (available <a href="http://www.amazon.com/dp/0688088643/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0688088643/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/conroy-ed' | relative_url }}">Conroy, Ed</a> “<a href="{{ '/ufo-history/ufo-books/conroy-ed-report-on-communion' | relative_url }}">Report on Communion</a>” (<a href="{{ '/tags/1989' | relative_url }}">1989</a>) (available <a href="http://www.amazon.com/dp/0688088643/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0688088643/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>
@@ -59,7 +59,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-See the references provided in the entry for Conroy's book “[Report on Communion](/ufo-history/ufo-books/conroy-ed-report-on-communion)” ([1989](/tags/1989)).
+See the references provided in the entry for Conroy's book “[Report on Communion]({{ '/ufo-history/ufo-books/conroy-ed-report-on-communion' | relative_url }})” ([1989]({{ '/tags/1989' | relative_url }})).
 
 <a id="other"></a>
 ### Other Material

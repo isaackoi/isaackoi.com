@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/zuckerman_ben_1.gif"}
 ---
 
-![zuckerman_ben_1](/images/stories/ufo_personalities/zuckerman_ben_1.gif)
+![zuckerman_ben_1]({{ '/images/stories/ufo_personalities/zuckerman_ben_1.gif' | relative_url }})
 
 *Ben Zuckerman*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1982">1982</a></p>
+<p><a href="{{ '/tags/1982' | relative_url }}">1982</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/hart-michael">Hart, Michael</a> and<a href="/ufo-history/ufo-personalities/zuckerman-ben">Zuckerman, Ben</a> “<a href="/ufo-history/ufo-books/hart-michael-and-zuckerman-ben-extraterrestrials-where-are-they">Extraterrestrials: Where are they?</a>” (<a href="/tags/1982">1982</a>) (available <a href="http://www.amazon.com/dp/0521448034/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521448034/?&amp;tag=ufot-21">on Amazon UK</a>) (<a href="/tags/seti">SETI</a>:)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hart-michael' | relative_url }}">Hart, Michael</a> and<a href="{{ '/ufo-history/ufo-personalities/zuckerman-ben' | relative_url }}">Zuckerman, Ben</a> “<a href="{{ '/ufo-history/ufo-books/hart-michael-and-zuckerman-ben-extraterrestrials-where-are-they' | relative_url }}">Extraterrestrials: Where are they?</a>” (<a href="{{ '/tags/1982' | relative_url }}">1982</a>) (available <a href="http://www.amazon.com/dp/0521448034/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521448034/?&amp;tag=ufot-21">on Amazon UK</a>) (<a href="{{ '/tags/seti' | relative_url }}">SETI</a>:)</p>
 </td>
 </tr>
 </tbody>
@@ -83,10 +83,10 @@ For discussion of Ben Zuckerman see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Achenbach, Joel in his “<a href="/ufo-history/ufo-books/achenbach-joel-captured-by-aliens">Captured by Aliens</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0684848562/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684848562/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 245, 247 (in Chapter 24) of the Simon and Schuster hardback edition.</p>
+<p>Achenbach, Joel in his “<a href="{{ '/ufo-history/ufo-books/achenbach-joel-captured-by-aliens' | relative_url }}">Captured by Aliens</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0684848562/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684848562/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 245, 247 (in Chapter 24) of the Simon and Schuster hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -94,10 +94,10 @@ For discussion of Ben Zuckerman see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p>Koerner, David &amp; LeVay, Simon in their “Here Be Dragons” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/0195128524/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0195128524/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 175-176, 177, 178-179, 181 (in Chapter 7) of the Oxford softcover edition.</p>
+<p>Koerner, David &amp; LeVay, Simon in their “Here Be Dragons” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/0195128524/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0195128524/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 175-176, 177, 178-179, 181 (in Chapter 7) of the Oxford softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>6</p>

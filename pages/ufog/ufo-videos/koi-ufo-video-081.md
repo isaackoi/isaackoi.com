@@ -21,7 +21,7 @@ https://www.youtube.com/watch?v=t6anGvc1VjY
 
 This video was discussed in articles by The Sun and The Daily Mail newspapers during 2010, as well as in the media in several other countries. One copy of the video on Youtube has nearly 1 million views. Nick Pope told The Sun: ‘This is one of the best videos I’ve seen'
 
-In fact, as discussed below, this video was a hoax created by Youtube user "princessmarije" using the Vue 7 graphics system (i.e. a later edition of the Vue software used [by David Nicolas to create the Haiti UFO video](/ufog/ufo-videos/koi-ufo-video-061)and [by Damien White to create the "Los Rosques" UFO videos](/ufog/ufo-videos/koi-ufo-video-075)).
+In fact, as discussed below, this video was a hoax created by Youtube user "princessmarije" using the Vue 7 graphics system (i.e. a later edition of the Vue software used [by David Nicolas to create the Haiti UFO video]({{ '/ufog/ufo-videos/koi-ufo-video-061' | relative_url }})and [by Damien White to create the "Los Rosques" UFO videos]({{ '/ufog/ufo-videos/koi-ufo-video-075' | relative_url }})).
 
 Sections below:
 
@@ -40,15 +40,15 @@ This video appears to show a UFO hovering above some parked trucks alongside a r
 
 Screen shots from the video are included below for ease of identification:
 
-![](/images/stories/ufo_videos/video081_1.JPG)
+![]({{ '/images/stories/ufo_videos/video081_1.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video081_2.JPG)
+![]({{ '/images/stories/ufo_videos/video081_2.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video081_3.JPG)
+![]({{ '/images/stories/ufo_videos/video081_3.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video081_4.JPG)
+![]({{ '/images/stories/ufo_videos/video081_4.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video081_5.JPG)
+![]({{ '/images/stories/ufo_videos/video081_5.JPG' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this video
@@ -65,12 +65,12 @@ The [Daily Mail article](http://www.dailymail.co.uk/news/article-1264965/Is-REAL
 
 "The 30-second clip, thought to be shot from a West Midlands service station park, reveals the saucer-shaped craft zipping over the M5, with the two jets in its wake. Former Ministry of Defence UFO expert Nick Pope told The Sun: ‘This is one of the best videos I’ve seen'."
 
-![](/images/stories/ufo_videos/video081_9.JPG)
+![]({{ '/images/stories/ufo_videos/video081_9.JPG' | relative_url }})
 
 <a id="truth"></a>
 ### 3. The real background to this video
 
-This video was in fact a hoax created using the Vue 7 graphics system (i.e. a later edition of the Vue software used [by David Nicolas to create the Haiti UFO video](/ufog/ufo-videos/koi-ufo-video-061)and [by Damien White to create the "Los Rosques" UFO videos](/ufog/ufo-videos/koi-ufo-video-075)).
+This video was in fact a hoax created using the Vue 7 graphics system (i.e. a later edition of the Vue software used [by David Nicolas to create the Haiti UFO video]({{ '/ufog/ufo-videos/koi-ufo-video-061' | relative_url }})and [by Damien White to create the "Los Rosques" UFO videos]({{ '/ufog/ufo-videos/koi-ufo-video-075' | relative_url }})).
 
 I rather annoyed the hoaxer [in 2010 when I revealed how the hoax was created](http://www.abovetopsecret.com/forum/thread559990/pg1&mem=IsaacKoi). I received a rather bad-tempered message from the hoaxer who seemed upset that I had revealed the hoax before the hoaxer was ready to do so.
 
@@ -82,11 +82,11 @@ The hoaxer subsequently put online a video admitting the hoax, basically boastin
 
 Here are some screen-shots from that video showing the software used.
 
-![](/images/stories/ufo_videos/video081_6.JPG)
+![]({{ '/images/stories/ufo_videos/video081_6.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video081_7.JPG)
+![]({{ '/images/stories/ufo_videos/video081_7.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video081_8.JPG)
+![]({{ '/images/stories/ufo_videos/video081_8.JPG' | relative_url }})
 
 When considering such videos from anonymous sources, I often find it illuminating to look at what we do know. Apart from the video itself, in 2010 I looked at [the Youtube profile of the user that uploaded the video](http://www.youtube.com/user/princessmarije).
 
@@ -110,9 +110,9 @@ Those are the same serial numbers as on the picture of the rear of the "3dshop.o
 
 Back in 2010, I took screen-shots of the P&O container in the video and compared those with the images of the "truck" on the "3dshop.org.uk" website:
 
-![](/images/stories/ufo_videos/video081_10.JPG)
+![]({{ '/images/stories/ufo_videos/video081_10.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video081_11.JPG)
+![]({{ '/images/stories/ufo_videos/video081_11.JPG' | relative_url }})
 
 (I also did various few Google Image searches on P&O containers and it seems (contrary to a thought that crossed my mind) that the serial numbers do not all begin with the same numbers/letters - so this seemed to be considerably more than a coincidence).
 
@@ -137,4 +137,4 @@ There were also discussions online in 2012 when a relabelled copy of the video d
 
 [http://ufoupdateslist.com/2012/mar/m03-016.shtml](http://ufoupdateslist.com/2012/mar/m03-016.shtml)
 
-![](/images/stories/ufo_videos/video081_1d.jpg)
+![]({{ '/images/stories/ufo_videos/video081_1d.jpg' | relative_url }})

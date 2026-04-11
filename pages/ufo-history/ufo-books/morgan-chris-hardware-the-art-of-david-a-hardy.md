@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/1855859173.jpg"}
 book: {"identifiers": ["1855859173"], "primary_isbn": "1855859173", "cover_image": "/book-covers/1855859173.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of Chris Morgan's book “[Hardyware: The Art of David A Hardy](/ufo-history/ufo-books/morgan-chris-hardware-the-art-of-david-a-hardy)” ([2001](/tags/2001)) (available [on Amazon USA](http://www.amazon.com/dp/1855859173/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1855859173/?&tag=ufot-21))
+Brief review to be added of Chris Morgan's book “[Hardyware: The Art of David A Hardy]({{ '/ufo-history/ufo-books/morgan-chris-hardware-the-art-of-david-a-hardy' | relative_url }})” ([2001]({{ '/tags/2001' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1855859173/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1855859173/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p>Baxter, Stephen in Chris Morgan’s “<a href="/ufo-history/ufo-books/morgan-chris-hardware-the-art-of-david-a-hardy">Hardyware : The Art of David A Hardy</a>” (<a href="/tags/2001">2001</a>) at pages 6-8 (in the Foreword) of the Paper Tiger hardback edition.</p>
+<p>Baxter, Stephen in Chris Morgan’s “<a href="{{ '/ufo-history/ufo-books/morgan-chris-hardware-the-art-of-david-a-hardy' | relative_url }}">Hardyware : The Art of David A Hardy</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) at pages 6-8 (in the Foreword) of the Paper Tiger hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>

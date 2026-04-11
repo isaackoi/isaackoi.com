@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/movies_1.jpg"}
 ---
 
-![movies_1](/images/stories/ufo_tags/movies_1.jpg)
+![movies_1]({{ '/images/stories/ufo_tags/movies_1.jpg' | relative_url }})
 
 *The “McPherson tape”*
 
@@ -61,10 +61,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2008">2008</a></p>
+<p><a href="{{ '/tags/2008' | relative_url }}">2008</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/friedman-stanton">Friedman, Stanton</a> in his “<a href="/ufo-history/ufo-books/friedman-stanton-flying-saucers-and-science-a-scientist-investigates-the-mysteries-of-ufos">Flying Saucers and Science : A Scientist Investigates the Mysteries of UFOs</a>” (<a href="/tags/2008">2008</a>) (available <a href="http://www.amazon.com/dp/1601630115/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1601630115/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 247-249 (in Chapter 10) of the New Page softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/friedman-stanton' | relative_url }}">Friedman, Stanton</a> in his “<a href="{{ '/ufo-history/ufo-books/friedman-stanton-flying-saucers-and-science-a-scientist-investigates-the-mysteries-of-ufos' | relative_url }}">Flying Saucers and Science : A Scientist Investigates the Mysteries of UFOs</a>” (<a href="{{ '/tags/2008' | relative_url }}">2008</a>) (available <a href="http://www.amazon.com/dp/1601630115/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1601630115/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 247-249 (in Chapter 10) of the New Page softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -72,10 +72,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randle-kevin">Randle, Kevin</a> D and <a href="/ufo-history/ufo-personalities/estes-russ">Estes, Russ</a> and Cone, William in their “<a href="/ufo-history/ufo-books/randle-kevin-and-estes-russ-and-cone-william-the-abduction-enigma">The Abduction Enigma</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0312867085/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312867085/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 56-57 (in Chapter 1) of the Forge hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randle-kevin' | relative_url }}">Randle, Kevin</a> D and <a href="{{ '/ufo-history/ufo-personalities/estes-russ' | relative_url }}">Estes, Russ</a> and Cone, William in their “<a href="{{ '/ufo-history/ufo-books/randle-kevin-and-estes-russ-and-cone-william-the-abduction-enigma' | relative_url }}">The Abduction Enigma</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0312867085/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312867085/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 56-57 (in Chapter 1) of the Forge hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

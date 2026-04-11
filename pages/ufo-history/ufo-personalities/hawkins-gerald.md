@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/hawkins_gerald_1.jpg"}
 ---
 
-![hawkins_gerald_1](/images/stories/ufo_personalities/hawkins_gerald_1.jpg)
+![hawkins_gerald_1]({{ '/images/stories/ufo_personalities/hawkins_gerald_1.jpg' | relative_url }})
 
 *Gerald Hawkins*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1965">1965</a></p>
+<p><a href="{{ '/tags/1965' | relative_url }}">1965</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/hawkins-gerald">Hawkins, Gerald</a> “<a href="/ufo-history/ufo-books/hawkins-gerald-stonehenge-decoded">Stonehenge decoded</a>” (<a href="/tags/1965">1965</a>) (available <a href="http://www.amazon.com/dp/0385041276/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0385041276/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hawkins-gerald' | relative_url }}">Hawkins, Gerald</a> “<a href="{{ '/ufo-history/ufo-books/hawkins-gerald-stonehenge-decoded' | relative_url }}">Stonehenge decoded</a>” (<a href="{{ '/tags/1965' | relative_url }}">1965</a>) (available <a href="http://www.amazon.com/dp/0385041276/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0385041276/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>
@@ -85,10 +85,10 @@ For discussion of Hawkins see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/wilson-colin">Wilson, Colin</a> in his “<a href="/ufo-history/ufo-books/wilson-colin-alien-dawn">Alien Dawn</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0880642262/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0880642262/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 55 (in Chapter 2) of the Virgin softcover edition (with the same page numbering in the Virgin paperback edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/wilson-colin' | relative_url }}">Wilson, Colin</a> in his “<a href="{{ '/ufo-history/ufo-books/wilson-colin-alien-dawn' | relative_url }}">Alien Dawn</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0880642262/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0880642262/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 55 (in Chapter 2) of the Virgin softcover edition (with the same page numbering in the Virgin paperback edition).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -96,10 +96,10 @@ For discussion of Hawkins see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/watts-alan">Watts, Alan</a> in his “<a href="/ufo-history/ufo-books/watts-alan-ufo-visitation">UFO Visitation</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/0713726008/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713726008/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 180, 181 (in Chapter 17) of the Blandford softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/watts-alan' | relative_url }}">Watts, Alan</a> in his “<a href="{{ '/ufo-history/ufo-books/watts-alan-ufo-visitation' | relative_url }}">UFO Visitation</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/0713726008/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713726008/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 180, 181 (in Chapter 17) of the Blandford softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

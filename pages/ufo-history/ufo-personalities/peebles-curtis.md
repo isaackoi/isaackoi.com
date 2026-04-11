@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/peebles_curtis_1.gif"}
 ---
 
-![peebles_curtis_1](/images/stories/ufo_personalities/peebles_curtis_1.gif)
+![peebles_curtis_1]({{ '/images/stories/ufo_personalities/peebles_curtis_1.gif' | relative_url }})
 
 *Curtis Peebles*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/peebles-curtis">Peebles, Curtis</a> “<a href="/ufo-history/ufo-books/peebles-curtis-watch-the-skies">Watch the Skies!</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/1560983434/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1560983434/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/peebles-curtis' | relative_url }}">Peebles, Curtis</a> “<a href="{{ '/ufo-history/ufo-books/peebles-curtis-watch-the-skies' | relative_url }}">Watch the Skies!</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/1560983434/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1560983434/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>

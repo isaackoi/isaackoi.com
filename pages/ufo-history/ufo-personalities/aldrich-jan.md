@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/aldrich_jan_1.jpg"}
 ---
 
-![aldrich_jan_1](/images/stories/ufo_personalities/aldrich_jan_1.jpg)
+![aldrich_jan_1]({{ '/images/stories/ufo_personalities/aldrich_jan_1.jpg' | relative_url }})
 
 *Jan Aldrich*
 
@@ -39,7 +39,7 @@ The table below includes references to relevant discussions in UFO/SETI books no
 
 Many of the tables of references on this website are considerably longer than the references to books found on most other UFO websites. Indeed, some are probably the longest that have been collated in relation to some events and personalities. I hope that these tables are found to be a useful contribution to UFOlogy.
 
-For discussion of this [Jan Aldrich](/ufo-history/ufo-personalities/aldrich-jan) see the following:
+For discussion of this [Jan Aldrich]({{ '/ufo-history/ufo-personalities/aldrich-jan' | relative_url }}) see the following:
 
 <table border="1" cellpadding="0" cellspacing="0" class="sortable" data-sortable="true" id="sortabletable">
 <thead>
@@ -59,10 +59,10 @@ For discussion of this [Jan Aldrich](/ufo-history/ufo-personalities/aldrich-jan)
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/hall-michael-david">Hall, Michael David</a> and <a href="/ufo-history/ufo-personalities/connors-wendy-ann">Connors, Wendy Ann</a> in their “<a href="/ufo-history/ufo-books/hall-michael-david-and-connors-wendy-ann-captain-edward-j-ruppelt">Captain Edward J Ruppelt : Summer of the Saucers - 1952</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/0970505507/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0970505507/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page vii (in the Acknowledgements) of the Rose Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hall-michael-david' | relative_url }}">Hall, Michael David</a> and <a href="{{ '/ufo-history/ufo-personalities/connors-wendy-ann' | relative_url }}">Connors, Wendy Ann</a> in their “<a href="{{ '/ufo-history/ufo-books/hall-michael-david-and-connors-wendy-ann-captain-edward-j-ruppelt' | relative_url }}">Captain Edward J Ruppelt : Summer of the Saucers - 1952</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/0970505507/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0970505507/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page vii (in the Acknowledgements) of the Rose Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -70,10 +70,10 @@ For discussion of this [Jan Aldrich](/ufo-history/ufo-personalities/aldrich-jan)
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p>Wright, Susan in her “<a href="/ufo-history/ufo-books/wright-susan-ufo-headquarters">UFO Headquarters</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0312193475/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312193475/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 33-34 (in Chapter 2) of the St Martin’s Press softcover edition.</p>
+<p>Wright, Susan in her “<a href="{{ '/ufo-history/ufo-books/wright-susan-ufo-headquarters' | relative_url }}">UFO Headquarters</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0312193475/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312193475/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 33-34 (in Chapter 2) of the St Martin’s Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -81,10 +81,10 @@ For discussion of this [Jan Aldrich](/ufo-history/ufo-personalities/aldrich-jan)
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/dean-jodi">Dean, Jodi</a> in her “<a href="/ufo-history/ufo-books/dean-jodi-aliens-in-america">Aliens in America</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0801484685/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0801484685/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 193 (in the Postscript) of the Cornell University softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dean-jodi' | relative_url }}">Dean, Jodi</a> in her “<a href="{{ '/ufo-history/ufo-books/dean-jodi-aliens-in-america' | relative_url }}">Aliens in America</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0801484685/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0801484685/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 193 (in the Postscript) of the Cornell University softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

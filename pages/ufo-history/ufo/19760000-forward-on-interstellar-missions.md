@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -63,10 +63,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1978">1978</a></p>
+<p><a href="{{ '/tags/1978' | relative_url }}">1978</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/ridpath-ian">Ridpath, Ian</a> in his “<a href="/ufo-history/ufo-books/ridpath-ian-messages-from-the-stars">Messages from the Stars</a>” (<a href="/tags/1978">1978</a>) (available <a href="http://www.amazon.com/dp/0060135891/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0060135891/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 105-106 (in Chapter 6) of the Fontana paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/ridpath-ian' | relative_url }}">Ridpath, Ian</a> in his “<a href="{{ '/ufo-history/ufo-books/ridpath-ian-messages-from-the-stars' | relative_url }}">Messages from the Stars</a>” (<a href="{{ '/tags/1978' | relative_url }}">1978</a>) (available <a href="http://www.amazon.com/dp/0060135891/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0060135891/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 105-106 (in Chapter 6) of the Fontana paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -78,6 +78,6 @@ For discussion see the following:
 <a id="other"></a>
 ### Other Material
 
-Robert L Forward, “A Program for Interstellar Exploration”, Journal of the British Interplanetary Society, Volume 29, pages 610-632 ([1976](/tags/1976)). Reprinted fom Hughes Research Laboratories Research Report 492A, Malibu, California, [1976](/tags/1976).
+Robert L Forward, “A Program for Interstellar Exploration”, Journal of the British Interplanetary Society, Volume 29, pages 610-632 ([1976]({{ '/tags/1976' | relative_url }})). Reprinted fom Hughes Research Laboratories Research Report 492A, Malibu, California, [1976]({{ '/tags/1976' | relative_url }}).
 
 Please use the comments section below to share references to any particularly interesting relevant articles.

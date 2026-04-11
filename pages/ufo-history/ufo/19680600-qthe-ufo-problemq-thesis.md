@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -66,10 +66,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fawcett-george">Fawcett, George</a> and <a href="/ufo-history/ufo-personalities/greenwood-barry">Greenwood, Barry</a> in their “<a href="/ufo-history/ufo-books/fawcett-george-and-greenwood-barry-clear-intent">Clear Intent</a>” (<a href="/tags/1984">1984</a>) (available <a href="http://www.amazon.com/dp/0131366491/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0131366491/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 212-213 (in Chapter 14) of the Spectrum softcover edition (with the same page numbering in the Fireside softcover edition published under the title “The UFO Cover-Up”).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fawcett-george' | relative_url }}">Fawcett, George</a> and <a href="{{ '/ufo-history/ufo-personalities/greenwood-barry' | relative_url }}">Greenwood, Barry</a> in their “<a href="{{ '/ufo-history/ufo-books/fawcett-george-and-greenwood-barry-clear-intent' | relative_url }}">Clear Intent</a>” (<a href="{{ '/tags/1984' | relative_url }}">1984</a>) (available <a href="http://www.amazon.com/dp/0131366491/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0131366491/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 212-213 (in Chapter 14) of the Spectrum softcover edition (with the same page numbering in the Fireside softcover edition published under the title “The UFO Cover-Up”).</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -77,10 +77,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/hall-richard-h">Hall, Richard</a> in “<a href="/ufo-history/ufo-books/hall-richard-the-ufo-evidence-volume-2-a-thirty-year-report">The UFO Evidence: Volume 2 – A Thirty Year Report</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/hall-richard-h">Richard Hall</a>) (available <a href="http://www.amazon.com/dp/0810838818/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0810838818/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 631-632 (in Section 16) of the Scarecrow Press hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hall-richard-h' | relative_url }}">Hall, Richard</a> in “<a href="{{ '/ufo-history/ufo-books/hall-richard-the-ufo-evidence-volume-2-a-thirty-year-report' | relative_url }}">The UFO Evidence: Volume 2 – A Thirty Year Report</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/hall-richard-h' | relative_url }}">Richard Hall</a>) (available <a href="http://www.amazon.com/dp/0810838818/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0810838818/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 631-632 (in Section 16) of the Scarecrow Press hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

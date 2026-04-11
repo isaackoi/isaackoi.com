@@ -14,7 +14,7 @@ header: {"preview_image": "https://covers.openlibrary.org/b/isbn/0708847781-L.jp
 book: {"identifiers": ["0708847781", "0760704406", "1856051285"], "primary_isbn": "0708847781", "cover_image": "https://covers.openlibrary.org/b/isbn/0708847781-L.jpg?default=false", "cover_source": "openlibrary"}
 ---
 
-Brief review to be added of [John Spencer](/ufo-history/ufo-personalities/spencer-john)'s book “[Perspectives](/ufo-history/ufo-books/spencer-john-perspectives)” ([1989](/tags/1989)) (available [on Amazon USA](http://www.amazon.com/dp/0708847781/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0708847781/?&tag=ufot-21))
+Brief review to be added of [John Spencer]({{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }})'s book “[Perspectives]({{ '/ufo-history/ufo-books/spencer-john-perspectives' | relative_url }})” ([1989]({{ '/tags/1989' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0708847781/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0708847781/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> and <a href="/ufo-history/ufo-personalities/hough-peter">Hough, Peter</a> in their “<a href="/ufo-history/ufo-books/randles-jenny-and-hough-peter-looking-for-the-aliens">Looking for the Aliens</a>” (<a href="/tags/1991">1991</a>) (available <a href="http://www.amazon.com/dp/0760704406/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0760704406/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 57 (in Chapter 7) of the Blandford softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> and <a href="{{ '/ufo-history/ufo-personalities/hough-peter' | relative_url }}">Hough, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-hough-peter-looking-for-the-aliens' | relative_url }}">Looking for the Aliens</a>” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/0760704406/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0760704406/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 57 (in Chapter 7) of the Blandford softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -65,10 +65,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1993">1993</a></p>
+<p><a href="{{ '/tags/1993' | relative_url }}">1993</a></p>
 </td>
 <td valign="top" width="547">
-<p>Stone, Reuben in his “<a href="/ufo-history/ufo-books/stone-reuben-ufo-investigation">UFO Investigation</a>” (<a href="/tags/1993">1993</a>) (available <a href="http://www.amazon.com/dp/1856051285/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1856051285/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 67 (in the unnumbered chapter entitled “Visits From The Gods”) of the Blitz Editions hardback edition.</p>
+<p>Stone, Reuben in his “<a href="{{ '/ufo-history/ufo-books/stone-reuben-ufo-investigation' | relative_url }}">UFO Investigation</a>” (<a href="{{ '/tags/1993' | relative_url }}">1993</a>) (available <a href="http://www.amazon.com/dp/1856051285/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1856051285/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 67 (in the unnumbered chapter entitled “Visits From The Gods”) of the Blitz Editions hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

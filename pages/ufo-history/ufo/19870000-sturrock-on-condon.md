@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -34,7 +34,7 @@ Sections below
 <a id="web"></a>
 ### Web Resources
 
-[Sturrock, Peter A](/ufo-history/ufo-personalities/sturrock-peter-a), “An Analysis of the Condon Report on the Colorado UFO Project”, Journal of Scientific Exploration, Vol. 1, No. 1, p. 75. Available online at:
+[Sturrock, Peter A]({{ '/ufo-history/ufo-personalities/sturrock-peter-a' | relative_url }}), “An Analysis of the Condon Report on the Colorado UFO Project”, Journal of Scientific Exploration, Vol. 1, No. 1, p. 75. Available online at:
 [http://www.ufoskeptic.org/sturrock/toc.html](http://www.ufoskeptic.org/sturrock/toc.html)
 
 There is a rapid turnover of UFO material on the Internet. Many links to material on UFO websites quickly become out of date. Therefore, instead of giving many links to specific webpages I have instead focused on providing tables of references to discussion of UFO incidents, personalities and other matters in various books. Those tables of references to discussion in books can be sorted by author, length and date. I hope these tools are useful.
@@ -47,6 +47,6 @@ See main entry in relation to the Condon report (9 January 1969).
 <a id="other"></a>
 ### Other Material
 
-[Sturrock, Peter A](/ufo-history/ufo-personalities/sturrock-peter-a), “An Analysis of the Condon Report on the Colorado UFO Project”, Journal of Scientific Exploration, Vol. 1, No. 1, p. 75.
+[Sturrock, Peter A]({{ '/ufo-history/ufo-personalities/sturrock-peter-a' | relative_url }}), “An Analysis of the Condon Report on the Colorado UFO Project”, Journal of Scientific Exploration, Vol. 1, No. 1, p. 75.
 
 Please use the comments section below to share references to any particularly interesting relevant articles.

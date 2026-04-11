@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/jones_harold_spencer_1.jpg"}
 ---
 
-![jones_harold_spencer_1](/images/stories/ufo_personalities/jones_harold_spencer_1.jpg)
+![jones_harold_spencer_1]({{ '/images/stories/ufo_personalities/jones_harold_spencer_1.jpg' | relative_url }})
 
 *Harold Spencer Jones*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1949">1949</a></p>
+<p><a href="{{ '/tags/1949' | relative_url }}">1949</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/jones-harold-spencer">Jones, Harold Spencer</a> “Life on Other Worlds” (<a href="/tags/seti">SETI</a>:)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/jones-harold-spencer' | relative_url }}">Jones, Harold Spencer</a> “Life on Other Worlds” (<a href="{{ '/tags/seti' | relative_url }}">SETI</a>:)</p>
 </td>
 </tr>
 </tbody>
@@ -85,10 +85,10 @@ For discussion of Harold S Jones see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1954">1954</a></p>
+<p><a href="{{ '/tags/1954' | relative_url }}">1954</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/cramp-leonard-g">Cramp, Leonard G</a> in his “<a href="/ufo-history/ufo-books/cramp-leonard-g-space-gravity-and-the-flying-saucer">Space, Gravity and the Flying Saucer</a>” (<a href="/tags/1954">1954</a>) (available <a href="http://www.amazon.com/dp/B0007EWCY6/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0007EWCY6/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 41 (in Chapter 2) of the Werner Laurie hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/cramp-leonard-g' | relative_url }}">Cramp, Leonard G</a> in his “<a href="{{ '/ufo-history/ufo-books/cramp-leonard-g-space-gravity-and-the-flying-saucer' | relative_url }}">Space, Gravity and the Flying Saucer</a>” (<a href="{{ '/tags/1954' | relative_url }}">1954</a>) (available <a href="http://www.amazon.com/dp/B0007EWCY6/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0007EWCY6/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 41 (in Chapter 2) of the Werner Laurie hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -96,10 +96,10 @@ For discussion of Harold S Jones see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2007">2007</a></p>
+<p><a href="{{ '/tags/2007' | relative_url }}">2007</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clarke-david">Clarke, David</a> and <a href="/ufo-history/ufo-personalities/roberts-andy">Roberts, Andy</a> in their “<a href="/ufo-history/ufo-books/clarke-david-and-roberts-andy-flying-saucerers">Flying Saucerers : A social history of UFOlogy</a>” (<a href="/tags/2007">2007</a>) (available <a href="http://www.amazon.com/dp/1905646003/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1905646003/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 24 (in Chapter 2), 66 (in Chapter 4) of the Alternative Albion softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clarke-david' | relative_url }}">Clarke, David</a> and <a href="{{ '/ufo-history/ufo-personalities/roberts-andy' | relative_url }}">Roberts, Andy</a> in their “<a href="{{ '/ufo-history/ufo-books/clarke-david-and-roberts-andy-flying-saucerers' | relative_url }}">Flying Saucerers : A social history of UFOlogy</a>” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (available <a href="http://www.amazon.com/dp/1905646003/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1905646003/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 24 (in Chapter 2), 66 (in Chapter 4) of the Alternative Albion softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -107,10 +107,10 @@ For discussion of Harold S Jones see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/darling-david">Darling, David</a> in his “<a href="/ufo-history/ufo-books/darling-david-the-extraterrestrial-encyclopedia">The Extraterrestrial Encyclopedia</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/081293248X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/081293248X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 217 (in the entry entitled “<a href="/ufo-history/ufo-personalities/jones-harold-spencer">Jones, Harold Spencer</a> (1890-<a href="/tags/1960">1960</a>)”) of the Three Rivers softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/darling-david' | relative_url }}">Darling, David</a> in his “<a href="{{ '/ufo-history/ufo-books/darling-david-the-extraterrestrial-encyclopedia' | relative_url }}">The Extraterrestrial Encyclopedia</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/081293248X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/081293248X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 217 (in the entry entitled “<a href="{{ '/ufo-history/ufo-personalities/jones-harold-spencer' | relative_url }}">Jones, Harold Spencer</a> (1890-<a href="{{ '/tags/1960' | relative_url }}">1960</a>)”) of the Three Rivers softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -118,10 +118,10 @@ For discussion of Harold S Jones see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2003">2003</a></p>
+<p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/darling-david">Darling, David</a> in his online encyclopedia, “The Encyclopedia of Astrobiology, Astronomy and Spaceflight” (<a href="/tags/2003">2003</a>) in the entry entitled “Spencer Jones, Harold (1890-<a href="/tags/1962">1962</a>)”. The relevant entry is available online at: <a href="http://www.daviddarling.info/encyclopedia/S/SpencerJones.html">http://www.daviddarling.info/encyclopedia/S/SpencerJones.html</a></p>
+<p><a href="{{ '/ufo-history/ufo-personalities/darling-david' | relative_url }}">Darling, David</a> in his online encyclopedia, “The Encyclopedia of Astrobiology, Astronomy and Spaceflight” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) in the entry entitled “Spencer Jones, Harold (1890-<a href="{{ '/tags/1962' | relative_url }}">1962</a>)”. The relevant entry is available online at: <a href="http://www.daviddarling.info/encyclopedia/S/SpencerJones.html">http://www.daviddarling.info/encyclopedia/S/SpencerJones.html</a></p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -129,10 +129,10 @@ For discussion of Harold S Jones see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Davidson, Keay in his “<a href="/ufo-history/ufo-personalities/sagan-carl">Carl Sagan</a>: A Life” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0471395366/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0471395366/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 28 (in Chapter 1) of the Wiley softcover edition.</p>
+<p>Davidson, Keay in his “<a href="{{ '/ufo-history/ufo-personalities/sagan-carl' | relative_url }}">Carl Sagan</a>: A Life” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0471395366/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0471395366/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 28 (in Chapter 1) of the Wiley softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -140,10 +140,10 @@ For discussion of Harold S Jones see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/dick-steven-j">Dick, Steven J</a> in his “<a href="/ufo-history/ufo-books/dick-steven-j-the-biological-universe">The Biological Universe</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/0521343267/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521343267/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 54-55 (in Chapter 2) of the Cambridge hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dick-steven-j' | relative_url }}">Dick, Steven J</a> in his “<a href="{{ '/ufo-history/ufo-books/dick-steven-j-the-biological-universe' | relative_url }}">The Biological Universe</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/0521343267/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521343267/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 54-55 (in Chapter 2) of the Cambridge hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -151,10 +151,10 @@ For discussion of Harold S Jones see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1955">1955</a></p>
+<p><a href="{{ '/tags/1955' | relative_url }}">1955</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/girvan-waveney">Girvan, Waveney</a> in his “Flying Saucers and Common Sense” (<a href="/tags/1955">1955</a>) (available <a href="http://www.amazon.com/dp/B0007DXIH2/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0007DXIH2/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 58-67 (in Chapter 5) of the Frederick Muller hardback edition (with the same page numbering in the Citadel hardback edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/girvan-waveney' | relative_url }}">Girvan, Waveney</a> in his “Flying Saucers and Common Sense” (<a href="{{ '/tags/1955' | relative_url }}">1955</a>) (available <a href="http://www.amazon.com/dp/B0007DXIH2/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0007DXIH2/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 58-67 (in Chapter 5) of the Frederick Muller hardback edition (with the same page numbering in the Citadel hardback edition).</p>
 </td>
 <td valign="top" width="52">
 <p>10</p>
@@ -162,10 +162,10 @@ For discussion of Harold S Jones see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Hennessey, Roger in his “<a href="/ufo-history/ufo-books/hennessey-roger-a-s-worlds-without-end-the-historic-search-for-extraterrestrial-life">Worlds Without End : The Historic Search for Extraterrestrial Life</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/075241450X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/075241450X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 107-108, 109 (in Chapter 10), 114 (in Chapter 11) of the Tempus hardback edition.</p>
+<p>Hennessey, Roger in his “<a href="{{ '/ufo-history/ufo-books/hennessey-roger-a-s-worlds-without-end-the-historic-search-for-extraterrestrial-life' | relative_url }}">Worlds Without End : The Historic Search for Extraterrestrial Life</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/075241450X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/075241450X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 107-108, 109 (in Chapter 10), 114 (in Chapter 11) of the Tempus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>

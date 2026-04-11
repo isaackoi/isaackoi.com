@@ -14,7 +14,7 @@ header: {"preview_image": null}
 book: {"identifiers": ["B0006WT710"]}
 ---
 
-Brief review to be added of Susy Smith “[Strangers from Space](/ufo-history/ufo-books/smith-susy-strangers-from-space)” ([1977](/tags/1977)) (available [on Amazon USA](http://www.amazon.com/dp/B0006WT710/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B0006WT710/?&tag=ufot-21))
+Brief review to be added of Susy Smith “[Strangers from Space]({{ '/ufo-history/ufo-books/smith-susy-strangers-from-space' | relative_url }})” ([1977]({{ '/tags/1977' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/B0006WT710/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B0006WT710/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

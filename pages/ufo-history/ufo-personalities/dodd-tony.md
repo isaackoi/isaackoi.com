@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/dodd_tony_1.jpg"}
 ---
 
-![dodd_tony_1](/images/stories/ufo_personalities/dodd_tony_1.jpg)
+![dodd_tony_1]({{ '/images/stories/ufo_personalities/dodd_tony_1.jpg' | relative_url }})
 
 *Tony Dodd*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/dodd-tony">Dodd, Tony</a> “<a href="/ufo-history/ufo-books/dodd-tony-alien-investigator">Alien Investigator</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0747261415/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0747261415/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dodd-tony' | relative_url }}">Dodd, Tony</a> “<a href="{{ '/ufo-history/ufo-books/dodd-tony-alien-investigator' | relative_url }}">Alien Investigator</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0747261415/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0747261415/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>
@@ -85,10 +85,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1988">1988</a></p>
+<p><a href="{{ '/tags/1988' | relative_url }}">1988</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/andrews-ann">Andrews, Ann</a> and Ritchie, Jean in their “Abducted” (<a href="/tags/1988">1988</a>) (available <a href="http://www.amazon.com/dp/0747275165/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0747275165/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 80-83, 85 (in Chapter 6) of the Headline hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/andrews-ann' | relative_url }}">Andrews, Ann</a> and Ritchie, Jean in their “Abducted” (<a href="{{ '/tags/1988' | relative_url }}">1988</a>) (available <a href="http://www.amazon.com/dp/0747275165/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0747275165/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 80-83, 85 (in Chapter 6) of the Headline hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>
@@ -96,10 +96,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1987">1987</a></p>
+<p><a href="{{ '/tags/1987' | relative_url }}">1987</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/good-timothy">Good, Timothy</a> in his “<a href="/ufo-history/ufo-books/good-timothy-above-top-secret">Above Top Secret</a>” (<a href="/tags/1987">1987</a>) (available <a href="http://www.amazon.com/dp/0688092020/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0688092020/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 115-116 (in Chapter 5) of the Sidgwick &amp; Jackson hardback edition (with the same page numbering in the Guild Publishing hardback edition and the Grafton paperback edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/good-timothy' | relative_url }}">Good, Timothy</a> in his “<a href="{{ '/ufo-history/ufo-books/good-timothy-above-top-secret' | relative_url }}">Above Top Secret</a>” (<a href="{{ '/tags/1987' | relative_url }}">1987</a>) (available <a href="http://www.amazon.com/dp/0688092020/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0688092020/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 115-116 (in Chapter 5) of the Sidgwick &amp; Jackson hardback edition (with the same page numbering in the Guild Publishing hardback edition and the Grafton paperback edition).</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -107,10 +107,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/good-timothy">Good, Timothy</a> in his “<a href="/ufo-history/ufo-books/good-timothy-beyond-top-secret">Beyond Top Secret</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/0283062452/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0283062452/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 79-80 (in Chapter 5) of the Sidgwick &amp; Jackson hardback edition (with the same page numbering in the Pan paperback edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/good-timothy' | relative_url }}">Good, Timothy</a> in his “<a href="{{ '/ufo-history/ufo-books/good-timothy-beyond-top-secret' | relative_url }}">Beyond Top Secret</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/0283062452/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0283062452/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 79-80 (in Chapter 5) of the Sidgwick &amp; Jackson hardback edition (with the same page numbering in the Pan paperback edition).</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -118,10 +118,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/hansen-terry">Hansen, Terry</a> in his “<a href="/ufo-history/ufo-books/hansen-terry-the-missing-times-news-media-complicity-in-the-ufo-cover-up">The Missing Times : News Media Complicity in the UFO Cover-Up</a> : News Media Complicity in the UFO Cover -Up” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/0738836125/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0738836125/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 205 (in Chapter 5) of the Xlibris softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hansen-terry' | relative_url }}">Hansen, Terry</a> in his “<a href="{{ '/ufo-history/ufo-books/hansen-terry-the-missing-times-news-media-complicity-in-the-ufo-cover-up' | relative_url }}">The Missing Times : News Media Complicity in the UFO Cover-Up</a> : News Media Complicity in the UFO Cover -Up” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/0738836125/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0738836125/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 205 (in Chapter 5) of the Xlibris softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

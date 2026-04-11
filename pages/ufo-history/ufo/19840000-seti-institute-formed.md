@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/seti_1.jpg"}
 ---
 
-![seti_1](/images/stories/ufo_tags/seti_1.jpg)
+![seti_1]({{ '/images/stories/ufo_tags/seti_1.jpg' | relative_url }})
 
 *SETI Institute formed*
 
@@ -63,10 +63,10 @@ For discussion of the SETI Institute see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2002">2002</a></p>
+<p><a href="{{ '/tags/2002' | relative_url }}">2002</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/billingham-john">Billingham, John</a> and Pierson, Thomas in “<a href="/ufo-history/ufo-books/elkers-ronald-d-and-cullers-kent-d-and-billingham-john-and-scheffer-louis-k-editors-seti-2020-a-roadmap-for-the-search-for-extraterrestrial-intelligence">SETI 2020 : A Roadmap for the Search for Extraterrestrial Intelligence</a>” (<a href="/tags/2002">2002</a>) (edited by Elkers, Ronald D and <a href="/ufo-history/ufo-personalities/cullers-kent-d">Cullers, Kent D</a> and <a href="/ufo-history/ufo-personalities/billingham-john">Billingham, John</a> and Scheffer, Louis K) (available <a href="http://www.amazon.com/dp/0966633539/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0966633539/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages xxxiv-xxxvi (in the Preface) of the SETI Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/billingham-john' | relative_url }}">Billingham, John</a> and Pierson, Thomas in “<a href="{{ '/ufo-history/ufo-books/elkers-ronald-d-and-cullers-kent-d-and-billingham-john-and-scheffer-louis-k-editors-seti-2020-a-roadmap-for-the-search-for-extraterrestrial-intelligence' | relative_url }}">SETI 2020 : A Roadmap for the Search for Extraterrestrial Intelligence</a>” (<a href="{{ '/tags/2002' | relative_url }}">2002</a>) (edited by Elkers, Ronald D and <a href="{{ '/ufo-history/ufo-personalities/cullers-kent-d' | relative_url }}">Cullers, Kent D</a> and <a href="{{ '/ufo-history/ufo-personalities/billingham-john' | relative_url }}">Billingham, John</a> and Scheffer, Louis K) (available <a href="http://www.amazon.com/dp/0966633539/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0966633539/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages xxxiv-xxxvi (in the Preface) of the SETI Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -74,10 +74,10 @@ For discussion of the SETI Institute see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/darling-david">Darling, David</a> in his “<a href="/ufo-history/ufo-books/darling-david-the-extraterrestrial-encyclopedia">The Extraterrestrial Encyclopedia</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/081293248X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/081293248X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 385 (in the entry entitled “SETI Institute”) of the Three Rivers softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/darling-david' | relative_url }}">Darling, David</a> in his “<a href="{{ '/ufo-history/ufo-books/darling-david-the-extraterrestrial-encyclopedia' | relative_url }}">The Extraterrestrial Encyclopedia</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/081293248X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/081293248X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 385 (in the entry entitled “SETI Institute”) of the Three Rivers softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -85,10 +85,10 @@ For discussion of the SETI Institute see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2003">2003</a></p>
+<p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/darling-david">Darling, David</a> in his online encyclopedia, “The Encyclopedia of Astrobiology, Astronomy and Spaceflight” (<a href="/tags/2003">2003</a>) in the entry entitled “SETI Institute”. The relevant entry is available online at:</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/darling-david' | relative_url }}">Darling, David</a> in his online encyclopedia, “The Encyclopedia of Astrobiology, Astronomy and Spaceflight” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) in the entry entitled “SETI Institute”. The relevant entry is available online at:</p>
 <p><a href="http://www.daviddarling.info/encyclopedia/S/SETIInst.html">http://www.daviddarling.info/encyclopedia/S/SETIInst.html</a></p>
 </td>
 <td valign="top" width="52">
@@ -97,10 +97,10 @@ For discussion of the SETI Institute see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2002">2002</a></p>
+<p><a href="{{ '/tags/2002' | relative_url }}">2002</a></p>
 </td>
 <td valign="top" width="547">
-<p>SETI Institute’s SETI Science and Technology Working Group (“the SSTWG”) in “<a href="/ufo-history/ufo-books/elkers-ronald-d-and-cullers-kent-d-and-billingham-john-and-scheffer-louis-k-editors-seti-2020-a-roadmap-for-the-search-for-extraterrestrial-intelligence">SETI 2020 : A Roadmap for the Search for Extraterrestrial Intelligence</a>” (<a href="/tags/2002">2002</a>) (edited by Elkers, Ronald D and <a href="/ufo-history/ufo-personalities/cullers-kent-d">Cullers, Kent D</a> and <a href="/ufo-history/ufo-personalities/billingham-john">Billingham, John</a> and Scheffer, Louis K) (available <a href="http://www.amazon.com/dp/0966633539/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0966633539/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 271-272 (in Chapter 8) of the SETI Press softcover edition.</p>
+<p>SETI Institute’s SETI Science and Technology Working Group (“the SSTWG”) in “<a href="{{ '/ufo-history/ufo-books/elkers-ronald-d-and-cullers-kent-d-and-billingham-john-and-scheffer-louis-k-editors-seti-2020-a-roadmap-for-the-search-for-extraterrestrial-intelligence' | relative_url }}">SETI 2020 : A Roadmap for the Search for Extraterrestrial Intelligence</a>” (<a href="{{ '/tags/2002' | relative_url }}">2002</a>) (edited by Elkers, Ronald D and <a href="{{ '/ufo-history/ufo-personalities/cullers-kent-d' | relative_url }}">Cullers, Kent D</a> and <a href="{{ '/ufo-history/ufo-personalities/billingham-john' | relative_url }}">Billingham, John</a> and Scheffer, Louis K) (available <a href="http://www.amazon.com/dp/0966633539/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0966633539/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 271-272 (in Chapter 8) of the SETI Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -108,10 +108,10 @@ For discussion of the SETI Institute see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/shostak-seth">Shostak, Seth</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 533 (in an entry entitled “SETI Institute”) of the New American Library softcover edition, at page 521 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/shostak-seth' | relative_url }}">Shostak, Seth</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 533 (in an entry entitled “SETI Institute”) of the New American Library softcover edition, at page 521 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -119,10 +119,10 @@ For discussion of the SETI Institute see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/shostak-seth">Shostak, Seth</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 640 (in an entry entitled “SETI Institute”) of the Robinson softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/shostak-seth' | relative_url }}">Shostak, Seth</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 640 (in an entry entitled “SETI Institute”) of the Robinson softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

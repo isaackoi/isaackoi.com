@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/movies_1.jpg"}
 ---
 
-![movies_1](/images/stories/ufo_tags/movies_1.jpg)
+![movies_1]({{ '/images/stories/ufo_tags/movies_1.jpg' | relative_url }})
 
 *“Signs”*
 
@@ -73,10 +73,10 @@ For discussion of the movie “Signs” see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2003">2003</a></p>
+<p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/andrews-colin">Andrews, Colin</a> with Spignesi, Stephen J in their “<a href="/ufo-history/ufo-books/andrews-colin-with-spignesi-stephen-j-crop-circles-signs-of-contact">Crop Circles: Signs of Contact</a>” (<a href="/tags/2003">2003</a>) at pages 169-171 (in Chapter 19) of the New Page softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/andrews-colin' | relative_url }}">Andrews, Colin</a> with Spignesi, Stephen J in their “<a href="{{ '/ufo-history/ufo-books/andrews-colin-with-spignesi-stephen-j-crop-circles-signs-of-contact' | relative_url }}">Crop Circles: Signs of Contact</a>” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) at pages 169-171 (in Chapter 19) of the New Page softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -84,10 +84,10 @@ For discussion of the movie “Signs” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2005">2005</a></p>
+<p><a href="{{ '/tags/2005' | relative_url }}">2005</a></p>
 </td>
 <td valign="top" width="547">
-<p>Kaveney, Roz in her “<a href="/ufo-history/ufo-books/kaveney-roz-from-alien-to-the-matrix-reading-science-fiction-film">From Alien to The Matrix: Reading Science Fiction Film</a>” (<a href="/tags/2005">2005</a>) (available <a href="http://www.amazon.com/dp/1850438064/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1850438064/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 50-51 (in Chapter 4) of the I B Taurus softcover edition.</p>
+<p>Kaveney, Roz in her “<a href="{{ '/ufo-history/ufo-books/kaveney-roz-from-alien-to-the-matrix-reading-science-fiction-film' | relative_url }}">From Alien to The Matrix: Reading Science Fiction Film</a>” (<a href="{{ '/tags/2005' | relative_url }}">2005</a>) (available <a href="http://www.amazon.com/dp/1850438064/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1850438064/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 50-51 (in Chapter 4) of the I B Taurus softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

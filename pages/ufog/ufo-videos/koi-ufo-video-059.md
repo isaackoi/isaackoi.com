@@ -42,13 +42,13 @@ This video was uploaded by Oondyla to Youtube (as Youtube video hz7FQ2NvBLU) on 
 
 The following sample screenshots are taken from that video for ease of identification of the relevant video:
 
-![](/images/stories/ufo_videos/video059_1.JPG)
+![]({{ '/images/stories/ufo_videos/video059_1.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video059_2.JPG)
+![]({{ '/images/stories/ufo_videos/video059_2.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video059_3.JPG)
+![]({{ '/images/stories/ufo_videos/video059_3.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video59_4.JPG)
+![]({{ '/images/stories/ufo_videos/video59_4.JPG' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this video
@@ -84,15 +84,15 @@ If you enlarge that part of the video, you can see the name "Oondyla".
 
 Also, if you have a glance at[the oondyla.com website via the Internet Archive's Wayback Machine](https://web.archive.org/web/20120301190203/http://oondyla.com/WhoWeAre.html) then you will see that Oondyla.com was set up as a viral marketing website:
 
-![](/images/stories/ufo_videos/video059_8.JPG)
+![]({{ '/images/stories/ufo_videos/video059_8.JPG' | relative_url }})
 
 The relevant road sign in the "fighter jet" video can be seen in the screen shots below from that video.
 
-![](/images/stories/ufo_videos/video059_4.JPG)
+![]({{ '/images/stories/ufo_videos/video059_4.JPG' | relative_url }})
 
 To make the name "oondyla" clearer, I have enlarged the relevant road sign below:
 
-![](/images/stories/ufo_videos/video059_5.JPG)
+![]({{ '/images/stories/ufo_videos/video059_5.JPG' | relative_url }})
 
 Oondyla's video illustrating his skills in creating video special effects is embedded here:
 
@@ -102,7 +102,7 @@ One of Oondyla's other "UFO" videos is embedded below, with a screen shot of his
 
 [https://www.youtube.com/watch?v=v_4Gi2VhIbA](https://www.youtube.com/watch?v=v_4Gi2VhIbA)
 
-![](/images/stories/ufo_videos/video059_6.JPG)
+![]({{ '/images/stories/ufo_videos/video059_6.JPG' | relative_url }})
 
 <a id="forums"></a>
 ### 4. Relevant online forum discussions
@@ -113,4 +113,4 @@ Relevant discussions on the AboveTopSecret.com forum include the following:
 
 [2014 (July) thread entitled "fighter jets escort ufo video"](http://www.abovetopsecret.com/forum/thread1023974/pg1)
 
-![](/images/stories/ufo_videos/video059_1d.JPG)
+![]({{ '/images/stories/ufo_videos/video059_1d.JPG' | relative_url }})

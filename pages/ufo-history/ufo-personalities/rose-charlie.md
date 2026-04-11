@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/no_avatar.jpg"}
 ---
 
-![](/images/stories/no_avatar.jpg)
+![]({{ '/images/stories/no_avatar.jpg' | relative_url }})
 
 *Image needed*
 
@@ -57,10 +57,10 @@ For discussion of Congressman Charlie Rose see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/schnabel-jim">Schnabel, Jim</a> in his “<a href="/ufo-history/ufo-books/schnabel-jim-remote-viewers-the-secret-history-of-americas-psychic-spies">Remote Viewers : The Secret History of America’s Psychic Spies</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0440614058/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0440614058/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 56 (in Chapter 3), 219 (in Chapter 15), 271 (in Chapter 18) of the Dell paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/schnabel-jim' | relative_url }}">Schnabel, Jim</a> in his “<a href="{{ '/ufo-history/ufo-books/schnabel-jim-remote-viewers-the-secret-history-of-americas-psychic-spies' | relative_url }}">Remote Viewers : The Secret History of America’s Psychic Spies</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0440614058/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0440614058/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 56 (in Chapter 3), 219 (in Chapter 15), 271 (in Chapter 18) of the Dell paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -68,10 +68,10 @@ For discussion of Congressman Charlie Rose see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2005">2005</a></p>
+<p><a href="{{ '/tags/2005' | relative_url }}">2005</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/smith-paul">Smith, Paul</a> in his “<a href="/ufo-history/ufo-books/smith-paul-reading-the-enemys-mind">Reading the Enemy’s Mind</a>” (<a href="/tags/2005">2005</a>) (available <a href="http://www.amazon.com/dp/0312875150/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312875150/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 217 of the Forge hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/smith-paul' | relative_url }}">Smith, Paul</a> in his “<a href="{{ '/ufo-history/ufo-books/smith-paul-reading-the-enemys-mind' | relative_url }}">Reading the Enemy’s Mind</a>” (<a href="{{ '/tags/2005' | relative_url }}">2005</a>) (available <a href="http://www.amazon.com/dp/0312875150/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312875150/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 217 of the Forge hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

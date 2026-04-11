@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0374133247.jpg"}
 book: {"identifiers": ["0374133247", "0890092486"], "primary_isbn": "0374133247", "cover_image": "/book-covers/0374133247.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Christopher Evans](/ufo-history/ufo-personalities/evans-christopher)'s book “[Cults of Unreason](/ufo-history/ufo-books/evans-christopher-cults-of-unreason)” ([1973](/tags/1973)) (available [on Amazon USA](http://www.amazon.com/dp/0374133247/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0374133247/?&tag=ufot-21))
+Brief review to be added of [Christopher Evans]({{ '/ufo-history/ufo-personalities/evans-christopher' | relative_url }})'s book “[Cults of Unreason]({{ '/ufo-history/ufo-books/evans-christopher-cults-of-unreason' | relative_url }})” ([1973]({{ '/tags/1973' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0374133247/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0374133247/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -52,10 +52,10 @@ Many of the tables of references on this website are considerably longer than th
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1979">1979</a></p>
+<p><a href="{{ '/tags/1979' | relative_url }}">1979</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/lunan-duncan">Lunan, Duncan</a> in Chris Boyce’s <a href="/ufo-history/ufo-books/boyce-chris-extraterrestrial-encounter">Extraterrestrial Encounter</a> (<a href="/tags/1979">1979</a>) (available <a href="http://www.amazon.com/dp/0890092486/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0890092486/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 95 (in Chapter 7) of the David &amp; Charles hardback edition, at page 87 of the <a href="/tags/1980">1980</a> revised NEL paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/lunan-duncan' | relative_url }}">Lunan, Duncan</a> in Chris Boyce’s <a href="{{ '/ufo-history/ufo-books/boyce-chris-extraterrestrial-encounter' | relative_url }}">Extraterrestrial Encounter</a> (<a href="{{ '/tags/1979' | relative_url }}">1979</a>) (available <a href="http://www.amazon.com/dp/0890092486/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0890092486/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 95 (in Chapter 7) of the David &amp; Charles hardback edition, at page 87 of the <a href="{{ '/tags/1980' | relative_url }}">1980</a> revised NEL paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -52,6 +52,6 @@ See main entry in relation to the Condon report (9 January 1969).
 <a id="other"></a>
 ### Other Material
 
-“The Skeptical Inquirer” magazine, Volume 1:A-K0, Summer [1986](/tags/1986), page 328
+“The Skeptical Inquirer” magazine, Volume 1:A-K0, Summer [1986]({{ '/tags/1986' | relative_url }}), page 328
 
 Please use the comments section below to share references to any particularly interesting relevant articles.

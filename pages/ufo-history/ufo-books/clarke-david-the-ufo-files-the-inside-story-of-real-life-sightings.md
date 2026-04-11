@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/1905615507.jpg"}
 book: {"identifiers": ["1905615507"], "primary_isbn": "1905615507", "cover_image": "/book-covers/1905615507.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [David Clarke](/ufo-history/ufo-personalities/clarke-david)'s book “[The UFO Files: The Inside Story of Real-Life Sightings](/ufo-history/ufo-books/clarke-david-the-ufo-files-the-inside-story-of-real-life-sightings)” ([2009](/tags/2009)) (available [on Amazon USA](http://www.amazon.com/dp/1905615507/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1905615507/?&tag=ufot-21)).
+Brief review to be added of [David Clarke]({{ '/ufo-history/ufo-personalities/clarke-david' | relative_url }})'s book “[The UFO Files: The Inside Story of Real-Life Sightings]({{ '/ufo-history/ufo-books/clarke-david-the-ufo-files-the-inside-story-of-real-life-sightings' | relative_url }})” ([2009]({{ '/tags/2009' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1905615507/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1905615507/?&tag=ufot-21)).
 
 1. [Web Resources](#web)
 

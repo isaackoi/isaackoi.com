@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/038530532X.jpg"}
 book: {"identifiers": ["038530532X", "0963916122", "1841196134", "0451204247", "1601630115"], "primary_isbn": "038530532X", "cover_image": "/book-covers/038530532X.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Frank Drake](/ufo-history/ufo-personalities/drake-frank) and Dava Sobel's book “[Is Anyone Out There?](/ufo-history/ufo-books/drake-frank-and-sobel-dava-is-anyone-out-there)” ([1991](/tags/1991)) (available [on Amazon USA](http://www.amazon.com/dp/038530532X/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/038530532X/?&tag=ufot-21))
+Brief review to be added of [Frank Drake]({{ '/ufo-history/ufo-personalities/drake-frank' | relative_url }}) and Dava Sobel's book “[Is Anyone Out There?]({{ '/ufo-history/ufo-books/drake-frank-and-sobel-dava-is-anyone-out-there' | relative_url }})” ([1991]({{ '/tags/1991' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/038530532X/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/038530532X/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -52,10 +52,10 @@ Many of the tables of references on this website are considerably longer than th
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fitzgerald-randall">Fitzgerald, Randall</a> in his “<a href="/ufo-history/ufo-books/fitzgerald-randall-the-cosmic-test-tube">The Cosmic Test Tube</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0963916122/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963916122/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 364-365 (in Section 5) with a one sentence summary at page 379 (in the Guide To Books) of the Moonlake Media softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }}">Fitzgerald, Randall</a> in his “<a href="{{ '/ufo-history/ufo-books/fitzgerald-randall-the-cosmic-test-tube' | relative_url }}">The Cosmic Test Tube</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0963916122/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963916122/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 364-365 (in Section 5) with a one sentence summary at page 379 (in the Guide To Books) of the Moonlake Media softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -63,10 +63,10 @@ Many of the tables of references on this website are considerably longer than th
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fitzgerald-randall">Fitzgerald, Randall</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 329 (in an entry entitled “Is Anyone Out There?”) of the Robinson softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }}">Fitzgerald, Randall</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 329 (in an entry entitled “Is Anyone Out There?”) of the Robinson softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -74,10 +74,10 @@ Many of the tables of references on this website are considerably longer than th
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fitzgerald-randall">Fitzgerald, Randall</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 273 (in an entry entitled “Is Anyone Out There?”) of the New American Library softcover edition, at page 267 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }}">Fitzgerald, Randall</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 273 (in an entry entitled “Is Anyone Out There?”) of the New American Library softcover edition, at page 267 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -85,10 +85,10 @@ Many of the tables of references on this website are considerably longer than th
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2008">2008</a></p>
+<p><a href="{{ '/tags/2008' | relative_url }}">2008</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/friedman-stanton">Friedman, Stanton</a> in his “Flying Saucers and Science : A Scientist Investigates the Mysteries of UFOs” (<a href="/tags/2008">2008</a>) (available <a href="http://www.amazon.com/dp/1601630115/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1601630115/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 137 (in Chapter 5) of the New Page softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/friedman-stanton' | relative_url }}">Friedman, Stanton</a> in his “Flying Saucers and Science : A Scientist Investigates the Mysteries of UFOs” (<a href="{{ '/tags/2008' | relative_url }}">2008</a>) (available <a href="http://www.amazon.com/dp/1601630115/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1601630115/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 137 (in Chapter 5) of the New Page softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

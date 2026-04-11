@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/shatner_william_1.jpg"}
 ---
 
-![shatner_william_1](/images/stories/ufo_personalities/shatner_william_1.jpg)
+![shatner_william_1]({{ '/images/stories/ufo_personalities/shatner_william_1.jpg' | relative_url }})
 
 *William Shatner*
 
@@ -57,10 +57,10 @@ For discussion of William Shatner see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1979">1979</a></p>
+<p><a href="{{ '/tags/1979' | relative_url }}">1979</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/beckley-timothy-green">Beckley, Timothy Green</a> in “<a href="/ufo-history/ufo-books/machlin-milt-the-total-ufo-story">The Total UFO Story</a>” (<a href="/tags/1979">1979</a>) (edited by Milt Machlin) (available <a href="http://www.amazon.com/dp/B000GRISSS/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000GRISSS/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 256-257 (in Chapter 14, entitled “Celebrities Who Have Seen UFOs”) of the Dale paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/beckley-timothy-green' | relative_url }}">Beckley, Timothy Green</a> in “<a href="{{ '/ufo-history/ufo-books/machlin-milt-the-total-ufo-story' | relative_url }}">The Total UFO Story</a>” (<a href="{{ '/tags/1979' | relative_url }}">1979</a>) (edited by Milt Machlin) (available <a href="http://www.amazon.com/dp/B000GRISSS/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000GRISSS/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 256-257 (in Chapter 14, entitled “Celebrities Who Have Seen UFOs”) of the Dale paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -68,10 +68,10 @@ For discussion of William Shatner see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2008">2008</a></p>
+<p><a href="{{ '/tags/2008' | relative_url }}">2008</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/friedman-stanton">Friedman, Stanton</a> in his “<a href="/ufo-history/ufo-books/friedman-stanton-flying-saucers-and-science-a-scientist-investigates-the-mysteries-of-ufos">Flying Saucers and Science : A Scientist Investigates the Mysteries of UFOs</a>” (<a href="/tags/2008">2008</a>) (available <a href="http://www.amazon.com/dp/1601630115/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1601630115/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 203 (in Chapter 8) of the New Page softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/friedman-stanton' | relative_url }}">Friedman, Stanton</a> in his “<a href="{{ '/ufo-history/ufo-books/friedman-stanton-flying-saucers-and-science-a-scientist-investigates-the-mysteries-of-ufos' | relative_url }}">Flying Saucers and Science : A Scientist Investigates the Mysteries of UFOs</a>” (<a href="{{ '/tags/2008' | relative_url }}">2008</a>) (available <a href="http://www.amazon.com/dp/1601630115/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1601630115/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 203 (in Chapter 8) of the New Page softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -79,10 +79,10 @@ For discussion of William Shatner see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2005">2005</a></p>
+<p><a href="{{ '/tags/2005' | relative_url }}">2005</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/luckman-michael">Luckman, Michael</a> in his “<a href="/ufo-history/ufo-books/luckman-michael-alien-rock-the-rock-n-roll-extraterrestrial-connection">Alien Rock : The Rock ‘n’ Roll Extraterrestrial Connection</a>” (<a href="/tags/2005">2005</a>) (available <a href="http://www.amazon.com/dp/074346673X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/074346673X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 131-132 (in Chapter 5) of the Pocket Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/luckman-michael' | relative_url }}">Luckman, Michael</a> in his “<a href="{{ '/ufo-history/ufo-books/luckman-michael-alien-rock-the-rock-n-roll-extraterrestrial-connection' | relative_url }}">Alien Rock : The Rock ‘n’ Roll Extraterrestrial Connection</a>” (<a href="{{ '/tags/2005' | relative_url }}">2005</a>) (available <a href="http://www.amazon.com/dp/074346673X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/074346673X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 131-132 (in Chapter 5) of the Pocket Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -90,10 +90,10 @@ For discussion of William Shatner see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1985">1985</a></p>
+<p><a href="{{ '/tags/1985' | relative_url }}">1985</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> and <a href="/ufo-history/ufo-personalities/warrington-peter">Warrington, Peter</a> in their “<a href="/ufo-history/ufo-books/randles-jenny-and-warrington-peter-science-and-the-ufos">Science and the UFOs</a> " (<a href="/tags/1985">1985</a>) (available <a href="http://www.amazon.com/dp/0631135634/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0631135634/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 134 (in Chapter 8) of the Blackwell hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> and <a href="{{ '/ufo-history/ufo-personalities/warrington-peter' | relative_url }}">Warrington, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-warrington-peter-science-and-the-ufos' | relative_url }}">Science and the UFOs</a> " (<a href="{{ '/tags/1985' | relative_url }}">1985</a>) (available <a href="http://www.amazon.com/dp/0631135634/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0631135634/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 134 (in Chapter 8) of the Blackwell hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -101,10 +101,10 @@ For discussion of William Shatner see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/rux-bruce">Rux, Bruce</a> in his “<a href="/ufo-history/ufo-books/rux-bruce-hollywood-vs-the-aliens">Hollywood Vs. the Aliens</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1883319617/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1883319617/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 320-321 (in Chapter 6) of the Frog softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/rux-bruce' | relative_url }}">Rux, Bruce</a> in his “<a href="{{ '/ufo-history/ufo-books/rux-bruce-hollywood-vs-the-aliens' | relative_url }}">Hollywood Vs. the Aliens</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1883319617/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1883319617/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 320-321 (in Chapter 6) of the Frog softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -112,10 +112,10 @@ For discussion of William Shatner see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sachs-margaret">Sachs, Margaret</a> in her “<a href="/ufo-history/ufo-books/sachs-margaret-the-ufo-encyclopedia">The UFO Encyclopedia</a>“ (<a href="/tags/1980">1980</a> (available <a href="http://www.amazon.com/dp/0399124217/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0399124217/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 289 (in an entry entitled “<a href="/ufo-history/ufo-personalities/shatner-william">Shatner, William</a>”) of the Corgi softback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sachs-margaret' | relative_url }}">Sachs, Margaret</a> in her “<a href="{{ '/ufo-history/ufo-books/sachs-margaret-the-ufo-encyclopedia' | relative_url }}">The UFO Encyclopedia</a>“ (<a href="{{ '/tags/1980' | relative_url }}">1980</a> (available <a href="http://www.amazon.com/dp/0399124217/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0399124217/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 289 (in an entry entitled “<a href="{{ '/ufo-history/ufo-personalities/shatner-william' | relative_url }}">Shatner, William</a>”) of the Corgi softback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -123,10 +123,10 @@ For discussion of William Shatner see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1977">1977</a></p>
+<p><a href="{{ '/tags/1977' | relative_url }}">1977</a></p>
 </td>
 <td valign="top" width="547">
-<p>Smith, Susy in her “<a href="/ufo-history/ufo-books/smith-susy-strangers-from-space">Strangers from Space</a>” (<a href="/tags/1977">1977</a>) (available <a href="http://www.amazon.com/dp/B0006WT710/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0006WT710/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 122-123 (in Chapter 14) of the Manor paperback edition.</p>
+<p>Smith, Susy in her “<a href="{{ '/ufo-history/ufo-books/smith-susy-strangers-from-space' | relative_url }}">Strangers from Space</a>” (<a href="{{ '/tags/1977' | relative_url }}">1977</a>) (available <a href="http://www.amazon.com/dp/B0006WT710/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0006WT710/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 122-123 (in Chapter 14) of the Manor paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -134,10 +134,10 @@ For discussion of William Shatner see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1975">1975</a></p>
+<p><a href="{{ '/tags/1975' | relative_url }}">1975</a></p>
 </td>
 <td valign="top" width="547">
-<p>Weldon, John and Levitt, Zola in their “<a href="/ufo-history/ufo-books/weldon-john-and-levitt-zola-encounters-with-ufos">Encounters With UFOs</a>“ (<a href="/tags/1975">1975</a>) (formerly “UFOs, What on Earth is Happening?”) (available <a href="http://www.amazon.com/dp/1930749023/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1930749023/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 50 (in Chapter 3) of the Harvest House paperback edition.</p>
+<p>Weldon, John and Levitt, Zola in their “<a href="{{ '/ufo-history/ufo-books/weldon-john-and-levitt-zola-encounters-with-ufos' | relative_url }}">Encounters With UFOs</a>“ (<a href="{{ '/tags/1975' | relative_url }}">1975</a>) (formerly “UFOs, What on Earth is Happening?”) (available <a href="http://www.amazon.com/dp/1930749023/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1930749023/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 50 (in Chapter 3) of the Harvest House paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

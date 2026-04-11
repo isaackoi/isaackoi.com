@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/no_avatar.jpg"}
 ---
 
-![](/images/stories/no_avatar.jpg)
+![]({{ '/images/stories/no_avatar.jpg' | relative_url }})
 
 *Image needed*
 
@@ -36,18 +36,18 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/watts-alan">Watts, Alan</a> “<a href="/ufo-history/ufo-books/watts-alan-ufo-quest">UFO Quest</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/0713724498/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713724498/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/watts-alan' | relative_url }}">Watts, Alan</a> “<a href="{{ '/ufo-history/ufo-books/watts-alan-ufo-quest' | relative_url }}">UFO Quest</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/0713724498/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713724498/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/watts-alan">Watts, Alan</a> “<a href="/ufo-history/ufo-books/watts-alan-ufo-visitation">UFO Visitation</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/0713726008/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713726008/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/watts-alan' | relative_url }}">Watts, Alan</a> “<a href="{{ '/ufo-history/ufo-books/watts-alan-ufo-visitation' | relative_url }}">UFO Visitation</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/0713726008/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713726008/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>

@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/andrews_ann_2.jpg"}
 ---
 
-![andrews_ann_2](/images/stories/ufo_personalities/andrews_ann_2.jpg)
+![andrews_ann_2]({{ '/images/stories/ufo_personalities/andrews_ann_2.jpg' | relative_url }})
 
 *Image needed*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1988">1988</a></p>
+<p><a href="{{ '/tags/1988' | relative_url }}">1988</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/andrews-ann">Andrews, Ann</a> and Ritchie, Jean “Abducted” (<a href="/tags/1988">1988</a>) (available <a href="http://www.amazon.com/dp/0747275165/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0747275165/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/andrews-ann' | relative_url }}">Andrews, Ann</a> and Ritchie, Jean “Abducted” (<a href="{{ '/tags/1988' | relative_url }}">1988</a>) (available <a href="http://www.amazon.com/dp/0747275165/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0747275165/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>
@@ -85,10 +85,10 @@ For discussion of Ann Andrews and/or her son Jason Andrews see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/dodd-tony">Dodd, Tony</a> in his “<a href="/ufo-history/ufo-books/dodd-tony-alien-investigator">Alien Investigator</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0747261415/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0747261415/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 120-121 (in Chapter 4) of the Headline paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dodd-tony' | relative_url }}">Dodd, Tony</a> in his “<a href="{{ '/ufo-history/ufo-books/dodd-tony-alien-investigator' | relative_url }}">Alien Investigator</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0747261415/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0747261415/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 120-121 (in Chapter 4) of the Headline paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -96,10 +96,10 @@ For discussion of Ann Andrews and/or her son Jason Andrews see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2007">2007</a></p>
+<p><a href="{{ '/tags/2007' | relative_url }}">2007</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/harris-paola">Harris, Paola</a> in her “<a href="/ufo-history/ufo-books/harris-paola-how-does-one-speak-to-a-ball-of-light">How does one speak to a ball of light?</a>” (<a href="/tags/2007">2007</a>) (available <a href="http://www.amazon.com/dp/1425994024/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1425994024/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 181-184 (in Section 2) of the Author House softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/harris-paola' | relative_url }}">Harris, Paola</a> in her “<a href="{{ '/ufo-history/ufo-books/harris-paola-how-does-one-speak-to-a-ball-of-light' | relative_url }}">How does one speak to a ball of light?</a>” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (available <a href="http://www.amazon.com/dp/1425994024/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1425994024/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 181-184 (in Section 2) of the Author House softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>

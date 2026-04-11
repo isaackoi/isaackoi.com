@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -63,10 +63,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/emmons-charles-f">Emmons, Charles F</a> in his “<a href="/ufo-history/ufo-books/emmons-charles-f-at-the-threshold-ufos-science-and-the-new-age">At The Threshold: UFOs, Science and the New Age</a>” (available <a href="http://www.amazon.com/dp/0926524429/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0926524429/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 192-193 (in Chapter 10) of the Wild Flower Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/emmons-charles-f' | relative_url }}">Emmons, Charles F</a> in his “<a href="{{ '/ufo-history/ufo-books/emmons-charles-f-at-the-threshold-ufos-science-and-the-new-age' | relative_url }}">At The Threshold: UFOs, Science and the New Age</a>” (available <a href="http://www.amazon.com/dp/0926524429/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0926524429/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 192-193 (in Chapter 10) of the Wild Flower Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -74,10 +74,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/spencer-john">Spencer, John</a> in his “<a href="/ufo-history/ufo-books/spencer-john-gifts-of-the-gods">Gifts of the Gods?</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/0863698212/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0863698212/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 179-180 (in Chapter 16) of the Virgin paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">Spencer, John</a> in his “<a href="{{ '/ufo-history/ufo-books/spencer-john-gifts-of-the-gods' | relative_url }}">Gifts of the Gods?</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/0863698212/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0863698212/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 179-180 (in Chapter 16) of the Virgin paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -89,8 +89,8 @@ For discussion see the following:
 <a id="other"></a>
 ### Other Material
 
-Gotlib, David, Stuart Appelle, [Mark Rodeghier](/ufo-history/ufo-personalities/rodeghier-mark), & Georgia Flamburis “Ethics code for investigation and treatment of the abduction experience” in the Journal of UFO Studies, Volume 5 ([1994](/tags/1994)), pages 55-82.
+Gotlib, David, Stuart Appelle, [Mark Rodeghier]({{ '/ufo-history/ufo-personalities/rodeghier-mark' | relative_url }}), & Georgia Flamburis “Ethics code for investigation and treatment of the abduction experience” in the Journal of UFO Studies, Volume 5 ([1994]({{ '/tags/1994' | relative_url }})), pages 55-82.
 
-Code of conduct reprinted in [MUFON](/ufo-history/ufo-personalities/mufon)’s “[Field Investigator's Manual](/ufo-history/ufo-books/mufon-and-fowler-raymond-ed-field-investigators-manualq) – 4<sup>th</sup> Edition” ([1995](/tags/1995)) at pages 283-311 (in Chapter 24) of the [MUFON](/ufo-history/ufo-personalities/mufon) looseleaf edition.
+Code of conduct reprinted in [MUFON]({{ '/ufo-history/ufo-personalities/mufon' | relative_url }})’s “[Field Investigator's Manual]({{ '/ufo-history/ufo-books/mufon-and-fowler-raymond-ed-field-investigators-manualq' | relative_url }}) – 4<sup>th</sup> Edition” ([1995]({{ '/tags/1995' | relative_url }})) at pages 283-311 (in Chapter 24) of the [MUFON]({{ '/ufo-history/ufo-personalities/mufon' | relative_url }}) looseleaf edition.
 
 Please use the comments section below to share references to any particularly interesting relevant articles.

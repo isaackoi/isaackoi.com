@@ -13,13 +13,13 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/friend_robert_j_2.jpg"}
 ---
 
-![friend_robert_j_2](/images/stories/ufo_personalities/friend_robert_j_2.jpg)
+![friend_robert_j_2]({{ '/images/stories/ufo_personalities/friend_robert_j_2.jpg' | relative_url }})
 
 *Robert Friend (on left)*
 
 Brief comments to be added on this individual.
 
-Major [Robert J Friend](/ufo-history/ufo-personalities/friend-robert-j) replaced Captain [Gregory](/ufo-history/ufo-personalities/gregory-george-t) as head of Project Blue Book in October [1958](/tags/1958).
+Major [Robert J Friend]({{ '/ufo-history/ufo-personalities/friend-robert-j' | relative_url }}) replaced Captain [Gregory]({{ '/ufo-history/ufo-personalities/gregory-george-t' | relative_url }}) as head of Project Blue Book in October [1958]({{ '/tags/1958' | relative_url }}).
 
 Sections below:
 
@@ -61,10 +61,10 @@ For discussion of Robert Friend see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-the-ufo-book">The UFO Book</a>: Encyclopedia of the Extraterrestrial” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/1578590299/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1578590299/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 468 (forming part of an entry entitled “Project Blue Book”) of the Visible Ink Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-the-ufo-book' | relative_url }}">The UFO Book</a>: Encyclopedia of the Extraterrestrial” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/1578590299/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1578590299/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 468 (forming part of an entry entitled “Project Blue Book”) of the Visible Ink Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -72,10 +72,10 @@ For discussion of Robert Friend see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq">The UFO Encyclopedia: 1st edition</a>: Volume 2 – Emergence of a Phenomenon” (<a href="/tags/1992">1992</a>) (available <a href="http://www.amazon.com/dp/1558887415/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558887415/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 274 (forming part of an entry entitled “Project Blue Book, <a href="/tags/1952">1952</a>-<a href="/tags/1959">1959</a>”) of the Omnigraphics hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq' | relative_url }}">The UFO Encyclopedia: 1st edition</a>: Volume 2 – Emergence of a Phenomenon” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="http://www.amazon.com/dp/1558887415/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558887415/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 274 (forming part of an entry entitled “Project Blue Book, <a href="{{ '/tags/1952' | relative_url }}">1952</a>-<a href="{{ '/tags/1959' | relative_url }}">1959</a>”) of the Omnigraphics hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -83,10 +83,10 @@ For discussion of Robert Friend see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq">The UFO Encyclopedia: 1st edition</a>: Volume 3 – High Strangeness” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/1558887423/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558887423/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 409-410 (in an entry entitled “Project Blue Book, <a href="/tags/1960">1960</a>-<a href="/tags/1969">1969</a>”) of the Omnigraphics hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq' | relative_url }}">The UFO Encyclopedia: 1st edition</a>: Volume 3 – High Strangeness” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/1558887423/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558887423/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 409-410 (in an entry entitled “Project Blue Book, <a href="{{ '/tags/1960' | relative_url }}">1960</a>-<a href="{{ '/tags/1969' | relative_url }}">1969</a>”) of the Omnigraphics hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -94,10 +94,10 @@ For discussion of Robert Friend see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) in Volume 2:L-Z at page 732 (forming part of an entry entitled “Project Blue Book” at pages 730-742) of the Omnigraphics hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition' | relative_url }}">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) in Volume 2:L-Z at page 732 (forming part of an entry entitled “Project Blue Book” at pages 730-742) of the Omnigraphics hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -105,10 +105,10 @@ For discussion of Robert Friend see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1972">1972</a></p>
+<p><a href="{{ '/tags/1972' | relative_url }}">1972</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/hynek-j-allen">Hynek, J Allen</a> in his “<a href="/ufo-history/ufo-books/hynek-j-allen-the-ufo-experience">The UFO Experience</a>” (<a href="/tags/1972">1972</a>) (available <a href="http://www.amazon.com/dp/0345239539/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0345239539/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 187 (in Chapter 11) of the Henry Regnery hardback edition (with same page numbering in the Abelard-Schuman hardback edition), at page 212 of the various Ballantine paperback editions, at page 233 of the Corgi paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hynek-j-allen' | relative_url }}">Hynek, J Allen</a> in his “<a href="{{ '/ufo-history/ufo-books/hynek-j-allen-the-ufo-experience' | relative_url }}">The UFO Experience</a>” (<a href="{{ '/tags/1972' | relative_url }}">1972</a>) (available <a href="http://www.amazon.com/dp/0345239539/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0345239539/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 187 (in Chapter 11) of the Henry Regnery hardback edition (with same page numbering in the Abelard-Schuman hardback edition), at page 212 of the various Ballantine paperback editions, at page 233 of the Corgi paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -116,10 +116,10 @@ For discussion of Robert Friend see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1975">1975</a></p>
+<p><a href="{{ '/tags/1975' | relative_url }}">1975</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/jacobs-david-michael">Jacobs, David Michael</a> in his “<a href="/ufo-history/ufo-books/jacobs-david-michael-the-ufo-controversy-in-america">The UFO Controversy in America</a>” (<a href="/tags/1975">1975</a>) (available <a href="http://www.amazon.com/dp/0253190061/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0253190061/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 165-166 (in Chapter 7) of the Indiana hardback edition, pages 146-147 of the Signet paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/jacobs-david-michael' | relative_url }}">Jacobs, David Michael</a> in his “<a href="{{ '/ufo-history/ufo-books/jacobs-david-michael-the-ufo-controversy-in-america' | relative_url }}">The UFO Controversy in America</a>” (<a href="{{ '/tags/1975' | relative_url }}">1975</a>) (available <a href="http://www.amazon.com/dp/0253190061/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0253190061/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 165-166 (in Chapter 7) of the Indiana hardback edition, pages 146-147 of the Signet paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -127,10 +127,10 @@ For discussion of Robert Friend see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/peebles-curtis">Peebles, Curtis</a> in his “<a href="/ufo-history/ufo-books/peebles-curtis-watch-the-skies">Watch the Skies!</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/1560983434/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1560983434/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 141 (in Chapter 10) of the Smithsonian hardback edition, page 169 of the Berkley paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/peebles-curtis' | relative_url }}">Peebles, Curtis</a> in his “<a href="{{ '/ufo-history/ufo-books/peebles-curtis-watch-the-skies' | relative_url }}">Watch the Skies!</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/1560983434/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1560983434/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 141 (in Chapter 10) of the Smithsonian hardback edition, page 169 of the Berkley paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -138,10 +138,10 @@ For discussion of Robert Friend see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1974">1974</a></p>
+<p><a href="{{ '/tags/1974' | relative_url }}">1974</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/quintanilla-hector">Quintanilla, Hector</a> (Major) in his unpublished manuscript entitled “<a href="/ufo-history/ufo-books/quintanilla-hector-major-ufos-an-air-force-dilemma">UFOs: An Air Force Dilemma</a>” (copyright <a href="/tags/1974">1974</a>) at page 37 of the manuscript, at page 50 of the NIDS pdf version available free on-line on various websites, including at the following link:</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/quintanilla-hector' | relative_url }}">Quintanilla, Hector</a> (Major) in his unpublished manuscript entitled “<a href="{{ '/ufo-history/ufo-books/quintanilla-hector-major-ufos-an-air-force-dilemma' | relative_url }}">UFOs: An Air Force Dilemma</a>” (copyright <a href="{{ '/tags/1974' | relative_url }}">1974</a>) at page 37 of the manuscript, at page 50 of the NIDS pdf version available free on-line on various websites, including at the following link:</p>
 <p><a href="http://www.projectbluebook.us/UFOs%20An%20Air%20Force%20Dilemma%20By%20Quintanilla.pdf">http://www.projectbluebook.us/UFOs%20An%20Air%20Force%20Dilemma%20By%20Quintanilla.pdf</a></p>
 <p><a href="http://www.nidsci.org/pdf/quintanilla.pdf">http://www.nidsci.org/pdf/quintanilla.pdf</a></p>
 <p> </p>

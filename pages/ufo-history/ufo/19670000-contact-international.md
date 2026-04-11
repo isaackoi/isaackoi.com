@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/britain_1.gif"}
 ---
 
-![britain_1](/images/stories/ufo_tags/britain_1.gif)
+![britain_1]({{ '/images/stories/ufo_tags/britain_1.gif' | relative_url }})
 
 *Contact International*
 
@@ -63,10 +63,10 @@ For discussion of Contact see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2007">2007</a></p>
+<p><a href="{{ '/tags/2007' | relative_url }}">2007</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clarke-david">Clarke, David</a> and <a href="/ufo-history/ufo-personalities/roberts-andy">Roberts, Andy</a> in their “<a href="/ufo-history/ufo-books/clarke-david-and-roberts-andy-flying-saucerers">Flying Saucerers : A social history of UFOlogy</a>” (<a href="/tags/2007">2007</a>) (available <a href="http://www.amazon.com/dp/1905646003/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1905646003/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 167-168, 169 (in Chapter 10) of the Alternative Albion softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clarke-david' | relative_url }}">Clarke, David</a> and <a href="{{ '/ufo-history/ufo-personalities/roberts-andy' | relative_url }}">Roberts, Andy</a> in their “<a href="{{ '/ufo-history/ufo-books/clarke-david-and-roberts-andy-flying-saucerers' | relative_url }}">Flying Saucerers : A social history of UFOlogy</a>” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (available <a href="http://www.amazon.com/dp/1905646003/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1905646003/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 167-168, 169 (in Chapter 10) of the Alternative Albion softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -74,10 +74,10 @@ For discussion of Contact see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p>Delair, J Bernard in “<a href="/ufo-history/ufo-books/story-ronald-editor-and-green-j-richard-consulting-editor-the-encyclopedia-of-ufos">The Encyclopedia of UFOs</a>” (<a href="/tags/1980">1980</a>) edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a> (available <a href="http://www.amazon.com/dp/0385136773/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0385136773/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 89-90 (in an entry entitled “Contact International”) of the NEL hardback edition.</p>
+<p>Delair, J Bernard in “<a href="{{ '/ufo-history/ufo-books/story-ronald-editor-and-green-j-richard-consulting-editor-the-encyclopedia-of-ufos' | relative_url }}">The Encyclopedia of UFOs</a>” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a> (available <a href="http://www.amazon.com/dp/0385136773/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0385136773/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 89-90 (in an entry entitled “Contact International”) of the NEL hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -85,10 +85,10 @@ For discussion of Contact see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1979">1979</a></p>
+<p><a href="{{ '/tags/1979' | relative_url }}">1979</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> and <a href="/ufo-history/ufo-personalities/warrington-peter">Warrington, Peter</a> in their “<a href="/ufo-history/ufo-books/randles-jenny-and-warrington-peter-ufos-a-british-viewpoint">UFOs : A British Viewpoint</a>” (<a href="/tags/1979">1979</a>) (available <a href="http://www.amazon.com/dp/0709174667/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0709174667/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 30 (in Chapter 2) of the Book Club Associates hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> and <a href="{{ '/ufo-history/ufo-personalities/warrington-peter' | relative_url }}">Warrington, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-warrington-peter-ufos-a-british-viewpoint' | relative_url }}">UFOs : A British Viewpoint</a>” (<a href="{{ '/tags/1979' | relative_url }}">1979</a>) (available <a href="http://www.amazon.com/dp/0709174667/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0709174667/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 30 (in Chapter 2) of the Book Club Associates hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -96,10 +96,10 @@ For discussion of Contact see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-alien-contact-the-first-fifty-years">Alien Contact – The First Fifty Years</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0806904763/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806904763/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 71 (in the chapter entitled “<a href="/tags/1972">1972</a>”) of the Collins and Brown hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-alien-contact-the-first-fifty-years' | relative_url }}">Alien Contact – The First Fifty Years</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0806904763/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806904763/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 71 (in the chapter entitled “<a href="{{ '/tags/1972' | relative_url }}">1972</a>”) of the Collins and Brown hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -107,10 +107,10 @@ For discussion of Contact see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-the-little-giant-encyclopedia-of-ufos">The Little Giant Encyclopedia of UFOs</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/0806918918/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806918918/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 415 (in Part 4) of the Sterling softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-the-little-giant-encyclopedia-of-ufos' | relative_url }}">The Little Giant Encyclopedia of UFOs</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/0806918918/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806918918/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 415 (in Part 4) of the Sterling softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -118,10 +118,10 @@ For discussion of Contact see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sachs-margaret">Sachs, Margaret</a> in her “<a href="/ufo-history/ufo-books/sachs-margaret-the-ufo-encyclopedia">The UFO Encyclopedia</a>“ (<a href="/tags/1980">1980</a> (available <a href="http://www.amazon.com/dp/0399124217/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0399124217/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 72 (in an entry entitled “Contact International”) of the Corgi softback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sachs-margaret' | relative_url }}">Sachs, Margaret</a> in her “<a href="{{ '/ufo-history/ufo-books/sachs-margaret-the-ufo-encyclopedia' | relative_url }}">The UFO Encyclopedia</a>“ (<a href="{{ '/tags/1980' | relative_url }}">1980</a> (available <a href="http://www.amazon.com/dp/0399124217/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0399124217/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 72 (in an entry entitled “Contact International”) of the Corgi softback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -129,10 +129,10 @@ For discussion of Contact see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1968">1968</a></p>
+<p><a href="{{ '/tags/1968' | relative_url }}">1968</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/shuttlewood-arthur">Shuttlewood, Arthur</a> in his "<a href="/ufo-history/ufo-books/shuttlewood-arthur-warnings-from-flying-friends">Warnings from Flying Friends</a>" (<a href="/tags/1968">1968</a>) (available <a href="http://www.amazon.com/dp/0900599006/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0900599006/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 92 (in Chapter 6) of the Portway Press hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/shuttlewood-arthur' | relative_url }}">Shuttlewood, Arthur</a> in his "<a href="{{ '/ufo-history/ufo-books/shuttlewood-arthur-warnings-from-flying-friends' | relative_url }}">Warnings from Flying Friends</a>" (<a href="{{ '/tags/1968' | relative_url }}">1968</a>) (available <a href="http://www.amazon.com/dp/0900599006/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0900599006/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 92 (in Chapter 6) of the Portway Press hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -140,10 +140,10 @@ For discussion of Contact see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1969">1969</a></p>
+<p><a href="{{ '/tags/1969' | relative_url }}">1969</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/trench-brinsley-le-poer">Trench, Brinsley Le Poer</a> in his “Operation Earth” (<a href="/tags/1969">1969</a>) (available <a href="http://www.amazon.com/dp/0426134508/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0426134508/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 106 (in Chapter 19) of the Tandem paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/trench-brinsley-le-poer' | relative_url }}">Trench, Brinsley Le Poer</a> in his “Operation Earth” (<a href="{{ '/tags/1969' | relative_url }}">1969</a>) (available <a href="http://www.amazon.com/dp/0426134508/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0426134508/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 106 (in Chapter 19) of the Tandem paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -151,10 +151,10 @@ For discussion of Contact see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1973">1973</a></p>
+<p><a href="{{ '/tags/1973' | relative_url }}">1973</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/trench-brinsley-le-poer">Trench, Brinsley Le Poer</a> in his “The Eternal Subject” (<a href="/tags/1973">1973</a>) (available <a href="http://www.amazon.com/dp/0285620827/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0285620827/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 183-185 (in Appendix B generally) of the Souvenir Press hardback edition, at pages 181-183 of the Day Book paperback editon (published under the title “Mysterious Visitors: The UFO Story”).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/trench-brinsley-le-poer' | relative_url }}">Trench, Brinsley Le Poer</a> in his “The Eternal Subject” (<a href="{{ '/tags/1973' | relative_url }}">1973</a>) (available <a href="http://www.amazon.com/dp/0285620827/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0285620827/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 183-185 (in Appendix B generally) of the Souvenir Press hardback edition, at pages 181-183 of the Day Book paperback editon (published under the title “Mysterious Visitors: The UFO Story”).</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -162,10 +162,10 @@ For discussion of Contact see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1966">1966</a></p>
+<p><a href="{{ '/tags/1966' | relative_url }}">1966</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/trench-brinsley-le-poer">Trench, Brinsley Le Poer</a> in his “<a href="/ufo-history/ufo-books/trench-brinsley-le-poer-the-flying-saucer-story">The Flying Saucer Story</a>” (<a href="/tags/1966">1966</a>) (available <a href="http://www.amazon.com/dp/B00005VXTC/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B00005VXTC/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 175-176 (in the Appendix) of the revised Tandem paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/trench-brinsley-le-poer' | relative_url }}">Trench, Brinsley Le Poer</a> in his “<a href="{{ '/ufo-history/ufo-books/trench-brinsley-le-poer-the-flying-saucer-story' | relative_url }}">The Flying Saucer Story</a>” (<a href="{{ '/tags/1966' | relative_url }}">1966</a>) (available <a href="http://www.amazon.com/dp/B00005VXTC/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B00005VXTC/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 175-176 (in the Appendix) of the revised Tandem paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

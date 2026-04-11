@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/034093834X.jpg"}
 book: {"identifiers": ["034093834X", "0805204504", "1854105841", "1883319617", "0399119353"], "primary_isbn": "034093834X", "cover_image": "/book-covers/034093834X.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Robert Heinlein](/ufo-history/ufo-personalities/heinlein-robert)'s book “[Stranger in a Strange Land](/ufo-history/ufo-books/heinlein-robert-stranger-in-a-strange-land)” ([1961](/tags/1961)) (available [on Amazon USA](http://www.amazon.com/dp/034093834X/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/034093834X/?&tag=ufot-21)).
+Brief review to be added of [Robert Heinlein]({{ '/ufo-history/ufo-personalities/heinlein-robert' | relative_url }})'s book “[Stranger in a Strange Land]({{ '/ufo-history/ufo-books/heinlein-robert-stranger-in-a-strange-land' | relative_url }})” ([1961]({{ '/tags/1961' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/034093834X/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/034093834X/?&tag=ufot-21)).
 
 1. [Web Resources](#web)
 
@@ -56,10 +56,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1973">1973</a></p>
+<p><a href="{{ '/tags/1973' | relative_url }}">1973</a></p>
 </td>
 <td valign="top" width="547">
-<p>Aldiss, Brian in his “Billion Year Spree” (<a href="/tags/1973">1973</a>) (available <a href="http://www.amazon.com/dp/0805204504/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0805204504/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 271-274 (in Chapter 10) of the Weidenfeld &amp; Nicolson hardback edition.</p>
+<p>Aldiss, Brian in his “Billion Year Spree” (<a href="{{ '/tags/1973' | relative_url }}">1973</a>) (available <a href="http://www.amazon.com/dp/0805204504/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0805204504/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 271-274 (in Chapter 10) of the Weidenfeld &amp; Nicolson hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -67,10 +67,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p>Bizony, Piers in his “The Exploration of Mars: Searching for the Cosmic Origins of Life” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1854105841/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1854105841/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 13 (in the Foreword) of the Aurum softcover edition.</p>
+<p>Bizony, Piers in his “The Exploration of Mars: Searching for the Cosmic Origins of Life” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1854105841/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1854105841/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 13 (in the Foreword) of the Aurum softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -78,10 +78,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/rux-bruce">Rux, Bruce</a> in his “<a href="/ufo-history/ufo-books/rux-bruce-hollywood-vs-the-aliens">Hollywood Vs. the Aliens</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1883319617/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1883319617/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 187 (in Chapter 3) of the Frog softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/rux-bruce' | relative_url }}">Rux, Bruce</a> in his “<a href="{{ '/ufo-history/ufo-books/rux-bruce-hollywood-vs-the-aliens' | relative_url }}">Hollywood Vs. the Aliens</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1883319617/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1883319617/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 187 (in Chapter 3) of the Frog softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -89,10 +89,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1977">1977</a></p>
+<p><a href="{{ '/tags/1977' | relative_url }}">1977</a></p>
 </td>
 <td valign="top" width="547">
-<p>Washburn, Mark in his “<a href="/ufo-history/ufo-books/washburn-mark-mars-at-last">Mars at Last!</a>” (<a href="/tags/1977">1977</a>) (available <a href="http://www.amazon.com/dp/0399119353/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0399119353/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 60-61 (in Chapter 5) of the Abacus paperback edition.</p>
+<p>Washburn, Mark in his “<a href="{{ '/ufo-history/ufo-books/washburn-mark-mars-at-last' | relative_url }}">Mars at Last!</a>” (<a href="{{ '/tags/1977' | relative_url }}">1977</a>) (available <a href="http://www.amazon.com/dp/0399119353/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0399119353/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 60-61 (in Chapter 5) of the Abacus paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

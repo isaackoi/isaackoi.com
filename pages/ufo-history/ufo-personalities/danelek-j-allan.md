@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/danelek_j_allan_1.jpg"}
 ---
 
-![danelek_j_allan_1](/images/stories/ufo_personalities/danelek_j_allan_1.jpg)
+![danelek_j_allan_1]({{ '/images/stories/ufo_personalities/danelek_j_allan_1.jpg' | relative_url }})
 
 *J Allan Danelek*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/2008">2008</a></p>
+<p><a href="{{ '/tags/2008' | relative_url }}">2008</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/danelek-j-allan">Danelek, J Allan</a> “<a href="/ufo-history/ufo-books/danelek-j-allan-ufos-the-great-debate">UFOs : The Great Debate</a>” (<a href="/tags/2008">2008</a>) (available <a href="http://www.amazon.com/dp/073871383X/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/073871383X/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/danelek-j-allan' | relative_url }}">Danelek, J Allan</a> “<a href="{{ '/ufo-history/ufo-books/danelek-j-allan-ufos-the-great-debate' | relative_url }}">UFOs : The Great Debate</a>” (<a href="{{ '/tags/2008' | relative_url }}">2008</a>) (available <a href="http://www.amazon.com/dp/073871383X/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/073871383X/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>

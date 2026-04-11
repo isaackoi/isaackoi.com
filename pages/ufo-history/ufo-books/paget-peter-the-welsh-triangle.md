@@ -14,9 +14,9 @@ header: {"preview_image": "https://covers.openlibrary.org/b/isbn/0586049118-L.jp
 book: {"identifiers": ["0586049118", "1905646003", "B000S2L0EK", "0856136689", "074810142X", "0312965214"], "primary_isbn": "0586049118", "cover_image": "https://covers.openlibrary.org/b/isbn/0586049118-L.jpg?default=false", "cover_source": "openlibrary"}
 ---
 
-Brief review to be added of [Paget, Peter](/ufo-history/ufo-personalities/paget-peter)'s book “[The Welsh Triangle](/ufo-history/ufo-books/paget-peter-the-welsh-triangle)” ([1979](/tags/1979)) (available [on Amazon USA](http://www.amazon.com/dp/0586049118/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0586049118/?&tag=ufot-21))
+Brief review to be added of [Paget, Peter]({{ '/ufo-history/ufo-personalities/paget-peter' | relative_url }})'s book “[The Welsh Triangle]({{ '/ufo-history/ufo-books/paget-peter-the-welsh-triangle' | relative_url }})” ([1979]({{ '/tags/1979' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0586049118/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0586049118/?&tag=ufot-21))
 
-See also the related entry for the book “[The Dyfed Enigma](/ufo-history/ufo-books/pugh-randall-jones-and-holiday-f-w-the-dyfed-enigma)”
+See also the related entry for the book “[The Dyfed Enigma]({{ '/ufo-history/ufo-books/pugh-randall-jones-and-holiday-f-w-the-dyfed-enigma' | relative_url }})”
 
 1. [Web Resources](#web)
 
@@ -56,10 +56,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2007">2007</a></p>
+<p><a href="{{ '/tags/2007' | relative_url }}">2007</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clarke-david">Clarke, David</a> and <a href="/ufo-history/ufo-personalities/roberts-andy">Roberts, Andy</a> in their “<a href="/ufo-history/ufo-books/clarke-david-and-roberts-andy-flying-saucerers">Flying Saucerers : A social history of UFOlogy</a>” (<a href="/tags/2007">2007</a>) (available <a href="http://www.amazon.com/dp/1905646003/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1905646003/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 199-200 (in Chapter 12) of the Alternative Albion softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clarke-david' | relative_url }}">Clarke, David</a> and <a href="{{ '/ufo-history/ufo-personalities/roberts-andy' | relative_url }}">Roberts, Andy</a> in their “<a href="{{ '/ufo-history/ufo-books/clarke-david-and-roberts-andy-flying-saucerers' | relative_url }}">Flying Saucerers : A social history of UFOlogy</a>” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (available <a href="http://www.amazon.com/dp/1905646003/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1905646003/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 199-200 (in Chapter 12) of the Alternative Albion softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -67,10 +67,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1984">1984</a></p>
+<p><a href="{{ '/tags/1984' | relative_url }}">1984</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/evans-hilary">Evans, Hilary</a> in “<a href="/ufo-history/ufo-books/brookesmith-peter-editor-the-age-of-the-ufo">The Age of the UFO</a>” (<a href="/tags/1984">1984</a>) (edited by <a href="/ufo-history/ufo-personalities/brookesmith-peter">Peter Brookesmith</a>) (available <a href="http://www.amazon.com/dp/B000S2L0EK/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000S2L0EK/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 30-31 (in the unnumbered chapter entitled “First Catch Your Saucer”) of the Black Cat hardback edition. The relevant chapter is an article reprinted from the weekly partwork “The Unexplained”.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }}">Evans, Hilary</a> in “<a href="{{ '/ufo-history/ufo-books/brookesmith-peter-editor-the-age-of-the-ufo' | relative_url }}">The Age of the UFO</a>” (<a href="{{ '/tags/1984' | relative_url }}">1984</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/brookesmith-peter' | relative_url }}">Peter Brookesmith</a>) (available <a href="http://www.amazon.com/dp/B000S2L0EK/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000S2L0EK/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 30-31 (in the unnumbered chapter entitled “First Catch Your Saucer”) of the Black Cat hardback edition. The relevant chapter is an article reprinted from the weekly partwork “The Unexplained”.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -78,10 +78,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1984">1984</a></p>
+<p><a href="{{ '/tags/1984' | relative_url }}">1984</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/evans-hilary">Evans, Hilary</a> in “<a href="/ufo-history/ufo-books/brookesmith-peter-editor-the-alien-world">The Alien World</a>” (<a href="/tags/1984">1984</a>) (edited by <a href="/ufo-history/ufo-personalities/brookesmith-peter">Peter Brookesmith</a>) (available <a href="http://www.amazon.com/dp/0856136689/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0856136689/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 8-11, 12-15, 16-19 (in the unnumbered section entitled “Dyfed Enigma”) of the Orbis softcover edition. The relevant chapters are articles reprinted from the weekly partwork “The Unexplained”, Volume 3, pages 810-813, 834-837 and 874-877.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }}">Evans, Hilary</a> in “<a href="{{ '/ufo-history/ufo-books/brookesmith-peter-editor-the-alien-world' | relative_url }}">The Alien World</a>” (<a href="{{ '/tags/1984' | relative_url }}">1984</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/brookesmith-peter' | relative_url }}">Peter Brookesmith</a>) (available <a href="http://www.amazon.com/dp/0856136689/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0856136689/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 8-11, 12-15, 16-19 (in the unnumbered section entitled “Dyfed Enigma”) of the Orbis softcover edition. The relevant chapters are articles reprinted from the weekly partwork “The Unexplained”, Volume 3, pages 810-813, 834-837 and 874-877.</p>
 </td>
 <td valign="top" width="52">
 <p>12</p>
@@ -89,10 +89,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1984">1984</a></p>
+<p><a href="{{ '/tags/1984' | relative_url }}">1984</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/evans-hilary">Evans, Hilary</a> in “<a href="/ufo-history/ufo-books/brookesmith-peter-editor-ufos-where-do-they-come-from">UFOs: Where Do They Come From?</a>” (<a href="/tags/1984">1984</a>) (edited by <a href="/ufo-history/ufo-personalities/brookesmith-peter">Peter Brookesmith</a>) (available <a href="http://www.amazon.com/dp/074810142X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/074810142X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 6 (in the Introduction) of the Black Cat hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }}">Evans, Hilary</a> in “<a href="{{ '/ufo-history/ufo-books/brookesmith-peter-editor-ufos-where-do-they-come-from' | relative_url }}">UFOs: Where Do They Come From?</a>” (<a href="{{ '/tags/1984' | relative_url }}">1984</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/brookesmith-peter' | relative_url }}">Peter Brookesmith</a>) (available <a href="http://www.amazon.com/dp/074810142X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/074810142X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 6 (in the Introduction) of the Black Cat hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -100,10 +100,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1983">1983</a></p>
+<p><a href="{{ '/tags/1983' | relative_url }}">1983</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/evans-hilary">Evans, Hilary</a> in the weekly partwork “The Unexplained” (<a href="/tags/1983">1983</a>?), Volume 3, pages 810-813, 834-837 and 874-877.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }}">Evans, Hilary</a> in the weekly partwork “The Unexplained” (<a href="{{ '/tags/1983' | relative_url }}">1983</a>?), Volume 3, pages 810-813, 834-837 and 874-877.</p>
 </td>
 <td valign="top" width="52">
 <p>12</p>
@@ -111,10 +111,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1979">1979</a></p>
+<p><a href="{{ '/tags/1979' | relative_url }}">1979</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/paget-peter">Paget, Peter</a> in his “<a href="/ufo-history/ufo-books/paget-peter-the-welsh-triangle">The Welsh Triangle</a>” (<a href="/tags/1979">1979</a>) (available <a href="http://www.amazon.com/dp/0586049118/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0586049118/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 1-2 (in Chapter 1) of the Grafton paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/paget-peter' | relative_url }}">Paget, Peter</a> in his “<a href="{{ '/ufo-history/ufo-books/paget-peter-the-welsh-triangle' | relative_url }}">The Welsh Triangle</a>” (<a href="{{ '/tags/1979' | relative_url }}">1979</a>) (available <a href="http://www.amazon.com/dp/0586049118/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0586049118/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 1-2 (in Chapter 1) of the Grafton paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -122,10 +122,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-investigating-the-truth-behind-mib">Investigating the Truth Behind MIB</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0312965214/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312965214/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 117, 119, 120 (in Chapter 9) of the Piatkus softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-investigating-the-truth-behind-mib' | relative_url }}">Investigating the Truth Behind MIB</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0312965214/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312965214/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 117, 119, 120 (in Chapter 9) of the Piatkus softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>

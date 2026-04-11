@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/roberts_august_1.jpg"}
 ---
 
-![roberts_august_1](/images/stories/ufo_personalities/roberts_august_1.jpg)
+![roberts_august_1]({{ '/images/stories/ufo_personalities/roberts_august_1.jpg' | relative_url }})
 
 *August Roberts*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1986">1986</a></p>
+<p><a href="{{ '/tags/1986' | relative_url }}">1986</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/stevens-wendelle">Stevens, Wendelle</a> and <a href="/ufo-history/ufo-personalities/roberts-august">Roberts, August</a> “UFO Photographs: Around The World: Vol. 1”</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/stevens-wendelle' | relative_url }}">Stevens, Wendelle</a> and <a href="{{ '/ufo-history/ufo-personalities/roberts-august' | relative_url }}">Roberts, August</a> “UFO Photographs: Around The World: Vol. 1”</p>
 </td>
 </tr>
 </tbody>

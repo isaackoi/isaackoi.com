@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/basterfield_keith_1.JPG"}
 ---
 
-![basterfield_keith_1](/images/stories/ufo_personalities/basterfield_keith_1.JPG)
+![basterfield_keith_1]({{ '/images/stories/ufo_personalities/basterfield_keith_1.JPG' | relative_url }})
 
 *Keith Basterfield*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1981">1981</a></p>
+<p><a href="{{ '/tags/1981' | relative_url }}">1981</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/basterfield-keith">Basterfield, Keith</a> “<a href="/ufo-history/ufo-books/basterfield-keith-close-encounters-of-an-australian-kind-ufos-the-image-hypothesis">Close Encounters of an Australian Kind – UFOs: The Image Hypothesis</a>” (<a href="/tags/1981">1981</a>) (available <a href="http://www.amazon.com/dp/0589502859/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0589502859/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/basterfield-keith' | relative_url }}">Basterfield, Keith</a> “<a href="{{ '/ufo-history/ufo-books/basterfield-keith-close-encounters-of-an-australian-kind-ufos-the-image-hypothesis' | relative_url }}">Close Encounters of an Australian Kind – UFOs: The Image Hypothesis</a>” (<a href="{{ '/tags/1981' | relative_url }}">1981</a>) (available <a href="http://www.amazon.com/dp/0589502859/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0589502859/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>
@@ -85,10 +85,10 @@ For discussion of Keith Basterfield see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1983">1983</a></p>
+<p><a href="{{ '/tags/1983' | relative_url }}">1983</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-ufo-reality">UFO Reality</a>” (<a href="/tags/1983">1983</a>) (available <a href="http://www.amazon.com/dp/070901080X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/070901080X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 61 (in Chapter 4) of the Hale hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-ufo-reality' | relative_url }}">UFO Reality</a>” (<a href="{{ '/tags/1983' | relative_url }}">1983</a>) (available <a href="http://www.amazon.com/dp/070901080X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/070901080X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 61 (in Chapter 4) of the Hale hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -96,10 +96,10 @@ For discussion of Keith Basterfield see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-the-complete-book-of-aliens-and-abductions">The Complete Book of Aliens and Abductions</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0749921005/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0749921005/ref=nosim?tag=ufot-21">on Amazon UK</a>) a page 173 (in Part 5) of the Piatkus hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-the-complete-book-of-aliens-and-abductions' | relative_url }}">The Complete Book of Aliens and Abductions</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0749921005/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0749921005/ref=nosim?tag=ufot-21">on Amazon UK</a>) a page 173 (in Part 5) of the Piatkus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

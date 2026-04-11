@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/movies_1.jpg"}
 ---
 
-![movies_1](/images/stories/ufo_tags/movies_1.jpg)
+![movies_1]({{ '/images/stories/ufo_tags/movies_1.jpg' | relative_url }})
 
 *“The Arrival”*
 
@@ -73,10 +73,10 @@ For discussion of the movie “The Arrival” see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Achenbach, Joel in his “<a href="/ufo-history/ufo-books/achenbach-joel-captured-by-aliens">Captured by Aliens</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0684848562/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684848562/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 347-348 (in Chapter 35) of the Simon and Schuster hardback edition.</p>
+<p>Achenbach, Joel in his “<a href="{{ '/ufo-history/ufo-books/achenbach-joel-captured-by-aliens' | relative_url }}">Captured by Aliens</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0684848562/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684848562/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 347-348 (in Chapter 35) of the Simon and Schuster hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -84,10 +84,10 @@ For discussion of the movie “The Arrival” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/dean-jodi">Dean, Jodi</a> in her “<a href="/ufo-history/ufo-books/dean-jodi-aliens-in-america">Aliens in America</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0801484685/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0801484685/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 155-156 (in Chapter 5) of the Cornell University softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dean-jodi' | relative_url }}">Dean, Jodi</a> in her “<a href="{{ '/ufo-history/ufo-books/dean-jodi-aliens-in-america' | relative_url }}">Aliens in America</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0801484685/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0801484685/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 155-156 (in Chapter 5) of the Cornell University softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

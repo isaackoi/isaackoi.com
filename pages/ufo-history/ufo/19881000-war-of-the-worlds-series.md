@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -63,10 +63,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/rux-bruce">Rux, Bruce</a> in his “<a href="/ufo-history/ufo-books/rux-bruce-hollywood-vs-the-aliens">Hollywood Vs. the Aliens</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1883319617/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1883319617/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 380 (in Chapter 7), 534 (in Chapter 11) of the Frog softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/rux-bruce' | relative_url }}">Rux, Bruce</a> in his “<a href="{{ '/ufo-history/ufo-books/rux-bruce-hollywood-vs-the-aliens' | relative_url }}">Hollywood Vs. the Aliens</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1883319617/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1883319617/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 380 (in Chapter 7), 534 (in Chapter 11) of the Frog softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -74,10 +74,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/spencer-john">Spencer, John</a> and Spencer, Anne in their “<a href="/ufo-history/ufo-books/spencer-john-true-life-encounters-alien-contact">True Life Encounters – Alien Contact</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1575000237/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1575000237/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 234-235 (in Chapter 14) of the Millenium paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">Spencer, John</a> and Spencer, Anne in their “<a href="{{ '/ufo-history/ufo-books/spencer-john-true-life-encounters-alien-contact' | relative_url }}">True Life Encounters – Alien Contact</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1575000237/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1575000237/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 234-235 (in Chapter 14) of the Millenium paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -85,10 +85,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="547">
-<p>White, Frank in his “<a href="/ufo-history/ufo-books/white-frank-the-seti-factor">The SETI Factor</a>” (<a href="/tags/1990">1990</a>) (available <a href="http://www.amazon.com/dp/0802711057/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0802711057/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 142 (in Chapter 9) of the Walker hardback edition.</p>
+<p>White, Frank in his “<a href="{{ '/ufo-history/ufo-books/white-frank-the-seti-factor' | relative_url }}">The SETI Factor</a>” (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) (available <a href="http://www.amazon.com/dp/0802711057/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0802711057/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 142 (in Chapter 9) of the Walker hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

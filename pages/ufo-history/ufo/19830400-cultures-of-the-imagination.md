@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/seti_1.jpg"}
 ---
 
-![seti_1](/images/stories/ufo_tags/seti_1.jpg)
+![seti_1]({{ '/images/stories/ufo_tags/seti_1.jpg' | relative_url }})
 
 *Cultures Of The Imagination*
 
@@ -63,10 +63,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/harrison-albert-a">Harrison, Albert A</a> in his “<a href="/ufo-history/ufo-books/harrison-albert-a-after-contact-the-human-response-to-extraterrestrial-life">After Contact: The Human Response to Extraterrestrial Life</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0306456214/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0306456214/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 29-30 (in Chapter 2) of the Plenum Trade hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/harrison-albert-a' | relative_url }}">Harrison, Albert A</a> in his “<a href="{{ '/ufo-history/ufo-books/harrison-albert-a-after-contact-the-human-response-to-extraterrestrial-life' | relative_url }}">After Contact: The Human Response to Extraterrestrial Life</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0306456214/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0306456214/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 29-30 (in Chapter 2) of the Plenum Trade hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -74,10 +74,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="547">
-<p>White, Frank in his “<a href="/ufo-history/ufo-books/white-frank-the-seti-factor">The SETI Factor</a>” (<a href="/tags/1990">1990</a>) (available <a href="http://www.amazon.com/dp/0802711057/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0802711057/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 107-110 (in Chapter 7), 145-148 (in Chapter 9) of the Walker hardback edition.</p>
+<p>White, Frank in his “<a href="{{ '/ufo-history/ufo-books/white-frank-the-seti-factor' | relative_url }}">The SETI Factor</a>” (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) (available <a href="http://www.amazon.com/dp/0802711057/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0802711057/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 107-110 (in Chapter 7), 145-148 (in Chapter 9) of the Walker hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>8</p>

@@ -42,11 +42,11 @@ Koi UFO Video 096 appears to show a black triangle UFO with lights on its corner
 
 Screen shots from the video are included below for ease of identification:
 
-![](/images/stories/ufo_videos/video096_1.JPG)
+![]({{ '/images/stories/ufo_videos/video096_1.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video096_2.JPG)
+![]({{ '/images/stories/ufo_videos/video096_2.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video096_3.JPG)
+![]({{ '/images/stories/ufo_videos/video096_3.JPG' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this video
@@ -57,11 +57,11 @@ The video gained considerable publicity when it was (incorrectly) associated onl
 
 The garda officer footage was referred to in [an article on the website of the Irish Independent newspaper](http://www.independent.ie/national-news/were-not-alone----politician--and-pilot--spot-ufo-1484949.html), which stated that footage filmed on a camera phone at 10.35pm on 3 August 2008 near Dunboyne was played and replayed to over 70 delegates who attended the fifth Irish International UFO conference in Carrick-on-Shannon. The newspaper reported that the triangular shaped image, with lights at each point, which appeared to send a red laser-type light towards earth, "drew gasps of amazement from the 70 or so delegates who attended the world premiere of the footage". The newspaper stated that "a senior garda officer who was driving when he noticed the unusual light formation in the sky stopped to film it". Carl Nally, co-founder of UFO and Paranormal Research Ireland and joint author of 'Conspiracy of Silence', was reported as stating that "There is no footage like this in the world. It is the most amazing and spectacular I have ever seen". Mr Nally is reported to have later described the laser beam footage as the best footage on the planet and said it would be shown all over the world.
 
-![](/images/stories/ufo_videos/video096_7.JPG)
+![]({{ '/images/stories/ufo_videos/video096_7.JPG' | relative_url }})
 
 The Irish Independent newspaper's article did not provide any link to the relevant triangular image, but several UFO websites posted the Irish story together with a link to Koi UFO Video 096, such as the item below:
 
-![](/images/stories/ufo_videos/video096_5.JPG)
+![]({{ '/images/stories/ufo_videos/video096_5.JPG' | relative_url }})
 
 Once one UFO website made this mistaken connection, it appears that various other websites duplicated the mistake.
 
@@ -78,7 +78,7 @@ In fact, as detailed below, Koi UFO Video 096 shows a large triangular model cre
 
 Jeff Wilson subsequently gave his model to Joshua Warren. Joshua Warren kindly confirmed to me in 2015 that the video does indeed show the Jeff Wilson "UFO". Joshua Warren stated that he "created, produced and hosted this event" and "narrated the spectacle as we played cosmic music in the background". Joshua Warren also kindly provided a photograph of him holding the actual craft (below).
 
-![](/images/stories/ufo_videos/video096_10.jpg)
+![]({{ '/images/stories/ufo_videos/video096_10.jpg' | relative_url }})
 
 The person that uploaded the video with a caption stating "This is a video was on a cheap camera I found when Hiking in the Smokey Mountains" eventually edited that description to refer to the relevant UFO Contest. The amended description stated the following:
 
@@ -102,15 +102,15 @@ It is just a coincidence that this craft in this video looked like the one that 
 
 Few of the people that have commented on this video (which has been seen 220,000 times as at March 2015) appear to have read that updated description. A screen shot is included below for ease of reference.
 
-![](/images/stories/ufo_videos/video096_6.JPG)
+![]({{ '/images/stories/ufo_videos/video096_6.JPG' | relative_url }})
 
 The UFO Contest website mentioned in the revised description of the video gives further details of the 2007 entries, including a photograph of Jeff Wilson's model in flight.
 
-![](/images/stories/ufo_videos/video096_8.JPG)
+![]({{ '/images/stories/ufo_videos/video096_8.JPG' | relative_url }})
 
 It appears that the revised description followed the discussion of the hoaxed footage by Joshua Warren (a UFO researcher that ran the annual contest for several years in order to study fake UFOs) on the Coast to Coast AM radio show in 2008 and the posting of relevant details [on the website of "Shadowbox Enterprises"](http://shadowboxent.brinkster.net/HoaxResearchCenter/IrishTriangleUFO.html) (of which Joshua Warren is the president).
 
-![](/images/stories/ufo_videos/video096_9.JPG)
+![]({{ '/images/stories/ufo_videos/video096_9.JPG' | relative_url }})
 
 Jeff Wilson uploaded longer footage of his model in flight (complete with the original soundtrack from the UFO Contest):
 
@@ -120,7 +120,7 @@ A video showing other entries in the 2007 UFO Contest can also be found online, 
 
 https://www.youtube.com/watch?v=wZcPxKCjz9w
 
-![](/images/stories/ufo_videos/video096_4.JPG)
+![]({{ '/images/stories/ufo_videos/video096_4.JPG' | relative_url }})
 
 <a id="forums"></a>
 ### 4. Relevant online discussions
@@ -133,4 +133,4 @@ Relevant discussions on the AboveTopSecret.com forum include the following:
 
 This video was also discussed in 2008 on [the UFO Blogger website](http://www.ufo-blogger.com/2008/10/update-on-claimed-irish-ufooctober.html)and several [other websites](http://www.rigorousintuition.ca/board2/viewtopic.php?t=20750).
 
-![](/images/stories/ufo_videos/video096_1d.jpg)
+![]({{ '/images/stories/ufo_videos/video096_1d.jpg' | relative_url }})

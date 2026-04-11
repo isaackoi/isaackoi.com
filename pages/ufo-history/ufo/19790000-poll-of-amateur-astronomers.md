@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/astronomers_1.jpg"}
 ---
 
-![astronomers_1](/images/stories/ufo_tags/astronomers_1.jpg)
+![astronomers_1]({{ '/images/stories/ufo_tags/astronomers_1.jpg' | relative_url }})
 
 *Poll of amateur astronomers*
 
@@ -63,10 +63,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1985">1985</a></p>
+<p><a href="{{ '/tags/1985' | relative_url }}">1985</a></p>
 </td>
 <td valign="top" width="547">
-<p>National Enquirer (Editors of) in “UFO Report” (<a href="/tags/1985">1985</a>) at pages 57-58 (in Chapter 3) of the Pocket paperback edition.</p>
+<p>National Enquirer (Editors of) in “UFO Report” (<a href="{{ '/tags/1985' | relative_url }}">1985</a>) at pages 57-58 (in Chapter 3) of the Pocket paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

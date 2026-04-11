@@ -13,11 +13,11 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/gsw_1.jpg"}
 ---
 
-![gsw_1](/images/stories/ufo_personalities/gsw_1.jpg)
+![gsw_1]({{ '/images/stories/ufo_personalities/gsw_1.jpg' | relative_url }})
 
 *Ground Saucer Watch (“GSW”)*
 
-Brief comments to be added on Ground Saucer Watch (“[GSW](/ufo-history/ufo-personalities/gsw)”).
+Brief comments to be added on Ground Saucer Watch (“[GSW]({{ '/ufo-history/ufo-personalities/gsw' | relative_url }})”).
 
 Sections below:
 
@@ -59,10 +59,10 @@ For discussion of GSW see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/brookesmith-peter">Brookesmith, Peter</a> in his “<a href="/ufo-history/ufo-books/brookesmith-peter-ufo-the-complete-sightings-catalogue">UFO: The Complete Sightings Catalogue</a>” (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/0713725184/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713725184/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 98 (in Chapter 5) of the BCA hardback edition (with the same page numbering in the Blitz hardback edition, and in the Barnes &amp; Noble edition published under the title “UFO: The Complete Sightings”).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/brookesmith-peter' | relative_url }}">Brookesmith, Peter</a> in his “<a href="{{ '/ufo-history/ufo-books/brookesmith-peter-ufo-the-complete-sightings-catalogue' | relative_url }}">UFO: The Complete Sightings Catalogue</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/0713725184/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713725184/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 98 (in Chapter 5) of the BCA hardback edition (with the same page numbering in the Blitz hardback edition, and in the Barnes &amp; Noble edition published under the title “UFO: The Complete Sightings”).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -70,10 +70,10 @@ For discussion of GSW see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/denzler-brenda">Denzler, Brenda</a> in her “<a href="/ufo-history/ufo-books/denzler-brenda-the-lure-of-the-edge">The Lure of the Edge</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/0520224329/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0520224329/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 17 (in Chapter 1) of the California hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/denzler-brenda' | relative_url }}">Denzler, Brenda</a> in her “<a href="{{ '/ufo-history/ufo-books/denzler-brenda-the-lure-of-the-edge' | relative_url }}">The Lure of the Edge</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/0520224329/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0520224329/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 17 (in Chapter 1) of the California hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -81,10 +81,10 @@ For discussion of GSW see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p>Marvels and Mysteries (Editors Of) in “<a href="/ufo-history/ufo-books/marvels-and-mysteries-editors-of-marvels-and-mysteries-ufos">Marvels and Mysteries: UFOs</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0752512277/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0752512277/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 83-85 of the Parrallel softcover edition.</p>
+<p>Marvels and Mysteries (Editors Of) in “<a href="{{ '/ufo-history/ufo-books/marvels-and-mysteries-editors-of-marvels-and-mysteries-ufos' | relative_url }}">Marvels and Mysteries: UFOs</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0752512277/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0752512277/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 83-85 of the Parrallel softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -92,10 +92,10 @@ For discussion of GSW see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sachs-margaret">Sachs, Margaret</a> in her “<a href="/ufo-history/ufo-books/sachs-margaret-the-ufo-encyclopedia">The UFO Encyclopedia</a>“ (<a href="/tags/1980">1980</a> (available <a href="http://www.amazon.com/dp/0399124217/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0399124217/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 132 (in an entry entitled “Ground Saucer Watch (<a href="/ufo-history/ufo-personalities/gsw">GSW</a>)”) of the Corgi softback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sachs-margaret' | relative_url }}">Sachs, Margaret</a> in her “<a href="{{ '/ufo-history/ufo-books/sachs-margaret-the-ufo-encyclopedia' | relative_url }}">The UFO Encyclopedia</a>“ (<a href="{{ '/tags/1980' | relative_url }}">1980</a> (available <a href="http://www.amazon.com/dp/0399124217/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0399124217/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 132 (in an entry entitled “Ground Saucer Watch (<a href="{{ '/ufo-history/ufo-personalities/gsw' | relative_url }}">GSW</a>)”) of the Corgi softback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -103,10 +103,10 @@ For discussion of GSW see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1988">1988</a></p>
+<p><a href="{{ '/tags/1988' | relative_url }}">1988</a></p>
 </td>
 <td valign="top" width="547">
-<p>Shaw, John in “<a href="/ufo-history/ufo-books/spencer-john-and-evans-hilary-phenomenon">Phenomenon</a>“ (<a href="/tags/1988">1988</a>) (edited by <a href="/ufo-history/ufo-personalities/spencer-john">John Spencer</a> and <a href="/ufo-history/ufo-personalities/evans-hilary">Hilary Evans</a>) (available <a href="http://www.amazon.com/dp/0380706547/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380706547/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 213-215 of the MacDonald hardback edition (Part 3, in the unnumbered chapter entitled “Is a Picture Worth a Thousand Words”).</p>
+<p>Shaw, John in “<a href="{{ '/ufo-history/ufo-books/spencer-john-and-evans-hilary-phenomenon' | relative_url }}">Phenomenon</a>“ (<a href="{{ '/tags/1988' | relative_url }}">1988</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">John Spencer</a> and <a href="{{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }}">Hilary Evans</a>) (available <a href="http://www.amazon.com/dp/0380706547/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380706547/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 213-215 of the MacDonald hardback edition (Part 3, in the unnumbered chapter entitled “Is a Picture Worth a Thousand Words”).</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -114,10 +114,10 @@ For discussion of GSW see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sheaffer-robert">Sheaffer, Robert</a> in his “<a href="/ufo-history/ufo-books/sheaffer-robert-the-ufo-verdict">The UFO Verdict</a>” (<a href="/tags/1980">1980</a>) (available <a href="http://www.amazon.com/dp/0879753382/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879753382/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 16-17 (in Chapter 3), 54-55, 63 (in Chapter 6) of the Prometheus softback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sheaffer-robert' | relative_url }}">Sheaffer, Robert</a> in his “<a href="{{ '/ufo-history/ufo-books/sheaffer-robert-the-ufo-verdict' | relative_url }}">The UFO Verdict</a>” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) (available <a href="http://www.amazon.com/dp/0879753382/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879753382/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 16-17 (in Chapter 3), 54-55, 63 (in Chapter 6) of the Prometheus softback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -125,10 +125,10 @@ For discussion of GSW see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sheaffer-robert">Sheaffer, Robert</a> in his “<a href="/ufo-history/ufo-books/sheaffer-robert-ufo-sightings-the-evidence">UFO Sightings: The Evidence</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/1573922137/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573922137/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 33 (in Chapter 3), 90-91, 100 (in Chapter 6) of the Prometheus hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sheaffer-robert' | relative_url }}">Sheaffer, Robert</a> in his “<a href="{{ '/ufo-history/ufo-books/sheaffer-robert-ufo-sightings-the-evidence' | relative_url }}">UFO Sightings: The Evidence</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/1573922137/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573922137/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 33 (in Chapter 3), 90-91, 100 (in Chapter 6) of the Prometheus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -136,10 +136,10 @@ For discussion of GSW see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1993">1993</a></p>
+<p><a href="{{ '/tags/1993' | relative_url }}">1993</a></p>
 </td>
 <td valign="top" width="547">
-<p>Stone, Reuben in his “<a href="/ufo-history/ufo-books/stone-reuben-ufo-investigation">UFO Investigation</a>” (<a href="/tags/1993">1993</a>) (available <a href="http://www.amazon.com/dp/1856051285/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1856051285/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 74 (in the unnumbered chapter entitled “The Ultimate Conspiracy”) of the Blitz Editions hardback edition.</p>
+<p>Stone, Reuben in his “<a href="{{ '/ufo-history/ufo-books/stone-reuben-ufo-investigation' | relative_url }}">UFO Investigation</a>” (<a href="{{ '/tags/1993' | relative_url }}">1993</a>) (available <a href="http://www.amazon.com/dp/1856051285/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1856051285/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 74 (in the unnumbered chapter entitled “The Ultimate Conspiracy”) of the Blitz Editions hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -147,10 +147,10 @@ For discussion of GSW see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/story-ronald">Story, Ronald</a> in “<a href="/ufo-history/ufo-books/story-ronald-editor-and-green-j-richard-consulting-editor-the-encyclopedia-of-ufos">The Encyclopedia of UFOs</a>” (<a href="/tags/1980">1980</a>) edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a> (available <a href="http://www.amazon.com/dp/0385136773/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0385136773/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 159 (in an entry entitled “Ground Saucer Watch”) of the NEL hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Story, Ronald</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-editor-and-green-j-richard-consulting-editor-the-encyclopedia-of-ufos' | relative_url }}">The Encyclopedia of UFOs</a>” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a> (available <a href="http://www.amazon.com/dp/0385136773/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0385136773/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 159 (in an entry entitled “Ground Saucer Watch”) of the NEL hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

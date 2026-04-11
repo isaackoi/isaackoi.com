@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0595186947.jpg"}
 book: {"identifiers": ["0595186947", "1558887423", "B000RATSR4", "0130366080"], "primary_isbn": "0595186947", "cover_image": "/book-covers/0595186947.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Raymond E Fowler](/ufo-history/ufo-personalities/fowler-raymond-e)'s book “[UFOs: Interplanetary Visitors](/ufo-history/ufo-books/fowler-raymond-e-ufos-interplanetary-visitors)” ([1974](/tags/1974)) (available [on Amazon USA](http://www.amazon.com/dp/0595186947/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0595186947/?&tag=ufot-21))
+Brief review to be added of [Raymond E Fowler]({{ '/ufo-history/ufo-personalities/fowler-raymond-e' | relative_url }})'s book “[UFOs: Interplanetary Visitors]({{ '/ufo-history/ufo-books/fowler-raymond-e-ufos-interplanetary-visitors' | relative_url }})” ([1974]({{ '/tags/1974' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0595186947/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0595186947/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -34,7 +34,7 @@ The table below includes references to relevant discussions in UFO/SETI books no
 
 Many of the tables of references on this website are considerably longer than the references to books found on most other UFO websites. Indeed, some are probably the longest that have been collated in relation to some events and personalities. I hope that these tables are found to be a useful contribution to UFOlogy.
 
-For discussion of “[UFOs: Interplanetary Visitors](/ufo-history/ufo-books/fowler-raymond-e-ufos-interplanetary-visitors)” see the following:
+For discussion of “[UFOs: Interplanetary Visitors]({{ '/ufo-history/ufo-books/fowler-raymond-e-ufos-interplanetary-visitors' | relative_url }})” see the following:
 
 <table border="1" cellpadding="0" cellspacing="0" class="sortable" data-sortable="true" id="sortabletable">
 <thead>
@@ -54,10 +54,10 @@ For discussion of “[UFOs: Interplanetary Visitors](/ufo-history/ufo-books/fowl
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq">The UFO Encyclopedia: 1st edition</a>: Volume 3 – High Strangeness” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/1558887423/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558887423/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 211 (forming part of an entry entitled “<a href="/ufo-history/ufo-personalities/fowler-raymond-e">Fowler, Raymond E</a>veleth (<a href="/tags/1933">1933</a>- )”) of the Omnigraphics hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq' | relative_url }}">The UFO Encyclopedia: 1st edition</a>: Volume 3 – High Strangeness” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/1558887423/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558887423/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 211 (forming part of an entry entitled “<a href="{{ '/ufo-history/ufo-personalities/fowler-raymond-e' | relative_url }}">Fowler, Raymond E</a>veleth (<a href="{{ '/tags/1933' | relative_url }}">1933</a>- )”) of the Omnigraphics hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -65,10 +65,10 @@ For discussion of “[UFOs: Interplanetary Visitors](/ufo-history/ufo-books/fowl
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1975">1975</a></p>
+<p><a href="{{ '/tags/1975' | relative_url }}">1975</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/hynek-j-allen">Hynek, J Allen</a> and <a href="/ufo-history/ufo-personalities/vallee-jacques">Vallee, Jacques</a> in their “<a href="/ufo-history/ufo-books/hynek-allen-and-vallee-jacques-the-edge-of-reality">The Edge of Reality</a>” (<a href="/tags/1975">1975</a>) (available <a href="http://www.amazon.com/dp/B000RATSR4/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000RATSR4/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 224 (in Chapter 8) of the Henry Regnery hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hynek-j-allen' | relative_url }}">Hynek, J Allen</a> and <a href="{{ '/ufo-history/ufo-personalities/vallee-jacques' | relative_url }}">Vallee, Jacques</a> in their “<a href="{{ '/ufo-history/ufo-books/hynek-allen-and-vallee-jacques-the-edge-of-reality' | relative_url }}">The Edge of Reality</a>” (<a href="{{ '/tags/1975' | relative_url }}">1975</a>) (available <a href="http://www.amazon.com/dp/B000RATSR4/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000RATSR4/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 224 (in Chapter 8) of the Henry Regnery hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -76,10 +76,10 @@ For discussion of “[UFOs: Interplanetary Visitors](/ufo-history/ufo-books/fowl
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1974">1974</a></p>
+<p><a href="{{ '/tags/1974' | relative_url }}">1974</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/hynek-j-allen">Hynek, J Allen</a> in Raymond E. Fowler’s “UFOs: Interplanetary Visitors” (<a href="/tags/1974">1974</a>) (available <a href="http://www.amazon.com/dp/0595186947/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0595186947/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages xi-xiii (in the Foreword) of the Exposition Banner hardback edition, at pages xi-xiii of the Bantam paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hynek-j-allen' | relative_url }}">Hynek, J Allen</a> in Raymond E. Fowler’s “UFOs: Interplanetary Visitors” (<a href="{{ '/tags/1974' | relative_url }}">1974</a>) (available <a href="http://www.amazon.com/dp/0595186947/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0595186947/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages xi-xiii (in the Foreword) of the Exposition Banner hardback edition, at pages xi-xiii of the Bantam paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -87,10 +87,10 @@ For discussion of “[UFOs: Interplanetary Visitors](/ufo-history/ufo-books/fowl
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1979">1979</a></p>
+<p><a href="{{ '/tags/1979' | relative_url }}">1979</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/hynek-j-allen">Hynek, J Allen</a> in Raymond Fowler’s “<a href="/ufo-history/ufo-books/fowler-raymond-e-the-andreasson-affair">The Andreasson Affair</a>” (<a href="/tags/1979">1979</a>) (available <a href="http://www.amazon.com/dp/0130366080/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0130366080/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 9 (in the Introduction) of the Prentice Hall hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hynek-j-allen' | relative_url }}">Hynek, J Allen</a> in Raymond Fowler’s “<a href="{{ '/ufo-history/ufo-books/fowler-raymond-e-the-andreasson-affair' | relative_url }}">The Andreasson Affair</a>” (<a href="{{ '/tags/1979' | relative_url }}">1979</a>) (available <a href="http://www.amazon.com/dp/0130366080/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0130366080/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 9 (in the Introduction) of the Prentice Hall hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

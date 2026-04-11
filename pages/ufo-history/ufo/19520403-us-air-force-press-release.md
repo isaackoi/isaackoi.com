@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/documents_1.gif"}
 ---
 
-![documents_1](/images/stories/ufo_tags/documents_1.gif)
+![documents_1]({{ '/images/stories/ufo_tags/documents_1.gif' | relative_url }})
 
 *US Air Force Press Release*
 
@@ -39,7 +39,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-Image of press release in Leon Davidson’s “[Flying Saucers: An Analysis of the Air Force Project Blue Book Special Report No. 14](/ufo-history/ufo-books/davidson-leon-flying-saucers-an-analysis-of-the-air-force-project-blue-book-special-report-no-14)” ([1966](/tags/1966).0700) at page A4 of the Ramsey-Wallace paperbound 3<sup>rd</sup> Edition.
+Image of press release in Leon Davidson’s “[Flying Saucers: An Analysis of the Air Force Project Blue Book Special Report No. 14]({{ '/ufo-history/ufo-books/davidson-leon-flying-saucers-an-analysis-of-the-air-force-project-blue-book-special-report-no-14' | relative_url }})” ([1966]({{ '/tags/1966' | relative_url }}).0700) at page A4 of the Ramsey-Wallace paperbound 3<sup>rd</sup> Edition.
 
 The table below includes references to relevant discussions in UFO/SETI books noted by Isaac Koi during a review of approximately 963 UFO/SETI books during the period 2003-2006 (with a few later additions). The table can be sorted by author, date and length of discussion by clicking on the relevant word in the top line of the table.
 
@@ -65,10 +65,10 @@ For discussion of this press release see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/dolan-richard">Dolan, Richard</a> in his “<a href="/ufo-history/ufo-books/dolan-richard-ufos-and-the-national-security-state-volume-1-1941-1973">UFOs and the National Security State: Volume 1: 1941-1973</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/1571743170/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1571743170/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 163 (in Chapter 4) of the Keyhole softcover edition, at page 98 of the <a href="/tags/2002">2002</a> revised Hampton Road softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dolan-richard' | relative_url }}">Dolan, Richard</a> in his “<a href="{{ '/ufo-history/ufo-books/dolan-richard-ufos-and-the-national-security-state-volume-1-1941-1973' | relative_url }}">UFOs and the National Security State: Volume 1: 1941-1973</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/1571743170/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1571743170/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 163 (in Chapter 4) of the Keyhole softcover edition, at page 98 of the <a href="{{ '/tags/2002' | relative_url }}">2002</a> revised Hampton Road softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -76,10 +76,10 @@ For discussion of this press release see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1976">1976</a></p>
+<p><a href="{{ '/tags/1976' | relative_url }}">1976</a></p>
 </td>
 <td valign="top" width="547">
-<p>Flammonde, Paris in his “<a href="/ufo-history/ufo-books/flammonde-paris-ufo-exist">Ufo Exist!</a>” (<a href="/tags/1976">1976</a>) (available <a href="http://www.amazon.com/dp/0345339517/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0345339517/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 393 (in Chapter 20) of the Ballantine Books paperback edition.</p>
+<p>Flammonde, Paris in his “<a href="{{ '/ufo-history/ufo-books/flammonde-paris-ufo-exist' | relative_url }}">Ufo Exist!</a>” (<a href="{{ '/tags/1976' | relative_url }}">1976</a>) (available <a href="http://www.amazon.com/dp/0345339517/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0345339517/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 393 (in Chapter 20) of the Ballantine Books paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -87,10 +87,10 @@ For discussion of this press release see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1975">1975</a></p>
+<p><a href="{{ '/tags/1975' | relative_url }}">1975</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/jacobs-david-michael">Jacobs, David Michael</a> in his “<a href="/ufo-history/ufo-books/jacobs-david-michael-the-ufo-controversy-in-america">The UFO Controversy in America</a>” (<a href="/tags/1975">1975</a>) (available <a href="http://www.amazon.com/dp/0253190061/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0253190061/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 69 (in Chapter 3) of the Indiana hardback edition, at page 60 of the Signet paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/jacobs-david-michael' | relative_url }}">Jacobs, David Michael</a> in his “<a href="{{ '/ufo-history/ufo-books/jacobs-david-michael-the-ufo-controversy-in-america' | relative_url }}">The UFO Controversy in America</a>” (<a href="{{ '/tags/1975' | relative_url }}">1975</a>) (available <a href="http://www.amazon.com/dp/0253190061/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0253190061/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 69 (in Chapter 3) of the Indiana hardback edition, at page 60 of the Signet paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -98,10 +98,10 @@ For discussion of this press release see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/peebles-curtis">Peebles, Curtis</a> in his “<a href="/ufo-history/ufo-books/peebles-curtis-watch-the-skies">Watch the Skies!</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/1560983434/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1560983434/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 57-58 (in Chapter 5, “The <a href="/tags/1952">1952</a> Flap” – in part of a section entitled “Prelude to the Great Flap”) of the Smithsonian hardback edition, at page 68 of the Berkley paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/peebles-curtis' | relative_url }}">Peebles, Curtis</a> in his “<a href="{{ '/ufo-history/ufo-books/peebles-curtis-watch-the-skies' | relative_url }}">Watch the Skies!</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/1560983434/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1560983434/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 57-58 (in Chapter 5, “The <a href="{{ '/tags/1952' | relative_url }}">1952</a> Flap” – in part of a section entitled “Prelude to the Great Flap”) of the Smithsonian hardback edition, at page 68 of the Berkley paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>

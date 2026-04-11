@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/1933665289.jpg"}
 book: {"identifiers": ["1933665289", "1578590299", "1558883010", "1558887423", "0688088643", "0283060697", "0963010409", "0880642262"], "primary_isbn": "1933665289", "cover_image": "/book-covers/1933665289.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Jacques Vallee](/ufo-history/ufo-personalities/vallee-jacques)'s book “[Dimensions](/ufo-history/ufo-books/vallee-jaques-dimensions)” ([1988](/tags/1988)) (available [on Amazon USA](http://www.amazon.com/dp/1933665289/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1933665289/?&tag=ufot-21))
+Brief review to be added of [Jacques Vallee]({{ '/ufo-history/ufo-personalities/vallee-jacques' | relative_url }})'s book “[Dimensions]({{ '/ufo-history/ufo-books/vallee-jaques-dimensions' | relative_url }})” ([1988]({{ '/tags/1988' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1933665289/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1933665289/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -34,7 +34,7 @@ The table below includes references to relevant discussions in UFO/SETI books no
 
 Many of the tables of references on this website are considerably longer than the references to books found on most other UFO websites. Indeed, some are probably the longest that have been collated in relation to some events and personalities. I hope that these tables are found to be a useful contribution to UFOlogy.
 
-For discussion of “[Dimensions](/ufo-history/ufo-books/vallee-jaques-dimensions)“ see the following:
+For discussion of “[Dimensions]({{ '/ufo-history/ufo-books/vallee-jaques-dimensions' | relative_url }})“ see the following:
 
 <table border="1" cellpadding="0" cellspacing="0" class="sortable" data-sortable="true" id="sortabletable">
 <thead>
@@ -54,10 +54,10 @@ For discussion of “[Dimensions](/ufo-history/ufo-books/vallee-jaques-dimension
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-the-ufo-book">The UFO Book</a>: Encyclopedia of the Extraterrestrial” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/1578590299/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1578590299/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 438 of the Visible Ink Press softcover edition forming part of an entry entitled “Paranormal and Occult Theories about UFOs”.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-the-ufo-book' | relative_url }}">The UFO Book</a>: Encyclopedia of the Extraterrestrial” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/1578590299/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1578590299/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 438 of the Visible Ink Press softcover edition forming part of an entry entitled “Paranormal and Occult Theories about UFOs”.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -65,10 +65,10 @@ For discussion of “[Dimensions](/ufo-history/ufo-books/vallee-jaques-dimension
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq">The UFO Encyclopedia: 1st edition</a>: Volume 1 – UFOs in the <a href="/tags/1980">1980</a>s” (<a href="/tags/1990">1990</a>) (available <a href="http://www.amazon.com/dp/1558883010/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558883010/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 213 of the Apogee hardback edition in an entry entitled “<a href="/ufo-history/ufo-personalities/vallee-jacques">Vallee, Jacques</a> Francis (1939- )”.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq' | relative_url }}">The UFO Encyclopedia: 1st edition</a>: Volume 1 – UFOs in the <a href="{{ '/tags/1980' | relative_url }}">1980</a>s” (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) (available <a href="http://www.amazon.com/dp/1558883010/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558883010/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 213 of the Apogee hardback edition in an entry entitled “<a href="{{ '/ufo-history/ufo-personalities/vallee-jacques' | relative_url }}">Vallee, Jacques</a> Francis (1939- )”.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -76,10 +76,10 @@ For discussion of “[Dimensions](/ufo-history/ufo-books/vallee-jaques-dimension
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq">The UFO Encyclopedia: 1st edition</a>: Volume 3 – High Strangeness” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/1558887423/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558887423/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 378 of the Omnigraphics hardback edition in an entry entitled “Paranormal and Occult Theories about UFOs”.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq' | relative_url }}">The UFO Encyclopedia: 1st edition</a>: Volume 3 – High Strangeness” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/1558887423/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558887423/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 378 of the Omnigraphics hardback edition in an entry entitled “Paranormal and Occult Theories about UFOs”.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -87,10 +87,10 @@ For discussion of “[Dimensions](/ufo-history/ufo-books/vallee-jaques-dimension
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1989">1989</a></p>
+<p><a href="{{ '/tags/1989' | relative_url }}">1989</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/conroy-ed">Conroy, Ed</a> in his “<a href="/ufo-history/ufo-books/conroy-ed-report-on-communion">Report on Communion</a>” (<a href="/tags/1989">1989</a>) (available <a href="http://www.amazon.com/dp/0688088643/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0688088643/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 323-328 (in Chapter 8) of the Avon paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/conroy-ed' | relative_url }}">Conroy, Ed</a> in his “<a href="{{ '/ufo-history/ufo-books/conroy-ed-report-on-communion' | relative_url }}">Report on Communion</a>” (<a href="{{ '/tags/1989' | relative_url }}">1989</a>) (available <a href="http://www.amazon.com/dp/0688088643/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0688088643/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 323-328 (in Chapter 8) of the Avon paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>6</p>
@@ -98,10 +98,10 @@ For discussion of “[Dimensions](/ufo-history/ufo-books/vallee-jaques-dimension
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1989">1989</a></p>
+<p><a href="{{ '/tags/1989' | relative_url }}">1989</a></p>
 </td>
 <td valign="top" width="547">
-<p>Grant, Patricia in “<a href="/ufo-history/ufo-books/good-timothy-editor-the-ufo-report-1991">The UFO Report 1991</a>” (<a href="/tags/1989">1989</a>) (edited by <a href="/ufo-history/ufo-personalities/good-timothy">Timothy Good</a>) (available <a href="http://www.amazon.com/dp/0283060697/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0283060697/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 101 (in Chapter 4) of the Sidgwick &amp; Jackson hardback edition.</p>
+<p>Grant, Patricia in “<a href="{{ '/ufo-history/ufo-books/good-timothy-editor-the-ufo-report-1991' | relative_url }}">The UFO Report 1991</a>” (<a href="{{ '/tags/1989' | relative_url }}">1989</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/good-timothy' | relative_url }}">Timothy Good</a>) (available <a href="http://www.amazon.com/dp/0283060697/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0283060697/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 101 (in Chapter 4) of the Sidgwick &amp; Jackson hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -109,10 +109,10 @@ For discussion of “[Dimensions](/ufo-history/ufo-books/vallee-jaques-dimension
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/lindemann-michael">Lindemann, Michael</a> in “UFOs And The Alien Presence: Six Viewpoints” (<a href="/tags/1991">1991</a>) (Edited by Michael Lindemann) (available <a href="http://www.amazon.com/dp/0963010409/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963010409/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 85-86 (in Chapter 2) of the <a href="/tags/2002">2002</a> Group softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/lindemann-michael' | relative_url }}">Lindemann, Michael</a> in “UFOs And The Alien Presence: Six Viewpoints” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (Edited by Michael Lindemann) (available <a href="http://www.amazon.com/dp/0963010409/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963010409/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 85-86 (in Chapter 2) of the <a href="{{ '/tags/2002' | relative_url }}">2002</a> Group softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -120,10 +120,10 @@ For discussion of “[Dimensions](/ufo-history/ufo-books/vallee-jaques-dimension
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1988">1988</a></p>
+<p><a href="{{ '/tags/1988' | relative_url }}">1988</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/strieber-whitley">Strieber, Whitley</a> in <a href="/ufo-history/ufo-personalities/vallee-jacques">Jacques Vallee</a>’s “<a href="/ufo-history/ufo-books/vallee-jaques-dimensions">Dimensions</a>“ (<a href="/tags/1988">1988</a>) (available <a href="http://www.amazon.com/dp/1933665289/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1933665289/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages v-viii (in the Foreword) of the Souvenir Press hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/strieber-whitley' | relative_url }}">Strieber, Whitley</a> in <a href="{{ '/ufo-history/ufo-personalities/vallee-jacques' | relative_url }}">Jacques Vallee</a>’s “<a href="{{ '/ufo-history/ufo-books/vallee-jaques-dimensions' | relative_url }}">Dimensions</a>“ (<a href="{{ '/tags/1988' | relative_url }}">1988</a>) (available <a href="http://www.amazon.com/dp/1933665289/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1933665289/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages v-viii (in the Foreword) of the Souvenir Press hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -131,10 +131,10 @@ For discussion of “[Dimensions](/ufo-history/ufo-books/vallee-jaques-dimension
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p>Ware, Donald M in an interview in “UFOs And The Alien Presence: Six Viewpoints” (<a href="/tags/1991">1991</a>) (Edited by Michael Lindemann) (available <a href="http://www.amazon.com/dp/0963010409/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963010409/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 204 (in Chapter 6) of the <a href="/tags/2002">2002</a> Group softcover edition.</p>
+<p>Ware, Donald M in an interview in “UFOs And The Alien Presence: Six Viewpoints” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (Edited by Michael Lindemann) (available <a href="http://www.amazon.com/dp/0963010409/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963010409/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 204 (in Chapter 6) of the <a href="{{ '/tags/2002' | relative_url }}">2002</a> Group softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -142,10 +142,10 @@ For discussion of “[Dimensions](/ufo-history/ufo-books/vallee-jaques-dimension
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/wilson-colin">Wilson, Colin</a> in his “<a href="/ufo-history/ufo-books/wilson-colin-alien-dawn">Alien Dawn</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0880642262/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0880642262/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 139 (in Chapter 4) of the Virgin softcover edition (with the same page numbering in the Virgin paperback edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/wilson-colin' | relative_url }}">Wilson, Colin</a> in his “<a href="{{ '/ufo-history/ufo-books/wilson-colin-alien-dawn' | relative_url }}">Alien Dawn</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0880642262/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0880642262/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 139 (in Chapter 4) of the Virgin softcover edition (with the same page numbering in the Virgin paperback edition).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

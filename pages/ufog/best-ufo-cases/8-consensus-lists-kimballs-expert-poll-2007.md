@@ -13,9 +13,9 @@ planned_sections: []
 header: {"preview_image": null}
 ---
 
-“[Best UFO Cases](/ufog/best-ufo-cases)” by Isaac Koi
+“[Best UFO Cases]({{ '/ufog/best-ufo-cases' | relative_url }})” by Isaac Koi
 
-[PART 8: Consensus lists: Paul Kimball’s expert poll (2005/6)](/ufog/best-ufo-cases/8-consensus-lists-kimballs-expert-poll-2007)
+[PART 8: Consensus lists: Paul Kimball’s expert poll (2005/6)]({{ '/ufog/best-ufo-cases/8-consensus-lists-kimballs-expert-poll-2007' | relative_url }})
 
 A documentary entitled “Best Evidence: Top Ten UFO Sightings” premiered on “Space: The Imagination Station” in Canada during May 2007 (see Footnote 8.01).
 
@@ -27,17 +27,17 @@ The opening words of that documentary, produced and directed by Paul Kimball, st
 
 The documentary went on to list the following 10 cases:
 
-1. [RB-47](/ufo-history/ufo/19570717-rb-47-incident) (1957) (Case 63 in [Isaac Koi's “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
+1. [RB-47]({{ '/ufo-history/ufo/19570717-rb-47-incident' | relative_url }}) (1957) (Case 63 in [Isaac Koi's “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
 
-2. [Tehran](/ufo-history/ufo/19760919-tehran-jet-chase-incident) (1976) (Case 47 in [Isaac Koi's “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
+2. [Tehran]({{ '/ufo-history/ufo/19760919-tehran-jet-chase-incident' | relative_url }}) (1976) (Case 47 in [Isaac Koi's “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
 
-3. [Rendlesham](/ufo-history/ufo/19801227-rendlesham-forest-incident) (1980) (Case 18 in [Isaac Koi's “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
+3. [Rendlesham]({{ '/ufo-history/ufo/19801227-rendlesham-forest-incident' | relative_url }}) (1980) (Case 18 in [Isaac Koi's “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
 
-4. [McMinnville](/ufo-history/ufo/19500511-mcminnville-photographs) (Trent case - 1950) (Case 17 in [Isaac Koi's “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
+4. [McMinnville]({{ '/ufo-history/ufo/19500511-mcminnville-photographs' | relative_url }}) (Trent case - 1950) (Case 17 in [Isaac Koi's “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
 
 5. Kelly Johnson sighting (1953)
 
-6. [Shag Harbour](/ufo-history/ufo/19671004-shag-harbour-incident) (1967)
+6. [Shag Harbour]({{ '/ufo-history/ufo/19671004-shag-harbour-incident' | relative_url }}) (1967)
 
 7. Malmstrom AFB (1967)
 

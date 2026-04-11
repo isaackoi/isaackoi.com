@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -63,10 +63,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/baker-alan">Baker, Alan</a> in his “<a href="/ufo-history/ufo-books/baker-alan-the-encyclopaedia-of-alien-encounters">The Encyclopaedia of Alien Encounters</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/1852277343/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1852277343/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 188-189 (in an entry entitled “Photographs of Aliens”) of the Virgin hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/baker-alan' | relative_url }}">Baker, Alan</a> in his “<a href="{{ '/ufo-history/ufo-books/baker-alan-the-encyclopaedia-of-alien-encounters' | relative_url }}">The Encyclopaedia of Alien Encounters</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/1852277343/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1852277343/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 188-189 (in an entry entitled “Photographs of Aliens”) of the Virgin hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -74,10 +74,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1989">1989</a></p>
+<p><a href="{{ '/tags/1989' | relative_url }}">1989</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/beckley-timothy-green">Beckley, Timothy Green</a> in his “MJ-12 and the Riddle of Hangar 18” (<a href="/tags/1989">1989</a>) (available <a href="http://www.amazon.com/dp/0938294024/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0938294024/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 70, 71, 72, 74-91 (in Chapter 5) of the Inner Light softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/beckley-timothy-green' | relative_url }}">Beckley, Timothy Green</a> in his “MJ-12 and the Riddle of Hangar 18” (<a href="{{ '/tags/1989' | relative_url }}">1989</a>) (available <a href="http://www.amazon.com/dp/0938294024/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0938294024/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 70, 71, 72, 74-91 (in Chapter 5) of the Inner Light softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>21</p>
@@ -85,10 +85,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/peebles-curtis">Peebles, Curtis</a> in his “<a href="/ufo-history/ufo-books/peebles-curtis-watch-the-skies">Watch the Skies!</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/1560983434/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1560983434/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 244-245 (in Chapter 16) of the Smithsonian hardback edition, at pages 294-295 of the Berkley paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/peebles-curtis' | relative_url }}">Peebles, Curtis</a> in his “<a href="{{ '/ufo-history/ufo-books/peebles-curtis-watch-the-skies' | relative_url }}">Watch the Skies!</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/1560983434/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1560983434/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 244-245 (in Chapter 16) of the Smithsonian hardback edition, at pages 294-295 of the Berkley paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -96,10 +96,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-alien-contact-the-first-fifty-years">Alien Contact – The First Fifty Years</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0806904763/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806904763/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 11 (in the chapter entitled “<a href="/tags/1948">1948</a>”) of the Collins and Brown hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-alien-contact-the-first-fifty-years' | relative_url }}">Alien Contact – The First Fifty Years</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0806904763/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806904763/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 11 (in the chapter entitled “<a href="{{ '/tags/1948' | relative_url }}">1948</a>”) of the Collins and Brown hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -107,10 +107,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-ufo-retrievals">UFO Retrievals</a>” (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/0713724935/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713724935/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 61-64 (in Chapter 3) of the Blandford softback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-ufo-retrievals' | relative_url }}">UFO Retrievals</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/0713724935/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713724935/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 61-64 (in Chapter 3) of the Blandford softback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -129,10 +129,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1986">1986</a></p>
+<p><a href="{{ '/tags/1986' | relative_url }}">1986</a></p>
 </td>
 <td valign="top" width="547">
-<p>Steinman, William and <a href="/ufo-history/ufo-personalities/stevens-wendelle">Stevens, Wendelle</a> in their “UFO Crash at Aztec” (<a href="/tags/1986">1986</a>) (available <a href="http://www.amazon.com/dp/093426905X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/093426905X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 402-422 of the Wendelle Stevens hardback edition.</p>
+<p>Steinman, William and <a href="{{ '/ufo-history/ufo-personalities/stevens-wendelle' | relative_url }}">Stevens, Wendelle</a> in their “UFO Crash at Aztec” (<a href="{{ '/tags/1986' | relative_url }}">1986</a>) (available <a href="http://www.amazon.com/dp/093426905X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/093426905X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 402-422 of the Wendelle Stevens hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>21</p>

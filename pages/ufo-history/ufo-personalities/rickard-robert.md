@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/rickard_bob_1.gif"}
 ---
 
-![rickard_bob_1](/images/stories/ufo_personalities/rickard_bob_1.gif)
+![rickard_bob_1]({{ '/images/stories/ufo_personalities/rickard_bob_1.gif' | relative_url }})
 
 *Robert Rickard*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/rickard-robert">Rickard, Robert</a> and Kelly, Richard “Photographs of the Unknown”</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/rickard-robert' | relative_url }}">Rickard, Robert</a> and Kelly, Richard “Photographs of the Unknown”</p>
 </td>
 </tr>
 </tbody>

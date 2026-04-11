@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/dean_jodi_1.jpg"}
 ---
 
-![dean_jodi_1](/images/stories/ufo_personalities/dean_jodi_1.jpg)
+![dean_jodi_1]({{ '/images/stories/ufo_personalities/dean_jodi_1.jpg' | relative_url }})
 
 *Jodi Dean*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/dean-jodi">Dean, Jodi</a> “<a href="/ufo-history/ufo-books/dean-jodi-aliens-in-america">Aliens in America</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0801484685/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0801484685/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dean-jodi' | relative_url }}">Dean, Jodi</a> “<a href="{{ '/ufo-history/ufo-books/dean-jodi-aliens-in-america' | relative_url }}">Aliens in America</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0801484685/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0801484685/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>
@@ -59,7 +59,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-See the references provided in the entry for Jodi Dean's book “[Aliens in America](/ufo-history/ufo-books/dean-jodi-aliens-in-america)” ([1998](/tags/1998)).
+See the references provided in the entry for Jodi Dean's book “[Aliens in America]({{ '/ufo-history/ufo-books/dean-jodi-aliens-in-america' | relative_url }})” ([1998]({{ '/tags/1998' | relative_url }})).
 
 <a id="other"></a>
 ### Other Material

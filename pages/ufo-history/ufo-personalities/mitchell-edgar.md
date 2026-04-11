@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/mitchell_edgar_1.jpg"}
 ---
 
-![mitchell_edgar_1](/images/stories/ufo_personalities/mitchell_edgar_1.jpg)
+![mitchell_edgar_1]({{ '/images/stories/ufo_personalities/mitchell_edgar_1.jpg' | relative_url }})
 
 *Edgar Mitchell*
 
@@ -57,10 +57,10 @@ For discussion of Edgar Mitchell see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p>Graff, Dale in his “<a href="/ufo-history/ufo-books/graff-dale-tracks-in-the-psychic-wilderness-an-exploration-of-esp-remote-viewing-precognitive-dreaming-and-synchronicity">Tracks in the Psychic Wilderness: An exploration of ESP, Remote Viewing, Precognitive Dreaming and Synchronicity</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/1843337312/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1843337312/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 60-61 (in Chapter 6) of the Vega softcover edition.</p>
+<p>Graff, Dale in his “<a href="{{ '/ufo-history/ufo-books/graff-dale-tracks-in-the-psychic-wilderness-an-exploration-of-esp-remote-viewing-precognitive-dreaming-and-synchronicity' | relative_url }}">Tracks in the Psychic Wilderness: An exploration of ESP, Remote Viewing, Precognitive Dreaming and Synchronicity</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/1843337312/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1843337312/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 60-61 (in Chapter 6) of the Vega softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -68,10 +68,10 @@ For discussion of Edgar Mitchell see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2007">2007</a></p>
+<p><a href="{{ '/tags/2007' | relative_url }}">2007</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/harris-paola">Harris, Paola</a> in her “<a href="/ufo-history/ufo-books/harris-paola-how-does-one-speak-to-a-ball-of-light">How does one speak to a ball of light?</a>” (<a href="/tags/2007">2007</a>) (available <a href="http://www.amazon.com/dp/1425994024/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1425994024/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 40-47 (in Section 1), 199, 206-208, 209 (in Section 2) of the Author House softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/harris-paola' | relative_url }}">Harris, Paola</a> in her “<a href="{{ '/ufo-history/ufo-books/harris-paola-how-does-one-speak-to-a-ball-of-light' | relative_url }}">How does one speak to a ball of light?</a>” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (available <a href="http://www.amazon.com/dp/1425994024/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1425994024/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 40-47 (in Section 1), 199, 206-208, 209 (in Section 2) of the Author House softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>13</p>
@@ -79,10 +79,10 @@ For discussion of Edgar Mitchell see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2007">2007</a></p>
+<p><a href="{{ '/tags/2007' | relative_url }}">2007</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/marrs-jim">Marrs, Jim</a> in his “<a href="/ufo-history/ufo-books/marrs-jim-psi-spies-the-true-story-of-americas-psychic-warfare-program">PSI Spies: The True Story of America’s Psychic Warfare Program</a>” (<a href="/tags/2007">2007</a>) (available <a href="http://www.amazon.com/dp/1564149609/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1564149609/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 120 (in Chapter 4) of the New Page Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/marrs-jim' | relative_url }}">Marrs, Jim</a> in his “<a href="{{ '/ufo-history/ufo-books/marrs-jim-psi-spies-the-true-story-of-americas-psychic-warfare-program' | relative_url }}">PSI Spies: The True Story of America’s Psychic Warfare Program</a>” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (available <a href="http://www.amazon.com/dp/1564149609/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1564149609/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 120 (in Chapter 4) of the New Page Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -90,10 +90,10 @@ For discussion of Edgar Mitchell see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1984">1984</a></p>
+<p><a href="{{ '/tags/1984' | relative_url }}">1984</a></p>
 </td>
 <td valign="top" width="547">
-<p>McRae, Ronald in his “<a href="/ufo-history/ufo-books/mcrae-ronald-mind-wars-the-true-story-of-government-research-into-the-military-potential-of-psychic-weapons">Mind Wars: The true story of government research into the military potential of psychic weapons</a>” (<a href="/tags/1984">1984</a>) (available <a href="http://www.amazon.com/dp/0312533187/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312533187/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 10, 12, 66-67, 71, 79, 103-104 of the St Martin’s Press hardback edition.</p>
+<p>McRae, Ronald in his “<a href="{{ '/ufo-history/ufo-books/mcrae-ronald-mind-wars-the-true-story-of-government-research-into-the-military-potential-of-psychic-weapons' | relative_url }}">Mind Wars: The true story of government research into the military potential of psychic weapons</a>” (<a href="{{ '/tags/1984' | relative_url }}">1984</a>) (available <a href="http://www.amazon.com/dp/0312533187/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312533187/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 10, 12, 66-67, 71, 79, 103-104 of the St Martin’s Press hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>8</p>
@@ -101,10 +101,10 @@ For discussion of Edgar Mitchell see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/greer-steven">Greer, Steven</a> in his “<a href="/ufo-history/ufo-books/greer-steven-disclosure-military-and-government-witnesses-reveal-the-greatest-secrets-in-modern-history">Disclosure : Military and Government Witnesses Reveal the Greatest Secrets in Modern History</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/0967323819/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0967323819/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 61-64 (in Section 1) of the Crossing Point softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/greer-steven' | relative_url }}">Greer, Steven</a> in his “<a href="{{ '/ufo-history/ufo-books/greer-steven-disclosure-military-and-government-witnesses-reveal-the-greatest-secrets-in-modern-history' | relative_url }}">Disclosure : Military and Government Witnesses Reveal the Greatest Secrets in Modern History</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/0967323819/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0967323819/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 61-64 (in Section 1) of the Crossing Point softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -112,10 +112,10 @@ For discussion of Edgar Mitchell see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/schnabel-jim">Schnabel, Jim</a> in his “<a href="/ufo-history/ufo-books/schnabel-jim-remote-viewers-the-secret-history-of-americas-psychic-spies">Remote Viewers : The Secret History of America’s Psychic Spies</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0440614058/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0440614058/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 129, 134 (in Chapter 9), 173 (in Chapter 12), 200 (in Chapter 14) of the Dell paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/schnabel-jim' | relative_url }}">Schnabel, Jim</a> in his “<a href="{{ '/ufo-history/ufo-books/schnabel-jim-remote-viewers-the-secret-history-of-americas-psychic-spies' | relative_url }}">Remote Viewers : The Secret History of America’s Psychic Spies</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0440614058/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0440614058/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 129, 134 (in Chapter 9), 173 (in Chapter 12), 200 (in Chapter 14) of the Dell paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -123,10 +123,10 @@ For discussion of Edgar Mitchell see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2008">2008</a></p>
+<p><a href="{{ '/tags/2008' | relative_url }}">2008</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/vallee-jacques">Vallee, Jacques</a> in his “<a href="/ufo-history/ufo-books/vallee-jacques-forbidden-science-volume-2-journals-1970-1979">Forbidden Science : Volume 2 (Journals 1970-1979)</a>” (<a href="/tags/2008">2008</a>) (available <a href="http://www.amazon.com/dp/0615249744/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0615249744/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 88, 164, 166, 168, 204, 205 of the Documatica Research hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/vallee-jacques' | relative_url }}">Vallee, Jacques</a> in his “<a href="{{ '/ufo-history/ufo-books/vallee-jacques-forbidden-science-volume-2-journals-1970-1979' | relative_url }}">Forbidden Science : Volume 2 (Journals 1970-1979)</a>” (<a href="{{ '/tags/2008' | relative_url }}">2008</a>) (available <a href="http://www.amazon.com/dp/0615249744/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0615249744/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 88, 164, 166, 168, 204, 205 of the Documatica Research hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>6</p>

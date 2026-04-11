@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/shostak_seth_3.jpg"}
 ---
 
-![shostak_seth_3](/images/stories/ufo_personalities/shostak_seth_3.jpg)
+![shostak_seth_3]({{ '/images/stories/ufo_personalities/shostak_seth_3.jpg' | relative_url }})
 
 *Seth Shostak*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/shostak-seth">Shostak, Seth</a> “<a href="/ufo-history/ufo-books/shostak-seth-sharing-the-universe">Sharing the Universe</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0965377431/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0965377431/?&amp;tag=ufot-21">on Amazon UK</a>) (<a href="/tags/seti">SETI</a>:)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/shostak-seth' | relative_url }}">Shostak, Seth</a> “<a href="{{ '/ufo-history/ufo-books/shostak-seth-sharing-the-universe' | relative_url }}">Sharing the Universe</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0965377431/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0965377431/?&amp;tag=ufot-21">on Amazon UK</a>) (<a href="{{ '/tags/seti' | relative_url }}">SETI</a>:)</p>
 </td>
 </tr>
 </tbody>
@@ -83,10 +83,10 @@ For discussion of Seth Shostak see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Achenbach, Joel in his “<a href="/ufo-history/ufo-books/achenbach-joel-captured-by-aliens">Captured by Aliens</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0684848562/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684848562/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 279-280, 283 (in Chapter 28) of the Simon and Schuster hardback edition.</p>
+<p>Achenbach, Joel in his “<a href="{{ '/ufo-history/ufo-books/achenbach-joel-captured-by-aliens' | relative_url }}">Captured by Aliens</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0684848562/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684848562/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 279-280, 283 (in Chapter 28) of the Simon and Schuster hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -94,10 +94,10 @@ For discussion of Seth Shostak see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/drake-frank">Drake, Frank</a> in Seth Shostak’s “<a href="/ufo-history/ufo-books/shostak-seth-sharing-the-universe">Sharing the Universe</a>” (<a href="/tags/1998">1998</a>) on the unnumbered first 2 pages (the Foreword generally) of the Berkeley Hills softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/drake-frank' | relative_url }}">Drake, Frank</a> in Seth Shostak’s “<a href="{{ '/ufo-history/ufo-books/shostak-seth-sharing-the-universe' | relative_url }}">Sharing the Universe</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) on the unnumbered first 2 pages (the Foreword generally) of the Berkeley Hills softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -105,10 +105,10 @@ For discussion of Seth Shostak see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2008">2008</a></p>
+<p><a href="{{ '/tags/2008' | relative_url }}">2008</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/friedman-stanton">Friedman, Stanton</a> in his “<a href="/ufo-history/ufo-books/friedman-stanton-flying-saucers-and-science-a-scientist-investigates-the-mysteries-of-ufos">Flying Saucers and Science : A Scientist Investigates the Mysteries of UFOs</a>” (<a href="/tags/2008">2008</a>) (available <a href="http://www.amazon.com/dp/1601630115/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1601630115/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 129, 137-138, 142, 143, 144 (in Chapter 5), 159, 160, 161 (in Chapter 6) of the New Page softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/friedman-stanton' | relative_url }}">Friedman, Stanton</a> in his “<a href="{{ '/ufo-history/ufo-books/friedman-stanton-flying-saucers-and-science-a-scientist-investigates-the-mysteries-of-ufos' | relative_url }}">Flying Saucers and Science : A Scientist Investigates the Mysteries of UFOs</a>” (<a href="{{ '/tags/2008' | relative_url }}">2008</a>) (available <a href="http://www.amazon.com/dp/1601630115/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1601630115/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 129, 137-138, 142, 143, 144 (in Chapter 5), 159, 160, 161 (in Chapter 6) of the New Page softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>9</p>
@@ -116,10 +116,10 @@ For discussion of Seth Shostak see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p>Lemonick, Michael in his “<a href="/ufo-history/ufo-books/sagan-carl-other-worlds">Other Worlds</a>“ (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0684832941/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684832941/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 225-226, 237-238 (in Chapter 13) of the Simon &amp; Schuster hardback edition (with the same page numbering in the Simon &amp; Schuster softcover edition).</p>
+<p>Lemonick, Michael in his “<a href="{{ '/ufo-history/ufo-books/sagan-carl-other-worlds' | relative_url }}">Other Worlds</a>“ (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0684832941/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684832941/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 225-226, 237-238 (in Chapter 13) of the Simon &amp; Schuster hardback edition (with the same page numbering in the Simon &amp; Schuster softcover edition).</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -127,10 +127,10 @@ For discussion of Seth Shostak see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2002">2002</a></p>
+<p><a href="{{ '/tags/2002' | relative_url }}">2002</a></p>
 </td>
 <td valign="top" width="547">
-<p>SETI Institute’s SETI Science and Technology Working Group (“the SSTWG”) in “<a href="/ufo-history/ufo-books/elkers-ronald-d-and-cullers-kent-d-and-billingham-john-and-scheffer-louis-k-editors-seti-2020-a-roadmap-for-the-search-for-extraterrestrial-intelligence">SETI 2020 : A Roadmap for the Search for Extraterrestrial Intelligence</a>” (<a href="/tags/2002">2002</a>) (edited by Elkers, Ronald D and <a href="/ufo-history/ufo-personalities/cullers-kent-d">Cullers, Kent D</a> and <a href="/ufo-history/ufo-personalities/billingham-john">Billingham, John</a> and Scheffer, Louis K) (available <a href="http://www.amazon.com/dp/0966633539/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0966633539/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 467 (in Appendix Q entitled “SSTWG Biographies”) of the SETI Press softcover edition.</p>
+<p>SETI Institute’s SETI Science and Technology Working Group (“the SSTWG”) in “<a href="{{ '/ufo-history/ufo-books/elkers-ronald-d-and-cullers-kent-d-and-billingham-john-and-scheffer-louis-k-editors-seti-2020-a-roadmap-for-the-search-for-extraterrestrial-intelligence' | relative_url }}">SETI 2020 : A Roadmap for the Search for Extraterrestrial Intelligence</a>” (<a href="{{ '/tags/2002' | relative_url }}">2002</a>) (edited by Elkers, Ronald D and <a href="{{ '/ufo-history/ufo-personalities/cullers-kent-d' | relative_url }}">Cullers, Kent D</a> and <a href="{{ '/ufo-history/ufo-personalities/billingham-john' | relative_url }}">Billingham, John</a> and Scheffer, Louis K) (available <a href="http://www.amazon.com/dp/0966633539/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0966633539/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 467 (in Appendix Q entitled “SSTWG Biographies”) of the SETI Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -138,10 +138,10 @@ For discussion of Seth Shostak see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/story-ronald">Story, Ronald</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 549-550 (in an entry entitled “Shostak, G Seth”) of the New American Library softcover edition, at pages 537-538 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Story, Ronald</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 549-550 (in an entry entitled “Shostak, G Seth”) of the New American Library softcover edition, at pages 537-538 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -149,10 +149,10 @@ For discussion of Seth Shostak see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/story-ronald">Story, Ronald</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 657-658 (in an entry entitled “Shostak, G Seth”) of the Robinson softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Story, Ronald</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 657-658 (in an entry entitled “Shostak, G Seth”) of the Robinson softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

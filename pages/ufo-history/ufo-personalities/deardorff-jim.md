@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/deardorff_jim_1.jpg"}
 ---
 
-![deardorff_jim_1](/images/stories/ufo_personalities/deardorff_jim_1.jpg)
+![deardorff_jim_1]({{ '/images/stories/ufo_personalities/deardorff_jim_1.jpg' | relative_url }})
 
 *Jim Deardorff*
 
@@ -59,10 +59,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/korff-kal-k">Korff, Kal K</a> in his “<a href="/ufo-history/ufo-books/korff-kal-k-spaceships-of-the-pleiades-the-billy-meier-story">Spaceships of the Pleiades : The Billy Meier Story</a>” (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/0879759593/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879759593/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 36 (in Chapter 1) of the Prometheus hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/korff-kal-k' | relative_url }}">Korff, Kal K</a> in his “<a href="{{ '/ufo-history/ufo-books/korff-kal-k-spaceships-of-the-pleiades-the-billy-meier-story' | relative_url }}">Spaceships of the Pleiades : The Billy Meier Story</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/0879759593/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879759593/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 36 (in Chapter 1) of the Prometheus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -70,10 +70,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1988">1988</a></p>
+<p><a href="{{ '/tags/1988' | relative_url }}">1988</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/boyd-robert-d">Boyd, Robert D</a> in his “International Who’s Who in Ufology Directory” (<a href="/tags/1988">1988</a>) at pages 72-73 of the PMT Publishing softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/boyd-robert-d' | relative_url }}">Boyd, Robert D</a> in his “International Who’s Who in Ufology Directory” (<a href="{{ '/tags/1988' | relative_url }}">1988</a>) at pages 72-73 of the PMT Publishing softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -81,10 +81,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1993">1993</a></p>
+<p><a href="{{ '/tags/1993' | relative_url }}">1993</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/good-timothy">Good, Timothy</a> in “Alien Update” (<a href="/tags/1993">1993</a>) (edited by <a href="/ufo-history/ufo-personalities/good-timothy">Timothy Good</a>) (available <a href="http://www.amazon.com/dp/0099257610/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0099257610/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 151 (in the Editor’s introduction to Chapter 10) of the Arrow paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/good-timothy' | relative_url }}">Good, Timothy</a> in “Alien Update” (<a href="{{ '/tags/1993' | relative_url }}">1993</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/good-timothy' | relative_url }}">Timothy Good</a>) (available <a href="http://www.amazon.com/dp/0099257610/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0099257610/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 151 (in the Editor’s introduction to Chapter 10) of the Arrow paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

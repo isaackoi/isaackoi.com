@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -27,7 +27,7 @@ Arthur C Clarke
 
 proposed the direct electromagnetic launch (using a mass driver) of a space vehicle.
 
-[Clarke, Arthur C](/ufo-history/ufo-personalities/clarke-arthur-c) ([1950](/tags/1950)), Journal of the British Interplanetary Society, Volume 9, pages 261-267
+[Clarke, Arthur C]({{ '/ufo-history/ufo-personalities/clarke-arthur-c' | relative_url }}) ([1950]({{ '/tags/1950' | relative_url }})), Journal of the British Interplanetary Society, Volume 9, pages 261-267
 
 Sections below
 
@@ -69,10 +69,10 @@ For discussion of mass drivers see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1982">1982</a></p>
+<p><a href="{{ '/tags/1982' | relative_url }}">1982</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/dyson-freeman">Dyson, Freeman</a> in “<a href="/ufo-history/ufo-books/hart-michael-and-zuckerman-ben-extraterrestrials-where-are-they">Extraterrestrials: Where are they?</a>” (<a href="/tags/1982">1982</a>) (edited by <a href="/ufo-history/ufo-personalities/hart-michael">Michael Hart</a> and <a href="/ufo-history/ufo-personalities/zuckerman-ben">Ben Zuckerman</a>) (available <a href="http://www.amazon.com/dp/0521448034/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521448034/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 45, 46 (in Chapter 7) of the Cambridge softcover second edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dyson-freeman' | relative_url }}">Dyson, Freeman</a> in “<a href="{{ '/ufo-history/ufo-books/hart-michael-and-zuckerman-ben-extraterrestrials-where-are-they' | relative_url }}">Extraterrestrials: Where are they?</a>” (<a href="{{ '/tags/1982' | relative_url }}">1982</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/hart-michael' | relative_url }}">Michael Hart</a> and <a href="{{ '/ufo-history/ufo-personalities/zuckerman-ben' | relative_url }}">Ben Zuckerman</a>) (available <a href="http://www.amazon.com/dp/0521448034/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521448034/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 45, 46 (in Chapter 7) of the Cambridge softcover second edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -80,10 +80,10 @@ For discussion of mass drivers see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1981">1981</a></p>
+<p><a href="{{ '/tags/1981' | relative_url }}">1981</a></p>
 </td>
 <td valign="top" width="547">
-<p>Powers, Robert M in his “The Coattails of God: The Trip to the Stars” (<a href="/tags/1981">1981</a>) (available <a href="http://www.amazon.com/dp/0446512311/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0446512311/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 141-143 (in Chapter 8) of the Warner paperback edition.</p>
+<p>Powers, Robert M in his “The Coattails of God: The Trip to the Stars” (<a href="{{ '/tags/1981' | relative_url }}">1981</a>) (available <a href="http://www.amazon.com/dp/0446512311/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0446512311/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 141-143 (in Chapter 8) of the Warner paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -91,10 +91,10 @@ For discussion of mass drivers see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p>Rood, Robert and Trefil, James in their “<a href="/ufo-history/ufo-books/rood-robert-and-trefil-james-are-we-alone">Are We Alone?</a>“ (<a href="/tags/1980">1980</a>) (available <a href="http://www.amazon.com/dp/B000GR9HP6/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000GR9HP6/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 194-198 (in Chapter 13) of the Scribners hardback edition.</p>
+<p>Rood, Robert and Trefil, James in their “<a href="{{ '/ufo-history/ufo-books/rood-robert-and-trefil-james-are-we-alone' | relative_url }}">Are We Alone?</a>“ (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) (available <a href="http://www.amazon.com/dp/B000GR9HP6/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000GR9HP6/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 194-198 (in Chapter 13) of the Scribners hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>
@@ -123,10 +123,10 @@ For discussion of Clarke’s article see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1982">1982</a></p>
+<p><a href="{{ '/tags/1982' | relative_url }}">1982</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/dyson-freeman">Dyson, Freeman</a> in “<a href="/ufo-history/ufo-books/hart-michael-and-zuckerman-ben-extraterrestrials-where-are-they">Extraterrestrials: Where are they?</a>” (<a href="/tags/1982">1982</a>) (edited by <a href="/ufo-history/ufo-personalities/hart-michael">Michael Hart</a> and <a href="/ufo-history/ufo-personalities/zuckerman-ben">Ben Zuckerman</a>) (available <a href="http://www.amazon.com/dp/0521448034/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521448034/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 45, 46 (in Chapter 7) of the Cambridge softcover second edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dyson-freeman' | relative_url }}">Dyson, Freeman</a> in “<a href="{{ '/ufo-history/ufo-books/hart-michael-and-zuckerman-ben-extraterrestrials-where-are-they' | relative_url }}">Extraterrestrials: Where are they?</a>” (<a href="{{ '/tags/1982' | relative_url }}">1982</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/hart-michael' | relative_url }}">Michael Hart</a> and <a href="{{ '/ufo-history/ufo-personalities/zuckerman-ben' | relative_url }}">Ben Zuckerman</a>) (available <a href="http://www.amazon.com/dp/0521448034/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521448034/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 45, 46 (in Chapter 7) of the Cambridge softcover second edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

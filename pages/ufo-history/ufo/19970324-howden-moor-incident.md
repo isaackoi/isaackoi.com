@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/britain_1.gif"}
 ---
 
-![britain_1](/images/stories/ufo_tags/britain_1.gif)
+![britain_1]({{ '/images/stories/ufo_tags/britain_1.gif' | relative_url }})
 
 *Howden Moor Incident*
 
@@ -63,10 +63,10 @@ For discussion of “the Howden Moor Incident” see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clarke-david">Clarke, David</a> in “<a href="/ufo-history/ufo-books/randles-jenny-and-clarke-david-and-roberts-andy-the-ufos-that-never-were">The UFOs that never were</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/1902809351/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1902809351/ref=nosim?tag=ufot-21">on Amazon UK</a>) by <a href="/ufo-history/ufo-personalities/randles-jenny">Jenny Randles</a>, <a href="/ufo-history/ufo-personalities/roberts-andy">Andy Roberts</a> and <a href="/ufo-history/ufo-personalities/clarke-david">David Clarke</a> at pages 33-51 (in Chapter 2, “The Howden Moor Incident” by <a href="/ufo-history/ufo-personalities/clarke-david">David Clarke</a>) of the London House hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clarke-david' | relative_url }}">Clarke, David</a> in “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-clarke-david-and-roberts-andy-the-ufos-that-never-were' | relative_url }}">The UFOs that never were</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/1902809351/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1902809351/ref=nosim?tag=ufot-21">on Amazon UK</a>) by <a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Jenny Randles</a>, <a href="{{ '/ufo-history/ufo-personalities/roberts-andy' | relative_url }}">Andy Roberts</a> and <a href="{{ '/ufo-history/ufo-personalities/clarke-david' | relative_url }}">David Clarke</a> at pages 33-51 (in Chapter 2, “The Howden Moor Incident” by <a href="{{ '/ufo-history/ufo-personalities/clarke-david' | relative_url }}">David Clarke</a>) of the London House hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>19</p>

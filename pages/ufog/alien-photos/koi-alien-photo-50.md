@@ -13,7 +13,7 @@ planned_sections: ["1. The relevant image", "2. Stories and claims relating to t
 header: {"preview_image": "/images/stories/alien_photos/koi_ap_50_b.jpg"}
 ---
 
-![](/images/stories/alien_photos/koi_ap_50_b.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_50_b.jpg' | relative_url }})
 
 *Koi Alien Photo 50*
 
@@ -44,9 +44,9 @@ Sections below:
 <a id="image"></a>
 ### 1. The relevant image
 
-![](/images/stories/alien_photos/koi_ap_50_a.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_50_a.jpg' | relative_url }})
 
-![](/images/stories/alien_photos/koi_ap_50_b.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_50_b.jpg' | relative_url }})
 
 ### 2. Stories and claims relating to this image
 
@@ -71,13 +71,13 @@ The image was originally published on the web in [a now defunct website listing 
 
 Below are some images from the relevant episode of the X-Files (labelled "koi_ap_50_c" to "koi_ap_50_f").
 
-![](/images/stories/alien_photos/koi_ap_50_c.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_50_c.jpg' | relative_url }})
 
-![](/images/stories/alien_photos/koi_ap_50_d.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_50_d.jpg' | relative_url }})
 
-![](/images/stories/alien_photos/koi_ap_50_e.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_50_e.jpg' | relative_url }})
 
-![](/images/stories/alien_photos/koi_ap_50_f.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_50_f.jpg' | relative_url }})
 
 As at December 2010, a technical error is reported when attempting to access the Internet Archive's copy of "[a now defunct website listing all X-Files episodes](http://web.archive.org/web/20071201213629/http://www.geocities.com/Area51/Orion/5350/X-season4a.html)" referred to by Kentaro Mori. [A slightly later copy of that webpage](http://web.archive.org/web/20091022110931/http://geocities.com/Area51/Orion/5350/X-season4a.html)is incomplete and does not include the relevant photo.
 

@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/montgomery_ruth_2.JPG"}
 ---
 
-![montgomery_ruth_2](/images/stories/ufo_personalities/montgomery_ruth_2.JPG)
+![montgomery_ruth_2]({{ '/images/stories/ufo_personalities/montgomery_ruth_2.JPG' | relative_url }})
 
 *Ruth Montgomery*
 
@@ -36,18 +36,18 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1979">1979</a></p>
+<p><a href="{{ '/tags/1979' | relative_url }}">1979</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/montgomery-ruth">Montgomery, Ruth</a> “Strangers Among Us”</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/montgomery-ruth' | relative_url }}">Montgomery, Ruth</a> “Strangers Among Us”</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1985">1985</a></p>
+<p><a href="{{ '/tags/1985' | relative_url }}">1985</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/montgomery-ruth">Montgomery, Ruth</a> “<a href="/ufo-history/ufo-books/montgomery-ruth-aliens-among-us">Aliens Among Us</a>” (<a href="/tags/1985">1985</a>) (available <a href="http://www.amazon.com/dp/0449208095/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0449208095/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/montgomery-ruth' | relative_url }}">Montgomery, Ruth</a> “<a href="{{ '/ufo-history/ufo-books/montgomery-ruth-aliens-among-us' | relative_url }}">Aliens Among Us</a>” (<a href="{{ '/tags/1985' | relative_url }}">1985</a>) (available <a href="http://www.amazon.com/dp/0449208095/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0449208095/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>
@@ -91,10 +91,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-star-children">Star Children</a>” (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/0806938560/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806938560/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 129-131 (in Chapter 9) of the Sterling softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-star-children' | relative_url }}">Star Children</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/0806938560/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806938560/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 129-131 (in Chapter 9) of the Sterling softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -102,10 +102,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/alnor-william-m">Alnor, William M</a> in his “<a href="/ufo-history/ufo-books/alnor-william-m-ufo-in-the-new-age">UFO in the New Age</a>” (<a href="/tags/1992">1992</a>) (available <a href="http://www.amazon.com/dp/0801002265/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0801002265/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 94-96 (in Chapter 5) of the Baker softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/alnor-william-m' | relative_url }}">Alnor, William M</a> in his “<a href="{{ '/ufo-history/ufo-books/alnor-william-m-ufo-in-the-new-age' | relative_url }}">UFO in the New Age</a>” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="http://www.amazon.com/dp/0801002265/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0801002265/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 94-96 (in Chapter 5) of the Baker softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>

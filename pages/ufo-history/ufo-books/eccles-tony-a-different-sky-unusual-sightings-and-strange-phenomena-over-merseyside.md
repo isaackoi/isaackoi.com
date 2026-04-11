@@ -14,7 +14,7 @@ header: {"preview_image": "https://covers.openlibrary.org/b/isbn/1872568947-L.jp
 book: {"identifiers": ["1872568947"], "primary_isbn": "1872568947", "cover_image": "https://covers.openlibrary.org/b/isbn/1872568947-L.jpg?default=false", "cover_source": "openlibrary"}
 ---
 
-Brief review to be added of Tony Eccles' book “[A Different Sky: Unusual Sightings and Strange Phenomena over Merseyside](/ufo-history/ufo-books/eccles-tony-a-different-sky-unusual-sightings-and-strange-phenomena-over-merseyside)” ([2003](/tags/2003)) (available [on Amazon USA](http://www.amazon.com/dp/1872568947/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1872568947/?&tag=ufot-21)).
+Brief review to be added of Tony Eccles' book “[A Different Sky: Unusual Sightings and Strange Phenomena over Merseyside]({{ '/ufo-history/ufo-books/eccles-tony-a-different-sky-unusual-sightings-and-strange-phenomena-over-merseyside' | relative_url }})” ([2003]({{ '/tags/2003' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1872568947/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1872568947/?&tag=ufot-21)).
 
 1. [Web Resources](#web)
 

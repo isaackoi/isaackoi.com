@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -23,7 +23,7 @@ NICAP
 
 ") was incorporated.
 
-See main entry in relation to [NICAP](/ufo-history/ufo-personalities/nicap).
+See main entry in relation to [NICAP]({{ '/ufo-history/ufo-personalities/nicap' | relative_url }}).
 
 Sections below
 
@@ -41,7 +41,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-See main entry in relation to [NICAP](/ufo-history/ufo-personalities/nicap).
+See main entry in relation to [NICAP]({{ '/ufo-history/ufo-personalities/nicap' | relative_url }}).
 
 <a id="other"></a>
 ### Other Material

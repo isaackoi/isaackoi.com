@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -63,10 +63,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1953">1953</a></p>
+<p><a href="{{ '/tags/1953' | relative_url }}">1953</a></p>
 </td>
 <td valign="top" width="547">
-<p>Durant Report (the memo dated 16<sup>th</sup> February <a href="/tags/1953">1953</a> from F C Durant to the Assistant Director for Scientific Intelligence relating to the Robertson Panel) at page 7 states this case was discussed “in detail” by the Robertson Panel. The Durant Report is available online at: <a href="http://www.cufon.org/cufon/robert.htm">http://www.cufon.org/cufon/robert.htm</a></p>
+<p>Durant Report (the memo dated 16<sup>th</sup> February <a href="{{ '/tags/1953' | relative_url }}">1953</a> from F C Durant to the Assistant Director for Scientific Intelligence relating to the Robertson Panel) at page 7 states this case was discussed “in detail” by the Robertson Panel. The Durant Report is available online at: <a href="http://www.cufon.org/cufon/robert.htm">http://www.cufon.org/cufon/robert.htm</a></p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -74,10 +74,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1963">1963</a></p>
+<p><a href="{{ '/tags/1963' | relative_url }}">1963</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/menzel-donald-h">Menzel, Donald</a> and <a href="/ufo-history/ufo-personalities/boyd-lyle">Boyd, Lyle</a> in their “<a href="/ufo-history/ufo-books/menzel-donald-h-and-boyd-lyle-the-world-of-flying-saucers">The World of Flying Saucers</a>” (<a href="/tags/1963">1963</a>) (available <a href="http://www.amazon.com/dp/B0015NVBB8/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0015NVBB8/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 139-142 (in Chapter 7) of the Doubleday hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/menzel-donald-h' | relative_url }}">Menzel, Donald</a> and <a href="{{ '/ufo-history/ufo-personalities/boyd-lyle' | relative_url }}">Boyd, Lyle</a> in their “<a href="{{ '/ufo-history/ufo-books/menzel-donald-h-and-boyd-lyle-the-world-of-flying-saucers' | relative_url }}">The World of Flying Saucers</a>” (<a href="{{ '/tags/1963' | relative_url }}">1963</a>) (available <a href="http://www.amazon.com/dp/B0015NVBB8/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0015NVBB8/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 139-142 (in Chapter 7) of the Doubleday hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>

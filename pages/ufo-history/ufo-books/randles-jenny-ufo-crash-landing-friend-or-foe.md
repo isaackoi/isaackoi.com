@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0713726555.jpg"}
 book: {"identifiers": ["0713726555"], "primary_isbn": "0713726555", "cover_image": "/book-covers/0713726555.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of “[UFO Crash Landing? Friend or Foe?](/ufo-history/ufo-books/randles-jenny-ufo-crash-landing-friend-or-foe)” ([1998](/tags/1998)) (available [on Amazon USA](http://www.amazon.com/dp/0713726555/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0713726555/?&tag=ufot-21)) by [Jenny Randles](/ufo-history/ufo-personalities/randles-jenny).
+Brief review to be added of “[UFO Crash Landing? Friend or Foe?]({{ '/ufo-history/ufo-books/randles-jenny-ufo-crash-landing-friend-or-foe' | relative_url }})” ([1998]({{ '/tags/1998' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0713726555/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0713726555/?&tag=ufot-21)) by [Jenny Randles]({{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}).
 
 1. [Web Resources](#web)
 

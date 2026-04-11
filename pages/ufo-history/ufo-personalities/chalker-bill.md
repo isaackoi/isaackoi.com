@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/chalker_bill_1.png"}
 ---
 
-![chalker_bill_1](/images/stories/ufo_personalities/chalker_bill_1.png)
+![chalker_bill_1]({{ '/images/stories/ufo_personalities/chalker_bill_1.png' | relative_url }})
 
 *Bill Chalker*
 
@@ -36,23 +36,23 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/2005">2005</a></p>
+<p><a href="{{ '/tags/2005' | relative_url }}">2005</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/chalker-bill">Chalker, Bill</a> “<a href="/ufo-history/ufo-books/chalker-bill-hair-of-the-alien-dna-and-other-forensic-evidence-of-alien-abduction">Hair of the Alien : DNA and other forensic evidence of alien abduction</a>” (<a href="/tags/2005">2005</a>) (available <a href="http://www.amazon.com/dp/0743492862/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743492862/?&amp;tag=ufot-21">on Amazon UK</a>). Focuses on the abduction experience of Peter Khoury.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/chalker-bill' | relative_url }}">Chalker, Bill</a> “<a href="{{ '/ufo-history/ufo-books/chalker-bill-hair-of-the-alien-dna-and-other-forensic-evidence-of-alien-abduction' | relative_url }}">Hair of the Alien : DNA and other forensic evidence of alien abduction</a>” (<a href="{{ '/tags/2005' | relative_url }}">2005</a>) (available <a href="http://www.amazon.com/dp/0743492862/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743492862/?&amp;tag=ufot-21">on Amazon UK</a>). Focuses on the abduction experience of Peter Khoury.</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-As noted in [Part 3](/ufog/best-ufo-cases/3-experts-short-lists) of Isaac Koi’s “[Best UFO Cases](/ufog/best-ufo-cases)” article (i.e. in the Part entitled [Existing lists by various individuals](/ufog/best-ufo-cases/3-experts-short-lists)), as part of a survey by the [Fortean Times](/ufo-history/ufo-personalities/fortean-times) in 2007 of various researchers of the ten cases from 1947 onwards that interested them the most, [Bill Chalker](/ufo-history/ufo-personalities/chalker-bill) referred to the following 10 cases, with an indication that the list represents his “personal 'top ten' regional Australasian case list” (Footnote 3.61).
+As noted in [Part 3]({{ '/ufog/best-ufo-cases/3-experts-short-lists' | relative_url }}) of Isaac Koi’s “[Best UFO Cases]({{ '/ufog/best-ufo-cases' | relative_url }})” article (i.e. in the Part entitled [Existing lists by various individuals]({{ '/ufog/best-ufo-cases/3-experts-short-lists' | relative_url }})), as part of a survey by the [Fortean Times]({{ '/ufo-history/ufo-personalities/fortean-times' | relative_url }}) in 2007 of various researchers of the ten cases from 1947 onwards that interested them the most, [Bill Chalker]({{ '/ufo-history/ufo-personalities/chalker-bill' | relative_url }}) referred to the following 10 cases, with an indication that the list represents his “personal 'top ten' regional Australasian case list” (Footnote 3.61).
 
 1. 31 August 1954: Sea Fury case, near Goulbourn, NSW, Australia
 2. 23 July 1992: Peter Khoury “Hair of Alien” DNA case, Sydney, Australia
-3. 27 June 1959: [Father Gill sighting](/ufo-history/ufo/19590626-father-gill-sightings) (Case 15 in [Isaac Koi's “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
+3. 27 June 1959: [Father Gill sighting]({{ '/ufo-history/ufo/19590626-father-gill-sightings' | relative_url }}) (Case 15 in [Isaac Koi's “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
 4. 30 September 1980: George Blackwell, Rosedale, Victoria, Australia
-5. [8 August 1993: Kelly Cahill’s abduction experience](/ufo-history/ufo/19940808-kelly-cahill-abduction)
-6. [19 January 1966: George Pedley’s UFO nest encounter](/ufo-history/ufo/19660119-tully-saucer-nest) (Case 99 in [Isaac Koi's “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
+5. [8 August 1993: Kelly Cahill’s abduction experience]({{ '/ufo-history/ufo/19940808-kelly-cahill-abduction' | relative_url }})
+6. [19 January 1966: George Pedley’s UFO nest encounter]({{ '/ufo-history/ufo/19660119-tully-saucer-nest' | relative_url }}) (Case 99 in [Isaac Koi's “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
 7. 14 April 1966: Ron Sullivan’s “bent headlight beam” experience
 8. 6 April 1966: Westall school daylight UFO landing encounter.
 9. 1977–78: Gisborne UFO abduction milieu
@@ -88,7 +88,7 @@ The table below includes references to relevant discussions in UFO/SETI books no
 
 Many of the tables of references on this website are considerably longer than the references to books found on most other UFO websites. Indeed, some are probably the longest that have been collated in relation to some events and personalities. I hope that these tables are found to be a useful contribution to UFOlogy.
 
-For discussion of [Bill Chalker](/ufo-history/ufo-personalities/chalker-bill) see the following:
+For discussion of [Bill Chalker]({{ '/ufo-history/ufo-personalities/chalker-bill' | relative_url }}) see the following:
 
 <table border="1" cellpadding="0" cellspacing="0" class="sortable" data-sortable="true" id="sortabletable">
 <thead>
@@ -108,10 +108,10 @@ For discussion of [Bill Chalker](/ufo-history/ufo-personalities/chalker-bill) se
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1988">1988</a></p>
+<p><a href="{{ '/tags/1988' | relative_url }}">1988</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/boyd-robert-d">Boyd, Robert D</a> in his “International Who’s Who in Ufology Directory” (<a href="/tags/1988">1988</a>) at pages 62-63 of the PMT Publishing softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/boyd-robert-d' | relative_url }}">Boyd, Robert D</a> in his “International Who’s Who in Ufology Directory” (<a href="{{ '/tags/1988' | relative_url }}">1988</a>) at pages 62-63 of the PMT Publishing softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

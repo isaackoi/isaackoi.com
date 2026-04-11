@@ -13,7 +13,7 @@ planned_sections: ["1. The relevant image", "2. Stories and claims relating to t
 header: {"preview_image": "/images/stories/alien_photos/koi_ap_02a.jpg"}
 ---
 
-![](/images/stories/alien_photos/koi_ap_02a.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_02a.jpg' | relative_url }})
 
 *Koi Alien Photo 02*
 
@@ -54,9 +54,9 @@ Sections below:
 <a id="image"></a>
 ### 1. The relevant image
 
-![](/images/stories/alien_photos/koi_ap_02a.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_02a.jpg' | relative_url }})
 
-![](/images/stories/alien_photos/koi_ap_02c.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_02c.jpg' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this image
@@ -74,11 +74,11 @@ It has been referred to [in one online discussion](http://www.abovetopsecret.com
 
 In December 1996 Sightings Magazine published this picture, claiming that it was of a model saucer created by two students in 1967:
 
-![](/images/stories/alien_photos/koi_ap_02i.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_02i.jpg' | relative_url }})
 
 The same photo appeared on the front page of that magazine the following month:
 
-![](/images/stories/alien_photos/koi_ap_02j.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_02j.jpg' | relative_url }})
 
 Inside that latter issue of "Sightings" magazine was an article entitled ['Stumbling on a Story'](http://web.archive.org/web/20021201183751/http://www.dolomite.ndirect.co.uk/weirdwilts/roswell/stumblin.htm) which included the following:
 
@@ -106,9 +106,9 @@ This left us none the wiser, opening the door for even more speculation.
 
 The individual that composited Koi Alien Photo 02 subsequently created [a webpage, now defunct but available via the Wayback Machine's Internet Archive](http://web.archive.org/web/20021201183751/www.dolomite.ndirect.co.uk/weirdwilts/roswell/roswell.html), on which he stated that "This was my first attempt at image editing while I was playing around with my new copy of Picture Publisher in 1995. It later found its way onto the Crop Circle Connector web site as a joke, and seems to have got one or two people on the Net rather excited". AJ Samuels commented upon the "remarkable remarkable and hilarious article entitled 'Stumbling on a Story'" in Sightings magazine which described "the minimal attempts that Sightings had made to determine whether it was genuine". AJ Samuels observed that:
 
-"It seems that Sightings had copied the picture from the web site of Dutch researcher Roel van der Meulen who had used on a page entitled Faking UFO's. Part of this page referred to the 1967 hoax by students Chris Southall and David Harrison, where one night they planted dummy model saucers in a string of public places across the UK. Van der Meulen said that he had used my picture to illustrate this because he thought the shape of the saucer '*reminded me of the shape of the saucers the two guys left behind*'. Presumably he had been unable to find the original picture (below [labelled "koi_ap_02l" - which, for the avoidance of any future confusion, relates to the separate hoax by students Chris Southall and David Harrison of the Farnborough Royal Aircraft Establishment during 1967 that is discussed [on a separate page](/ufo-history/ufo/19670911-bleeping-disks-in-england)])."
+"It seems that Sightings had copied the picture from the web site of Dutch researcher Roel van der Meulen who had used on a page entitled Faking UFO's. Part of this page referred to the 1967 hoax by students Chris Southall and David Harrison, where one night they planted dummy model saucers in a string of public places across the UK. Van der Meulen said that he had used my picture to illustrate this because he thought the shape of the saucer '*reminded me of the shape of the saucers the two guys left behind*'. Presumably he had been unable to find the original picture (below [labelled "koi_ap_02l" - which, for the avoidance of any future confusion, relates to the separate hoax by students Chris Southall and David Harrison of the Farnborough Royal Aircraft Establishment during 1967 that is discussed [on a separate page]({{ '/ufo-history/ufo/19670911-bleeping-disks-in-england' | relative_url }})])."
 
-![](/images/stories/alien_photos/koi_ap_02l.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_02l.jpg' | relative_url }})
 
 Evidently Sightings had been surfing the web looking for free pictures to illustrate their magazine, and had copied this one without bothering to properly read the explanation attached to it. When questioned later by Sightings, van der Meulen claimed that he '*picked the image off the web somewhere, but I don't remember where. It must have been one of the countless sites that holds many UFO pictures. I have no idea who manufactured the image*.'
 
@@ -141,23 +141,23 @@ This photo was created by A J Samuels by compositing a:
 
 The image of the flying disc (without an "alien" body) was taken from the book "Fantastic Worlds" (1978) by Scot Holton and Robert Skotak, published by Starlog Magazine, New York USA. That book included a still of a "flying saucer" from the Twilight Zone fourth season episode "Death Ship" (in which a group of astronauts on a desert-like planet see a vision of the future which depicts a fatal crash-landing of their own ship). The relevant episode was the sixth episode in the fourth season of the original 1960s version of the Twilight Zone. This particular episode was first broadcast on 7 February 1963.
 
-![](/images/stories/alien_photos/koi_ap_02b.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_02b.jpg' | relative_url }})
 
 Some stills from the the Twilight Zone fourth season episode "Death Ship" are shown below (labelled "Koi_ap_2d" to "Koi_ap_2f")
 
-![](/images/stories/alien_photos/koi_ap_02d.jpg.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_02d.jpg.jpg' | relative_url }})
 
-![](/images/stories/alien_photos/koi_ap_02e.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_02e.jpg' | relative_url }})
 
-![](/images/stories/alien_photos/koi_ap_02f.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_02f.jpg' | relative_url }})
 
 The "alien" that is superimposed on the photo of the flying saucer is taken from the infamous Ray Santilli alien autopsy footage.
 
 Some images from the Ray Santilli alien autopsy footage are shown below (labelled "koi_ap_02g" and "koi_ap_02h") to enable an easy comparison with Koi Alien Photo 02.
 
-![](/images/stories/alien_photos/koi_ap_02g.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_02g.jpg' | relative_url }})
 
-![](/images/stories/alien_photos/koi_ap_02h.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_02h.jpg' | relative_url }})
 
 Back in about 1999, Neil Morris created [a webpage](http://web.archive.org/web/19990125084509/adm2.ph.man.ac.uk/)indicating how this could have been done (prior, it seems, to A J Samuels explaining how he had in fact done it).
 
@@ -177,7 +177,7 @@ A.J. Samuels commented that:
 
 AJ Samuels created [a webpage, now defunct but available via the Wayback Machine's Internet Archive](http://web.archive.org/web/20021201183751/www.dolomite.ndirect.co.uk/weirdwilts/roswell/roswell.html), on which he expressly stated that "This was my first attempt at image editing while I was playing around with my new copy of Picture Publisher in 1995. It later found its way onto the Crop Circle Connector web site as a joke, and seems to have got one or two people on the Net rather excited". He included an alternative version of Koi Alien Photo 02 featuring a dalek (below, labelled "koi_ap_02m").
 
-![](/images/stories/alien_photos/koi_ap_02m.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_02m.jpg' | relative_url }})
 
 The resurgence in the popularly of Koi Alien Photo 02 may be related to the fact that some of the webpages which revealed its true origins went off-line a few years ago (including AJ Samuel's relevant own webpage).
 

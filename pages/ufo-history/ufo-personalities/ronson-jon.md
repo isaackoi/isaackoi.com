@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/ronson_jon_1.jpg"}
 ---
 
-![ronson_jon_1](/images/stories/ufo_personalities/ronson_jon_1.jpg)
+![ronson_jon_1]({{ '/images/stories/ufo_personalities/ronson_jon_1.jpg' | relative_url }})
 
 *Jon Ronson*
 
@@ -36,18 +36,18 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/ronson-jon">Ronson, Jon</a> “<a href="/ufo-history/ufo-books/ronson-jon-them-adventures-with-extremists">Them : Adventures with Extremists</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/0330375458/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0330375458/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/ronson-jon' | relative_url }}">Ronson, Jon</a> “<a href="{{ '/ufo-history/ufo-books/ronson-jon-them-adventures-with-extremists' | relative_url }}">Them : Adventures with Extremists</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/0330375458/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0330375458/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/2004">2004</a></p>
+<p><a href="{{ '/tags/2004' | relative_url }}">2004</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/ronson-jon">Ronson, Jon</a> “<a href="/ufo-history/ufo-books/ronson-jon-the-men-who-stare-at-goats">The Men Who Stare at Goats</a>” (<a href="/tags/2004">2004</a>) (available <a href="http://www.amazon.com/dp/0330375482/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0330375482/?&amp;tag=ufot-21">on Amazon UK</a>).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/ronson-jon' | relative_url }}">Ronson, Jon</a> “<a href="{{ '/ufo-history/ufo-books/ronson-jon-the-men-who-stare-at-goats' | relative_url }}">The Men Who Stare at Goats</a>” (<a href="{{ '/tags/2004' | relative_url }}">2004</a>) (available <a href="http://www.amazon.com/dp/0330375482/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0330375482/?&amp;tag=ufot-21">on Amazon UK</a>).</p>
 </td>
 </tr>
 </tbody>

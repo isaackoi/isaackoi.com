@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/081293248X.jpg"}
 book: {"identifiers": ["081293248X"], "primary_isbn": "081293248X", "cover_image": "/book-covers/081293248X.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [David Darling](/ufo-history/ufo-personalities/darling-david)'s book “[The Extraterrestrial Encyclopedia](/ufo-history/ufo-books/darling-david-the-extraterrestrial-encyclopedia)” ([2000](/tags/2000)) (available [on Amazon USA](http://www.amazon.com/dp/081293248X/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/081293248X/?&tag=ufot-21))
+Brief review to be added of [David Darling]({{ '/ufo-history/ufo-personalities/darling-david' | relative_url }})'s book “[The Extraterrestrial Encyclopedia]({{ '/ufo-history/ufo-books/darling-david-the-extraterrestrial-encyclopedia' | relative_url }})” ([2000]({{ '/tags/2000' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/081293248X/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/081293248X/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

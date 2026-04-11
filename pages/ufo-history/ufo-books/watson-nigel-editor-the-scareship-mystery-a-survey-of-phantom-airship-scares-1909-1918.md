@@ -14,7 +14,7 @@ header: {"preview_image": "https://covers.openlibrary.org/b/isbn/0952441780-L.jp
 book: {"identifiers": ["0952441780"], "primary_isbn": "0952441780", "cover_image": "https://covers.openlibrary.org/b/isbn/0952441780-L.jpg?default=false", "cover_source": "openlibrary"}
 ---
 
-Brief review to be added of “[The Scareship Mystery: A survey of Phantom Airship Scares 1909-1918](/ufo-history/ufo-books/watson-nigel-editor-the-scareship-mystery-a-survey-of-phantom-airship-scares-1909-1918)” ([1999](/tags/1999)) (available [on Amazon USA](http://www.amazon.com/dp/0952441780/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0952441780/?&tag=ufot-21)) edited by [Nigel Watson](/ufo-history/ufo-personalities/watson-nigel).
+Brief review to be added of “[The Scareship Mystery: A survey of Phantom Airship Scares 1909-1918]({{ '/ufo-history/ufo-books/watson-nigel-editor-the-scareship-mystery-a-survey-of-phantom-airship-scares-1909-1918' | relative_url }})” ([1999]({{ '/tags/1999' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0952441780/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0952441780/?&tag=ufot-21)) edited by [Nigel Watson]({{ '/ufo-history/ufo-personalities/watson-nigel' | relative_url }}).
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Nelson, Gilbert in “<a href="/ufo-history/ufo-books/watson-nigel-editor-the-scareship-mystery-a-survey-of-phantom-airship-scares-1909-1918">The Scareship Mystery : A survey of Phantom Airship Scares 1909-1918</a>” (<a href="/tags/1999">1999</a>) (edited by Nigel Watson) (available <a href="http://www.amazon.com/dp/0952441780/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0952441780/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 7 (in the Foreword) of the Dorma softcover edition.</p>
+<p>Nelson, Gilbert in “<a href="{{ '/ufo-history/ufo-books/watson-nigel-editor-the-scareship-mystery-a-survey-of-phantom-airship-scares-1909-1918' | relative_url }}">The Scareship Mystery : A survey of Phantom Airship Scares 1909-1918</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (edited by Nigel Watson) (available <a href="http://www.amazon.com/dp/0952441780/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0952441780/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 7 (in the Foreword) of the Dorma softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

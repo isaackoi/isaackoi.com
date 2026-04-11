@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0882293346.jpg"}
 book: {"identifiers": ["0882293346", "1575000229", "0713725184", "1558887423", "0709040865", "0816038007", "0380706547", "B000S2L0EK", "0713722096", "0855001232", "0713723629", "0451204247", "1841196134", "0963916122", "0943358329", "0780800974", "0312193475"], "primary_isbn": "0882293346", "cover_image": "/book-covers/0882293346.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of “[Space-Time Transients and Unusual Events](/ufo-history/ufo-books/persinger-michael-and-lafreniere-gyslaine-space-time-transients-and-unusual-events)” ([1977](/tags/1977)) (available [on Amazon USA](http://www.amazon.com/dp/0882293346/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0882293346/?&tag=ufot-21)) by [Michael Persinger](/ufo-history/ufo-personalities/persinger-michael) and Lafreniere, Gyslaine
+Brief review to be added of “[Space-Time Transients and Unusual Events]({{ '/ufo-history/ufo-books/persinger-michael-and-lafreniere-gyslaine-space-time-transients-and-unusual-events' | relative_url }})” ([1977]({{ '/tags/1977' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0882293346/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0882293346/?&tag=ufot-21)) by [Michael Persinger]({{ '/ufo-history/ufo-personalities/persinger-michael' | relative_url }}) and Lafreniere, Gyslaine
 
 1. [Web Resources](#web)
 
@@ -34,7 +34,7 @@ The table below includes references to relevant discussions in UFO/SETI books no
 
 Many of the tables of references on this website are considerably longer than the references to books found on most other UFO websites. Indeed, some are probably the longest that have been collated in relation to some events and personalities. I hope that these tables are found to be a useful contribution to UFOlogy.
 
-For discussion of “[Space-Time Transients and Unusual Events](/ufo-history/ufo-books/persinger-michael-and-lafreniere-gyslaine-space-time-transients-and-unusual-events)” see the following:
+For discussion of “[Space-Time Transients and Unusual Events]({{ '/ufo-history/ufo-books/persinger-michael-and-lafreniere-gyslaine-space-time-transients-and-unusual-events' | relative_url }})” see the following:
 
 <table border="1" cellpadding="0" cellspacing="0" class="sortable" data-sortable="true" id="sortabletable">
 <thead>
@@ -54,10 +54,10 @@ For discussion of “[Space-Time Transients and Unusual Events](/ufo-history/ufo
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/baker-alan">Baker, Alan</a> in his “Sci-Fi Channel: True Life Encounters: UFO Sightings” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1575000229/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1575000229/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 274-276 (in Chapter 12) of the Orion softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/baker-alan' | relative_url }}">Baker, Alan</a> in his “Sci-Fi Channel: True Life Encounters: UFO Sightings” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1575000229/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1575000229/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 274-276 (in Chapter 12) of the Orion softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -65,10 +65,10 @@ For discussion of “[Space-Time Transients and Unusual Events](/ufo-history/ufo
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/brookesmith-peter">Brookesmith, Peter</a> in his “<a href="/ufo-history/ufo-books/brookesmith-peter-ufo-the-complete-sightings-catalogue">UFO: The Complete Sightings Catalogue</a>” (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/0713725184/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713725184/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 155 (in Appendix 3) of the BCA hardback edition (with the same page numbering in the Blitz hardback edition, and in the Barnes &amp; Noble hardback edition published under the title “UFO: The Complete Sightings”).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/brookesmith-peter' | relative_url }}">Brookesmith, Peter</a> in his “<a href="{{ '/ufo-history/ufo-books/brookesmith-peter-ufo-the-complete-sightings-catalogue' | relative_url }}">UFO: The Complete Sightings Catalogue</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/0713725184/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713725184/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 155 (in Appendix 3) of the BCA hardback edition (with the same page numbering in the Blitz hardback edition, and in the Barnes &amp; Noble hardback edition published under the title “UFO: The Complete Sightings”).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -76,10 +76,10 @@ For discussion of “[Space-Time Transients and Unusual Events](/ufo-history/ufo
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/bullard-thomas-e">Bullard, Thomas E</a> in <a href="/ufo-history/ufo-personalities/clark-jerome">Jerome Clark</a>’s “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq">The UFO Encyclopedia: 1st edition</a>: Volume 3 – High Strangeness” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/1558887423/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558887423/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 578 (forming part of an entry entitled “Waves”) of the Omnigraphics hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/bullard-thomas-e' | relative_url }}">Bullard, Thomas E</a> in <a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Jerome Clark</a>’s “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq' | relative_url }}">The UFO Encyclopedia: 1st edition</a>: Volume 3 – High Strangeness” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/1558887423/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558887423/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 578 (forming part of an entry entitled “Waves”) of the Omnigraphics hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -87,10 +87,10 @@ For discussion of “[Space-Time Transients and Unusual Events](/ufo-history/ufo
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clarke-david">Clarke, David</a> and <a href="/ufo-history/ufo-personalities/roberts-andy">Roberts, Andy</a> in their “<a href="/ufo-history/ufo-books/clarke-david-and-roberts-andy-phantoms-of-the-sky">Phantoms of the Sky</a>: UFOs – A Modern Myth?” (<a href="/tags/1990">1990</a>) (available <a href="http://www.amazon.com/dp/0709040865/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0709040865/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 141-142 (in Chapter 7), 171-172 (in Chapter 9) of the Hale hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clarke-david' | relative_url }}">Clarke, David</a> and <a href="{{ '/ufo-history/ufo-personalities/roberts-andy' | relative_url }}">Roberts, Andy</a> in their “<a href="{{ '/ufo-history/ufo-books/clarke-david-and-roberts-andy-phantoms-of-the-sky' | relative_url }}">Phantoms of the Sky</a>: UFOs – A Modern Myth?” (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) (available <a href="http://www.amazon.com/dp/0709040865/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0709040865/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 141-142 (in Chapter 7), 171-172 (in Chapter 9) of the Hale hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -98,10 +98,10 @@ For discussion of “[Space-Time Transients and Unusual Events](/ufo-history/ufo
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/devereux-paul">Devereux, Paul</a> and <a href="/ufo-history/ufo-personalities/brookesmith-peter">Brookesmith, Peter</a> in “<a href="/ufo-history/ufo-books/devereux-paul-and-brookesmith-peter-ufos-and-ufology-the-first-50-years">UFOs and Ufology – the first 50 years</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0816038007/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0816038007/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 140-141 (in Chapter 10) of the Blandford softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/devereux-paul' | relative_url }}">Devereux, Paul</a> and <a href="{{ '/ufo-history/ufo-personalities/brookesmith-peter' | relative_url }}">Brookesmith, Peter</a> in “<a href="{{ '/ufo-history/ufo-books/devereux-paul-and-brookesmith-peter-ufos-and-ufology-the-first-50-years' | relative_url }}">UFOs and Ufology – the first 50 years</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0816038007/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0816038007/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 140-141 (in Chapter 10) of the Blandford softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -109,10 +109,10 @@ For discussion of “[Space-Time Transients and Unusual Events](/ufo-history/ufo
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1988">1988</a></p>
+<p><a href="{{ '/tags/1988' | relative_url }}">1988</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/devereux-paul">Devereux, Paul</a> in “<a href="/ufo-history/ufo-books/spencer-john-and-evans-hilary-phenomenon">Phenomenon</a>“ (<a href="/tags/1988">1988</a>) (edited by <a href="/ufo-history/ufo-personalities/spencer-john">John Spencer</a> and <a href="/ufo-history/ufo-personalities/evans-hilary">Hilary Evans</a>) (available <a href="http://www.amazon.com/dp/0380706547/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380706547/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 317 of the MacDonald hardback edition (in Part 4, in the unnumbered chapter entitled “Earthlights”).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/devereux-paul' | relative_url }}">Devereux, Paul</a> in “<a href="{{ '/ufo-history/ufo-books/spencer-john-and-evans-hilary-phenomenon' | relative_url }}">Phenomenon</a>“ (<a href="{{ '/tags/1988' | relative_url }}">1988</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">John Spencer</a> and <a href="{{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }}">Hilary Evans</a>) (available <a href="http://www.amazon.com/dp/0380706547/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380706547/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 317 of the MacDonald hardback edition (in Part 4, in the unnumbered chapter entitled “Earthlights”).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -120,10 +120,10 @@ For discussion of “[Space-Time Transients and Unusual Events](/ufo-history/ufo
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1984">1984</a></p>
+<p><a href="{{ '/tags/1984' | relative_url }}">1984</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/devereux-paul">Devereux, Paul</a> in “<a href="/ufo-history/ufo-books/brookesmith-peter-editor-the-age-of-the-ufo">The Age of the UFO</a>” (<a href="/tags/1984">1984</a>) (edited by <a href="/ufo-history/ufo-personalities/brookesmith-peter">Peter Brookesmith</a>) (available <a href="http://www.amazon.com/dp/B000S2L0EK/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000S2L0EK/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 73 (in the unnumbered chapter entitled “Faults, Flaws and Flare-Ups”) of the Black Cat hardback edition. The relevant chapter is an article reprinted from the weekly partwork “The Unexplained”.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/devereux-paul' | relative_url }}">Devereux, Paul</a> in “<a href="{{ '/ufo-history/ufo-books/brookesmith-peter-editor-the-age-of-the-ufo' | relative_url }}">The Age of the UFO</a>” (<a href="{{ '/tags/1984' | relative_url }}">1984</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/brookesmith-peter' | relative_url }}">Peter Brookesmith</a>) (available <a href="http://www.amazon.com/dp/B000S2L0EK/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000S2L0EK/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 73 (in the unnumbered chapter entitled “Faults, Flaws and Flare-Ups”) of the Black Cat hardback edition. The relevant chapter is an article reprinted from the weekly partwork “The Unexplained”.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -131,10 +131,10 @@ For discussion of “[Space-Time Transients and Unusual Events](/ufo-history/ufo
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1989">1989</a></p>
+<p><a href="{{ '/tags/1989' | relative_url }}">1989</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/devereux-paul">Devereux, Paul</a> in his “<a href="/ufo-history/ufo-books/devereux-paul-earth-lights-revelation">Earth Lights Revelation</a>” (<a href="/tags/1989">1989</a>) (available <a href="http://www.amazon.com/dp/0713722096/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713722096/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 9 (in the Introduction), 44-46, 48 (in Chapter 2), 208 (in Chapter 8) of the Blandford softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/devereux-paul' | relative_url }}">Devereux, Paul</a> in his “<a href="{{ '/ufo-history/ufo-books/devereux-paul-earth-lights-revelation' | relative_url }}">Earth Lights Revelation</a>” (<a href="{{ '/tags/1989' | relative_url }}">1989</a>) (available <a href="http://www.amazon.com/dp/0713722096/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713722096/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 9 (in the Introduction), 44-46, 48 (in Chapter 2), 208 (in Chapter 8) of the Blandford softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>6</p>
@@ -142,10 +142,10 @@ For discussion of “[Space-Time Transients and Unusual Events](/ufo-history/ufo
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1982">1982</a></p>
+<p><a href="{{ '/tags/1982' | relative_url }}">1982</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/devereux-paul">Devereux, Paul</a> in his “<a href="/ufo-history/ufo-books/devereux-paul-earth-lights">Earth Lights</a>“ (<a href="/tags/1982">1982</a>) (available <a href="http://www.amazon.com/dp/0855001232/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0855001232/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 70-74 (in Chapter 3), 212-213 (in Chapter 8) of the Turnstone Press hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/devereux-paul' | relative_url }}">Devereux, Paul</a> in his “<a href="{{ '/ufo-history/ufo-books/devereux-paul-earth-lights' | relative_url }}">Earth Lights</a>“ (<a href="{{ '/tags/1982' | relative_url }}">1982</a>) (available <a href="http://www.amazon.com/dp/0855001232/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0855001232/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 70-74 (in Chapter 3), 212-213 (in Chapter 8) of the Turnstone Press hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>7</p>
@@ -153,10 +153,10 @@ For discussion of “[Space-Time Transients and Unusual Events](/ufo-history/ufo
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1993">1993</a></p>
+<p><a href="{{ '/tags/1993' | relative_url }}">1993</a></p>
 </td>
 <td valign="top" width="547">
-<p>Dormer, Jospeh in “<a href="/ufo-history/ufo-books/barclay-david-and-barclay-theresa-ufos-the-final-answer">UFOs: The Final Answer?</a>” (<a href="/tags/1993">1993</a>) (edited by David Barclay and Therese Marie Barclay) (available <a href="http://www.amazon.com/dp/0713723629/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713723629/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 145-146 (in Chapter 7) of the Blandford softcover edition.</p>
+<p>Dormer, Jospeh in “<a href="{{ '/ufo-history/ufo-books/barclay-david-and-barclay-theresa-ufos-the-final-answer' | relative_url }}">UFOs: The Final Answer?</a>” (<a href="{{ '/tags/1993' | relative_url }}">1993</a>) (edited by David Barclay and Therese Marie Barclay) (available <a href="http://www.amazon.com/dp/0713723629/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713723629/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 145-146 (in Chapter 7) of the Blandford softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -164,10 +164,10 @@ For discussion of “[Space-Time Transients and Unusual Events](/ufo-history/ufo
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fitzgerald-randall">Fitzgerald, Randall</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 560 (in an entry entitled “Space-Time Transients”) of the New American Library softcover edition, at page 548 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }}">Fitzgerald, Randall</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 560 (in an entry entitled “Space-Time Transients”) of the New American Library softcover edition, at page 548 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -175,10 +175,10 @@ For discussion of “[Space-Time Transients and Unusual Events](/ufo-history/ufo
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fitzgerald-randall">Fitzgerald, Randall</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 671 (in an entry entitled “Space-Time Transients”) of the Robinson softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }}">Fitzgerald, Randall</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 671 (in an entry entitled “Space-Time Transients”) of the Robinson softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -186,10 +186,10 @@ For discussion of “[Space-Time Transients and Unusual Events](/ufo-history/ufo
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fitzgerald-randall">Fitzgerald, Randall</a> in his “<a href="/ufo-history/ufo-books/fitzgerald-randall-the-cosmic-test-tube">The Cosmic Test Tube</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0963916122/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963916122/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 161-163 (in Section 2) with a one sentence summary at page 372 (in the Guide To Books) of the Moonlake Media softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }}">Fitzgerald, Randall</a> in his “<a href="{{ '/ufo-history/ufo-books/fitzgerald-randall-the-cosmic-test-tube' | relative_url }}">The Cosmic Test Tube</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0963916122/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963916122/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 161-163 (in Section 2) with a one sentence summary at page 372 (in the Guide To Books) of the Moonlake Media softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -197,10 +197,10 @@ For discussion of “[Space-Time Transients and Unusual Events](/ufo-history/ufo
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1988">1988</a></p>
+<p><a href="{{ '/tags/1988' | relative_url }}">1988</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/hall-richard-h">Hall, Richard</a> in his “<a href="/ufo-history/ufo-books/hall-richard-uninvited-guests">Uninvited Guests</a>” (<a href="/tags/1988">1988</a>) (available <a href="http://www.amazon.com/dp/0943358329/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0943358329/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 135 (in Chapter 8) of the Aurora Press paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hall-richard-h' | relative_url }}">Hall, Richard</a> in his “<a href="{{ '/ufo-history/ufo-books/hall-richard-uninvited-guests' | relative_url }}">Uninvited Guests</a>” (<a href="{{ '/tags/1988' | relative_url }}">1988</a>) (available <a href="http://www.amazon.com/dp/0943358329/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0943358329/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 135 (in Chapter 8) of the Aurora Press paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -208,10 +208,10 @@ For discussion of “[Space-Time Transients and Unusual Events](/ufo-history/ufo
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p>Rutkowski, Chris in <a href="/ufo-history/ufo-personalities/clark-jerome">Jerome Clark</a>’s “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 350-357 of Volume 1:A-K (forming part of the entry entitled “Earthlights and Tectonic Strain Theory” at pages 350-357) of the Omnigraphics hardback edition.</p>
+<p>Rutkowski, Chris in <a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Jerome Clark</a>’s “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition' | relative_url }}">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 350-357 of Volume 1:A-K (forming part of the entry entitled “Earthlights and Tectonic Strain Theory” at pages 350-357) of the Omnigraphics hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>8</p>
@@ -219,10 +219,10 @@ For discussion of “[Space-Time Transients and Unusual Events](/ufo-history/ufo
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1988">1988</a></p>
+<p><a href="{{ '/tags/1988' | relative_url }}">1988</a></p>
 </td>
 <td valign="top" width="547">
-<p>Rutkowski, Chris A in “<a href="/ufo-history/ufo-books/spencer-john-and-evans-hilary-phenomenon">Phenomenon</a>“ (<a href="/tags/1988">1988</a>) (edited by <a href="/ufo-history/ufo-personalities/spencer-john">John Spencer</a> and <a href="/ufo-history/ufo-personalities/evans-hilary">Hilary Evans</a>) (available <a href="http://www.amazon.com/dp/0380706547/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380706547/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 301-307 (in Part 4, in the unnumbered chapter entitled “Geophysical Alternatives”) of the MacDonald hardback edition.</p>
+<p>Rutkowski, Chris A in “<a href="{{ '/ufo-history/ufo-books/spencer-john-and-evans-hilary-phenomenon' | relative_url }}">Phenomenon</a>“ (<a href="{{ '/tags/1988' | relative_url }}">1988</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">John Spencer</a> and <a href="{{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }}">Hilary Evans</a>) (available <a href="http://www.amazon.com/dp/0380706547/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380706547/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 301-307 (in Part 4, in the unnumbered chapter entitled “Geophysical Alternatives”) of the MacDonald hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>7</p>
@@ -230,10 +230,10 @@ For discussion of “[Space-Time Transients and Unusual Events](/ufo-history/ufo
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p>Wright, Susan in her “<a href="/ufo-history/ufo-books/wright-susan-ufo-headquarters">UFO Headquarters</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0312193475/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312193475/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 218-219, 220 (in Chapter 11) of the St Martin’s Press softcover edition.</p>
+<p>Wright, Susan in her “<a href="{{ '/ufo-history/ufo-books/wright-susan-ufo-headquarters' | relative_url }}">UFO Headquarters</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0312193475/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312193475/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 218-219, 220 (in Chapter 11) of the St Martin’s Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>

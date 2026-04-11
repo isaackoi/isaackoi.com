@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/icke_david_3.jpg"}
 ---
 
-![icke_david_3](/images/stories/ufo_personalities/icke_david_3.jpg)
+![icke_david_3]({{ '/images/stories/ufo_personalities/icke_david_3.jpg' | relative_url }})
 
 *David Icke*
 
@@ -59,10 +59,10 @@ For discussion of David Icke see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2003">2003</a></p>
+<p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/barkun-michael">Barkun, Michael</a> in his “<a href="/ufo-history/ufo-books/barkun-michael-a-culture-of-conspiracy-apocalyptic-visions-in-contemporary-america">A Culture of Conspiracy : Apocalyptic Visions in Contemporary America</a>” (<a href="/tags/2003">2003</a>) (available <a href="http://www.amazon.com/dp/0520248120/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0520248120/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 98-99, 103-109 (in Chapter 6), 144-145, 146 (in Chapter 9), 163-164 (in Chapter 10), 173-174, 175 (in Chapter 11) of the California hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/barkun-michael' | relative_url }}">Barkun, Michael</a> in his “<a href="{{ '/ufo-history/ufo-books/barkun-michael-a-culture-of-conspiracy-apocalyptic-visions-in-contemporary-america' | relative_url }}">A Culture of Conspiracy : Apocalyptic Visions in Contemporary America</a>” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) (available <a href="http://www.amazon.com/dp/0520248120/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0520248120/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 98-99, 103-109 (in Chapter 6), 144-145, 146 (in Chapter 9), 163-164 (in Chapter 10), 173-174, 175 (in Chapter 11) of the California hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>17</p>
@@ -70,10 +70,10 @@ For discussion of David Icke see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2004">2004</a></p>
+<p><a href="{{ '/tags/2004' | relative_url }}">2004</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/birnes-william">Birnes, William</a> in his “<a href="/ufo-history/ufo-books/birnes-william-the-ufo-magazine-ufo-encyclopedia">The UFO Magazine UFO Encyclopedia</a>” (<a href="/tags/2004">2004</a>) (available <a href="http://www.amazon.com/dp/0743466748/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743466748/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 165 (in an entry entitled “<a href="/ufo-history/ufo-personalities/icke-david">Icke, David</a>”) of the Pocket Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/birnes-william' | relative_url }}">Birnes, William</a> in his “<a href="{{ '/ufo-history/ufo-books/birnes-william-the-ufo-magazine-ufo-encyclopedia' | relative_url }}">The UFO Magazine UFO Encyclopedia</a>” (<a href="{{ '/tags/2004' | relative_url }}">2004</a>) (available <a href="http://www.amazon.com/dp/0743466748/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743466748/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 165 (in an entry entitled “<a href="{{ '/ufo-history/ufo-personalities/icke-david' | relative_url }}">Icke, David</a>”) of the Pocket Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -81,10 +81,10 @@ For discussion of David Icke see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="547">
-<p>Collins, Andrew in his “The Circlemakers: A Revolutionary New Vision” (<a href="/tags/1992">1992</a>) (available <a href="http://www.amazon.com/dp/095080245X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/095080245X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 17 (in Chapter 2), 40 (in Chapter 4) of the ABC softcover edition.</p>
+<p>Collins, Andrew in his “The Circlemakers: A Revolutionary New Vision” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="http://www.amazon.com/dp/095080245X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/095080245X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 17 (in Chapter 2), 40 (in Chapter 4) of the ABC softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -92,10 +92,10 @@ For discussion of David Icke see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/halliday-ron">Halliday, Ron</a> in his “UFO Scotland” (<a href="/tags/1998">1998</a>) at page 311 (in Chapter 9) of the B&amp;W softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/halliday-ron' | relative_url }}">Halliday, Ron</a> in his “UFO Scotland” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) at page 311 (in Chapter 9) of the B&amp;W softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -103,10 +103,10 @@ For discussion of David Icke see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Morris, Peter J in his “Aliens Amongst Us: A Beginner’s Guide” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0340758333/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0340758333/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 26 (in Chapter 2) of the Hodder &amp; Stoughton softcover edition.</p>
+<p>Morris, Peter J in his “Aliens Amongst Us: A Beginner’s Guide” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0340758333/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0340758333/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 26 (in Chapter 2) of the Hodder &amp; Stoughton softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -114,10 +114,10 @@ For discussion of David Icke see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randi-james">Randi, James</a> in his “<a href="/ufo-history/ufo-books/randi-james-an-encyclopedia-of-claims-frauds-and-hoaxes-of-the-occult-and-supernatural">An Encyclopedia of Claims, Frauds and Hoaxes of the Occult and Supernatural</a>” (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/031213066X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/031213066X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 128 (in the entry entitled “<a href="/ufo-history/ufo-personalities/icke-david">Icke, David</a>”) of the St Martin’s Press hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randi-james' | relative_url }}">Randi, James</a> in his “<a href="{{ '/ufo-history/ufo-books/randi-james-an-encyclopedia-of-claims-frauds-and-hoaxes-of-the-occult-and-supernatural' | relative_url }}">An Encyclopedia of Claims, Frauds and Hoaxes of the Occult and Supernatural</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/031213066X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/031213066X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 128 (in the entry entitled “<a href="{{ '/ufo-history/ufo-personalities/icke-david' | relative_url }}">Icke, David</a>”) of the St Martin’s Press hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -125,10 +125,10 @@ For discussion of David Icke see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randi-james">Randi, James</a> in his “<a href="/ufo-history/ufo-books/randi-james-psychic-investigator">Psychic Investigator</a>” (<a href="/tags/1991">1991</a>) (available <a href="http://www.amazon.com/dp/1852831448/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1852831448/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 111-112 (in Chapter 8) of the Boxtree softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randi-james' | relative_url }}">Randi, James</a> in his “<a href="{{ '/ufo-history/ufo-books/randi-james-psychic-investigator' | relative_url }}">Psychic Investigator</a>” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/1852831448/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1852831448/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 111-112 (in Chapter 8) of the Boxtree softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -136,10 +136,10 @@ For discussion of David Icke see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-the-paranormal-source-book">The Paranormal Source Book</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/0749914114/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0749914114/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 46-47, 49 (in the unnumbered, but alphabetically arranged, chapter entitled “Cosmic Messages”) of the Piatkus hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-the-paranormal-source-book' | relative_url }}">The Paranormal Source Book</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/0749914114/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0749914114/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 46-47, 49 (in the unnumbered, but alphabetically arranged, chapter entitled “Cosmic Messages”) of the Piatkus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -147,10 +147,10 @@ For discussion of David Icke see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p>Ronson, Jon in his “<a href="/ufo-history/ufo-books/ronson-jon-them-adventures-with-extremists">Them : Adventures with Extremists</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/0330375458/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0330375458/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 85-86 (in Chapter 2), 142-173 (in Chapter 6 generally) of the Picador hardback edition.</p>
+<p>Ronson, Jon in his “<a href="{{ '/ufo-history/ufo-books/ronson-jon-them-adventures-with-extremists' | relative_url }}">Them : Adventures with Extremists</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/0330375458/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0330375458/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 85-86 (in Chapter 2), 142-173 (in Chapter 6 generally) of the Picador hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>34</p>
@@ -158,10 +158,10 @@ For discussion of David Icke see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2004">2004</a></p>
+<p><a href="{{ '/tags/2004' | relative_url }}">2004</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/salla-michael">Salla, Michael</a> in his “<a href="/ufo-history/ufo-books/salla-michael-exopolitics-political-implications-of-the-extraterrestrial-presence">Exopolitics : Political Implications of the Extraterrestrial Presence</a>” (<a href="/tags/2004">2004</a>) (available <a href="http://www.amazon.com/dp/1893302563/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1893302563/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 28 (in Chapter 1) of the Dandelion Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/salla-michael' | relative_url }}">Salla, Michael</a> in his “<a href="{{ '/ufo-history/ufo-books/salla-michael-exopolitics-political-implications-of-the-extraterrestrial-presence' | relative_url }}">Exopolitics : Political Implications of the Extraterrestrial Presence</a>” (<a href="{{ '/tags/2004' | relative_url }}">2004</a>) (available <a href="http://www.amazon.com/dp/1893302563/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1893302563/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 28 (in Chapter 1) of the Dandelion Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

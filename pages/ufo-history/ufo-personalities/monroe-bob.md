@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/monroe_bob_2.jpg"}
 ---
 
-![monroe_bob_2](/images/stories/ufo_personalities/monroe_bob_2.jpg)
+![monroe_bob_2]({{ '/images/stories/ufo_personalities/monroe_bob_2.jpg' | relative_url }})
 
 *Bob Monroe*
 
@@ -57,10 +57,10 @@ For discussion of Bob Monroe and/or Monroe Institute see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2003">2003</a></p>
+<p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/buchanan-lyn">Buchanan, Lyn</a> in his “<a href="/ufo-history/ufo-books/buchanan-lyn-the-seventh-sense-the-secrets-of-remote-viewing-as-told-by-a-psychic-spy-for-the-us-military">The Seventh Sense: The Secrets of Remote Viewing as Told by a Psychic Spy for the US Military</a>” (<a href="/tags/2003">2003</a>) (available <a href="http://www.amazon.com/dp/0743462688/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743462688/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 11, 12-14 (in Chapter 1) of the Paraview Pocket Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/buchanan-lyn' | relative_url }}">Buchanan, Lyn</a> in his “<a href="{{ '/ufo-history/ufo-books/buchanan-lyn-the-seventh-sense-the-secrets-of-remote-viewing-as-told-by-a-psychic-spy-for-the-us-military' | relative_url }}">The Seventh Sense: The Secrets of Remote Viewing as Told by a Psychic Spy for the US Military</a>” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) (available <a href="http://www.amazon.com/dp/0743462688/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743462688/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 11, 12-14 (in Chapter 1) of the Paraview Pocket Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -68,10 +68,10 @@ For discussion of Bob Monroe and/or Monroe Institute see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2007">2007</a></p>
+<p><a href="{{ '/tags/2007' | relative_url }}">2007</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/marrs-jim">Marrs, Jim</a> in his “<a href="/ufo-history/ufo-books/marrs-jim-psi-spies-the-true-story-of-americas-psychic-warfare-program">PSI Spies: The True Story of America’s Psychic Warfare Program</a>” (<a href="/tags/2007">2007</a>) (available <a href="http://www.amazon.com/dp/1564149609/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1564149609/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 116 (in Chapter 4), 165, 170 (in Chapter 6), 257 (in Chapter 9) of the New Page Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/marrs-jim' | relative_url }}">Marrs, Jim</a> in his “<a href="{{ '/ufo-history/ufo-books/marrs-jim-psi-spies-the-true-story-of-americas-psychic-warfare-program' | relative_url }}">PSI Spies: The True Story of America’s Psychic Warfare Program</a>” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (available <a href="http://www.amazon.com/dp/1564149609/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1564149609/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 116 (in Chapter 4), 165, 170 (in Chapter 6), 257 (in Chapter 9) of the New Page Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -79,10 +79,10 @@ For discussion of Bob Monroe and/or Monroe Institute see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1977">1977</a></p>
+<p><a href="{{ '/tags/1977' | relative_url }}">1977</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/puthoff-hal">Puthoff, Hal</a> and <a href="/ufo-history/ufo-personalities/targ-russell">Targ, Russell</a> in their “<a href="/ufo-history/ufo-books/puthoff-hal-and-targ-russell-mind-reach-scientists-look-at-psychic-ability">Mind-Reach : Scientists Look at Psychic Ability</a>” (<a href="/tags/1977">1977</a>) (available <a href="http://www.amazon.com/dp/0440056888/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0440056888/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 190-191, 194 (in Chapter 9) of the Jonathan Cape hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/puthoff-hal' | relative_url }}">Puthoff, Hal</a> and <a href="{{ '/ufo-history/ufo-personalities/targ-russell' | relative_url }}">Targ, Russell</a> in their “<a href="{{ '/ufo-history/ufo-books/puthoff-hal-and-targ-russell-mind-reach-scientists-look-at-psychic-ability' | relative_url }}">Mind-Reach : Scientists Look at Psychic Ability</a>” (<a href="{{ '/tags/1977' | relative_url }}">1977</a>) (available <a href="http://www.amazon.com/dp/0440056888/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0440056888/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 190-191, 194 (in Chapter 9) of the Jonathan Cape hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -90,10 +90,10 @@ For discussion of Bob Monroe and/or Monroe Institute see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/schnabel-jim">Schnabel, Jim</a> in his “<a href="/ufo-history/ufo-books/schnabel-jim-remote-viewers-the-secret-history-of-americas-psychic-spies">Remote Viewers : The Secret History of America’s Psychic Spies</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0440614058/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0440614058/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 276 (in Chapter 18), 294-301 (in Chapter 19), 313-316, 324-326 (in Chapter 20), 336-337 (in Chapter 21) of the Dell paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/schnabel-jim' | relative_url }}">Schnabel, Jim</a> in his “<a href="{{ '/ufo-history/ufo-books/schnabel-jim-remote-viewers-the-secret-history-of-americas-psychic-spies' | relative_url }}">Remote Viewers : The Secret History of America’s Psychic Spies</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0440614058/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0440614058/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 276 (in Chapter 18), 294-301 (in Chapter 19), 313-316, 324-326 (in Chapter 20), 336-337 (in Chapter 21) of the Dell paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>18</p>
@@ -101,10 +101,10 @@ For discussion of Bob Monroe and/or Monroe Institute see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2005">2005</a></p>
+<p><a href="{{ '/tags/2005' | relative_url }}">2005</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/smith-paul">Smith, Paul</a> in his “<a href="/ufo-history/ufo-books/smith-paul-reading-the-enemys-mind">Reading the Enemy’s Mind</a>” (<a href="/tags/2005">2005</a>) (available <a href="http://www.amazon.com/dp/0312875150/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312875150/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 138-153, 198-201, 445-447 of the Forge hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/smith-paul' | relative_url }}">Smith, Paul</a> in his “<a href="{{ '/ufo-history/ufo-books/smith-paul-reading-the-enemys-mind' | relative_url }}">Reading the Enemy’s Mind</a>” (<a href="{{ '/tags/2005' | relative_url }}">2005</a>) (available <a href="http://www.amazon.com/dp/0312875150/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312875150/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 138-153, 198-201, 445-447 of the Forge hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>20</p>

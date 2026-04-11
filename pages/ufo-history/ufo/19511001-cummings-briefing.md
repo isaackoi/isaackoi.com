@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -63,10 +63,10 @@ For discussion of the briefing of General Cabell see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2008">2008</a></p>
+<p><a href="{{ '/tags/2008' | relative_url }}">2008</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/bennett-colin">Bennett, Colin</a> in his “<a href="/ufo-history/ufo-books/bennett-colin-an-american-demonology-captain-edward-j-ruppelt-and-the-official-ufo-investigation-of-the-united-states-air-force">An American Demonology : Captain Edward J Ruppelt and the official UFO investigation of the United States Air Force</a>” (<a href="/tags/2005">2005</a>) (available <a href="http://www.amazon.com/dp/1900486466/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1900486466/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 59-67 (in the unnumbered chapter entitled “A Chain of Being”) of the Headpress softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/bennett-colin' | relative_url }}">Bennett, Colin</a> in his “<a href="{{ '/ufo-history/ufo-books/bennett-colin-an-american-demonology-captain-edward-j-ruppelt-and-the-official-ufo-investigation-of-the-united-states-air-force' | relative_url }}">An American Demonology : Captain Edward J Ruppelt and the official UFO investigation of the United States Air Force</a>” (<a href="{{ '/tags/2005' | relative_url }}">2005</a>) (available <a href="http://www.amazon.com/dp/1900486466/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1900486466/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 59-67 (in the unnumbered chapter entitled “A Chain of Being”) of the Headpress softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>9</p>
@@ -74,10 +74,10 @@ For discussion of the briefing of General Cabell see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-the-ufo-book">The UFO Book</a>: Encyclopedia of the Extraterrestrial” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/1578590299/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1578590299/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 240 of the Visible Ink Press softcover edition in an entry entitled “Fort Monmouth Radar/Visual Case”.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-the-ufo-book' | relative_url }}">The UFO Book</a>: Encyclopedia of the Extraterrestrial” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/1578590299/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1578590299/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 240 of the Visible Ink Press softcover edition in an entry entitled “Fort Monmouth Radar/Visual Case”.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -85,10 +85,10 @@ For discussion of the briefing of General Cabell see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/dolan-richard">Dolan, Richard</a> M in his “<a href="/ufo-history/ufo-books/dolan-richard-ufos-and-the-national-security-state-volume-1-1941-1973">UFOs and the National Security State: Volume 1: 1941-1973</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/1571743170/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1571743170/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 154, 155 (in Chapter 3) of the Keyhole softcover edition, at pages 92, 93 of the <a href="/tags/2002">2002</a> revised Hampton Road softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dolan-richard' | relative_url }}">Dolan, Richard</a> M in his “<a href="{{ '/ufo-history/ufo-books/dolan-richard-ufos-and-the-national-security-state-volume-1-1941-1973' | relative_url }}">UFOs and the National Security State: Volume 1: 1941-1973</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/1571743170/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1571743170/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 154, 155 (in Chapter 3) of the Keyhole softcover edition, at pages 92, 93 of the <a href="{{ '/tags/2002' | relative_url }}">2002</a> revised Hampton Road softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -96,10 +96,10 @@ For discussion of the briefing of General Cabell see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2006">2006</a></p>
+<p><a href="{{ '/tags/2006' | relative_url }}">2006</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/good-timothy">Good, Timothy</a> in his “<a href="/ufo-history/ufo-books/good-timothy-need-to-know-ufos-the-military-and-intelligence">Need To Know : UFOs, the Military and Intelligence</a>” (<a href="/tags/2006">2006</a>) (available <a href="http://www.amazon.com/dp/028307034X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/028307034X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 164 (in Chapter 11) of the Sidgwick &amp; Jackson hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/good-timothy' | relative_url }}">Good, Timothy</a> in his “<a href="{{ '/ufo-history/ufo-books/good-timothy-need-to-know-ufos-the-military-and-intelligence' | relative_url }}">Need To Know : UFOs, the Military and Intelligence</a>” (<a href="{{ '/tags/2006' | relative_url }}">2006</a>) (available <a href="http://www.amazon.com/dp/028307034X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/028307034X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 164 (in Chapter 11) of the Sidgwick &amp; Jackson hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -107,10 +107,10 @@ For discussion of the briefing of General Cabell see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/hall-michael-david">Hall, Michael David</a> and <a href="/ufo-history/ufo-personalities/connors-wendy-ann">Connors, Wendy Ann</a> in their “<a href="/ufo-history/ufo-books/hall-michael-david-and-connors-wendy-ann-captain-edward-j-ruppelt">Captain Edward J Ruppelt : Summer of the Saucers - 1952</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/0970505507/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0970505507/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 47-53, 56-59 (in Chapter 2) of the Rose Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hall-michael-david' | relative_url }}">Hall, Michael David</a> and <a href="{{ '/ufo-history/ufo-personalities/connors-wendy-ann' | relative_url }}">Connors, Wendy Ann</a> in their “<a href="{{ '/ufo-history/ufo-books/hall-michael-david-and-connors-wendy-ann-captain-edward-j-ruppelt' | relative_url }}">Captain Edward J Ruppelt : Summer of the Saucers - 1952</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/0970505507/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0970505507/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 47-53, 56-59 (in Chapter 2) of the Rose Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>11</p>
@@ -118,10 +118,10 @@ For discussion of the briefing of General Cabell see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/hall-michael-david">Hall, Michael David</a> in his “<a href="/ufo-history/ufo-books/hall-michael-david-ufos-a-century-of-sightings">UFOs : A Century of Sightings</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/1880090627/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1880090627/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 150-152 (in Chapter 4) of the Galde Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hall-michael-david' | relative_url }}">Hall, Michael David</a> in his “<a href="{{ '/ufo-history/ufo-books/hall-michael-david-ufos-a-century-of-sightings' | relative_url }}">UFOs : A Century of Sightings</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/1880090627/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1880090627/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 150-152 (in Chapter 4) of the Galde Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -129,10 +129,10 @@ For discussion of the briefing of General Cabell see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/maccabee-bruce">Maccabee, Bruce</a> in his “<a href="/ufo-history/ufo-books/maccabee-bruce-ufo-fbi-connection">UFO-FBI Connection</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/1567184936/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1567184936/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 201-203 (in Chapter 18) of the Llewellyn softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/maccabee-bruce' | relative_url }}">Maccabee, Bruce</a> in his “<a href="{{ '/ufo-history/ufo-books/maccabee-bruce-ufo-fbi-connection' | relative_url }}">UFO-FBI Connection</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/1567184936/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1567184936/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 201-203 (in Chapter 18) of the Llewellyn softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -140,10 +140,10 @@ For discussion of the briefing of General Cabell see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randle-kevin">Randle, Kevin</a> and <a href="/ufo-history/ufo-personalities/estes-russ">Estes, Russ</a> in their “<a href="/ufo-history/ufo-books/randle-kevin-d-and-estes-russ-spaceships-of-the-visitors">Spaceships of the Visitors</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0684857391/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684857391/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 67 (in Part 3) of the Fireside softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randle-kevin' | relative_url }}">Randle, Kevin</a> and <a href="{{ '/ufo-history/ufo-personalities/estes-russ' | relative_url }}">Estes, Russ</a> in their “<a href="{{ '/ufo-history/ufo-books/randle-kevin-d-and-estes-russ-spaceships-of-the-visitors' | relative_url }}">Spaceships of the Visitors</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0684857391/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684857391/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 67 (in Part 3) of the Fireside softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -151,10 +151,10 @@ For discussion of the briefing of General Cabell see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randle-kevin">Randle, Kevin</a> and <a href="file:///C:\Users\homelap\Documents\koi\Notes%20active%20files%20-%20videos%20photos%20etc\Schmitt,%20Donald%20R">Schmitt, Donald</a> in their “<a href="/ufo-history/ufo-books/randle-kevin-and-schmitt-donald-the-truth-about-the-ufo-crash-at-roswell">The Truth About the UFO Crash At Roswell</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/0380778033/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380778033/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 94 (in Chapter 13) of the Evans hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randle-kevin' | relative_url }}">Randle, Kevin</a> and <a href="file:///C:\Users\homelap\Documents\koi\Notes%20active%20files%20-%20videos%20photos%20etc\Schmitt,%20Donald%20R">Schmitt, Donald</a> in their “<a href="{{ '/ufo-history/ufo-books/randle-kevin-and-schmitt-donald-the-truth-about-the-ufo-crash-at-roswell' | relative_url }}">The Truth About the UFO Crash At Roswell</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/0380778033/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380778033/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 94 (in Chapter 13) of the Evans hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -162,10 +162,10 @@ For discussion of the briefing of General Cabell see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randle-kevin">Randle, Kevin</a> in his “<a href="/ufo-history/ufo-books/randle-kevin-d-project-bluebook-exposed">Project Bluebook Exposed</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1569246912/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1569246912/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 14 (in the unnumbered chapter entitled “In the Beginning…”) of the Marlowe softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randle-kevin' | relative_url }}">Randle, Kevin</a> in his “<a href="{{ '/ufo-history/ufo-books/randle-kevin-d-project-bluebook-exposed' | relative_url }}">Project Bluebook Exposed</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1569246912/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1569246912/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 14 (in the unnumbered chapter entitled “In the Beginning…”) of the Marlowe softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -173,10 +173,10 @@ For discussion of the briefing of General Cabell see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randle-kevin">Randle, Kevin</a> in his “<a href="/ufo-history/ufo-books/randle-kevin-d-project-moon-dust">Project Moon Dust</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0380806037/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380806037/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 32 (in Chapter 2) of the Avon softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randle-kevin' | relative_url }}">Randle, Kevin</a> in his “<a href="{{ '/ufo-history/ufo-books/randle-kevin-d-project-moon-dust' | relative_url }}">Project Moon Dust</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0380806037/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380806037/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 32 (in Chapter 2) of the Avon softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -184,10 +184,10 @@ For discussion of the briefing of General Cabell see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1956">1956</a></p>
+<p><a href="{{ '/tags/1956' | relative_url }}">1956</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/ruppelt-edward">Ruppelt, Edward</a> J in his “<a href="/ufo-history/ufo-books/ruppelt-edward-the-report-on-unidentified-flying-objects">The Report on Unidentified Flying Objects</a>” (<a href="/tags/1956">1956</a>) (available <a href="http://www.amazon.com/dp/B0007FIFVE/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0007FIFVE/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 93-94 (in Chapter 7) of the original 17 chapter Doubleday hardback edition, at pages 129-130 of the Gollancz hardback edition, at pages 126-127 of the Ace paperback edition, at pages 93-94 of the <a href="/tags/1959">1959</a> revised Doubleday 20 chapter hardback edition, at pages 67-68 of the reprinted Source Books softcover edition. The first of these editions (i.e. the original 17 chapter hardback edition) has the same page numbering as the version available free online at: <a href="http://www.nicap.org/rufo/contents2.htm">http://www.nicap.org/rufo/contents2.htm</a></p>
+<p><a href="{{ '/ufo-history/ufo-personalities/ruppelt-edward' | relative_url }}">Ruppelt, Edward</a> J in his “<a href="{{ '/ufo-history/ufo-books/ruppelt-edward-the-report-on-unidentified-flying-objects' | relative_url }}">The Report on Unidentified Flying Objects</a>” (<a href="{{ '/tags/1956' | relative_url }}">1956</a>) (available <a href="http://www.amazon.com/dp/B0007FIFVE/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0007FIFVE/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 93-94 (in Chapter 7) of the original 17 chapter Doubleday hardback edition, at pages 129-130 of the Gollancz hardback edition, at pages 126-127 of the Ace paperback edition, at pages 93-94 of the <a href="{{ '/tags/1959' | relative_url }}">1959</a> revised Doubleday 20 chapter hardback edition, at pages 67-68 of the reprinted Source Books softcover edition. The first of these editions (i.e. the original 17 chapter hardback edition) has the same page numbering as the version available free online at: <a href="http://www.nicap.org/rufo/contents2.htm">http://www.nicap.org/rufo/contents2.htm</a></p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

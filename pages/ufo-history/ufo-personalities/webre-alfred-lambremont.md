@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/webre_alfred_lambremont_1.jpg"}
 ---
 
-![webre_alfred_lambremont_1](/images/stories/ufo_personalities/webre_alfred_lambremont_1.jpg)
+![webre_alfred_lambremont_1]({{ '/images/stories/ufo_personalities/webre_alfred_lambremont_1.jpg' | relative_url }})
 
 *Alfred Lambremont Webre*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/webre-alfred-lambremont">Webre, Alfred Lambremont</a> “Exopolitics : A decade of contact”</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/webre-alfred-lambremont' | relative_url }}">Webre, Alfred Lambremont</a> “Exopolitics : A decade of contact”</p>
 </td>
 </tr>
 </tbody>
@@ -83,10 +83,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/greer-steven">Greer, Steven</a> in his “<a href="/ufo-history/ufo-books/greer-steven-disclosure-military-and-government-witnesses-reveal-the-greatest-secrets-in-modern-history">Disclosure : Military and Government Witnesses Reveal the Greatest Secrets in Modern History</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/0967323819/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0967323819/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 441-447 (in Section 4) of the Crossing Point softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/greer-steven' | relative_url }}">Greer, Steven</a> in his “<a href="{{ '/ufo-history/ufo-books/greer-steven-disclosure-military-and-government-witnesses-reveal-the-greatest-secrets-in-modern-history' | relative_url }}">Disclosure : Military and Government Witnesses Reveal the Greatest Secrets in Modern History</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/0967323819/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0967323819/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 441-447 (in Section 4) of the Crossing Point softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>7</p>
@@ -94,10 +94,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2007">2007</a></p>
+<p><a href="{{ '/tags/2007' | relative_url }}">2007</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/harris-paola">Harris, Paola</a> in her “<a href="/ufo-history/ufo-books/harris-paola-how-does-one-speak-to-a-ball-of-light">How does one speak to a ball of light?</a>” (<a href="/tags/2007">2007</a>) (available <a href="http://www.amazon.com/dp/1425994024/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1425994024/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 110-111 (in Section 2) of the Author House softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/harris-paola' | relative_url }}">Harris, Paola</a> in her “<a href="{{ '/ufo-history/ufo-books/harris-paola-how-does-one-speak-to-a-ball-of-light' | relative_url }}">How does one speak to a ball of light?</a>” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (available <a href="http://www.amazon.com/dp/1425994024/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1425994024/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 110-111 (in Section 2) of the Author House softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -105,10 +105,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2004">2004</a></p>
+<p><a href="{{ '/tags/2004' | relative_url }}">2004</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/salla-michael">Salla, Michael</a> in his “<a href="/ufo-history/ufo-books/salla-michael-exopolitics-political-implications-of-the-extraterrestrial-presence">Exopolitics : Political Implications of the Extraterrestrial Presence</a>” (<a href="/tags/2004">2004</a>) (available <a href="http://www.amazon.com/dp/1893302563/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1893302563/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 31, 33-34 (in Chapter 1) of the Dandelion Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/salla-michael' | relative_url }}">Salla, Michael</a> in his “<a href="{{ '/ufo-history/ufo-books/salla-michael-exopolitics-political-implications-of-the-extraterrestrial-presence' | relative_url }}">Exopolitics : Political Implications of the Extraterrestrial Presence</a>” (<a href="{{ '/tags/2004' | relative_url }}">2004</a>) (available <a href="http://www.amazon.com/dp/1893302563/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1893302563/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 31, 33-34 (in Chapter 1) of the Dandelion Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>

@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/028307034X.jpg"}
 book: {"identifiers": ["028307034X"], "primary_isbn": "028307034X", "cover_image": "/book-covers/028307034X.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Timothy Good](/ufo-history/ufo-personalities/good-timothy)'s book “[Need To Know: UFOs, the Military and Intelligence](/ufo-history/ufo-books/good-timothy-need-to-know-ufos-the-military-and-intelligence)” ([2006](/tags/2006)) (available [on Amazon USA](http://www.amazon.com/dp/028307034X/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/028307034X/?&tag=ufot-21))
+Brief review to be added of [Timothy Good]({{ '/ufo-history/ufo-personalities/good-timothy' | relative_url }})'s book “[Need To Know: UFOs, the Military and Intelligence]({{ '/ufo-history/ufo-books/good-timothy-need-to-know-ufos-the-military-and-intelligence' | relative_url }})” ([2006]({{ '/tags/2006' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/028307034X/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/028307034X/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

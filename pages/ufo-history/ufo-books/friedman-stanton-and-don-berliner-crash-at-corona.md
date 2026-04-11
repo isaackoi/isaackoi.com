@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/1569247331.jpg"}
 book: {"identifiers": ["1569247331", "0816038007", "0451204247", "1841196134", "0963916122", "1560983434", "0713724935", "1573922137"], "primary_isbn": "1569247331", "cover_image": "/book-covers/1569247331.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Stanton Friedman](/ufo-history/ufo-personalities/friedman-stanton) and [Don Berliner](/ufo-history/ufo-personalities/berliner-don)'s book “[Crash at Corona](/ufo-history/ufo-books/friedman-stanton-and-don-berliner-crash-at-corona)” ([1992](/tags/1992)) (available [on Amazon USA](http://www.amazon.com/dp/1569247331/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1569247331/?&tag=ufot-21))
+Brief review to be added of [Stanton Friedman]({{ '/ufo-history/ufo-personalities/friedman-stanton' | relative_url }}) and [Don Berliner]({{ '/ufo-history/ufo-personalities/berliner-don' | relative_url }})'s book “[Crash at Corona]({{ '/ufo-history/ufo-books/friedman-stanton-and-don-berliner-crash-at-corona' | relative_url }})” ([1992]({{ '/tags/1992' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1569247331/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1569247331/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/devereux-paul">Devereux, Paul</a> and <a href="/ufo-history/ufo-personalities/brookesmith-peter">Brookesmith, Peter</a> in “<a href="/ufo-history/ufo-books/devereux-paul-and-brookesmith-peter-ufos-and-ufology-the-first-50-years">UFOs and Ufology – the first 50 years</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0816038007/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0816038007/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 125 (in Chapter 9) of the Blandford softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/devereux-paul' | relative_url }}">Devereux, Paul</a> and <a href="{{ '/ufo-history/ufo-personalities/brookesmith-peter' | relative_url }}">Brookesmith, Peter</a> in “<a href="{{ '/ufo-history/ufo-books/devereux-paul-and-brookesmith-peter-ufos-and-ufology-the-first-50-years' | relative_url }}">UFOs and Ufology – the first 50 years</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0816038007/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0816038007/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 125 (in Chapter 9) of the Blandford softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -65,10 +65,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fitzgerald-randall">Fitzgerald, Randall</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 145 (in an entry entitled “<a href="/ufo-history/ufo-books/friedman-stanton-and-don-berliner-crash-at-corona">Crash at Corona</a>”) of the New American Library softcover edition, at page 143 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }}">Fitzgerald, Randall</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 145 (in an entry entitled “<a href="{{ '/ufo-history/ufo-books/friedman-stanton-and-don-berliner-crash-at-corona' | relative_url }}">Crash at Corona</a>”) of the New American Library softcover edition, at page 143 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -76,10 +76,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fitzgerald-randall">Fitzgerald, Randall</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 175 (in an entry entitled “<a href="/ufo-history/ufo-books/friedman-stanton-and-don-berliner-crash-at-corona">Crash at Corona</a>”) of the Robinson softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }}">Fitzgerald, Randall</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 175 (in an entry entitled “<a href="{{ '/ufo-history/ufo-books/friedman-stanton-and-don-berliner-crash-at-corona' | relative_url }}">Crash at Corona</a>”) of the Robinson softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -87,10 +87,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fitzgerald-randall">Fitzgerald, Randall</a> in his “<a href="/ufo-history/ufo-books/fitzgerald-randall-the-cosmic-test-tube">The Cosmic Test Tube</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0963916122/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963916122/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 179-180 (in Section 2) with a one sentence summary at page 373 (in the Guide To Books) of the Moonlake Media softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }}">Fitzgerald, Randall</a> in his “<a href="{{ '/ufo-history/ufo-books/fitzgerald-randall-the-cosmic-test-tube' | relative_url }}">The Cosmic Test Tube</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0963916122/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963916122/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 179-180 (in Section 2) with a one sentence summary at page 373 (in the Guide To Books) of the Moonlake Media softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -98,10 +98,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/peebles-curtis">Peebles, Curtis</a> in his “<a href="/ufo-history/ufo-books/peebles-curtis-watch-the-skies">Watch the Skies!</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/1560983434/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1560983434/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 271 (in Chapter 17, “<a href="/ufo-history/ufo-books/montgomery-ruth-aliens-among-us">Aliens Among Us</a>”) of the Smithsonian hardback edition, pages 325-326 of the Berkley paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/peebles-curtis' | relative_url }}">Peebles, Curtis</a> in his “<a href="{{ '/ufo-history/ufo-books/peebles-curtis-watch-the-skies' | relative_url }}">Watch the Skies!</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/1560983434/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1560983434/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 271 (in Chapter 17, “<a href="{{ '/ufo-history/ufo-books/montgomery-ruth-aliens-among-us' | relative_url }}">Aliens Among Us</a>”) of the Smithsonian hardback edition, pages 325-326 of the Berkley paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -109,10 +109,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-ufo-retrievals">UFO Retrievals</a>” (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/0713724935/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713724935/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 50 (in Chapter 2) of the Blandford softback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-ufo-retrievals' | relative_url }}">UFO Retrievals</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/0713724935/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713724935/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 50 (in Chapter 2) of the Blandford softback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -120,10 +120,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sheaffer-robert">Sheaffer, Robert</a> in his “<a href="/ufo-history/ufo-books/sheaffer-robert-ufo-sightings-the-evidence">UFO Sightings: The Evidence</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/1573922137/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573922137/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 56-57 of the Prometheus hardback edition (Chapter 4).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sheaffer-robert' | relative_url }}">Sheaffer, Robert</a> in his “<a href="{{ '/ufo-history/ufo-books/sheaffer-robert-ufo-sightings-the-evidence' | relative_url }}">UFO Sightings: The Evidence</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/1573922137/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573922137/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 56-57 of the Prometheus hardback edition (Chapter 4).</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

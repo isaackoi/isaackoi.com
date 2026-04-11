@@ -13,7 +13,7 @@ planned_sections: ["1. The relevant image", "2. Stories and claims relating to t
 header: {"preview_image": "/images/stories/alien_photos/koi_ap_24_f.jpg"}
 ---
 
-![](/images/stories/alien_photos/koi_ap_24_f.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_24_f.jpg' | relative_url }})
 
 *Koi Alien Photo 24*
 
@@ -44,9 +44,9 @@ Sections below:
 <a id="image"></a>
 ### 1. The relevant image
 
-![](/images/stories/alien_photos/koi_ap_24_a.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_24_a.jpg' | relative_url }})
 
-![](/images/stories/alien_photos/koi_ap_24_f.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_24_f.jpg' | relative_url }})
 
 ### 2. Stories and claims relating to this image
 
@@ -61,7 +61,7 @@ Greg Sandow, a UFO researcher that participates in discussion on the UFO UpDates
 
 "“I do know a thing or two about the Weekly World News. I wrote a feature on it, got to know the editors, and even worked there for a week. … I went through the photo files one day, and found the outtakes from the alien/president photo shoots. What a pathetic alien -- you could see, in half the shots, flagrant cracks in the papier mache. Similarly, I doubt that intelligence agencies influence the paper's content. They'd hardly have to; as I've said, on a good day, the staff has an uproarious time thinking these things up.”
 
-### ![](/images/stories/alien_photos/koi_ap_24_b.jpg)
+### ![]({{ '/images/stories/alien_photos/koi_ap_24_b.jpg' | relative_url }})
 
 The article in the the issue of Weekly World News dated 11 August 1992 included the following:
 
@@ -156,9 +156,9 @@ figured prominently in the billionaire's decision to drop out of the race.
 
 Clinton and the alien appeared in several other issues of the Weekly World News, including those pictured below (labelled "koi_ap_24_d" and "koi_ap_24_e"):
 
-![](/images/stories/alien_photos/koi_ap_24_d.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_24_d.jpg' | relative_url }})
 
-![](/images/stories/alien_photos/koi_ap_24_e.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_24_e.jpg' | relative_url }})
 
 President Clinton's wife, Hillary Clinton, did not escape the attentions of the Weekly World News. She featured on the front cover of the Weekly World News on 5 August 2003 under the headline "My steamy night with Hilday in UFO love nest. Space alien tells all - in shocking new book" (see photo below, labelled "koi_ap_24_g"). The relevant article (on pages 24 and 25 of that edition - see photos below labelled "koi_ap_24_h" and "koi_ap_24_i" respectively) included information purportedly provided by a space alien (named "P'lod"), supposedly to be revealed in his forthcoming book "Out of this world. My life as an alien in Washington".
 
@@ -166,15 +166,15 @@ The article claims that Hillary Clinton:
 
 "is said to have found the spaceman's soaring intelligence and lofty morals a turn-on. What's more, she told pals that he displayed lovemaking techniques 'thousands of years in advance of any human male'".
 
-![](/images/stories/alien_photos/koi_ap_24_g.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_24_g.jpg' | relative_url }})
 
-![](/images/stories/alien_photos/koi_ap_24_h.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_24_h.jpg' | relative_url }})
 
-![](/images/stories/alien_photos/koi_ap_24_i.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_24_i.jpg' | relative_url }})
 
 President Clinton appeared to have a sense of humour about Koi Alien Photo 24 and posed with a copy of the relevant issue of the Weekly World News (see photo below labelled "koi_ap_24_c").
 
-### ![](/images/stories/alien_photos/koi_ap_24_c.jpg)
+### ![]({{ '/images/stories/alien_photos/koi_ap_24_c.jpg' | relative_url }})
 
 Greg Sandow, a UFO researcher that participates in discussion on the UFO UpDates email discussion list, had some knowledge of the relevant "alien", which he wrote about in [a post on that list on 22 May 1997](http://ufoupdateslist.com/1997/may/m22-005.shtml):
 
@@ -200,7 +200,7 @@ I could write a lot more about this, but I think you get the idea. These stories
 
 The article about "a girl who could read two books at the same time, because she had two brains" mentioned by Greg Sandow appeared in the 21 January 1997 edition of the Weekly World News (at page 6) and a copy appears below to illustrate the points made by Greg Sandow (labelled "koi_ap_19o").
 
-![](/images/stories/alien_photos/koi_ap_19_o.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_19_o.jpg' | relative_url }})
 
 <a id="forums"></a>
 ### 4. Relevant online forum discussions

@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/no_avatar.jpg"}
 ---
 
-![](/images/stories/no_avatar.jpg)
+![]({{ '/images/stories/no_avatar.jpg' | relative_url }})
 
 *Image needed*
 
@@ -59,10 +59,10 @@ For discussion of Donald Johnson see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1988">1988</a></p>
+<p><a href="{{ '/tags/1988' | relative_url }}">1988</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/boyd-robert-d">Boyd, Robert D</a> in his “International Who’s Who in Ufology Directory” (<a href="/tags/1988">1988</a>) at pages 123-124 of the PMT Publishing softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/boyd-robert-d' | relative_url }}">Boyd, Robert D</a> in his “International Who’s Who in Ufology Directory” (<a href="{{ '/tags/1988' | relative_url }}">1988</a>) at pages 123-124 of the PMT Publishing softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -70,10 +70,10 @@ For discussion of Donald Johnson see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2004">2004</a></p>
+<p><a href="{{ '/tags/2004' | relative_url }}">2004</a></p>
 </td>
 <td valign="top" width="547">
-<p>Ridge, Francis in his online “International Who’s Who in Ufology” (<a href="/tags/2004">2004</a>) at <a href="http://www.nicap.org/bios/johnson.htm">http://www.nicap.org/bios/johnson.htm</a></p>
+<p>Ridge, Francis in his online “International Who’s Who in Ufology” (<a href="{{ '/tags/2004' | relative_url }}">2004</a>) at <a href="http://www.nicap.org/bios/johnson.htm">http://www.nicap.org/bios/johnson.htm</a></p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

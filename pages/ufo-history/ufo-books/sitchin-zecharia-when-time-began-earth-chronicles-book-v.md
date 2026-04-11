@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/006137928X.jpg"}
 book: {"identifiers": ["006137928X", "0963916122"], "primary_isbn": "006137928X", "cover_image": "/book-covers/006137928X.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Zecharia Sitchin](/ufo-history/ufo-personalities/sitchin-zecharia)'s book “[When Time Began: Earth Chronicles Book V](/ufo-history/ufo-books/sitchin-zecharia-when-time-began-earth-chronicles-book-v)” ([1993](/tags/1993)) (available [on Amazon USA](http://www.amazon.com/dp/006137928X/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/006137928X/?&tag=ufot-21))
+Brief review to be added of [Zecharia Sitchin]({{ '/ufo-history/ufo-personalities/sitchin-zecharia' | relative_url }})'s book “[When Time Began: Earth Chronicles Book V]({{ '/ufo-history/ufo-books/sitchin-zecharia-when-time-began-earth-chronicles-book-v' | relative_url }})” ([1993]({{ '/tags/1993' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/006137928X/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/006137928X/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fitzgerald-randall">Fitzgerald, Randall</a> in his “<a href="/ufo-history/ufo-books/fitzgerald-randall-the-cosmic-test-tube">The Cosmic Test Tube</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0963916122/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963916122/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 63-64 (in Section 1) with a one sentence summary at page 369 (in the Guide To Books) of the Moonlake Media softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }}">Fitzgerald, Randall</a> in his “<a href="{{ '/ufo-history/ufo-books/fitzgerald-randall-the-cosmic-test-tube' | relative_url }}">The Cosmic Test Tube</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0963916122/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963916122/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 63-64 (in Section 1) with a one sentence summary at page 369 (in the Guide To Books) of the Moonlake Media softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

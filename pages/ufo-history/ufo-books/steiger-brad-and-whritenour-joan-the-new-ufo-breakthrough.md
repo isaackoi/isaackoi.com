@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0815970005.jpg"}
 book: {"identifiers": ["B000AV48KC", "0815970005"], "primary_isbn": "0815970005", "cover_image": "/book-covers/0815970005.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of “[The New UFO Breakthrough](/ufo-history/ufo-books/steiger-brad-and-whritenour-joan-the-new-ufo-breakthrough)” ([1968](/tags/1968)) (available [on Amazon USA](http://www.amazon.com/dp/B000AV48KC/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B000AV48KC/?&tag=ufot-21)) by [Brad Steiger](/ufo-history/ufo-personalities/steiger-brad) and Joan Whritenour.
+Brief review to be added of “[The New UFO Breakthrough]({{ '/ufo-history/ufo-books/steiger-brad-and-whritenour-joan-the-new-ufo-breakthrough' | relative_url }})” ([1968]({{ '/tags/1968' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/B000AV48KC/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B000AV48KC/?&tag=ufot-21)) by [Brad Steiger]({{ '/ufo-history/ufo-personalities/steiger-brad' | relative_url }}) and Joan Whritenour.
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1974">1974</a></p>
+<p><a href="{{ '/tags/1974' | relative_url }}">1974</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/salisbury-frank">Salisbury, Frank</a> in his “The Utah UFO Display: A Biologist’s Report” (<a href="/tags/1974">1974</a>) (available <a href="http://www.amazon.com/dp/0815970005/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0815970005/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 227-228 (in the Appendix entitled “The Literature of Ufology”), 237-238 (in the Appendix entitled “Annotated Bibliography”) of the Devin Adair hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/salisbury-frank' | relative_url }}">Salisbury, Frank</a> in his “The Utah UFO Display: A Biologist’s Report” (<a href="{{ '/tags/1974' | relative_url }}">1974</a>) (available <a href="http://www.amazon.com/dp/0815970005/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0815970005/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 227-228 (in the Appendix entitled “The Literature of Ufology”), 237-238 (in the Appendix entitled “Annotated Bibliography”) of the Devin Adair hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>

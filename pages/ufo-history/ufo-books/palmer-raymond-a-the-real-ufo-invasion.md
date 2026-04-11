@@ -14,7 +14,7 @@ header: {"preview_image": null}
 book: {"identifiers": ["B0007FMB0A"]}
 ---
 
-Brief review to be added of [Raymond A Palmer](/ufo-history/ufo-personalities/palmer-raymond-a)'s book “[The Real UFO Invasion](/ufo-history/ufo-books/palmer-raymond-a-the-real-ufo-invasion)” ([1967](/tags/1967)) (available [on Amazon USA](http://www.amazon.com/dp/B0007FMB0A/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B0007FMB0A/?&tag=ufot-21))
+Brief review to be added of [Raymond A Palmer]({{ '/ufo-history/ufo-personalities/palmer-raymond-a' | relative_url }})'s book “[The Real UFO Invasion]({{ '/ufo-history/ufo-books/palmer-raymond-a-the-real-ufo-invasion' | relative_url }})” ([1967]({{ '/tags/1967' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/B0007FMB0A/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B0007FMB0A/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

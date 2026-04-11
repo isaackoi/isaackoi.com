@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -63,10 +63,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/campbell-steuart">Campbell, Steuart</a> in his “<a href="/ufo-history/ufo-books/campbell-steuart-the-ufo-mystery-solved">The UFO Mystery Solved</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/0952151200/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0952151200/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 81-82 (in Chapter 4) of the Explicit Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/campbell-steuart' | relative_url }}">Campbell, Steuart</a> in his “<a href="{{ '/ufo-history/ufo-books/campbell-steuart-the-ufo-mystery-solved' | relative_url }}">The UFO Mystery Solved</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/0952151200/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0952151200/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 81-82 (in Chapter 4) of the Explicit Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -74,11 +74,11 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1969">1969</a></p>
+<p><a href="{{ '/tags/1969' | relative_url }}">1969</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects">Condon Report</a> (“<a href="/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects">Scientific Study of Unidentified Flying Objects</a>”, Edward U Condon (Director) and Daniel S Gillmor (Editor) (<a href="/tags/1969">1969</a>)) as Case Numbers 19-X and 361-B at pages 211, 213 (in Section 3, Chapter 5 “Optical and Radar Analyses of Field Cases”, by Gordon D Thayer) of the uncorrected version submitted to the Air Force (with the same page numbering in the 3 volume paperbound edition distributed by the National Technical Information Service, US Department of Commerce) at pages 141, 143 of the Vision hardback edition (with the same page numbering in the Bantam paperback edition). The first of these editions has the same page numbering as the edition available free online at the following links:</p>
-<p>http://www.project<a href="/tags/1947">1947</a>.com/shg/condon/contents.html</p>
+<p><a href="{{ '/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects' | relative_url }}">Condon Report</a> (“<a href="{{ '/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects' | relative_url }}">Scientific Study of Unidentified Flying Objects</a>”, Edward U Condon (Director) and Daniel S Gillmor (Editor) (<a href="{{ '/tags/1969' | relative_url }}">1969</a>)) as Case Numbers 19-X and 361-B at pages 211, 213 (in Section 3, Chapter 5 “Optical and Radar Analyses of Field Cases”, by Gordon D Thayer) of the uncorrected version submitted to the Air Force (with the same page numbering in the 3 volume paperbound edition distributed by the National Technical Information Service, US Department of Commerce) at pages 141, 143 of the Vision hardback edition (with the same page numbering in the Bantam paperback edition). The first of these editions has the same page numbering as the edition available free online at the following links:</p>
+<p>http://www.project<a href="{{ '/tags/1947' | relative_url }}">1947</a>.com/shg/condon/contents.html</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -86,10 +86,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1972">1972</a></p>
+<p><a href="{{ '/tags/1972' | relative_url }}">1972</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/mcdonald-james-e">McDonald, James E</a> in “<a href="/ufo-history/ufo-books/sagan-carl-and-page-thornton-editors-ufos-a-scientific-debate">UFO's: A Scientific Debate</a>” (<a href="/tags/1972">1972</a>) (edited by <a href="/ufo-history/ufo-personalities/sagan-carl">Carl Sagan</a> and <a href="/ufo-history/ufo-personalities/page-thornton">Thornton Page</a>) (available <a href="http://www.amazon.com/dp/0393007391/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0393007391/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 115-122 (in Chapter 5, as Case 4) of the Barnes and Noble hardback edition (with the same page numbering in the Norton paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/mcdonald-james-e' | relative_url }}">McDonald, James E</a> in “<a href="{{ '/ufo-history/ufo-books/sagan-carl-and-page-thornton-editors-ufos-a-scientific-debate' | relative_url }}">UFO's: A Scientific Debate</a>” (<a href="{{ '/tags/1972' | relative_url }}">1972</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/sagan-carl' | relative_url }}">Carl Sagan</a> and <a href="{{ '/ufo-history/ufo-personalities/page-thornton' | relative_url }}">Thornton Page</a>) (available <a href="http://www.amazon.com/dp/0393007391/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0393007391/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 115-122 (in Chapter 5, as Case 4) of the Barnes and Noble hardback edition (with the same page numbering in the Norton paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>8</p>
@@ -97,10 +97,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1978">1978</a></p>
+<p><a href="{{ '/tags/1978' | relative_url }}">1978</a></p>
 </td>
 <td valign="top" width="547">
-<p>Seargent, D A J in his “UFOs: A Scientific Enigma” (<a href="/tags/1978">1978</a>) (available <a href="http://www.amazon.com/dp/0722176945/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0722176945/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 47 (in Chapter 2) of the Sphere paperback edition.</p>
+<p>Seargent, D A J in his “UFOs: A Scientific Enigma” (<a href="{{ '/tags/1978' | relative_url }}">1978</a>) (available <a href="http://www.amazon.com/dp/0722176945/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0722176945/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 47 (in Chapter 2) of the Sphere paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -108,10 +108,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2003">2003</a></p>
+<p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sparks-brad">Sparks, Brad</a> in version 1.7 of his “Comprehensive Catalog of 1,500 Project BLUE BOOK UFO Unknowns” (<a href="/tags/2003">2003</a>) as Case Number 1052 on page 142 of the PDF edition (with the same page numbering in the Microsoft Word edition). Both editions are available online, respectively at the following links:</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sparks-brad' | relative_url }}">Sparks, Brad</a> in version 1.7 of his “Comprehensive Catalog of 1,500 Project BLUE BOOK UFO Unknowns” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) as Case Number 1052 on page 142 of the PDF edition (with the same page numbering in the Microsoft Word edition). Both editions are available online, respectively at the following links:</p>
 <p><a href="http://www.cufos.org/BB_Unknowns_1_7.pdf">http://www.cufos.org/BB_Unknowns_1_7.pdf</a></p>
 <p><a href="http://www.nicap.org/bluebook/CufosBBUnknowns.doc">http://www.nicap.org/bluebook/CufosBBUnknowns.doc</a></p>
 </td>
@@ -125,7 +125,7 @@ For discussion see the following:
 <a id="other"></a>
 ### Other Material
 
-Listed between Project Blue Book Case Number 5113 and Project Blue Book Case Number 5113 (with the handwritten annotation “(Case Missing)”) on the redacted US National Archives and Records Administration (“NARA”) microfilm records of Project Blue Book, released to the National Archives in [1975](/tags/1975) – see National Archives Microfilm Publication T1206 roll number 1. An image of the relevant index page has been given the unique Page ID (“PID”) of NARA-PBB1-176 (page 176 of 1014) at the link below.
+Listed between Project Blue Book Case Number 5113 and Project Blue Book Case Number 5113 (with the handwritten annotation “(Case Missing)”) on the redacted US National Archives and Records Administration (“NARA”) microfilm records of Project Blue Book, released to the National Archives in [1975]({{ '/tags/1975' | relative_url }}) – see National Archives Microfilm Publication T1206 roll number 1. An image of the relevant index page has been given the unique Page ID (“PID”) of NARA-PBB1-176 (page 176 of 1014) at the link below.
 
 Listed (without a Project Blue Book Case Number, with the handwritten annotation “(Case Missing)”) on the unredacted Maxwell Air Force Base (“Maxwell”) microfilm records of Project Blue Book – see Maxwell microfilm roll number 30,363. An image of the relevant index page has been given the unique Page ID (“PID”) of MAXW-PBB2-411 (page 411 of 1352) at the link below.
 

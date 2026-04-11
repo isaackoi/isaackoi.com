@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/britain_1.gif"}
 ---
 
-![britain_1](/images/stories/ufo_tags/britain_1.gif)
+![britain_1]({{ '/images/stories/ufo_tags/britain_1.gif' | relative_url }})
 
 *Bonnybridge meeting*
 
@@ -63,10 +63,10 @@ For discussion of sightings in the Bonnybridge area of Scotland see the followin
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Glenday, Craig in his “<a href="/ufo-history/ufo-books/glenday-craig-the-ufo-investigators-handbook">The UFO Investigator’s Handbook</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0762406194/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0762406194/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 129 (in Chapter 6) of the Running Press softcover edition.</p>
+<p>Glenday, Craig in his “<a href="{{ '/ufo-history/ufo-books/glenday-craig-the-ufo-investigators-handbook' | relative_url }}">The UFO Investigator’s Handbook</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0762406194/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0762406194/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 129 (in Chapter 6) of the Running Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -74,10 +74,10 @@ For discussion of sightings in the Bonnybridge area of Scotland see the followin
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/greer-steven">Greer, Steven</a> in his “<a href="/ufo-history/ufo-books/greer-steven-extraterrestrial-contact-the-evidence-and-implications">Extraterrestrial Contact: The Evidence and Implications</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0967323800/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0967323800/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 152-153 (in Chapter 24) of the Crossing Point softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/greer-steven' | relative_url }}">Greer, Steven</a> in his “<a href="{{ '/ufo-history/ufo-books/greer-steven-extraterrestrial-contact-the-evidence-and-implications' | relative_url }}">Extraterrestrial Contact: The Evidence and Implications</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0967323800/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0967323800/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 152-153 (in Chapter 24) of the Crossing Point softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -85,10 +85,10 @@ For discussion of sightings in the Bonnybridge area of Scotland see the followin
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/halliday-ron">Halliday, Ron</a> in his “<a href="/ufo-history/ufo-books/halliday-ron-mcx-scotlands-x-files">McX : Scotland's X-Files</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1873631774/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1873631774/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 10-20 (in Chapter 2) of the B&amp;W softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/halliday-ron' | relative_url }}">Halliday, Ron</a> in his “<a href="{{ '/ufo-history/ufo-books/halliday-ron-mcx-scotlands-x-files' | relative_url }}">McX : Scotland's X-Files</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1873631774/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1873631774/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 10-20 (in Chapter 2) of the B&amp;W softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>11</p>
@@ -96,10 +96,10 @@ For discussion of sightings in the Bonnybridge area of Scotland see the followin
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/halliday-ron">Halliday, Ron</a> in his “UFO Scotland” (<a href="/tags/1998">1998</a>) at pages 186-196 (in Chapter 5), 241-242, 266-273 (in Chapter 7) of the B&amp;W softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/halliday-ron' | relative_url }}">Halliday, Ron</a> in his “UFO Scotland” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) at pages 186-196 (in Chapter 5), 241-242, 266-273 (in Chapter 7) of the B&amp;W softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>21</p>
@@ -107,10 +107,10 @@ For discussion of sightings in the Bonnybridge area of Scotland see the followin
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="Search.html?ordering=0&amp;searchphrase=all&amp;searchword=king">King, Jon</a> in his “<a href="/ufo-history/ufo-books/king-jon-cosmic-top-secret">Cosmic Top Secret</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0340708220/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0340708220/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 173-174 (in the chapter entitled “Document 05”, “File 20”) of the NEL paperback edition.</p>
+<p><a href="Search.html?ordering=0&amp;searchphrase=all&amp;searchword=king">King, Jon</a> in his “<a href="{{ '/ufo-history/ufo-books/king-jon-cosmic-top-secret' | relative_url }}">Cosmic Top Secret</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0340708220/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0340708220/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 173-174 (in the chapter entitled “Document 05”, “File 20”) of the NEL paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -118,10 +118,10 @@ For discussion of sightings in the Bonnybridge area of Scotland see the followin
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p>Picknett, Lynn in her “<a href="/ufo-history/ufo-books/picknett-lynn-the-mammoth-book-of-ufos">The Mammoth Book of UFOs</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/078670800X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/078670800X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 153-155 (in Chapter 2), 451-452 (in Chapter 8) of the Robinson softcover edition.</p>
+<p>Picknett, Lynn in her “<a href="{{ '/ufo-history/ufo-books/picknett-lynn-the-mammoth-book-of-ufos' | relative_url }}">The Mammoth Book of UFOs</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/078670800X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/078670800X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 153-155 (in Chapter 2), 451-452 (in Chapter 8) of the Robinson softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>
@@ -129,10 +129,10 @@ For discussion of sightings in the Bonnybridge area of Scotland see the followin
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/pope-nick">Pope, Nick</a> in his “<a href="/ufo-history/ufo-books/pope-nick-open-skies-closed-minds">Open Skies, Closed Minds</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/0684816644/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684816644/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 87-88 (in Chapter 4) of the Simon and Schuster hardback edition, with the same page numbering in the Pocket Books paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/pope-nick' | relative_url }}">Pope, Nick</a> in his “<a href="{{ '/ufo-history/ufo-books/pope-nick-open-skies-closed-minds' | relative_url }}">Open Skies, Closed Minds</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/0684816644/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684816644/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 87-88 (in Chapter 4) of the Simon and Schuster hardback edition, with the same page numbering in the Pocket Books paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -140,10 +140,10 @@ For discussion of sightings in the Bonnybridge area of Scotland see the followin
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> and <a href="/ufo-history/ufo-personalities/hough-peter">Hough, Peter</a> in their “<a href="/ufo-history/ufo-books/randles-jenny-and-hough-peter-50-years-of-ufo-encounters">50 Years of UFO Encounters</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/B000NLQNZC/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000NLQNZC/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 93-94 (in unnumbered section entitled “<a href="/tags/1994">1994</a>: The Bonnybridge Window”) of the Encounters Magazine softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> and <a href="{{ '/ufo-history/ufo-personalities/hough-peter' | relative_url }}">Hough, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-hough-peter-50-years-of-ufo-encounters' | relative_url }}">50 Years of UFO Encounters</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/B000NLQNZC/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000NLQNZC/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 93-94 (in unnumbered section entitled “<a href="{{ '/tags/1994' | relative_url }}">1994</a>: The Bonnybridge Window”) of the Encounters Magazine softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -151,10 +151,10 @@ For discussion of sightings in the Bonnybridge area of Scotland see the followin
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 143-144, 145 (in an entry entitled “British Window Areas”) of the Robinson softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 143-144, 145 (in an entry entitled “British Window Areas”) of the Robinson softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -162,10 +162,10 @@ For discussion of sightings in the Bonnybridge area of Scotland see the followin
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-the-little-giant-encyclopedia-of-ufos">The Little Giant Encyclopedia of UFOs</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/0806918918/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806918918/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 371 (in Part 3, “UFOs Worldwide”) of the Sterling softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-the-little-giant-encyclopedia-of-ufos' | relative_url }}">The Little Giant Encyclopedia of UFOs</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/0806918918/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806918918/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 371 (in Part 3, “UFOs Worldwide”) of the Sterling softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -173,10 +173,10 @@ For discussion of sightings in the Bonnybridge area of Scotland see the followin
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/spencer-john">Spencer, John</a> and Anne Spencer in their “<a href="/ufo-history/ufo-books/spencer-john-fifty-years-of-ufos">Fifty Years of UFOs</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1852839244/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1852839244/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 144 (in the unnumbered chapter entitled “<a href="/tags/1987">1987</a>-<a href="/tags/1997">1997</a>”) of the Boxtree hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">Spencer, John</a> and Anne Spencer in their “<a href="{{ '/ufo-history/ufo-books/spencer-john-fifty-years-of-ufos' | relative_url }}">Fifty Years of UFOs</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1852839244/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1852839244/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 144 (in the unnumbered chapter entitled “<a href="{{ '/tags/1987' | relative_url }}">1987</a>-<a href="{{ '/tags/1997' | relative_url }}">1997</a>”) of the Boxtree hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -208,10 +208,10 @@ For discussion of the relevant meeting see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/halliday-ron">Halliday, Ron</a> in his “UFO Scotland” (<a href="/tags/1998">1998</a>) at pages 188-189 (in Chapter 5), 271 (in Chapter 7) of the B&amp;W softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/halliday-ron' | relative_url }}">Halliday, Ron</a> in his “UFO Scotland” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) at pages 188-189 (in Chapter 5), 271 (in Chapter 7) of the B&amp;W softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -219,10 +219,10 @@ For discussion of the relevant meeting see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/halliday-ron">Halliday, Ron</a> in his “<a href="/ufo-history/ufo-books/halliday-ron-mcx-scotlands-x-files">McX : Scotland's X-Files</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1873631774/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1873631774/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 13 (in Chapter 2) of the B&amp;W softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/halliday-ron' | relative_url }}">Halliday, Ron</a> in his “<a href="{{ '/ufo-history/ufo-books/halliday-ron-mcx-scotlands-x-files' | relative_url }}">McX : Scotland's X-Files</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1873631774/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1873631774/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 13 (in Chapter 2) of the B&amp;W softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

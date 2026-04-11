@@ -14,7 +14,7 @@ header: {"preview_image": null}
 book: {"identifiers": ["B000J5A9OI"]}
 ---
 
-Brief review to be added of Dale White's book “[Is Something Up There?](/ufo-history/ufo-books/white-dale-is-something-up-there)” ([1968](/tags/1968)) (available [on Amazon USA](http://www.amazon.com/dp/B000J5A9OI/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B000J5A9OI/?&tag=ufot-21))
+Brief review to be added of Dale White's book “[Is Something Up There?]({{ '/ufo-history/ufo-books/white-dale-is-something-up-there' | relative_url }})” ([1968]({{ '/tags/1968' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/B000J5A9OI/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B000J5A9OI/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

@@ -66,13 +66,13 @@ Barbara: That’s-
 
 Screen shots from the video are included below for ease of identification:
 
-![](/images/stories/ufo_videos/video001_1.JPG)
+![]({{ '/images/stories/ufo_videos/video001_1.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video001_2.JPG)
+![]({{ '/images/stories/ufo_videos/video001_2.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video001_3.JPG)
+![]({{ '/images/stories/ufo_videos/video001_3.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video001_4.JPG)
+![]({{ '/images/stories/ufo_videos/video001_4.JPG' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this video
@@ -94,13 +94,13 @@ While a number of copies of the relevant video have been edited to remove refere
 
 (b) at the end of the advert, the following words on the screen "get the whole story @ scifi.com/happens” and a voiceover which states "Get the whole story, at scifi.com".
 
-![](/images/stories/ufo_videos/video001_5.JPG)
+![]({{ '/images/stories/ufo_videos/video001_5.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video001_6.JPG)
+![]({{ '/images/stories/ufo_videos/video001_6.JPG' | relative_url }})
 
 (B) The video was originally made available [on the SciFi Channel's website](http://web.archive.org/web/20010615150525/www.scifi.com/happens/ufoletter.html), supposedly as a video submitted by a "viewer, Barbara S" of a UFO sighting 24 July 2000.
 
-![](/images/stories/ufo_videos/video001_15.JPG)
+![]({{ '/images/stories/ufo_videos/video001_15.JPG' | relative_url }})
 
 Other videos in the "SciFi Happens" series of adverts were also purportedly submitted by viewers, including a video of a magnetized boy and the Lake Champlain monster.
 
@@ -108,27 +108,27 @@ Notably, some of the people involved in the production of the "SciFi Happens" ad
 
 "From 1999-2003, I worked closely with USA Networks/SciFi Channel in a variety of capacities, including producer and director, on over 25 promos. Projects include the award-winning "I Am SciFi" series and "SciFi Happens."... "SciFi Happens" - a stealth campaign of "amateur" sightings of unexplained phenomena. Footage was "sent in" of "Champ" (the Lake Champlain monster), the Chupacabra (a Puerto Rican goat sucker), a UFO over NYC, a magnetized boy, and strange behavior by ladybugs. A post-heavy project, and a lot of fun to help create".
 
-![](/images/stories/ufo_videos/video001_10.JPG)
+![]({{ '/images/stories/ufo_videos/video001_10.JPG' | relative_url }})
 
 C) The woman in the video is an actress. Her name is Barbara Sicuranza. Her [entry on the IMDB website](http://imdb.com/name/nm0796460/) indicates she is an actress, writer and director. Barbara Sicuranza has a website at [www.mysteriousmysteries.com](http://www.mysteriousmysteries.com/). She includes a promo video for the SciFi Channel on her resume on that website: “SCI-FI Promo (The Blimp) Principal Sci Fi Channel”.
 
-![](/images/stories/ufo_videos/video001_8.JPG)
+![]({{ '/images/stories/ufo_videos/video001_8.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video001_11.JPG)
+![]({{ '/images/stories/ufo_videos/video001_11.JPG' | relative_url }})
 
 Barbara Sicuranza's website used to include [a webpage entitled “clips” with an entry dated November 21, 2001](https://web.archive.org/web/20060206120426/http://www.mysteriousmysteries.com/index.php?show=clips) which referred to a quicktime clip from the WTC Video and states that:
 
 “this quicktime clip is well worth the wait of loading. This bit of video caused quite a little controversy and extensive investigation by alien encounter enthusiasts. This helicopter ride is hardly a fond memory for me. I was sick to my stomach from all the weaving and dodging. The view however was unspeakably spectacular. Everywhere and anywhere I go in this city, in it and above it, I'm always a tourist and somehow I'm always right at home. Looking back, was it only a year ago? It all seems unreal. Like phantom limb syndrome, my skyline shows me shadow towers in my mind.”
 
-![](/images/stories/ufo_videos/video001_12.JPG)
+![]({{ '/images/stories/ufo_videos/video001_12.JPG' | relative_url }})
 
 In a post [on her blog on 1 October 2003](https://web.archive.org/web/20050123063306/http://www.mysteriousmysteries.com/index.php?show=journal&currdate=2004-01-29), Barbara Sicuranza commented that "it seems that in the passion for proof and truth, many are overlooking the obvious" and stated the facts in words of one syllable "I'm an actor. It's a commercial. The ship is CGI not UFO".
 
-![](/images/stories/ufo_videos/video001_14.JPG)
+![]({{ '/images/stories/ufo_videos/video001_14.JPG' | relative_url }})
 
 In a later post [on her blog, on 29 January 2004,](https://web.archive.org/web/20050123063306/http://www.mysteriousmysteries.com/index.php?show=journal&currdate=2004-01-29) Barbara Sicuranza commented that she continued to get posts about the UFO video and "its becoming a terrific bore".
 
-![](/images/stories/ufo_videos/video001_13.JPG)
+![]({{ '/images/stories/ufo_videos/video001_13.JPG' | relative_url }})
 
 In March 2015, Barbara Sicuranza kindly responded to an enquiry from me about her participation in the video. She stated that it "seemed obvious" to her that this was an advert "to anyone looking at it closely". She commented that since doing the video she has been "accused of working for the government, of being an alien, called all manner [of] vulgarities and absurdities". She commented that she "would love to build a mashed potato mountain, walk to the desert to find Francois Truffaut" but she "had no such calling as yet".
 
@@ -136,15 +136,15 @@ In March 2015, Barbara Sicuranza kindly responded to an enquiry from me about he
 
 "... what else have i got... ok, rather than going away my wife Barbara's ufo tv spot that was done for SCI-FI TV here is still pulling in comment and e-mails... the main reason being that the thing was shot using the world trade center in new york as a location... now we've gotten to a place in the culture wherein my denial of the 'reality' of the thing will undoubtedly convince various people of its viability but even though i personally wish that indeed it had been evil aliens who destroyed the trade center, the blame is unfortunately a lot closer to home and the now famous tv spot is just that: a tv spot with a fake photoshop (or whatever) ufo etc etc etc so once again the sci-fi tv spot with the ufo at the world trade center is not a 'real' film of a 'real' ufo, barbara is the person in the helicopter but she was just pointing at empty sky and the ufo images were put in later, neither she nor i have had any alien encounters, been abducted by space. or other aliens, and we are currently not hanging out with any space aliens and to the best of my knowledge have nevr met any creatures from outer space, have never been on a flying saucer etc etc etc"
 
-![](/images/stories/ufo_videos/video001_7.JPG)
+![]({{ '/images/stories/ufo_videos/video001_7.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video001_9.jpg)
+![]({{ '/images/stories/ufo_videos/video001_9.jpg' | relative_url }})
 
 (E) The vapour trail formed by the UFO as it flies upwards is similar the Sci-Fi Channel's logo. I've read comments from 2003-2006 that suggest that the other videos in the "SciFi Happens" series of advertisements also involved the Sci-Fi Channel's logo being formed - but unfortunately I can't confirm this at the moment since I have currently been unable to obtain some of those videos.
 
 (F) If you closely examine the video you can see one frame in which the "UFO" appears in front of the Twin Towers. In the frames before and after that single frame, the "UFO" is behind the Twin Towers. If you closely examine the video when the "UFO" emerges from behind the Twin Towers, you can see a gap between the edge of the Twin Towers and the start of the UFO. These points, among others, have been made in a relatively lengthy technical analysis [by Alejandro Franz on the Alcione website](http://www.alcione.org/VIDEONY1/videony1en.html).
 
-![](/images/stories/ufo_videos/video001_16.JPG)
+![]({{ '/images/stories/ufo_videos/video001_16.JPG' | relative_url }})
 
 (G) Numerous other problems are identified in links provided in previous discussions on AboveTopSecret.com, including various posts by myself. See the (long) list of discussions of this video in Section 4 at the end of this page below.
 
@@ -197,4 +197,4 @@ Relevant discussions on the AboveTopSecret.com forum ("ATS)" include the followi
 
 2009 (December) discussion entitled "[UFO Passes Helicopter](http://www.abovetopsecret.com/forum/thread530654/pg1)"
 
-![](/images/stories/ufo_videos/video001_1d.jpg)
+![]({{ '/images/stories/ufo_videos/video001_1d.jpg' | relative_url }})

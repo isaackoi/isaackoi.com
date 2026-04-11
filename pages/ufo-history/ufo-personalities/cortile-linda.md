@@ -13,13 +13,13 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/cortile_linda_1.jpg"}
 ---
 
-![cortile_linda_1](/images/stories/ufo_personalities/cortile_linda_1.jpg)
+![cortile_linda_1]({{ '/images/stories/ufo_personalities/cortile_linda_1.jpg' | relative_url }})
 
 *Linda Cortile*
 
-"[Linda Cortile](/ufo-history/ufo-personalities/cortile-linda)” (a pseudonym for [Linda Napolitano](/ufo-history/ufo-personalities/napolitano-linda)) was alleged;lyabducted in downtown Manhattan, New York City early in the morning on 30 November [1989](/tags/1989).
+"[Linda Cortile]({{ '/ufo-history/ufo-personalities/cortile-linda' | relative_url }})” (a pseudonym for [Linda Napolitano]({{ '/ufo-history/ufo-personalities/napolitano-linda' | relative_url }})) was alleged;lyabducted in downtown Manhattan, New York City early in the morning on 30 November [1989]({{ '/tags/1989' | relative_url }}).
 
-See the entry relating [the alleged abduction of "Linda Cortile"](/ufo-history/ufo/19891130-linda-cortile-abduction).
+See the entry relating [the alleged abduction of "Linda Cortile"]({{ '/ufo-history/ufo/19891130-linda-cortile-abduction' | relative_url }}).
 
 1. [Web Resources](#web)
 
@@ -35,7 +35,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-See the references provided in the entry relating [the alleged abduction of "Linda Cortile"](/ufo-history/ufo/19891130-linda-cortile-abduction).
+See the references provided in the entry relating [the alleged abduction of "Linda Cortile"]({{ '/ufo-history/ufo/19891130-linda-cortile-abduction' | relative_url }}).
 
 <a id="other"></a>
 ### Other Material

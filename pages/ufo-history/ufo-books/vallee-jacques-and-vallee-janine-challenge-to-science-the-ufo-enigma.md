@@ -14,7 +14,7 @@ header: {"preview_image": "https://covers.openlibrary.org/b/isbn/034527086X-L.jp
 book: {"identifiers": ["034527086X", "1558883010", "B000RATSR4", "0253190061", "B000LBSNHU"], "primary_isbn": "034527086X", "cover_image": "https://covers.openlibrary.org/b/isbn/034527086X-L.jpg?default=false", "cover_source": "openlibrary"}
 ---
 
-Brief review to be added of “[Challenge to Science – The UFO Enigma](/ufo-history/ufo-books/vallee-jacques-and-vallee-janine-challenge-to-science-the-ufo-enigma)” ([1966](/tags/1966)) (available [on Amazon USA](http://www.amazon.com/dp/034527086X/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/034527086X/?&tag=ufot-21)) by [Jacques Vallee](/ufo-history/ufo-personalities/vallee-jacques) and Janine Vallee.
+Brief review to be added of “[Challenge to Science – The UFO Enigma]({{ '/ufo-history/ufo-books/vallee-jacques-and-vallee-janine-challenge-to-science-the-ufo-enigma' | relative_url }})” ([1966]({{ '/tags/1966' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/034527086X/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/034527086X/?&tag=ufot-21)) by [Jacques Vallee]({{ '/ufo-history/ufo-personalities/vallee-jacques' | relative_url }}) and Janine Vallee.
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion of “The UFO Enigma” see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1976">1976</a></p>
+<p><a href="{{ '/tags/1976' | relative_url }}">1976</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/bufora">BUFORA</a> in its “UFO Investigation” (<a href="/tags/1976">1976</a>) in Appendix 16, entry 33 of the spiral bound first edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/bufora' | relative_url }}">BUFORA</a> in its “UFO Investigation” (<a href="{{ '/tags/1976' | relative_url }}">1976</a>) in Appendix 16, entry 33 of the spiral bound first edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -65,10 +65,10 @@ For discussion of “The UFO Enigma” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq">The UFO Encyclopedia: 1st edition</a>: Volume 1 – UFOs in the <a href="/tags/1980">1980</a>s” (<a href="/tags/1990">1990</a>) (available <a href="http://www.amazon.com/dp/1558883010/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558883010/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 213 (in an entry entitled “<a href="/ufo-history/ufo-personalities/vallee-jacques">Vallee, Jacques</a> Francis (1939- )”) of the Apogee hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq' | relative_url }}">The UFO Encyclopedia: 1st edition</a>: Volume 1 – UFOs in the <a href="{{ '/tags/1980' | relative_url }}">1980</a>s” (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) (available <a href="http://www.amazon.com/dp/1558883010/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558883010/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 213 (in an entry entitled “<a href="{{ '/ufo-history/ufo-personalities/vallee-jacques' | relative_url }}">Vallee, Jacques</a> Francis (1939- )”) of the Apogee hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -76,10 +76,10 @@ For discussion of “The UFO Enigma” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1975">1975</a></p>
+<p><a href="{{ '/tags/1975' | relative_url }}">1975</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/hynek-j-allen">Hynek, J Allen</a> and <a href="/ufo-history/ufo-personalities/vallee-jacques">Vallee, Jacques</a> in their “<a href="/ufo-history/ufo-books/hynek-allen-and-vallee-jacques-the-edge-of-reality">The Edge of Reality</a>” (<a href="/tags/1975">1975</a>) (available <a href="http://www.amazon.com/dp/B000RATSR4/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000RATSR4/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 219-220 (in Chapter 8) of the Henry Regnery hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hynek-j-allen' | relative_url }}">Hynek, J Allen</a> and <a href="{{ '/ufo-history/ufo-personalities/vallee-jacques' | relative_url }}">Vallee, Jacques</a> in their “<a href="{{ '/ufo-history/ufo-books/hynek-allen-and-vallee-jacques-the-edge-of-reality' | relative_url }}">The Edge of Reality</a>” (<a href="{{ '/tags/1975' | relative_url }}">1975</a>) (available <a href="http://www.amazon.com/dp/B000RATSR4/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000RATSR4/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 219-220 (in Chapter 8) of the Henry Regnery hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -87,10 +87,10 @@ For discussion of “The UFO Enigma” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1966">1966</a></p>
+<p><a href="{{ '/tags/1966' | relative_url }}">1966</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/hynek-j-allen">Hynek, J Allen</a> in <a href="/ufo-history/ufo-personalities/vallee-jacques">Jacques Vallee</a> and Janine Vallee’s “<a href="/ufo-history/ufo-books/vallee-jacques-and-vallee-janine-challenge-to-science-the-ufo-enigma">Challenge to Science – The UFO Enigma</a>” (<a href="/tags/1966">1966</a>) (available <a href="http://www.amazon.com/dp/034527086X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/034527086X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages viii-ix (in the Foreword) of the Ballantine Books paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hynek-j-allen' | relative_url }}">Hynek, J Allen</a> in <a href="{{ '/ufo-history/ufo-personalities/vallee-jacques' | relative_url }}">Jacques Vallee</a> and Janine Vallee’s “<a href="{{ '/ufo-history/ufo-books/vallee-jacques-and-vallee-janine-challenge-to-science-the-ufo-enigma' | relative_url }}">Challenge to Science – The UFO Enigma</a>” (<a href="{{ '/tags/1966' | relative_url }}">1966</a>) (available <a href="http://www.amazon.com/dp/034527086X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/034527086X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages viii-ix (in the Foreword) of the Ballantine Books paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -98,10 +98,10 @@ For discussion of “The UFO Enigma” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1975">1975</a></p>
+<p><a href="{{ '/tags/1975' | relative_url }}">1975</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/jacobs-david-michael">Jacobs, David Michael</a> in his “<a href="/ufo-history/ufo-books/jacobs-david-michael-the-ufo-controversy-in-america">The UFO Controversy in America</a>” (<a href="/tags/1975">1975</a>) (available <a href="http://www.amazon.com/dp/0253190061/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0253190061/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 223-224 (in Chapter 8) of the Indiana hardback edition, page 198 of the Signet paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/jacobs-david-michael' | relative_url }}">Jacobs, David Michael</a> in his “<a href="{{ '/ufo-history/ufo-books/jacobs-david-michael-the-ufo-controversy-in-america' | relative_url }}">The UFO Controversy in America</a>” (<a href="{{ '/tags/1975' | relative_url }}">1975</a>) (available <a href="http://www.amazon.com/dp/0253190061/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0253190061/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 223-224 (in Chapter 8) of the Indiana hardback edition, page 198 of the Signet paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -109,10 +109,10 @@ For discussion of “The UFO Enigma” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1968">1968</a></p>
+<p><a href="{{ '/tags/1968' | relative_url }}">1968</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/saunders-david-r">Saunders, David R</a> and Harkins, R Roger (with lengthy extract ) in their “<a href="/ufo-history/ufo-books/saunders-david-r-and-harkins-r-roger-ufos-yes">UFOs? Yes!</a>” (<a href="/tags/1968">1968</a>) (available <a href="http://www.amazon.com/dp/B000LBSNHU/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000LBSNHU/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 147-148 (in Chapter 14) of the Signet paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/saunders-david-r' | relative_url }}">Saunders, David R</a> and Harkins, R Roger (with lengthy extract ) in their “<a href="{{ '/ufo-history/ufo-books/saunders-david-r-and-harkins-r-roger-ufos-yes' | relative_url }}">UFOs? Yes!</a>” (<a href="{{ '/tags/1968' | relative_url }}">1968</a>) (available <a href="http://www.amazon.com/dp/B000LBSNHU/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000LBSNHU/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 147-148 (in Chapter 14) of the Signet paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

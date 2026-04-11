@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/1903047889.jpg"}
 book: {"identifiers": ["1903047889"], "primary_isbn": "1903047889", "cover_image": "/book-covers/1903047889.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of Neil Nixon's book “[Pocket Essentials: UFOs](/ufo-history/ufo-books/nixon-neil-pocket-essentials-ufos)” ([2002](/tags/2002)) (available [on Amazon USA](http://www.amazon.com/dp/1903047889/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1903047889/?&tag=ufot-21))
+Brief review to be added of Neil Nixon's book “[Pocket Essentials: UFOs]({{ '/ufo-history/ufo-books/nixon-neil-pocket-essentials-ufos' | relative_url }})” ([2002]({{ '/tags/2002' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1903047889/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1903047889/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

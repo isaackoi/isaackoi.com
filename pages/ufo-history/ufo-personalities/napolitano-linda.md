@@ -13,10 +13,10 @@ planned_sections: []
 header: {"preview_image": "/images/stories/ufo_personalities/napolitano_linda_1.jpg"}
 ---
 
-![napolitano_linda_1](/images/stories/ufo_personalities/napolitano_linda_1.jpg)
+![napolitano_linda_1]({{ '/images/stories/ufo_personalities/napolitano_linda_1.jpg' | relative_url }})
 
 *Linda Napolitano*
 
-[Linda Napolitano](/ufo-history/ufo-personalities/napolitano-linda) is an alleged abductee, better known by her pseudonym “[Linda Cortile](/ufo-history/ufo-personalities/cortile-linda)”.
+[Linda Napolitano]({{ '/ufo-history/ufo-personalities/napolitano-linda' | relative_url }}) is an alleged abductee, better known by her pseudonym “[Linda Cortile]({{ '/ufo-history/ufo-personalities/cortile-linda' | relative_url }})”.
 
-See the entry in relation to “[Linda Cortile](/ufo-history/ufo-personalities/cortile-linda)”.
+See the entry in relation to “[Linda Cortile]({{ '/ufo-history/ufo-personalities/cortile-linda' | relative_url }})”.

@@ -14,7 +14,7 @@ header: {"preview_image": "https://covers.openlibrary.org/b/isbn/0934523355-L.jp
 book: {"identifiers": ["0934523355"], "primary_isbn": "0934523355", "cover_image": "https://covers.openlibrary.org/b/isbn/0934523355-L.jpg?default=false", "cover_source": "openlibrary"}
 ---
 
-Brief review to be added of [Kevin Randle](/ufo-history/ufo-personalities/randle-kevin)'s book “[The October Scenario](/ufo-history/ufo-books/randle-kevin-d-the-october-scenario)” ([1988](/tags/1988)) (available [on Amazon USA](http://www.amazon.com/dp/0934523355/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0934523355/?&tag=ufot-21))
+Brief review to be added of [Kevin Randle]({{ '/ufo-history/ufo-personalities/randle-kevin' | relative_url }})'s book “[The October Scenario]({{ '/ufo-history/ufo-books/randle-kevin-d-the-october-scenario' | relative_url }})” ([1988]({{ '/tags/1988' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0934523355/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0934523355/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/1902636201.jpg"}
 book: {"identifiers": ["1902636201"], "primary_isbn": "1902636201", "cover_image": "/book-covers/1902636201.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [David Morehouse](/ufo-history/ufo-personalities/morehouse-david)'s book “[Psychic Warrior](/ufo-history/ufo-books/morehouse-david-psychic-warrior)” ([1996](/tags/1996)) (available [on Amazon USA](http://www.amazon.com/dp/1902636201/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1902636201/?&tag=ufot-21))
+Brief review to be added of [David Morehouse]({{ '/ufo-history/ufo-personalities/morehouse-david' | relative_url }})'s book “[Psychic Warrior]({{ '/ufo-history/ufo-books/morehouse-david-psychic-warrior' | relative_url }})” ([1996]({{ '/tags/1996' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1902636201/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1902636201/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/cantril_hadley_1.jpg"}
 ---
 
-![cantril_hadley_1](/images/stories/ufo_personalities/cantril_hadley_1.jpg)
+![cantril_hadley_1]({{ '/images/stories/ufo_personalities/cantril_hadley_1.jpg' | relative_url }})
 
 *Hadley Cantril*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1940">1940</a></p>
+<p><a href="{{ '/tags/1940' | relative_url }}">1940</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/cantril-hadley">Cantril, Hadley</a> “<a href="/ufo-history/ufo-books/cantril-hadley-the-invasion-from-mars">The Invasion from Mars</a>” (<a href="/tags/1940">1940</a>) (available <a href="http://www.amazon.com/dp/1412804701/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1412804701/ref=nosim?tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/cantril-hadley' | relative_url }}">Cantril, Hadley</a> “<a href="{{ '/ufo-history/ufo-books/cantril-hadley-the-invasion-from-mars' | relative_url }}">The Invasion from Mars</a>” (<a href="{{ '/tags/1940' | relative_url }}">1940</a>) (available <a href="http://www.amazon.com/dp/1412804701/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1412804701/ref=nosim?tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>

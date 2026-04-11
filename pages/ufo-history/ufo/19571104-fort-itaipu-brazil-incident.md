@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -23,9 +23,9 @@ The Fort Itaipu, Brazil sighting by two sentries occurred at about 2 am on 4 Nov
 
 , with alleged injuries and electromagnetic effects.
 
-This incident is Case 70 in [Isaac Koi's "Top 100" article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases), since it was referred to in 40 of the books covered by that article.
+This incident is Case 70 in [Isaac Koi's "Top 100" article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}), since it was referred to in 40 of the books covered by that article.
 
-This incident featured in the results of [a survey in 1965 by Jacques Vallee](/ufog/best-ufo-cases/5-consensus-lists-jacques-vallees-poll-1965) of the opinion of various UFO groups as to the most significant UFO sightings.
+This incident featured in the results of [a survey in 1965 by Jacques Vallee]({{ '/ufog/best-ufo-cases/5-consensus-lists-jacques-vallees-poll-1965' | relative_url }}) of the opinion of various UFO groups as to the most significant UFO sightings.
 
 This was Project Blue Book Case Number 5119.
 
@@ -71,10 +71,10 @@ For discussion of the Fort Itaipu, Brazil sighting see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1967">1967</a></p>
+<p><a href="{{ '/tags/1967' | relative_url }}">1967</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/binder-otto">Binder, Otto</a> in his “<a href="/ufo-history/ufo-books/binder-otto-what-we-really-know-about-flying-saucers">What we really know about Flying Saucers</a>” (<a href="/tags/1967">1967</a>) (available <a href="http://www.amazon.com/dp/B000NPYTFO/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000NPYTFO/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 81-82 (in Chapter 7) of the Fawcett paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/binder-otto' | relative_url }}">Binder, Otto</a> in his “<a href="{{ '/ufo-history/ufo-books/binder-otto-what-we-really-know-about-flying-saucers' | relative_url }}">What we really know about Flying Saucers</a>” (<a href="{{ '/tags/1967' | relative_url }}">1967</a>) (available <a href="http://www.amazon.com/dp/B000NPYTFO/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000NPYTFO/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 81-82 (in Chapter 7) of the Fawcett paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -82,10 +82,10 @@ For discussion of the Fort Itaipu, Brazil sighting see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1970">1970</a></p>
+<p><a href="{{ '/tags/1970' | relative_url }}">1970</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/binder-otto">Binder, Otto</a> O in “<a href="/ufo-history/ufo-books/david-jay-flying-saucers-have-arrived">Flying Saucers Have Arrived!</a>” (<a href="/tags/1970">1970</a>) (edited by <a href="/ufo-history/ufo-personalities/david-jay">Jay David</a>) (available <a href="http://www.amazon.com/dp/B000EH5018/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000EH5018/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 183-184 (in the unnumbered chapter entitled “How Flying Saucers Can Injure You”) of the World hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/binder-otto' | relative_url }}">Binder, Otto</a> O in “<a href="{{ '/ufo-history/ufo-books/david-jay-flying-saucers-have-arrived' | relative_url }}">Flying Saucers Have Arrived!</a>” (<a href="{{ '/tags/1970' | relative_url }}">1970</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/david-jay' | relative_url }}">Jay David</a>) (available <a href="http://www.amazon.com/dp/B000EH5018/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000EH5018/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 183-184 (in the unnumbered chapter entitled “How Flying Saucers Can Injure You”) of the World hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -93,10 +93,10 @@ For discussion of the Fort Itaipu, Brazil sighting see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p>Blundell, Nigel in his “<a href="/ufo-history/ufo-books/blundell-nigel-worlds-most-amazing-ufo-visits">World’s Most Amazing UFO Visits</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/1857781589/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1857781589/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 66-67 of the Select softcover edition.</p>
+<p>Blundell, Nigel in his “<a href="{{ '/ufo-history/ufo-books/blundell-nigel-worlds-most-amazing-ufo-visits' | relative_url }}">World’s Most Amazing UFO Visits</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/1857781589/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1857781589/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 66-67 of the Select softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -104,10 +104,10 @@ For discussion of the Fort Itaipu, Brazil sighting see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1978">1978</a></p>
+<p><a href="{{ '/tags/1978' | relative_url }}">1978</a></p>
 </td>
 <td valign="top" width="547">
-<p>Briazack, Norman and Mennick, Simon in their “<a href="/ufo-history/ufo-books/briazack-norman-and-mennick-simon-the-ufo-guidebook">The UFO Guidebook</a>” (<a href="/tags/1978">1978</a>) (available <a href="http://www.amazon.com/dp/0806507632/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806507632/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 93 (in the entry entitled “Fort Itaipu”) of the Citadel softcover edition.</p>
+<p>Briazack, Norman and Mennick, Simon in their “<a href="{{ '/ufo-history/ufo-books/briazack-norman-and-mennick-simon-the-ufo-guidebook' | relative_url }}">The UFO Guidebook</a>” (<a href="{{ '/tags/1978' | relative_url }}">1978</a>) (available <a href="http://www.amazon.com/dp/0806507632/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806507632/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 93 (in the entry entitled “Fort Itaipu”) of the Citadel softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -115,10 +115,10 @@ For discussion of the Fort Itaipu, Brazil sighting see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="547">
-<p>Canadeo, Anne in her “<a href="/ufo-history/ufo-books/canadeo-anne-ufos-the-fact-or-fiction-file">UFO’s: The Fact or Fiction File</a>” (<a href="/tags/1990">1990</a>) (available <a href="http://www.amazon.com/dp/0802769276/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0802769276/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 61-62 (in Chapter 5 of the pro-UFO side of the book, i.e. the side which starts with the Chapter 1 entitled “Visitors at Cisco Grove”) of the Walker hardback edition.</p>
+<p>Canadeo, Anne in her “<a href="{{ '/ufo-history/ufo-books/canadeo-anne-ufos-the-fact-or-fiction-file' | relative_url }}">UFO’s: The Fact or Fiction File</a>” (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) (available <a href="http://www.amazon.com/dp/0802769276/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0802769276/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 61-62 (in Chapter 5 of the pro-UFO side of the book, i.e. the side which starts with the Chapter 1 entitled “Visitors at Cisco Grove”) of the Walker hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -126,10 +126,10 @@ For discussion of the Fort Itaipu, Brazil sighting see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq">The UFO Encyclopedia: 1st edition</a>: Volume 2 – Emergence of a Phenomenon” (<a href="/tags/1992">1992</a>) (available <a href="http://www.amazon.com/dp/1558887415/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558887415/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 206-207 (in an entry entitled “Itaipu Fortress Incident”) of the Omnigraphics hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq' | relative_url }}">The UFO Encyclopedia: 1st edition</a>: Volume 2 – Emergence of a Phenomenon” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="http://www.amazon.com/dp/1558887415/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558887415/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 206-207 (in an entry entitled “Itaipu Fortress Incident”) of the Omnigraphics hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -137,10 +137,10 @@ For discussion of the Fort Itaipu, Brazil sighting see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a> : Volume 1:A-K” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 537 (in an entry entitled “Itaipu Fortress Incident”) of the Omnigraphics hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition' | relative_url }}">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a> : Volume 1:A-K” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 537 (in an entry entitled “Itaipu Fortress Incident”) of the Omnigraphics hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -148,10 +148,10 @@ For discussion of the Fort Itaipu, Brazil sighting see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 537 (in an entry entitled “Itaipu Fortress Incident”) of Volume 1:A-K of the Omnigraphics hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition' | relative_url }}">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 537 (in an entry entitled “Itaipu Fortress Incident”) of Volume 1:A-K of the Omnigraphics hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -159,10 +159,10 @@ For discussion of the Fort Itaipu, Brazil sighting see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encounters">UFO Encounters</a>” (<a href="/tags/1992">1992</a>) (available <a href="http://www.amazon.com/dp/1561736058/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1561736058/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 64 (in the unnumbered chapter entitled “The Dimensions of a Phenomenon”) of the Publications International hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encounters' | relative_url }}">UFO Encounters</a>” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="http://www.amazon.com/dp/1561736058/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1561736058/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 64 (in the unnumbered chapter entitled “The Dimensions of a Phenomenon”) of the Publications International hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -170,10 +170,10 @@ For discussion of the Fort Itaipu, Brazil sighting see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1966">1966</a></p>
+<p><a href="{{ '/tags/1966' | relative_url }}">1966</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/cramp-leonard-g">Cramp, Leonard G</a> in his “<a href="/ufo-history/ufo-books/cramp-leonard-g-piece-for-a-jig-saw">Piece for a Jig-Saw</a>” (<a href="/tags/1966">1966</a>) (available <a href="http://www.amazon.com/dp/0932813437/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0932813437/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 149-152 (in Chapter 10) of the Somerton hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/cramp-leonard-g' | relative_url }}">Cramp, Leonard G</a> in his “<a href="{{ '/ufo-history/ufo-books/cramp-leonard-g-piece-for-a-jig-saw' | relative_url }}">Piece for a Jig-Saw</a>” (<a href="{{ '/tags/1966' | relative_url }}">1966</a>) (available <a href="http://www.amazon.com/dp/0932813437/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0932813437/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 149-152 (in Chapter 10) of the Somerton hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -181,10 +181,10 @@ For discussion of the Fort Itaipu, Brazil sighting see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/davenport-marc">Davenport, Marc</a> in his “<a href="/ufo-history/ufo-books/davenport-marc-visitors-from-time">Visitors from Time</a>” (<a href="/tags/1992">1992</a>) (available <a href="http://www.amazon.com/dp/1883729025/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1883729025/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 68 (in Chapter 5), 109 (in Chapter 8) of the <a href="/tags/1994">1994</a> revised Greenleaf softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/davenport-marc' | relative_url }}">Davenport, Marc</a> in his “<a href="{{ '/ufo-history/ufo-books/davenport-marc-visitors-from-time' | relative_url }}">Visitors from Time</a>” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="http://www.amazon.com/dp/1883729025/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1883729025/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 68 (in Chapter 5), 109 (in Chapter 8) of the <a href="{{ '/tags/1994' | relative_url }}">1994</a> revised Greenleaf softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -192,10 +192,10 @@ For discussion of the Fort Itaipu, Brazil sighting see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/dolan-richard">Dolan, Richard</a> M in his “<a href="/ufo-history/ufo-books/dolan-richard-ufos-and-the-national-security-state-volume-1-1941-1973">UFOs and the National Security State: Volume 1: 1941-1973</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/1571743170/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1571743170/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 284 (in Chapter 6) of the Keyhole softcover edition, at page 203 of the <a href="/tags/2002">2002</a> revised Hampton Road softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dolan-richard' | relative_url }}">Dolan, Richard</a> M in his “<a href="{{ '/ufo-history/ufo-books/dolan-richard-ufos-and-the-national-security-state-volume-1-1941-1973' | relative_url }}">UFOs and the National Security State: Volume 1: 1941-1973</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/1571743170/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1571743170/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 284 (in Chapter 6) of the Keyhole softcover edition, at page 203 of the <a href="{{ '/tags/2002' | relative_url }}">2002</a> revised Hampton Road softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -203,10 +203,10 @@ For discussion of the Fort Itaipu, Brazil sighting see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1966">1966</a></p>
+<p><a href="{{ '/tags/1966' | relative_url }}">1966</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/edwards-frank">Edwards, Frank</a> in his “<a href="/ufo-history/ufo-books/edwards-frank-flying-saucers-serious-business">Flying Saucers – Serious Business</a>” (<a href="/tags/1966">1966</a>) (available <a href="http://www.amazon.com/dp/B0006BOERI/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0006BOERI/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 31-32 (in Chapter 2) of the Bantam paperback edition, at pages 38-39 of the Mayflower-Dell paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/edwards-frank' | relative_url }}">Edwards, Frank</a> in his “<a href="{{ '/ufo-history/ufo-books/edwards-frank-flying-saucers-serious-business' | relative_url }}">Flying Saucers – Serious Business</a>” (<a href="{{ '/tags/1966' | relative_url }}">1966</a>) (available <a href="http://www.amazon.com/dp/B0006BOERI/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0006BOERI/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 31-32 (in Chapter 2) of the Bantam paperback edition, at pages 38-39 of the Mayflower-Dell paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -214,10 +214,10 @@ For discussion of the Fort Itaipu, Brazil sighting see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1967">1967</a></p>
+<p><a href="{{ '/tags/1967' | relative_url }}">1967</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/gaddis-vincent">Gaddis, Vincent</a> in his “Mysterious Fire And Lights” (<a href="/tags/1967">1967</a>) (available <a href="http://www.amazon.com/dp/B000JL5A64/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000JL5A64/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 32 (in Chapter 2) of the Dell hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/gaddis-vincent' | relative_url }}">Gaddis, Vincent</a> in his “Mysterious Fire And Lights” (<a href="{{ '/tags/1967' | relative_url }}">1967</a>) (available <a href="http://www.amazon.com/dp/B000JL5A64/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000JL5A64/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 32 (in Chapter 2) of the Dell hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -225,10 +225,10 @@ For discussion of the Fort Itaipu, Brazil sighting see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2006">2006</a></p>
+<p><a href="{{ '/tags/2006' | relative_url }}">2006</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/good-timothy">Good, Timothy</a> in his “<a href="/ufo-history/ufo-books/good-timothy-need-to-know-ufos-the-military-and-intelligence">Need To Know : UFOs, the Military and Intelligence</a>” (<a href="/tags/2006">2006</a>) (available <a href="http://www.amazon.com/dp/028307034X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/028307034X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 232-233 (in Chapter 16) of the Sidgwick &amp; Jackson hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/good-timothy' | relative_url }}">Good, Timothy</a> in his “<a href="{{ '/ufo-history/ufo-books/good-timothy-need-to-know-ufos-the-military-and-intelligence' | relative_url }}">Need To Know : UFOs, the Military and Intelligence</a>” (<a href="{{ '/tags/2006' | relative_url }}">2006</a>) (available <a href="http://www.amazon.com/dp/028307034X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/028307034X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 232-233 (in Chapter 16) of the Sidgwick &amp; Jackson hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -236,10 +236,10 @@ For discussion of the Fort Itaipu, Brazil sighting see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1967">1967</a></p>
+<p><a href="{{ '/tags/1967' | relative_url }}">1967</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/green-gabriel">Green, Gabriel</a> with <a href="/ufo-history/ufo-personalities/smith-warren">Smith, Warren</a> in their “Let’s face the facts about Flying Saucers” (<a href="/tags/1967">1967</a>) (available <a href="http://www.amazon.com/dp/B0006BS25S/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0006BS25S/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 88-89 (in the unnumbered chapter entitled “Healing Lights, Heat Waves, and Paralyzing Beams”) of the Popular Library paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/green-gabriel' | relative_url }}">Green, Gabriel</a> with <a href="{{ '/ufo-history/ufo-personalities/smith-warren' | relative_url }}">Smith, Warren</a> in their “Let’s face the facts about Flying Saucers” (<a href="{{ '/tags/1967' | relative_url }}">1967</a>) (available <a href="http://www.amazon.com/dp/B0006BS25S/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0006BS25S/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 88-89 (in the unnumbered chapter entitled “Healing Lights, Heat Waves, and Paralyzing Beams”) of the Popular Library paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -247,10 +247,10 @@ For discussion of the Fort Itaipu, Brazil sighting see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1967">1967</a></p>
+<p><a href="{{ '/tags/1967' | relative_url }}">1967</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/greenfield-irving-a">Greenfield, Irving A</a> in his “The UFO Report” (<a href="/tags/1967">1967</a>) at page 98 (in Chapter 11) of the Lancer paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/greenfield-irving-a' | relative_url }}">Greenfield, Irving A</a> in his “The UFO Report” (<a href="{{ '/tags/1967' | relative_url }}">1967</a>) at page 98 (in Chapter 11) of the Lancer paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -258,10 +258,10 @@ For discussion of the Fort Itaipu, Brazil sighting see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1975">1975</a></p>
+<p><a href="{{ '/tags/1975' | relative_url }}">1975</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/keel-john-a">Keel, John A</a> in his “<a href="/ufo-history/ufo-books/keel-john-a-the-cosmic-question">The Cosmic Question</a>” (<a href="/tags/1975">1975</a>) (formerly “The Eighth Tower”) (available <a href="http://www.amazon.com/dp/B000K03IOA/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000K03IOA/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 45 (in Chapter 5) of the Panther paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/keel-john-a' | relative_url }}">Keel, John A</a> in his “<a href="{{ '/ufo-history/ufo-books/keel-john-a-the-cosmic-question' | relative_url }}">The Cosmic Question</a>” (<a href="{{ '/tags/1975' | relative_url }}">1975</a>) (formerly “The Eighth Tower”) (available <a href="http://www.amazon.com/dp/B000K03IOA/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000K03IOA/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 45 (in Chapter 5) of the Panther paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -269,10 +269,10 @@ For discussion of the Fort Itaipu, Brazil sighting see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1973">1973</a></p>
+<p><a href="{{ '/tags/1973' | relative_url }}">1973</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/keyhoe-donald-e">Keyhoe, Donald E</a> in his “<a href="/ufo-history/ufo-books/keyhoe-donald-e-aliens-from-space">Aliens from Space</a>” (<a href="/tags/1973">1973</a>) (available <a href="http://www.amazon.com/dp/0385067518/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0385067518/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 19-22 (in Chapter 2) of the Signet paperback edition, pages 32-34 of the Panther paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/keyhoe-donald-e' | relative_url }}">Keyhoe, Donald E</a> in his “<a href="{{ '/ufo-history/ufo-books/keyhoe-donald-e-aliens-from-space' | relative_url }}">Aliens from Space</a>” (<a href="{{ '/tags/1973' | relative_url }}">1973</a>) (available <a href="http://www.amazon.com/dp/0385067518/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0385067518/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 19-22 (in Chapter 2) of the Signet paperback edition, pages 32-34 of the Panther paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -280,10 +280,10 @@ For discussion of the Fort Itaipu, Brazil sighting see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1969">1969</a></p>
+<p><a href="{{ '/tags/1969' | relative_url }}">1969</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/lorenzen-coral-e">Lorenzen, Coral</a> and <a href="/ufo-history/ufo-personalities/lorenzen-jim">Lorenzen, Jim</a> in their “<a href="/ufo-history/ufo-books/lorenzen-coral-and-lorenzen-jim-ufos-the-whole-story">UFOs: The Whole Story</a>” (<a href="/tags/1969">1969</a>) (available <a href="http://www.amazon.com/dp/B000IW5ULY/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000IW5ULY/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 83 (in Chapter 2), 185-186, 189-190, 199-200 (in Chapter 9), 211-212 (in Chapter 10) of the Signet paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/lorenzen-coral-e' | relative_url }}">Lorenzen, Coral</a> and <a href="{{ '/ufo-history/ufo-personalities/lorenzen-jim' | relative_url }}">Lorenzen, Jim</a> in their “<a href="{{ '/ufo-history/ufo-books/lorenzen-coral-and-lorenzen-jim-ufos-the-whole-story' | relative_url }}">UFOs: The Whole Story</a>” (<a href="{{ '/tags/1969' | relative_url }}">1969</a>) (available <a href="http://www.amazon.com/dp/B000IW5ULY/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000IW5ULY/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 83 (in Chapter 2), 185-186, 189-190, 199-200 (in Chapter 9), 211-212 (in Chapter 10) of the Signet paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>9</p>
@@ -291,10 +291,10 @@ For discussion of the Fort Itaipu, Brazil sighting see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1969">1969</a></p>
+<p><a href="{{ '/tags/1969' | relative_url }}">1969</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/lorenzen-coral-e">Lorenzen, Coral</a> and <a href="/ufo-history/ufo-personalities/lorenzen-jim">Lorenzen, Jim</a> in their “<a href="/ufo-history/ufo-books/lorenzen-coral-and-lorenzen-jim-ufos-the-whole-story">UFOs: The Whole Story</a>” (<a href="/tags/1969">1969</a>) (available <a href="http://www.amazon.com/dp/B000IW5ULY/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000IW5ULY/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 83 (in Chapter 2), 185-186, 189-190, 199-200 (in Chapter 9), 211-212 (in Chapter 10) of the Signet paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/lorenzen-coral-e' | relative_url }}">Lorenzen, Coral</a> and <a href="{{ '/ufo-history/ufo-personalities/lorenzen-jim' | relative_url }}">Lorenzen, Jim</a> in their “<a href="{{ '/ufo-history/ufo-books/lorenzen-coral-and-lorenzen-jim-ufos-the-whole-story' | relative_url }}">UFOs: The Whole Story</a>” (<a href="{{ '/tags/1969' | relative_url }}">1969</a>) (available <a href="http://www.amazon.com/dp/B000IW5ULY/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000IW5ULY/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 83 (in Chapter 2), 185-186, 189-190, 199-200 (in Chapter 9), 211-212 (in Chapter 10) of the Signet paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>9</p>
@@ -302,10 +302,10 @@ For discussion of the Fort Itaipu, Brazil sighting see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/lorenzen-coral-e">Lorenzen, Coral E</a> in “<a href="/ufo-history/ufo-books/story-ronald-editor-and-green-j-richard-consulting-editor-the-encyclopedia-of-ufos">The Encyclopedia of UFOs</a>” (<a href="/tags/1980">1980</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0385136773/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0385136773/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 139-140 (in an entry entitled “Fort Itaipu (Brazil) incident”) of the NEL hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/lorenzen-coral-e' | relative_url }}">Lorenzen, Coral E</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-editor-and-green-j-richard-consulting-editor-the-encyclopedia-of-ufos' | relative_url }}">The Encyclopedia of UFOs</a>” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0385136773/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0385136773/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 139-140 (in an entry entitled “Fort Itaipu (Brazil) incident”) of the NEL hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -313,10 +313,10 @@ For discussion of the Fort Itaipu, Brazil sighting see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/lorenzen-coral-e">Lorenzen, Coral E</a> in “<a href="/ufo-history/ufo-books/story-ronald-editor-and-green-j-richard-consulting-editor-the-encyclopedia-of-ufos">The Encyclopedia of UFOs</a>” (<a href="/tags/1980">1980</a>) edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a> (available <a href="http://www.amazon.com/dp/0385136773/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0385136773/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 139-140 (in an entry entitled “Fort Itaipu (Brazil) incident”) of the NEL hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/lorenzen-coral-e' | relative_url }}">Lorenzen, Coral E</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-editor-and-green-j-richard-consulting-editor-the-encyclopedia-of-ufos' | relative_url }}">The Encyclopedia of UFOs</a>” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a> (available <a href="http://www.amazon.com/dp/0385136773/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0385136773/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 139-140 (in an entry entitled “Fort Itaipu (Brazil) incident”) of the NEL hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -324,10 +324,10 @@ For discussion of the Fort Itaipu, Brazil sighting see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1962">1962</a></p>
+<p><a href="{{ '/tags/1962' | relative_url }}">1962</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/lorenzen-coral-e">Lorenzen, Coral E</a> in her “<a href="/ufo-history/ufo-books/lorenzen-coral-e-the-great-flying-saucer-hoax">The Great Flying Saucer Hoax</a>” (<a href="/tags/1962">1962</a>) (available <a href="http://www.amazon.com/dp/B0007EF5K4/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0007EF5K4/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 3 (in Chapter 1), 148-150, 151, 152, 156 (in Chapter 10) of the <a href="/ufo-history/ufo-personalities/apro">APRO</a> hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/lorenzen-coral-e' | relative_url }}">Lorenzen, Coral E</a> in her “<a href="{{ '/ufo-history/ufo-books/lorenzen-coral-e-the-great-flying-saucer-hoax' | relative_url }}">The Great Flying Saucer Hoax</a>” (<a href="{{ '/tags/1962' | relative_url }}">1962</a>) (available <a href="http://www.amazon.com/dp/B0007EF5K4/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0007EF5K4/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 3 (in Chapter 1), 148-150, 151, 152, 156 (in Chapter 10) of the <a href="{{ '/ufo-history/ufo-personalities/apro' | relative_url }}">APRO</a> hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>7</p>
@@ -335,10 +335,10 @@ For discussion of the Fort Itaipu, Brazil sighting see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1966">1966</a></p>
+<p><a href="{{ '/tags/1966' | relative_url }}">1966</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/lorenzen-coral-e">Lorenzen, Coral</a> in “<a href="/ufo-history/ufo-books/lorenzen-coral-e-flying-saucers-the-startling-evidence-of-the-invasion-from-outer-space">Flying Saucers : the Startling Evidence of the Invasion from Outer Space</a>” (<a href="/tags/1966">1966</a>) (an enlarged version of her “<a href="/ufo-history/ufo-books/lorenzen-coral-e-the-great-flying-saucer-hoax">The Great Flying Saucer Hoax</a>” (<a href="/tags/1962">1962</a>)) (available <a href="http://www.amazon.com/dp/B000BD1A2I/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000BD1A2I/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 155-157, 163 (in Chapter 10) of the Signet paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/lorenzen-coral-e' | relative_url }}">Lorenzen, Coral</a> in “<a href="{{ '/ufo-history/ufo-books/lorenzen-coral-e-flying-saucers-the-startling-evidence-of-the-invasion-from-outer-space' | relative_url }}">Flying Saucers : the Startling Evidence of the Invasion from Outer Space</a>” (<a href="{{ '/tags/1966' | relative_url }}">1966</a>) (an enlarged version of her “<a href="{{ '/ufo-history/ufo-books/lorenzen-coral-e-the-great-flying-saucer-hoax' | relative_url }}">The Great Flying Saucer Hoax</a>” (<a href="{{ '/tags/1962' | relative_url }}">1962</a>)) (available <a href="http://www.amazon.com/dp/B000BD1A2I/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000BD1A2I/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 155-157, 163 (in Chapter 10) of the Signet paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -346,10 +346,10 @@ For discussion of the Fort Itaipu, Brazil sighting see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1966">1966</a></p>
+<p><a href="{{ '/tags/1966' | relative_url }}">1966</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/lorenzen-coral-e">Lorenzen, Coral</a> in “<a href="/ufo-history/ufo-books/lorenzen-coral-e-flying-saucers-the-startling-evidence-of-the-invasion-from-outer-space">Flying Saucers : the Startling Evidence of the Invasion from Outer Space</a>” (<a href="/tags/1966">1966</a>) (an enlarged version of her “<a href="/ufo-history/ufo-books/lorenzen-coral-e-the-great-flying-saucer-hoax">The Great Flying Saucer Hoax</a>” (<a href="/tags/1962">1962</a>)) (available <a href="http://www.amazon.com/dp/B000BD1A2I/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000BD1A2I/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 155-157, 163 (in Chapter 10) of the Signet paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/lorenzen-coral-e' | relative_url }}">Lorenzen, Coral</a> in “<a href="{{ '/ufo-history/ufo-books/lorenzen-coral-e-flying-saucers-the-startling-evidence-of-the-invasion-from-outer-space' | relative_url }}">Flying Saucers : the Startling Evidence of the Invasion from Outer Space</a>” (<a href="{{ '/tags/1966' | relative_url }}">1966</a>) (an enlarged version of her “<a href="{{ '/ufo-history/ufo-books/lorenzen-coral-e-the-great-flying-saucer-hoax' | relative_url }}">The Great Flying Saucer Hoax</a>” (<a href="{{ '/tags/1962' | relative_url }}">1962</a>)) (available <a href="http://www.amazon.com/dp/B000BD1A2I/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000BD1A2I/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 155-157, 163 (in Chapter 10) of the Signet paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -357,10 +357,10 @@ For discussion of the Fort Itaipu, Brazil sighting see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1961">1961</a></p>
+<p><a href="{{ '/tags/1961' | relative_url }}">1961</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/maney-charles-a">Maney, Charles A</a>nd <a href="/ufo-history/ufo-personalities/hall-richard-h">Hall, Richard</a> in their “<a href="/ufo-history/ufo-books/maney-charles-a-and-hall-richard-the-challenge-of-unidentified-flying-objects">Challenge of Unidentified Flying Objects</a>” (<a href="/tags/1961">1961</a>) (available <a href="http://www.amazon.com/dp/B00117X9ZO/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B00117X9ZO/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 113 (in Part 3, Chapter 1, by <a href="/ufo-history/ufo-personalities/hall-richard-h">Richard Hall</a>) of the privately published hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/maney-charles-a' | relative_url }}">Maney, Charles A</a>nd <a href="{{ '/ufo-history/ufo-personalities/hall-richard-h' | relative_url }}">Hall, Richard</a> in their “<a href="{{ '/ufo-history/ufo-books/maney-charles-a-and-hall-richard-the-challenge-of-unidentified-flying-objects' | relative_url }}">Challenge of Unidentified Flying Objects</a>” (<a href="{{ '/tags/1961' | relative_url }}">1961</a>) (available <a href="http://www.amazon.com/dp/B00117X9ZO/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B00117X9ZO/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 113 (in Part 3, Chapter 1, by <a href="{{ '/ufo-history/ufo-personalities/hall-richard-h' | relative_url }}">Richard Hall</a>) of the privately published hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -368,10 +368,10 @@ For discussion of the Fort Itaipu, Brazil sighting see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1963">1963</a></p>
+<p><a href="{{ '/tags/1963' | relative_url }}">1963</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/menzel-donald-h">Menzel, Donald</a> and <a href="/ufo-history/ufo-personalities/boyd-lyle">Boyd, Lyle</a> in “<a href="/ufo-history/ufo-books/menzel-donald-h-and-boyd-lyle-the-world-of-flying-saucers">The World of Flying Saucers</a>” (<a href="/tags/1963">1963</a>) (available <a href="http://www.amazon.com/dp/B0015NVBB8/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0015NVBB8/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 184 (in Chapter 9) of the Doubleday hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/menzel-donald-h' | relative_url }}">Menzel, Donald</a> and <a href="{{ '/ufo-history/ufo-personalities/boyd-lyle' | relative_url }}">Boyd, Lyle</a> in “<a href="{{ '/ufo-history/ufo-books/menzel-donald-h-and-boyd-lyle-the-world-of-flying-saucers' | relative_url }}">The World of Flying Saucers</a>” (<a href="{{ '/tags/1963' | relative_url }}">1963</a>) (available <a href="http://www.amazon.com/dp/B0015NVBB8/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0015NVBB8/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 184 (in Chapter 9) of the Doubleday hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -379,10 +379,10 @@ For discussion of the Fort Itaipu, Brazil sighting see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1963">1963</a></p>
+<p><a href="{{ '/tags/1963' | relative_url }}">1963</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/menzel-donald-h">Menzel, Donald</a> and <a href="/ufo-history/ufo-personalities/boyd-lyle">Boyd, Lyle</a> in their “<a href="/ufo-history/ufo-books/menzel-donald-h-and-boyd-lyle-the-world-of-flying-saucers">The World of Flying Saucers</a>” (<a href="/tags/1963">1963</a>) (available <a href="http://www.amazon.com/dp/B0015NVBB8/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0015NVBB8/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 184 (in Chapter 9) of the Doubleday hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/menzel-donald-h' | relative_url }}">Menzel, Donald</a> and <a href="{{ '/ufo-history/ufo-personalities/boyd-lyle' | relative_url }}">Boyd, Lyle</a> in their “<a href="{{ '/ufo-history/ufo-books/menzel-donald-h-and-boyd-lyle-the-world-of-flying-saucers' | relative_url }}">The World of Flying Saucers</a>” (<a href="{{ '/tags/1963' | relative_url }}">1963</a>) (available <a href="http://www.amazon.com/dp/B0015NVBB8/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0015NVBB8/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 184 (in Chapter 9) of the Doubleday hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -390,10 +390,10 @@ For discussion of the Fort Itaipu, Brazil sighting see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1966">1966</a></p>
+<p><a href="{{ '/tags/1966' | relative_url }}">1966</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/olsen-thomas-m">Olsen, Thomas M</a> in his “<a href="/ufo-history/ufo-books/olsen-thomas-m-the-reference-for-outstanding-ufo-sighting-reports">The Reference for Outstanding UFO Sighting Reports</a>” (<a href="/tags/1966">1966</a>) (available <a href="http://www.amazon.com/dp/B000VK61WA/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000VK61WA/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 3_52 (in Chapter 3) of the UFOIRC spiral-bound edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/olsen-thomas-m' | relative_url }}">Olsen, Thomas M</a> in his “<a href="{{ '/ufo-history/ufo-books/olsen-thomas-m-the-reference-for-outstanding-ufo-sighting-reports' | relative_url }}">The Reference for Outstanding UFO Sighting Reports</a>” (<a href="{{ '/tags/1966' | relative_url }}">1966</a>) (available <a href="http://www.amazon.com/dp/B000VK61WA/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000VK61WA/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 3_52 (in Chapter 3) of the UFOIRC spiral-bound edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -401,10 +401,10 @@ For discussion of the Fort Itaipu, Brazil sighting see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1967">1967</a></p>
+<p><a href="{{ '/tags/1967' | relative_url }}">1967</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/palmer-raymond-a">Palmer, Raymond A</a> in his “<a href="/ufo-history/ufo-books/palmer-raymond-a-the-real-ufo-invasion">The Real UFO Invasion</a>” (<a href="/tags/1967">1967</a>) (available <a href="http://www.amazon.com/dp/B0007FMB0A/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0007FMB0A/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 38-42 (in Chapter 2) of the Greenleaf paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/palmer-raymond-a' | relative_url }}">Palmer, Raymond A</a> in his “<a href="{{ '/ufo-history/ufo-books/palmer-raymond-a-the-real-ufo-invasion' | relative_url }}">The Real UFO Invasion</a>” (<a href="{{ '/tags/1967' | relative_url }}">1967</a>) (available <a href="http://www.amazon.com/dp/B0007FMB0A/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0007FMB0A/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 38-42 (in Chapter 2) of the Greenleaf paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>
@@ -412,10 +412,10 @@ For discussion of the Fort Itaipu, Brazil sighting see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1988">1988</a></p>
+<p><a href="{{ '/tags/1988' | relative_url }}">1988</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randle-kevin">Randle, Kevin</a> D in his “<a href="/ufo-history/ufo-books/randle-kevin-d-the-october-scenario">The October Scenario</a>” (<a href="/tags/1988">1988</a>) (available <a href="http://www.amazon.com/dp/0934523355/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0934523355/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 168-169 (in Part 4, unnumbered section entitled “<a href="/ufo-history/ufo-books/randle-kevin-d-the-october-scenario">The October Scenario</a> Revisited”) of the Berkley paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randle-kevin' | relative_url }}">Randle, Kevin</a> D in his “<a href="{{ '/ufo-history/ufo-books/randle-kevin-d-the-october-scenario' | relative_url }}">The October Scenario</a>” (<a href="{{ '/tags/1988' | relative_url }}">1988</a>) (available <a href="http://www.amazon.com/dp/0934523355/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0934523355/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 168-169 (in Part 4, unnumbered section entitled “<a href="{{ '/ufo-history/ufo-books/randle-kevin-d-the-october-scenario' | relative_url }}">The October Scenario</a> Revisited”) of the Berkley paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -423,10 +423,10 @@ For discussion of the Fort Itaipu, Brazil sighting see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-the-little-giant-encyclopedia-of-ufos">The Little Giant Encyclopedia of UFOs</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/0806918918/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806918918/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 271 (in Part 3, “UFOs Worldwide”) of the Sterling softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-the-little-giant-encyclopedia-of-ufos' | relative_url }}">The Little Giant Encyclopedia of UFOs</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/0806918918/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806918918/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 271 (in Part 3, “UFOs Worldwide”) of the Sterling softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -434,10 +434,10 @@ For discussion of the Fort Itaipu, Brazil sighting see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sachs-margaret">Sachs, Margaret</a> in her “<a href="/ufo-history/ufo-books/sachs-margaret-the-ufo-encyclopedia">The UFO Encyclopedia</a>“ (<a href="/tags/1980">1980</a> (available <a href="http://www.amazon.com/dp/0399124217/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0399124217/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 44-45 (in an entry entitled “Burns”), 113-114 (in an entry entitled “Fort Itaipu, Brazil”) of the Corgi softback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sachs-margaret' | relative_url }}">Sachs, Margaret</a> in her “<a href="{{ '/ufo-history/ufo-books/sachs-margaret-the-ufo-encyclopedia' | relative_url }}">The UFO Encyclopedia</a>“ (<a href="{{ '/tags/1980' | relative_url }}">1980</a> (available <a href="http://www.amazon.com/dp/0399124217/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0399124217/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 44-45 (in an entry entitled “Burns”), 113-114 (in an entry entitled “Fort Itaipu, Brazil”) of the Corgi softback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -445,10 +445,10 @@ For discussion of the Fort Itaipu, Brazil sighting see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1977">1977</a></p>
+<p><a href="{{ '/tags/1977' | relative_url }}">1977</a></p>
 </td>
 <td valign="top" width="547">
-<p>Smith, Susy in her “<a href="/ufo-history/ufo-books/smith-susy-strangers-from-space">Strangers from Space</a>” (<a href="/tags/1977">1977</a>) (available <a href="http://www.amazon.com/dp/B0006WT710/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0006WT710/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 139 (in Chapter 16) of the Manor paperback edition.</p>
+<p>Smith, Susy in her “<a href="{{ '/ufo-history/ufo-books/smith-susy-strangers-from-space' | relative_url }}">Strangers from Space</a>” (<a href="{{ '/tags/1977' | relative_url }}">1977</a>) (available <a href="http://www.amazon.com/dp/B0006WT710/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0006WT710/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 139 (in Chapter 16) of the Manor paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -456,10 +456,10 @@ For discussion of the Fort Itaipu, Brazil sighting see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/spencer-john">Spencer, John</a> in his “<a href="/ufo-history/ufo-books/spencer-john-the-ufo-encyclopedia">The UFO Encyclopedia</a>” (<a href="/tags/1991">1991</a>) (available <a href="http://www.amazon.com/dp/0380768879/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380768879/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 119 (in an entry entitled “Fort Itaipu, Brazil”) of the Guild hardback edition (with the same page numbering in the Avon softcover edition) at page 135 of the Headline paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">Spencer, John</a> in his “<a href="{{ '/ufo-history/ufo-books/spencer-john-the-ufo-encyclopedia' | relative_url }}">The UFO Encyclopedia</a>” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/0380768879/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380768879/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 119 (in an entry entitled “Fort Itaipu, Brazil”) of the Guild hardback edition (with the same page numbering in the Avon softcover edition) at page 135 of the Headline paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -467,10 +467,10 @@ For discussion of the Fort Itaipu, Brazil sighting see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/spencer-john">Spencer, John</a> in his “<a href="/ufo-history/ufo-books/spencer-john-ufos-the-definitive-casebook">UFOs: The Definitive Casebook</a>” (<a href="/tags/1991">1991</a>) (available <a href="http://www.amazon.com/dp/B000S52VNG/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000S52VNG/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 184 (in the unnumbered section entitled “South America”, in the chapter entitled “Database”) of the Hamlyn hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">Spencer, John</a> in his “<a href="{{ '/ufo-history/ufo-books/spencer-john-ufos-the-definitive-casebook' | relative_url }}">UFOs: The Definitive Casebook</a>” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/B000S52VNG/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000S52VNG/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 184 (in the unnumbered section entitled “South America”, in the chapter entitled “Database”) of the Hamlyn hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -478,10 +478,10 @@ For discussion of the Fort Itaipu, Brazil sighting see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1969">1969</a></p>
+<p><a href="{{ '/tags/1969' | relative_url }}">1969</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/trench-brinsley-le-poer">Trench, Brinsley Le Poer</a> in his “Operation Earth” (<a href="/tags/1969">1969</a>) (available <a href="http://www.amazon.com/dp/0426134508/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0426134508/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 70 (in Chapter 11) of the Tandem paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/trench-brinsley-le-poer' | relative_url }}">Trench, Brinsley Le Poer</a> in his “Operation Earth” (<a href="{{ '/tags/1969' | relative_url }}">1969</a>) (available <a href="http://www.amazon.com/dp/0426134508/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0426134508/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 70 (in Chapter 11) of the Tandem paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -489,10 +489,10 @@ For discussion of the Fort Itaipu, Brazil sighting see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1965">1965</a></p>
+<p><a href="{{ '/tags/1965' | relative_url }}">1965</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/vallee-jacques">Vallee, Jacques</a> in his “<a href="/ufo-history/ufo-books/vallee-jacques-anatomy-of-a-phenomenon-ufos-in-space">Anatomy of a Phenomenon</a>” (<a href="/tags/1965">1965</a>) (available <a href="http://www.amazon.com/dp/0345270754/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0345270754/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 239-240 of the <a href="/tags/1966">1966</a> revised and enlarged Ace Star paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/vallee-jacques' | relative_url }}">Vallee, Jacques</a> in his “<a href="{{ '/ufo-history/ufo-books/vallee-jacques-anatomy-of-a-phenomenon-ufos-in-space' | relative_url }}">Anatomy of a Phenomenon</a>” (<a href="{{ '/tags/1965' | relative_url }}">1965</a>) (available <a href="http://www.amazon.com/dp/0345270754/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0345270754/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 239-240 of the <a href="{{ '/tags/1966' | relative_url }}">1966</a> revised and enlarged Ace Star paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -500,10 +500,10 @@ For discussion of the Fort Itaipu, Brazil sighting see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/von-buttlar-johannes">Von Buttlar, Johannes</a> in his “<a href="/ufo-history/ufo-books/von-buttlar-johannes-the-ufo-phenomenon">The UFO Phenomenon</a>” (<a href="/tags/1980">1980</a>) (available <a href="http://www.amazon.com/dp/0352306823/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0352306823/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 120-121 (in Chapter 10) of the Book Club Associates hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/von-buttlar-johannes' | relative_url }}">Von Buttlar, Johannes</a> in his “<a href="{{ '/ufo-history/ufo-books/von-buttlar-johannes-the-ufo-phenomenon' | relative_url }}">The UFO Phenomenon</a>” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) (available <a href="http://www.amazon.com/dp/0352306823/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0352306823/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 120-121 (in Chapter 10) of the Book Club Associates hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -511,10 +511,10 @@ For discussion of the Fort Itaipu, Brazil sighting see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1975">1975</a></p>
+<p><a href="{{ '/tags/1975' | relative_url }}">1975</a></p>
 </td>
 <td valign="top" width="547">
-<p>Zarkon in his “The Zarkon Principle” (<a href="/tags/1975">1975</a>) (available <a href="http://www.amazon.com/dp/0905018001/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0905018001/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 51-52 (in Chapter 7) of the Everest paperback edition.</p>
+<p>Zarkon in his “The Zarkon Principle” (<a href="{{ '/tags/1975' | relative_url }}">1975</a>) (available <a href="http://www.amazon.com/dp/0905018001/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0905018001/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 51-52 (in Chapter 7) of the Everest paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -526,7 +526,7 @@ For discussion of the Fort Itaipu, Brazil sighting see the following:
 <a id="other"></a>
 ### Other Material
 
-Listed as Project Blue Book Case Number 5119 on the redacted US National Archives and Records Administration (“NARA”) microfilm records of Project Blue Book, released to the National Archives in [1975](/tags/1975) – see National Archives Microfilm Publication T1206 roll number 1. An image of the relevant index page has been given the unique Page ID (“PID”) of NARA-PBB1-176 (page 176 of 1014) at the link below.
+Listed as Project Blue Book Case Number 5119 on the redacted US National Archives and Records Administration (“NARA”) microfilm records of Project Blue Book, released to the National Archives in [1975]({{ '/tags/1975' | relative_url }}) – see National Archives Microfilm Publication T1206 roll number 1. An image of the relevant index page has been given the unique Page ID (“PID”) of NARA-PBB1-176 (page 176 of 1014) at the link below.
 
 Listed (without a Project Blue Book Case Number) on the unredacted Maxwell Air Force Base (“Maxwell”) microfilm records of Project Blue Book – see Maxwell microfilm roll number 30,363. An image of the relevant index page has been given the unique Page ID (“PID”) of MAXW-PBB2-411 (page 411 of 1352) at the link below.
 

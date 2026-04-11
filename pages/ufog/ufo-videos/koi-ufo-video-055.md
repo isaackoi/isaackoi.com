@@ -42,15 +42,15 @@ This video begins by showing a tumbling disc-shaped object falling towards the g
 
 Screen shots from the video are included below for ease of identification:
 
-![](/images/stories/ufo_videos/video055_1.JPG)
+![]({{ '/images/stories/ufo_videos/video055_1.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video055_2.JPG)
+![]({{ '/images/stories/ufo_videos/video055_2.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video055_3.JPG)
+![]({{ '/images/stories/ufo_videos/video055_3.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video055_4.JPG)
+![]({{ '/images/stories/ufo_videos/video055_4.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video055_5.JPG)
+![]({{ '/images/stories/ufo_videos/video055_5.JPG' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this video
@@ -68,7 +68,7 @@ This video in fact shows the fall of the Genesis capsule.
 
 The Genesis spacecraft was a NASA sample return probe. It was the first U.S. mission since Apollo to return extraterrestrial material to Earth for study. Its mission was to collect samples of solar wind and return them to Earth. It was the first mission to return material from beyond the orbit of the Moon. Genesis was launched on August 8, 2001, and crash-landed in Utah on September 8, 2004, after a design flaw prevented the deployment of its drogue parachute.
 
-![](/images/stories/ufo_videos/video055_11.JPG)
+![]({{ '/images/stories/ufo_videos/video055_11.JPG' | relative_url }})
 
 The Genesis mission was the fifth in NASA's "Discovery" missions. The others were Mars Pathfinder, Near Earth Asteroid Rendezvous (NEAR), Lunar Prospector and Stardust.
 
@@ -78,15 +78,15 @@ After the point of expected drogue deployment, the sample return capsule began t
 
 Detail of the failure, and of the return capsule, were given in the ["Genesis Mishap Investigation Board Report" (by Michael Ryschkewitsch, Chairman et als - 13 June 2006)](http://www.nasa.gov/pdf/149414main_Genesis_MIB.pdf), which included the following images of the capsule and the planned deployment of its drogue parachute:
 
-![](/images/stories/ufo_videos/video055_6.JPG)
+![]({{ '/images/stories/ufo_videos/video055_6.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video055_7.JPG)
+![]({{ '/images/stories/ufo_videos/video055_7.JPG' | relative_url }})
 
 Numerous websites include details of the failure of Genesis sample return capsule's chute to open, including [CNN's website](http://edition.cnn.com/2004/TECH/space/09/08/genesis.entry.cnn/index.html?eref=sitesearch)and the [Space Today Online's website](http://www.spacetoday.org/SolSys/Sun/Genesis.html):
 
-![](/images/stories/ufo_videos/video055_10.JPG)
+![]({{ '/images/stories/ufo_videos/video055_10.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video055_8.JPG)
+![]({{ '/images/stories/ufo_videos/video055_8.JPG' | relative_url }})
 
 Prior to the re-entry,[NASA had created a webpage about the expected "star-spangled entrance"](http://science.nasa.gov/science-news/science-at-nasa/2004/03sep_genesisreentry/) of the Genesis sample return capsule and a "Hollywood ending" to the Genesis mission. That webpage had included the following:
 
@@ -94,7 +94,7 @@ Prior to the re-entry,[NASA had created a webpage about the expected "star-spang
 
 That NASA webpage had included a artist's rendering of the helicopter which was expected to snag the Genesis capsule from mid-air:
 
-![](/images/stories/ufo_videos/video055_9.JPG)
+![]({{ '/images/stories/ufo_videos/video055_9.JPG' | relative_url }})
 
 Notably, the audio to this "UFO" video itself clearly discusses the absence of a "drogue chute" (i.e. a parachute) - which was a fairly heavy clue that this object was not being perceived as an alien spaceship but rather something that was expected to have a parachute.
 
@@ -135,4 +135,4 @@ Relevant discussions on the AboveTopSecret.com forum include the following:
 
 2010 (January) discussion entitled "[US Military shoots down disk](http://www.abovetopsecret.com/forum/thread535978/pg1)"
 
-![](/images/stories/ufo_videos/video055_3d.jpg)
+![]({{ '/images/stories/ufo_videos/video055_3d.jpg' | relative_url }})

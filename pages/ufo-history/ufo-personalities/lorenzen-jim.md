@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/lorenzen_jim_2.jpg"}
 ---
 
-![lorenzen_jim_2](/images/stories/ufo_personalities/lorenzen_jim_2.jpg)
+![lorenzen_jim_2]({{ '/images/stories/ufo_personalities/lorenzen_jim_2.jpg' | relative_url }})
 
 *Jim Lorenzen*
 
@@ -36,34 +36,34 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1967">1967</a></p>
+<p><a href="{{ '/tags/1967' | relative_url }}">1967</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/lorenzen-coral-e">Lorenzen, Coral</a> and <a href="/ufo-history/ufo-personalities/lorenzen-jim">Lorenzen, Jim</a> “<a href="/ufo-history/ufo-books/lorenzen-coral-and-lorenzen-jim-flying-saucer-occupants">Flying Saucer Occupants</a>” (<a href="/tags/1967">1967</a>) (available <a href="http://www.amazon.com/dp/B0006BQ02U/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0006BQ02U/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/lorenzen-coral-e' | relative_url }}">Lorenzen, Coral</a> and <a href="{{ '/ufo-history/ufo-personalities/lorenzen-jim' | relative_url }}">Lorenzen, Jim</a> “<a href="{{ '/ufo-history/ufo-books/lorenzen-coral-and-lorenzen-jim-flying-saucer-occupants' | relative_url }}">Flying Saucer Occupants</a>” (<a href="{{ '/tags/1967' | relative_url }}">1967</a>) (available <a href="http://www.amazon.com/dp/B0006BQ02U/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0006BQ02U/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1969">1969</a></p>
+<p><a href="{{ '/tags/1969' | relative_url }}">1969</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/lorenzen-coral-e">Lorenzen, Coral</a> and <a href="/ufo-history/ufo-personalities/lorenzen-jim">Lorenzen, Jim</a> “<a href="/ufo-history/ufo-books/lorenzen-coral-and-lorenzen-jim-ufos-the-whole-story">UFOs: The Whole Story</a>” (<a href="/tags/1969">1969</a>) (available <a href="http://www.amazon.com/dp/B000IW5ULY/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000IW5ULY/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/lorenzen-coral-e' | relative_url }}">Lorenzen, Coral</a> and <a href="{{ '/ufo-history/ufo-personalities/lorenzen-jim' | relative_url }}">Lorenzen, Jim</a> “<a href="{{ '/ufo-history/ufo-books/lorenzen-coral-and-lorenzen-jim-ufos-the-whole-story' | relative_url }}">UFOs: The Whole Story</a>” (<a href="{{ '/tags/1969' | relative_url }}">1969</a>) (available <a href="http://www.amazon.com/dp/B000IW5ULY/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000IW5ULY/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1976">1976</a></p>
+<p><a href="{{ '/tags/1976' | relative_url }}">1976</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/lorenzen-coral-e">Lorenzen, Coral</a> and <a href="/ufo-history/ufo-personalities/lorenzen-jim">Lorenzen, Jim</a> “<a href="/ufo-history/ufo-books/lorenzen-coral-and-lorenzen-jim-encounters-with-ufo-occupants">Encounters with UFO Occupants</a>” (<a href="/tags/1976">1976</a>) (available <a href="http://www.amazon.com/dp/0425030938/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0425030938/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/lorenzen-coral-e' | relative_url }}">Lorenzen, Coral</a> and <a href="{{ '/ufo-history/ufo-personalities/lorenzen-jim' | relative_url }}">Lorenzen, Jim</a> “<a href="{{ '/ufo-history/ufo-books/lorenzen-coral-and-lorenzen-jim-encounters-with-ufo-occupants' | relative_url }}">Encounters with UFO Occupants</a>” (<a href="{{ '/tags/1976' | relative_url }}">1976</a>) (available <a href="http://www.amazon.com/dp/0425030938/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0425030938/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1977">1977</a></p>
+<p><a href="{{ '/tags/1977' | relative_url }}">1977</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/lorenzen-coral-e">Lorenzen, Coral</a> and <a href="/ufo-history/ufo-personalities/lorenzen-jim">Lorenzen, Jim</a> “<a href="/ufo-history/ufo-books/lorenzen-coral-and-lorenzen-jim-abducted-confrontations-with-beings-from-outer-space">Abducted! : Confrontations with Beings from Outer Space</a>” (<a href="/tags/1977">1977</a>) (available <a href="http://www.amazon.com/dp/0425035018/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0425035018/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/lorenzen-coral-e' | relative_url }}">Lorenzen, Coral</a> and <a href="{{ '/ufo-history/ufo-personalities/lorenzen-jim' | relative_url }}">Lorenzen, Jim</a> “<a href="{{ '/ufo-history/ufo-books/lorenzen-coral-and-lorenzen-jim-abducted-confrontations-with-beings-from-outer-space' | relative_url }}">Abducted! : Confrontations with Beings from Outer Space</a>” (<a href="{{ '/tags/1977' | relative_url }}">1977</a>) (available <a href="http://www.amazon.com/dp/0425035018/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0425035018/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>
@@ -87,7 +87,7 @@ The table below includes references to relevant discussions in UFO/SETI books no
 
 Many of the tables of references on this website are considerably longer than the references to books found on most other UFO websites. Indeed, some are probably the longest that have been collated in relation to some events and personalities. I hope that these tables are found to be a useful contribution to UFOlogy.
 
-For discussion of [Jim Lorenzen](/ufo-history/ufo-personalities/lorenzen-jim) see the following:
+For discussion of [Jim Lorenzen]({{ '/ufo-history/ufo-personalities/lorenzen-jim' | relative_url }}) see the following:
 
 <table border="1" cellpadding="0" cellspacing="0" class="sortable" data-sortable="true" id="sortabletable">
 <thead>
@@ -107,10 +107,10 @@ For discussion of [Jim Lorenzen](/ufo-history/ufo-personalities/lorenzen-jim) se
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1988">1988</a></p>
+<p><a href="{{ '/tags/1988' | relative_url }}">1988</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/boyd-robert-d">Boyd, Robert D</a> in his “International Who’s Who in Ufology Directory” (<a href="/tags/1988">1988</a>) at pages 7-9 of the PMT Publishing softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/boyd-robert-d' | relative_url }}">Boyd, Robert D</a> in his “International Who’s Who in Ufology Directory” (<a href="{{ '/tags/1988' | relative_url }}">1988</a>) at pages 7-9 of the PMT Publishing softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -118,10 +118,10 @@ For discussion of [Jim Lorenzen](/ufo-history/ufo-personalities/lorenzen-jim) se
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) in Volume 2:L-Z at pages 583-584 (in an entry entitled “<a href="/ufo-history/ufo-personalities/lorenzen-coral-e">Lorenzen, Coral E</a> Lightner (1925-<a href="/tags/1988">1988</a>) and Leslie James (Jim) Lorenzen (1922-<a href="/tags/1986">1986</a>)”) of the Omnigraphics hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition' | relative_url }}">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) in Volume 2:L-Z at pages 583-584 (in an entry entitled “<a href="{{ '/ufo-history/ufo-personalities/lorenzen-coral-e' | relative_url }}">Lorenzen, Coral E</a> Lightner (1925-<a href="{{ '/tags/1988' | relative_url }}">1988</a>) and Leslie James (Jim) Lorenzen (1922-<a href="{{ '/tags/1986' | relative_url }}">1986</a>)”) of the Omnigraphics hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -129,10 +129,10 @@ For discussion of [Jim Lorenzen](/ufo-history/ufo-personalities/lorenzen-jim) se
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sachs-margaret">Sachs, Margaret</a> in her “<a href="/ufo-history/ufo-books/sachs-margaret-the-ufo-encyclopedia">The UFO Encyclopedia</a>“ (<a href="/tags/1980">1980</a> (available <a href="http://www.amazon.com/dp/0399124217/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0399124217/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 181 (in an entry entitled “Lorenzen, Leslie James ‘Jim’ ”) of the Corgi softback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sachs-margaret' | relative_url }}">Sachs, Margaret</a> in her “<a href="{{ '/ufo-history/ufo-books/sachs-margaret-the-ufo-encyclopedia' | relative_url }}">The UFO Encyclopedia</a>“ (<a href="{{ '/tags/1980' | relative_url }}">1980</a> (available <a href="http://www.amazon.com/dp/0399124217/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0399124217/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 181 (in an entry entitled “Lorenzen, Leslie James ‘Jim’ ”) of the Corgi softback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -140,10 +140,10 @@ For discussion of [Jim Lorenzen](/ufo-history/ufo-personalities/lorenzen-jim) se
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/story-ronald">Story, Ronald</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 310-311 (in an entry entitled “Lorenzen, L J”) of the New American Library softcover edition, at pages 303-304 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Story, Ronald</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 310-311 (in an entry entitled “Lorenzen, L J”) of the New American Library softcover edition, at pages 303-304 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -151,10 +151,10 @@ For discussion of [Jim Lorenzen](/ufo-history/ufo-personalities/lorenzen-jim) se
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/story-ronald">Story, Ronald</a> in “<a href="/ufo-history/ufo-books/story-ronald-editor-and-green-j-richard-consulting-editor-the-encyclopedia-of-ufos">The Encyclopedia of UFOs</a>” (<a href="/tags/1980">1980</a>) edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a> (available <a href="http://www.amazon.com/dp/0385136773/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0385136773/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 214-215 (in an entry entitled “Lorenzen, L[eslie] J[ames]) of the NEL hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Story, Ronald</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-editor-and-green-j-richard-consulting-editor-the-encyclopedia-of-ufos' | relative_url }}">The Encyclopedia of UFOs</a>” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a> (available <a href="http://www.amazon.com/dp/0385136773/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0385136773/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 214-215 (in an entry entitled “Lorenzen, L[eslie] J[ames]) of the NEL hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -162,10 +162,10 @@ For discussion of [Jim Lorenzen](/ufo-history/ufo-personalities/lorenzen-jim) se
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/story-ronald">Story, Ronald</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pagess 371-373 (in an entry entitled “Lorenzen, L J”) of the Robinson softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Story, Ronald</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pagess 371-373 (in an entry entitled “Lorenzen, L J”) of the Robinson softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>

@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/hill-norton_lord_1.jpg"}
 ---
 
-![hill-norton_lord_1](/images/stories/ufo_personalities/hill-norton_lord_1.jpg)
+![hill-norton_lord_1]({{ '/images/stories/ufo_personalities/hill-norton_lord_1.jpg' | relative_url }})
 
 *Lord Hill-Norton*
 
@@ -39,7 +39,7 @@ The table below includes references to relevant discussions in UFO/SETI books no
 
 Many of the tables of references on this website are considerably longer than the references to books found on most other UFO websites. Indeed, some are probably the longest that have been collated in relation to some events and personalities. I hope that these tables are found to be a useful contribution to UFOlogy.
 
-For discussion of [Hill Norton, Lord](/ufo-history/ufo-personalities/hill-norton-lord) see the following:
+For discussion of [Hill Norton, Lord]({{ '/ufo-history/ufo-personalities/hill-norton-lord' | relative_url }}) see the following:
 
 <table border="1" cellpadding="0" cellspacing="0" class="sortable" data-sortable="true" id="sortabletable">
 <thead>
@@ -59,10 +59,10 @@ For discussion of [Hill Norton, Lord](/ufo-history/ufo-personalities/hill-norton
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2007">2007</a></p>
+<p><a href="{{ '/tags/2007' | relative_url }}">2007</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clarke-david">Clarke, David</a> and <a href="/ufo-history/ufo-personalities/roberts-andy">Roberts, Andy</a> in their “<a href="/ufo-history/ufo-books/clarke-david-and-roberts-andy-flying-saucerers">Flying Saucerers : A social history of UFOlogy</a>” (<a href="/tags/2007">2007</a>) (available <a href="http://www.amazon.com/dp/1905646003/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1905646003/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 137-138 (in Chapter 8) of the Alternative Albion softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clarke-david' | relative_url }}">Clarke, David</a> and <a href="{{ '/ufo-history/ufo-personalities/roberts-andy' | relative_url }}">Roberts, Andy</a> in their “<a href="{{ '/ufo-history/ufo-books/clarke-david-and-roberts-andy-flying-saucerers' | relative_url }}">Flying Saucerers : A social history of UFOlogy</a>” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (available <a href="http://www.amazon.com/dp/1905646003/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1905646003/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 137-138 (in Chapter 8) of the Alternative Albion softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -70,10 +70,10 @@ For discussion of [Hill Norton, Lord](/ufo-history/ufo-personalities/hill-norton
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1987">1987</a></p>
+<p><a href="{{ '/tags/1987' | relative_url }}">1987</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/good-timothy">Good, Timothy</a> in his “<a href="/ufo-history/ufo-books/good-timothy-above-top-secret">Above Top Secret</a>” (<a href="/tags/1987">1987</a>) (available <a href="http://www.amazon.com/dp/0688092020/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0688092020/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 93-94 (in Chapter 4), 101, 122 (in Chapter 5) of the Sidgwick &amp; Jackson hardback edition (with the same page numbering in the Guild Publishing hardback edition and the Grafton paperback edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/good-timothy' | relative_url }}">Good, Timothy</a> in his “<a href="{{ '/ufo-history/ufo-books/good-timothy-above-top-secret' | relative_url }}">Above Top Secret</a>” (<a href="{{ '/tags/1987' | relative_url }}">1987</a>) (available <a href="http://www.amazon.com/dp/0688092020/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0688092020/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 93-94 (in Chapter 4), 101, 122 (in Chapter 5) of the Sidgwick &amp; Jackson hardback edition (with the same page numbering in the Guild Publishing hardback edition and the Grafton paperback edition).</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -81,10 +81,10 @@ For discussion of [Hill Norton, Lord](/ufo-history/ufo-personalities/hill-norton
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/good-timothy">Good, Timothy</a> in his “<a href="/ufo-history/ufo-books/good-timothy-beyond-top-secret">Beyond Top Secret</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/0283062452/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0283062452/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 74-75 (in Chapter 4), 85-86, 98 (in Chapter 5) of the Sidgwick &amp; Jackson hardback edition (with the same page numbering in the Pan paperback edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/good-timothy' | relative_url }}">Good, Timothy</a> in his “<a href="{{ '/ufo-history/ufo-books/good-timothy-beyond-top-secret' | relative_url }}">Beyond Top Secret</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/0283062452/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0283062452/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 74-75 (in Chapter 4), 85-86, 98 (in Chapter 5) of the Sidgwick &amp; Jackson hardback edition (with the same page numbering in the Pan paperback edition).</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>
@@ -92,10 +92,10 @@ For discussion of [Hill Norton, Lord](/ufo-history/ufo-personalities/hill-norton
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/greer-steven">Greer, Steven</a> in his “<a href="/ufo-history/ufo-books/greer-steven-disclosure-military-and-government-witnesses-reveal-the-greatest-secrets-in-modern-history">Disclosure : Military and Government Witnesses Reveal the Greatest Secrets in Modern History</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/0967323819/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0967323819/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 305-307 (in Section 4) of the Crossing Point softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/greer-steven' | relative_url }}">Greer, Steven</a> in his “<a href="{{ '/ufo-history/ufo-books/greer-steven-disclosure-military-and-government-witnesses-reveal-the-greatest-secrets-in-modern-history' | relative_url }}">Disclosure : Military and Government Witnesses Reveal the Greatest Secrets in Modern History</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/0967323819/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0967323819/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 305-307 (in Section 4) of the Crossing Point softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -103,10 +103,10 @@ For discussion of [Hill Norton, Lord](/ufo-history/ufo-personalities/hill-norton
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2006">2006</a></p>
+<p><a href="{{ '/tags/2006' | relative_url }}">2006</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/greer-steven">Greer, Steven</a> in his “<a href="/ufo-history/ufo-books/greer-steven-hidden-truth-forbidden-knowledge">Hidden Truth – Forbidden Knowledge</a>” (<a href="/tags/2006">2006</a>) (available <a href="http://www.amazon.com/dp/0967323827/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0967323827/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 182-183 (in Chapter 25) of the Crossing Point softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/greer-steven' | relative_url }}">Greer, Steven</a> in his “<a href="{{ '/ufo-history/ufo-books/greer-steven-hidden-truth-forbidden-knowledge' | relative_url }}">Hidden Truth – Forbidden Knowledge</a>” (<a href="{{ '/tags/2006' | relative_url }}">2006</a>) (available <a href="http://www.amazon.com/dp/0967323827/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0967323827/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 182-183 (in Chapter 25) of the Crossing Point softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -114,10 +114,10 @@ For discussion of [Hill Norton, Lord](/ufo-history/ufo-personalities/hill-norton
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p>Missler, Chuck and Eastman, Mark in their “<a href="/ufo-history/ufo-books/missler-chuck-and-eastman-mark-alien-encounters">Alien Encounters: The Secret behind the UFO Phenomenon</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1578210615/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1578210615/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 258 (in Chapter 12) of the Koinonia House softcover edition.</p>
+<p>Missler, Chuck and Eastman, Mark in their “<a href="{{ '/ufo-history/ufo-books/missler-chuck-and-eastman-mark-alien-encounters' | relative_url }}">Alien Encounters: The Secret behind the UFO Phenomenon</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1578210615/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1578210615/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 258 (in Chapter 12) of the Koinonia House softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -125,10 +125,10 @@ For discussion of [Hill Norton, Lord](/ufo-history/ufo-personalities/hill-norton
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/pope-nick">Pope, Nick</a> in his “<a href="/ufo-history/ufo-books/pope-nick-open-skies-closed-minds">Open Skies, Closed Minds</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/0684816644/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684816644/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 39 (in Chapter 2), 54 (in Chapter 3) of the Simon and Schuster hardback edition, with the same page numbering in the Pocket Books paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/pope-nick' | relative_url }}">Pope, Nick</a> in his “<a href="{{ '/ufo-history/ufo-books/pope-nick-open-skies-closed-minds' | relative_url }}">Open Skies, Closed Minds</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/0684816644/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684816644/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 39 (in Chapter 2), 54 (in Chapter 3) of the Simon and Schuster hardback edition, with the same page numbering in the Pocket Books paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -136,10 +136,10 @@ For discussion of [Hill Norton, Lord](/ufo-history/ufo-personalities/hill-norton
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2004">2004</a></p>
+<p><a href="{{ '/tags/2004' | relative_url }}">2004</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/wheen-francis">Wheen, Francis</a> in his “<a href="/ufo-history/ufo-books/wheen-francis-how-mumbo-jumbo-conquered-the-world">How Mumbo-Jumbo Conquered The World</a>” (<a href="/tags/2004">2004</a>) (available <a href="http://www.amazon.com/dp/158648348X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/158648348X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 137 (in Chapter 5) of the Harper Perennial softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/wheen-francis' | relative_url }}">Wheen, Francis</a> in his “<a href="{{ '/ufo-history/ufo-books/wheen-francis-how-mumbo-jumbo-conquered-the-world' | relative_url }}">How Mumbo-Jumbo Conquered The World</a>” (<a href="{{ '/tags/2004' | relative_url }}">2004</a>) (available <a href="http://www.amazon.com/dp/158648348X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/158648348X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 137 (in Chapter 5) of the Harper Perennial softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

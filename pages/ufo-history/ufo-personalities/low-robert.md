@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/no_avatar.jpg"}
 ---
 
-![](/images/stories/no_avatar.jpg)
+![]({{ '/images/stories/no_avatar.jpg' | relative_url }})
 
 *Image needed*
 
@@ -57,10 +57,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1968">1968</a></p>
+<p><a href="{{ '/tags/1968' | relative_url }}">1968</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/saunders-david-r">Saunders, David R</a> and Harkins, R Roger in their “<a href="/ufo-history/ufo-books/saunders-david-r-and-harkins-r-roger-ufos-yes">UFOs? Yes!</a>” (<a href="/tags/1968">1968</a>) (available <a href="http://www.amazon.com/dp/B000LBSNHU/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000LBSNHU/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 128-135 (in Chapter 12) of the Signet paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/saunders-david-r' | relative_url }}">Saunders, David R</a> and Harkins, R Roger in their “<a href="{{ '/ufo-history/ufo-books/saunders-david-r-and-harkins-r-roger-ufos-yes' | relative_url }}">UFOs? Yes!</a>” (<a href="{{ '/tags/1968' | relative_url }}">1968</a>) (available <a href="http://www.amazon.com/dp/B000LBSNHU/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000LBSNHU/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 128-135 (in Chapter 12) of the Signet paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>8</p>
@@ -68,10 +68,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/dolan-richard">Dolan, Richard</a> M in his “<a href="/ufo-history/ufo-books/dolan-richard-ufos-and-the-national-security-state-volume-1-1941-1973">UFOs and the National Security State: Volume 1: 1941-1973</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/1571743170/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1571743170/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 112 (in Chapter 3) of the Keyhole softcover edition, at page 66 of the <a href="/tags/2002">2002</a> revised Hampton Road softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dolan-richard' | relative_url }}">Dolan, Richard</a> M in his “<a href="{{ '/ufo-history/ufo-books/dolan-richard-ufos-and-the-national-security-state-volume-1-1941-1973' | relative_url }}">UFOs and the National Security State: Volume 1: 1941-1973</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/1571743170/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1571743170/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 112 (in Chapter 3) of the Keyhole softcover edition, at page 66 of the <a href="{{ '/tags/2002' | relative_url }}">2002</a> revised Hampton Road softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

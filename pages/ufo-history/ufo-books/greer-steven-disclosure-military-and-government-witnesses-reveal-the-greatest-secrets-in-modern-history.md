@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0967323819.jpg"}
 book: {"identifiers": ["0967323819"], "primary_isbn": "0967323819", "cover_image": "/book-covers/0967323819.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Steven Greer](/ufo-history/ufo-personalities/greer-steven)'s book “[Disclosure: Military and Government Witnesses Reveal the Greatest Secrets in Modern History](/ufo-history/ufo-books/greer-steven-disclosure-military-and-government-witnesses-reveal-the-greatest-secrets-in-modern-history)” ([2001](/tags/2001)) (available [on Amazon USA](http://www.amazon.com/dp/0967323819/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0967323819/?&tag=ufot-21))
+Brief review to be added of [Steven Greer]({{ '/ufo-history/ufo-personalities/greer-steven' | relative_url }})'s book “[Disclosure: Military and Government Witnesses Reveal the Greatest Secrets in Modern History]({{ '/ufo-history/ufo-books/greer-steven-disclosure-military-and-government-witnesses-reveal-the-greatest-secrets-in-modern-history' | relative_url }})” ([2001]({{ '/tags/2001' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0967323819/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0967323819/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

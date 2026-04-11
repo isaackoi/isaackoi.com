@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/1931044325.jpg"}
 book: {"identifiers": ["1931044325"], "primary_isbn": "1931044325", "cover_image": "/book-covers/1931044325.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Colin Bennett](/ufo-history/ufo-personalities/bennett-colin)'s book “[Looking for Orthon](/ufo-history/ufo-books/bennett-colin-looking-for-orthon)” ([2001](/tags/2001)) (available [on Amazon USA](http://www.amazon.com/dp/1931044325/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1931044325/?&tag=ufot-21))
+Brief review to be added of [Colin Bennett]({{ '/ufo-history/ufo-personalities/bennett-colin' | relative_url }})'s book “[Looking for Orthon]({{ '/ufo-history/ufo-books/bennett-colin-looking-for-orthon' | relative_url }})” ([2001]({{ '/tags/2001' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1931044325/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1931044325/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -52,10 +52,10 @@ Many of the tables of references on this website are considerably longer than th
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/michell-john">Michell, John</a> in <a href="/ufo-history/ufo-personalities/bennett-colin">Colin Bennett</a>’s “<a href="/ufo-history/ufo-books/bennett-colin-looking-for-orthon">Looking for Orthon</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/1931044325/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1931044325/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 8-9 (in the Foreword) of the Paraview softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/michell-john' | relative_url }}">Michell, John</a> in <a href="{{ '/ufo-history/ufo-personalities/bennett-colin' | relative_url }}">Colin Bennett</a>’s “<a href="{{ '/ufo-history/ufo-books/bennett-colin-looking-for-orthon' | relative_url }}">Looking for Orthon</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/1931044325/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1931044325/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 8-9 (in the Foreword) of the Paraview softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

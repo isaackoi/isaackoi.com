@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/nickell_joe_1.jpg"}
 ---
 
-![nickell_joe_1](/images/stories/ufo_personalities/nickell_joe_1.jpg)
+![nickell_joe_1]({{ '/images/stories/ufo_personalities/nickell_joe_1.jpg' | relative_url }})
 
 *Joe Nickell*
 
@@ -36,34 +36,34 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/nickell-joe">Nickell, Joe</a> and Fischer, John F “<a href="/ufo-history/ufo-books/nickell-joe-and-fischer-john-f-mysterious-realms">Mysterious Realms</a>” (<a href="/tags/1992">1992</a>) (available <a href="http://www.amazon.com/dp/0879757655/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879757655/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/nickell-joe' | relative_url }}">Nickell, Joe</a> and Fischer, John F “<a href="{{ '/ufo-history/ufo-books/nickell-joe-and-fischer-john-f-mysterious-realms' | relative_url }}">Mysterious Realms</a>” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="http://www.amazon.com/dp/0879757655/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879757655/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/nickell-joe">Nickell, Joe</a> and Karr, Barry and Genoni, Tom (Ed.) “<a href="/ufo-history/ufo-books/nickell-joe-and-karr-barry-and-genoni-tom-ed-the-outer-edge-classic-investigations-of-the-paranormal">The Outer Edge : Classic Investigations of the Paranormal</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/B00233OCYC/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B00233OCYC/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/nickell-joe' | relative_url }}">Nickell, Joe</a> and Karr, Barry and Genoni, Tom (Ed.) “<a href="{{ '/ufo-history/ufo-books/nickell-joe-and-karr-barry-and-genoni-tom-ed-the-outer-edge-classic-investigations-of-the-paranormal' | relative_url }}">The Outer Edge : Classic Investigations of the Paranormal</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/B00233OCYC/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B00233OCYC/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/frazier-kendrick">Frazier, Kendrick</a> and <a href="/ufo-history/ufo-personalities/nickell-joe">Nickell, Joseph</a> (Ed.) “<a href="/ufo-history/ufo-books/frazier-kendrick-and-nickell-joseph-ed-the-ufo-invasion">The UFO Invasion</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1573921319/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573921319/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/frazier-kendrick' | relative_url }}">Frazier, Kendrick</a> and <a href="{{ '/ufo-history/ufo-personalities/nickell-joe' | relative_url }}">Nickell, Joseph</a> (Ed.) “<a href="{{ '/ufo-history/ufo-books/frazier-kendrick-and-nickell-joseph-ed-the-ufo-invasion' | relative_url }}">The UFO Invasion</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1573921319/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573921319/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/nickell-joe">Nickell, Joe</a> “<a href="/ufo-history/ufo-books/nickell-joe-investigating-the-paranormal">Investigating the Paranormal</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/B000N6K1SW/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000N6K1SW/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/nickell-joe' | relative_url }}">Nickell, Joe</a> “<a href="{{ '/ufo-history/ufo-books/nickell-joe-investigating-the-paranormal' | relative_url }}">Investigating the Paranormal</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/B000N6K1SW/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000N6K1SW/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>
@@ -87,7 +87,7 @@ The table below includes references to relevant discussions in UFO/SETI books no
 
 Many of the tables of references on this website are considerably longer than the references to books found on most other UFO websites. Indeed, some are probably the longest that have been collated in relation to some events and personalities. I hope that these tables are found to be a useful contribution to UFOlogy.
 
-For discussion of [Joe Nickell](/ufo-history/ufo-personalities/nickell-joe) see the following:
+For discussion of [Joe Nickell]({{ '/ufo-history/ufo-personalities/nickell-joe' | relative_url }}) see the following:
 
 <table border="1" cellpadding="0" cellspacing="0" class="sortable" data-sortable="true" id="sortabletable">
 <thead>
@@ -107,10 +107,10 @@ For discussion of [Joe Nickell](/ufo-history/ufo-personalities/nickell-joe) see 
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2008">2008</a></p>
+<p><a href="{{ '/tags/2008' | relative_url }}">2008</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/friedman-stanton">Friedman, Stanton</a> in his “<a href="/ufo-history/ufo-books/friedman-stanton-flying-saucers-and-science-a-scientist-investigates-the-mysteries-of-ufos">Flying Saucers and Science : A Scientist Investigates the Mysteries of UFOs</a>” (<a href="/tags/2008">2008</a>) (available <a href="http://www.amazon.com/dp/1601630115/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1601630115/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 223-228 (in Chapter 9) of the New Page softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/friedman-stanton' | relative_url }}">Friedman, Stanton</a> in his “<a href="{{ '/ufo-history/ufo-books/friedman-stanton-flying-saucers-and-science-a-scientist-investigates-the-mysteries-of-ufos' | relative_url }}">Flying Saucers and Science : A Scientist Investigates the Mysteries of UFOs</a>” (<a href="{{ '/tags/2008' | relative_url }}">2008</a>) (available <a href="http://www.amazon.com/dp/1601630115/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1601630115/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 223-228 (in Chapter 9) of the New Page softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>6</p>
@@ -118,10 +118,10 @@ For discussion of [Joe Nickell](/ufo-history/ufo-personalities/nickell-joe) see 
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/story-ronald">Story, Ronald</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 393-394 (in an entry entitled “<a href="/ufo-history/ufo-personalities/nickell-joe">Nickell, Joe</a>”) of the New American Library softcover edition, at pages 384-385 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Story, Ronald</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 393-394 (in an entry entitled “<a href="{{ '/ufo-history/ufo-personalities/nickell-joe' | relative_url }}">Nickell, Joe</a>”) of the New American Library softcover edition, at pages 384-385 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -129,10 +129,10 @@ For discussion of [Joe Nickell](/ufo-history/ufo-personalities/nickell-joe) see 
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/story-ronald">Story, Ronald</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 476-477 (in an entry entitled “<a href="/ufo-history/ufo-personalities/nickell-joe">Nickell, Joe</a>”) of the Robinson softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Story, Ronald</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 476-477 (in an entry entitled “<a href="{{ '/ufo-history/ufo-personalities/nickell-joe' | relative_url }}">Nickell, Joe</a>”) of the Robinson softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

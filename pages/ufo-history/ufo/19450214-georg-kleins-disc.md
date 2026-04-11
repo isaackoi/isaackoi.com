@@ -13,13 +13,13 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
 Georg Klein claims to have seens a test flight of a flying disc near Prague on 14 February 1945.
 
-The claims were made in an interview given to Zurich newspaper Tages-Anzeiger in November [1954](/tags/1954).
+The claims were made in an interview given to Zurich newspaper Tages-Anzeiger in November [1954]({{ '/tags/1954' | relative_url }}).
 
 1. [Web Resources](#web)
 
@@ -59,10 +59,10 @@ For discussion of Klein see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/dolan-richard">Dolan, Richard</a> M in his “<a href="/ufo-history/ufo-books/dolan-richard-ufos-and-the-national-security-state-volume-1-1941-1973">UFOs and the National Security State: Volume 1: 1941-1973</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/1571743170/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1571743170/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 36 (in Chapter 1) of the Keyhole softcover edition, omitted from the <a href="/tags/2002">2002</a> revised Hampton Road softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dolan-richard' | relative_url }}">Dolan, Richard</a> M in his “<a href="{{ '/ufo-history/ufo-books/dolan-richard-ufos-and-the-national-security-state-volume-1-1941-1973' | relative_url }}">UFOs and the National Security State: Volume 1: 1941-1973</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/1571743170/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1571743170/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 36 (in Chapter 1) of the Keyhole softcover edition, omitted from the <a href="{{ '/tags/2002' | relative_url }}">2002</a> revised Hampton Road softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -70,10 +70,10 @@ For discussion of Klein see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/harbinson-w-a">Harbinson, W A</a> in his “Projekt Saucer” (<a href="/tags/1995">1995</a>) at pages 73, 75-76, 79, 81 (in Chapter 4) of the Box Tree hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/harbinson-w-a' | relative_url }}">Harbinson, W A</a> in his “Projekt Saucer” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) at pages 73, 75-76, 79, 81 (in Chapter 4) of the Box Tree hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>
@@ -81,10 +81,10 @@ For discussion of Klein see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/harbinson-w-a">Harbinson, W A</a> in his “<a href="/ufo-history/ufo-books/harbinson-w-a-projekt-saucer-the-case-for-man-made-flying-saucers">Projekt Saucer : The Case for Man-Made Flying Saucers</a>“ (<a href="/tags/1980">1980</a>) at pages 595, 596 (in the Author’s Note) of the Corgi paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/harbinson-w-a' | relative_url }}">Harbinson, W A</a> in his “<a href="{{ '/ufo-history/ufo-books/harbinson-w-a-projekt-saucer-the-case-for-man-made-flying-saucers' | relative_url }}">Projekt Saucer : The Case for Man-Made Flying Saucers</a>“ (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) at pages 595, 596 (in the Author’s Note) of the Corgi paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -92,10 +92,10 @@ For discussion of Klein see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p>Hyland, Gary in his “<a href="/ufo-history/ufo-books/hyland-gary-blue-fires-the-lost-secrets-of-nazi-technology">Blue Fires: The Lost Secrets of Nazi Technology</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/0747271461/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0747271461/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 95-96 (in Chapter 4), 104 (in Chapter 5) of the Headline hardback edition.</p>
+<p>Hyland, Gary in his “<a href="{{ '/ufo-history/ufo-books/hyland-gary-blue-fires-the-lost-secrets-of-nazi-technology' | relative_url }}">Blue Fires: The Lost Secrets of Nazi Technology</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/0747271461/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0747271461/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 95-96 (in Chapter 4), 104 (in Chapter 5) of the Headline hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -103,10 +103,10 @@ For discussion of Klein see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/matthews-tim">Matthews, Tim</a> in his “<a href="/ufo-history/ufo-books/matthews-tim-ufo-revelation">UFO Revelation</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0713727330/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713727330/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 31-32 (in Chapter 1) of the Blandford softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/matthews-tim' | relative_url }}">Matthews, Tim</a> in his “<a href="{{ '/ufo-history/ufo-books/matthews-tim-ufo-revelation' | relative_url }}">UFO Revelation</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0713727330/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713727330/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 31-32 (in Chapter 1) of the Blandford softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -114,10 +114,10 @@ For discussion of Klein see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2005">2005</a></p>
+<p><a href="{{ '/tags/2005' | relative_url }}">2005</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/redfern-nicholas">Redfern, Nicholas</a> in his “<a href="/ufo-history/ufo-books/redfern-nicholas-body-snatchers-in-the-desert">Body Snatchers in the Desert: The Horrible Truth at the heart of the Roswell Story</a>” (<a href="/tags/2005">2005</a>) (available <a href="http://www.amazon.com/dp/0743497538/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743497538/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 146-147 (in Chapter 12) of the Paraview Pocket Books softback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/redfern-nicholas' | relative_url }}">Redfern, Nicholas</a> in his “<a href="{{ '/ufo-history/ufo-books/redfern-nicholas-body-snatchers-in-the-desert' | relative_url }}">Body Snatchers in the Desert: The Horrible Truth at the heart of the Roswell Story</a>” (<a href="{{ '/tags/2005' | relative_url }}">2005</a>) (available <a href="http://www.amazon.com/dp/0743497538/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743497538/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 146-147 (in Chapter 12) of the Paraview Pocket Books softback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -125,10 +125,10 @@ For discussion of Klein see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/swartz-tim">Swartz, Tim</a> in his “Evil Agenda of the Secret Government: Exposing Project Paper Clip and the Underground UFO Bases of Hitler’s Elite Scientific Corps” (<a href="/tags/1999">1999</a>) at pages 76, 78 (in Chapter 5) of the Global Communications softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/swartz-tim' | relative_url }}">Swartz, Tim</a> in his “Evil Agenda of the Secret Government: Exposing Project Paper Clip and the Underground UFO Bases of Hitler’s Elite Scientific Corps” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) at pages 76, 78 (in Chapter 5) of the Global Communications softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

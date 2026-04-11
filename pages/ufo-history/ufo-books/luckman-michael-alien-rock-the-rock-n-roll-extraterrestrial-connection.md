@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/074346673X.jpg"}
 book: {"identifiers": ["074346673X"], "primary_isbn": "074346673X", "cover_image": "/book-covers/074346673X.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Michael Luckman](/ufo-history/ufo-personalities/luckman-michael)'s book “[Alien Rock: The Rock ‘n’ Roll Extraterrestrial Connection](/ufo-history/ufo-books/luckman-michael-alien-rock-the-rock-n-roll-extraterrestrial-connection)” ([2005](/tags/2005)) (available [on Amazon USA](http://www.amazon.com/dp/074346673X/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/074346673X/?&tag=ufot-21))
+Brief review to be added of [Michael Luckman]({{ '/ufo-history/ufo-personalities/luckman-michael' | relative_url }})'s book “[Alien Rock: The Rock ‘n’ Roll Extraterrestrial Connection]({{ '/ufo-history/ufo-books/luckman-michael-alien-rock-the-rock-n-roll-extraterrestrial-connection' | relative_url }})” ([2005]({{ '/tags/2005' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/074346673X/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/074346673X/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

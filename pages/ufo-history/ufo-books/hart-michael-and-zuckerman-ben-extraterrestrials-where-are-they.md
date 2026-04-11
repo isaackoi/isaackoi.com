@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0521448034.jpg"}
 book: {"identifiers": ["0521448034"], "primary_isbn": "0521448034", "cover_image": "/book-covers/0521448034.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of “[Extraterrestrials: Where are they?](/ufo-history/ufo-books/hart-michael-and-zuckerman-ben-extraterrestrials-where-are-they)” ([1982](/tags/1982)) (available [on Amazon USA](http://www.amazon.com/dp/0521448034/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0521448034/?&tag=ufot-21)) by [Michael Hart](/ufo-history/ufo-personalities/hart-michael) and [Ben Zuckerman](/ufo-history/ufo-personalities/zuckerman-ben)
+Brief review to be added of “[Extraterrestrials: Where are they?]({{ '/ufo-history/ufo-books/hart-michael-and-zuckerman-ben-extraterrestrials-where-are-they' | relative_url }})” ([1982]({{ '/tags/1982' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0521448034/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0521448034/?&tag=ufot-21)) by [Michael Hart]({{ '/ufo-history/ufo-personalities/hart-michael' | relative_url }}) and [Ben Zuckerman]({{ '/ufo-history/ufo-personalities/zuckerman-ben' | relative_url }})
 
 1. [Web Resources](#web)
 

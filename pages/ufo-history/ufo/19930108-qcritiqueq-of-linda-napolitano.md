@@ -13,11 +13,11 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
-A memo entitled “A Critique of Budd Hopkins’ Case of the UFO Abduction of Linda Napolitano” (dated 8 January [1993](/tags/1993)) was circulated by Joseph J Stefula, Richard D Butler, and George P Hansen.
+A memo entitled “A Critique of Budd Hopkins’ Case of the UFO Abduction of Linda Napolitano” (dated 8 January [1993]({{ '/tags/1993' | relative_url }})) was circulated by Joseph J Stefula, Richard D Butler, and George P Hansen.
 
 Sections below
 
@@ -51,10 +51,10 @@ For discussion of this memo see:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1993">1993</a></p>
+<p><a href="{{ '/tags/1993' | relative_url }}">1993</a></p>
 </td>
 <td valign="top" width="549">
-<p><a href="/ufo-history/ufo-personalities/hopkins-budd">Hopkins, Budd</a> in his article “House Of Cards : The Butler / Hansen / Stefula Critique Of The Cortile Case”, International UFO Reporter, Volume 18, Number 2 (<a href="/tags/1993">1993</a>, March/April). Text of article available online at:</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hopkins-budd' | relative_url }}">Hopkins, Budd</a> in his article “House Of Cards : The Butler / Hansen / Stefula Critique Of The Cortile Case”, International UFO Reporter, Volume 18, Number 2 (<a href="{{ '/tags/1993' | relative_url }}">1993</a>, March/April). Text of article available online at:</p>
 <p><a href="http://www.shoah.plus.com/801/abduct/rebutl.html">http://www.shoah.plus.com/801/abduct/rebutl.html</a></p>
 </td>
 <td valign="top" width="50">
@@ -63,10 +63,10 @@ For discussion of this memo see:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2002">2002</a></p>
+<p><a href="{{ '/tags/2002' | relative_url }}">2002</a></p>
 </td>
 <td valign="top" width="549">
-<p><a href="/ufo-history/ufo-personalities/moseley-james">Moseley, James</a> and <a href="/ufo-history/ufo-personalities/pflock-karl-t">Pflock, Karl</a> in their “<a href="/ufo-history/ufo-books/moseley-james-and-pflock-karl-shockingly-close-to-the-truth">Shockingly Close to the Truth!</a>” (<a href="/tags/2002">2002</a>) (available <a href="http://www.amazon.com/dp/1573929913/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573929913/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 305, 307-308 (in Chapter 16) of the Prometheus hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/moseley-james' | relative_url }}">Moseley, James</a> and <a href="{{ '/ufo-history/ufo-personalities/pflock-karl-t' | relative_url }}">Pflock, Karl</a> in their “<a href="{{ '/ufo-history/ufo-books/moseley-james-and-pflock-karl-shockingly-close-to-the-truth' | relative_url }}">Shockingly Close to the Truth!</a>” (<a href="{{ '/tags/2002' | relative_url }}">2002</a>) (available <a href="http://www.amazon.com/dp/1573929913/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573929913/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 305, 307-308 (in Chapter 16) of the Prometheus hardback edition.</p>
 </td>
 <td valign="top" width="50">
 <p>3</p>
@@ -74,10 +74,10 @@ For discussion of this memo see:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="549">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-the-complete-book-of-aliens-and-abductions">The Complete Book of Aliens and Abductions</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0749921005/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0749921005/ref=nosim?tag=ufot-21">on Amazon UK</a>) a page 50 (in Part 1) of the Piatkus hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-the-complete-book-of-aliens-and-abductions' | relative_url }}">The Complete Book of Aliens and Abductions</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0749921005/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0749921005/ref=nosim?tag=ufot-21">on Amazon UK</a>) a page 50 (in Part 1) of the Piatkus hardback edition.</p>
 </td>
 <td valign="top" width="50">
 <p>1</p>
@@ -85,10 +85,10 @@ For discussion of this memo see:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="549">
-<p>Smith, Angela Thompson in her “Diary Of An Abduction” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/1571742018/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1571742018/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 213-214 (in Chapter 12) of the Hampton Roads softcover edition.</p>
+<p>Smith, Angela Thompson in her “Diary Of An Abduction” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/1571742018/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1571742018/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 213-214 (in Chapter 12) of the Hampton Roads softcover edition.</p>
 </td>
 <td valign="top" width="50">
 <p>2</p>
@@ -100,6 +100,6 @@ For discussion of this memo see:
 <a id="other"></a>
 ### Other Material
 
-Memo republished in *Third Eyes Only*, issue number 8, January [1993](/tags/1993) at pages 10-34
+Memo republished in *Third Eyes Only*, issue number 8, January [1993]({{ '/tags/1993' | relative_url }}) at pages 10-34
 
 Please use the comments section below to share references to any particularly interesting relevant articles.

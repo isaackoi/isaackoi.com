@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0099406020.jpg"}
 book: {"identifiers": ["0099406020"], "primary_isbn": "0099406020", "cover_image": "/book-covers/0099406020.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Timothy Good](/ufo-history/ufo-personalities/good-timothy)'s book “[Unearthly Disclosure](/ufo-history/ufo-books/good-timothy-unearthly-disclosure)” ([2000](/tags/2000)) (available [on Amazon USA](http://www.amazon.com/dp/0099406020/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0099406020/?&tag=ufot-21))
+Brief review to be added of [Timothy Good]({{ '/ufo-history/ufo-personalities/good-timothy' | relative_url }})'s book “[Unearthly Disclosure]({{ '/ufo-history/ufo-books/good-timothy-unearthly-disclosure' | relative_url }})” ([2000]({{ '/tags/2000' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0099406020/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0099406020/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/hill-norton-lord">Hill Norton, Lord</a> in <a href="/ufo-history/ufo-personalities/good-timothy">Timothy Good</a>’s “<a href="/ufo-history/ufo-books/good-timothy-unearthly-disclosure">Unearthly Disclosure</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/0099406020/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0099406020/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages xiii-xv (in the Foreword) of the Century hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hill-norton-lord' | relative_url }}">Hill Norton, Lord</a> in <a href="{{ '/ufo-history/ufo-personalities/good-timothy' | relative_url }}">Timothy Good</a>’s “<a href="{{ '/ufo-history/ufo-books/good-timothy-unearthly-disclosure' | relative_url }}">Unearthly Disclosure</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/0099406020/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0099406020/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages xiii-xv (in the Foreword) of the Century hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>

@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/boyd_lyle_1.jpg"}
 ---
 
-![boyd_lyle_1](/images/stories/ufo_personalities/boyd_lyle_1.jpg)
+![boyd_lyle_1]({{ '/images/stories/ufo_personalities/boyd_lyle_1.jpg' | relative_url }})
 
 *Lyle Boyd*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1963">1963</a></p>
+<p><a href="{{ '/tags/1963' | relative_url }}">1963</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/menzel-donald-h">Menzel, Donald H</a> and <a href="/ufo-history/ufo-personalities/boyd-lyle">Boyd, Lyle</a> “<a href="/ufo-history/ufo-books/menzel-donald-h-and-boyd-lyle-the-world-of-flying-saucers">The World of Flying Saucers</a>” (<a href="/tags/1963">1963</a>) (available <a href="http://www.amazon.com/dp/B0015NVBB8/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0015NVBB8/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/menzel-donald-h' | relative_url }}">Menzel, Donald H</a> and <a href="{{ '/ufo-history/ufo-personalities/boyd-lyle' | relative_url }}">Boyd, Lyle</a> “<a href="{{ '/ufo-history/ufo-books/menzel-donald-h-and-boyd-lyle-the-world-of-flying-saucers' | relative_url }}">The World of Flying Saucers</a>” (<a href="{{ '/tags/1963' | relative_url }}">1963</a>) (available <a href="http://www.amazon.com/dp/B0015NVBB8/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0015NVBB8/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>
@@ -85,10 +85,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1968">1968</a></p>
+<p><a href="{{ '/tags/1968' | relative_url }}">1968</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/lorenzen-coral-e">Lorenzen, Coral</a> and <a href="/ufo-history/ufo-personalities/lorenzen-jim">Lorenzen, Jim</a> “<a href="/ufo-history/ufo-books/lorenzen-coral-ufos-over-the-americas">UFOs over the Americas</a>” (<a href="/tags/1968">1968</a>) (available <a href="http://www.amazon.com/dp/B00005X1IY/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B00005X1IY/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 7 (in the Introduction) of the Signet paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/lorenzen-coral-e' | relative_url }}">Lorenzen, Coral</a> and <a href="{{ '/ufo-history/ufo-personalities/lorenzen-jim' | relative_url }}">Lorenzen, Jim</a> “<a href="{{ '/ufo-history/ufo-books/lorenzen-coral-ufos-over-the-americas' | relative_url }}">UFOs over the Americas</a>” (<a href="{{ '/tags/1968' | relative_url }}">1968</a>) (available <a href="http://www.amazon.com/dp/B00005X1IY/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B00005X1IY/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 7 (in the Introduction) of the Signet paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

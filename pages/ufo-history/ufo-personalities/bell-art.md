@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/bell_art_2.jpg"}
 ---
 
-![bell_art_2](/images/stories/ufo_personalities/bell_art_2.jpg)
+![bell_art_2]({{ '/images/stories/ufo_personalities/bell_art_2.jpg' | relative_url }})
 
 *Art Bell*
 
@@ -59,10 +59,10 @@ For discussion of Art Bell see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2004">2004</a></p>
+<p><a href="{{ '/tags/2004' | relative_url }}">2004</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/birnes-william">Birnes, William</a> in his “<a href="/ufo-history/ufo-books/birnes-william-the-ufo-magazine-ufo-encyclopedia">The UFO Magazine UFO Encyclopedia</a>” (<a href="/tags/2004">2004</a>) (available <a href="http://www.amazon.com/dp/0743466748/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743466748/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 32-33 (in an entry entitled “Bell, Art”), 232-233 (in an entry entitled “Noory, George”) of the Pocket Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/birnes-william' | relative_url }}">Birnes, William</a> in his “<a href="{{ '/ufo-history/ufo-books/birnes-william-the-ufo-magazine-ufo-encyclopedia' | relative_url }}">The UFO Magazine UFO Encyclopedia</a>” (<a href="{{ '/tags/2004' | relative_url }}">2004</a>) (available <a href="http://www.amazon.com/dp/0743466748/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743466748/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 32-33 (in an entry entitled “Bell, Art”), 232-233 (in an entry entitled “Noory, George”) of the Pocket Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -70,10 +70,10 @@ For discussion of Art Bell see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/hansen-terry">Hansen, Terry</a> in his “<a href="/ufo-history/ufo-books/hansen-terry-the-missing-times-news-media-complicity-in-the-ufo-cover-up">The Missing Times : News Media Complicity in the UFO Cover-Up</a> : News Media Complicity in the UFO Cover -Up” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/0738836125/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0738836125/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 279-280 (in Chapter 7) of the Xlibris softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hansen-terry' | relative_url }}">Hansen, Terry</a> in his “<a href="{{ '/ufo-history/ufo-books/hansen-terry-the-missing-times-news-media-complicity-in-the-ufo-cover-up' | relative_url }}">The Missing Times : News Media Complicity in the UFO Cover-Up</a> : News Media Complicity in the UFO Cover -Up” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/0738836125/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0738836125/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 279-280 (in Chapter 7) of the Xlibris softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -81,10 +81,10 @@ For discussion of Art Bell see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p>Mannion, Michael in his “<a href="/ufo-history/ufo-books/mannion-michael-project-mindshift">Project Mindshift</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0871318563/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0871318563/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 249 (in Chapter 10) of the Evans hardback edition.</p>
+<p>Mannion, Michael in his “<a href="{{ '/ufo-history/ufo-books/mannion-michael-project-mindshift' | relative_url }}">Project Mindshift</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0871318563/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0871318563/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 249 (in Chapter 10) of the Evans hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -92,10 +92,10 @@ For discussion of Art Bell see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p>Missler, Chuck and Eastman, Mark in their “<a href="/ufo-history/ufo-books/missler-chuck-and-eastman-mark-alien-encounters">Alien Encounters: The Secret behind the UFO Phenomenon</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1578210615/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1578210615/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 162-164, 179-180 (in Chapter 8) of the Koinonia House softcover edition.</p>
+<p>Missler, Chuck and Eastman, Mark in their “<a href="{{ '/ufo-history/ufo-books/missler-chuck-and-eastman-mark-alien-encounters' | relative_url }}">Alien Encounters: The Secret behind the UFO Phenomenon</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1578210615/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1578210615/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 162-164, 179-180 (in Chapter 8) of the Koinonia House softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>
@@ -103,10 +103,10 @@ For discussion of Art Bell see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2004">2004</a></p>
+<p><a href="{{ '/tags/2004' | relative_url }}">2004</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/ronson-jon">Ronson, Jon</a> in his “<a href="/ufo-history/ufo-books/ronson-jon-the-men-who-stare-at-goats">The Men Who Stare at Goats</a>” (<a href="/tags/2004">2004</a>) (available <a href="http://www.amazon.com/dp/0330375482/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0330375482/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 102-105, 110-119, 122-123 (in Chapter 6) of the Picador paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/ronson-jon' | relative_url }}">Ronson, Jon</a> in his “<a href="{{ '/ufo-history/ufo-books/ronson-jon-the-men-who-stare-at-goats' | relative_url }}">The Men Who Stare at Goats</a>” (<a href="{{ '/tags/2004' | relative_url }}">2004</a>) (available <a href="http://www.amazon.com/dp/0330375482/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0330375482/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 102-105, 110-119, 122-123 (in Chapter 6) of the Picador paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>16</p>
@@ -114,10 +114,10 @@ For discussion of Art Bell see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Spaceage in its “<a href="/ufo-history/ufo-books/spaceage-ufo-usa-a-travelers-guide">UFO USA - A Traveler's Guide</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0786883960/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0786883960/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 109-110 of the Hyperion softcover edition.</p>
+<p>Spaceage in its “<a href="{{ '/ufo-history/ufo-books/spaceage-ufo-usa-a-travelers-guide' | relative_url }}">UFO USA - A Traveler's Guide</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0786883960/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0786883960/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 109-110 of the Hyperion softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -125,10 +125,10 @@ For discussion of Art Bell see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2005">2005</a></p>
+<p><a href="{{ '/tags/2005' | relative_url }}">2005</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/smith-paul">Smith, Paul</a> in his “<a href="/ufo-history/ufo-books/smith-paul-reading-the-enemys-mind">Reading the Enemy’s Mind</a>” (<a href="/tags/2005">2005</a>) (available <a href="http://www.amazon.com/dp/0312875150/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312875150/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 456, 457-461 of the Forge hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/smith-paul' | relative_url }}">Smith, Paul</a> in his “<a href="{{ '/ufo-history/ufo-books/smith-paul-reading-the-enemys-mind' | relative_url }}">Reading the Enemy’s Mind</a>” (<a href="{{ '/tags/2005' | relative_url }}">2005</a>) (available <a href="http://www.amazon.com/dp/0312875150/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312875150/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 456, 457-461 of the Forge hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>6</p>
@@ -136,10 +136,10 @@ For discussion of Art Bell see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p>Wright, Susan in her “<a href="/ufo-history/ufo-books/wright-susan-ufo-headquarters">UFO Headquarters</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0312193475/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312193475/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 165-166 (in Chapter 9) of the St Martin’s Press softcover edition.</p>
+<p>Wright, Susan in her “<a href="{{ '/ufo-history/ufo-books/wright-susan-ufo-headquarters' | relative_url }}">UFO Headquarters</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0312193475/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312193475/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 165-166 (in Chapter 9) of the St Martin’s Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

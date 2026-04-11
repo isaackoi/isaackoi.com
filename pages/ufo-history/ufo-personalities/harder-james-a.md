@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/harder_james_1.jpg"}
 ---
 
-![harder_james_1](/images/stories/ufo_personalities/harder_james_1.jpg)
+![harder_james_1]({{ '/images/stories/ufo_personalities/harder_james_1.jpg' | relative_url }})
 
 *James A Harder*
 
@@ -59,10 +59,10 @@ For discussion of James A Harder see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/bryan-c-d-b">Bryan, C D B</a> in his “<a href="/ufo-history/ufo-books/bryan-c-d-b-close-encounters-of-the-fourth-kind">Close Encounters of the Fourth Kind</a>: Alien Abduction, UFOs, and the Conference at MIT” (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/0964491702/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0964491702/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 190 (in Chapter 5) of the Weidenfeld &amp; Nicolson hardback edition (with the same page numbering in the Knopf hardback edition and the Penguin Arkana softcover edition) at page 256 of the Orion paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/bryan-c-d-b' | relative_url }}">Bryan, C D B</a> in his “<a href="{{ '/ufo-history/ufo-books/bryan-c-d-b-close-encounters-of-the-fourth-kind' | relative_url }}">Close Encounters of the Fourth Kind</a>: Alien Abduction, UFOs, and the Conference at MIT” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/0964491702/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0964491702/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 190 (in Chapter 5) of the Weidenfeld &amp; Nicolson hardback edition (with the same page numbering in the Knopf hardback edition and the Penguin Arkana softcover edition) at page 256 of the Orion paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -70,10 +70,10 @@ For discussion of James A Harder see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2003">2003</a></p>
+<p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/druffel-ann">Druffel, Ann</a> in her “<a href="/ufo-history/ufo-books/druffel-ann-firestorm-dr-james-e-mcdonalds-fight-for-ufo-science">Firestorm : Dr James E McDonald's Fight for UFO Science</a>” (<a href="/tags/2003">2003</a>) (available <a href="http://www.amazon.com/dp/0926524585/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0926524585/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 239, 241, 243 (in Chapter 9) of the Wild Flower Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/druffel-ann' | relative_url }}">Druffel, Ann</a> in her “<a href="{{ '/ufo-history/ufo-books/druffel-ann-firestorm-dr-james-e-mcdonalds-fight-for-ufo-science' | relative_url }}">Firestorm : Dr James E McDonald's Fight for UFO Science</a>” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) (available <a href="http://www.amazon.com/dp/0926524585/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0926524585/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 239, 241, 243 (in Chapter 9) of the Wild Flower Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -81,10 +81,10 @@ For discussion of James A Harder see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1969">1969</a></p>
+<p><a href="{{ '/tags/1969' | relative_url }}">1969</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fuller-john-g">Fuller, John</a> in his “<a href="/ufo-history/ufo-books/fuller-john-aliens-in-the-skies">Aliens in the Skies</a>” (<a href="/tags/1969">1969</a>) (available <a href="http://www.amazon.com/dp/B000HLWN6Q/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000HLWN6Q/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 131 (in Chapter 5) of the Putnam hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fuller-john-g' | relative_url }}">Fuller, John</a> in his “<a href="{{ '/ufo-history/ufo-books/fuller-john-aliens-in-the-skies' | relative_url }}">Aliens in the Skies</a>” (<a href="{{ '/tags/1969' | relative_url }}">1969</a>) (available <a href="http://www.amazon.com/dp/B000HLWN6Q/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000HLWN6Q/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 131 (in Chapter 5) of the Putnam hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -92,10 +92,10 @@ For discussion of James A Harder see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p>Gansberg, Alan and Gansberg, Judith in their “<a href="/ufo-history/ufo-books/gansberg-alan-and-gansberg-judith-direct-encounters-the-personal-histories-of-ufo-abductees">Direct Encounters: The Personal Histories of UFO Abductees</a>” (<a href="/tags/1980">1980</a>) (available <a href="http://www.amazon.com/dp/0802706398/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0802706398/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 3 (in Chapter 1) of the Walker &amp; Co hardback edition.</p>
+<p>Gansberg, Alan and Gansberg, Judith in their “<a href="{{ '/ufo-history/ufo-books/gansberg-alan-and-gansberg-judith-direct-encounters-the-personal-histories-of-ufo-abductees' | relative_url }}">Direct Encounters: The Personal Histories of UFO Abductees</a>” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) (available <a href="http://www.amazon.com/dp/0802706398/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0802706398/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 3 (in Chapter 1) of the Walker &amp; Co hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -103,10 +103,10 @@ For discussion of James A Harder see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1976">1976</a></p>
+<p><a href="{{ '/tags/1976' | relative_url }}">1976</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/landsburg-alan">Landsburg, Alan</a> in his “<a href="/ufo-history/ufo-books/landsburg-alan-in-search-of-extraterrestrials">In Search of Extraterrestrials</a>” (<a href="/tags/1976">1976</a>) (available <a href="http://www.amazon.com/dp/0553107224/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0553107224/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 119 (in Chapter 9) of the Corgi paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/landsburg-alan' | relative_url }}">Landsburg, Alan</a> in his “<a href="{{ '/ufo-history/ufo-books/landsburg-alan-in-search-of-extraterrestrials' | relative_url }}">In Search of Extraterrestrials</a>” (<a href="{{ '/tags/1976' | relative_url }}">1976</a>) (available <a href="http://www.amazon.com/dp/0553107224/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0553107224/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 119 (in Chapter 9) of the Corgi paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -114,10 +114,10 @@ For discussion of James A Harder see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/pope-nick">Pope, Nick</a> in his “<a href="/ufo-history/ufo-books/pope-nick-the-uninvited">The Uninvited</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0879518782/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879518782/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 62-63 (in Chapter 4) of the Simon and Schuster hardback edition, with the same page numbering in the Pocket Books paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/pope-nick' | relative_url }}">Pope, Nick</a> in his “<a href="{{ '/ufo-history/ufo-books/pope-nick-the-uninvited' | relative_url }}">The Uninvited</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0879518782/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879518782/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 62-63 (in Chapter 4) of the Simon and Schuster hardback edition, with the same page numbering in the Pocket Books paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -125,10 +125,10 @@ For discussion of James A Harder see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randle-kevin">Randle, Kevin</a> D and <a href="/ufo-history/ufo-personalities/estes-russ">Estes, Russ</a> and Cone, William in their “<a href="/ufo-history/ufo-books/randle-kevin-and-estes-russ-and-cone-william-the-abduction-enigma">The Abduction Enigma</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0312867085/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312867085/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 63 (in Chapter 2), 180-191 (in Chapter 12) of the Forge hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randle-kevin' | relative_url }}">Randle, Kevin</a> D and <a href="{{ '/ufo-history/ufo-personalities/estes-russ' | relative_url }}">Estes, Russ</a> and Cone, William in their “<a href="{{ '/ufo-history/ufo-books/randle-kevin-and-estes-russ-and-cone-william-the-abduction-enigma' | relative_url }}">The Abduction Enigma</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0312867085/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312867085/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 63 (in Chapter 2), 180-191 (in Chapter 12) of the Forge hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -136,10 +136,10 @@ For discussion of James A Harder see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/story-ronald">Story, Ronald</a> in “<a href="/ufo-history/ufo-books/story-ronald-editor-and-green-j-richard-consulting-editor-the-encyclopedia-of-ufos">The Encyclopedia of UFOs</a>” (<a href="/tags/1980">1980</a>) edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a> (available <a href="http://www.amazon.com/dp/0385136773/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0385136773/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 163-164 of the NEL hardback edition in an entry entitled “<a href="/ufo-history/ufo-personalities/harder-james-a">Harder, James A</a>[lbert]”.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Story, Ronald</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-editor-and-green-j-richard-consulting-editor-the-encyclopedia-of-ufos' | relative_url }}">The Encyclopedia of UFOs</a>” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a> (available <a href="http://www.amazon.com/dp/0385136773/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0385136773/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 163-164 of the NEL hardback edition in an entry entitled “<a href="{{ '/ufo-history/ufo-personalities/harder-james-a' | relative_url }}">Harder, James A</a>[lbert]”.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

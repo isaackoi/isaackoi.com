@@ -13,7 +13,7 @@ planned_sections: ["1. The relevant image", "2. Stories and claims relating to t
 header: {"preview_image": "/images/stories/alien_photos/koi_ap_16_a.jpg"}
 ---
 
-![](/images/stories/alien_photos/koi_ap_16_a.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_16_a.jpg' | relative_url }})
 
 *Koi Alien Photo 16*
 
@@ -40,9 +40,9 @@ Sections below:
 <a id="image"></a>
 ### 1. The relevant image
 
-![](/images/stories/alien_photos/koi_ap_16_a.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_16_a.jpg' | relative_url }})
 
-![](/images/stories/alien_photos/koi_ap_16_i.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_16_i.jpg' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this image
@@ -62,7 +62,7 @@ The piece is entitled "Highland Park" and it formed part of a series entitled â€
 
 [Charlie White](http://en.wikipedia.org/wiki/Charlie_White_(artist)) is shown below in the photo labelled "koi_ap_16_f":
 
-![](/images/stories/alien_photos/koi_ap_16_f.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_16_f.jpg' | relative_url }})
 
 One article about Charlie White, "The Wizard of Id" by Jenn Shrevewhich appears on the website of Wired Magazine in relation to its February 2004 issue, includes the following:
 
@@ -76,7 +76,7 @@ I emailed Charlie White about this image in 2010. His studio provided the follow
 
 *"Highland Park*is one in a series of nine narrative landscape photographs chronicling an urban overtaking by creatures. The goal of Highland Park was to create an updated version of a 19th century hunting photograph (see [photo below labelled "koi_ap_16_h"] as example) which would often stage the kill at center with the hunting party surrounding it. The title comes from the area of Los Angeles where this event took place, each photograph in the series notes a locationwithin the city and it outlying areas. *Highland Park* is unique within the series as it is the only work that regards the camera and is staged to be a photograph." (Email to Isaac Koi dated 19 December 2010).
 
-![](/images/stories/alien_photos/koi_ap_16_h.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_16_h.jpg' | relative_url }})
 
 The response from Charlie White's studio also included the following:
 
@@ -86,7 +86,7 @@ The "head" shown in the photograph was created by artist and sculptor Jordu Sche
 
 Jordu Schell is shown beow (in the photo labelled "koi_ap_16_g)
 
-![](/images/stories/alien_photos/koi_ap_16_g.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_16_g.jpg' | relative_url }})
 
 Jordu Schell's website includes the following:
 

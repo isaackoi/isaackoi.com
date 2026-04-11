@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/seti_1.jpg"}
 ---
 
-![seti_1](/images/stories/ufo_tags/seti_1.jpg)
+![seti_1]({{ '/images/stories/ufo_tags/seti_1.jpg' | relative_url }})
 
 *SETI funding criticisms*
 

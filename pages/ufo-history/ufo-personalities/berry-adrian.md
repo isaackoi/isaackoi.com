@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/berry_adrian_1.jpg"}
 ---
 
-![berry_adrian_1](/images/stories/ufo_personalities/berry_adrian_1.jpg)
+![berry_adrian_1]({{ '/images/stories/ufo_personalities/berry_adrian_1.jpg' | relative_url }})
 
 *Adrian Berry*
 
@@ -36,26 +36,26 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1974">1974</a></p>
+<p><a href="{{ '/tags/1974' | relative_url }}">1974</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/berry-adrian">Berry, Adrian</a> “The Next Ten Thousand Years”</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/berry-adrian' | relative_url }}">Berry, Adrian</a> “The Next Ten Thousand Years”</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/berry-adrian">Berry, Adrian</a> “<a href="/ufo-history/ufo-books/berry-adrian-from-apes-to-astronauts">From Apes to Astronauts</a>” (<a href="/tags/seti">SETI</a>:)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/berry-adrian' | relative_url }}">Berry, Adrian</a> “<a href="{{ '/ufo-history/ufo-books/berry-adrian-from-apes-to-astronauts' | relative_url }}">From Apes to Astronauts</a>” (<a href="{{ '/tags/seti' | relative_url }}">SETI</a>:)</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/berry-adrian">Berry, Adrian</a> “The Giant Leap”</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/berry-adrian' | relative_url }}">Berry, Adrian</a> “The Giant Leap”</p>
 </td>
 </tr>
 </tbody>
@@ -99,10 +99,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1974">1974</a></p>
+<p><a href="{{ '/tags/1974' | relative_url }}">1974</a></p>
 </td>
 <td valign="top" width="547">
-<p>Patrick Moore in Adrian Berry’s “The Next Ten Thousand Years” (<a href="/tags/1974">1974</a>) (available <a href="http://www.amazon.com/dp/0451616014/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451616014/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 11-14 (in the Introduction) of the Coronet paperback edition.</p>
+<p>Patrick Moore in Adrian Berry’s “The Next Ten Thousand Years” (<a href="{{ '/tags/1974' | relative_url }}">1974</a>) (available <a href="http://www.amazon.com/dp/0451616014/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451616014/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 11-14 (in the Introduction) of the Coronet paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -110,10 +110,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-from-out-of-the-blue">From Out of the Blue</a>" (<a href="/tags/1991">1991</a>) (available <a href="http://www.amazon.com/dp/0938294083/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0938294083/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 188 (in Chapter 19) of the Berkley paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-from-out-of-the-blue' | relative_url }}">From Out of the Blue</a>" (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/0938294083/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0938294083/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 188 (in Chapter 19) of the Berkley paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

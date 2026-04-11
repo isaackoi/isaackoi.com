@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -73,10 +73,10 @@ For discussion of the Disclosure Project presentation see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2006">2006</a></p>
+<p><a href="{{ '/tags/2006' | relative_url }}">2006</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/greer-steven">Greer, Steven</a> in his “<a href="/ufo-history/ufo-books/greer-steven-hidden-truth-forbidden-knowledge">Hidden Truth – Forbidden Knowledge</a>” (<a href="/tags/2006">2006</a>) (available <a href="http://www.amazon.com/dp/0967323827/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0967323827/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 16-17 (in Chapter 1), 198-203 (in Chapter 28) of the Crossing Point softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/greer-steven' | relative_url }}">Greer, Steven</a> in his “<a href="{{ '/ufo-history/ufo-books/greer-steven-hidden-truth-forbidden-knowledge' | relative_url }}">Hidden Truth – Forbidden Knowledge</a>” (<a href="{{ '/tags/2006' | relative_url }}">2006</a>) (available <a href="http://www.amazon.com/dp/0967323827/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0967323827/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 16-17 (in Chapter 1), 198-203 (in Chapter 28) of the Crossing Point softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>8</p>
@@ -84,10 +84,10 @@ For discussion of the Disclosure Project presentation see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2007">2007</a></p>
+<p><a href="{{ '/tags/2007' | relative_url }}">2007</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/harris-paola">Harris, Paola</a> in her “<a href="/ufo-history/ufo-books/harris-paola-how-does-one-speak-to-a-ball-of-light">How does one speak to a ball of light?</a>” (<a href="/tags/2007">2007</a>) (available <a href="http://www.amazon.com/dp/1425994024/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1425994024/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 14, 19 (in Section 1) of the Author House softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/harris-paola' | relative_url }}">Harris, Paola</a> in her “<a href="{{ '/ufo-history/ufo-books/harris-paola-how-does-one-speak-to-a-ball-of-light' | relative_url }}">How does one speak to a ball of light?</a>” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (available <a href="http://www.amazon.com/dp/1425994024/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1425994024/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 14, 19 (in Section 1) of the Author House softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -95,10 +95,10 @@ For discussion of the Disclosure Project presentation see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2002">2002</a></p>
+<p><a href="{{ '/tags/2002' | relative_url }}">2002</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/presley-reg">Presley, Reg</a> in his “<a href="/ufo-history/ufo-books/presley-reg-wild-things-they-dont-tell-us">Wild Things (They Don’t Tell Us)</a>” (<a href="/tags/2002">2002</a>) (available <a href="http://www.amazon.com/dp/184358073X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/184358073X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 255-256 (in Chapter 17) of the Metro hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/presley-reg' | relative_url }}">Presley, Reg</a> in his “<a href="{{ '/ufo-history/ufo-books/presley-reg-wild-things-they-dont-tell-us' | relative_url }}">Wild Things (They Don’t Tell Us)</a>” (<a href="{{ '/tags/2002' | relative_url }}">2002</a>) (available <a href="http://www.amazon.com/dp/184358073X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/184358073X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 255-256 (in Chapter 17) of the Metro hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -106,10 +106,10 @@ For discussion of the Disclosure Project presentation see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2004">2004</a></p>
+<p><a href="{{ '/tags/2004' | relative_url }}">2004</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/salla-michael">Salla, Michael</a> in his “<a href="/ufo-history/ufo-books/salla-michael-exopolitics-political-implications-of-the-extraterrestrial-presence">Exopolitics : Political Implications of the Extraterrestrial Presence</a>” (<a href="/tags/2004">2004</a>) (available <a href="http://www.amazon.com/dp/1893302563/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1893302563/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 1 (in Chapter 1) of the Dandelion Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/salla-michael' | relative_url }}">Salla, Michael</a> in his “<a href="{{ '/ufo-history/ufo-books/salla-michael-exopolitics-political-implications-of-the-extraterrestrial-presence' | relative_url }}">Exopolitics : Political Implications of the Extraterrestrial Presence</a>” (<a href="{{ '/tags/2004' | relative_url }}">2004</a>) (available <a href="http://www.amazon.com/dp/1893302563/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1893302563/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 1 (in Chapter 1) of the Dandelion Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -117,10 +117,10 @@ For discussion of the Disclosure Project presentation see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2003">2003</a></p>
+<p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
-<p>Salter, Daniel M in his “<a href="/ufo-history/ufo-books/salter-daniel-m-life-with-a-cosmos-clearance">Life With a Cosmos Clearance</a>” (<a href="/tags/2003">2003</a>) (available <a href="http://www.amazon.com/dp/1891824376/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1891824376/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages ix-xi (in the article entitled “The Washington Times”), 1-5 (in Chapter 1), 17-19 (in Chapter 2), 64-65 (in Chapter 5), 141-143 (in Chapter 9) of the Light Technology softcover edition.</p>
+<p>Salter, Daniel M in his “<a href="{{ '/ufo-history/ufo-books/salter-daniel-m-life-with-a-cosmos-clearance' | relative_url }}">Life With a Cosmos Clearance</a>” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) (available <a href="http://www.amazon.com/dp/1891824376/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1891824376/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages ix-xi (in the article entitled “The Washington Times”), 1-5 (in Chapter 1), 17-19 (in Chapter 2), 64-65 (in Chapter 5), 141-143 (in Chapter 9) of the Light Technology softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>16</p>

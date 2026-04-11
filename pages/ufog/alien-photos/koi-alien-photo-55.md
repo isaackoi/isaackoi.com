@@ -13,7 +13,7 @@ planned_sections: ["1. The relevant image", "2. Stories and claims relating to t
 header: {"preview_image": "/images/stories/alien_photos/koi_ap_55_a.jpg"}
 ---
 
-![](/images/stories/alien_photos/koi_ap_55_a.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_55_a.jpg' | relative_url }})
 
 *Koi Alien Photo 55*
 
@@ -38,7 +38,7 @@ Sections below:
 <a id="image"></a>
 ### 1. The relevant image
 
-![](/images/stories/alien_photos/koi_ap_55_a.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_55_a.jpg' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this image
@@ -54,7 +54,7 @@ The original version of the photograph is shown below (labelled "koi_ap_55_b").
 
 It is a photograph of an exhibit at the Saint Louis Science Center entitled "Examination of a Child Mummy".
 
-![](/images/stories/alien_photos/koi_ap_55_b.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_55_b.jpg' | relative_url }})
 
 The website for that exhibition ([here](http://erl.wustl.edu/research/imseg/mummy.html)) included the following information:
 

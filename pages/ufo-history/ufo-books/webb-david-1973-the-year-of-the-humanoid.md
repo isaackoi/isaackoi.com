@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/087542001X.jpg"}
 book: {"identifiers": ["B0006CL3G2", "087542001X", "013117424X", "0850304148"], "primary_isbn": "087542001X", "cover_image": "/book-covers/087542001X.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [David Webb](/ufo-history/ufo-personalities/webb-david)'s book “[1973 – The Year of the Humanoid](/ufo-history/ufo-books/webb-david-1973-the-year-of-the-humanoid)” ([1974](/tags/1974)) (available [on Amazon USA](http://www.amazon.com/dp/B0006CL3G2/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B0006CL3G2/?&tag=ufot-21))
+Brief review to be added of [David Webb]({{ '/ufo-history/ufo-personalities/webb-david' | relative_url }})'s book “[1973 – The Year of the Humanoid]({{ '/ufo-history/ufo-books/webb-david-1973-the-year-of-the-humanoid' | relative_url }})” ([1974]({{ '/tags/1974' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/B0006CL3G2/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B0006CL3G2/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1986">1986</a></p>
+<p><a href="{{ '/tags/1986' | relative_url }}">1986</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/andrews-george-c">Andrews, George C</a> in his “<a href="/ufo-history/ufo-books/andrews-george-c-extra-terrestrials-among-us">Extra-Terrestrials Among Us</a>” (<a href="/tags/1986">1986</a>) (available <a href="http://www.amazon.com/dp/087542001X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/087542001X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 93 (in Chapter 3) of the Llewellyn softcover edition, at page 106 of the Llewellyn paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/andrews-george-c' | relative_url }}">Andrews, George C</a> in his “<a href="{{ '/ufo-history/ufo-books/andrews-george-c-extra-terrestrials-among-us' | relative_url }}">Extra-Terrestrials Among Us</a>” (<a href="{{ '/tags/1986' | relative_url }}">1986</a>) (available <a href="http://www.amazon.com/dp/087542001X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/087542001X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 93 (in Chapter 3) of the Llewellyn softcover edition, at page 106 of the Llewellyn paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -65,10 +65,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1981">1981</a></p>
+<p><a href="{{ '/tags/1981' | relative_url }}">1981</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fowler-raymond-e">Fowler, Raymond E</a> in his “<a href="/ufo-history/ufo-books/fowler-raymond-e-casebook-of-a-ufo-investigator">Casebook of a UFO Investigator</a>” (<a href="/tags/1981">1981</a>) (available <a href="http://www.amazon.com/dp/013117424X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/013117424X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 147 (in Chapter 12) of the Prentice-Hall hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fowler-raymond-e' | relative_url }}">Fowler, Raymond E</a> in his “<a href="{{ '/ufo-history/ufo-books/fowler-raymond-e-casebook-of-a-ufo-investigator' | relative_url }}">Casebook of a UFO Investigator</a>” (<a href="{{ '/tags/1981' | relative_url }}">1981</a>) (available <a href="http://www.amazon.com/dp/013117424X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/013117424X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 147 (in Chapter 12) of the Prentice-Hall hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -76,10 +76,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1984">1984</a></p>
+<p><a href="{{ '/tags/1984' | relative_url }}">1984</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/evans-hilary">Evans, Hilary</a> in his “Visions, Apparitions, Alien Visitors” (<a href="/tags/1984">1984</a>) (available <a href="http://www.amazon.com/dp/0850304148/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0850304148/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 18-19 (in the Introduction) of the Book Club Associates hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }}">Evans, Hilary</a> in his “Visions, Apparitions, Alien Visitors” (<a href="{{ '/tags/1984' | relative_url }}">1984</a>) (available <a href="http://www.amazon.com/dp/0850304148/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0850304148/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 18-19 (in the Introduction) of the Book Club Associates hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

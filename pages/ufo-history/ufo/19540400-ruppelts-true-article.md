@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -51,7 +51,7 @@ The table below includes references to relevant discussions in UFO/SETI books no
 
 Many of the tables of references on this website are considerably longer than the references to books found on most other UFO websites. Indeed, some are probably the longest that have been collated in relation to some events and personalities. I hope that these tables are found to be a useful contribution to UFOlogy.
 
-Discussed by [Randles, Jenny](/ufo-history/ufo-personalities/randles-jenny) and [Hough, Peter](/ufo-history/ufo-personalities/hough-peter) in their “[50 Years of UFO Encounters](/ufo-history/ufo-books/randles-jenny-and-hough-peter-50-years-of-ufo-encounters)” ([1996](/tags/1996)) (available [on Amazon USA](http://www.amazon.com/dp/B000NLQNZC/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B000NLQNZC/ref=nosim?tag=ufot-21)) at page 24 (in unnumbered section entitled “[1954](/tags/1954): Aliens Have Landed”) of the Encounters Magazine softcover edition.
+Discussed by [Randles, Jenny]({{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}) and [Hough, Peter]({{ '/ufo-history/ufo-personalities/hough-peter' | relative_url }}) in their “[50 Years of UFO Encounters]({{ '/ufo-history/ufo-books/randles-jenny-and-hough-peter-50-years-of-ufo-encounters' | relative_url }})” ([1996]({{ '/tags/1996' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/B000NLQNZC/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B000NLQNZC/ref=nosim?tag=ufot-21)) at page 24 (in unnumbered section entitled “[1954]({{ '/tags/1954' | relative_url }}): Aliens Have Landed”) of the Encounters Magazine softcover edition.
 
 <a id="other"></a>
 ### Other Material

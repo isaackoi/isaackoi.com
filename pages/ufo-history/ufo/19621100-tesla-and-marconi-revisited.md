@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/seti_1.jpg"}
 ---
 
-![seti_1](/images/stories/ufo_tags/seti_1.jpg)
+![seti_1]({{ '/images/stories/ufo_tags/seti_1.jpg' | relative_url }})
 
 *Tesla and Marconi revisited*
 
@@ -79,10 +79,10 @@ For discussion of this article see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1965">1965</a></p>
+<p><a href="{{ '/tags/1965' | relative_url }}">1965</a></p>
 </td>
 <td valign="top" width="547">
-<p>Allen, Tom in his “The Quest: A Report on Extraterrestrial life " (<a href="/tags/1965">1965</a>) at pages 40-50 (in Chapter 3) of the Chilton hardback edition.</p>
+<p>Allen, Tom in his “The Quest: A Report on Extraterrestrial life " (<a href="{{ '/tags/1965' | relative_url }}">1965</a>) at pages 40-50 (in Chapter 3) of the Chilton hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>11</p>
@@ -90,10 +90,10 @@ For discussion of this article see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1966">1966</a></p>
+<p><a href="{{ '/tags/1966' | relative_url }}">1966</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/edwards-frank">Edwards, Frank</a> in his “<a href="/ufo-history/ufo-books/edwards-frank-flying-saucers-serious-business">Flying Saucers – Serious Business</a>” (<a href="/tags/1966">1966</a>) (available <a href="http://www.amazon.com/dp/B0006BOERI/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0006BOERI/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 75 (in Chapter 6) of the Bantam paperback edition, at pages 81-82 of the Mayflower-Dell paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/edwards-frank' | relative_url }}">Edwards, Frank</a> in his “<a href="{{ '/ufo-history/ufo-books/edwards-frank-flying-saucers-serious-business' | relative_url }}">Flying Saucers – Serious Business</a>” (<a href="{{ '/tags/1966' | relative_url }}">1966</a>) (available <a href="http://www.amazon.com/dp/B0006BOERI/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0006BOERI/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 75 (in Chapter 6) of the Bantam paperback edition, at pages 81-82 of the Mayflower-Dell paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -101,10 +101,10 @@ For discussion of this article see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2007">2007</a></p>
+<p><a href="{{ '/tags/2007' | relative_url }}">2007</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/friedman-stanton">Friedman, Stanton</a> and Marden, Kathleen in their “<a href="/ufo-history/ufo-books/friedman-stanton-and-marden-kathleen-captured-the-betty-and-barney-hill-ufo-experience">Captured! The Betty and Barney Hill UFO Experience</a>” (<a href="/tags/2007">2007</a>) (available <a href="http://www.amazon.com/dp/1564149714/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1564149714/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 61-62 of the New Page Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/friedman-stanton' | relative_url }}">Friedman, Stanton</a> and Marden, Kathleen in their “<a href="{{ '/ufo-history/ufo-books/friedman-stanton-and-marden-kathleen-captured-the-betty-and-barney-hill-ufo-experience' | relative_url }}">Captured! The Betty and Barney Hill UFO Experience</a>” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (available <a href="http://www.amazon.com/dp/1564149714/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1564149714/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 61-62 of the New Page Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -112,10 +112,10 @@ For discussion of this article see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1966">1966</a></p>
+<p><a href="{{ '/tags/1966' | relative_url }}">1966</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fuller-john-g">Fuller, John G</a> in his “<a href="/ufo-history/ufo-books/fuller-john-g-the-interrupted-journey">The Interrupted Journey</a>” (<a href="/tags/1966">1966</a>) (available <a href="http://www.amazon.com/dp/0285624504/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0285624504/ref=nosim?tag=ufot-21">on Amazon UK</a>) at at pages 41-42 (in Chapter 3) of the Dial hardback edition, at page 60 of of the Berkley paperback edition (with the same page numbering in the Dell paperback editions), at pages 64-65 of the revised Corgi paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fuller-john-g' | relative_url }}">Fuller, John G</a> in his “<a href="{{ '/ufo-history/ufo-books/fuller-john-g-the-interrupted-journey' | relative_url }}">The Interrupted Journey</a>” (<a href="{{ '/tags/1966' | relative_url }}">1966</a>) (available <a href="http://www.amazon.com/dp/0285624504/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0285624504/ref=nosim?tag=ufot-21">on Amazon UK</a>) at at pages 41-42 (in Chapter 3) of the Dial hardback edition, at page 60 of of the Berkley paperback edition (with the same page numbering in the Dell paperback editions), at pages 64-65 of the revised Corgi paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

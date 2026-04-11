@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/1558883010.jpg"}
 book: {"identifiers": ["B000RATSR4", "1558883010", "1558887423", "0397317808", "0451204247", "1841196134", "0963916122", "0631135634"], "primary_isbn": "1558883010", "cover_image": "/book-covers/1558883010.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of “[The Edge of Reality](/ufo-history/ufo-books/hynek-allen-and-vallee-jacques-the-edge-of-reality)” ([1975](/tags/1975)) (available [on Amazon USA](http://www.amazon.com/dp/B000RATSR4/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B000RATSR4/?&tag=ufot-21)) by [J Allen Hynek](/ufo-history/ufo-personalities/hynek-j-allen) and [Jacques Vallee](/ufo-history/ufo-personalities/vallee-jacques).
+Brief review to be added of “[The Edge of Reality]({{ '/ufo-history/ufo-books/hynek-allen-and-vallee-jacques-the-edge-of-reality' | relative_url }})” ([1975]({{ '/tags/1975' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/B000RATSR4/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B000RATSR4/?&tag=ufot-21)) by [J Allen Hynek]({{ '/ufo-history/ufo-personalities/hynek-j-allen' | relative_url }}) and [Jacques Vallee]({{ '/ufo-history/ufo-personalities/vallee-jacques' | relative_url }}).
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq">The UFO Encyclopedia: 1st edition</a>: Volume 1 – UFOs in the <a href="/tags/1980">1980</a>s” (<a href="/tags/1990">1990</a>) (available <a href="http://www.amazon.com/dp/1558883010/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558883010/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 139 (in an entry entitled “Hynek, Josef Allen (1910-<a href="/tags/1986">1986</a>)”) of the Apogee hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq' | relative_url }}">The UFO Encyclopedia: 1st edition</a>: Volume 1 – UFOs in the <a href="{{ '/tags/1980' | relative_url }}">1980</a>s” (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) (available <a href="http://www.amazon.com/dp/1558883010/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558883010/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 139 (in an entry entitled “Hynek, Josef Allen (1910-<a href="{{ '/tags/1986' | relative_url }}">1986</a>)”) of the Apogee hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -65,10 +65,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq">The UFO Encyclopedia: 1st edition</a>: Volume 3 – High Strangeness” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/1558887423/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558887423/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 377 (in an entry entitled “Paranormal and Occult Theories about UFOs”) of the Omnigraphics hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq' | relative_url }}">The UFO Encyclopedia: 1st edition</a>: Volume 3 – High Strangeness” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/1558887423/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558887423/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 377 (in an entry entitled “Paranormal and Occult Theories about UFOs”) of the Omnigraphics hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -76,10 +76,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1978">1978</a></p>
+<p><a href="{{ '/tags/1978' | relative_url }}">1978</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/cohen-daniel">Cohen, Daniel</a> in his “<a href="/ufo-history/ufo-books/cohen-daniel-the-world-of-ufos">The World of UFOs</a>” (<a href="/tags/1978">1978</a>) (available <a href="http://www.amazon.com/dp/0397317808/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0397317808/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 136-137 (in Chapter 17) of the Lippincott hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/cohen-daniel' | relative_url }}">Cohen, Daniel</a> in his “<a href="{{ '/ufo-history/ufo-books/cohen-daniel-the-world-of-ufos' | relative_url }}">The World of UFOs</a>” (<a href="{{ '/tags/1978' | relative_url }}">1978</a>) (available <a href="http://www.amazon.com/dp/0397317808/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0397317808/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 136-137 (in Chapter 17) of the Lippincott hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -87,10 +87,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fitzgerald-randall">Fitzgerald, Randall</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 165 (in an entry entitled “Edge of Reality, The”) of the New American Library softcover edition, at page 162 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }}">Fitzgerald, Randall</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 165 (in an entry entitled “Edge of Reality, The”) of the New American Library softcover edition, at page 162 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -98,10 +98,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fitzgerald-randall">Fitzgerald, Randall</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 199 (in an entry entitled “Edge of Reality, The”) of the Robinson softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }}">Fitzgerald, Randall</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 199 (in an entry entitled “Edge of Reality, The”) of the Robinson softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -109,10 +109,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fitzgerald-randall">Fitzgerald, Randall</a> in his “<a href="/ufo-history/ufo-books/fitzgerald-randall-the-cosmic-test-tube">The Cosmic Test Tube</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0963916122/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963916122/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 142-144 (in Section 2) with a one sentence summary at page 371 (in the Guide To Books) of the Moonlake Media softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }}">Fitzgerald, Randall</a> in his “<a href="{{ '/ufo-history/ufo-books/fitzgerald-randall-the-cosmic-test-tube' | relative_url }}">The Cosmic Test Tube</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0963916122/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963916122/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 142-144 (in Section 2) with a one sentence summary at page 371 (in the Guide To Books) of the Moonlake Media softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -120,10 +120,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1985">1985</a></p>
+<p><a href="{{ '/tags/1985' | relative_url }}">1985</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> and <a href="/ufo-history/ufo-personalities/warrington-peter">Warrington, Peter</a> in their “<a href="/ufo-history/ufo-books/randles-jenny-and-warrington-peter-science-and-the-ufos">Science and the UFOs</a> " (<a href="/tags/1985">1985</a>) (available <a href="http://www.amazon.com/dp/0631135634/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0631135634/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 202 (in the Bibliography) of the Blackwell hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> and <a href="{{ '/ufo-history/ufo-personalities/warrington-peter' | relative_url }}">Warrington, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-warrington-peter-science-and-the-ufos' | relative_url }}">Science and the UFOs</a> " (<a href="{{ '/tags/1985' | relative_url }}">1985</a>) (available <a href="http://www.amazon.com/dp/0631135634/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0631135634/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 202 (in the Bibliography) of the Blackwell hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

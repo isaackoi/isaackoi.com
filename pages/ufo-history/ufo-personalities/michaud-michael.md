@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/michaud_michael_2.jpg"}
 ---
 
-![michaud_michael_2](/images/stories/ufo_personalities/michaud_michael_2.jpg)
+![michaud_michael_2]({{ '/images/stories/ufo_personalities/michaud_michael_2.jpg' | relative_url }})
 
 *Michael Michaud*
 
@@ -33,7 +33,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-Discussed by White, Frank in his “[The SETI Factor](/ufo-history/ufo-books/white-frank-the-seti-factor)” ([1990](/tags/1990)) (available [on Amazon USA](http://www.amazon.com/dp/0802711057/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0802711057/ref=nosim?tag=ufot-21)) at page 3 (in Chapter 1), 153-154 (in Chapter 9) of the Walker hardback edition.
+Discussed by White, Frank in his “[The SETI Factor]({{ '/ufo-history/ufo-books/white-frank-the-seti-factor' | relative_url }})” ([1990]({{ '/tags/1990' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0802711057/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0802711057/ref=nosim?tag=ufot-21)) at page 3 (in Chapter 1), 153-154 (in Chapter 9) of the Walker hardback edition.
 
 <a id="other"></a>
 ### Other Material

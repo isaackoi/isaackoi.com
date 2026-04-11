@@ -44,15 +44,15 @@ A copy of the video posted on Youtube in 2007 is entitled "Plane Shot Down Over 
 
 Screen shots from the video are included below for ease of identification:
 
-![](/images/stories/ufo_videos/video009_1.JPG)
+![]({{ '/images/stories/ufo_videos/video009_1.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video009_2.JPG)
+![]({{ '/images/stories/ufo_videos/video009_2.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video009_3.JPG)
+![]({{ '/images/stories/ufo_videos/video009_3.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video009_4.JPG)
+![]({{ '/images/stories/ufo_videos/video009_4.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video009_5.JPG)
+![]({{ '/images/stories/ufo_videos/video009_5.JPG' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this video
@@ -72,13 +72,13 @@ In 2005, Maverick Media's website included a "News" page which included the foll
 
 "17/FEB/05 How safe are we? This blockbuster-style viral shocker, directed by Ben Wheatley and produced by Liz Martin, went live today to amazed audiences worldwide... Were you there? Did you see anything? See the full story on www.how-safe-are-we.com"
 
-![](/images/stories/ufo_videos/video009_6.JPG)
+![]({{ '/images/stories/ufo_videos/video009_6.JPG' | relative_url }})
 
 In 2005, "thethule" posted on a digital art discussion forum that the relevant video was his "latest work on a viral for Atari's new game Act of War", stating that the video was done in "3ds Max in 8 days and the models were bought and slightly modified".
 
 The relevant advertising campaign was also referred to on various websites relating to the advertising industry during 2005, including [one which noted that it was tanked at the top of the viral chart at that time](http://www.adverblog.com/2005/02/28/atari-pushes-too-it-hard/).
 
-![](/images/stories/ufo_videos/video009_7.JPG)
+![]({{ '/images/stories/ufo_videos/video009_7.JPG' | relative_url }})
 
 I contacted Maverick Media during 2005 about this video. They found the discussion of their video on a UFO forum to be "very interesting".
 
@@ -93,4 +93,4 @@ Relevant discussions online include the following:
 
 [http://ufoupdateslist.com/2005/sep/m03-015.shtml](http://ufoupdateslist.com/2005/sep/m03-015.shtml)
 
-![](/images/stories/ufo_videos/video009_2d.jpg)
+![]({{ '/images/stories/ufo_videos/video009_2d.jpg' | relative_url }})

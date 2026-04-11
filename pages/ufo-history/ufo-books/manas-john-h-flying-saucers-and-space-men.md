@@ -14,7 +14,7 @@ header: {"preview_image": null}
 book: {"identifiers": ["B000M4WLJ2"]}
 ---
 
-Brief review to be added of John H Manas' book “[Flying Saucers and Space Men](/ufo-history/ufo-books/manas-john-h-flying-saucers-and-space-men)” ([1962](/tags/1962)) (available [on Amazon USA](http://www.amazon.com/dp/B000M4WLJ2/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B000M4WLJ2/?&tag=ufot-21))
+Brief review to be added of John H Manas' book “[Flying Saucers and Space Men]({{ '/ufo-history/ufo-books/manas-john-h-flying-saucers-and-space-men' | relative_url }})” ([1962]({{ '/tags/1962' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/B000M4WLJ2/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B000M4WLJ2/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

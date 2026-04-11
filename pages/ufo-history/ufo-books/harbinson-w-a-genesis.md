@@ -14,7 +14,7 @@ header: {"preview_image": "https://covers.openlibrary.org/b/isbn/0552115339-L.jp
 book: {"identifiers": ["0552115339"], "primary_isbn": "0552115339", "cover_image": "https://covers.openlibrary.org/b/isbn/0552115339-L.jpg?default=false", "cover_source": "openlibrary"}
 ---
 
-Brief review to be added of [W A Harbinson](/ufo-history/ufo-personalities/harbinson-w-a)'s book “[Genesis](/ufo-history/ufo-books/harbinson-w-a-genesis)” ([1980](/tags/1980)) (available [on Amazon USA](http://www.amazon.com/dp/0552115339/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0552115339/?&tag=ufot-21)).
+Brief review to be added of [W A Harbinson]({{ '/ufo-history/ufo-personalities/harbinson-w-a' | relative_url }})'s book “[Genesis]({{ '/ufo-history/ufo-books/harbinson-w-a-genesis' | relative_url }})” ([1980]({{ '/tags/1980' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0552115339/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0552115339/?&tag=ufot-21)).
 
 1. [Web Resources](#web)
 

@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/bruce_knapp_Errol_1.jpg"}
 ---
 
-![bruce_knapp_Errol_1](/images/stories/ufo_personalities/bruce_knapp_Errol_1.jpg)
+![bruce_knapp_Errol_1]({{ '/images/stories/ufo_personalities/bruce_knapp_Errol_1.jpg' | relative_url }})
 
 *Errol Bruce-Knapp*
 

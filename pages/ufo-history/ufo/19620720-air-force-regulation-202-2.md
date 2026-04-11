@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/documents_1.gif"}
 ---
 
-![documents_1](/images/stories/ufo_tags/documents_1.gif)
+![documents_1]({{ '/images/stories/ufo_tags/documents_1.gif' | relative_url }})
 
 *Air Force Regulation 202-2*
 
@@ -39,7 +39,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-Discussed by Dale White in his “[Is Something Up There?](/ufo-history/ufo-books/white-dale-is-something-up-there)” ([1968](/tags/1968)) (available [on Amazon USA](http://www.amazon.com/dp/B000J5A9OI/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B000J5A9OI/ref=nosim?tag=ufot-21)) at pages 38, 40, 41-42 (in Chapter 3), 137 (in Chapter 12) of the Scholastic Book Services paperback edition.
+Discussed by Dale White in his “[Is Something Up There?]({{ '/ufo-history/ufo-books/white-dale-is-something-up-there' | relative_url }})” ([1968]({{ '/tags/1968' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/B000J5A9OI/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B000J5A9OI/ref=nosim?tag=ufot-21)) at pages 38, 40, 41-42 (in Chapter 3), 137 (in Chapter 12) of the Scholastic Book Services paperback edition.
 
 <a id="other"></a>
 ### Other Material

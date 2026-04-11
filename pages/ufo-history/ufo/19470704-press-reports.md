@@ -13,11 +13,11 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
-On 4 July [1947](/tags/1947), press reports included coverage of statement by the US Air Force on UFOs. That statement suggested causes of sightings may include “large hailstones which might have flattened out and glided a bit”.
+On 4 July [1947]({{ '/tags/1947' | relative_url }}), press reports included coverage of statement by the US Air Force on UFOs. That statement suggested causes of sightings may include “large hailstones which might have flattened out and glided a bit”.
 
 Sections below:
 
@@ -59,10 +59,10 @@ For discussion of this comment see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1975">1975</a></p>
+<p><a href="{{ '/tags/1975' | relative_url }}">1975</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/jacobs-david-michael">Jacobs, David Michael</a> in his “<a href="/ufo-history/ufo-books/jacobs-david-michael-the-ufo-controversy-in-america">The UFO Controversy in America</a>” (<a href="/tags/1975">1975</a>) (available <a href="http://www.amazon.com/dp/0253190061/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0253190061/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 42 (in Chapter 2) of the Indiana hardback edition, page 36 of the Signet paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/jacobs-david-michael' | relative_url }}">Jacobs, David Michael</a> in his “<a href="{{ '/ufo-history/ufo-books/jacobs-david-michael-the-ufo-controversy-in-america' | relative_url }}">The UFO Controversy in America</a>” (<a href="{{ '/tags/1975' | relative_url }}">1975</a>) (available <a href="http://www.amazon.com/dp/0253190061/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0253190061/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 42 (in Chapter 2) of the Indiana hardback edition, page 36 of the Signet paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -70,10 +70,10 @@ For discussion of this comment see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1950">1950</a></p>
+<p><a href="{{ '/tags/1950' | relative_url }}">1950</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/keyhoe-donald-e">Keyhoe, Donald E</a> in his “<a href="/ufo-history/ufo-books/keyhoe-donald-e-the-flying-saucers-are-real">The Flying Saucers are Real</a>” (<a href="/tags/1950">1950</a>) in Chapter 3 at pages 24-25 of the Fawcett Gold Medal paperback edition, which has the same page numbering as the version available on-line at</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/keyhoe-donald-e' | relative_url }}">Keyhoe, Donald E</a> in his “<a href="{{ '/ufo-history/ufo-books/keyhoe-donald-e-the-flying-saucers-are-real' | relative_url }}">The Flying Saucers are Real</a>” (<a href="{{ '/tags/1950' | relative_url }}">1950</a>) in Chapter 3 at pages 24-25 of the Fawcett Gold Medal paperback edition, which has the same page numbering as the version available on-line at</p>
 <p><a href="http://www.nicap.org/fsar/chIII.htm">http://www.nicap.dabsol.co.uk/fsar-chIII.htm</a></p>
 </td>
 <td valign="top" width="52">
@@ -82,10 +82,10 @@ For discussion of this comment see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/peebles-curtis">Peebles, Curtis</a> in his “<a href="/ufo-history/ufo-books/peebles-curtis-watch-the-skies">Watch the Skies!</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/1560983434/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1560983434/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 10 (in Chapter 2, “The Age of Confusion Begins” – in part of a section entitled “The <a href="/tags/1947">1947</a> Flap”) of the Smithsonian hardback edition, at pages 11-12 of the Berkley paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/peebles-curtis' | relative_url }}">Peebles, Curtis</a> in his “<a href="{{ '/ufo-history/ufo-books/peebles-curtis-watch-the-skies' | relative_url }}">Watch the Skies!</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/1560983434/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1560983434/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 10 (in Chapter 2, “The Age of Confusion Begins” – in part of a section entitled “The <a href="{{ '/tags/1947' | relative_url }}">1947</a> Flap”) of the Smithsonian hardback edition, at pages 11-12 of the Berkley paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -93,10 +93,10 @@ For discussion of this comment see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1956">1956</a></p>
+<p><a href="{{ '/tags/1956' | relative_url }}">1956</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/ruppelt-edward">Ruppelt, Edward</a> J in his “<a href="/ufo-history/ufo-books/ruppelt-edward-the-report-on-unidentified-flying-objects">The Report on Unidentified Flying Objects</a>” (<a href="/tags/1956">1956</a>) (available <a href="http://www.amazon.com/dp/B0007FIFVE/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0007FIFVE/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 28 (in Chapter 2) of the original 17 chapter Doubleday hardback edition, at pages 46-47 of the Gollancz hardback edition, at pages 42-43 of the Ace paperback edition, at page 28 of the <a href="/tags/1959">1959</a> revised Doubleday 20 chapter hardback edition, at page 19 of the reprinted Source Books softcover edition. The first of these editions (i.e. the original 17 chapter hardback edition) has the same page numbering as the version available online at: <a href="http://www.nicap.org/rufo/contents2.htm">http://www.nicap.org/rufo/contents2.htm</a></p>
+<p><a href="{{ '/ufo-history/ufo-personalities/ruppelt-edward' | relative_url }}">Ruppelt, Edward</a> J in his “<a href="{{ '/ufo-history/ufo-books/ruppelt-edward-the-report-on-unidentified-flying-objects' | relative_url }}">The Report on Unidentified Flying Objects</a>” (<a href="{{ '/tags/1956' | relative_url }}">1956</a>) (available <a href="http://www.amazon.com/dp/B0007FIFVE/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0007FIFVE/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 28 (in Chapter 2) of the original 17 chapter Doubleday hardback edition, at pages 46-47 of the Gollancz hardback edition, at pages 42-43 of the Ace paperback edition, at page 28 of the <a href="{{ '/tags/1959' | relative_url }}">1959</a> revised Doubleday 20 chapter hardback edition, at page 19 of the reprinted Source Books softcover edition. The first of these editions (i.e. the original 17 chapter hardback edition) has the same page numbering as the version available online at: <a href="http://www.nicap.org/rufo/contents2.htm">http://www.nicap.org/rufo/contents2.htm</a></p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

@@ -14,7 +14,7 @@ header: {"preview_image": "https://covers.openlibrary.org/b/isbn/1933665297-L.jp
 book: {"identifiers": ["1933665297", "0880642262", "1558883010", "1558887423", "1578590299"], "primary_isbn": "1933665297", "cover_image": "https://covers.openlibrary.org/b/isbn/1933665297-L.jpg?default=false", "cover_source": "openlibrary"}
 ---
 
-Brief review to be added of [Jacques Vallee](/ufo-history/ufo-personalities/vallee-jacques)'s book “[Confrontations: A Scientist's Search for Alien Contact](/ufo-history/ufo-books/vallee-jacques-confrontations-a-scientists-search-for-alien-contact)” ([1990](/tags/1990)) (available [on Amazon USA](http://www.amazon.com/dp/1933665297/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1933665297/?&tag=ufot-21))
+Brief review to be added of [Jacques Vallee]({{ '/ufo-history/ufo-personalities/vallee-jacques' | relative_url }})'s book “[Confrontations: A Scientist's Search for Alien Contact]({{ '/ufo-history/ufo-books/vallee-jacques-confrontations-a-scientists-search-for-alien-contact' | relative_url }})” ([1990]({{ '/tags/1990' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1933665297/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1933665297/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/wilson-colin">Wilson, Colin</a> in his “<a href="/ufo-history/ufo-books/wilson-colin-alien-dawn">Alien Dawn</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0880642262/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0880642262/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 139-140 (in Chapter 4) of the Virgin softcover edition (with the same page numbering in the Virgin paperback edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/wilson-colin' | relative_url }}">Wilson, Colin</a> in his “<a href="{{ '/ufo-history/ufo-books/wilson-colin-alien-dawn' | relative_url }}">Alien Dawn</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0880642262/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0880642262/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 139-140 (in Chapter 4) of the Virgin softcover edition (with the same page numbering in the Virgin paperback edition).</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -65,10 +65,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq">The UFO Encyclopedia: 1st edition</a>: Volume 1 – UFOs in the <a href="/tags/1980">1980</a>s” (<a href="/tags/1990">1990</a>) (available <a href="http://www.amazon.com/dp/1558883010/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558883010/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 213 of the Apogee hardback edition in an entry entitled “<a href="/ufo-history/ufo-personalities/vallee-jacques">Vallee, Jacques</a> Francis (1939- )”. Also briefly discussed at page 183 in an entry entitled “Psychosocial Hypothesis”</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq' | relative_url }}">The UFO Encyclopedia: 1st edition</a>: Volume 1 – UFOs in the <a href="{{ '/tags/1980' | relative_url }}">1980</a>s” (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) (available <a href="http://www.amazon.com/dp/1558883010/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558883010/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 213 of the Apogee hardback edition in an entry entitled “<a href="{{ '/ufo-history/ufo-personalities/vallee-jacques' | relative_url }}">Vallee, Jacques</a> Francis (1939- )”. Also briefly discussed at page 183 in an entry entitled “Psychosocial Hypothesis”</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -76,10 +76,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq">The UFO Encyclopedia: 1st edition</a>: Volume 3 – High Strangeness” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/1558887423/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558887423/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 375, 378 of the Omnigraphics hardback edition in an entry entitled “Paranormal and Occult Theories about UFOs”.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq' | relative_url }}">The UFO Encyclopedia: 1st edition</a>: Volume 3 – High Strangeness” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/1558887423/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558887423/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 375, 378 of the Omnigraphics hardback edition in an entry entitled “Paranormal and Occult Theories about UFOs”.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -87,10 +87,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-the-ufo-book">The UFO Book</a>: Encyclopedia of the Extraterrestrial” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/1578590299/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1578590299/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 438-439 of the Visible Ink Press softcover edition forming part of an entry entitled “Paranormal and Occult Theories about UFOs”.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-the-ufo-book' | relative_url }}">The UFO Book</a>: Encyclopedia of the Extraterrestrial” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/1578590299/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1578590299/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 438-439 of the Visible Ink Press softcover edition forming part of an entry entitled “Paranormal and Occult Theories about UFOs”.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

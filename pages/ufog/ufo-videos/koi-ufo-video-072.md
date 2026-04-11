@@ -42,9 +42,9 @@ This video appears to show a rotating green sphere moving in the sky, passing be
 
 Screen shots from this video are included below for ease of identification.
 
-![](/images/stories/ufo_videos/video072_1.JPG)
+![]({{ '/images/stories/ufo_videos/video072_1.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video072_2.JPG)
+![]({{ '/images/stories/ufo_videos/video072_2.JPG' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this video
@@ -60,19 +60,19 @@ The creator of the video, an individual with the username "The Faking Hoaxer", p
 
 For ease of reference, some screenshots from that video are included below.
 
-![](/images/stories/ufo_videos/video072_3.JPG)
+![]({{ '/images/stories/ufo_videos/video072_3.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video072_4.JPG)
+![]({{ '/images/stories/ufo_videos/video072_4.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video072_5.JPG)
+![]({{ '/images/stories/ufo_videos/video072_5.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video072_6.JPG)
+![]({{ '/images/stories/ufo_videos/video072_6.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video072_7.JPG)
+![]({{ '/images/stories/ufo_videos/video072_7.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video072_8.JPG)
+![]({{ '/images/stories/ufo_videos/video072_8.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video072_9.JPG)
+![]({{ '/images/stories/ufo_videos/video072_9.JPG' | relative_url }})
 
 The Faking Hoaxer has made a number of other impressive "UFO" videos, which he accompanies with statements that they are hoaxes.
 
@@ -101,4 +101,4 @@ Relevant discussions on the AboveTopSecret ("ATS") forum include the following:
 
 2010 (June) discussion entitled "[Confessions of a UFO Hoaxer](http://www.abovetopsecret.com/forum/thread584885/pg1)"
 
-![](/images/stories/ufo_videos/video072_2d.jpg)
+![]({{ '/images/stories/ufo_videos/video072_2d.jpg' | relative_url }})

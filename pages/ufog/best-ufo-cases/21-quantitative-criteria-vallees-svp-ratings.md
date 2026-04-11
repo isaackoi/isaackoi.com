@@ -13,9 +13,9 @@ planned_sections: []
 header: {"preview_image": null}
 ---
 
-“[Best UFO Cases](/ufog/best-ufo-cases)” by Isaac Koi
+“[Best UFO Cases]({{ '/ufog/best-ufo-cases' | relative_url }})” by Isaac Koi
 
-[PART 21: Quantitative criteria: Vallee’s SVP ratings](/ufog/best-ufo-cases/21-quantitative-criteria-vallees-svp-ratings)
+[PART 21: Quantitative criteria: Vallee’s SVP ratings]({{ '/ufog/best-ufo-cases/21-quantitative-criteria-vallees-svp-ratings' | relative_url }})
 
 Since the 1960s onwards, Jacques Vallee has written several discussions regarding classification and codification of UFO reports.
 
@@ -129,7 +129,7 @@ Due to the scale of that endeavour to add such ratings, I asked Donald Johnson h
 
 Incidentally, although the SVP values are stated within the UFOCAT database as a single three digit number (e.g. 444) I have found it straightforward to convert UFOCAT’s data into a Microsoft Excel spreadsheet and within Excel it is possible to, for example, add the various digits in a number together (e.g. 4 + 4 + 4 = 12). It would therefore be possible to create an additional column containing those totals and then rank the 2,900 rated sightings according to the total of their SVP values. (See Footnote 21.11).
 
-As discussed in [PART 20: Quantitative criteria: Hynek – Strangeness and Probability](/ufog/best-ufo-cases/20-quantitative-criteria-hynek-strangeness-and-probability), it is notable that UFOCAT, despite being sold by an organisation founded by J Allen Hynek (i.e. CUFOS), does not include Hynek’s Strangeness and Probability Ratings but has instead (to some extent) adopted Vallee’s SVP ratings.
+As discussed in [PART 20: Quantitative criteria: Hynek – Strangeness and Probability]({{ '/ufog/best-ufo-cases/20-quantitative-criteria-hynek-strangeness-and-probability' | relative_url }}), it is notable that UFOCAT, despite being sold by an organisation founded by J Allen Hynek (i.e. CUFOS), does not include Hynek’s Strangeness and Probability Ratings but has instead (to some extent) adopted Vallee’s SVP ratings.
 
 1. **(2)****NIDS Database**
 

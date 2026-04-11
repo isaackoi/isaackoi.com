@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/seti_1.jpg"}
 ---
 
-![seti_1](/images/stories/ufo_tags/seti_1.jpg)
+![seti_1]({{ '/images/stories/ufo_tags/seti_1.jpg' | relative_url }})
 
 *X-Ray SETI article*
 
@@ -63,10 +63,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/ashpole-edward">Ashpole, Edward</a> in his “The UFO Phenomena” (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/0747212465/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0747212465/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 136-137 (in Chapter 10) of the Headline hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/ashpole-edward' | relative_url }}">Ashpole, Edward</a> in his “The UFO Phenomena” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/0747212465/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0747212465/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 136-137 (in Chapter 10) of the Headline hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -74,10 +74,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1978">1978</a></p>
+<p><a href="{{ '/tags/1978' | relative_url }}">1978</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/ridpath-ian">Ridpath, Ian</a> in his “<a href="/ufo-history/ufo-books/ridpath-ian-messages-from-the-stars">Messages from the Stars</a>” (<a href="/tags/1978">1978</a>) (available <a href="http://www.amazon.com/dp/0060135891/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0060135891/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 117 (in Chapter 7) of the Fontana paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/ridpath-ian' | relative_url }}">Ridpath, Ian</a> in his “<a href="{{ '/ufo-history/ufo-books/ridpath-ian-messages-from-the-stars' | relative_url }}">Messages from the Stars</a>” (<a href="{{ '/tags/1978' | relative_url }}">1978</a>) (available <a href="http://www.amazon.com/dp/0060135891/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0060135891/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 117 (in Chapter 7) of the Fontana paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -89,6 +89,6 @@ For discussion see the following:
 <a id="other"></a>
 ### Other Material
 
-Fabian, A C, “Signaling Over Stellar Distances with X-Rays”, Journal of the British Interplanetary Society (JBIS), volume 30, pages 112- 113 ([1977](/tags/1977))
+Fabian, A C, “Signaling Over Stellar Distances with X-Rays”, Journal of the British Interplanetary Society (JBIS), volume 30, pages 112- 113 ([1977]({{ '/tags/1977' | relative_url }}))
 
 Please use the comments section below to share references to any particularly interesting relevant articles.

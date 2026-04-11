@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/poll_1.jpg"}
 ---
 
-![poll_1](/images/stories/ufo_tags/poll_1.jpg)
+![poll_1]({{ '/images/stories/ufo_tags/poll_1.jpg' | relative_url }})
 
 *Gallup poll*
 
@@ -63,10 +63,10 @@ For discussion of this Gallup Poll see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p>Durant, Robert in “<a href="/ufo-history/ufo-books/evans-hilary-and-stacy-dennis-ufo-1947-1997">UFO: 1947-1997</a>” (<a href="/tags/1997">1997</a>) (edited by <a href="/ufo-history/ufo-personalities/evans-hilary">Hilary Evans</a> and <a href="/ufo-history/ufo-personalities/stacy-dennis">Dennis Stacy</a>) (available <a href="http://www.amazon.com/dp/1870870999/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1870870999/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 237 of the John Brown hardback edition (section entitled “Aspects”, unnumbered chapter entitled “Public Opinion Polls and UFOs”).</p>
+<p>Durant, Robert in “<a href="{{ '/ufo-history/ufo-books/evans-hilary-and-stacy-dennis-ufo-1947-1997' | relative_url }}">UFO: 1947-1997</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }}">Hilary Evans</a> and <a href="{{ '/ufo-history/ufo-personalities/stacy-dennis' | relative_url }}">Dennis Stacy</a>) (available <a href="http://www.amazon.com/dp/1870870999/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1870870999/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 237 of the John Brown hardback edition (section entitled “Aspects”, unnumbered chapter entitled “Public Opinion Polls and UFOs”).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -74,10 +74,10 @@ For discussion of this Gallup Poll see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1989">1989</a></p>
+<p><a href="{{ '/tags/1989' | relative_url }}">1989</a></p>
 </td>
 <td valign="top" width="547">
-<p>Fiore, Edith in her “<a href="/ufo-history/ufo-books/fiore-edith-abductions">Abductions</a>” (<a href="/tags/1989">1989</a>) (US edition was titled “Encounters”) at page xix (in the Preface) of the Sidgwick &amp; Jackson hardback edition.</p>
+<p>Fiore, Edith in her “<a href="{{ '/ufo-history/ufo-books/fiore-edith-abductions' | relative_url }}">Abductions</a>” (<a href="{{ '/tags/1989' | relative_url }}">1989</a>) (US edition was titled “Encounters”) at page xix (in the Preface) of the Sidgwick &amp; Jackson hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -85,10 +85,10 @@ For discussion of this Gallup Poll see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2008">2008</a></p>
+<p><a href="{{ '/tags/2008' | relative_url }}">2008</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/friedman-stanton">Friedman, Stanton</a> in his “<a href="/ufo-history/ufo-books/friedman-stanton-flying-saucers-and-science-a-scientist-investigates-the-mysteries-of-ufos">Flying Saucers and Science : A Scientist Investigates the Mysteries of UFOs</a>” (<a href="/tags/2008">2008</a>) (available <a href="http://www.amazon.com/dp/1601630115/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1601630115/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 206-208 (in Chapter 8) of the New Page softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/friedman-stanton' | relative_url }}">Friedman, Stanton</a> in his “<a href="{{ '/ufo-history/ufo-books/friedman-stanton-flying-saucers-and-science-a-scientist-investigates-the-mysteries-of-ufos' | relative_url }}">Flying Saucers and Science : A Scientist Investigates the Mysteries of UFOs</a>” (<a href="{{ '/tags/2008' | relative_url }}">2008</a>) (available <a href="http://www.amazon.com/dp/1601630115/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1601630115/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 206-208 (in Chapter 8) of the New Page softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -96,10 +96,10 @@ For discussion of this Gallup Poll see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1988">1988</a></p>
+<p><a href="{{ '/tags/1988' | relative_url }}">1988</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/hall-richard-h">Hall, Richard</a> in his “<a href="/ufo-history/ufo-books/hall-richard-uninvited-guests">Uninvited Guests</a>” (<a href="/tags/1988">1988</a>) (available <a href="http://www.amazon.com/dp/0943358329/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0943358329/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 221 (in Chapter 14) of the Aurora Press paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hall-richard-h' | relative_url }}">Hall, Richard</a> in his “<a href="{{ '/ufo-history/ufo-books/hall-richard-uninvited-guests' | relative_url }}">Uninvited Guests</a>” (<a href="{{ '/tags/1988' | relative_url }}">1988</a>) (available <a href="http://www.amazon.com/dp/0943358329/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0943358329/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 221 (in Chapter 14) of the Aurora Press paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -107,10 +107,10 @@ For discussion of this Gallup Poll see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/ledger-don">Ledger, Don</a> and Styles, Chris in their “<a href="/ufo-history/ufo-books/ledger-don-and-styles-chris-dark-object">Dark Object</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/0440236479/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0440236479/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page xviii (in the Note From The Authors) of the Dell paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/ledger-don' | relative_url }}">Ledger, Don</a> and Styles, Chris in their “<a href="{{ '/ufo-history/ufo-books/ledger-don-and-styles-chris-dark-object' | relative_url }}">Dark Object</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/0440236479/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0440236479/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page xviii (in the Note From The Authors) of the Dell paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -118,10 +118,10 @@ For discussion of this Gallup Poll see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1988">1988</a></p>
+<p><a href="{{ '/tags/1988' | relative_url }}">1988</a></p>
 </td>
 <td valign="top" width="547">
-<p>McCampbell, James in “<a href="/ufo-history/ufo-books/spencer-john-and-evans-hilary-phenomenon">Phenomenon</a>“ (<a href="/tags/1988">1988</a>) (edited by <a href="/ufo-history/ufo-personalities/spencer-john">John Spencer</a> and <a href="/ufo-history/ufo-personalities/evans-hilary">Hilary Evans</a>) (available <a href="http://www.amazon.com/dp/0380706547/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380706547/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 349 of the MacDonald hardback edition (Part 5, in the unnumbered chapter entitled “What ‘ET’ Would Mean For Mankind”).</p>
+<p>McCampbell, James in “<a href="{{ '/ufo-history/ufo-books/spencer-john-and-evans-hilary-phenomenon' | relative_url }}">Phenomenon</a>“ (<a href="{{ '/tags/1988' | relative_url }}">1988</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">John Spencer</a> and <a href="{{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }}">Hilary Evans</a>) (available <a href="http://www.amazon.com/dp/0380706547/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380706547/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 349 of the MacDonald hardback edition (Part 5, in the unnumbered chapter entitled “What ‘ET’ Would Mean For Mankind”).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -129,10 +129,10 @@ For discussion of this Gallup Poll see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1988">1988</a></p>
+<p><a href="{{ '/tags/1988' | relative_url }}">1988</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-abduction">Abduction</a>“ (<a href="/tags/1988">1988</a>) (available <a href="http://www.amazon.com/dp/0709032765/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0709032765/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 178 (in Chapter 8) of the Hale hardback edition (with the same page numbering in the Headline paperback edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-abduction' | relative_url }}">Abduction</a>“ (<a href="{{ '/tags/1988' | relative_url }}">1988</a>) (available <a href="http://www.amazon.com/dp/0709032765/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0709032765/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 178 (in Chapter 8) of the Hale hardback edition (with the same page numbering in the Headline paperback edition).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -140,10 +140,10 @@ For discussion of this Gallup Poll see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p>Rhodes, Ron in his “<a href="/ufo-history/ufo-books/rhodes-ron-alien-obsession">Alien Obsession: What Lies Behind Abductions, Sightings and the Attraction to the Paranormal</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/1565078497/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1565078497/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 17 (in Chapter 1) of the Harvest House softcover edition.</p>
+<p>Rhodes, Ron in his “<a href="{{ '/ufo-history/ufo-books/rhodes-ron-alien-obsession' | relative_url }}">Alien Obsession: What Lies Behind Abductions, Sightings and the Attraction to the Paranormal</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/1565078497/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1565078497/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 17 (in Chapter 1) of the Harvest House softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -151,10 +151,10 @@ For discussion of this Gallup Poll see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/ring-kenneth">Ring, Kenneth</a> in his “<a href="/ufo-history/ufo-books/ring-kenneth-the-omega-project-near-death-experiences-ufo-encounters-and-the-mind-at-large">The Omega Project: Near-Death Experiences, UFO Encounters, and the Mind at Large</a>” (<a href="/tags/1992">1992</a>) at page 32 (in Chapter 1) of the Quill softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/ring-kenneth' | relative_url }}">Ring, Kenneth</a> in his “<a href="{{ '/ufo-history/ufo-books/ring-kenneth-the-omega-project-near-death-experiences-ufo-encounters-and-the-mind-at-large' | relative_url }}">The Omega Project: Near-Death Experiences, UFO Encounters, and the Mind at Large</a>” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) at page 32 (in Chapter 1) of the Quill softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -162,10 +162,10 @@ For discussion of this Gallup Poll see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p>Saliba, John in “<a href="/ufo-history/ufo-books/lewis-james-ed-the-gods-have-landed-new-religions-from-other-worlds">The Gods Have Landed – New Religions from Other Worlds</a>” (<a href="/tags/1995">1995</a>) (edited by James Lewis) (available <a href="http://www.amazon.com/dp/0791423301/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0791423301/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 9-10 (in Chapter 2) of the Suny softcover edition.</p>
+<p>Saliba, John in “<a href="{{ '/ufo-history/ufo-books/lewis-james-ed-the-gods-have-landed-new-religions-from-other-worlds' | relative_url }}">The Gods Have Landed – New Religions from Other Worlds</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (edited by James Lewis) (available <a href="http://www.amazon.com/dp/0791423301/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0791423301/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 9-10 (in Chapter 2) of the Suny softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -173,10 +173,10 @@ For discussion of this Gallup Poll see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p>Wright, Susan in her “<a href="/ufo-history/ufo-books/wright-susan-ufo-headquarters">UFO Headquarters</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0312193475/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312193475/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 227 (in Chapter 12) of the St Martin’s Press softcover edition.</p>
+<p>Wright, Susan in her “<a href="{{ '/ufo-history/ufo-books/wright-susan-ufo-headquarters' | relative_url }}">UFO Headquarters</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0312193475/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312193475/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 227 (in Chapter 12) of the St Martin’s Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

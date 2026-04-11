@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/britain_1.gif"}
 ---
 
-![britain_1](/images/stories/ufo_tags/britain_1.gif)
+![britain_1]({{ '/images/stories/ufo_tags/britain_1.gif' | relative_url }})
 
 *Bleeping disks in England*
 
@@ -59,10 +59,10 @@ For discussion of the “bleeping disks” hoax see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/baker-alan">Baker, Alan</a> in his “<a href="/ufo-history/ufo-books/baker-alan-the-encyclopaedia-of-alien-encounters">The Encyclopaedia of Alien Encounters</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/1852277343/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1852277343/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 104-105 (in an entry entitled “Hoaxes”) of the Virgin hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/baker-alan' | relative_url }}">Baker, Alan</a> in his “<a href="{{ '/ufo-history/ufo-books/baker-alan-the-encyclopaedia-of-alien-encounters' | relative_url }}">The Encyclopaedia of Alien Encounters</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/1852277343/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1852277343/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 104-105 (in an entry entitled “Hoaxes”) of the Virgin hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -70,10 +70,10 @@ For discussion of the “bleeping disks” hoax see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) in Volume 1:A-K at page 517 (forming part of an entry entitled “Hoaxes” at pages 504-519) of the Omnigraphics hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition' | relative_url }}">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) in Volume 1:A-K at page 517 (forming part of an entry entitled “Hoaxes” at pages 504-519) of the Omnigraphics hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -81,10 +81,10 @@ For discussion of the “bleeping disks” hoax see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2007">2007</a></p>
+<p><a href="{{ '/tags/2007' | relative_url }}">2007</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clarke-david">Clarke, David</a> and <a href="/ufo-history/ufo-personalities/roberts-andy">Roberts, Andy</a> in their “<a href="/ufo-history/ufo-books/clarke-david-and-roberts-andy-flying-saucerers">Flying Saucerers : A social history of UFOlogy</a>” (<a href="/tags/2007">2007</a>) (available <a href="http://www.amazon.com/dp/1905646003/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1905646003/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 170-171, 174 (in Chapter 10) of the Alternative Albion softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clarke-david' | relative_url }}">Clarke, David</a> and <a href="{{ '/ufo-history/ufo-personalities/roberts-andy' | relative_url }}">Roberts, Andy</a> in their “<a href="{{ '/ufo-history/ufo-books/clarke-david-and-roberts-andy-flying-saucerers' | relative_url }}">Flying Saucerers : A social history of UFOlogy</a>” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (available <a href="http://www.amazon.com/dp/1905646003/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1905646003/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 170-171, 174 (in Chapter 10) of the Alternative Albion softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -92,10 +92,10 @@ For discussion of the “bleeping disks” hoax see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-ufo-retrievals">UFO Retrievals</a>” (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/0713724935/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713724935/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 109-111 (in Chapter 5) of the Blandford softback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-ufo-retrievals' | relative_url }}">UFO Retrievals</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/0713724935/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713724935/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 109-111 (in Chapter 5) of the Blandford softback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -103,10 +103,10 @@ For discussion of the “bleeping disks” hoax see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1977">1977</a></p>
+<p><a href="{{ '/tags/1977' | relative_url }}">1977</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/ridpath-ian">Ridpath, Ian</a> in his “Signs of Life” (<a href="/tags/1977">1977</a>) (available <a href="http://www.amazon.com/dp/0140471049/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0140471049/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 168, 169 (in Chapter 9) of the Penguin softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/ridpath-ian' | relative_url }}">Ridpath, Ian</a> in his “Signs of Life” (<a href="{{ '/tags/1977' | relative_url }}">1977</a>) (available <a href="http://www.amazon.com/dp/0140471049/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0140471049/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 168, 169 (in Chapter 9) of the Penguin softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -114,10 +114,10 @@ For discussion of the “bleeping disks” hoax see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1978">1978</a></p>
+<p><a href="{{ '/tags/1978' | relative_url }}">1978</a></p>
 </td>
 <td valign="top" width="547">
-<p>Stemman, Roy in his “Mysteries of the Universe: Great Mysteries” (<a href="/tags/1978">1978</a>) (available <a href="http://www.amazon.com/dp/1854710559/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1854710559/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 154 (in Chapter 7) of the Book Club Associates hardback edition.</p>
+<p>Stemman, Roy in his “Mysteries of the Universe: Great Mysteries” (<a href="{{ '/tags/1978' | relative_url }}">1978</a>) (available <a href="http://www.amazon.com/dp/1854710559/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1854710559/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 154 (in Chapter 7) of the Book Club Associates hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -125,10 +125,10 @@ For discussion of the “bleeping disks” hoax see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1968">1968</a></p>
+<p><a href="{{ '/tags/1968' | relative_url }}">1968</a></p>
 </td>
 <td valign="top" width="547">
-<p>White, Dale in his “<a href="/ufo-history/ufo-books/white-dale-is-something-up-there">Is Something Up There?</a>” (<a href="/tags/1968">1968</a>) (available <a href="http://www.amazon.com/dp/B000J5A9OI/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000J5A9OI/ref=nosim?tag=ufot-21">on Amazon UK</a>) at the final page of the photographic section of the Scholastic Book Services paperback edition.</p>
+<p>White, Dale in his “<a href="{{ '/ufo-history/ufo-books/white-dale-is-something-up-there' | relative_url }}">Is Something Up There?</a>” (<a href="{{ '/tags/1968' | relative_url }}">1968</a>) (available <a href="http://www.amazon.com/dp/B000J5A9OI/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000J5A9OI/ref=nosim?tag=ufot-21">on Amazon UK</a>) at the final page of the photographic section of the Scholastic Book Services paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

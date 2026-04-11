@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/seti_1.jpg"}
 ---
 
-![seti_1](/images/stories/ufo_tags/seti_1.jpg)
+![seti_1]({{ '/images/stories/ufo_tags/seti_1.jpg' | relative_url }})
 
 *SETI petition in Science*
 
@@ -67,10 +67,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="547">
-<p>Billings, Linda in “First Contact” (<a href="/tags/1990">1990</a>) (edited by <a href="/ufo-history/ufo-personalities/bova-ben">Ben Bova</a> and Byron Preiss) (available <a href="http://www.amazon.com/dp/0747235082/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0747235082/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 233-234 (in Chapter 7) of the NAL Books hardback edition, at pages 295-296 of the Headline paperback edition.</p>
+<p>Billings, Linda in “First Contact” (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/bova-ben' | relative_url }}">Ben Bova</a> and Byron Preiss) (available <a href="http://www.amazon.com/dp/0747235082/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0747235082/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 233-234 (in Chapter 7) of the NAL Books hardback edition, at pages 295-296 of the Headline paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -78,10 +78,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/drake-frank">Drake, Frank</a> and Dava Sobel in their “<a href="/ufo-history/ufo-books/drake-frank-and-sobel-dava-is-anyone-out-there">Is Anyone Out There?</a>“ (<a href="/tags/1991">1991</a>) (available <a href="http://www.amazon.com/dp/038530532X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/038530532X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 197-198 (in Chapter 9), 259-265 (in Appendix C, entitled “Signatories to the SETI Petition”) of the Pocket Books paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/drake-frank' | relative_url }}">Drake, Frank</a> and Dava Sobel in their “<a href="{{ '/ufo-history/ufo-books/drake-frank-and-sobel-dava-is-anyone-out-there' | relative_url }}">Is Anyone Out There?</a>“ (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/038530532X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/038530532X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 197-198 (in Chapter 9), 259-265 (in Appendix C, entitled “Signatories to the SETI Petition”) of the Pocket Books paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>9</p>
@@ -89,10 +89,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p>Halpern, Paul in his “The Quest For Alien Planets” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0738208906/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0738208906/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 258-259 (in Chapter 8) of the Plenum Trade hardback edition.</p>
+<p>Halpern, Paul in his “The Quest For Alien Planets” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0738208906/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0738208906/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 258-259 (in Chapter 8) of the Plenum Trade hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -100,10 +100,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/papagiannis-michael">Papagiannis, Michael</a> in “Are We Alone in the Cosmos” (<a href="/tags/1999">1999</a>) (edited by <a href="/ufo-history/ufo-personalities/bova-ben">Ben Bova</a> and Byron Preiss) (available <a href="http://www.amazon.com/dp/0671038923/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0671038923/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 210-211 (in Chapter 5) of the ibooks softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/papagiannis-michael' | relative_url }}">Papagiannis, Michael</a> in “Are We Alone in the Cosmos” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/bova-ben' | relative_url }}">Ben Bova</a> and Byron Preiss) (available <a href="http://www.amazon.com/dp/0671038923/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0671038923/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 210-211 (in Chapter 5) of the ibooks softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -111,10 +111,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/papagiannis-michael">Papagiannis, Michael</a> in “First Contact” (<a href="/tags/1990">1990</a>) (edited by <a href="/ufo-history/ufo-personalities/bova-ben">Ben Bova</a> and Byron Preiss) (available <a href="http://www.amazon.com/dp/0747235082/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0747235082/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 186 (in Chapter 5) of the NAL Books hardback edition, at page 236 of the Headline paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/papagiannis-michael' | relative_url }}">Papagiannis, Michael</a> in “First Contact” (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/bova-ben' | relative_url }}">Ben Bova</a> and Byron Preiss) (available <a href="http://www.amazon.com/dp/0747235082/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0747235082/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 186 (in Chapter 5) of the NAL Books hardback edition, at page 236 of the Headline paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -122,10 +122,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Poundstone, William in his “<a href="/ufo-history/ufo-books/poundstone-william-carl-sagan-a-life-in-the-cosmos">Carl Sagan: A Life in the Cosmos</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0805057668/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0805057668/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 275-276 (in the chapter entitled “Los Angeles <a href="/tags/1978">1978</a>-81”) of the Owl Books softcover edition.</p>
+<p>Poundstone, William in his “<a href="{{ '/ufo-history/ufo-books/poundstone-william-carl-sagan-a-life-in-the-cosmos' | relative_url }}">Carl Sagan: A Life in the Cosmos</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0805057668/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0805057668/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 275-276 (in the chapter entitled “Los Angeles <a href="{{ '/tags/1978' | relative_url }}">1978</a>-81”) of the Owl Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -133,10 +133,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1985">1985</a></p>
+<p><a href="{{ '/tags/1985' | relative_url }}">1985</a></p>
 </td>
 <td valign="top" width="547">
-<p>Regis, Edward in “Extraterrestrials: Science and alien intelligence” (<a href="/tags/1985">1985</a>) (edited by Edward Regis) (available <a href="http://www.amazon.com/dp/0521262275/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521262275/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 231 (in Part 6) of the Cambridge University Press softcover edition.</p>
+<p>Regis, Edward in “Extraterrestrials: Science and alien intelligence” (<a href="{{ '/tags/1985' | relative_url }}">1985</a>) (edited by Edward Regis) (available <a href="http://www.amazon.com/dp/0521262275/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521262275/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 231 (in Part 6) of the Cambridge University Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -148,6 +148,6 @@ For discussion see the following:
 <a id="other"></a>
 ### Other Material
 
-[Sagan, Carl](/ufo-history/ufo-personalities/sagan-carl). "Extraterrestrial Intelligence: An International Petition". *Science*, vol. 218 ([1982](/tags/1982)) page 426
+[Sagan, Carl]({{ '/ufo-history/ufo-personalities/sagan-carl' | relative_url }}). "Extraterrestrial Intelligence: An International Petition". *Science*, vol. 218 ([1982]({{ '/tags/1982' | relative_url }})) page 426
 
 Please use the comments section below to share references to any particularly interesting relevant articles.

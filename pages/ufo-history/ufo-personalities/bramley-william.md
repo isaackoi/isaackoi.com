@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/bramley_william_1.jpg"}
 ---
 
-![bramley_william_1](/images/stories/ufo_personalities/bramley_william_1.jpg)
+![bramley_william_1]({{ '/images/stories/ufo_personalities/bramley_william_1.jpg' | relative_url }})
 
 *Image needed*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1989">1989</a></p>
+<p><a href="{{ '/tags/1989' | relative_url }}">1989</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/bramley-william">Bramley, William</a> “<a href="/ufo-history/ufo-books/bramley-william-the-gods-of-eden">The Gods of Eden</a>” (<a href="/tags/1989">1989</a>) (available <a href="http://www.amazon.com/dp/0380718073/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380718073/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/bramley-william' | relative_url }}">Bramley, William</a> “<a href="{{ '/ufo-history/ufo-books/bramley-william-the-gods-of-eden' | relative_url }}">The Gods of Eden</a>” (<a href="{{ '/tags/1989' | relative_url }}">1989</a>) (available <a href="http://www.amazon.com/dp/0380718073/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380718073/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>

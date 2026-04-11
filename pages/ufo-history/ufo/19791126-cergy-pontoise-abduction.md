@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -63,10 +63,10 @@ For discussion of the Cergy-Pontoise incident see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/baker-alan">Baker, Alan</a> in his “Sci-Fi Channel: True Life Encounters: UFO Sightings” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1575000229/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1575000229/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 112-116 (in Chapter 4) of the Orion softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/baker-alan' | relative_url }}">Baker, Alan</a> in his “Sci-Fi Channel: True Life Encounters: UFO Sightings” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1575000229/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1575000229/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 112-116 (in Chapter 4) of the Orion softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>
@@ -74,10 +74,10 @@ For discussion of the Cergy-Pontoise incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1986">1986</a></p>
+<p><a href="{{ '/tags/1986' | relative_url }}">1986</a></p>
 </td>
 <td valign="top" width="547">
-<p>Blundell, Nigel and Boar, Roger in their “<a href="/ufo-history/ufo-books/blundell-nigel-and-boar-roger-the-worlds-greatest-ufo-mysteries">The World’s Greatest UFO Mysteries</a>” (<a href="/tags/1986">1986</a>) (available <a href="http://www.amazon.com/dp/0600572293/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0600572293/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 62-64 (in the chapter entitled “Encounters of the Closest Kind”) of the Octopus hardback edition (with the same page numbering in the Hamlyn softcover edition).</p>
+<p>Blundell, Nigel and Boar, Roger in their “<a href="{{ '/ufo-history/ufo-books/blundell-nigel-and-boar-roger-the-worlds-greatest-ufo-mysteries' | relative_url }}">The World’s Greatest UFO Mysteries</a>” (<a href="{{ '/tags/1986' | relative_url }}">1986</a>) (available <a href="http://www.amazon.com/dp/0600572293/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0600572293/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 62-64 (in the chapter entitled “Encounters of the Closest Kind”) of the Octopus hardback edition (with the same page numbering in the Hamlyn softcover edition).</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -85,10 +85,10 @@ For discussion of the Cergy-Pontoise incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/brookesmith-peter">Brookesmith, Peter</a> in his “<a href="/ufo-history/ufo-books/brookesmith-peter-ufo-the-complete-sightings-catalogue">UFO: The Complete Sightings Catalogue</a>” (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/0713725184/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713725184/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 117 (in Chapter 5) of the BCA hardback edition (with the same page numbering in the Blitz hardback edition, and in the Barnes &amp; Noble hardback edition published under the title “UFO: The Complete Sightings”).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/brookesmith-peter' | relative_url }}">Brookesmith, Peter</a> in his “<a href="{{ '/ufo-history/ufo-books/brookesmith-peter-ufo-the-complete-sightings-catalogue' | relative_url }}">UFO: The Complete Sightings Catalogue</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/0713725184/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713725184/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 117 (in Chapter 5) of the BCA hardback edition (with the same page numbering in the Blitz hardback edition, and in the Barnes &amp; Noble hardback edition published under the title “UFO: The Complete Sightings”).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -96,10 +96,10 @@ For discussion of the Cergy-Pontoise incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/cawthorne-nigel">Cawthorne, Nigel</a> in “<a href="/ufo-history/ufo-books/cawthorne-nigel-the-worlds-greatest-alien-abduction-mysteries">The World’s Greatest Alien Abduction Mysteries</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/0753704250/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0753704250/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 246-247 (in the chapter entitled “Weird and Wacky”) of the Chancellor Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/cawthorne-nigel' | relative_url }}">Cawthorne, Nigel</a> in “<a href="{{ '/ufo-history/ufo-books/cawthorne-nigel-the-worlds-greatest-alien-abduction-mysteries' | relative_url }}">The World’s Greatest Alien Abduction Mysteries</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/0753704250/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0753704250/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 246-247 (in the chapter entitled “Weird and Wacky”) of the Chancellor Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -107,10 +107,10 @@ For discussion of the Cergy-Pontoise incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/cawthorne-nigel">Cawthorne, Nigel</a> in his “<a href="/ufo-history/ufo-books/cawthorne-nigel-the-worlds-greatest-alien-abductions">The World’s Greatest Alien Abductions</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0753700875/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0753700875/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 178-180 (in the chapter entitled “Weird and Wacky”) of the Hamlyn softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/cawthorne-nigel' | relative_url }}">Cawthorne, Nigel</a> in his “<a href="{{ '/ufo-history/ufo-books/cawthorne-nigel-the-worlds-greatest-alien-abductions' | relative_url }}">The World’s Greatest Alien Abductions</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0753700875/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0753700875/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 178-180 (in the chapter entitled “Weird and Wacky”) of the Hamlyn softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -118,10 +118,10 @@ For discussion of the Cergy-Pontoise incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq">The UFO Encyclopedia: 1st edition</a>: Volume 1 – UFOs in the <a href="/tags/1980">1980</a>s” (<a href="/tags/1990">1990</a>) (available <a href="http://www.amazon.com/dp/1558883010/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558883010/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 46-48 (in an entry entitled “Cergy-Pontoise (France) Hoax”) of the Apogee hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq' | relative_url }}">The UFO Encyclopedia: 1st edition</a>: Volume 1 – UFOs in the <a href="{{ '/tags/1980' | relative_url }}">1980</a>s” (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) (available <a href="http://www.amazon.com/dp/1558883010/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558883010/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 46-48 (in an entry entitled “Cergy-Pontoise (France) Hoax”) of the Apogee hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -129,10 +129,10 @@ For discussion of the Cergy-Pontoise incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq">The UFO Encyclopedia: 1st edition</a>: Volume 3 – High Strangeness” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/1558887423/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558887423/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 375 (in an entry entitled “Paranormal and Occult Theories about UFOs”) of the Omnigraphics hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq' | relative_url }}">The UFO Encyclopedia: 1st edition</a>: Volume 3 – High Strangeness” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/1558887423/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558887423/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 375 (in an entry entitled “Paranormal and Occult Theories about UFOs”) of the Omnigraphics hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -140,10 +140,10 @@ For discussion of the Cergy-Pontoise incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition">The UFO Encyclopedia: The Phenomenon from the Beginning - 2nd edition</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) in Volume 1:A-K at pages 178-181 (in an entry entitled “Cergy-Pontoise Hoax”) of the Omnigraphics hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition' | relative_url }}">The UFO Encyclopedia: The Phenomenon from the Beginning - 2nd edition</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) in Volume 1:A-K at pages 178-181 (in an entry entitled “Cergy-Pontoise Hoax”) of the Omnigraphics hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -151,10 +151,10 @@ For discussion of the Cergy-Pontoise incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p>Deary, Terry in his “True UFO Stories” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0590134485/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0590134485/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 35 (in the unnumbered chapter entitled “The Hills are Alive”) of the Point Non-Fiction softcover edition.</p>
+<p>Deary, Terry in his “True UFO Stories” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0590134485/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0590134485/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 35 (in the unnumbered chapter entitled “The Hills are Alive”) of the Point Non-Fiction softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -162,10 +162,10 @@ For discussion of the Cergy-Pontoise incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1984">1984</a></p>
+<p><a href="{{ '/tags/1984' | relative_url }}">1984</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/evans-hilary">Evans, Hilary</a> in “<a href="/ufo-history/ufo-books/brookesmith-peter-editor-the-age-of-the-ufo">The Age of the UFO</a>” (<a href="/tags/1984">1984</a>) (edited by <a href="/ufo-history/ufo-personalities/brookesmith-peter">Peter Brookesmith</a>) (available <a href="http://www.amazon.com/dp/B000S2L0EK/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000S2L0EK/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 149-152 (in the unnumbered chapter entitled “Fact, fraud or fantasy?”) of the Black Cat hardback edition. The relevant chapter is an article reprinted from the weekly partwork “The Unexplained”.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }}">Evans, Hilary</a> in “<a href="{{ '/ufo-history/ufo-books/brookesmith-peter-editor-the-age-of-the-ufo' | relative_url }}">The Age of the UFO</a>” (<a href="{{ '/tags/1984' | relative_url }}">1984</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/brookesmith-peter' | relative_url }}">Peter Brookesmith</a>) (available <a href="http://www.amazon.com/dp/B000S2L0EK/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000S2L0EK/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 149-152 (in the unnumbered chapter entitled “Fact, fraud or fantasy?”) of the Black Cat hardback edition. The relevant chapter is an article reprinted from the weekly partwork “The Unexplained”.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -173,10 +173,10 @@ For discussion of the Cergy-Pontoise incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1984">1984</a></p>
+<p><a href="{{ '/tags/1984' | relative_url }}">1984</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/evans-hilary">Evans, Hilary</a> in “<a href="/ufo-history/ufo-books/brookesmith-peter-editor-the-age-of-the-ufo">The Age of the UFO</a>” (<a href="/tags/1984">1984</a>) (edited by <a href="/ufo-history/ufo-personalities/brookesmith-peter">Peter Brookesmith</a>) (available <a href="http://www.amazon.com/dp/B000S2L0EK/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000S2L0EK/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 144-148 (in the unnumbered chapter entitled“Mystery of the lost week”) of the Black Cat hardback edition. The relevant chapter is an article reprinted from the weekly partwork “The Unexplained”.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }}">Evans, Hilary</a> in “<a href="{{ '/ufo-history/ufo-books/brookesmith-peter-editor-the-age-of-the-ufo' | relative_url }}">The Age of the UFO</a>” (<a href="{{ '/tags/1984' | relative_url }}">1984</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/brookesmith-peter' | relative_url }}">Peter Brookesmith</a>) (available <a href="http://www.amazon.com/dp/B000S2L0EK/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000S2L0EK/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 144-148 (in the unnumbered chapter entitled“Mystery of the lost week”) of the Black Cat hardback edition. The relevant chapter is an article reprinted from the weekly partwork “The Unexplained”.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>
@@ -184,10 +184,10 @@ For discussion of the Cergy-Pontoise incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1983">1983</a></p>
+<p><a href="{{ '/tags/1983' | relative_url }}">1983</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/evans-hilary">Evans, Hilary</a> in his “<a href="/ufo-history/ufo-books/evans-hilary-the-evidence-for-ufos">The Evidence for UFOs</a>” (<a href="/tags/1983">1983</a>) (available <a href="http://www.amazon.com/dp/0850303508/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0850303508/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 43-44 (in Chapter 2, Case 14) of the Aquarian softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }}">Evans, Hilary</a> in his “<a href="{{ '/ufo-history/ufo-books/evans-hilary-the-evidence-for-ufos' | relative_url }}">The Evidence for UFOs</a>” (<a href="{{ '/tags/1983' | relative_url }}">1983</a>) (available <a href="http://www.amazon.com/dp/0850303508/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0850303508/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 43-44 (in Chapter 2, Case 14) of the Aquarian softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -195,10 +195,10 @@ For discussion of the Cergy-Pontoise incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2007">2007</a></p>
+<p><a href="{{ '/tags/2007' | relative_url }}">2007</a></p>
 </td>
 <td valign="top" width="547">
-<p>Lagrange, Pierre in “Alien Worlds : Social and Religious Dimensions of Extraterrestrial Contact” (<a href="/tags/2007">2007</a>) (edited by Diana Tumminia) (available <a href="http://www.amazon.com/dp/0815608586/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0815608586/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 179-183 (in Chapter 9) of the Syracuse University Press softcover edition.</p>
+<p>Lagrange, Pierre in “Alien Worlds : Social and Religious Dimensions of Extraterrestrial Contact” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (edited by Diana Tumminia) (available <a href="http://www.amazon.com/dp/0815608586/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0815608586/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 179-183 (in Chapter 9) of the Syracuse University Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>
@@ -206,10 +206,10 @@ For discussion of the Cergy-Pontoise incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p>Marvels and Mysteries (Editors Of) in “Marvels and Mysteries: Aliens” (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/075251217X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/075251217X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 71-75 of the Parrallel softcover edition.</p>
+<p>Marvels and Mysteries (Editors Of) in “Marvels and Mysteries: Aliens” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/075251217X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/075251217X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 71-75 of the Parrallel softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>
@@ -217,10 +217,10 @@ For discussion of the Cergy-Pontoise incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p>Marvels and Mysteries (Editors Of) in “<a href="/ufo-history/ufo-books/marvels-and-mysteries-editors-of-marvels-and-mysteries-ufos">Marvels and Mysteries: UFOs</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0752512277/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0752512277/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 93-94 of the Parrallel softcover edition.</p>
+<p>Marvels and Mysteries (Editors Of) in “<a href="{{ '/ufo-history/ufo-books/marvels-and-mysteries-editors-of-marvels-and-mysteries-ufos' | relative_url }}">Marvels and Mysteries: UFOs</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0752512277/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0752512277/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 93-94 of the Parrallel softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -228,10 +228,10 @@ For discussion of the Cergy-Pontoise incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1984">1984</a></p>
+<p><a href="{{ '/tags/1984' | relative_url }}">1984</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in “<a href="/ufo-history/ufo-books/brookesmith-peter-editor-the-alien-world">The Alien World</a>” (<a href="/tags/1984">1984</a>) (edited by <a href="/ufo-history/ufo-personalities/brookesmith-peter">Peter Brookesmith</a>) (available <a href="http://www.amazon.com/dp/0856136689/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0856136689/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 87-91 (in the unnumbered chapter entitled “Mystery of the lost week”), 92-95 (in the unnumbered chapter entitled “Fact, fraud or fantasy?”) of the Orbis softcover edition. The relevant chapters are articles reprinted from the weekly partwork “The Unexplained”.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in “<a href="{{ '/ufo-history/ufo-books/brookesmith-peter-editor-the-alien-world' | relative_url }}">The Alien World</a>” (<a href="{{ '/tags/1984' | relative_url }}">1984</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/brookesmith-peter' | relative_url }}">Peter Brookesmith</a>) (available <a href="http://www.amazon.com/dp/0856136689/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0856136689/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 87-91 (in the unnumbered chapter entitled “Mystery of the lost week”), 92-95 (in the unnumbered chapter entitled “Fact, fraud or fantasy?”) of the Orbis softcover edition. The relevant chapters are articles reprinted from the weekly partwork “The Unexplained”.</p>
 </td>
 <td valign="top" width="52">
 <p>9</p>
@@ -239,10 +239,10 @@ For discussion of the Cergy-Pontoise incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-the-little-giant-encyclopedia-of-ufos">The Little Giant Encyclopedia of UFOs</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/0806918918/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806918918/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 290 (in Part 3, “UFOs Worldwide”) of the Sterling softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-the-little-giant-encyclopedia-of-ufos' | relative_url }}">The Little Giant Encyclopedia of UFOs</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/0806918918/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806918918/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 290 (in Part 3, “UFOs Worldwide”) of the Sterling softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -250,10 +250,10 @@ For discussion of the Cergy-Pontoise incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/spencer-john">Spencer, John</a> in his “<a href="/ufo-history/ufo-books/spencer-john-ufos-the-definitive-casebook">UFOs: The Definitive Casebook</a>” (<a href="/tags/1991">1991</a>) (available <a href="http://www.amazon.com/dp/B000S52VNG/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000S52VNG/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 114 (in the unnumbered section entitled “Europe”, in the chapter entitled “Database”) of the Hamlyn hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">Spencer, John</a> in his “<a href="{{ '/ufo-history/ufo-books/spencer-john-ufos-the-definitive-casebook' | relative_url }}">UFOs: The Definitive Casebook</a>” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/B000S52VNG/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000S52VNG/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 114 (in the unnumbered section entitled “Europe”, in the chapter entitled “Database”) of the Hamlyn hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -261,10 +261,10 @@ For discussion of the Cergy-Pontoise incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/vallee-jacques">Vallee, Jacques</a> in his “<a href="/ufo-history/ufo-books/vallee-jacques-revelations-alien-contact-and-human-deception">Revelations: Alien Contact and Human Deception</a>” (<a href="/tags/1991">1991</a>) (available <a href="http://www.amazon.com/dp/1933665300/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1933665300/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 133-166 (in Chapter 5 generally) of the Ballantine Books paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/vallee-jacques' | relative_url }}">Vallee, Jacques</a> in his “<a href="{{ '/ufo-history/ufo-books/vallee-jacques-revelations-alien-contact-and-human-deception' | relative_url }}">Revelations: Alien Contact and Human Deception</a>” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/1933665300/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1933665300/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 133-166 (in Chapter 5 generally) of the Ballantine Books paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>34</p>

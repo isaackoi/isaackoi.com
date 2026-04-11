@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/bruni_georgina_1.jpg"}
 ---
 
-![bruni_georgina_1](/images/stories/ufo_personalities/bruni_georgina_1.jpg)
+![bruni_georgina_1]({{ '/images/stories/ufo_personalities/bruni_georgina_1.jpg' | relative_url }})
 
 *Georgina Bruni*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/bruni-georgina">Bruni, Georgina</a> “<a href="/ufo-history/ufo-books/bruni-georgina-you-cant-tell-the-people">You Can’t Tell the People</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/033039021X/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/033039021X/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/bruni-georgina' | relative_url }}">Bruni, Georgina</a> “<a href="{{ '/ufo-history/ufo-books/bruni-georgina-you-cant-tell-the-people' | relative_url }}">You Can’t Tell the People</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/033039021X/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/033039021X/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>

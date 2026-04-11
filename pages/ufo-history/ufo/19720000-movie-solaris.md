@@ -13,11 +13,11 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/movies_1.jpg"}
 ---
 
-![movies_1](/images/stories/ufo_tags/movies_1.jpg)
+![movies_1]({{ '/images/stories/ufo_tags/movies_1.jpg' | relative_url }})
 
 *“Solaris”*
 
-The [Movie](/tags/movie) “*Solaris*” ([1972](/tags/1972)) was based on a novel by Stanislaw Lem. It was directed, in Russian, by Andrei Tarkovsky.
+The [Movie]({{ '/tags/movie' | relative_url }}) “*Solaris*” ([1972]({{ '/tags/1972' | relative_url }})) was based on a novel by Stanislaw Lem. It was directed, in Russian, by Andrei Tarkovsky.
 
 Sections below
 
@@ -61,10 +61,10 @@ For discussion of “Solaris” see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Achenbach, Joel in his “<a href="/ufo-history/ufo-books/achenbach-joel-captured-by-aliens">Captured by Aliens</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0684848562/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684848562/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 127 (in Chapter 10) of the Simon and Schuster hardback edition.</p>
+<p>Achenbach, Joel in his “<a href="{{ '/ufo-history/ufo-books/achenbach-joel-captured-by-aliens' | relative_url }}">Captured by Aliens</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0684848562/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684848562/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 127 (in Chapter 10) of the Simon and Schuster hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -72,10 +72,10 @@ For discussion of “Solaris” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1979">1979</a></p>
+<p><a href="{{ '/tags/1979' | relative_url }}">1979</a></p>
 </td>
 <td valign="top" width="547">
-<p>Barlowe, Wayne Douglas and Summer, Ian and Meacham, Beth in their “<a href="/ufo-history/ufo-books/barlowe-wayne-douglas-and-summer-ian-and-meacham-beth-barlowes-guide-to-extraterrestrials">Barlowe's Guide to Extraterrestrials</a>” (<a href="/tags/1979">1979</a>) (available <a href="http://www.amazon.com/dp/0894805002/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0894805002/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 94-95 (in the unnumbered chapter entitled “Solaris”) of the Workman softcover edition.</p>
+<p>Barlowe, Wayne Douglas and Summer, Ian and Meacham, Beth in their “<a href="{{ '/ufo-history/ufo-books/barlowe-wayne-douglas-and-summer-ian-and-meacham-beth-barlowes-guide-to-extraterrestrials' | relative_url }}">Barlowe's Guide to Extraterrestrials</a>” (<a href="{{ '/tags/1979' | relative_url }}">1979</a>) (available <a href="http://www.amazon.com/dp/0894805002/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0894805002/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 94-95 (in the unnumbered chapter entitled “Solaris”) of the Workman softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -83,10 +83,10 @@ For discussion of “Solaris” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2003">2003</a></p>
+<p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
-<p>Benjamin, Marina in her “<a href="/ufo-history/ufo-books/benjamin-marina-rocket-dreams">Rocket Dreams</a>” (<a href="/tags/2003">2003</a>) (available <a href="http://www.amazon.com/dp/0743233433/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743233433/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 62-63 (in Chapter 2) of the Chatto &amp; Windus hardback edition.</p>
+<p>Benjamin, Marina in her “<a href="{{ '/ufo-history/ufo-books/benjamin-marina-rocket-dreams' | relative_url }}">Rocket Dreams</a>” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) (available <a href="http://www.amazon.com/dp/0743233433/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743233433/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 62-63 (in Chapter 2) of the Chatto &amp; Windus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -94,10 +94,10 @@ For discussion of “Solaris” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1979">1979</a></p>
+<p><a href="{{ '/tags/1979' | relative_url }}">1979</a></p>
 </td>
 <td valign="top" width="547">
-<p>Boyce, Chris in his <a href="/ufo-history/ufo-books/boyce-chris-extraterrestrial-encounter">Extraterrestrial Encounter</a> (<a href="/tags/1979">1979</a>) (available <a href="http://www.amazon.com/dp/0890092486/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0890092486/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 133, 134 (in Chapter 10), 165 (in Appendix 1 in a list entitled “A Checklist of ETs in the Cinema”) of the David &amp; Charles hardback edition, at page 123, 124, 153 of the <a href="/tags/1980">1980</a> revised NEL paperback edition.</p>
+<p>Boyce, Chris in his <a href="{{ '/ufo-history/ufo-books/boyce-chris-extraterrestrial-encounter' | relative_url }}">Extraterrestrial Encounter</a> (<a href="{{ '/tags/1979' | relative_url }}">1979</a>) (available <a href="http://www.amazon.com/dp/0890092486/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0890092486/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 133, 134 (in Chapter 10), 165 (in Appendix 1 in a list entitled “A Checklist of ETs in the Cinema”) of the David &amp; Charles hardback edition, at page 123, 124, 153 of the <a href="{{ '/tags/1980' | relative_url }}">1980</a> revised NEL paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -105,10 +105,10 @@ For discussion of “Solaris” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2002">2002</a></p>
+<p><a href="{{ '/tags/2002' | relative_url }}">2002</a></p>
 </td>
 <td valign="top" width="547">
-<p>Cohen, Jack and Stewart, Ian in their “<a href="/ufo-history/ufo-books/cohen-jack-and-stewart-ian-evolving-the-alien">Evolving the Alien</a>” (<a href="/tags/2002">2002</a>) (available <a href="http://www.amazon.com/dp/0091879272/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0091879272/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 195-196 (in Chapter 9), 236 (in Chapter 10) of the Ebury Press hardback edition.</p>
+<p>Cohen, Jack and Stewart, Ian in their “<a href="{{ '/ufo-history/ufo-books/cohen-jack-and-stewart-ian-evolving-the-alien' | relative_url }}">Evolving the Alien</a>” (<a href="{{ '/tags/2002' | relative_url }}">2002</a>) (available <a href="http://www.amazon.com/dp/0091879272/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0091879272/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 195-196 (in Chapter 9), 236 (in Chapter 10) of the Ebury Press hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -116,10 +116,10 @@ For discussion of “Solaris” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/darling-david">Darling, David</a> in his “<a href="/ufo-history/ufo-books/darling-david-the-extraterrestrial-encyclopedia">The Extraterrestrial Encyclopedia</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/081293248X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/081293248X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 373 (in the entry entitled “science fiction involving extraterrestrials, in films and on television”), 395 (in the entry entitled “Solaris”) of the Three Rivers softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/darling-david' | relative_url }}">Darling, David</a> in his “<a href="{{ '/ufo-history/ufo-books/darling-david-the-extraterrestrial-encyclopedia' | relative_url }}">The Extraterrestrial Encyclopedia</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/081293248X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/081293248X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 373 (in the entry entitled “science fiction involving extraterrestrials, in films and on television”), 395 (in the entry entitled “Solaris”) of the Three Rivers softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -127,10 +127,10 @@ For discussion of “Solaris” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2003">2003</a></p>
+<p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/darling-david">Darling, David</a> in his online encyclopedia, “The Encyclopedia of Astrobiology, Astronomy and Spaceflight” (<a href="/tags/2003">2003</a>) in the entry entitled “Solaris”. The relevant entry is available online at:</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/darling-david' | relative_url }}">Darling, David</a> in his online encyclopedia, “The Encyclopedia of Astrobiology, Astronomy and Spaceflight” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) in the entry entitled “Solaris”. The relevant entry is available online at:</p>
 <p><a href="http://www.daviddarling.info/encyclopedia/S/Solaris.html">http://www.daviddarling.info/encyclopedia/S/Solaris.html</a></p>
 </td>
 <td valign="top" width="52">
@@ -139,10 +139,10 @@ For discussion of “Solaris” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/dick-steven-j">Dick, Steven J</a> in his “<a href="/ufo-history/ufo-books/dick-steven-j-life-on-other-worlds">Life on Other Worlds</a>“ (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0521620120/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521620120/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 130-131 (in Chapter 4) of the Cambridge hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dick-steven-j' | relative_url }}">Dick, Steven J</a> in his “<a href="{{ '/ufo-history/ufo-books/dick-steven-j-life-on-other-worlds' | relative_url }}">Life on Other Worlds</a>“ (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0521620120/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521620120/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 130-131 (in Chapter 4) of the Cambridge hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -150,10 +150,10 @@ For discussion of “Solaris” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/dick-steven-j">Dick, Steven J</a> in his “<a href="/ufo-history/ufo-books/dick-steven-j-the-biological-universe">The Biological Universe</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/0521343267/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521343267/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 258-260 (in Chapter 5) of the Cambridge hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dick-steven-j' | relative_url }}">Dick, Steven J</a> in his “<a href="{{ '/ufo-history/ufo-books/dick-steven-j-the-biological-universe' | relative_url }}">The Biological Universe</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/0521343267/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521343267/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 258-260 (in Chapter 5) of the Cambridge hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -161,10 +161,10 @@ For discussion of “Solaris” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="547">
-<p>Guthke, Karl S in his “<a href="/ufo-history/ufo-books/guthke-karl-s-the-last-frontier-imagining-other-worlds-from-the-copernican-revolution-to-modern-science-fiction">The Last Frontier : Imagining Other Worlds From the Copernican Revolution to Modern Science Fiction</a>: Imagining Other Worlds From the Copernican Revolution to Modern Science Fiction” (<a href="/tags/1990">1990</a>) (available <a href="http://www.amazon.com/dp/0801497272/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0801497272/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 29 (in Chapter 1.3) of the Cornell University softcover edition.</p>
+<p>Guthke, Karl S in his “<a href="{{ '/ufo-history/ufo-books/guthke-karl-s-the-last-frontier-imagining-other-worlds-from-the-copernican-revolution-to-modern-science-fiction' | relative_url }}">The Last Frontier : Imagining Other Worlds From the Copernican Revolution to Modern Science Fiction</a>: Imagining Other Worlds From the Copernican Revolution to Modern Science Fiction” (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) (available <a href="http://www.amazon.com/dp/0801497272/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0801497272/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 29 (in Chapter 1.3) of the Cornell University softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -172,10 +172,10 @@ For discussion of “Solaris” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Hennessey, Roger in his “<a href="/ufo-history/ufo-books/hennessey-roger-a-s-worlds-without-end-the-historic-search-for-extraterrestrial-life">Worlds Without End : The Historic Search for Extraterrestrial Life</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/075241450X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/075241450X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 119 (in Chapter 11) of the Tempus hardback edition.</p>
+<p>Hennessey, Roger in his “<a href="{{ '/ufo-history/ufo-books/hennessey-roger-a-s-worlds-without-end-the-historic-search-for-extraterrestrial-life' | relative_url }}">Worlds Without End : The Historic Search for Extraterrestrial Life</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/075241450X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/075241450X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 119 (in Chapter 11) of the Tempus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -183,10 +183,10 @@ For discussion of “Solaris” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1979">1979</a></p>
+<p><a href="{{ '/tags/1979' | relative_url }}">1979</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/holroyd-stuart">Holroyd, Stuart</a> in his “Alien Intelligence” (<a href="/tags/1979">1979</a>) (available <a href="http://www.amazon.com/dp/0896960404/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0896960404/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pagse 167-168 (in Chapter 6) of the David &amp; Charles hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/holroyd-stuart' | relative_url }}">Holroyd, Stuart</a> in his “Alien Intelligence” (<a href="{{ '/tags/1979' | relative_url }}">1979</a>) (available <a href="http://www.amazon.com/dp/0896960404/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0896960404/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pagse 167-168 (in Chapter 6) of the David &amp; Charles hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -194,10 +194,10 @@ For discussion of “Solaris” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1974">1974</a></p>
+<p><a href="{{ '/tags/1974' | relative_url }}">1974</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/lunan-duncan">Lunan, Duncan</a> in his “<a href="/ufo-history/ufo-books/lunan-duncan-man-and-the-stars">Man and the Stars</a>” (<a href="/tags/1974">1974</a>) (available <a href="http://www.amazon.com/dp/0285621297/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0285621297/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 124 (in Chapter 8) of the Souvenir Press hardback edition, at page 153 of the Corgi paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/lunan-duncan' | relative_url }}">Lunan, Duncan</a> in his “<a href="{{ '/ufo-history/ufo-books/lunan-duncan-man-and-the-stars' | relative_url }}">Man and the Stars</a>” (<a href="{{ '/tags/1974' | relative_url }}">1974</a>) (available <a href="http://www.amazon.com/dp/0285621297/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0285621297/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 124 (in Chapter 8) of the Souvenir Press hardback edition, at page 153 of the Corgi paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -205,10 +205,10 @@ For discussion of “Solaris” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1987">1987</a></p>
+<p><a href="{{ '/tags/1987' | relative_url }}">1987</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/mcdonough-thomas-r">McDonough, Thomas R</a> in his “The Search for Extraterrestrial Intelligence - Listening for Life in the Cosmos” (<a href="/tags/1987">1987</a>) (available <a href="http://www.amazon.com/dp/0471846848/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0471846848/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 49 (in Chapter 3) of the Wiley softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/mcdonough-thomas-r' | relative_url }}">McDonough, Thomas R</a> in his “The Search for Extraterrestrial Intelligence - Listening for Life in the Cosmos” (<a href="{{ '/tags/1987' | relative_url }}">1987</a>) (available <a href="http://www.amazon.com/dp/0471846848/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0471846848/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 49 (in Chapter 3) of the Wiley softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -216,10 +216,10 @@ For discussion of “Solaris” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p>Pickover, Clifford in his “<a href="/ufo-history/ufo-books/pickover-clifford-the-science-of-aliens">The Science of Aliens</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0465073158/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0465073158/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 145 (in Chapter 7) of the Basic Books hardback edition.</p>
+<p>Pickover, Clifford in his “<a href="{{ '/ufo-history/ufo-books/pickover-clifford-the-science-of-aliens' | relative_url }}">The Science of Aliens</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0465073158/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0465073158/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 145 (in Chapter 7) of the Basic Books hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

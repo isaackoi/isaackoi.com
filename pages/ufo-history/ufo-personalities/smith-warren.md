@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/no_avatar.jpg"}
 ---
 
-![](/images/stories/no_avatar.jpg)
+![]({{ '/images/stories/no_avatar.jpg' | relative_url }})
 
 *Image needed*
 
@@ -36,18 +36,18 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1967">1967</a></p>
+<p><a href="{{ '/tags/1967' | relative_url }}">1967</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/green-gabriel">Green, Gabriel</a> with <a href="/ufo-history/ufo-personalities/smith-warren">Smith, Warren</a> “Let’s face the facts about Flying Saucers” (<a href="/tags/1967">1967</a>) (available <a href="http://www.amazon.com/dp/B0006BS25S/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0006BS25S/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/green-gabriel' | relative_url }}">Green, Gabriel</a> with <a href="{{ '/ufo-history/ufo-personalities/smith-warren' | relative_url }}">Smith, Warren</a> “Let’s face the facts about Flying Saucers” (<a href="{{ '/tags/1967' | relative_url }}">1967</a>) (available <a href="http://www.amazon.com/dp/B0006BS25S/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0006BS25S/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1976">1976</a></p>
+<p><a href="{{ '/tags/1976' | relative_url }}">1976</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/smith-warren">Smith, Warren</a> “<a href="/ufo-history/ufo-books/smith-warren-ufo-trek">UFO Trek</a>” (<a href="/tags/1976">1976</a>) (available <a href="http://www.amazon.com/dp/0890831815/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0890831815/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/smith-warren' | relative_url }}">Smith, Warren</a> “<a href="{{ '/ufo-history/ufo-books/smith-warren-ufo-trek' | relative_url }}">UFO Trek</a>” (<a href="{{ '/tags/1976' | relative_url }}">1976</a>) (available <a href="http://www.amazon.com/dp/0890831815/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0890831815/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>
@@ -91,10 +91,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1989">1989</a></p>
+<p><a href="{{ '/tags/1989' | relative_url }}">1989</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randle-kevin">Randle, Kevin</a> in his “<a href="/ufo-history/ufo-books/randle-kevin-d-the-ufo-casebook">The UFO Casebook</a>” (<a href="/tags/1989">1989</a>) (available <a href="http://www.amazon.com/dp/0446357154/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0446357154/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 224-232 (in the entry entitled “October 27, <a href="/tags/1988">1988</a>: Warren Smith”) of the Warner Books paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randle-kevin' | relative_url }}">Randle, Kevin</a> in his “<a href="{{ '/ufo-history/ufo-books/randle-kevin-d-the-ufo-casebook' | relative_url }}">The UFO Casebook</a>” (<a href="{{ '/tags/1989' | relative_url }}">1989</a>) (available <a href="http://www.amazon.com/dp/0446357154/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0446357154/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 224-232 (in the entry entitled “October 27, <a href="{{ '/tags/1988' | relative_url }}">1988</a>: Warren Smith”) of the Warner Books paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>9</p>

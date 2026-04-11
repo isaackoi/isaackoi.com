@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0201569493.jpg"}
 book: {"identifiers": ["0201569493"], "primary_isbn": "0201569493", "cover_image": "/book-covers/0201569493.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Goldsmith, Donald](/ufo-history/ufo-personalities/goldsmith-donald) and Owen, Tobias “[The Search for Life in the Universe](/ufo-history/ufo-books/goldsmith-donald-and-owen-tobias-the-search-for-life-in-the-universe)” ([1980](/tags/1980)) (available [on Amazon USA](http://www.amazon.com/dp/0201569493/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0201569493/?&tag=ufot-21))
+Brief review to be added of [Goldsmith, Donald]({{ '/ufo-history/ufo-personalities/goldsmith-donald' | relative_url }}) and Owen, Tobias “[The Search for Life in the Universe]({{ '/ufo-history/ufo-books/goldsmith-donald-and-owen-tobias-the-search-for-life-in-the-universe' | relative_url }})” ([1980]({{ '/tags/1980' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0201569493/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0201569493/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/drake-frank">Drake, Frank</a> in “<a href="/ufo-history/ufo-books/goldsmith-donald-and-owen-tobias-the-search-for-life-in-the-universe">The Search for Life in the Universe</a>” (<a href="/tags/1980">1980</a>) (by Donald Goldsmith and Tobias Owen) at pages viii-ix (in the Foreword) of the Benjamin Cummings softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/drake-frank' | relative_url }}">Drake, Frank</a> in “<a href="{{ '/ufo-history/ufo-books/goldsmith-donald-and-owen-tobias-the-search-for-life-in-the-universe' | relative_url }}">The Search for Life in the Universe</a>” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) (by Donald Goldsmith and Tobias Owen) at pages viii-ix (in the Foreword) of the Benjamin Cummings softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -65,10 +65,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sagan-carl">Sagan, Carl</a> in “<a href="/ufo-history/ufo-books/goldsmith-donald-and-owen-tobias-the-search-for-life-in-the-universe">The Search for Life in the Universe</a>” (<a href="/tags/1980">1980</a>) (by Donald Goldsmith and Tobias Owen) at pages ix-x (in Chapter 1) of the <a href="/tags/1992">1992</a> Addison Wesley softcover revised second edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sagan-carl' | relative_url }}">Sagan, Carl</a> in “<a href="{{ '/ufo-history/ufo-books/goldsmith-donald-and-owen-tobias-the-search-for-life-in-the-universe' | relative_url }}">The Search for Life in the Universe</a>” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) (by Donald Goldsmith and Tobias Owen) at pages ix-x (in Chapter 1) of the <a href="{{ '/tags/1992' | relative_url }}">1992</a> Addison Wesley softcover revised second edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -76,10 +76,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2003">2003</a></p>
+<p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/darling-david">Darling, David</a> in his online encyclopedia, “The Encyclopedia of Astrobiology, Astronomy and Spaceflight” (<a href="/tags/2003">2003</a>) in the entry entitled “<em>Search for Life in the Universe, the</em>”. The relevant entry is available online at: <a href="http://www.daviddarling.info/encyclopedia/S/SearchforLife.html">http://www.daviddarling.info/encyclopedia/S/SearchforLife.html</a></p>
+<p><a href="{{ '/ufo-history/ufo-personalities/darling-david' | relative_url }}">Darling, David</a> in his online encyclopedia, “The Encyclopedia of Astrobiology, Astronomy and Spaceflight” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) in the entry entitled “<em>Search for Life in the Universe, the</em>”. The relevant entry is available online at: <a href="http://www.daviddarling.info/encyclopedia/S/SearchforLife.html">http://www.daviddarling.info/encyclopedia/S/SearchforLife.html</a></p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

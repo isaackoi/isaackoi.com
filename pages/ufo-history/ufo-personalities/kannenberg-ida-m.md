@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/kannenberg_ida_1.jpg"}
 ---
 
-![kannenberg_ida_1](/images/stories/ufo_personalities/kannenberg_ida_1.jpg)
+![kannenberg_ida_1]({{ '/images/stories/ufo_personalities/kannenberg_ida_1.jpg' | relative_url }})
 
 *Ida M Kannenberg*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/kannenberg-ida-m">Kannenberg, Ida M</a> “Project Earth”</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/kannenberg-ida-m' | relative_url }}">Kannenberg, Ida M</a> “Project Earth”</p>
 </td>
 </tr>
 </tbody>
@@ -85,10 +85,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/emmons-charles-f">Emmons, Charles F</a> in his “<a href="/ufo-history/ufo-books/emmons-charles-f-at-the-threshold-ufos-science-and-the-new-age">At The Threshold: UFOs, Science and the New Age</a>” (available <a href="http://www.amazon.com/dp/0926524429/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0926524429/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 184 (in Chapter 9) of the Wild Flower Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/emmons-charles-f' | relative_url }}">Emmons, Charles F</a> in his “<a href="{{ '/ufo-history/ufo-books/emmons-charles-f-at-the-threshold-ufos-science-and-the-new-age' | relative_url }}">At The Threshold: UFOs, Science and the New Age</a>” (available <a href="http://www.amazon.com/dp/0926524429/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0926524429/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 184 (in Chapter 9) of the Wild Flower Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

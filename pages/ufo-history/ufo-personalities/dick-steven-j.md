@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/dick_steven_j_1.jpg"}
 ---
 
-![dick_steven_j_1](/images/stories/ufo_personalities/dick_steven_j_1.jpg)
+![dick_steven_j_1]({{ '/images/stories/ufo_personalities/dick_steven_j_1.jpg' | relative_url }})
 
 *Steven J Dick*
 
@@ -36,26 +36,26 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/dick-steven-j">Dick, Steven J</a> “<a href="/ufo-history/ufo-books/dick-steven-j-the-biological-universe">The Biological Universe</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/0521343267/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521343267/?&amp;tag=ufot-21">on Amazon UK</a>) (<a href="/tags/seti">SETI</a>:)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dick-steven-j' | relative_url }}">Dick, Steven J</a> “<a href="{{ '/ufo-history/ufo-books/dick-steven-j-the-biological-universe' | relative_url }}">The Biological Universe</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/0521343267/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521343267/?&amp;tag=ufot-21">on Amazon UK</a>) (<a href="{{ '/tags/seti' | relative_url }}">SETI</a>:)</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/dick-steven-j">Dick, Steven J</a> “<a href="/ufo-history/ufo-books/dick-steven-j-life-on-other-worlds">Life on Other Worlds</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0521620120/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521620120/?&amp;tag=ufot-21">on Amazon UK</a>) (<a href="/tags/seti">SETI</a>:)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dick-steven-j' | relative_url }}">Dick, Steven J</a> “<a href="{{ '/ufo-history/ufo-books/dick-steven-j-life-on-other-worlds' | relative_url }}">Life on Other Worlds</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0521620120/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521620120/?&amp;tag=ufot-21">on Amazon UK</a>) (<a href="{{ '/tags/seti' | relative_url }}">SETI</a>:)</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/dick-steven-j">Dick, Steven J</a> (Editor) “Many Worlds” (<a href="/tags/2000">2000</a>) (edited by Stephen J Dick) (available <a href="http://www.amazon.com/dp/1890151424/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1890151424/?&amp;tag=ufot-21">on Amazon UK</a>) (<a href="/tags/seti">SETI</a>:)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dick-steven-j' | relative_url }}">Dick, Steven J</a> (Editor) “Many Worlds” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (edited by Stephen J Dick) (available <a href="http://www.amazon.com/dp/1890151424/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1890151424/?&amp;tag=ufot-21">on Amazon UK</a>) (<a href="{{ '/tags/seti' | relative_url }}">SETI</a>:)</p>
 </td>
 </tr>
 </tbody>

@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/no_avatar.jpg"}
 ---
 
-![](/images/stories/no_avatar.jpg)
+![]({{ '/images/stories/no_avatar.jpg' | relative_url }})
 
 *Image needed*
 
@@ -21,7 +21,7 @@ Brief comments to be added on this individual.
 
 "Helene Smith" (a pseudonym for Catherine Elise Muller) was a Swiss medium. She claimed to have had psychic contact with a Martian intelligence.
 
-Her claims were the focus of Theodore Flourney's book “[From India to the Planet Mars](/ufo-history/ufo-books/flourney-th-from-india-to-the-planet-mars)” ([1900](/tags/1900)) (available [on Amazon USA](http://www.amazon.com/dp/0217697364/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0217697364/ref=nosim?tag=ufot-21)).
+Her claims were the focus of Theodore Flourney's book “[From India to the Planet Mars]({{ '/ufo-history/ufo-books/flourney-th-from-india-to-the-planet-mars' | relative_url }})” ([1900]({{ '/tags/1900' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0217697364/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0217697364/ref=nosim?tag=ufot-21)).
 
 1. [Web Resources](#web)
 
@@ -37,7 +37,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-See the references provided in the entry relating to Theodore Flourney's book “[From India to the Planet Mars](/ufo-history/ufo-books/flourney-th-from-india-to-the-planet-mars)” ([1900](/tags/1900)).
+See the references provided in the entry relating to Theodore Flourney's book “[From India to the Planet Mars]({{ '/ufo-history/ufo-books/flourney-th-from-india-to-the-planet-mars' | relative_url }})” ([1900]({{ '/tags/1900' | relative_url }})).
 
 <a id="other"></a>
 ### Other Material

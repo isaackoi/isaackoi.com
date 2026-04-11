@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/documents_1.gif"}
 ---
 
-![documents_1](/images/stories/ufo_tags/documents_1.gif)
+![documents_1]({{ '/images/stories/ufo_tags/documents_1.gif' | relative_url }})
 
 *Air Force Regulation 202 revised*
 
@@ -61,10 +61,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randle-kevin">Randle, Kevin</a> in his “<a href="/ufo-history/ufo-books/randle-kevin-d-project-bluebook-exposed">Project Bluebook Exposed</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1569246912/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1569246912/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 21 (in the unnumbered chapter entitled “In the Beginning…”) of the Marlowe softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randle-kevin' | relative_url }}">Randle, Kevin</a> in his “<a href="{{ '/ufo-history/ufo-books/randle-kevin-d-project-bluebook-exposed' | relative_url }}">Project Bluebook Exposed</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1569246912/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1569246912/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 21 (in the unnumbered chapter entitled “In the Beginning…”) of the Marlowe softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

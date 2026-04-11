@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -63,10 +63,10 @@ For discussion of wormholes see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Achenbach, Joel in his “<a href="/ufo-history/ufo-books/achenbach-joel-captured-by-aliens">Captured by Aliens</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0684848562/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684848562/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 151 (in Chapter 14) of the Simon and Schuster hardback edition.</p>
+<p>Achenbach, Joel in his “<a href="{{ '/ufo-history/ufo-books/achenbach-joel-captured-by-aliens' | relative_url }}">Captured by Aliens</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0684848562/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684848562/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 151 (in Chapter 14) of the Simon and Schuster hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -74,10 +74,10 @@ For discussion of wormholes see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p>Alschuler, William in his “<a href="/ufo-history/ufo-books/alschuler-william-r-the-science-of-ufos">The Science of UFOs</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/0312262256/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312262256/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 79-87, 88-89 (in Chapter 4) of the St Martin’s Press hardback edition.</p>
+<p>Alschuler, William in his “<a href="{{ '/ufo-history/ufo-books/alschuler-william-r-the-science-of-ufos' | relative_url }}">The Science of UFOs</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/0312262256/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312262256/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 79-87, 88-89 (in Chapter 4) of the St Martin’s Press hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>11</p>
@@ -85,10 +85,10 @@ For discussion of wormholes see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1979">1979</a></p>
+<p><a href="{{ '/tags/1979' | relative_url }}">1979</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/asimov-isaac">Asimov, Isaac</a> in his “Extraterrestrial Civilizations” (<a href="/tags/1979">1979</a>) (available <a href="http://www.amazon.com/dp/0449900207/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0449900207/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 222-224 (in Chapter 12) of the Crown hardback edition, at pages 252-254 of the Pan paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/asimov-isaac' | relative_url }}">Asimov, Isaac</a> in his “Extraterrestrial Civilizations” (<a href="{{ '/tags/1979' | relative_url }}">1979</a>) (available <a href="http://www.amazon.com/dp/0449900207/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0449900207/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 222-224 (in Chapter 12) of the Crown hardback edition, at pages 252-254 of the Pan paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -96,10 +96,10 @@ For discussion of wormholes see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/berry-adrian">Berry, Adrian</a> in his “The Giant Leap” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0312877854/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312877854/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 161-164 (in Chapter 13) of the revised Headline softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/berry-adrian' | relative_url }}">Berry, Adrian</a> in his “The Giant Leap” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0312877854/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312877854/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 161-164 (in Chapter 13) of the revised Headline softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -107,10 +107,10 @@ For discussion of wormholes see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Davidson, Keay in his “<a href="/ufo-history/ufo-personalities/sagan-carl">Carl Sagan</a>: A Life” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0471395366/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0471395366/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 403 (in Chapter 17), 493-494 (in the Notes) of the Wiley softcover edition.</p>
+<p>Davidson, Keay in his “<a href="{{ '/ufo-history/ufo-personalities/sagan-carl' | relative_url }}">Carl Sagan</a>: A Life” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0471395366/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0471395366/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 403 (in Chapter 17), 493-494 (in the Notes) of the Wiley softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -118,10 +118,10 @@ For discussion of wormholes see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/drake-frank">Drake, Frank</a> and Dava Sobel in their “<a href="/ufo-history/ufo-books/drake-frank-and-sobel-dava-is-anyone-out-there">Is Anyone Out There?</a>“ (<a href="/tags/1991">1991</a>) (available <a href="http://www.amazon.com/dp/038530532X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/038530532X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 124-125 (in Chapter 6) of the Pocket Books paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/drake-frank' | relative_url }}">Drake, Frank</a> and Dava Sobel in their “<a href="{{ '/ufo-history/ufo-books/drake-frank-and-sobel-dava-is-anyone-out-there' | relative_url }}">Is Anyone Out There?</a>“ (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/038530532X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/038530532X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 124-125 (in Chapter 6) of the Pocket Books paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -129,10 +129,10 @@ For discussion of wormholes see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/emmons-charles-f">Emmons, Charles F</a> in his “<a href="/ufo-history/ufo-books/emmons-charles-f-at-the-threshold-ufos-science-and-the-new-age">At The Threshold: UFOs, Science and the New Age</a>” (available <a href="http://www.amazon.com/dp/0926524429/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0926524429/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 127-130 (in Chapter 7) of the Wild Flower Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/emmons-charles-f' | relative_url }}">Emmons, Charles F</a> in his “<a href="{{ '/ufo-history/ufo-books/emmons-charles-f-at-the-threshold-ufos-science-and-the-new-age' | relative_url }}">At The Threshold: UFOs, Science and the New Age</a>” (available <a href="http://www.amazon.com/dp/0926524429/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0926524429/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 127-130 (in Chapter 7) of the Wild Flower Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -140,10 +140,10 @@ For discussion of wormholes see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2008">2008</a></p>
+<p><a href="{{ '/tags/2008' | relative_url }}">2008</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/friedman-stanton">Friedman, Stanton</a> in his “<a href="/ufo-history/ufo-books/friedman-stanton-flying-saucers-and-science-a-scientist-investigates-the-mysteries-of-ufos">Flying Saucers and Science : A Scientist Investigates the Mysteries of UFOs</a>” (<a href="/tags/2008">2008</a>) (available <a href="http://www.amazon.com/dp/1601630115/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1601630115/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 84 (in Chapter 2) of the New Page softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/friedman-stanton' | relative_url }}">Friedman, Stanton</a> in his “<a href="{{ '/ufo-history/ufo-books/friedman-stanton-flying-saucers-and-science-a-scientist-investigates-the-mysteries-of-ufos' | relative_url }}">Flying Saucers and Science : A Scientist Investigates the Mysteries of UFOs</a>” (<a href="{{ '/tags/2008' | relative_url }}">2008</a>) (available <a href="http://www.amazon.com/dp/1601630115/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1601630115/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 84 (in Chapter 2) of the New Page softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -151,10 +151,10 @@ For discussion of wormholes see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/greenwell-j-richard">Greenwell, J Richard</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 178 (in an entry entitled “Extraterrestrial Hypothesis”) of the New American Library softcover edition, at page 175 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/greenwell-j-richard' | relative_url }}">Greenwell, J Richard</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 178 (in an entry entitled “Extraterrestrial Hypothesis”) of the New American Library softcover edition, at page 175 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -162,10 +162,10 @@ For discussion of wormholes see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/greenwell-j-richard">Greenwell, J Richard</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 214-215 (in an entry entitled “Extraterrestrial Hypothesis”) of the Robinson softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/greenwell-j-richard' | relative_url }}">Greenwell, J Richard</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 214-215 (in an entry entitled “Extraterrestrial Hypothesis”) of the Robinson softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -173,10 +173,10 @@ For discussion of wormholes see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/harrison-albert-a">Harrison, Albert A</a> in his “<a href="/ufo-history/ufo-books/harrison-albert-a-after-contact-the-human-response-to-extraterrestrial-life">After Contact: The Human Response to Extraterrestrial Life</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0306456214/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0306456214/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 37-38 (in Chapter 2) of the Plenum Trade hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/harrison-albert-a' | relative_url }}">Harrison, Albert A</a> in his “<a href="{{ '/ufo-history/ufo-books/harrison-albert-a-after-contact-the-human-response-to-extraterrestrial-life' | relative_url }}">After Contact: The Human Response to Extraterrestrial Life</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0306456214/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0306456214/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 37-38 (in Chapter 2) of the Plenum Trade hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -184,10 +184,10 @@ For discussion of wormholes see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/harrison-albert-a">Harrison, Albert A</a> in his “<a href="/ufo-history/ufo-books/harrison-albert-a-spacefaring-the-human-dimension">Spacefaring : The Human Dimension</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/0520224531/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0520224531/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 251-252 (in Chapter 14) of the California softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/harrison-albert-a' | relative_url }}">Harrison, Albert A</a> in his “<a href="{{ '/ufo-history/ufo-books/harrison-albert-a-spacefaring-the-human-dimension' | relative_url }}">Spacefaring : The Human Dimension</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/0520224531/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0520224531/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 251-252 (in Chapter 14) of the California softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -195,10 +195,10 @@ For discussion of wormholes see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p>Lamb, David in his “<a href="/ufo-history/ufo-books/lamb-david-the-search-of-extraterrestrial-intelligence-a-philosophical-inquiry">The Search for Extraterrestrial Intelligence : A Philosophical Inquiry</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/0415243424/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0415243424/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 137-138 (in Chapter 5) of the Routledge softcover edition.</p>
+<p>Lamb, David in his “<a href="{{ '/ufo-history/ufo-books/lamb-david-the-search-of-extraterrestrial-intelligence-a-philosophical-inquiry' | relative_url }}">The Search for Extraterrestrial Intelligence : A Philosophical Inquiry</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/0415243424/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0415243424/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 137-138 (in Chapter 5) of the Routledge softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -206,10 +206,10 @@ For discussion of wormholes see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1977">1977</a></p>
+<p><a href="{{ '/tags/1977' | relative_url }}">1977</a></p>
 </td>
 <td valign="top" width="547">
-<p>Macvey, John W in his “<a href="/ufo-history/ufo-books/macvey-john-w-interstellar-travel">Interstellar Travel</a>” (<a href="/tags/1977">1977</a>) (available <a href="http://www.amazon.com/dp/0812885236/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0812885236/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 65-66 (in Chapter 4) of the Avon paperback edition.</p>
+<p>Macvey, John W in his “<a href="{{ '/ufo-history/ufo-books/macvey-john-w-interstellar-travel' | relative_url }}">Interstellar Travel</a>” (<a href="{{ '/tags/1977' | relative_url }}">1977</a>) (available <a href="http://www.amazon.com/dp/0812885236/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0812885236/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 65-66 (in Chapter 4) of the Avon paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -217,10 +217,10 @@ For discussion of wormholes see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1989">1989</a></p>
+<p><a href="{{ '/tags/1989' | relative_url }}">1989</a></p>
 </td>
 <td valign="top" width="547">
-<p>Mallove, Eugene F and Matloff, Gregory L in their “<a href="/ufo-history/ufo-books/mallove-eugene-and-matloff-gregory-the-starflight-handbook">The Starflight Handbook</a>” (<a href="/tags/1989">1989</a>) (available <a href="http://www.amazon.com/dp/0471619124/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0471619124/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 187-190 (in Chapter 13) of the Wiley hardback edition.</p>
+<p>Mallove, Eugene F and Matloff, Gregory L in their “<a href="{{ '/ufo-history/ufo-books/mallove-eugene-and-matloff-gregory-the-starflight-handbook' | relative_url }}">The Starflight Handbook</a>” (<a href="{{ '/tags/1989' | relative_url }}">1989</a>) (available <a href="http://www.amazon.com/dp/0471619124/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0471619124/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 187-190 (in Chapter 13) of the Wiley hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -228,10 +228,10 @@ For discussion of wormholes see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p>Parker, Barry in his “Alien Life” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0306457954/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0306457954/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 213-215 (in Chapter 12) of the Plenum Trade hardback edition.</p>
+<p>Parker, Barry in his “Alien Life” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0306457954/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0306457954/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 213-215 (in Chapter 12) of the Plenum Trade hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -239,10 +239,10 @@ For discussion of wormholes see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1981">1981</a></p>
+<p><a href="{{ '/tags/1981' | relative_url }}">1981</a></p>
 </td>
 <td valign="top" width="547">
-<p>Powers, Robert M in his “The Coattails of God: The Trip to the Stars” (<a href="/tags/1981">1981</a>) (available <a href="http://www.amazon.com/dp/0446512311/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0446512311/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 67-69 (in Chapter 4) of the Warner paperback edition.</p>
+<p>Powers, Robert M in his “The Coattails of God: The Trip to the Stars” (<a href="{{ '/tags/1981' | relative_url }}">1981</a>) (available <a href="http://www.amazon.com/dp/0446512311/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0446512311/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 67-69 (in Chapter 4) of the Warner paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -250,10 +250,10 @@ For discussion of wormholes see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2002">2002</a></p>
+<p><a href="{{ '/tags/2002' | relative_url }}">2002</a></p>
 </td>
 <td valign="top" width="547">
-<p>Ross, Hugh in “Lights in the Sky and Little Green Men” (<a href="/tags/2002">2002</a>) (edited by Ross, Hugh and Samples, Kenneth and Clark, Mark) (available <a href="http://www.amazon.com/dp/1576832082/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1576832082/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 59-61 (in Chapter 5) of the Navpress softcover edition.</p>
+<p>Ross, Hugh in “Lights in the Sky and Little Green Men” (<a href="{{ '/tags/2002' | relative_url }}">2002</a>) (edited by Ross, Hugh and Samples, Kenneth and Clark, Mark) (available <a href="http://www.amazon.com/dp/1576832082/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1576832082/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 59-61 (in Chapter 5) of the Navpress softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -261,10 +261,10 @@ For discussion of wormholes see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2002">2002</a></p>
+<p><a href="{{ '/tags/2002' | relative_url }}">2002</a></p>
 </td>
 <td valign="top" width="547">
-<p>Webb, Stephen in his “<a href="/ufo-history/ufo-books/webb-stephen-where-is-everybody-fifty-solutions-to-the-fermi-paradox">Where is Everybody?: Fifty Solutions to the Fermi Paradox</a>” (<a href="/tags/2002">2002</a>) (available <a href="http://www.amazon.com/dp/0387955011/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0387955011/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 68-69 (in Chapter 4) of the Copernicus hardback edition.</p>
+<p>Webb, Stephen in his “<a href="{{ '/ufo-history/ufo-books/webb-stephen-where-is-everybody-fifty-solutions-to-the-fermi-paradox' | relative_url }}">Where is Everybody?: Fifty Solutions to the Fermi Paradox</a>” (<a href="{{ '/tags/2002' | relative_url }}">2002</a>) (available <a href="http://www.amazon.com/dp/0387955011/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0387955011/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 68-69 (in Chapter 4) of the Copernicus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -272,10 +272,10 @@ For discussion of wormholes see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/white-michael">White, Michael</a> in his “Life Out There” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/088001671X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/088001671X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 158-162 (in Chapter 8) of the Little, Brown &amp; Co hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/white-michael' | relative_url }}">White, Michael</a> in his “Life Out There” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/088001671X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/088001671X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 158-162 (in Chapter 8) of the Little, Brown &amp; Co hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>
@@ -287,6 +287,6 @@ For discussion of wormholes see the following:
 <a id="other"></a>
 ### Other Material
 
-Michael S Morris and Kip S Thorne, "Wormholes in Spacetime and Their Use for Interstellar Travel: A Tool for Teaching General Relativity," *American Journal of Physics*, 56, 395-416 ([1988](/tags/1988)).
+Michael S Morris and Kip S Thorne, "Wormholes in Spacetime and Their Use for Interstellar Travel: A Tool for Teaching General Relativity," *American Journal of Physics*, 56, 395-416 ([1988]({{ '/tags/1988' | relative_url }})).
 
 Please use the comments section below to share references to any particularly interesting relevant articles.

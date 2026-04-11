@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0471395366.jpg"}
 book: {"identifiers": ["B000BTCQD4", "0471395366", "0805057668"], "primary_isbn": "0471395366", "cover_image": "/book-covers/0471395366.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Carl Sagan](/ufo-history/ufo-personalities/sagan-carl)'s book “[Other Worlds](/ufo-history/ufo-books/sagan-carl-other-worlds)" ([1975](/tags/1975)) (available [on Amazon USA](http://www.amazon.com/dp/B000BTCQD4/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B000BTCQD4/?&tag=ufot-21))
+Brief review to be added of [Carl Sagan]({{ '/ufo-history/ufo-personalities/sagan-carl' | relative_url }})'s book “[Other Worlds]({{ '/ufo-history/ufo-books/sagan-carl-other-worlds' | relative_url }})" ([1975]({{ '/tags/1975' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/B000BTCQD4/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B000BTCQD4/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -34,7 +34,7 @@ The table below includes references to relevant discussions in UFO/SETI books no
 
 Many of the tables of references on this website are considerably longer than the references to books found on most other UFO websites. Indeed, some are probably the longest that have been collated in relation to some events and personalities. I hope that these tables are found to be a useful contribution to UFOlogy.
 
-For discussion of Sagan’s “[Other Worlds](/ufo-history/ufo-books/sagan-carl-other-worlds)” see the following:
+For discussion of Sagan’s “[Other Worlds]({{ '/ufo-history/ufo-books/sagan-carl-other-worlds' | relative_url }})” see the following:
 
 <table border="1" cellpadding="0" cellspacing="0" class="sortable" data-sortable="true" id="sortabletable">
 <thead>
@@ -54,10 +54,10 @@ For discussion of Sagan’s “[Other Worlds](/ufo-history/ufo-books/sagan-carl-
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Davidson, Keay in his “<a href="/ufo-history/ufo-personalities/sagan-carl">Carl Sagan</a>: A Life” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0471395366/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0471395366/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 268-269 (in Chapter 10) of the Wiley softcover edition.</p>
+<p>Davidson, Keay in his “<a href="{{ '/ufo-history/ufo-personalities/sagan-carl' | relative_url }}">Carl Sagan</a>: A Life” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0471395366/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0471395366/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 268-269 (in Chapter 10) of the Wiley softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -65,10 +65,10 @@ For discussion of Sagan’s “[Other Worlds](/ufo-history/ufo-books/sagan-carl-
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Poundstone, William in his “<a href="/ufo-history/ufo-books/poundstone-william-carl-sagan-a-life-in-the-cosmos">Carl Sagan: A Life in the Cosmos</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0805057668/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0805057668/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 181, 192 (in the chapter entitled “Ithaca <a href="/tags/1968">1968</a>-76”) of the Owl Books softcover edition.</p>
+<p>Poundstone, William in his “<a href="{{ '/ufo-history/ufo-books/poundstone-william-carl-sagan-a-life-in-the-cosmos' | relative_url }}">Carl Sagan: A Life in the Cosmos</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0805057668/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0805057668/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 181, 192 (in the chapter entitled “Ithaca <a href="{{ '/tags/1968' | relative_url }}">1968</a>-76”) of the Owl Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

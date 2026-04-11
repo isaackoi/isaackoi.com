@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/documents_1.gif"}
 ---
 
-![documents_1](/images/stories/ufo_tags/documents_1.gif)
+![documents_1]({{ '/images/stories/ufo_tags/documents_1.gif' | relative_url }})
 
 *CAA press release*
 
@@ -43,7 +43,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-Image of press release in Leon Davidson’s “[Flying Saucers: An Analysis of the Air Force Project Blue Book Special Report No. 14](/ufo-history/ufo-books/davidson-leon-flying-saucers-an-analysis-of-the-air-force-project-blue-book-special-report-no-14)” ([1966](/tags/1966).0700) at page A7 of the Ramsey-Wallace paperbound 3<sup>rd</sup> Edition.
+Image of press release in Leon Davidson’s “[Flying Saucers: An Analysis of the Air Force Project Blue Book Special Report No. 14]({{ '/ufo-history/ufo-books/davidson-leon-flying-saucers-an-analysis-of-the-air-force-project-blue-book-special-report-no-14' | relative_url }})” ([1966]({{ '/tags/1966' | relative_url }}).0700) at page A7 of the Ramsey-Wallace paperbound 3<sup>rd</sup> Edition.
 
 The table below includes references to relevant discussions in UFO/SETI books noted by Isaac Koi during a review of approximately 963 UFO/SETI books during the period 2003-2006 (with a few later additions). The table can be sorted by author, date and length of discussion by clicking on the relevant word in the top line of the table.
 
@@ -69,10 +69,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1967">1967</a></p>
+<p><a href="{{ '/tags/1967' | relative_url }}">1967</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/edwards-frank">Edwards, Frank</a> in his “<a href="/ufo-history/ufo-books/edwards-frank-flying-saucers-here-and-now">Flying Saucers – Here and Now!</a>” (<a href="/tags/1967">1967</a>) (available <a href="http://www.amazon.com/dp/B0000CODS3/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0000CODS3/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 90-91 (in Chapter 8) of the Bantam paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/edwards-frank' | relative_url }}">Edwards, Frank</a> in his “<a href="{{ '/ufo-history/ufo-books/edwards-frank-flying-saucers-here-and-now' | relative_url }}">Flying Saucers – Here and Now!</a>” (<a href="{{ '/tags/1967' | relative_url }}">1967</a>) (available <a href="http://www.amazon.com/dp/B0000CODS3/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0000CODS3/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 90-91 (in Chapter 8) of the Bantam paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -80,10 +80,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1964">1964</a></p>
+<p><a href="{{ '/tags/1964' | relative_url }}">1964</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/edwards-frank">Edwards, Frank</a> in his “Strange World” (<a href="/tags/1964">1964</a>) (available <a href="http://www.amazon.com/dp/0806509783/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806509783/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 22-23 (in Chapter 3), 129 (in Chapter 58) of the Ace paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/edwards-frank' | relative_url }}">Edwards, Frank</a> in his “Strange World” (<a href="{{ '/tags/1964' | relative_url }}">1964</a>) (available <a href="http://www.amazon.com/dp/0806509783/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806509783/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 22-23 (in Chapter 3), 129 (in Chapter 58) of the Ace paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -91,10 +91,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1962">1962</a></p>
+<p><a href="{{ '/tags/1962' | relative_url }}">1962</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/edwards-frank">Edwards, Frank</a> in his “Strangest of All” (<a href="/tags/1962">1962</a>) (available <a href="http://www.amazon.com/dp/B000JIMQ2I/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000JIMQ2I/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 170-171 (in the unnumbered chapter entitled “Authorities Who Believe in Flying Saucers”) of the Ace paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/edwards-frank' | relative_url }}">Edwards, Frank</a> in his “Strangest of All” (<a href="{{ '/tags/1962' | relative_url }}">1962</a>) (available <a href="http://www.amazon.com/dp/B000JIMQ2I/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000JIMQ2I/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 170-171 (in the unnumbered chapter entitled “Authorities Who Believe in Flying Saucers”) of the Ace paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -102,10 +102,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1964">1964</a></p>
+<p><a href="{{ '/tags/1964' | relative_url }}">1964</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/nicap">NICAP</a> in its “<a href="/ufo-history/ufo-books/hall-richard-h-ed-nicap-the-ufo-evidence">The UFO Evidence</a>” (<a href="/tags/1964">1964</a>) (edited by <a href="/ufo-history/ufo-personalities/hall-richard-h">Richard Hall</a>) (available <a href="http://www.amazon.com/dp/0760706271/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0760706271/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 82 (in Section 8) of the privately published paperbound edition, with the same page numbering in the <a href="/tags/1997">1997</a> Barnes &amp; Noble paperbound reprint. Available free online at: “ <a href="http://www.nicap.org/ufoe/section_8.htm">http://www.nicap.org/ufoe/section_8.htm</a></p>
+<p><a href="{{ '/ufo-history/ufo-personalities/nicap' | relative_url }}">NICAP</a> in its “<a href="{{ '/ufo-history/ufo-books/hall-richard-h-ed-nicap-the-ufo-evidence' | relative_url }}">The UFO Evidence</a>” (<a href="{{ '/tags/1964' | relative_url }}">1964</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/hall-richard-h' | relative_url }}">Richard Hall</a>) (available <a href="http://www.amazon.com/dp/0760706271/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0760706271/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 82 (in Section 8) of the privately published paperbound edition, with the same page numbering in the <a href="{{ '/tags/1997' | relative_url }}">1997</a> Barnes &amp; Noble paperbound reprint. Available free online at: “ <a href="http://www.nicap.org/ufoe/section_8.htm">http://www.nicap.org/ufoe/section_8.htm</a></p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -113,10 +113,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/peebles-curtis">Peebles, Curtis</a> in his “<a href="/ufo-history/ufo-books/peebles-curtis-watch-the-skies">Watch the Skies!</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/1560983434/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1560983434/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 66-67 (Chapter 5, “The <a href="/tags/1952">1952</a> Flap” – in a section entitled “Investigation”) of the Smithsonian hardback edition, pages 78-80 of the Berkley paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/peebles-curtis' | relative_url }}">Peebles, Curtis</a> in his “<a href="{{ '/ufo-history/ufo-books/peebles-curtis-watch-the-skies' | relative_url }}">Watch the Skies!</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/1560983434/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1560983434/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 66-67 (Chapter 5, “The <a href="{{ '/tags/1952' | relative_url }}">1952</a> Flap” – in a section entitled “Investigation”) of the Smithsonian hardback edition, pages 78-80 of the Berkley paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -124,10 +124,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1974">1974</a></p>
+<p><a href="{{ '/tags/1974' | relative_url }}">1974</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/quintanilla-hector">Quintanilla, Hector</a> (Major) in his unpublished manuscript entitled “<a href="/ufo-history/ufo-books/quintanilla-hector-major-ufos-an-air-force-dilemma">UFOs: An Air Force Dilemma</a>” (copyright <a href="/tags/1974">1974</a>) at pages 108-109 of the manuscript, at pages 123-124 of the NIDS pdf version available free on-line on various websites, including at the following link: <a href="http://www.projectbluebook.us/UFOs%20An%20Air%20Force%20Dilemma%20By%20Quintanilla.pdf">http://www.projectbluebook.us/UFOs%20An%20Air%20Force%20Dilemma%20By%20Quintanilla.pdf</a></p>
+<p><a href="{{ '/ufo-history/ufo-personalities/quintanilla-hector' | relative_url }}">Quintanilla, Hector</a> (Major) in his unpublished manuscript entitled “<a href="{{ '/ufo-history/ufo-books/quintanilla-hector-major-ufos-an-air-force-dilemma' | relative_url }}">UFOs: An Air Force Dilemma</a>” (copyright <a href="{{ '/tags/1974' | relative_url }}">1974</a>) at pages 108-109 of the manuscript, at pages 123-124 of the NIDS pdf version available free on-line on various websites, including at the following link: <a href="http://www.projectbluebook.us/UFOs%20An%20Air%20Force%20Dilemma%20By%20Quintanilla.pdf">http://www.projectbluebook.us/UFOs%20An%20Air%20Force%20Dilemma%20By%20Quintanilla.pdf</a></p>
 <p><a href="http://www.nidsci.org/pdf/quintanilla.pdf">http://www.nidsci.org/pdf/quintanilla.pdf</a></p>
 <p> </p>
 </td>
@@ -141,6 +141,6 @@ For discussion see the following:
 <a id="other"></a>
 ### Other Material
 
-CAA Technical Development Report Number 180-CAB, “A Preliminary Study of Unidentified Targets Observed On Air Traffic Control Radars” by Borden, R C and Vickers, T K. (Civil Aeronautics Administration Technical Development and Evaluation Center, Indianapolis, Indiana, September [1952](/tags/1952)).
+CAA Technical Development Report Number 180-CAB, “A Preliminary Study of Unidentified Targets Observed On Air Traffic Control Radars” by Borden, R C and Vickers, T K. (Civil Aeronautics Administration Technical Development and Evaluation Center, Indianapolis, Indiana, September [1952]({{ '/tags/1952' | relative_url }})).
 
 Please use the comments section below to share references to any particularly interesting relevant articles.

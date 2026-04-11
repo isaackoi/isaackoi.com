@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/1571743170.jpg"}
 book: {"identifiers": ["1571743170"], "primary_isbn": "1571743170", "cover_image": "/book-covers/1571743170.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Richard Dolan](/ufo-history/ufo-personalities/dolan-richard)'s book “[UFOs and the National Security State: Volume 1: 1941-1973: 1941-1973](/ufo-history/ufo-books/dolan-richard-ufos-and-the-national-security-state-volume-1-1941-1973)” ([2000](/tags/2000)) (available [on Amazon USA](http://www.amazon.com/dp/1571743170/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1571743170/?&tag=ufot-21)).
+Brief review to be added of [Richard Dolan]({{ '/ufo-history/ufo-personalities/dolan-richard' | relative_url }})'s book “[UFOs and the National Security State: Volume 1: 1941-1973: 1941-1973]({{ '/ufo-history/ufo-books/dolan-richard-ufos-and-the-national-security-state-volume-1-1941-1973' | relative_url }})” ([2000]({{ '/tags/2000' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1571743170/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1571743170/?&tag=ufot-21)).
 
 1. [Web Resources](#web)
 
@@ -52,10 +52,10 @@ Many of the tables of references on this website are considerably longer than th
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/vallee-jacques">Jacques Vallee</a> in <a href="/ufo-history/ufo-personalities/dolan-richard">Richard M. Dolan</a>’s “<a href="/ufo-history/ufo-books/dolan-richard-ufos-and-the-national-security-state-volume-1-1941-1973">UFOs and the National Security State: Volume 1: 1941-1973</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/1571743170/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1571743170/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages ix-xii (in the Foreword) of the <a href="/tags/2002">2002</a> revised Hampton Road softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/vallee-jacques' | relative_url }}">Jacques Vallee</a> in <a href="{{ '/ufo-history/ufo-personalities/dolan-richard' | relative_url }}">Richard M. Dolan</a>’s “<a href="{{ '/ufo-history/ufo-books/dolan-richard-ufos-and-the-national-security-state-volume-1-1941-1973' | relative_url }}">UFOs and the National Security State: Volume 1: 1941-1973</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/1571743170/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1571743170/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages ix-xii (in the Foreword) of the <a href="{{ '/tags/2002' | relative_url }}">2002</a> revised Hampton Road softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>

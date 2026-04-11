@@ -15,7 +15,7 @@ header: {"preview_image": "/images/stories/alien_photos/koi_ap_49_a.jpg"}
 
 [/other/admin/portrait-images-needed](/other/admin/portrait-images-needed)
 
-![](/images/stories/alien_photos/koi_ap_49_a.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_49_a.jpg' | relative_url }})
 
 *Koi Alien Photo 49*
 
@@ -40,9 +40,9 @@ Sections below:
 <a id="image"></a>
 ### 1. The relevant image
 
-![](/images/stories/alien_photos/koi_ap_49_a.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_49_a.jpg' | relative_url }})
 
-![](/images/stories/alien_photos/koi_ap_49_b.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_49_b.jpg' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this image

@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/temple_robert_1.jpg"}
 ---
 
-![temple_robert_1](/images/stories/ufo_personalities/temple_robert_1.jpg)
+![temple_robert_1]({{ '/images/stories/ufo_personalities/temple_robert_1.jpg' | relative_url }})
 
 *Robert Temple*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1976">1976</a></p>
+<p><a href="{{ '/tags/1976' | relative_url }}">1976</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/temple-robert">Temple, Robert</a> “<a href="/ufo-history/ufo-books/temple-robert-the-sirius-mystery">The Sirius Mystery</a>” (<a href="/tags/1976">1976</a>)(available <a href="http://www.amazon.com/dp/089281750X/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/089281750X/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/temple-robert' | relative_url }}">Temple, Robert</a> “<a href="{{ '/ufo-history/ufo-books/temple-robert-the-sirius-mystery' | relative_url }}">The Sirius Mystery</a>” (<a href="{{ '/tags/1976' | relative_url }}">1976</a>)(available <a href="http://www.amazon.com/dp/089281750X/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/089281750X/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>
@@ -59,7 +59,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-See the references provided in the entry for Temple's book “[The Sirius Mystery](/ufo-history/ufo-books/temple-robert-the-sirius-mystery)” ([1976](/tags/1976)).
+See the references provided in the entry for Temple's book “[The Sirius Mystery]({{ '/ufo-history/ufo-books/temple-robert-the-sirius-mystery' | relative_url }})” ([1976]({{ '/tags/1976' | relative_url }})).
 
 <a id="other"></a>
 ### Other Material

@@ -13,7 +13,7 @@ planned_sections: ["1. The relevant image", "2. Stories and claims relating to t
 header: {"preview_image": "/images/stories/alien_photos/koi_ap_73_a.jpg"}
 ---
 
-![](/images/stories/alien_photos/koi_ap_73_a.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_73_a.jpg' | relative_url }})
 
 *Koi Alien Photo 73*
 
@@ -48,7 +48,7 @@ Sections below:
 <a id="image"></a>
 ### 1. The relevant image
 
-![](/images/stories/alien_photos/koi_ap_73_a.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_73_a.jpg' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this image
@@ -62,27 +62,27 @@ This image has appeared on various websites, with a title indicating that it is 
 
 This photo is a manipulated version of a photograph that appeared on the front page of The *Illustrierter Beobachter* (the Nazi Party’s weekly illustrated magazine) in 1938. The original version shows Adolf Hitler shaking hands with the Italian leader, Mussolini (see image below labelled "Koi_ap_73_c").
 
-![](/images/stories/alien_photos/koi_ap_73_c.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_73_c.jpg' | relative_url }})
 
 This photograph of Hitler featured (in an altered form) on the cover of a UFO documentary ("UFO Secrets of the Third Reich") and the hoaxer may have borrowed the image from that documentary cover:
 
-![](/images/stories/alien_photos/koi_ap_73_b.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_73_b.jpg' | relative_url }})
 
 The "alien" in this particular photograph looks like one of the "Asgard" aliens from the science-fiction television series Stargate SG-1 (including the character "Thor"). However, more detailed examination of images of the "Asgard" and also of other cinema aliens suggests that the relevant "alien" is in fact taken from an image of the alien devised for the "Roswell" movie in 1994 - note in particular the ears, shoulders, eyes and ridge in the middle of the alien's forehead.
 
 A Roswell "alien" is sold online made from the special effects artist Steve Johnson's original movie mold (see the photo labelled "koi_ap_73_f" and "koi_ap_73_g").
 
-![](/images/stories/alien_photos/koi_ap_73_f.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_73_f.jpg' | relative_url }})
 
-![](/images/stories/alien_photos/koi_ap_73_g.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_73_g.jpg' | relative_url }})
 
 This "alien" mould was created by special effects artist Steve Johnson (see photo below, labelled "koi_ap_73_e").
 
-![](/images/stories/alien_photos/koi_ap_73_e.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_73_e.jpg' | relative_url }})
 
 Steve Johnson and his company XFX have also worked on Stargate SG-1, which may explain the similarities to the Asguard (see photo below, labelled "koi_ap_73_h").
 
-![](/images/stories/alien_photos/koi_ap_73_h.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_73_h.jpg' | relative_url }})
 
 <a id="forums"></a>
 ### 4. Relevant online forum discussions

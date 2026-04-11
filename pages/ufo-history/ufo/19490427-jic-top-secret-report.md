@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/documents_1.gif"}
 ---
 
-![documents_1](/images/stories/ufo_tags/documents_1.gif)
+![documents_1]({{ '/images/stories/ufo_tags/documents_1.gif' | relative_url }})
 
 *JIC Top Secret report*
 
@@ -23,7 +23,7 @@ On 27 April
 
 , the U.S. Joint Committee on Intelligence (“JIC”) was provided with a Top Secret report on “Unidentified Aerial Objects” by the Air Force Director of Intelligence.
 
-Directorate of Intelligence, USAF, Decimal Correspondence File, "Flying Discs," [1949](/tags/1949), National Archives II, College Park Maryland.
+Directorate of Intelligence, USAF, Decimal Correspondence File, "Flying Discs," [1949]({{ '/tags/1949' | relative_url }}), National Archives II, College Park Maryland.
 
 Sections below
 
@@ -40,7 +40,7 @@ Text of report available online at:
 
 [http://www.project1947.com/fig/jic.htm](http://www.project1947.com/fig/jic.htm)
 
-Background to this, and other [1949](/tags/1949) Air Force documents, contained in an article by Jan Aldrich available online on the [Project 1947](/ufo-history/ufo-personalities/project-1947) website at:
+Background to this, and other [1949]({{ '/tags/1949' | relative_url }}) Air Force documents, contained in an article by Jan Aldrich available online on the [Project 1947]({{ '/ufo-history/ufo-personalities/project-1947' | relative_url }}) website at:
 
 http://www.project1947.com/fig/49docdex.htm
 
@@ -76,7 +76,7 @@ For discussion see the following:
 <p> </p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/aldrich-jan">Aldrich, Jan</a> in an article available online on the <a href="/ufo-history/ufo-personalities/project-1947">Project 1947</a> website at: <a href="http://www.project1947.com/fig/49docdex.htm">http://www.project1947.com/fig/49docdex.htm</a></p>
+<p><a href="{{ '/ufo-history/ufo-personalities/aldrich-jan' | relative_url }}">Aldrich, Jan</a> in an article available online on the <a href="{{ '/ufo-history/ufo-personalities/project-1947' | relative_url }}">Project 1947</a> website at: <a href="http://www.project1947.com/fig/49docdex.htm">http://www.project1947.com/fig/49docdex.htm</a></p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -84,10 +84,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/hall-michael-david">Hall, Michael David</a> and <a href="/ufo-history/ufo-personalities/connors-wendy-ann">Connors, Wendy Ann</a> in their “<a href="/ufo-history/ufo-books/hall-michael-david-and-connors-wendy-ann-captain-edward-j-ruppelt">Captain Edward J Ruppelt : Summer of the Saucers - 1952</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/0970505507/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0970505507/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 15 (in Chapter 1) of the Rose Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hall-michael-david' | relative_url }}">Hall, Michael David</a> and <a href="{{ '/ufo-history/ufo-personalities/connors-wendy-ann' | relative_url }}">Connors, Wendy Ann</a> in their “<a href="{{ '/ufo-history/ufo-books/hall-michael-david-and-connors-wendy-ann-captain-edward-j-ruppelt' | relative_url }}">Captain Edward J Ruppelt : Summer of the Saucers - 1952</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/0970505507/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0970505507/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 15 (in Chapter 1) of the Rose Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -95,10 +95,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/maccabee-bruce">Maccabee, Bruce</a> in his “<a href="/ufo-history/ufo-books/maccabee-bruce-ufo-fbi-connection">UFO-FBI Connection</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/1567184936/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1567184936/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 94-97 (in Chapter 9) of the Llewellyn softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/maccabee-bruce' | relative_url }}">Maccabee, Bruce</a> in his “<a href="{{ '/ufo-history/ufo-books/maccabee-bruce-ufo-fbi-connection' | relative_url }}">UFO-FBI Connection</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/1567184936/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1567184936/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 94-97 (in Chapter 9) of the Llewellyn softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>

@@ -14,9 +14,9 @@ header: {"preview_image": "/book-covers/0964491702.jpg"}
 book: {"identifiers": ["0964491702", "0806918918"], "primary_isbn": "0964491702", "cover_image": "/book-covers/0964491702.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of “[Alien Discussions: Abduction Study Conference Held at M. I. T.](/ufo-history/ufo-books/pritchard-andrea-et-al-editors-alien-discussions-abduction-study-conference-held-at-m-i-t)” ([1994](/tags/1994)) (available [on Amazon USA](http://www.amazon.com/dp/0964491702/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0964491702/?&tag=ufot-21)) edited by Andrea ritchard et al.
+Brief review to be added of “[Alien Discussions: Abduction Study Conference Held at M. I. T.]({{ '/ufo-history/ufo-books/pritchard-andrea-et-al-editors-alien-discussions-abduction-study-conference-held-at-m-i-t' | relative_url }})” ([1994]({{ '/tags/1994' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0964491702/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0964491702/?&tag=ufot-21)) edited by Andrea ritchard et al.
 
-See also the entry in relation to the relevant five day conference at MIT in June [1992](/tags/1992).
+See also the entry in relation to the relevant five day conference at MIT in June [1992]({{ '/tags/1992' | relative_url }}).
 
 1. [Web Resources](#web)
 
@@ -56,10 +56,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-the-little-giant-encyclopedia-of-ufos">The Little Giant Encyclopedia of UFOs</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/0806918918/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806918918/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 128 (in Part 1, “A UFO Timeline”) of the Sterling softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-the-little-giant-encyclopedia-of-ufos' | relative_url }}">The Little Giant Encyclopedia of UFOs</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/0806918918/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806918918/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 128 (in Part 1, “A UFO Timeline”) of the Sterling softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -67,10 +67,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p>Pritchard, Dave and <a href="/ufo-history/ufo-personalities/mack-john-e">Mack, John E</a> in “<a href="/ufo-history/ufo-books/pritchard-andrea-et-al-editors-alien-discussions-abduction-study-conference-held-at-m-i-t">Alien Discussions: Abduction Study Conference Held at M. I. T.</a>” (<a href="/tags/1994">1994</a>) (edited by Pritchard, Andrea et al.) at pages 11-13 (in Chapter 1, unnumbered sub-chapter entitled “Foreword”) of the North Cambridge Press hardback edition.</p>
+<p>Pritchard, Dave and <a href="{{ '/ufo-history/ufo-personalities/mack-john-e' | relative_url }}">Mack, John E</a> in “<a href="{{ '/ufo-history/ufo-books/pritchard-andrea-et-al-editors-alien-discussions-abduction-study-conference-held-at-m-i-t' | relative_url }}">Alien Discussions: Abduction Study Conference Held at M. I. T.</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (edited by Pritchard, Andrea et al.) at pages 11-13 (in Chapter 1, unnumbered sub-chapter entitled “Foreword”) of the North Cambridge Press hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>

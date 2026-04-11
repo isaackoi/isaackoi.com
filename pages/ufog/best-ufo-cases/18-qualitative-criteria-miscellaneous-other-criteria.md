@@ -13,9 +13,9 @@ planned_sections: []
 header: {"preview_image": null}
 ---
 
-“[Best UFO Cases](/ufog/best-ufo-cases)” by Isaac Koi
+“[Best UFO Cases]({{ '/ufog/best-ufo-cases' | relative_url }})” by Isaac Koi
 
-[PART 18: Qualitative criteria: Miscellaneous other criteria](/ufog/best-ufo-cases/18-qualitative-criteria-miscellaneous-other-criteria)
+[PART 18: Qualitative criteria: Miscellaneous other criteria]({{ '/ufog/best-ufo-cases/18-qualitative-criteria-miscellaneous-other-criteria' | relative_url }})
 
 Below are some notes I have made on points I considered interesting on miscellaneous other qualititative criteria relevant to the weight to be given to a UFO report.
 

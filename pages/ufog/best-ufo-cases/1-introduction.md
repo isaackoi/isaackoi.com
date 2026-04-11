@@ -13,9 +13,9 @@ planned_sections: []
 header: {"preview_image": null}
 ---
 
-“[Best UFO Cases](/ufog/best-ufo-cases)” by Isaac Koi
+“[Best UFO Cases]({{ '/ufog/best-ufo-cases' | relative_url }})” by Isaac Koi
 
-[PART 1: Best UFO Cases: Introduction](/ufog/best-ufo-cases/1-introduction)
+[PART 1: Best UFO Cases: Introduction]({{ '/ufog/best-ufo-cases/1-introduction' | relative_url }})
 
 Ufologists regularly complain that skeptics fail to address the best UFO cases.
 
@@ -25,57 +25,57 @@ This article considers some of those complaints.
 
 Due its length, this article has been split into several parts:
 
-[PART 1: Best UFO Cases: Introduction](/ufog/best-ufo-cases/1-introduction)
+[PART 1: Best UFO Cases: Introduction]({{ '/ufog/best-ufo-cases/1-introduction' | relative_url }})
 
-[PART 2: Challenges to produce lists of top cases](/ufog/best-ufo-cases/2-challenges-to-produce-lists-of-top-cases)
+[PART 2: Challenges to produce lists of top cases]({{ '/ufog/best-ufo-cases/2-challenges-to-produce-lists-of-top-cases' | relative_url }})
 
-[PART 3: Existing lists by various individuals](/ufog/best-ufo-cases/3-experts-short-lists)
+[PART 3: Existing lists by various individuals]({{ '/ufog/best-ufo-cases/3-experts-short-lists' | relative_url }})
 
-[PART 4: Consensus lists: Introduction](/ufog/best-ufo-cases/4-consensus-lists-introduction)
+[PART 4: Consensus lists: Introduction]({{ '/ufog/best-ufo-cases/4-consensus-lists-introduction' | relative_url }})
 
-[PART 5: Consensus lists: Jacques Vallee’s poll (1965)](/ufog/best-ufo-cases/5-consensus-lists-jacques-vallees-poll-1965)
+[PART 5: Consensus lists: Jacques Vallee’s poll (1965)]({{ '/ufog/best-ufo-cases/5-consensus-lists-jacques-vallees-poll-1965' | relative_url }})
 
-[PART 6: Consensus lists: Ronald Story’s poll (1979)](/ufog/best-ufo-cases/6-consensus-lists-ronald-storys-poll)
+[PART 6: Consensus lists: Ronald Story’s poll (1979)]({{ '/ufog/best-ufo-cases/6-consensus-lists-ronald-storys-poll' | relative_url }})
 
-[PART 7: Consensus lists: Paul Kimball’s Vox Populi poll (2006)](/ufog/best-ufo-cases/7-consensus-lists-paul-kimballs-vox-populi-poll-2006)
+[PART 7: Consensus lists: Paul Kimball’s Vox Populi poll (2006)]({{ '/ufog/best-ufo-cases/7-consensus-lists-paul-kimballs-vox-populi-poll-2006' | relative_url }})
 
-[PART 8: Consensus lists: Paul Kimball’s expert poll (2005/6)](/ufog/best-ufo-cases/8-consensus-lists-kimballs-expert-poll-2007)
+[PART 8: Consensus lists: Paul Kimball’s expert poll (2005/6)]({{ '/ufog/best-ufo-cases/8-consensus-lists-kimballs-expert-poll-2007' | relative_url }})
 
-[PART 9: Consensus lists: Fortean Times expert poll (2007)](/ufog/best-ufo-cases/9-consensus-lists-fortean-times-expert-poll-2007)
+[PART 9: Consensus lists: Fortean Times expert poll (2007)]({{ '/ufog/best-ufo-cases/9-consensus-lists-fortean-times-expert-poll-2007' | relative_url }})
 
-[PART 10: Consensus lists: National Enquirer Panel](/ufog/best-ufo-cases/10-consensus-lists-national-enquirer-panel)
+[PART 10: Consensus lists: National Enquirer Panel]({{ '/ufog/best-ufo-cases/10-consensus-lists-national-enquirer-panel' | relative_url }})
 
-[PART 11: Consensus lists: The Rockefeller Briefing Document](/ufog/best-ufo-cases/11-consensus-lists-the-rockefeller-briefing-document)
+[PART 11: Consensus lists: The Rockefeller Briefing Document]({{ '/ufog/best-ufo-cases/11-consensus-lists-the-rockefeller-briefing-document' | relative_url }})
 
-[PART 12: Consensus lists: Conclusion](/ufog/best-ufo-cases/12-consensus-lists-conclusion)
+[PART 12: Consensus lists: Conclusion]({{ '/ufog/best-ufo-cases/12-consensus-lists-conclusion' | relative_url }})
 
-[PART 13: The Top 100 UFO cases](/ufog/best-ufo-cases/13-the-top-100-ufo-cases)
+[PART 13: The Top 100 UFO cases]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }})
 
-[PART 14: Top 10 cases within various categories](/ufog/best-ufo-cases/14-top-10-cases-within-various-categories)
+[PART 14: Top 10 cases within various categories]({{ '/ufog/best-ufo-cases/14-top-10-cases-within-various-categories' | relative_url }})
 
-[PART 15: Qualitative criteria: Introduction](/ufog/best-ufo-cases/15-qualitative-criteria-introduction)
+[PART 15: Qualitative criteria: Introduction]({{ '/ufog/best-ufo-cases/15-qualitative-criteria-introduction' | relative_url }})
 
-[PART 16: Qualitative criteria: Credible witnesses](/ufog/best-ufo-cases/16-qualitative-criteria-credible-witnesses)
+[PART 16: Qualitative criteria: Credible witnesses]({{ '/ufog/best-ufo-cases/16-qualitative-criteria-credible-witnesses' | relative_url }})
 
-[PART 17: Qualitative criteria: Multiple witnesses](/ufog/best-ufo-cases/17-qualitative-criteria-multiple-witnesses)
+[PART 17: Qualitative criteria: Multiple witnesses]({{ '/ufog/best-ufo-cases/17-qualitative-criteria-multiple-witnesses' | relative_url }})
 
-[PART 18: Qualitative criteria: Miscellaneous other criteria](/ufog/best-ufo-cases/18-qualitative-criteria-miscellaneous-other-criteria)
+[PART 18: Qualitative criteria: Miscellaneous other criteria]({{ '/ufog/best-ufo-cases/18-qualitative-criteria-miscellaneous-other-criteria' | relative_url }})
 
-[PART 19: Quantitative criteria: Introduction](/ufog/best-ufo-cases/19-quantitative-criteria-introduction)
+[PART 19: Quantitative criteria: Introduction]({{ '/ufog/best-ufo-cases/19-quantitative-criteria-introduction' | relative_url }})
 
-[PART 20: Quantitative criteria: Hynek – Strangeness and Probability](/ufog/best-ufo-cases/20-quantitative-criteria-hynek-strangeness-and-probability)
+[PART 20: Quantitative criteria: Hynek – Strangeness and Probability]({{ '/ufog/best-ufo-cases/20-quantitative-criteria-hynek-strangeness-and-probability' | relative_url }})
 
-[PART 21: Quantitative criteria: Vallee’s SVP ratings](/ufog/best-ufo-cases/21-quantitative-criteria-vallees-svp-ratings)
+[PART 21: Quantitative criteria: Vallee’s SVP ratings]({{ '/ufog/best-ufo-cases/21-quantitative-criteria-vallees-svp-ratings' | relative_url }})
 
-[PART 22: Quantitative criteria: BUFORA’s case priority](/ufog/best-ufo-cases/22-quantitative-criteria-buforas-case-priority)
+[PART 22: Quantitative criteria: BUFORA’s case priority]({{ '/ufog/best-ufo-cases/22-quantitative-criteria-buforas-case-priority' | relative_url }})
 
-[PART 23: Quantitative criteria: Ballester/MUFON index](/ufog/best-ufo-cases/23-quantitative-criteria-ballestermufon-index)
+[PART 23: Quantitative criteria: Ballester/MUFON index]({{ '/ufog/best-ufo-cases/23-quantitative-criteria-ballestermufon-index' | relative_url }})
 
-[PART 24: Quantitative criteria: Olsen’s Reliability Index](/ufog/best-ufo-cases/24-quantitative-criteria-olsens-reliability-index)
+[PART 24: Quantitative criteria: Olsen’s Reliability Index]({{ '/ufog/best-ufo-cases/24-quantitative-criteria-olsens-reliability-index' | relative_url }})
 
-[PART 25: Quantitative criteria: Figuet’s hardest cases](/ufog/best-ufo-cases/25-quantitative-criteria-figuets-hardest-cases)
+[PART 25: Quantitative criteria: Figuet’s hardest cases]({{ '/ufog/best-ufo-cases/25-quantitative-criteria-figuets-hardest-cases' | relative_url }})
 
-[PART 26: Quantitative criteria: Moravec's rating system](/ufog/best-ufo-cases/26-quantitative-criteria-moravecs-rating-system)
+[PART 26: Quantitative criteria: Moravec's rating system]({{ '/ufog/best-ufo-cases/26-quantitative-criteria-moravecs-rating-system' | relative_url }})
 
 PART 27: Quantitative criteria: Miscellaneous other criteria
 

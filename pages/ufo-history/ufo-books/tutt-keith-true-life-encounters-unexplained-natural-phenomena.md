@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0752812165.jpg"}
 book: {"identifiers": ["0752812165"], "primary_isbn": "0752812165", "cover_image": "/book-covers/0752812165.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of Keith Tutt's book “[True Life Encounters: Unexplained Natural Phenomena](/ufo-history/ufo-books/tutt-keith-true-life-encounters-unexplained-natural-phenomena)” ([1997](/tags/1997)) (available [on Amazon USA](http://www.amazon.com/dp/0752812165/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0752812165/?&tag=ufot-21))
+Brief review to be added of Keith Tutt's book “[True Life Encounters: Unexplained Natural Phenomena]({{ '/ufo-history/ufo-books/tutt-keith-true-life-encounters-unexplained-natural-phenomena' | relative_url }})” ([1997]({{ '/tags/1997' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0752812165/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0752812165/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

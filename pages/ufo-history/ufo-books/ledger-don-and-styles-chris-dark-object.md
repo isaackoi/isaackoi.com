@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0440236479.jpg"}
 book: {"identifiers": ["0440236479"], "primary_isbn": "0440236479", "cover_image": "/book-covers/0440236479.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Don Ledger](/ufo-history/ufo-personalities/ledger-don) and Chris Styles “[Dark Object](/ufo-history/ufo-books/ledger-don-and-styles-chris-dark-object)” ([2001](/tags/2001)) (available [on Amazon USA](http://www.amazon.com/dp/0440236479/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0440236479/?&tag=ufot-21))
+Brief review to be added of [Don Ledger]({{ '/ufo-history/ufo-personalities/ledger-don' | relative_url }}) and Chris Styles “[Dark Object]({{ '/ufo-history/ufo-books/ledger-don-and-styles-chris-dark-object' | relative_url }})” ([2001]({{ '/tags/2001' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0440236479/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0440236479/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/strieber-whitley">Strieber, Whitley</a> in “<a href="/ufo-history/ufo-books/ledger-don-and-styles-chris-dark-object">Dark Object</a>” (by Don Ledger and Chris Styles) (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/0440236479/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0440236479/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages vii-xii, xvi-xvii (in the Introduction) of the Dell paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/strieber-whitley' | relative_url }}">Strieber, Whitley</a> in “<a href="{{ '/ufo-history/ufo-books/ledger-don-and-styles-chris-dark-object' | relative_url }}">Dark Object</a>” (by Don Ledger and Chris Styles) (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/0440236479/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0440236479/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages vii-xii, xvi-xvii (in the Introduction) of the Dell paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>8</p>

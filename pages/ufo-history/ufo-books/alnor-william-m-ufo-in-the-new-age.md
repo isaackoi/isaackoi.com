@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0801002265.jpg"}
 book: {"identifiers": ["0801002265"], "primary_isbn": "0801002265", "cover_image": "/book-covers/0801002265.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [William M Alnor](/ufo-history/ufo-personalities/alnor-william-m)'s book “[UFO in the New Age](/ufo-history/ufo-books/alnor-william-m-ufo-in-the-new-age)” ([1992](/tags/1992)) (available [on Amazon USA](http://www.amazon.com/dp/0801002265/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0801002265/?&tag=ufot-21))
+Brief review to be added of [William M Alnor]({{ '/ufo-history/ufo-personalities/alnor-william-m' | relative_url }})'s book “[UFO in the New Age]({{ '/ufo-history/ufo-books/alnor-william-m-ufo-in-the-new-age' | relative_url }})” ([1992]({{ '/tags/1992' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0801002265/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0801002265/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -52,10 +52,10 @@ Many of the tables of references on this website are considerably longer than th
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="547">
-<p>Enroth, Ronald in William M Alnor’s “<a href="/ufo-history/ufo-books/alnor-william-m-ufo-in-the-new-age">UFO in the New Age</a>” (<a href="/tags/1992">1992</a>) (available <a href="http://www.amazon.com/dp/0801002265/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0801002265/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 9-10 (in the Foreword) of the Baker softcover edition.</p>
+<p>Enroth, Ronald in William M Alnor’s “<a href="{{ '/ufo-history/ufo-books/alnor-william-m-ufo-in-the-new-age' | relative_url }}">UFO in the New Age</a>” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="http://www.amazon.com/dp/0801002265/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0801002265/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 9-10 (in the Foreword) of the Baker softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

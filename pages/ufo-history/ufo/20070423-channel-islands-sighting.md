@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/britain_1.gif"}
 ---
 
-![britain_1](/images/stories/ufo_tags/britain_1.gif)
+![britain_1]({{ '/images/stories/ufo_tags/britain_1.gif' | relative_url }})
 
 *Channel Islands sighting*
 
@@ -63,10 +63,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2009">2009</a></p>
+<p><a href="{{ '/tags/2009' | relative_url }}">2009</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clarke-david">Clarke, David</a> in his “<a href="/ufo-history/ufo-books/clarke-david-the-ufo-files-the-inside-story-of-real-life-sightings">The UFO Files : The Inside Story of Real-Life Sightings</a>” (<a href="/tags/2009">2009</a>) (available <a href="http://www.amazon.com/dp/1905615507/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1905615507/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 146-147 (in Chapter 6) of the National Archives softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clarke-david' | relative_url }}">Clarke, David</a> in his “<a href="{{ '/ufo-history/ufo-books/clarke-david-the-ufo-files-the-inside-story-of-real-life-sightings' | relative_url }}">The UFO Files : The Inside Story of Real-Life Sightings</a>” (<a href="{{ '/tags/2009' | relative_url }}">2009</a>) (available <a href="http://www.amazon.com/dp/1905615507/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1905615507/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 146-147 (in Chapter 6) of the National Archives softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

@@ -13,7 +13,7 @@ planned_sections: []
 header: {"preview_image": "/images/stories/ufo_tags/britain_1.gif"}
 ---
 
-![britain_1](/images/stories/ufo_tags/britain_1.gif)
+![britain_1]({{ '/images/stories/ufo_tags/britain_1.gif' | relative_url }})
 
 *Mann family abduction*
 
@@ -27,4 +27,4 @@ The Janos People
 
 ” by Frank Johnson.
 
-See the entry in relation to “[The Janos People](/ufo-history/ufo-books/johnson-frank-the-janos-people)”.
+See the entry in relation to “[The Janos People]({{ '/ufo-history/ufo-books/johnson-frank-the-janos-people' | relative_url }})”.

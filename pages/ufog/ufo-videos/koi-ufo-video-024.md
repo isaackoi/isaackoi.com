@@ -42,9 +42,9 @@ Koi UFO Video 024 appears to be a video of a woman on some sort of alien" operat
 
 Screen shots from these videos are included below for ease of identification.
 
-![](/images/stories/ufo_videos/video024_1.JPG)
+![]({{ '/images/stories/ufo_videos/video024_1.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video024_2.JPG)
+![]({{ '/images/stories/ufo_videos/video024_2.JPG' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this video
@@ -58,7 +58,7 @@ In fact, as detailed below, this video was part of a viral marketing campaign fo
 
 The website for that movie is defunct, but [some parts of it can be retrieved using the Wayback Machine's Internet Archive](https://web.archive.org/web/20110202113531/http://beingsthemovie.com/):
 
-![](/images/stories/ufo_videos/video024_3.JPG)
+![]({{ '/images/stories/ufo_videos/video024_3.JPG' | relative_url }})
 
 Trailers for the movie (such as the one below) are still online and include brief glimpses of the operating table in the viral marketing video.
 
@@ -66,7 +66,7 @@ Trailers for the movie (such as the one below) are still online and include brie
 
 For ease of reference, here is one screenshot from that trailer showing the relevant operating table:
 
-![](/images/stories/ufo_videos/video024_5.JPG)
+![]({{ '/images/stories/ufo_videos/video024_5.JPG' | relative_url }})
 
 As stated in [the IMDB website's entry for the movie "Beings"](As far as I can tell, "Beings: The movie" has not yet been released. I have not seen it on sale anywhere as yet (although the title of the website "thebeingsdisc" suggests a planned release on DVD). I have seen brief credits for Beings at the link below: http:/www.imdb.com/title/tt0824290/ Notably, there was a brief mention of Beings on the website of a special effects company called "Liquid Logixx", and I assume they had some involvement in the main film. There was also a longer trailer for "Beings" which made it fairly clear that the video at the above link was indeed a trailer for "Beings". Since then (coincidentally or otherwise) the reference to this movie on their website has been removed - although if you do a Google search for "wolcott Liquid Logixx" you can still call up the Google cache webpages which state that "Fredrick Wolcott came to Liquid Logixx last year to create several effects for his upcoming film "Beings"."), this movie was written and directed by Fredrick Wolcott of Juniper Entertainment Corp. When I emailed Fredrick Wolcott in 2006 he stated that the "film was inspired by true events".
 
@@ -94,11 +94,11 @@ The IMDB entry for the movie also lists credits for the teams involved in produc
 
 That movie was eventually released on DVD a few years later and that [DVD is available on Amazon](http://www.amazon.com/dp/B002X78Q9A/).
 
-![](/images/stories/ufo_videos/video024_4.JPG)
+![]({{ '/images/stories/ufo_videos/video024_4.JPG' | relative_url }})
 
 While I hesitated to take/waste time posting my notes from 2005/2006 in relation to this viral marketing video, I have drawn some comfort from the fact that some other researchers spent a lot more time than me on this video. I have to feel a bit sorry for Italian researcher Antonello Lupino, since [his website contains a detailed analysis of this footage](http://www.ufocui.it/cui/kbateng.htm) which must have taken him quite a while to perform. I presume that detailed analysis was conducted without the benefit of seeing the official trailer for the movie "Beings" or contact with the producer of that movie.
 
-![](/images/stories/ufo_videos/video024_6.JPG)
+![]({{ '/images/stories/ufo_videos/video024_6.JPG' | relative_url }})
 
 <a id="forums"></a>
 ### 4. Relevant online discussions
@@ -117,4 +117,4 @@ Relevant discussions on the AboveTopSecret.com forum include the following:
 
 This video was also discussed on the Alien-UFOs forum in [a discussion in 2006](http://www.alien-ufos.com/forum/showthread.php?t=16346).
 
-![](/images/stories/ufo_videos/video024_2d.jpg)
+![]({{ '/images/stories/ufo_videos/video024_2d.jpg' | relative_url }})

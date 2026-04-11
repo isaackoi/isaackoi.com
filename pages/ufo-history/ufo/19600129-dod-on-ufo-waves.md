@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/documents_1.gif"}
 ---
 
-![documents_1](/images/stories/ufo_tags/documents_1.gif)
+![documents_1]({{ '/images/stories/ufo_tags/documents_1.gif' | relative_url }})
 
 *DoD on UFO waves*
 
@@ -47,7 +47,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-Image of press release by [Tacker, Lawrence](/ufo-history/ufo-personalities/tacker-lawrence) (Lieutenant Colonel) in his “[Flying Saucers and the U.S. Air Force](/ufo-history/ufo-books/tacker-lawrence-flying-saucers-and-the-us-air-force)” ([1960](/tags/1960)) (available [on Amazon USA](http://www.amazon.com/dp/B000HD7IQY/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B000HD7IQY/ref=nosim?tag=ufot-21)) at pages 153-156 of the D Van Nostrand hardback edition (in Appendix 10).
+Image of press release by [Tacker, Lawrence]({{ '/ufo-history/ufo-personalities/tacker-lawrence' | relative_url }}) (Lieutenant Colonel) in his “[Flying Saucers and the U.S. Air Force]({{ '/ufo-history/ufo-books/tacker-lawrence-flying-saucers-and-the-us-air-force' | relative_url }})” ([1960]({{ '/tags/1960' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/B000HD7IQY/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B000HD7IQY/ref=nosim?tag=ufot-21)) at pages 153-156 of the D Van Nostrand hardback edition (in Appendix 10).
 
 The table below includes references to relevant discussions in UFO/SETI books noted by Isaac Koi during a review of approximately 963 UFO/SETI books during the period 2003-2006 (with a few later additions). The table can be sorted by author, date and length of discussion by clicking on the relevant word in the top line of the table.
 
@@ -73,10 +73,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/vesco-renato">Vesco, Renato</a> and <a href="/ufo-history/ufo-personalities/childress-david-hatcher">Childress, David Hatcher</a> in their “<a href="/ufo-history/ufo-books/vesco-renato-and-childress-david-hatcher-man-made-ufos-1944-1994-50-years-of-suppression">Man Made UFOs 1944-1994 – 50 Years of Suppression</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/0932813232/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0932813232/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 315 (in Chapter 10) of the AUP softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/vesco-renato' | relative_url }}">Vesco, Renato</a> and <a href="{{ '/ufo-history/ufo-personalities/childress-david-hatcher' | relative_url }}">Childress, David Hatcher</a> in their “<a href="{{ '/ufo-history/ufo-books/vesco-renato-and-childress-david-hatcher-man-made-ufos-1944-1994-50-years-of-suppression' | relative_url }}">Man Made UFOs 1944-1994 – 50 Years of Suppression</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/0932813232/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0932813232/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 315 (in Chapter 10) of the AUP softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -84,10 +84,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1971">1971</a></p>
+<p><a href="{{ '/tags/1971' | relative_url }}">1971</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/vesco-renato">Vesco, Renato</a> in his “<a href="/ufo-history/ufo-books/vesco-renato-intercept-ufo">Intercept Ufo</a>” (Formerly published as “Intercept - But Don't Shoot”) (<a href="/tags/1971">1971</a>) (available <a href="http://www.amazon.com/dp/0523008406/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0523008406/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 315 (in Chapter 10) of the Zebra paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/vesco-renato' | relative_url }}">Vesco, Renato</a> in his “<a href="{{ '/ufo-history/ufo-books/vesco-renato-intercept-ufo' | relative_url }}">Intercept Ufo</a>” (Formerly published as “Intercept - But Don't Shoot”) (<a href="{{ '/tags/1971' | relative_url }}">1971</a>) (available <a href="http://www.amazon.com/dp/0523008406/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0523008406/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 315 (in Chapter 10) of the Zebra paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0671005332.jpg"}
 book: {"identifiers": ["0671005332"], "primary_isbn": "0671005332", "cover_image": "/book-covers/0671005332.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Nicholas Redfern](/ufo-history/ufo-personalities/redfern-nicholas)'s book “[The FBI Files](/ufo-history/ufo-books/redfern-nicholas-the-fbi-files)” ([1998](/tags/1998)) (available [on Amazon USA](http://www.amazon.com/dp/0671005332/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0671005332/?&tag=ufot-21))
+Brief review to be added of [Nicholas Redfern]({{ '/ufo-history/ufo-personalities/redfern-nicholas' | relative_url }})'s book “[The FBI Files]({{ '/ufo-history/ufo-books/redfern-nicholas-the-fbi-files' | relative_url }})” ([1998]({{ '/tags/1998' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0671005332/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0671005332/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

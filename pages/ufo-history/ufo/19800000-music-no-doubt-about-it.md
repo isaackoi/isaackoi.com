@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -63,10 +63,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1988">1988</a></p>
+<p><a href="{{ '/tags/1988' | relative_url }}">1988</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-abduction">Abduction</a>“ (<a href="/tags/1988">1988</a>) (available <a href="http://www.amazon.com/dp/0709032765/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0709032765/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 151 (in Chapter 7) of the Hale hardback edition (with the same page numbering in the Headline paperback edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-abduction' | relative_url }}">Abduction</a>“ (<a href="{{ '/tags/1988' | relative_url }}">1988</a>) (available <a href="http://www.amazon.com/dp/0709032765/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0709032765/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 151 (in Chapter 7) of the Hale hardback edition (with the same page numbering in the Headline paperback edition).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -74,10 +74,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1985">1985</a></p>
+<p><a href="{{ '/tags/1985' | relative_url }}">1985</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-beyond-explanation-the-paranormal-experiences-of-famous-people">Beyond Explanation? : The Paranormal Experiences of Famous People</a>” (<a href="/tags/1985">1985</a>) (available <a href="http://www.amazon.com/dp/0881621684/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0881621684/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 101 (in Chapter 8) of the TLC hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-beyond-explanation-the-paranormal-experiences-of-famous-people' | relative_url }}">Beyond Explanation? : The Paranormal Experiences of Famous People</a>” (<a href="{{ '/tags/1985' | relative_url }}">1985</a>) (available <a href="http://www.amazon.com/dp/0881621684/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0881621684/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 101 (in Chapter 8) of the TLC hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

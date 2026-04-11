@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/victorian_armen_1.jpg"}
 ---
 
-![victorian_armen_1](/images/stories/ufo_personalities/victorian_armen_1.jpg)
+![victorian_armen_1]({{ '/images/stories/ufo_personalities/victorian_armen_1.jpg' | relative_url }})
 
 *Armen Victorian*
 

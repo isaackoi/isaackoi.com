@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/curran_douglas_1.jpg"}
 ---
 
-![curran_douglas_1](/images/stories/ufo_personalities/curran_douglas_1.jpg)
+![curran_douglas_1]({{ '/images/stories/ufo_personalities/curran_douglas_1.jpg' | relative_url }})
 
 *Douglas Curran*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1985">1985</a></p>
+<p><a href="{{ '/tags/1985' | relative_url }}">1985</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/curran-douglas">Curran, Douglas</a> “<a href="/ufo-history/ufo-books/curran-douglas-in-advance-of-the-landing-folk-concepts-of-outer-space">In Advance of the Landing: Folk Concepts of Outer Space</a>” (<a href="/tags/1985">1985</a>) (available <a href="http://www.amazon.com/dp/0789207087/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0789207087/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/curran-douglas' | relative_url }}">Curran, Douglas</a> “<a href="{{ '/ufo-history/ufo-books/curran-douglas-in-advance-of-the-landing-folk-concepts-of-outer-space' | relative_url }}">In Advance of the Landing: Folk Concepts of Outer Space</a>” (<a href="{{ '/tags/1985' | relative_url }}">1985</a>) (available <a href="http://www.amazon.com/dp/0789207087/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0789207087/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>

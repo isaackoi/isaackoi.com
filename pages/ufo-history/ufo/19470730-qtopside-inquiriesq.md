@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/documents_1.gif"}
 ---
 
-![documents_1](/images/stories/ufo_tags/documents_1.gif)
+![documents_1]({{ '/images/stories/ufo_tags/documents_1.gif' | relative_url }})
 
 *"Topside Inquiries"*
 
@@ -39,7 +39,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-Image of relevant undated page presented by [Swords, Michael D](/ufo-history/ufo-personalities/swords-michael-d) in “[The Roswell Report: A Historical Perspective](/ufo-history/ufo-books/eberhart-george-editor-the-roswell-report-a-historical-perspective)” ([1991](/tags/1991)) (available [on Amazon USA](http://www.amazon.com/dp/092934359X/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/092934359X/ref=nosim?tag=ufot-21)) (edited by [Eberhart, George](/ufo-history/ufo-personalities/eberhart-george)) at page 28 (in the unnumbered chapter entitled “The summer of [1947](/tags/1947): UFOs and the US government at the beginning”) of the [CUFOS](/ufo-history/ufo-personalities/cufos) paperback edition.
+Image of relevant undated page presented by [Swords, Michael D]({{ '/ufo-history/ufo-personalities/swords-michael-d' | relative_url }}) in “[The Roswell Report: A Historical Perspective]({{ '/ufo-history/ufo-books/eberhart-george-editor-the-roswell-report-a-historical-perspective' | relative_url }})” ([1991]({{ '/tags/1991' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/092934359X/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/092934359X/ref=nosim?tag=ufot-21)) (edited by [Eberhart, George]({{ '/ufo-history/ufo-personalities/eberhart-george' | relative_url }})) at page 28 (in the unnumbered chapter entitled “The summer of [1947]({{ '/tags/1947' | relative_url }}): UFOs and the US government at the beginning”) of the [CUFOS]({{ '/ufo-history/ufo-personalities/cufos' | relative_url }}) paperback edition.
 
 The table below includes references to relevant discussions in UFO/SETI books noted by Isaac Koi during a review of approximately 963 UFO/SETI books during the period 2003-2006 (with a few later additions). The table can be sorted by author, date and length of discussion by clicking on the relevant word in the top line of the table.
 
@@ -65,10 +65,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/dolan-richard">Dolan, Richard</a> M in his “<a href="/ufo-history/ufo-books/dolan-richard-ufos-and-the-national-security-state-volume-1-1941-1973">UFOs and the National Security State: Volume 1: 1941-1973</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/1571743170/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1571743170/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 69 (in Chapter 2) of the Keyhole softcover edition, at page 33 of the <a href="/tags/2002">2002</a> revised Hampton Road softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dolan-richard' | relative_url }}">Dolan, Richard</a> M in his “<a href="{{ '/ufo-history/ufo-books/dolan-richard-ufos-and-the-national-security-state-volume-1-1941-1973' | relative_url }}">UFOs and the National Security State: Volume 1: 1941-1973</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/1571743170/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1571743170/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 69 (in Chapter 2) of the Keyhole softcover edition, at page 33 of the <a href="{{ '/tags/2002' | relative_url }}">2002</a> revised Hampton Road softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -76,10 +76,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/maccabee-bruce">Maccabee, Bruce</a> in his “<a href="/ufo-history/ufo-books/maccabee-bruce-ufo-fbi-connection">UFO-FBI Connection</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/1567184936/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1567184936/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 15-18 (in Chapter 3) of the Llewellyn softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/maccabee-bruce' | relative_url }}">Maccabee, Bruce</a> in his “<a href="{{ '/ufo-history/ufo-books/maccabee-bruce-ufo-fbi-connection' | relative_url }}">UFO-FBI Connection</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/1567184936/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1567184936/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 15-18 (in Chapter 3) of the Llewellyn softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -87,10 +87,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randle-kevin">Randle, Kevin</a> in his “<a href="/ufo-history/ufo-books/randle-kevin-d-conspiracy-of-silence">Conspiracy of Silence</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0380799189/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380799189/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 57 (in Chapter 3) of the Avon paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randle-kevin' | relative_url }}">Randle, Kevin</a> in his “<a href="{{ '/ufo-history/ufo-books/randle-kevin-d-conspiracy-of-silence' | relative_url }}">Conspiracy of Silence</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0380799189/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380799189/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 57 (in Chapter 3) of the Avon paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -98,10 +98,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/swords-michael-d">Swords, Michael D</a> in “<a href="/ufo-history/ufo-books/eberhart-george-editor-the-roswell-report-a-historical-perspective">The Roswell Report : A Historical Perspective</a>” (<a href="/tags/1991">1991</a>) (available <a href="http://www.amazon.com/dp/092934359X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/092934359X/ref=nosim?tag=ufot-21">on Amazon UK</a>) (edited by <a href="/ufo-history/ufo-personalities/eberhart-george">Eberhart, George</a>) at pages 11-12, 13, 24, 28 (in the unnumbered chapter entitled “The summer of <a href="/tags/1947">1947</a> : UFOs and the US government at the beginning”) of the <a href="/ufo-history/ufo-personalities/cufos">CUFOS</a> paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/swords-michael-d' | relative_url }}">Swords, Michael D</a> in “<a href="{{ '/ufo-history/ufo-books/eberhart-george-editor-the-roswell-report-a-historical-perspective' | relative_url }}">The Roswell Report : A Historical Perspective</a>” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/092934359X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/092934359X/ref=nosim?tag=ufot-21">on Amazon UK</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/eberhart-george' | relative_url }}">Eberhart, George</a>) at pages 11-12, 13, 24, 28 (in the unnumbered chapter entitled “The summer of <a href="{{ '/tags/1947' | relative_url }}">1947</a> : UFOs and the US government at the beginning”) of the <a href="{{ '/ufo-history/ufo-personalities/cufos' | relative_url }}">CUFOS</a> paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>

@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/1932100121.jpg"}
 book: {"identifiers": ["1932100121", "0890092486", "081293248X", "0521620120", "0521343267", "038530532X", "0285621297", "0345336895", "0816511195"], "primary_isbn": "1932100121", "cover_image": "/book-covers/1932100121.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of James Gunn's novel “[The Listeners](/ufo-history/ufo-books/gunn-james-the-listeners)” ([1972](/tags/1972)) (available [on Amazon USA](http://www.amazon.com/dp/1932100121/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1932100121/?&tag=ufot-21))
+Brief review to be added of James Gunn's novel “[The Listeners]({{ '/ufo-history/ufo-books/gunn-james-the-listeners' | relative_url }})” ([1972]({{ '/tags/1972' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1932100121/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1932100121/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion of the novel “The Listeners” see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1979">1979</a></p>
+<p><a href="{{ '/tags/1979' | relative_url }}">1979</a></p>
 </td>
 <td valign="top" width="547">
-<p>Boyce, Chris in his <a href="/ufo-history/ufo-books/boyce-chris-extraterrestrial-encounter">Extraterrestrial Encounter</a> (<a href="/tags/1979">1979</a>) (available <a href="http://www.amazon.com/dp/0890092486/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0890092486/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 190 (in the Notes to the Epilogue, footnote 2) of the David &amp; Charles hardback edition, at page 179 of the <a href="/tags/1980">1980</a> revised NEL paperback edition.</p>
+<p>Boyce, Chris in his <a href="{{ '/ufo-history/ufo-books/boyce-chris-extraterrestrial-encounter' | relative_url }}">Extraterrestrial Encounter</a> (<a href="{{ '/tags/1979' | relative_url }}">1979</a>) (available <a href="http://www.amazon.com/dp/0890092486/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0890092486/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 190 (in the Notes to the Epilogue, footnote 2) of the David &amp; Charles hardback edition, at page 179 of the <a href="{{ '/tags/1980' | relative_url }}">1980</a> revised NEL paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -65,10 +65,10 @@ For discussion of the novel “The Listeners” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/darling-david">Darling, David</a> in his “<a href="/ufo-history/ufo-books/darling-david-the-extraterrestrial-encyclopedia">The Extraterrestrial Encyclopedia</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/081293248X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/081293248X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 240 (in the entry entitled “Listeners, The”) of the Three Rivers softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/darling-david' | relative_url }}">Darling, David</a> in his “<a href="{{ '/ufo-history/ufo-books/darling-david-the-extraterrestrial-encyclopedia' | relative_url }}">The Extraterrestrial Encyclopedia</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/081293248X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/081293248X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 240 (in the entry entitled “Listeners, The”) of the Three Rivers softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -76,10 +76,10 @@ For discussion of the novel “The Listeners” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2003">2003</a></p>
+<p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/darling-david">Darling, David</a> in his online encyclopedia, “The Encyclopedia of Astrobiology, Astronomy and Spaceflight” (<a href="/tags/2003">2003</a>) in the entry entitled “The Listeners”. The relevant entry is available online at:</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/darling-david' | relative_url }}">Darling, David</a> in his online encyclopedia, “The Encyclopedia of Astrobiology, Astronomy and Spaceflight” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) in the entry entitled “The Listeners”. The relevant entry is available online at:</p>
 <p><a href="http://www.daviddarling.info/encyclopedia/L/Listeners.html">http://www.daviddarling.info/encyclopedia/L/Listeners.html</a></p>
 </td>
 <td valign="top" width="52">
@@ -88,10 +88,10 @@ For discussion of the novel “The Listeners” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/dick-steven-j">Dick, Steven J</a> in his “<a href="/ufo-history/ufo-books/dick-steven-j-life-on-other-worlds">Life on Other Worlds</a>“ (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0521620120/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521620120/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 132 (in Chapter 4) of the Cambridge hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dick-steven-j' | relative_url }}">Dick, Steven J</a> in his “<a href="{{ '/ufo-history/ufo-books/dick-steven-j-life-on-other-worlds' | relative_url }}">Life on Other Worlds</a>“ (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0521620120/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521620120/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 132 (in Chapter 4) of the Cambridge hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -99,10 +99,10 @@ For discussion of the novel “The Listeners” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/dick-steven-j">Dick, Steven J</a> in his “<a href="/ufo-history/ufo-books/dick-steven-j-the-biological-universe">The Biological Universe</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/0521343267/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521343267/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 260 (in Chapter 5) of the Cambridge hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dick-steven-j' | relative_url }}">Dick, Steven J</a> in his “<a href="{{ '/ufo-history/ufo-books/dick-steven-j-the-biological-universe' | relative_url }}">The Biological Universe</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/0521343267/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521343267/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 260 (in Chapter 5) of the Cambridge hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -110,10 +110,10 @@ For discussion of the novel “The Listeners” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/drake-frank">Drake, Frank</a> and Sobel, Dava in their “<a href="/ufo-history/ufo-books/drake-frank-and-sobel-dava-is-anyone-out-there">Is Anyone Out There?</a>“ (<a href="/tags/1991">1991</a>) (available <a href="http://www.amazon.com/dp/038530532X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/038530532X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 173 (in Chapter 8) of the Pocket Books paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/drake-frank' | relative_url }}">Drake, Frank</a> and Sobel, Dava in their “<a href="{{ '/ufo-history/ufo-books/drake-frank-and-sobel-dava-is-anyone-out-there' | relative_url }}">Is Anyone Out There?</a>“ (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/038530532X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/038530532X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 173 (in Chapter 8) of the Pocket Books paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -121,10 +121,10 @@ For discussion of the novel “The Listeners” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Hennessey, Roger in his “<a href="/ufo-history/ufo-books/hennessey-roger-a-s-worlds-without-end-the-historic-search-for-extraterrestrial-life">Worlds Without End : The Historic Search for Extraterrestrial Life</a>” (<a href="/tags/1999">1999</a>) at page 113 (in Chapter 11) of the Tempus hardback edition.</p>
+<p>Hennessey, Roger in his “<a href="{{ '/ufo-history/ufo-books/hennessey-roger-a-s-worlds-without-end-the-historic-search-for-extraterrestrial-life' | relative_url }}">Worlds Without End : The Historic Search for Extraterrestrial Life</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) at page 113 (in Chapter 11) of the Tempus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -132,10 +132,10 @@ For discussion of the novel “The Listeners” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1974">1974</a></p>
+<p><a href="{{ '/tags/1974' | relative_url }}">1974</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/lunan-duncan">Lunan, Duncan</a> in his “<a href="/ufo-history/ufo-books/lunan-duncan-man-and-the-stars">Man and the Stars</a>” (<a href="/tags/1974">1974</a>) (available <a href="http://www.amazon.com/dp/0285621297/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0285621297/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 200-201 (in Chapter 11) of the Souvenir Press hardback edition, at pages 251-252 of the Corgi paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/lunan-duncan' | relative_url }}">Lunan, Duncan</a> in his “<a href="{{ '/ufo-history/ufo-books/lunan-duncan-man-and-the-stars' | relative_url }}">Man and the Stars</a>” (<a href="{{ '/tags/1974' | relative_url }}">1974</a>) (available <a href="http://www.amazon.com/dp/0285621297/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0285621297/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 200-201 (in Chapter 11) of the Souvenir Press hardback edition, at pages 251-252 of the Corgi paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -143,10 +143,10 @@ For discussion of the novel “The Listeners” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1979">1979</a></p>
+<p><a href="{{ '/tags/1979' | relative_url }}">1979</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sagan-carl">Sagan, Carl</a> in his “<a href="/ufo-history/ufo-books/sagan-carl-brocas-brain">Broca’s Brain</a>” (<a href="/tags/1979">1979</a>) (available <a href="http://www.amazon.com/dp/0345336895/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0345336895/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 178 (in Chapter 9) of the Coronet paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sagan-carl' | relative_url }}">Sagan, Carl</a> in his “<a href="{{ '/ufo-history/ufo-books/sagan-carl-brocas-brain' | relative_url }}">Broca’s Brain</a>” (<a href="{{ '/tags/1979' | relative_url }}">1979</a>) (available <a href="http://www.amazon.com/dp/0345336895/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0345336895/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 178 (in Chapter 9) of the Coronet paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -154,10 +154,10 @@ For discussion of the novel “The Listeners” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1979">1979</a></p>
+<p><a href="{{ '/tags/1979' | relative_url }}">1979</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sagan-carl">Sagan, Carl</a> in his “<a href="/ufo-history/ufo-books/sagan-carl-brocas-brain">Broca’s Brain</a>” (<a href="/tags/1979">1979</a>) (available <a href="http://www.amazon.com/dp/0345336895/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0345336895/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 178 (in Chapter 9) of the Coronet paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sagan-carl' | relative_url }}">Sagan, Carl</a> in his “<a href="{{ '/ufo-history/ufo-books/sagan-carl-brocas-brain' | relative_url }}">Broca’s Brain</a>” (<a href="{{ '/tags/1979' | relative_url }}">1979</a>) (available <a href="http://www.amazon.com/dp/0345336895/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0345336895/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 178 (in Chapter 9) of the Coronet paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -165,10 +165,10 @@ For discussion of the novel “The Listeners” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="547">
-<p>Sakurai, Kunitomo in an interview in David W Swift’s “<a href="/ufo-history/ufo-books/swift-david-w-seti-pioneers-scientists-talk-about-their-search-for-extraterrestrial-intelligence">SETI Pioneers : Scientists Talk About Their Search for Extraterrestrial Intelligence</a>” (<a href="/tags/1990">1990</a>) (available <a href="http://www.amazon.com/dp/0816511195/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0816511195/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 342 (in the unnumbered chapter entitled “Kunitomo Sakurai”) of the Arizona hardback edition.</p>
+<p>Sakurai, Kunitomo in an interview in David W Swift’s “<a href="{{ '/ufo-history/ufo-books/swift-david-w-seti-pioneers-scientists-talk-about-their-search-for-extraterrestrial-intelligence' | relative_url }}">SETI Pioneers : Scientists Talk About Their Search for Extraterrestrial Intelligence</a>” (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) (available <a href="http://www.amazon.com/dp/0816511195/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0816511195/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 342 (in the unnumbered chapter entitled “Kunitomo Sakurai”) of the Arizona hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -176,10 +176,10 @@ For discussion of the novel “The Listeners” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="547">
-<p>Swift, David W in his “<a href="/ufo-history/ufo-books/swift-david-w-seti-pioneers-scientists-talk-about-their-search-for-extraterrestrial-intelligence">SETI Pioneers : Scientists Talk About Their Search for Extraterrestrial Intelligence</a>” (<a href="/tags/1990">1990</a>) (available <a href="http://www.amazon.com/dp/0816511195/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0816511195/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 16 (in the Introduction), 327 (in the unnumbered chapter entitled “Kunitomo Sakurai”) of the Arizona hardback edition.</p>
+<p>Swift, David W in his “<a href="{{ '/ufo-history/ufo-books/swift-david-w-seti-pioneers-scientists-talk-about-their-search-for-extraterrestrial-intelligence' | relative_url }}">SETI Pioneers : Scientists Talk About Their Search for Extraterrestrial Intelligence</a>” (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) (available <a href="http://www.amazon.com/dp/0816511195/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0816511195/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 16 (in the Introduction), 327 (in the unnumbered chapter entitled “Kunitomo Sakurai”) of the Arizona hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

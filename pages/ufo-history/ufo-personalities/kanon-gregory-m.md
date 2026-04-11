@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/kanon_gregory_1.jpg"}
 ---
 
-![kanon_gregory_1](/images/stories/ufo_personalities/kanon_gregory_1.jpg)
+![kanon_gregory_1]({{ '/images/stories/ufo_personalities/kanon_gregory_1.jpg' | relative_url }})
 
 *Gregory M Kanon*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/kanon-gregory-m">Kanon, Gregory M</a> “The Great UFO Hoax” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1880090414/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1880090414/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/kanon-gregory-m' | relative_url }}">Kanon, Gregory M</a> “The Great UFO Hoax” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1880090414/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1880090414/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>
@@ -85,10 +85,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sachs-margaret">Sachs, Margaret</a> in her “<a href="/ufo-history/ufo-books/sachs-margaret-the-ufo-encyclopedia">The UFO Encyclopedia</a>“ (<a href="/tags/1980">1980</a> (available <a href="http://www.amazon.com/dp/0399124217/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0399124217/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 169 (in an entry entitled “Kanon, Gergory M”) of the Corgi softback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sachs-margaret' | relative_url }}">Sachs, Margaret</a> in her “<a href="{{ '/ufo-history/ufo-books/sachs-margaret-the-ufo-encyclopedia' | relative_url }}">The UFO Encyclopedia</a>“ (<a href="{{ '/tags/1980' | relative_url }}">1980</a> (available <a href="http://www.amazon.com/dp/0399124217/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0399124217/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 169 (in an entry entitled “Kanon, Gergory M”) of the Corgi softback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -96,10 +96,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p>Picknett, Lynn in her “<a href="/ufo-history/ufo-books/picknett-lynn-the-mammoth-book-of-ufos">The Mammoth Book of UFOs</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/078670800X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/078670800X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 433 (in Chapter 7) of the Robinson softcover edition.</p>
+<p>Picknett, Lynn in her “<a href="{{ '/ufo-history/ufo-books/picknett-lynn-the-mammoth-book-of-ufos' | relative_url }}">The Mammoth Book of UFOs</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/078670800X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/078670800X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 433 (in Chapter 7) of the Robinson softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

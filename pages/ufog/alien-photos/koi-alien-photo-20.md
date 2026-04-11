@@ -13,7 +13,7 @@ planned_sections: ["1. The relevant image", "2. Stories and claims relating to t
 header: {"preview_image": "/images/stories/alien_photos/koi_ap_20_a.jpg"}
 ---
 
-![](/images/stories/alien_photos/koi_ap_20_a.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_20_a.jpg' | relative_url }})
 
 *Koi Alien Photo 20*
 
@@ -38,9 +38,9 @@ Sections below:
 <a id="image"></a>
 ### 1. The relevant image
 
-![](/images/stories/alien_photos/koi_ap_20_a.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_20_a.jpg' | relative_url }})
 
-![](/images/stories/alien_photos/koi_ap_20_b.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_20_b.jpg' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this image
@@ -62,11 +62,11 @@ The original image (shown below, labelled "koi_ap_20_c") can be found on various
 
 (b) [Part of the US Army's history website](http://www.history.army.mil/brochures/normandy/nor-pam.htm).
 
-![](/images/stories/alien_photos/koi_ap_20_c.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_20_c.jpg' | relative_url }})
 
 As of 28 December 2010, [the Wikipedia page on the "Supreme Headquarters Allied Expeditionary Force"](http://en.wikipedia.org/wiki/Supreme_Headquarters_Allied_Expeditionary_Force) (commonly abbreviated to "SHAEF") includes another photograph of the same individuals taken at a meeting in London (possibly at the same meeting). That photo is shown below (labelled "koi_ap_20_e") and the relevant caption on Wikipedia state "SHAEF commanders at a conference in London. Seated left to right: [Air Chief Marshal Tedder](wiki/Arthur_Tedder,_1st_Baron_Tedder), General Eisenhower, and [General Montgomery](wiki/General_Montgomery). Standing: General Bradley, [Admiral Ramsay](wiki/Bertram_Ramsay), [Air Chief Marshal Leigh-Mallory](wiki/Trafford_Leigh-Mallory), [General Smith](wiki/Walter_Bedell_Smith)".
 
-![](/images/stories/alien_photos/koi_ap_20_e.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_20_e.jpg' | relative_url }})
 
 <a id="forums"></a>
 ### 4. Relevant online forum discussions

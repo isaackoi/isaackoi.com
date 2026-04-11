@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/1561736058.jpg"}
 book: {"identifiers": ["1561736058"], "primary_isbn": "1561736058", "cover_image": "/book-covers/1561736058.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Jerome Clark](/ufo-history/ufo-personalities/clark-jerome)'s book “[UFO Encounters](/ufo-history/ufo-books/clark-jerome-ufo-encounters)” ([1992](/tags/1992)) (available [on Amazon USA](http://www.amazon.com/dp/1561736058/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1561736058/?&tag=ufot-21))
+Brief review to be added of [Jerome Clark]({{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }})'s book “[UFO Encounters]({{ '/ufo-history/ufo-books/clark-jerome-ufo-encounters' | relative_url }})” ([1992]({{ '/tags/1992' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1561736058/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1561736058/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

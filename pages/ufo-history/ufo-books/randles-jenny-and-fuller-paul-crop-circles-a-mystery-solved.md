@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0709052677.jpg"}
 book: {"identifiers": ["0709052677", "095080245X", "0946551669", "0879757655", "1860194095", "0806981326", "0938294083", "0749914114", "1591021103"], "primary_isbn": "0709052677", "cover_image": "/book-covers/0709052677.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of “[Crop Circles: A Mystery Solved](/ufo-history/ufo-books/randles-jenny-and-fuller-paul-crop-circles-a-mystery-solved)” ([1990](/tags/1990)) (available [on Amazon USA](http://www.amazon.com/dp/0709052677/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0709052677/?&tag=ufot-21)) by [Jenny Randles](/ufo-history/ufo-personalities/randles-jenny) and [Paul Fuller](/ufo-history/ufo-personalities/fuller-paul).
+Brief review to be added of “[Crop Circles: A Mystery Solved]({{ '/ufo-history/ufo-books/randles-jenny-and-fuller-paul-crop-circles-a-mystery-solved' | relative_url }})” ([1990]({{ '/tags/1990' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0709052677/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0709052677/?&tag=ufot-21)) by [Jenny Randles]({{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}) and [Paul Fuller]({{ '/ufo-history/ufo-personalities/fuller-paul' | relative_url }}).
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="547">
-<p>Collins, Andrew in his “The Circlemakers: A Revolutionary New Vision” (<a href="/tags/1992">1992</a>) (available <a href="http://www.amazon.com/dp/095080245X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/095080245X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 208-210 (in Chapter 19) of the ABC softcover edition.</p>
+<p>Collins, Andrew in his “The Circlemakers: A Revolutionary New Vision” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="http://www.amazon.com/dp/095080245X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/095080245X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 208-210 (in Chapter 19) of the ABC softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -65,10 +65,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/meaden-terence">Meaden, Terence</a> in “The <a href="/ufo-history/ufo-books/noyes-ralph-editor-crop-circle-enigma">Crop Circle Enigma</a>” (<a href="/tags/1990">1990</a>) (available <a href="http://www.amazon.com/dp/0946551669/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0946551669/ref=nosim?tag=ufot-21">on Amazon UK</a>) (edited by <a href="/ufo-history/ufo-personalities/noyes-ralph">Ralph Noyes</a>) at pages 88, 97 (in Part 2, unnumbered chapter entitled “Crop Circles &amp; The Plasma Vortex”) of the revised Gateway softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/meaden-terence' | relative_url }}">Meaden, Terence</a> in “The <a href="{{ '/ufo-history/ufo-books/noyes-ralph-editor-crop-circle-enigma' | relative_url }}">Crop Circle Enigma</a>” (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) (available <a href="http://www.amazon.com/dp/0946551669/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0946551669/ref=nosim?tag=ufot-21">on Amazon UK</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/noyes-ralph' | relative_url }}">Ralph Noyes</a>) at pages 88, 97 (in Part 2, unnumbered chapter entitled “Crop Circles &amp; The Plasma Vortex”) of the revised Gateway softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -76,10 +76,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/nickell-joe">Nickell, Joe</a> and Fischer, John F in their “<a href="/ufo-history/ufo-books/nickell-joe-and-fischer-john-f-mysterious-realms">Mysterious Realms</a>” (<a href="/tags/1992">1992</a>) (available <a href="http://www.amazon.com/dp/0879757655/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879757655/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 182, 186, 191-192, 196, 198, 209 (in Chapter 11) of the Prometheus hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/nickell-joe' | relative_url }}">Nickell, Joe</a> and Fischer, John F in their “<a href="{{ '/ufo-history/ufo-books/nickell-joe-and-fischer-john-f-mysterious-realms' | relative_url }}">Mysterious Realms</a>” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="http://www.amazon.com/dp/0879757655/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879757655/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 182, 186, 191-192, 196, 198, 209 (in Chapter 11) of the Prometheus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>7</p>
@@ -87,10 +87,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> and <a href="/ufo-history/ufo-personalities/hough-peter">Hough, Peter</a> in their “<a href="/ufo-history/ufo-books/randles-jenny-and-hough-peter-encyclopedia-of-the-unexplained">Encyclopedia of the Unexplained</a>” (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/1860194095/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1860194095/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 24, 30 (in the unnumbered chapter entitled “The Supernatural Earth”) of the Brockhampton hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> and <a href="{{ '/ufo-history/ufo-personalities/hough-peter' | relative_url }}">Hough, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-hough-peter-encyclopedia-of-the-unexplained' | relative_url }}">Encyclopedia of the Unexplained</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/1860194095/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1860194095/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 24, 30 (in the unnumbered chapter entitled “The Supernatural Earth”) of the Brockhampton hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -98,10 +98,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> and <a href="/ufo-history/ufo-personalities/hough-peter">Hough, Peter</a> in their “<a href="/ufo-history/ufo-books/randles-jenny-and-hough-peter-the-complete-book-of-ufos">The Complete Book of UFOs</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/0806981326/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806981326/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 294 (in Chapter 26) of the Piatkus softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> and <a href="{{ '/ufo-history/ufo-personalities/hough-peter' | relative_url }}">Hough, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-hough-peter-the-complete-book-of-ufos' | relative_url }}">The Complete Book of UFOs</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/0806981326/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806981326/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 294 (in Chapter 26) of the Piatkus softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -109,10 +109,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-from-out-of-the-blue">From Out of the Blue</a>" (<a href="/tags/1991">1991</a>) (available <a href="http://www.amazon.com/dp/0938294083/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0938294083/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 221 (in Chapter 20) of the Berkley paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-from-out-of-the-blue' | relative_url }}">From Out of the Blue</a>" (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/0938294083/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0938294083/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 221 (in Chapter 20) of the Berkley paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -120,10 +120,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-the-paranormal-source-book">The Paranormal Source Book</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/0749914114/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0749914114/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 56, 58, 67 (in the unnumbered, but alphabetically arranged, chapter entitled “Crop Circles”) of the Piatkus hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-the-paranormal-source-book' | relative_url }}">The Paranormal Source Book</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/0749914114/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0749914114/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 56, 58, 67 (in the unnumbered, but alphabetically arranged, chapter entitled “Crop Circles”) of the Piatkus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -131,10 +131,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1993">1993</a></p>
+<p><a href="{{ '/tags/1993' | relative_url }}">1993</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/schnabel-jim">Schnabel, Jim</a> in his “<a href="/ufo-history/ufo-books/schnabel-jim-round-in-circles">Round in Circles</a>” (<a href="/tags/1993">1993</a>) (available <a href="http://www.amazon.com/dp/1591021103/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1591021103/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 2 (in Chapter 2), 36-37 (in Chapter 4), 70 (in Chapter 7), 74-75 (in Chapter 8), 122-124 (in Chapter 12), 193 (in Chapter 20) of the Hamish Hamilton hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/schnabel-jim' | relative_url }}">Schnabel, Jim</a> in his “<a href="{{ '/ufo-history/ufo-books/schnabel-jim-round-in-circles' | relative_url }}">Round in Circles</a>” (<a href="{{ '/tags/1993' | relative_url }}">1993</a>) (available <a href="http://www.amazon.com/dp/1591021103/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1591021103/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 2 (in Chapter 2), 36-37 (in Chapter 4), 70 (in Chapter 7), 74-75 (in Chapter 8), 122-124 (in Chapter 12), 193 (in Chapter 20) of the Hamish Hamilton hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>10</p>

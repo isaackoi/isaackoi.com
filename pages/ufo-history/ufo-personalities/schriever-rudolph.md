@@ -13,11 +13,11 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/schriever_rudolph_1.jpg"}
 ---
 
-![schriever_rudolph_1](/images/stories/ufo_personalities/schriever_rudolph_1.jpg)
+![schriever_rudolph_1]({{ '/images/stories/ufo_personalities/schriever_rudolph_1.jpg' | relative_url }})
 
 *Rudolph Schriever*
 
-On 30 March [1950](/tags/1950), the West German magazine “Der Spiegel” reported Flugkapitan [Rudolph Schriever](/ufo-history/ufo-personalities/schriever-rudolph) as claiming to have begun work on a flying disc. Later reports stated [Schriever](/ufo-history/ufo-personalities/schriever-rudolph) claimed to begin work in the spring of 1941, with a prototype ready for testing in early 1944
+On 30 March [1950]({{ '/tags/1950' | relative_url }}), the West German magazine “Der Spiegel” reported Flugkapitan [Rudolph Schriever]({{ '/ufo-history/ufo-personalities/schriever-rudolph' | relative_url }}) as claiming to have begun work on a flying disc. Later reports stated [Schriever]({{ '/ufo-history/ufo-personalities/schriever-rudolph' | relative_url }}) claimed to begin work in the spring of 1941, with a prototype ready for testing in early 1944
 
 1. [Web Resources](#web)
 
@@ -57,10 +57,10 @@ For discussion of Schriever see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/baker-alan">Baker, Alan</a> in his “Destination Earth” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0713727195/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713727195/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 163-164 (in Chapter 8) of the Blandford softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/baker-alan' | relative_url }}">Baker, Alan</a> in his “Destination Earth” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0713727195/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713727195/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 163-164 (in Chapter 8) of the Blandford softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -68,10 +68,10 @@ For discussion of Schriever see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/baker-alan">Baker, Alan</a> in his “<a href="/ufo-history/ufo-books/baker-alan-the-encyclopaedia-of-alien-encounters">The Encyclopaedia of Alien Encounters</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/1852277343/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1852277343/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 172 (in an entry entitled “Nazi Flying Saucers”) of the Virgin hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/baker-alan' | relative_url }}">Baker, Alan</a> in his “<a href="{{ '/ufo-history/ufo-books/baker-alan-the-encyclopaedia-of-alien-encounters' | relative_url }}">The Encyclopaedia of Alien Encounters</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/1852277343/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1852277343/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 172 (in an entry entitled “Nazi Flying Saucers”) of the Virgin hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -79,10 +79,10 @@ For discussion of Schriever see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1988">1988</a></p>
+<p><a href="{{ '/tags/1988' | relative_url }}">1988</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/berlitz-charles">Berlitz, Charles</a> in his “World of Strange Phenomena” (<a href="/tags/1988">1988</a>) (available <a href="http://www.amazon.com/dp/0449218252/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0449218252/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 144-145 of the Wynwood hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/berlitz-charles' | relative_url }}">Berlitz, Charles</a> in his “World of Strange Phenomena” (<a href="{{ '/tags/1988' | relative_url }}">1988</a>) (available <a href="http://www.amazon.com/dp/0449218252/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0449218252/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 144-145 of the Wynwood hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -90,10 +90,10 @@ For discussion of Schriever see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/cook-nick">Cook, Nick</a> in his “<a href="/ufo-history/ufo-books/cook-nick-the-hunt-for-zero-point">The Hunt for Zero Point</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/0767906284/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0767906284/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 45, 46 (in Chapter 4), 50-52, 57 (in Chapter 5), 213, 214, 215 (in Chapter 21) of the Century hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/cook-nick' | relative_url }}">Cook, Nick</a> in his “<a href="{{ '/ufo-history/ufo-books/cook-nick-the-hunt-for-zero-point' | relative_url }}">The Hunt for Zero Point</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/0767906284/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0767906284/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 45, 46 (in Chapter 4), 50-52, 57 (in Chapter 5), 213, 214, 215 (in Chapter 21) of the Century hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>9</p>
@@ -101,10 +101,10 @@ For discussion of Schriever see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/harbinson-w-a">Harbinson, W A</a> in his “Projekt Saucer” (<a href="/tags/1995">1995</a>) at pages 71-73, 77, 78-79, 80, 81 (in Chapter 4), 124 (in Chapter 7), 246-247 (in Chapter 13) of the Box Tree hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/harbinson-w-a' | relative_url }}">Harbinson, W A</a> in his “Projekt Saucer” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) at pages 71-73, 77, 78-79, 80, 81 (in Chapter 4), 124 (in Chapter 7), 246-247 (in Chapter 13) of the Box Tree hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>11</p>
@@ -112,10 +112,10 @@ For discussion of Schriever see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/harbinson-w-a">Harbinson, W A</a> in “<a href="/ufo-history/ufo-books/vesco-renato-and-childress-david-hatcher-man-made-ufos-1944-1994-50-years-of-suppression">Man Made UFOs 1944-1994 – 50 Years of Suppression</a>” (<a href="/tags/1994">1994</a>) (by <a href="/ufo-history/ufo-personalities/vesco-renato">Renato Vesco</a> and David Hatcher Childress) at the unnumbered second, third and fourth pages (in the Introduction) of the AUP softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/harbinson-w-a' | relative_url }}">Harbinson, W A</a> in “<a href="{{ '/ufo-history/ufo-books/vesco-renato-and-childress-david-hatcher-man-made-ufos-1944-1994-50-years-of-suppression' | relative_url }}">Man Made UFOs 1944-1994 – 50 Years of Suppression</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (by <a href="{{ '/ufo-history/ufo-personalities/vesco-renato' | relative_url }}">Renato Vesco</a> and David Hatcher Childress) at the unnumbered second, third and fourth pages (in the Introduction) of the AUP softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -123,10 +123,10 @@ For discussion of Schriever see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/harbinson-w-a">Harbinson, W A</a> in his “<a href="/ufo-history/ufo-books/harbinson-w-a-projekt-saucer-the-case-for-man-made-flying-saucers">Projekt Saucer : The Case for Man-Made Flying Saucers</a>“ (<a href="/tags/1980">1980</a>) at pages 594-596, 603-604 (in the Author’s Note) of the Corgi paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/harbinson-w-a' | relative_url }}">Harbinson, W A</a> in his “<a href="{{ '/ufo-history/ufo-books/harbinson-w-a-projekt-saucer-the-case-for-man-made-flying-saucers' | relative_url }}">Projekt Saucer : The Case for Man-Made Flying Saucers</a>“ (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) at pages 594-596, 603-604 (in the Author’s Note) of the Corgi paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>
@@ -134,10 +134,10 @@ For discussion of Schriever see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/harbinson-w-a">Harbinson, W A</a> in his “Inception : Projekt Saucer Book 1” (<a href="/tags/1991">1991</a>) at pages ix-x, xi (in the Author’s Note) of the Dell paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/harbinson-w-a' | relative_url }}">Harbinson, W A</a> in his “Inception : Projekt Saucer Book 1” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) at pages ix-x, xi (in the Author’s Note) of the Dell paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -145,10 +145,10 @@ For discussion of Schriever see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p>Hyland, Gary in his “<a href="/ufo-history/ufo-books/hyland-gary-blue-fires-the-lost-secrets-of-nazi-technology">Blue Fires: The Lost Secrets of Nazi Technology</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/0747271461/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0747271461/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 79-85, 87, 93-95, 98-99 (in Chapter 4), 236-237 (in the Conclusion) of the Headline hardback edition.</p>
+<p>Hyland, Gary in his “<a href="{{ '/ufo-history/ufo-books/hyland-gary-blue-fires-the-lost-secrets-of-nazi-technology' | relative_url }}">Blue Fires: The Lost Secrets of Nazi Technology</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/0747271461/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0747271461/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 79-85, 87, 93-95, 98-99 (in Chapter 4), 236-237 (in the Conclusion) of the Headline hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>15</p>
@@ -156,10 +156,10 @@ For discussion of Schriever see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/keith-jim">Keith, Jim</a> in his “<a href="/ufo-history/ufo-books/keith-jim-casebook-on-alternative-3">Casebook on Alternative 3</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/1931882444/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1931882444/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 43 (in Chapter 5) of the I-Net softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/keith-jim' | relative_url }}">Keith, Jim</a> in his “<a href="{{ '/ufo-history/ufo-books/keith-jim-casebook-on-alternative-3' | relative_url }}">Casebook on Alternative 3</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/1931882444/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1931882444/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 43 (in Chapter 5) of the I-Net softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -167,10 +167,10 @@ For discussion of Schriever see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/marrs-jim">Marrs, Jim</a> in his “<a href="/ufo-history/ufo-books/marrs-jim-alien-agenda">Alien Agenda</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0060186429/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0060186429/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 68 (in Chapter 3) of the Harper Collins paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/marrs-jim' | relative_url }}">Marrs, Jim</a> in his “<a href="{{ '/ufo-history/ufo-books/marrs-jim-alien-agenda' | relative_url }}">Alien Agenda</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0060186429/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0060186429/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 68 (in Chapter 3) of the Harper Collins paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -178,10 +178,10 @@ For discussion of Schriever see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p>Marvels and Mysteries (Editors Of) in “<a href="/ufo-history/ufo-books/marvels-and-mysteries-editors-of-marvels-and-mysteries-ufos">Marvels and Mysteries: UFOs</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0752512277/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0752512277/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 67-68 of the Parrallel softcover edition.</p>
+<p>Marvels and Mysteries (Editors Of) in “<a href="{{ '/ufo-history/ufo-books/marvels-and-mysteries-editors-of-marvels-and-mysteries-ufos' | relative_url }}">Marvels and Mysteries: UFOs</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0752512277/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0752512277/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 67-68 of the Parrallel softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -189,10 +189,10 @@ For discussion of Schriever see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/matthews-tim">Matthews, Tim</a> in his “<a href="/ufo-history/ufo-books/matthews-tim-ufo-revelation">UFO Revelation</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0713727330/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713727330/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 31-33 (in Chapter 1) of the Blandford softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/matthews-tim' | relative_url }}">Matthews, Tim</a> in his “<a href="{{ '/ufo-history/ufo-books/matthews-tim-ufo-revelation' | relative_url }}">UFO Revelation</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0713727330/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713727330/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 31-33 (in Chapter 1) of the Blandford softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -200,10 +200,10 @@ For discussion of Schriever see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p>Michaels, Susan in her “<a href="/ufo-history/ufo-books/michaels-susan-sightings-ufos">Sightings: UFOs</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0684836300/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684836300/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 44 (in the unnumbered chapter entitled “Who Built The Saucers?”) of the Fireside softcover edition.</p>
+<p>Michaels, Susan in her “<a href="{{ '/ufo-history/ufo-books/michaels-susan-sightings-ufos' | relative_url }}">Sightings: UFOs</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0684836300/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684836300/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 44 (in the unnumbered chapter entitled “Who Built The Saucers?”) of the Fireside softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -211,10 +211,10 @@ For discussion of Schriever see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p>Picknett, Lynn in her “<a href="/ufo-history/ufo-books/picknett-lynn-the-mammoth-book-of-ufos">The Mammoth Book of UFOs</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/078670800X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/078670800X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 407 (in Chapter 7) of the Robinson softcover edition.</p>
+<p>Picknett, Lynn in her “<a href="{{ '/ufo-history/ufo-books/picknett-lynn-the-mammoth-book-of-ufos' | relative_url }}">The Mammoth Book of UFOs</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/078670800X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/078670800X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 407 (in Chapter 7) of the Robinson softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -222,10 +222,10 @@ For discussion of Schriever see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/swartz-tim">Swartz, Tim</a> in his “Evil Agenda of the Secret Government: Exposing Project Paper Clip and the Underground UFO Bases of Hitler’s Elite Scientific Corps” (<a href="/tags/1999">1999</a>) at pages 75-76 (in Chapter 5) of the Global Communications softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/swartz-tim' | relative_url }}">Swartz, Tim</a> in his “Evil Agenda of the Secret Government: Exposing Project Paper Clip and the Underground UFO Bases of Hitler’s Elite Scientific Corps” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) at pages 75-76 (in Chapter 5) of the Global Communications softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

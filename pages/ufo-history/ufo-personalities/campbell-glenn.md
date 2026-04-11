@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/campbell_glenn_1.jpg"}
 ---
 
-![campbell_glenn_1](/images/stories/ufo_personalities/campbell_glenn_1.jpg)
+![campbell_glenn_1]({{ '/images/stories/ufo_personalities/campbell_glenn_1.jpg' | relative_url }})
 
 *Glenn Campbell*
 
@@ -57,10 +57,10 @@ For discussion of Glenn Campbell see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p>Darlington, David in his “<a href="/ufo-history/ufo-books/darlington-david-the-dreamland-chronicles">The Dreamland Chronicles</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0805047778/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0805047778/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 13, 16-21, 36 (in Chapter 1), 96-97, 98-99, 105-107, 110-113, 120-127 (in Chapter 4), 162-163, 165 (in Chapter 7), 198-200 (in Chapter 8), 216, 218-219, 221-222 (in Chapter 9), 262-264, 266 (in the Epilogue), 257-268 (in the closing Acknowledgments section) of the LB hardback edition (with the same page numbering in the Warner Books softcover edition).</p>
+<p>Darlington, David in his “<a href="{{ '/ufo-history/ufo-books/darlington-david-the-dreamland-chronicles' | relative_url }}">The Dreamland Chronicles</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0805047778/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0805047778/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 13, 16-21, 36 (in Chapter 1), 96-97, 98-99, 105-107, 110-113, 120-127 (in Chapter 4), 162-163, 165 (in Chapter 7), 198-200 (in Chapter 8), 216, 218-219, 221-222 (in Chapter 9), 262-264, 266 (in the Epilogue), 257-268 (in the closing Acknowledgments section) of the LB hardback edition (with the same page numbering in the Warner Books softcover edition).</p>
 </td>
 <td valign="top" width="52">
 <p>54</p>
@@ -68,10 +68,10 @@ For discussion of Glenn Campbell see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p>Koerner, David &amp; LeVay, Simon in their “Here Be Dragons” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/0195128524/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0195128524/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 184-185, 186-188, 193 (in Chapter 8) of the Oxford softcover edition.</p>
+<p>Koerner, David &amp; LeVay, Simon in their “Here Be Dragons” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/0195128524/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0195128524/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 184-185, 186-188, 193 (in Chapter 8) of the Oxford softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>6</p>
@@ -79,10 +79,10 @@ For discussion of Glenn Campbell see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/matthews-tim">Matthews, Tim</a> in his “<a href="/ufo-history/ufo-books/matthews-tim-ufo-revelation">UFO Revelation</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0713727330/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713727330/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 201-202 (in Chapter 9) of the Blandford softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/matthews-tim' | relative_url }}">Matthews, Tim</a> in his “<a href="{{ '/ufo-history/ufo-books/matthews-tim-ufo-revelation' | relative_url }}">UFO Revelation</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0713727330/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713727330/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 201-202 (in Chapter 9) of the Blandford softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -90,10 +90,10 @@ For discussion of Glenn Campbell see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p>Patton, Phil in his “<a href="/ufo-history/ufo-books/patton-phil-travels-in-dreamland">Travels in Dreamland</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0679456511/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0679456511/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 42-43 (in Chapter 5), 130, 131-132, 133 (in Chapter 9) of the Orion Media hardback edition.</p>
+<p>Patton, Phil in his “<a href="{{ '/ufo-history/ufo-books/patton-phil-travels-in-dreamland' | relative_url }}">Travels in Dreamland</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0679456511/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0679456511/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 42-43 (in Chapter 5), 130, 131-132, 133 (in Chapter 9) of the Orion Media hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -101,10 +101,10 @@ For discussion of Glenn Campbell see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p>Wright, Susan in her “<a href="/ufo-history/ufo-books/wright-susan-ufo-headquarters">UFO Headquarters</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0312193475/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312193475/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 5-6 (in Chapter 1) of the St Martin’s Press softcover edition.</p>
+<p>Wright, Susan in her “<a href="{{ '/ufo-history/ufo-books/wright-susan-ufo-headquarters' | relative_url }}">UFO Headquarters</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0312193475/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312193475/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 5-6 (in Chapter 1) of the St Martin’s Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

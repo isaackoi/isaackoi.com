@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0879753145.jpg"}
 book: {"identifiers": ["0879753145", "051757165X"], "primary_isbn": "0879753145", "cover_image": "/book-covers/0879753145.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of “[Science Confronts the Paranormal](/ufo-history/ufo-books/frazier-kendrick-editor-science-confronts-the-paranormal)” ([1986](/tags/1986)) (available [on Amazon USA](http://www.amazon.com/dp/0879753145/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0879753145/?&tag=ufot-21)) edited by [Kendrick Frazier](/ufo-history/ufo-personalities/frazier-kendrick)
+Brief review to be added of “[Science Confronts the Paranormal]({{ '/ufo-history/ufo-books/frazier-kendrick-editor-science-confronts-the-paranormal' | relative_url }})” ([1986]({{ '/tags/1986' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0879753145/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0879753145/?&tag=ufot-21)) edited by [Kendrick Frazier]({{ '/ufo-history/ufo-personalities/frazier-kendrick' | relative_url }})
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1989">1989</a></p>
+<p><a href="{{ '/tags/1989' | relative_url }}">1989</a></p>
 </td>
 <td valign="top" width="547">
-<p>Schultz, Ted in “<a href="/ufo-history/ufo-books/schultz-ted-the-fringes-of-reason">The Fringes of Reason</a>” (<a href="/tags/1989">1989</a>) (edited by Ted Schultz) (available <a href="http://www.amazon.com/dp/051757165X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/051757165X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 198 of the Harmony Books softcover edition.</p>
+<p>Schultz, Ted in “<a href="{{ '/ufo-history/ufo-books/schultz-ted-the-fringes-of-reason' | relative_url }}">The Fringes of Reason</a>” (<a href="{{ '/tags/1989' | relative_url }}">1989</a>) (edited by Ted Schultz) (available <a href="http://www.amazon.com/dp/051757165X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/051757165X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 198 of the Harmony Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

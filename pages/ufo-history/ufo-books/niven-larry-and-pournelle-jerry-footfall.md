@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0345323440.jpg"}
 book: {"identifiers": ["0345323440", "0688144861", "0760704406"], "primary_isbn": "0345323440", "cover_image": "/book-covers/0345323440.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of the novel “[Footfall](/ufo-history/ufo-books/niven-larry-and-pournelle-jerry-footfall)” ([1985](/tags/1985)) (available [on Amazon USA](http://www.amazon.com/dp/0345323440/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0345323440/?&tag=ufot-21)) by Larry Niven and Jerry Pournelle.
+Brief review to be added of the novel “[Footfall]({{ '/ufo-history/ufo-books/niven-larry-and-pournelle-jerry-footfall' | relative_url }})” ([1985]({{ '/tags/1985' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0345323440/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0345323440/?&tag=ufot-21)) by Larry Niven and Jerry Pournelle.
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion of the novel “Footfall” see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p>Forstchen, William in “<a href="/ufo-history/ufo-books/fawcett-bill-ed-making-contact">Making Contact</a>” (<a href="/tags/1997">1997</a>) (edited by Bill Fawcett) (available <a href="http://www.amazon.com/dp/0688144861/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0688144861/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 254, 257 (in Section 4) of the Morrow hardback edition.</p>
+<p>Forstchen, William in “<a href="{{ '/ufo-history/ufo-books/fawcett-bill-ed-making-contact' | relative_url }}">Making Contact</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (edited by Bill Fawcett) (available <a href="http://www.amazon.com/dp/0688144861/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0688144861/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 254, 257 (in Section 4) of the Morrow hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -65,10 +65,10 @@ For discussion of the novel “Footfall” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> and <a href="/ufo-history/ufo-personalities/hough-peter">Hough, Peter</a> in their “<a href="/ufo-history/ufo-books/randles-jenny-and-hough-peter-looking-for-the-aliens">Looking for the Aliens</a>” (<a href="/tags/1991">1991</a>) (available <a href="http://www.amazon.com/dp/0760704406/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0760704406/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 13 (in Chapter 1) of the Blandford softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> and <a href="{{ '/ufo-history/ufo-personalities/hough-peter' | relative_url }}">Hough, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-hough-peter-looking-for-the-aliens' | relative_url }}">Looking for the Aliens</a>” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/0760704406/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0760704406/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 13 (in Chapter 1) of the Blandford softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

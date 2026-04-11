@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/documents_1.gif"}
 ---
 
-![documents_1](/images/stories/ufo_tags/documents_1.gif)
+![documents_1]({{ '/images/stories/ufo_tags/documents_1.gif' | relative_url }})
 
 *Hoover on "toilet seats" memo*
 
@@ -47,7 +47,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-Complete text of memo presented by [Fawcett, George](/ufo-history/ufo-personalities/fawcett-george) and [Greenwood, Barry](/ufo-history/ufo-personalities/greenwood-barry) in their “[Clear Intent](/ufo-history/ufo-books/fawcett-george-and-greenwood-barry-clear-intent)” ([1984](/tags/1984)) (available [on Amazon USA](http://www.amazon.com/dp/0131366491/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0131366491/ref=nosim?tag=ufot-21)) at pages 158-159 (in Chapter 10) of the Spectrum softcover edition (with the same page numbering in the Fireside softcover edition published under the title “The UFO Cover-Up”).
+Complete text of memo presented by [Fawcett, George]({{ '/ufo-history/ufo-personalities/fawcett-george' | relative_url }}) and [Greenwood, Barry]({{ '/ufo-history/ufo-personalities/greenwood-barry' | relative_url }}) in their “[Clear Intent]({{ '/ufo-history/ufo-books/fawcett-george-and-greenwood-barry-clear-intent' | relative_url }})” ([1984]({{ '/tags/1984' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0131366491/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0131366491/ref=nosim?tag=ufot-21)) at pages 158-159 (in Chapter 10) of the Spectrum softcover edition (with the same page numbering in the Fireside softcover edition published under the title “The UFO Cover-Up”).
 
 The table below includes references to relevant discussions in UFO/SETI books noted by Isaac Koi during a review of approximately 963 UFO/SETI books during the period 2003-2006 (with a few later additions). The table can be sorted by author, date and length of discussion by clicking on the relevant word in the top line of the table.
 
@@ -73,10 +73,10 @@ For discussion of this FBI document see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2003">2003</a></p>
+<p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-strange-skies-pilot-encounters-with-ufos">Strange Skies: Pilot Encounters with UFOs</a>” (<a href="/tags/2003">2003</a>) (available <a href="http://www.amazon.com/dp/0806522992/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806522992/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 224 (in the Notes) of the Citadel softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-strange-skies-pilot-encounters-with-ufos' | relative_url }}">Strange Skies: Pilot Encounters with UFOs</a>” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) (available <a href="http://www.amazon.com/dp/0806522992/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806522992/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 224 (in the Notes) of the Citadel softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -84,10 +84,10 @@ For discussion of this FBI document see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fawcett-george">Fawcett, George</a> and <a href="/ufo-history/ufo-personalities/greenwood-barry">Greenwood, Barry</a> (with complete text ) in their “<a href="/ufo-history/ufo-books/fawcett-george-and-greenwood-barry-clear-intent">Clear Intent</a>” (<a href="/tags/1984">1984</a>) (available <a href="http://www.amazon.com/dp/0131366491/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0131366491/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 158-159 (in Chapter 10) of the Spectrum softcover edition (with the same page numbering in the Fireside softcover edition published under the title “The UFO Cover-Up”).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fawcett-george' | relative_url }}">Fawcett, George</a> and <a href="{{ '/ufo-history/ufo-personalities/greenwood-barry' | relative_url }}">Greenwood, Barry</a> (with complete text ) in their “<a href="{{ '/ufo-history/ufo-books/fawcett-george-and-greenwood-barry-clear-intent' | relative_url }}">Clear Intent</a>” (<a href="{{ '/tags/1984' | relative_url }}">1984</a>) (available <a href="http://www.amazon.com/dp/0131366491/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0131366491/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 158-159 (in Chapter 10) of the Spectrum softcover edition (with the same page numbering in the Fireside softcover edition published under the title “The UFO Cover-Up”).</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -95,10 +95,10 @@ For discussion of this FBI document see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/maccabee-bruce">Maccabee, Bruce</a> in his “<a href="/ufo-history/ufo-books/maccabee-bruce-ufo-fbi-connection">UFO-FBI Connection</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/1567184936/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1567184936/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 32 (in Chapter 4) of the Llewellyn softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/maccabee-bruce' | relative_url }}">Maccabee, Bruce</a> in his “<a href="{{ '/ufo-history/ufo-books/maccabee-bruce-ufo-fbi-connection' | relative_url }}">UFO-FBI Connection</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/1567184936/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1567184936/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 32 (in Chapter 4) of the Llewellyn softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -106,10 +106,10 @@ For discussion of this FBI document see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/redfern-nicholas">Redfern, Nicholas</a> in his “<a href="/ufo-history/ufo-books/redfern-nicholas-the-fbi-files">The FBI Files</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0671005332/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0671005332/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 37 (in Chapter 2) of the Simon &amp; Schuster softcover edition, with the same page numbering in the Pocket Books paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/redfern-nicholas' | relative_url }}">Redfern, Nicholas</a> in his “<a href="{{ '/ufo-history/ufo-books/redfern-nicholas-the-fbi-files' | relative_url }}">The FBI Files</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0671005332/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0671005332/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 37 (in Chapter 2) of the Simon &amp; Schuster softcover edition, with the same page numbering in the Pocket Books paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -117,10 +117,10 @@ For discussion of this FBI document see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/swords-michael-d">Swords, Michael D</a> in “<a href="/ufo-history/ufo-books/eberhart-george-editor-the-roswell-report-a-historical-perspective">The Roswell Report : A Historical Perspective</a>” (<a href="/tags/1991">1991</a>) (available <a href="http://www.amazon.com/dp/092934359X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/092934359X/ref=nosim?tag=ufot-21">on Amazon UK</a>) (edited by <a href="/ufo-history/ufo-personalities/eberhart-george">Eberhart, George</a>) at page 15 (in the unnumbered chapter entitled “The summer of <a href="/tags/1947">1947</a> : UFOs and the US government at the beginning”) of the <a href="/ufo-history/ufo-personalities/cufos">CUFOS</a> paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/swords-michael-d' | relative_url }}">Swords, Michael D</a> in “<a href="{{ '/ufo-history/ufo-books/eberhart-george-editor-the-roswell-report-a-historical-perspective' | relative_url }}">The Roswell Report : A Historical Perspective</a>” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/092934359X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/092934359X/ref=nosim?tag=ufot-21">on Amazon UK</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/eberhart-george' | relative_url }}">Eberhart, George</a>) at page 15 (in the unnumbered chapter entitled “The summer of <a href="{{ '/tags/1947' | relative_url }}">1947</a> : UFOs and the US government at the beginning”) of the <a href="{{ '/ufo-history/ufo-personalities/cufos' | relative_url }}">CUFOS</a> paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p> </p>

@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0465073158.jpg"}
 book: {"identifiers": ["0465073158"], "primary_isbn": "0465073158", "cover_image": "/book-covers/0465073158.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of Clifford Pickover's book “[The Science of Aliens](/ufo-history/ufo-books/pickover-clifford-the-science-of-aliens)” ([1998](/tags/1998)) (available [on Amazon USA](http://www.amazon.com/dp/0465073158/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0465073158/?&tag=ufot-21))
+Brief review to be added of Clifford Pickover's book “[The Science of Aliens]({{ '/ufo-history/ufo-books/pickover-clifford-the-science-of-aliens' | relative_url }})” ([1998]({{ '/tags/1998' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0465073158/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0465073158/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

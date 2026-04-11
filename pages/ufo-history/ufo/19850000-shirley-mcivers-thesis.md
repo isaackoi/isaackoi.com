@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/britain_1.gif"}
 ---
 
-![britain_1](/images/stories/ufo_tags/britain_1.gif)
+![britain_1]({{ '/images/stories/ufo_tags/britain_1.gif' | relative_url }})
 
 *Shirley McIver's thesis*
 
@@ -65,10 +65,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2007">2007</a></p>
+<p><a href="{{ '/tags/2007' | relative_url }}">2007</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clarke-david">Clarke, David</a> and <a href="/ufo-history/ufo-personalities/roberts-andy">Roberts, Andy</a> in their “<a href="/ufo-history/ufo-books/clarke-david-and-roberts-andy-flying-saucerers">Flying Saucerers : A social history of UFOlogy</a>” (<a href="/tags/2007">2007</a>) (available <a href="http://www.amazon.com/dp/1905646003/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1905646003/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 62 (in Chapter 4) of the Alternative Albion softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clarke-david' | relative_url }}">Clarke, David</a> and <a href="{{ '/ufo-history/ufo-personalities/roberts-andy' | relative_url }}">Roberts, Andy</a> in their “<a href="{{ '/ufo-history/ufo-books/clarke-david-and-roberts-andy-flying-saucerers' | relative_url }}">Flying Saucerers : A social history of UFOlogy</a>” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (available <a href="http://www.amazon.com/dp/1905646003/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1905646003/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 62 (in Chapter 4) of the Alternative Albion softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -76,10 +76,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/denzler-brenda">Denzler, Brenda</a> in her “<a href="/ufo-history/ufo-books/denzler-brenda-the-lure-of-the-edge">The Lure of the Edge</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/0520224329/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0520224329/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 163 (in the Appendix) of the California hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/denzler-brenda' | relative_url }}">Denzler, Brenda</a> in her “<a href="{{ '/ufo-history/ufo-books/denzler-brenda-the-lure-of-the-edge' | relative_url }}">The Lure of the Edge</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/0520224329/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0520224329/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 163 (in the Appendix) of the California hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -87,10 +87,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/emmons-charles-f">Emmons, Charles F</a> in his “<a href="/ufo-history/ufo-books/emmons-charles-f-at-the-threshold-ufos-science-and-the-new-age">At The Threshold: UFOs, Science and the New Age</a>” (available <a href="http://www.amazon.com/dp/0926524429/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0926524429/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 51 (in Chapter 4) of the Wild Flower Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/emmons-charles-f' | relative_url }}">Emmons, Charles F</a> in his “<a href="{{ '/ufo-history/ufo-books/emmons-charles-f-at-the-threshold-ufos-science-and-the-new-age' | relative_url }}">At The Threshold: UFOs, Science and the New Age</a>” (available <a href="http://www.amazon.com/dp/0926524429/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0926524429/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 51 (in Chapter 4) of the Wild Flower Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -98,10 +98,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> and <a href="/ufo-history/ufo-personalities/hough-peter">Hough, Peter</a> in their “<a href="/ufo-history/ufo-books/randles-jenny-and-hough-peter-looking-for-the-aliens">Looking for the Aliens</a>” (<a href="/tags/1991">1991</a>) (available <a href="http://www.amazon.com/dp/0760704406/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0760704406/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 53-54 (in Chapter 7) of the Blandford softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> and <a href="{{ '/ufo-history/ufo-personalities/hough-peter' | relative_url }}">Hough, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-hough-peter-looking-for-the-aliens' | relative_url }}">Looking for the Aliens</a>” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/0760704406/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0760704406/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 53-54 (in Chapter 7) of the Blandford softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -109,10 +109,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1985">1985</a></p>
+<p><a href="{{ '/tags/1985' | relative_url }}">1985</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> and <a href="/ufo-history/ufo-personalities/warrington-peter">Warrington, Peter</a> in their “<a href="/ufo-history/ufo-books/randles-jenny-and-warrington-peter-science-and-the-ufos">Science and the UFOs</a> " (<a href="/tags/1985">1985</a>) (available <a href="http://www.amazon.com/dp/0631135634/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0631135634/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 187-188 (in Chapter 12) of the Blackwell hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> and <a href="{{ '/ufo-history/ufo-personalities/warrington-peter' | relative_url }}">Warrington, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-warrington-peter-science-and-the-ufos' | relative_url }}">Science and the UFOs</a> " (<a href="{{ '/tags/1985' | relative_url }}">1985</a>) (available <a href="http://www.amazon.com/dp/0631135634/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0631135634/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 187-188 (in Chapter 12) of the Blackwell hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -120,10 +120,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p>Saliba, John A in “<a href="/ufo-history/ufo-books/lewis-james-ed-the-gods-have-landed-new-religions-from-other-worlds">The Gods Have Landed – New Religions from Other Worlds</a>” (<a href="/tags/1995">1995</a>) (edited by James Lewis) (available <a href="http://www.amazon.com/dp/0791423301/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0791423301/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 219 (in Chapter 9) of the Suny softcover edition.</p>
+<p>Saliba, John A in “<a href="{{ '/ufo-history/ufo-books/lewis-james-ed-the-gods-have-landed-new-religions-from-other-worlds' | relative_url }}">The Gods Have Landed – New Religions from Other Worlds</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (edited by James Lewis) (available <a href="http://www.amazon.com/dp/0791423301/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0791423301/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 219 (in Chapter 9) of the Suny softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

@@ -42,13 +42,13 @@ The video appears to show some sort of alien being in snow.
 
 Screen shots from the video are included below for ease of identification:
 
-![](/images/stories/ufo_videos/video093_1.JPG)
+![]({{ '/images/stories/ufo_videos/video093_1.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video093_2.JPG)
+![]({{ '/images/stories/ufo_videos/video093_2.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video093_3.JPG)
+![]({{ '/images/stories/ufo_videos/video093_3.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video093_4.JPG)
+![]({{ '/images/stories/ufo_videos/video093_4.JPG' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this video
@@ -77,7 +77,7 @@ Their find was deemed serious enough for the Kremlin to get involved and a spoke
 *‘We found the alien in one of the student’s homes,’ he said.
 ‘It was lying under his bed and an examination of it revealed it had been made of bread crumbs which were covered in chicken skin.’"*
 
-![](/images/stories/ufo_videos/video093_5.JPG)
+![]({{ '/images/stories/ufo_videos/video093_5.JPG' | relative_url }})
 
 <a id="truth"></a>
 ### 3. The real background to this video
@@ -88,21 +88,21 @@ Ivan Baturin and Artem Fedotov subsequently admitted the hoax and demonstrated o
 
 A considerable amount of material relating to this hoax (including various Russian news reports detailing the admission of the hoax) has very helpfully been collated and translated by Yvan Defoy [on his website](http://www.vania1917.com/) and [a Youtube playlist](https://www.youtube.com/playlist?list=PL4A754F2E0FEA747A&feature=mh_lolz) but those efforts appear to have largely gone unnoticed. His Youtube playlist includes various videos of Russian television news reports about the hoax, including various interviews with Ivan Baturin and Artem Fedotov (pictured below). I have drawn heavily upon those helpful translations of relevant videos below.
 
-![](/images/stories/ufo_videos/video093_7.JPG)
+![]({{ '/images/stories/ufo_videos/video093_7.JPG' | relative_url }})
 
 Atrem Fedotov is seen in the video, which was filmed by the Ivan Baturin.
 
 Here is a picture of Artem Fedotov from one of the videos in which he was interviewed about the hoax:
 
-![](/images/stories/ufo_videos/video093_8.JPG)
+![]({{ '/images/stories/ufo_videos/video093_8.JPG' | relative_url }})
 
 That picture of Artem Fedotov can be compared with images of the man in the video of the "alien":
 
-![](/images/stories/ufo_videos/video093_4.JPG)
+![]({{ '/images/stories/ufo_videos/video093_4.JPG' | relative_url }})
 
 The various Russian TV news videos in Yvan Defoy's [Youtube playlist](https://www.youtube.com/playlist?list=PL4A754F2E0FEA747A&feature=mh_lolz) regarding this hoax include several videos of Ivan Baturin (pictured below) discussing how he made and filmed the "alien" video.
 
-![](/images/stories/ufo_videos/video093_10.JPG)
+![]({{ '/images/stories/ufo_videos/video093_10.JPG' | relative_url }})
 
 In short, Ivan Baturin made the head of the "alien" out of plasticine. When he ran out of plasticine, he made some dough which he used for the body of the "alien". He then put chicken skin over the "alien", which helps give it the organic look apparent in the video. That organic appearance is more convincing than many basic CGI (Computer Generated Imagery) "alien" video, may explain why this video got so many views upon its release in 2011.
 
@@ -110,23 +110,23 @@ Videos and photographs of "aliens" which used physical models have tended to hav
 
 Ivan Baturin is pictured below demonstrating how he created the "alien" head out of plasticine.
 
-![](/images/stories/ufo_videos/video093_11.JPG)
+![]({{ '/images/stories/ufo_videos/video093_11.JPG' | relative_url }})
 
 Ivan Baturin is pictured below demonstrating how he made dough for the "alien" body.
 
-![](/images/stories/ufo_videos/video093_12.JPG)
+![]({{ '/images/stories/ufo_videos/video093_12.JPG' | relative_url }})
 
 Ivan Baturin and Artem Fedotov are pictured below showing a reporter the site at which they placed the "alien" body.
 
-![](/images/stories/ufo_videos/video093_13.JPG)
+![]({{ '/images/stories/ufo_videos/video093_13.JPG' | relative_url }})
 
 The "alien" video hoax provoked some interested from local police. They seised the relevant model "alien" and considered a potential prosecution of the hoaxers. The police subsequently talked about the hoax (pictured below).
 
-![](/images/stories/ufo_videos/video093_9.JPG)
+![]({{ '/images/stories/ufo_videos/video093_9.JPG' | relative_url }})
 
 The police also showed reporters the seised model "alien", complete with wires and matchsticks (pictured below).
 
-![](/images/stories/ufo_videos/video093_6.JPG)
+![]({{ '/images/stories/ufo_videos/video093_6.JPG' | relative_url }})
 
 ### Further details of this hoax and related Russian news coverage can be found on Yvan Defoy's [website](http://www.vania1917.com/) and in the translated videos of Russian television news reports on his [a Youtube playlist](https://www.youtube.com/playlist?list=PL4A754F2E0FEA747A&feature=mh_lolz). The videos from that playlist are embedded below for ease of reference.
 
@@ -179,4 +179,4 @@ Relevant discussions on the AboveTopSecret.com forum include the following:
 
 2011 (April) discussion entitled "[New alien found](http://www.abovetopsecret.com/forum/thread691701/pg1)"
 
-![](/images/stories/ufo_videos/video093_3d.jpg)
+![]({{ '/images/stories/ufo_videos/video093_3d.jpg' | relative_url }})

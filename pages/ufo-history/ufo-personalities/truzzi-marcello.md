@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/truzzi_marcello_2.jpg"}
 ---
 
-![truzzi_marcello_2](/images/stories/ufo_personalities/truzzi_marcello_2.jpg)
+![truzzi_marcello_2]({{ '/images/stories/ufo_personalities/truzzi_marcello_2.jpg' | relative_url }})
 
 *Marcello Truzzi*
 
@@ -37,7 +37,7 @@ The table below includes references to relevant discussions in UFO/SETI books no
 
 Many of the tables of references on this website are considerably longer than the references to books found on most other UFO websites. Indeed, some are probably the longest that have been collated in relation to some events and personalities. I hope that these tables are found to be a useful contribution to UFOlogy.
 
-For discussion of [Marcello Truzzi](/ufo-history/ufo-personalities/truzzi-marcello) see the following:
+For discussion of [Marcello Truzzi]({{ '/ufo-history/ufo-personalities/truzzi-marcello' | relative_url }}) see the following:
 
 <table border="1" cellpadding="0" cellspacing="0" class="sortable" data-sortable="true" id="sortabletable">
 <thead>
@@ -57,10 +57,10 @@ For discussion of [Marcello Truzzi](/ufo-history/ufo-personalities/truzzi-marcel
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2007">2007</a></p>
+<p><a href="{{ '/tags/2007' | relative_url }}">2007</a></p>
 </td>
 <td valign="top" width="547">
-<p>Carter, Chris in his “<a href="/ufo-history/ufo-books/carter-chris-parapsychology-and-the-skeptics">Parapsychology and the Skeptics : A Scientific Argument for the Existence of ESP</a>” (<a href="/tags/2007">2007</a>) (available <a href="http://www.amazon.com/dp/1585011088/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1585011088/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 9-10, 15, 17, 84 of the Paja Books softcover edition.</p>
+<p>Carter, Chris in his “<a href="{{ '/ufo-history/ufo-books/carter-chris-parapsychology-and-the-skeptics' | relative_url }}">Parapsychology and the Skeptics : A Scientific Argument for the Existence of ESP</a>” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (available <a href="http://www.amazon.com/dp/1585011088/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1585011088/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 9-10, 15, 17, 84 of the Paja Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>

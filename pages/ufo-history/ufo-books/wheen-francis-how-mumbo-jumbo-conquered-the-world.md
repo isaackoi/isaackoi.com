@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/158648348X.jpg"}
 book: {"identifiers": ["158648348X"], "primary_isbn": "158648348X", "cover_image": "/book-covers/158648348X.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Francis Wheen](/ufo-history/ufo-personalities/wheen-francis)'s book “[How Mumbo-Jumbo Conquered The World](/ufo-history/ufo-books/wheen-francis-how-mumbo-jumbo-conquered-the-world)” ([2004](/tags/2004)) (available [on Amazon USA](http://www.amazon.com/dp/158648348X/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/158648348X/?&tag=ufot-21))
+Brief review to be added of [Francis Wheen]({{ '/ufo-history/ufo-personalities/wheen-francis' | relative_url }})'s book “[How Mumbo-Jumbo Conquered The World]({{ '/ufo-history/ufo-books/wheen-francis-how-mumbo-jumbo-conquered-the-world' | relative_url }})” ([2004]({{ '/tags/2004' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/158648348X/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/158648348X/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

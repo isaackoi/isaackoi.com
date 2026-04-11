@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/documents_1.gif"}
 ---
 
-![documents_1](/images/stories/ufo_tags/documents_1.gif)
+![documents_1]({{ '/images/stories/ufo_tags/documents_1.gif' | relative_url }})
 
 *Air Force FLYOBRPTS*
 
@@ -65,10 +65,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1953">1953</a></p>
+<p><a href="{{ '/tags/1953' | relative_url }}">1953</a></p>
 </td>
 <td valign="top" width="547">
-<p>Project Blue Book Status Report Number 12 (<a href="/tags/1953">1953</a>.0930) at page 6 (in Section 6). Complete images of relevant report included on the redacted National Archives Microfilm Publication T1206 roll number 85 (“Administrative Files: Box 1”), at the link below from the page with the unique Page ID (“PID”) of NARA-PBB85-882 (page 882 of 915) to the page with the PID of NARA-PBB85-915 (page 915 of 915). Complete images of relevant report included on the unredacted Maxwell Air Force Base microfilm roll number 30,362, at the link below from the page with the PID of MAXW-PBB1-852 (page 852 of 1537) to the page with the PID of MAXW-PBB1-885 (page 885 of 1537). Images of complete text of relevant report available free online as a downloadable pdf file from the download section of the website at the link below.</p>
+<p>Project Blue Book Status Report Number 12 (<a href="{{ '/tags/1953' | relative_url }}">1953</a>.0930) at page 6 (in Section 6). Complete images of relevant report included on the redacted National Archives Microfilm Publication T1206 roll number 85 (“Administrative Files: Box 1”), at the link below from the page with the unique Page ID (“PID”) of NARA-PBB85-882 (page 882 of 915) to the page with the PID of NARA-PBB85-915 (page 915 of 915). Complete images of relevant report included on the unredacted Maxwell Air Force Base microfilm roll number 30,362, at the link below from the page with the PID of MAXW-PBB1-852 (page 852 of 1537) to the page with the PID of MAXW-PBB1-885 (page 885 of 1537). Images of complete text of relevant report available free online as a downloadable pdf file from the download section of the website at the link below.</p>
 <p><a href="http://www.bluebookarchive.org">http://www.bluebookarchive.org</a></p>
 </td>
 <td valign="top" width="52">

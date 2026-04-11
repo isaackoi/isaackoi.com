@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -39,7 +39,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-Complete text of article reprinted in “The Quest For Extraterrestrial Life: A Book of Readings” ([1980](/tags/1980)) (edited by Donald Goldsmith) (available [on Amazon USA](http://www.amazon.com/dp/0935702083/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0935702083/ref=nosim?tag=ufot-21)) at pages 34-37 (in Chapter 10) of the University Science Books hardback edition.
+Complete text of article reprinted in “The Quest For Extraterrestrial Life: A Book of Readings” ([1980]({{ '/tags/1980' | relative_url }})) (edited by Donald Goldsmith) (available [on Amazon USA](http://www.amazon.com/dp/0935702083/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0935702083/ref=nosim?tag=ufot-21)) at pages 34-37 (in Chapter 10) of the University Science Books hardback edition.
 
 The table below includes references to relevant discussions in UFO/SETI books noted by Isaac Koi during a review of approximately 963 UFO/SETI books during the period 2003-2006 (with a few later additions). The table can be sorted by author, date and length of discussion by clicking on the relevant word in the top line of the table.
 
@@ -65,10 +65,10 @@ For discussion of directed panspermia see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p>Aczel, Amir in his “<a href="/ufo-history/ufo-books/aczel-amir-probability-1">Probability 1</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0151003769/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0151003769/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 95-96 (in Chapter 5) of the Little Brown hardback edition.</p>
+<p>Aczel, Amir in his “<a href="{{ '/ufo-history/ufo-books/aczel-amir-probability-1' | relative_url }}">Probability 1</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0151003769/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0151003769/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 95-96 (in Chapter 5) of the Little Brown hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -76,10 +76,10 @@ For discussion of directed panspermia see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1985">1985</a></p>
+<p><a href="{{ '/tags/1985' | relative_url }}">1985</a></p>
 </td>
 <td valign="top" width="547">
-<p>Angelo, Joseph A in his “<a href="/ufo-history/ufo-books/angelo-joseph-a-the-extraterrestrial-encyclopedia">The Extraterrestrial Encyclopedia: Man’s Search for Life in Outer Space</a>” (<a href="/tags/1985">1985</a>) (available <a href="http://www.amazon.com/dp/0816022763/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0816022763/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 66 (in the entry entitled “ ‘infective’ theory of life”), 127-128 (in the entry entitled “panspermia”) of the revised <a href="/tags/1991">1991</a> Fact on File hardback edition.</p>
+<p>Angelo, Joseph A in his “<a href="{{ '/ufo-history/ufo-books/angelo-joseph-a-the-extraterrestrial-encyclopedia' | relative_url }}">The Extraterrestrial Encyclopedia: Man’s Search for Life in Outer Space</a>” (<a href="{{ '/tags/1985' | relative_url }}">1985</a>) (available <a href="http://www.amazon.com/dp/0816022763/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0816022763/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 66 (in the entry entitled “ ‘infective’ theory of life”), 127-128 (in the entry entitled “panspermia”) of the revised <a href="{{ '/tags/1991' | relative_url }}">1991</a> Fact on File hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -87,10 +87,10 @@ For discussion of directed panspermia see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1987">1987</a></p>
+<p><a href="{{ '/tags/1987' | relative_url }}">1987</a></p>
 </td>
 <td valign="top" width="547">
-<p>Baird, John C in his “<a href="/ufo-history/ufo-books/baird-john-c-the-inner-limits-of-outer-space">The Inner Limits of Outer Space</a>” (<a href="/tags/1987">1987</a>) (available <a href="http://www.amazon.com/dp/0874514223/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0874514223/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 96-97 (in Chapter 6) of the Dartmouth hardback edition.</p>
+<p>Baird, John C in his “<a href="{{ '/ufo-history/ufo-books/baird-john-c-the-inner-limits-of-outer-space' | relative_url }}">The Inner Limits of Outer Space</a>” (<a href="{{ '/tags/1987' | relative_url }}">1987</a>) (available <a href="http://www.amazon.com/dp/0874514223/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0874514223/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 96-97 (in Chapter 6) of the Dartmouth hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -98,10 +98,10 @@ For discussion of directed panspermia see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2004">2004</a></p>
+<p><a href="{{ '/tags/2004' | relative_url }}">2004</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/birnes-william">Birnes, William</a> in his “<a href="/ufo-history/ufo-books/birnes-william-the-ufo-magazine-ufo-encyclopedia">The UFO Magazine UFO Encyclopedia</a>” (<a href="/tags/2004">2004</a>) (available <a href="http://www.amazon.com/dp/0743466748/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743466748/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 103-104 (in an entry entitled “Crick, Francis”) of the Pocket Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/birnes-william' | relative_url }}">Birnes, William</a> in his “<a href="{{ '/ufo-history/ufo-books/birnes-william-the-ufo-magazine-ufo-encyclopedia' | relative_url }}">The UFO Magazine UFO Encyclopedia</a>” (<a href="{{ '/tags/2004' | relative_url }}">2004</a>) (available <a href="http://www.amazon.com/dp/0743466748/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743466748/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 103-104 (in an entry entitled “Crick, Francis”) of the Pocket Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -109,10 +109,10 @@ For discussion of directed panspermia see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1978">1978</a></p>
+<p><a href="{{ '/tags/1978' | relative_url }}">1978</a></p>
 </td>
 <td valign="top" width="547">
-<p>Briazack, Norman and Mennick, Simon in their “<a href="/ufo-history/ufo-books/briazack-norman-and-mennick-simon-the-ufo-guidebook">The UFO Guidebook</a>” (<a href="/tags/1978">1978</a>) (available <a href="http://www.amazon.com/dp/0806507632/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806507632/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 65-66 (in the entry entitled “Crick, Francis”) of the Citadel softcover edition.</p>
+<p>Briazack, Norman and Mennick, Simon in their “<a href="{{ '/ufo-history/ufo-books/briazack-norman-and-mennick-simon-the-ufo-guidebook' | relative_url }}">The UFO Guidebook</a>” (<a href="{{ '/tags/1978' | relative_url }}">1978</a>) (available <a href="http://www.amazon.com/dp/0806507632/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806507632/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 65-66 (in the entry entitled “Crick, Francis”) of the Citadel softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -120,10 +120,10 @@ For discussion of directed panspermia see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p>Craft, Michael in his “<a href="/ufo-history/ufo-books/craft-michael-alien-impact">Alien Impact</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/0312962878/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312962878/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 203 (in Chapter 10) of the St Martin’s Paperbacks paperback edition.</p>
+<p>Craft, Michael in his “<a href="{{ '/ufo-history/ufo-books/craft-michael-alien-impact' | relative_url }}">Alien Impact</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/0312962878/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312962878/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 203 (in Chapter 10) of the St Martin’s Paperbacks paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -131,10 +131,10 @@ For discussion of directed panspermia see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/darling-david">Darling, David</a> in his “<a href="/ufo-history/ufo-books/darling-david-the-extraterrestrial-encyclopedia">The Extraterrestrial Encyclopedia</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/081293248X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/081293248X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 105 (in the entry entitled “directed panspermia”), 310 (in the entry entitled “Orgel, Leslie E (1927- )”) of the Three Rivers softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/darling-david' | relative_url }}">Darling, David</a> in his “<a href="{{ '/ufo-history/ufo-books/darling-david-the-extraterrestrial-encyclopedia' | relative_url }}">The Extraterrestrial Encyclopedia</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/081293248X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/081293248X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 105 (in the entry entitled “directed panspermia”), 310 (in the entry entitled “Orgel, Leslie E (1927- )”) of the Three Rivers softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -142,10 +142,10 @@ For discussion of directed panspermia see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2003">2003</a></p>
+<p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/darling-david">Darling, David</a> in his online encyclopedia, “The Encyclopedia of Astrobiology, Astronomy and Spaceflight” (<a href="/tags/2003">2003</a>) in the entry entitled “Directed panspermia”. The relevant entry is available online at: <a href="http://www.daviddarling.info/encyclopedia/D/dirpans.html">http://www.daviddarling.info/encyclopedia/D/dirpans.html</a></p>
+<p><a href="{{ '/ufo-history/ufo-personalities/darling-david' | relative_url }}">Darling, David</a> in his online encyclopedia, “The Encyclopedia of Astrobiology, Astronomy and Spaceflight” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) in the entry entitled “Directed panspermia”. The relevant entry is available online at: <a href="http://www.daviddarling.info/encyclopedia/D/dirpans.html">http://www.daviddarling.info/encyclopedia/D/dirpans.html</a></p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -153,10 +153,10 @@ For discussion of directed panspermia see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Davidson, Keay in his “<a href="/ufo-history/ufo-personalities/sagan-carl">Carl Sagan</a>: A Life” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0471395366/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0471395366/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 158-159 (in Chapter 6) of the Wiley softcover edition.</p>
+<p>Davidson, Keay in his “<a href="{{ '/ufo-history/ufo-personalities/sagan-carl' | relative_url }}">Carl Sagan</a>: A Life” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0471395366/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0471395366/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 158-159 (in Chapter 6) of the Wiley softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -164,10 +164,10 @@ For discussion of directed panspermia see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/davies-paul">Davies, Paul</a> C W in “Many Worlds” (<a href="/tags/2000">2000</a>) (edited by Stephen J Dick) (available <a href="http://www.amazon.com/dp/1890151424/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1890151424/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 16 (in Part 1, unnumbered chapter entitled “Biological Determinism, Information Theory, and the Origin of Life”) of the Templeton Foundation softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/davies-paul' | relative_url }}">Davies, Paul</a> C W in “Many Worlds” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (edited by Stephen J Dick) (available <a href="http://www.amazon.com/dp/1890151424/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1890151424/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 16 (in Part 1, unnumbered chapter entitled “Biological Determinism, Information Theory, and the Origin of Life”) of the Templeton Foundation softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -175,10 +175,10 @@ For discussion of directed panspermia see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/dick-steven-j">Dick, Steven J</a> in his “<a href="/ufo-history/ufo-books/dick-steven-j-life-on-other-worlds">Life on Other Worlds</a>“ (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0521620120/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521620120/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 186 (in Chapter 6) of the Cambridge hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dick-steven-j' | relative_url }}">Dick, Steven J</a> in his “<a href="{{ '/ufo-history/ufo-books/dick-steven-j-life-on-other-worlds' | relative_url }}">Life on Other Worlds</a>“ (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0521620120/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521620120/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 186 (in Chapter 6) of the Cambridge hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -186,10 +186,10 @@ For discussion of directed panspermia see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/dick-steven-j">Dick, Steven J</a> in his “<a href="/ufo-history/ufo-books/dick-steven-j-the-biological-universe">The Biological Universe</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/0521343267/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521343267/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 377 (in Chapter 7) of the Cambridge hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dick-steven-j' | relative_url }}">Dick, Steven J</a> in his “<a href="{{ '/ufo-history/ufo-books/dick-steven-j-the-biological-universe' | relative_url }}">The Biological Universe</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/0521343267/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521343267/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 377 (in Chapter 7) of the Cambridge hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -197,10 +197,10 @@ For discussion of directed panspermia see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/emmons-charles-f">Emmons, Charles F</a> in his “<a href="/ufo-history/ufo-books/emmons-charles-f-at-the-threshold-ufos-science-and-the-new-age">At The Threshold: UFOs, Science and the New Age</a>” (available <a href="http://www.amazon.com/dp/0926524429/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0926524429/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 120 (in Chapter 7) of the Wild Flower Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/emmons-charles-f' | relative_url }}">Emmons, Charles F</a> in his “<a href="{{ '/ufo-history/ufo-books/emmons-charles-f-at-the-threshold-ufos-science-and-the-new-age' | relative_url }}">At The Threshold: UFOs, Science and the New Age</a>” (available <a href="http://www.amazon.com/dp/0926524429/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0926524429/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 120 (in Chapter 7) of the Wild Flower Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -208,10 +208,10 @@ For discussion of directed panspermia see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1975">1975</a></p>
+<p><a href="{{ '/tags/1975' | relative_url }}">1975</a></p>
 </td>
 <td valign="top" width="547">
-<p>Fairley, Peter in his “Is there Life in Outer Space?” (<a href="/tags/1975">1975</a>) (available <a href="http://www.amazon.com/dp/0900727322/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0900727322/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 109-110 (in Chapter 7) of the Look-In softcover edition.</p>
+<p>Fairley, Peter in his “Is there Life in Outer Space?” (<a href="{{ '/tags/1975' | relative_url }}">1975</a>) (available <a href="http://www.amazon.com/dp/0900727322/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0900727322/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 109-110 (in Chapter 7) of the Look-In softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -219,10 +219,10 @@ For discussion of directed panspermia see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p>Feinberg, Gerald and <a href="/ufo-history/ufo-personalities/shapiro-robert">Shapiro, Robert</a> in their “Life Beyond Earth” (<a href="/tags/1980">1980</a>) (available <a href="http://www.amazon.com/dp/0688036422/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0688036422/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 134-135 (in Chapter 5) of the Morrow hardback edition.</p>
+<p>Feinberg, Gerald and <a href="{{ '/ufo-history/ufo-personalities/shapiro-robert' | relative_url }}">Shapiro, Robert</a> in their “Life Beyond Earth” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) (available <a href="http://www.amazon.com/dp/0688036422/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0688036422/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 134-135 (in Chapter 5) of the Morrow hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -230,10 +230,10 @@ For discussion of directed panspermia see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fitzgerald-randall">Fitzgerald, Randall</a> in his “<a href="/ufo-history/ufo-books/fitzgerald-randall-the-cosmic-test-tube">The Cosmic Test Tube</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0963916122/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963916122/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 340 (in Section 5) of the Moonlake Media softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }}">Fitzgerald, Randall</a> in his “<a href="{{ '/ufo-history/ufo-books/fitzgerald-randall-the-cosmic-test-tube' | relative_url }}">The Cosmic Test Tube</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0963916122/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963916122/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 340 (in Section 5) of the Moonlake Media softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -241,10 +241,10 @@ For discussion of directed panspermia see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fowler-raymond-e">Fowler, Raymond E</a> in his “<a href="/ufo-history/ufo-books/fowler-raymond-e-the-watchers">The Watchers</a>“ (<a href="/tags/1990">1990</a>) (available <a href="http://www.amazon.com/dp/0553057820/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0553057820/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 228-229 (in Chapter 11) of the Bantam paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fowler-raymond-e' | relative_url }}">Fowler, Raymond E</a> in his “<a href="{{ '/ufo-history/ufo-books/fowler-raymond-e-the-watchers' | relative_url }}">The Watchers</a>“ (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) (available <a href="http://www.amazon.com/dp/0553057820/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0553057820/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 228-229 (in Chapter 11) of the Bantam paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -252,10 +252,10 @@ For discussion of directed panspermia see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/goldsmith-donald">Goldsmith, Donald</a> in his “The Hunt For Life On Mars” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0525943366/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0525943366/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 153-155 (in the unnumbered chapter entitled “The Origin of Life”) of the Dutton hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/goldsmith-donald' | relative_url }}">Goldsmith, Donald</a> in his “The Hunt For Life On Mars” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0525943366/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0525943366/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 153-155 (in the unnumbered chapter entitled “The Origin of Life”) of the Dutton hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -263,10 +263,10 @@ For discussion of directed panspermia see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p>Horn, Arthur D and Horn, Lynette M in their “<a href="/ufo-history/ufo-books/horn-arthur-d-and-horn-lynette-m-humanitys-extraterrestrial-origins">Humanity's Extraterrestrial Origins</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/3931652319/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/3931652319/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 14-15 (in Chapter 1) of the Silberschnur softcover edition.</p>
+<p>Horn, Arthur D and Horn, Lynette M in their “<a href="{{ '/ufo-history/ufo-books/horn-arthur-d-and-horn-lynette-m-humanitys-extraterrestrial-origins' | relative_url }}">Humanity's Extraterrestrial Origins</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/3931652319/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/3931652319/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 14-15 (in Chapter 1) of the Silberschnur softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -274,10 +274,10 @@ For discussion of directed panspermia see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Kurland, Michael in his “<a href="/ufo-history/ufo-books/kurland-michael-the-complete-idiots-guide-to-extraterrestrial-intelligence">The Complete Idiot's Guide to Extraterrestrial Intelligence</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0028623878/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0028623878/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 210 (in Chapter 20) of the Alpha Books softcover edition.</p>
+<p>Kurland, Michael in his “<a href="{{ '/ufo-history/ufo-books/kurland-michael-the-complete-idiots-guide-to-extraterrestrial-intelligence' | relative_url }}">The Complete Idiot's Guide to Extraterrestrial Intelligence</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0028623878/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0028623878/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 210 (in Chapter 20) of the Alpha Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -285,10 +285,10 @@ For discussion of directed panspermia see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p>Lamb, David in his “<a href="/ufo-history/ufo-books/lamb-david-the-search-of-extraterrestrial-intelligence-a-philosophical-inquiry">The Search for Extraterrestrial Intelligence : A Philosophical Inquiry</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/0415243424/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0415243424/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 83-87 (in Chapter 3) of the Routledge softcover edition.</p>
+<p>Lamb, David in his “<a href="{{ '/ufo-history/ufo-books/lamb-david-the-search-of-extraterrestrial-intelligence-a-philosophical-inquiry' | relative_url }}">The Search for Extraterrestrial Intelligence : A Philosophical Inquiry</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/0415243424/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0415243424/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 83-87 (in Chapter 3) of the Routledge softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>
@@ -296,10 +296,10 @@ For discussion of directed panspermia see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1974">1974</a></p>
+<p><a href="{{ '/tags/1974' | relative_url }}">1974</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/landsburg-alan">Landsburg, Alan</a> and Landsburg, Sally in their “<a href="/ufo-history/ufo-books/landsburg-alan-and-landsburg-sally-in-search-of-ancient-mysteries">In Search of Ancient Mysteries</a>” (<a href="/tags/1974">1974</a>) (available <a href="http://www.amazon.com/dp/0553083767/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0553083767/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 1-6 (in Chapter 1), 9-10, 15 (in Chapter 2) of the Corgi paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/landsburg-alan' | relative_url }}">Landsburg, Alan</a> and Landsburg, Sally in their “<a href="{{ '/ufo-history/ufo-books/landsburg-alan-and-landsburg-sally-in-search-of-ancient-mysteries' | relative_url }}">In Search of Ancient Mysteries</a>” (<a href="{{ '/tags/1974' | relative_url }}">1974</a>) (available <a href="http://www.amazon.com/dp/0553083767/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0553083767/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 1-6 (in Chapter 1), 9-10, 15 (in Chapter 2) of the Corgi paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>9</p>
@@ -307,10 +307,10 @@ For discussion of directed panspermia see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1960">1960</a></p>
+<p><a href="{{ '/tags/1960' | relative_url }}">1960</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/lederberg-joshua">Lederberg, Joshua</a> in “The Quest For Extraterrestrial Life : A Book of Readings” (<a href="/tags/1980">1980</a>) (edited by Donald Goldsmith) (available <a href="http://www.amazon.com/dp/0935702083/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0935702083/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 43 (in Chapter 11) of the University Science Books hardback edition. The relevant chapter is a reprint of “Exobiology: Approaches to Life beyond the Earth”, Science, 132 (<a href="/tags/1960">1960</a>), 393.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/lederberg-joshua' | relative_url }}">Lederberg, Joshua</a> in “The Quest For Extraterrestrial Life : A Book of Readings” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) (edited by Donald Goldsmith) (available <a href="http://www.amazon.com/dp/0935702083/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0935702083/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 43 (in Chapter 11) of the University Science Books hardback edition. The relevant chapter is a reprint of “Exobiology: Approaches to Life beyond the Earth”, Science, 132 (<a href="{{ '/tags/1960' | relative_url }}">1960</a>), 393.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -318,10 +318,10 @@ For discussion of directed panspermia see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1987">1987</a></p>
+<p><a href="{{ '/tags/1987' | relative_url }}">1987</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/mcdonough-thomas-r">McDonough, Thomas R</a> in his “The Search for Extraterrestrial Intelligence - Listening for Life in the Cosmos” (<a href="/tags/1987">1987</a>) (available <a href="http://www.amazon.com/dp/0471846848/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0471846848/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 67-69 (in Chapter 4) of the Wiley softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/mcdonough-thomas-r' | relative_url }}">McDonough, Thomas R</a> in his “The Search for Extraterrestrial Intelligence - Listening for Life in the Cosmos” (<a href="{{ '/tags/1987' | relative_url }}">1987</a>) (available <a href="http://www.amazon.com/dp/0471846848/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0471846848/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 67-69 (in Chapter 4) of the Wiley softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -329,10 +329,10 @@ For discussion of directed panspermia see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p>Missler, Chuck and Eastman, Mark in their “<a href="/ufo-history/ufo-books/missler-chuck-and-eastman-mark-alien-encounters">Alien Encounters: The Secret behind the UFO Phenomenon</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1578210615/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1578210615/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 129-131, 141 (in Chapter 6) of the Koinonia House softcover edition.</p>
+<p>Missler, Chuck and Eastman, Mark in their “<a href="{{ '/ufo-history/ufo-books/missler-chuck-and-eastman-mark-alien-encounters' | relative_url }}">Alien Encounters: The Secret behind the UFO Phenomenon</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1578210615/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1578210615/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 129-131, 141 (in Chapter 6) of the Koinonia House softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -340,10 +340,10 @@ For discussion of directed panspermia see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1987">1987</a></p>
+<p><a href="{{ '/tags/1987' | relative_url }}">1987</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/moore-patrick">Moore, Patrick</a> and Jackson, Francis in their “Life in the Universe” (<a href="/tags/1987">1987</a>) (available <a href="http://www.amazon.com/dp/0393026647/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0393026647/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 32-33 (in Chapter 2) of the Norton softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/moore-patrick' | relative_url }}">Moore, Patrick</a> and Jackson, Francis in their “Life in the Universe” (<a href="{{ '/tags/1987' | relative_url }}">1987</a>) (available <a href="http://www.amazon.com/dp/0393026647/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0393026647/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 32-33 (in Chapter 2) of the Norton softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -351,10 +351,10 @@ For discussion of directed panspermia see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p>Paker, Barry in his “Alien Life” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0306457954/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0306457954/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 30-31 (in Chapter 3) of the Plenum Trade hardback edition.</p>
+<p>Paker, Barry in his “Alien Life” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0306457954/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0306457954/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 30-31 (in Chapter 3) of the Plenum Trade hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -362,10 +362,10 @@ For discussion of directed panspermia see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p>Pickover, Clifford in his “<a href="/ufo-history/ufo-books/pickover-clifford-the-science-of-aliens">The Science of Aliens</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0465073158/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0465073158/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 97-98 (in Chapter 5) of the Basic Books hardback edition.</p>
+<p>Pickover, Clifford in his “<a href="{{ '/ufo-history/ufo-books/pickover-clifford-the-science-of-aliens' | relative_url }}">The Science of Aliens</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0465073158/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0465073158/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 97-98 (in Chapter 5) of the Basic Books hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -373,10 +373,10 @@ For discussion of directed panspermia see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1983">1983</a></p>
+<p><a href="{{ '/tags/1983' | relative_url }}">1983</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/ridpath-ian">Ridpath, Ian</a> in his “Life Off Earth” (<a href="/tags/1983">1983</a>) (available <a href="http://www.amazon.com/dp/0246119330/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0246119330/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 87 (in Chapter 7) of the Granada hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/ridpath-ian' | relative_url }}">Ridpath, Ian</a> in his “Life Off Earth” (<a href="{{ '/tags/1983' | relative_url }}">1983</a>) (available <a href="http://www.amazon.com/dp/0246119330/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0246119330/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 87 (in Chapter 7) of the Granada hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -384,10 +384,10 @@ For discussion of directed panspermia see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1975">1975</a></p>
+<p><a href="{{ '/tags/1975' | relative_url }}">1975</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/ridpath-ian">Ridpath, Ian</a> in his “<a href="/ufo-history/ufo-books/ridpath-ian-worlds-beyond">Worlds Beyond</a>” (<a href="/tags/1975">1975</a>) (available <a href="http://www.amazon.com/dp/0060135689/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0060135689/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 75-76 (in Chapter 4) of the Wildwood House softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/ridpath-ian' | relative_url }}">Ridpath, Ian</a> in his “<a href="{{ '/ufo-history/ufo-books/ridpath-ian-worlds-beyond' | relative_url }}">Worlds Beyond</a>” (<a href="{{ '/tags/1975' | relative_url }}">1975</a>) (available <a href="http://www.amazon.com/dp/0060135689/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0060135689/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 75-76 (in Chapter 4) of the Wildwood House softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -395,10 +395,10 @@ For discussion of directed panspermia see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/rux-bruce">Rux, Bruce</a> in his “<a href="/ufo-history/ufo-books/rux-bruce-architects-of-the-underworld">Architects of the Underworld</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/1883319463/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1883319463/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 302 (in Chapter 8) of the Frog softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/rux-bruce' | relative_url }}">Rux, Bruce</a> in his “<a href="{{ '/ufo-history/ufo-books/rux-bruce-architects-of-the-underworld' | relative_url }}">Architects of the Underworld</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/1883319463/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1883319463/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 302 (in Chapter 8) of the Frog softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -406,10 +406,10 @@ For discussion of directed panspermia see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1976">1976</a></p>
+<p><a href="{{ '/tags/1976' | relative_url }}">1976</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sitchin-zecharia">Sitchin, Zecharia</a> in his “The 12<sup>th</sup> Planet: Earth Chronicles Book I” (<a href="/tags/1976">1976</a>) at pages 255-256 (in Chapter 8) of the Avon paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sitchin-zecharia' | relative_url }}">Sitchin, Zecharia</a> in his “The 12<sup>th</sup> Planet: Earth Chronicles Book I” (<a href="{{ '/tags/1976' | relative_url }}">1976</a>) at pages 255-256 (in Chapter 8) of the Avon paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -417,10 +417,10 @@ For discussion of directed panspermia see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1974">1974</a></p>
+<p><a href="{{ '/tags/1974' | relative_url }}">1974</a></p>
 </td>
 <td valign="top" width="547">
-<p>Stoneley, Jack and Lawton, A T in their “Is Anyone Out There?” (<a href="/tags/1974">1974</a>) (available <a href="http://www.amazon.com/dp/0352300604/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0352300604/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 231-233 (in Chapter 14) of the Star Books paperback edition.</p>
+<p>Stoneley, Jack and Lawton, A T in their “Is Anyone Out There?” (<a href="{{ '/tags/1974' | relative_url }}">1974</a>) (available <a href="http://www.amazon.com/dp/0352300604/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0352300604/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 231-233 (in Chapter 14) of the Star Books paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -428,10 +428,10 @@ For discussion of directed panspermia see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2002">2002</a></p>
+<p><a href="{{ '/tags/2002' | relative_url }}">2002</a></p>
 </td>
 <td valign="top" width="547">
-<p>Webb, Stephen in his “<a href="/ufo-history/ufo-books/webb-stephen-where-is-everybody-fifty-solutions-to-the-fermi-paradox">Where is Everybody?: Fifty Solutions to the Fermi Paradox</a>” (<a href="/tags/2002">2002</a>) (available <a href="http://www.amazon.com/dp/0387955011/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0387955011/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 45-46 (in Chapter 3), 81 (in Chapter 4) of the Copernicus hardback edition.</p>
+<p>Webb, Stephen in his “<a href="{{ '/ufo-history/ufo-books/webb-stephen-where-is-everybody-fifty-solutions-to-the-fermi-paradox' | relative_url }}">Where is Everybody?: Fifty Solutions to the Fermi Paradox</a>” (<a href="{{ '/tags/2002' | relative_url }}">2002</a>) (available <a href="http://www.amazon.com/dp/0387955011/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0387955011/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 45-46 (in Chapter 3), 81 (in Chapter 4) of the Copernicus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -439,10 +439,10 @@ For discussion of directed panspermia see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p>Wilkinson, David in his “<a href="/ufo-history/ufo-books/wilkinson-david-alone-in-the-universe">Alone in the Universe?</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/083081938X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/083081938X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 45 (in Chapter 3) of the Monarch softcover edition.</p>
+<p>Wilkinson, David in his “<a href="{{ '/ufo-history/ufo-books/wilkinson-david-alone-in-the-universe' | relative_url }}">Alone in the Universe?</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/083081938X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/083081938X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 45 (in Chapter 3) of the Monarch softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -454,6 +454,6 @@ For discussion of directed panspermia see the following:
 <a id="other"></a>
 ### Other Material
 
-Crick, F H C, and Orgel, L E "Directed Panspermia," *Icarus*, Volume 19, page 341 ([1973](/tags/1973)).
+Crick, F H C, and Orgel, L E "Directed Panspermia," *Icarus*, Volume 19, page 341 ([1973]({{ '/tags/1973' | relative_url }})).
 
 Please use the comments section below to share references to any particularly interesting relevant articles.

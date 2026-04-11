@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -63,10 +63,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1969">1969</a></p>
+<p><a href="{{ '/tags/1969' | relative_url }}">1969</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/trench-brinsley-le-poer">Trench, Brinsley Le Poer</a> in his “Operation Earth” (<a href="/tags/1969">1969</a>) (available <a href="http://www.amazon.com/dp/0426134508/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0426134508/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 35 (in Chapter 5) of the Tandem paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/trench-brinsley-le-poer' | relative_url }}">Trench, Brinsley Le Poer</a> in his “Operation Earth” (<a href="{{ '/tags/1969' | relative_url }}">1969</a>) (available <a href="http://www.amazon.com/dp/0426134508/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0426134508/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 35 (in Chapter 5) of the Tandem paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -74,10 +74,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p>Wright, Susan in her “<a href="/ufo-history/ufo-books/wright-susan-ufo-headquarters">UFO Headquarters</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0312193475/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312193475/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 218 (in Chapter 11) of the St Martin’s Press softcover edition.</p>
+<p>Wright, Susan in her “<a href="{{ '/ufo-history/ufo-books/wright-susan-ufo-headquarters' | relative_url }}">UFO Headquarters</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0312193475/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312193475/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 218 (in Chapter 11) of the St Martin’s Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -85,10 +85,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1989">1989</a></p>
+<p><a href="{{ '/tags/1989' | relative_url }}">1989</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/devereux-paul">Devereux, Paul</a> in his “<a href="/ufo-history/ufo-books/devereux-paul-earth-lights-revelation">Earth Lights Revelation</a>” (<a href="/tags/1989">1989</a>) (available <a href="http://www.amazon.com/dp/0713722096/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713722096/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 41-42 (in Chapter 2) of the Blandford softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/devereux-paul' | relative_url }}">Devereux, Paul</a> in his “<a href="{{ '/ufo-history/ufo-books/devereux-paul-earth-lights-revelation' | relative_url }}">Earth Lights Revelation</a>” (<a href="{{ '/tags/1989' | relative_url }}">1989</a>) (available <a href="http://www.amazon.com/dp/0713722096/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713722096/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 41-42 (in Chapter 2) of the Blandford softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

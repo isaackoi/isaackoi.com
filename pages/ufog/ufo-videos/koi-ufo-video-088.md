@@ -40,11 +40,11 @@ Koi UFO Video 088 appears to show a flying saucer hovering above the sea near a 
 
 Screen shots from the video are included below for ease of identification:
 
-![](/images/stories/ufo_videos/video088_1.JPG)
+![]({{ '/images/stories/ufo_videos/video088_1.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video088_2.JPG)
+![]({{ '/images/stories/ufo_videos/video088_2.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video088_3.JPG)
+![]({{ '/images/stories/ufo_videos/video088_3.JPG' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this video
@@ -58,15 +58,15 @@ This video was produced in 2004 by Chris Oakley (a video artist and filmmaker) a
 
 His website describes this video as "referencing both contemporary media practices and Magritte’s famous painting "The Treachery Of Images" and states that it "presents a fantastic image framed plausibly". Chris comments that "as the treatment of fictional and factual content converges in the mainstream media, our responses to media representations become ambivalent".
 
-![](/images/stories/ufo_videos/video088_4.JPG)
+![]({{ '/images/stories/ufo_videos/video088_4.JPG' | relative_url }})
 
 The website incidentally includes a higher resolution copy of the relevant video than the ones which litter Youtube and other websites. A screen shot from that higher resolution footage is included below.
 
-![](/images/stories/ufo_videos/video088_5.JPG)
+![]({{ '/images/stories/ufo_videos/video088_5.JPG' | relative_url }})
 
 Magritte’s famous painting "The Treachery Of Images", cited by Chris Oakley, is reproduced below for anyone needing a reminder:
 
-![](/images/stories/ufo_videos/video088_7.jpg)
+![]({{ '/images/stories/ufo_videos/video088_7.jpg' | relative_url }})
 
 When the fact that the video was the work of Chris Oakley was pointed out by "Internos" in one discussion on of the AboveTopSecret.com discussion forum, another member responded that this suggestion was "just plain silly" because Chris Oakley "has nothing else even remotely like this on his site" - commenting that this was "one of the best UFO videos I have ever seen".
 
@@ -74,7 +74,7 @@ However, this video is in fact in keeping with the central underlying theme of C
 
 Chris Oakley is pictured below.
 
-![](/images/stories/ufo_videos/video088_6.JPG)
+![]({{ '/images/stories/ufo_videos/video088_6.JPG' | relative_url }})
 
 As part of the process of uploading my notes on this video during March 2015, I sent Chris Oakley a link to this page and invited him to provide comments he would like to see added here. He kindly replied that he thought this page was "a very honest, well researched representation of the situation". He also gave some further information and comments, including the following:
 
@@ -93,4 +93,4 @@ Relevant discussions on the AboveTopSecret.com forum include the following:
 
 2008 (April) discussion entitled "[UFO filmed at beach in South Africa 2003](http://www.abovetopsecret.com/forum/thread347245/pg1)"
 
-![](/images/stories/ufo_videos/video088_2d.jpg)
+![]({{ '/images/stories/ufo_videos/video088_2d.jpg' | relative_url }})

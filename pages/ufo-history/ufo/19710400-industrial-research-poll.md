@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/poll_1.jpg"}
 ---
 
-![poll_1](/images/stories/ufo_tags/poll_1.jpg)
+![poll_1]({{ '/images/stories/ufo_tags/poll_1.jpg' | relative_url }})
 
 *Industrial Research poll*
 
@@ -67,10 +67,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2008">2008</a></p>
+<p><a href="{{ '/tags/2008' | relative_url }}">2008</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/friedman-stanton">Friedman, Stanton</a> in his “<a href="/ufo-history/ufo-books/friedman-stanton-flying-saucers-and-science-a-scientist-investigates-the-mysteries-of-ufos">Flying Saucers and Science : A Scientist Investigates the Mysteries of UFOs</a>” (<a href="/tags/2008">2008</a>) (available <a href="http://www.amazon.com/dp/1601630115/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1601630115/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 208-210 (in Chapter 8) of the New Page softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/friedman-stanton' | relative_url }}">Friedman, Stanton</a> in his “<a href="{{ '/ufo-history/ufo-books/friedman-stanton-flying-saucers-and-science-a-scientist-investigates-the-mysteries-of-ufos' | relative_url }}">Flying Saucers and Science : A Scientist Investigates the Mysteries of UFOs</a>” (<a href="{{ '/tags/2008' | relative_url }}">2008</a>) (available <a href="http://www.amazon.com/dp/1601630115/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1601630115/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 208-210 (in Chapter 8) of the New Page softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -78,10 +78,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/hansen-terry">Hansen, Terry</a> in his “<a href="/ufo-history/ufo-books/hansen-terry-the-missing-times-news-media-complicity-in-the-ufo-cover-up">The Missing Times : News Media Complicity in the UFO Cover-Up</a> : News Media Complicity in the UFO Cover -Up” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/0738836125/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0738836125/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 43-44 (in Chapter 1) of the Xlibris softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hansen-terry' | relative_url }}">Hansen, Terry</a> in his “<a href="{{ '/ufo-history/ufo-books/hansen-terry-the-missing-times-news-media-complicity-in-the-ufo-cover-up' | relative_url }}">The Missing Times : News Media Complicity in the UFO Cover-Up</a> : News Media Complicity in the UFO Cover -Up” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/0738836125/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0738836125/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 43-44 (in Chapter 1) of the Xlibris softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -89,10 +89,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/story-ronald">Story, Ronald</a> in “<a href="/ufo-history/ufo-books/story-ronald-editor-and-green-j-richard-consulting-editor-the-encyclopedia-of-ufos">The Encyclopedia of UFOs</a>” (<a href="/tags/1980">1980</a>) edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a> (available <a href="http://www.amazon.com/dp/0385136773/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0385136773/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 182-183 (in an entry entitled “Industrial Research poll”) of the NEL hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Story, Ronald</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-editor-and-green-j-richard-consulting-editor-the-encyclopedia-of-ufos' | relative_url }}">The Encyclopedia of UFOs</a>” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a> (available <a href="http://www.amazon.com/dp/0385136773/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0385136773/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 182-183 (in an entry entitled “Industrial Research poll”) of the NEL hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

@@ -14,7 +14,7 @@ header: {"preview_image": "https://covers.openlibrary.org/b/isbn/0394450035-L.jp
 book: {"identifiers": ["B000HC1NYI", "0394450035", "B000EZY1RO", "0929398947"], "primary_isbn": "0394450035", "cover_image": "https://covers.openlibrary.org/b/isbn/0394450035-L.jpg?default=false", "cover_source": "openlibrary"}
 ---
 
-Brief review to be added of “[Flying Saucers: A Look Special](/ufo-history/ufo-books/upi-flying-saucers-a-look-special)” ([1967](/tags/1967)) (available [on Amazon USA](http://www.amazon.com/dp/B000HC1NYI/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B000HC1NYI/?&tag=ufot-21)), a report/magazine published by the editors of United Press International and Cowles Communications Inc.
+Brief review to be added of “[Flying Saucers: A Look Special]({{ '/ufo-history/ufo-books/upi-flying-saucers-a-look-special' | relative_url }})” ([1967]({{ '/tags/1967' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/B000HC1NYI/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B000HC1NYI/?&tag=ufot-21)), a report/magazine published by the editors of United Press International and Cowles Communications Inc.
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1968">1968</a></p>
+<p><a href="{{ '/tags/1968' | relative_url }}">1968</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/klass-philip-j">Klass, Philip J</a> in his “<a href="/ufo-history/ufo-books/klass-philip-j-ufos-identified">UFOs – Identified</a>” (<a href="/tags/1968">1968</a>) (available <a href="http://www.amazon.com/dp/0394450035/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0394450035/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 135 (in Chapter 14) of the Random House hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/klass-philip-j' | relative_url }}">Klass, Philip J</a> in his “<a href="{{ '/ufo-history/ufo-books/klass-philip-j-ufos-identified' | relative_url }}">UFOs – Identified</a>” (<a href="{{ '/tags/1968' | relative_url }}">1968</a>) (available <a href="http://www.amazon.com/dp/0394450035/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0394450035/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 135 (in Chapter 14) of the Random House hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -65,10 +65,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1969">1969</a></p>
+<p><a href="{{ '/tags/1969' | relative_url }}">1969</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects">Condon Report</a> (“<a href="/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects">Scientific Study of Unidentified Flying Objects</a>”, Edward U Condon (Director) and Daniel S Gillmor (Editor) (<a href="/tags/1969">1969</a>)) (available <a href="http://www.amazon.com/dp/B000EZY1RO/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000EZY1RO/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 49 (in Section 2 “Summary of the Study”, by Edward U Condon) of the uncorrected version submitted to the Air Force (with the same page numbering in the 3 volume paperbound edition distributed by the National Technical Information Service, US Department of Commerce) at page 35 of the Vision hardback edition (with the same page numbering in the Bantam paperback edition). The first of these editions has the same page numbering as the edition available free online at the following links:</p>
+<p><a href="{{ '/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects' | relative_url }}">Condon Report</a> (“<a href="{{ '/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects' | relative_url }}">Scientific Study of Unidentified Flying Objects</a>”, Edward U Condon (Director) and Daniel S Gillmor (Editor) (<a href="{{ '/tags/1969' | relative_url }}">1969</a>)) (available <a href="http://www.amazon.com/dp/B000EZY1RO/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000EZY1RO/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 49 (in Section 2 “Summary of the Study”, by Edward U Condon) of the uncorrected version submitted to the Air Force (with the same page numbering in the 3 volume paperbound edition distributed by the National Technical Information Service, US Department of Commerce) at page 35 of the Vision hardback edition (with the same page numbering in the Bantam paperback edition). The first of these editions has the same page numbering as the edition available free online at the following links:</p>
 <p>h<a href="http://www.project1947.com/shg/condon/contents.html">ttp://www.project1947.com/shg/condon/contents.html</a></p>
 </td>
 <td valign="top" width="52">
@@ -77,10 +77,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/craig-roy">Craig, Roy</a> in his “<a href="/ufo-history/ufo-books/craig-roy-ufos-an-insiders-view">UFOs – An Insider’s View</a>” (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/0929398947/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0929398947/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 240-241 (in Chapter 15) of the UNT softback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/craig-roy' | relative_url }}">Craig, Roy</a> in his “<a href="{{ '/ufo-history/ufo-books/craig-roy-ufos-an-insiders-view' | relative_url }}">UFOs – An Insider’s View</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/0929398947/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0929398947/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 240-241 (in Chapter 15) of the UNT softback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

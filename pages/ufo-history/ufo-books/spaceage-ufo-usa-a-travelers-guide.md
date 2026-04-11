@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0786883960.jpg"}
 book: {"identifiers": ["0786883960"], "primary_isbn": "0786883960", "cover_image": "/book-covers/0786883960.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of Spaceage's book “[UFO USA - A Traveler's Guide](/ufo-history/ufo-books/spaceage-ufo-usa-a-travelers-guide)” ([1999](/tags/1999)) (available [on Amazon USA](http://www.amazon.com/dp/0786883960/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0786883960/?&tag=ufot-21))
+Brief review to be added of Spaceage's book “[UFO USA - A Traveler's Guide]({{ '/ufo-history/ufo-books/spaceage-ufo-usa-a-travelers-guide' | relative_url }})” ([1999]({{ '/tags/1999' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0786883960/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0786883960/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

@@ -26,8 +26,8 @@ endnotes_mode: "auto"
 endnotes_collapse_threshold: 10
 endnotes_initial_visible: 10
 endnotes_show_accessed: false
-baseurl: ""
-url: "https://isaackoi.com"
+baseurl: "/isaackoi.com"
+url: "https://isaackoi.github.io"
 ui_priority: "home-first"
 home_layout_mode: "catalog"
 auto_home_layout_mode: "catalog"

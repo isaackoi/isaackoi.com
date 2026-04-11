@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/1556431252.jpg"}
 book: {"identifiers": ["1556431252"], "primary_isbn": "1556431252", "cover_image": "/book-covers/1556431252.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Jacques Vallee](/ufo-history/ufo-personalities/vallee-jacques)'s book “[Forbidden Science: Journals 1957-1969](/ufo-history/ufo-books/vallee-jacques-forbidden-science-journals-1957-1969)” ([1992](/tags/1992)) (available [on Amazon USA](http://www.amazon.com/dp/1556431252/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1556431252/?&tag=ufot-21))
+Brief review to be added of [Jacques Vallee]({{ '/ufo-history/ufo-personalities/vallee-jacques' | relative_url }})'s book “[Forbidden Science: Journals 1957-1969]({{ '/ufo-history/ufo-books/vallee-jacques-forbidden-science-journals-1957-1969' | relative_url }})” ([1992]({{ '/tags/1992' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1556431252/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1556431252/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

@@ -40,13 +40,13 @@ This video appears to show a floodlit baseball game, during which a UFO with sev
 
 Screen shots from this video are included below for ease of identification.
 
-![](/images/stories/ufo_videos/video099_1.JPG)
+![]({{ '/images/stories/ufo_videos/video099_1.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video099_2.JPG)
+![]({{ '/images/stories/ufo_videos/video099_2.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video099_3.JPG)
+![]({{ '/images/stories/ufo_videos/video099_3.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video099_4.JPG)
+![]({{ '/images/stories/ufo_videos/video099_4.JPG' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this video
@@ -60,9 +60,9 @@ In fact, this video showed a drone in the shape of the H R MacMillan Space Centr
 
 The relevant [press release](http://www.spacecentre.ca/images/spacecentre-drone-creates-buzz-091013.pdf) issued by H R MacMillan Space Centre is embedded below for ease of reference:
 
-![](/images/stories/ufo_videos/video099_5.JPG)
+![]({{ '/images/stories/ufo_videos/video099_5.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video099_6.JPG)
+![]({{ '/images/stories/ufo_videos/video099_6.JPG' | relative_url }})
 
 The advertising agency mentioned in the Space Centre's press release, i.e. MacLaren McCann, has [a website which gives details of the hoax](http://www.maclaren.com/work/the-hoax). Its website states that "The Planetarium looks like your classic UFO so we engineered a custom, remote-controlled drone modelled after it". It states this drone was "then used to perpetrate a world-class hoax as it made several well-timed appearances across Vancouver’s night sky".
 
@@ -70,25 +70,25 @@ The advertising agency was clearly pleased with the results of its work. It stat
 
 The advertising agency concluded "most importantly, the Planetarium enjoyed a 50% increase in attendance YOY [Year On Year]".
 
-![](/images/stories/ufo_videos/video099_7.JPG)
+![]({{ '/images/stories/ufo_videos/video099_7.JPG' | relative_url }})
 
 The advertising agency's website includes a video giving a taste of the television news coverage and the image of the drone in flight. That video states that "for only $13,000 in hard costs" they created "$3 million in earned media".
 
-![](/images/stories/ufo_videos/video099_8.JPG)
+![]({{ '/images/stories/ufo_videos/video099_8.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video099_9.JPG)
+![]({{ '/images/stories/ufo_videos/video099_9.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video099_10.JPG)
+![]({{ '/images/stories/ufo_videos/video099_10.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video099_11.JPG)
+![]({{ '/images/stories/ufo_videos/video099_11.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video099_12.JPG)
+![]({{ '/images/stories/ufo_videos/video099_12.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video099_13.JPG)
+![]({{ '/images/stories/ufo_videos/video099_13.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video099_14.JPG)
+![]({{ '/images/stories/ufo_videos/video099_14.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video099_15.JPG)
+![]({{ '/images/stories/ufo_videos/video099_15.JPG' | relative_url }})
 
 <a id="forums"></a>
 ### 4. Relevant online discussions
@@ -99,4 +99,4 @@ Relevant discussions on the AboveTopSecret.com forum include the following:
 
 2013 (September) discussion entitled "[Mass Sighting of UFO During Minor League Game](http://www.abovetopsecret.com/forum/thread969804/pg1)"
 
-![](/images/stories/ufo_videos/video099_2d.jpg)
+![]({{ '/images/stories/ufo_videos/video099_2d.jpg' | relative_url }})

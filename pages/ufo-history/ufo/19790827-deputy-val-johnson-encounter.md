@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -63,10 +63,10 @@ For discussion of Deputy Sheriff Val Johnson’s Marshall County encounter see t
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p>Blundell, Nigel and Boar, Roger in “<a href="/ufo-history/ufo-books/cawthorne-nigel-the-worlds-greatest-alien-abduction-mysteries">The World’s Greatest Alien Abduction Mysteries</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/0753704250/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0753704250/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 373-374 (in the chapter entitled “Encounters of the Arresting Kind”) of the Chancellor Press softcover edition.</p>
+<p>Blundell, Nigel and Boar, Roger in “<a href="{{ '/ufo-history/ufo-books/cawthorne-nigel-the-worlds-greatest-alien-abduction-mysteries' | relative_url }}">The World’s Greatest Alien Abduction Mysteries</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/0753704250/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0753704250/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 373-374 (in the chapter entitled “Encounters of the Arresting Kind”) of the Chancellor Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -74,10 +74,10 @@ For discussion of Deputy Sheriff Val Johnson’s Marshall County encounter see t
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1986">1986</a></p>
+<p><a href="{{ '/tags/1986' | relative_url }}">1986</a></p>
 </td>
 <td valign="top" width="547">
-<p>Blundell, Nigel and Boar, Roger in their “<a href="/ufo-history/ufo-books/blundell-nigel-and-boar-roger-the-worlds-greatest-ufo-mysteries">The World’s Greatest UFO Mysteries</a>” (<a href="/tags/1986">1986</a>) (available <a href="http://www.amazon.com/dp/0600572293/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0600572293/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 123 (in the chapter entitled “Encounters of the Arresting Kind”) of the Octopus hardback edition (with the same page numbering in the Hamlyn softcover edition).</p>
+<p>Blundell, Nigel and Boar, Roger in their “<a href="{{ '/ufo-history/ufo-books/blundell-nigel-and-boar-roger-the-worlds-greatest-ufo-mysteries' | relative_url }}">The World’s Greatest UFO Mysteries</a>” (<a href="{{ '/tags/1986' | relative_url }}">1986</a>) (available <a href="http://www.amazon.com/dp/0600572293/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0600572293/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 123 (in the chapter entitled “Encounters of the Arresting Kind”) of the Octopus hardback edition (with the same page numbering in the Hamlyn softcover edition).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -85,10 +85,10 @@ For discussion of Deputy Sheriff Val Johnson’s Marshall County encounter see t
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/budden-albert">Budden, Albert</a> in his “<a href="/ufo-history/ufo-books/budden-albert-electric-ufos">Electric UFOs: Fireballs, Electromagnetics and Abnormal States</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0713726857/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713726857/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 182 (in Chapter 5) of the Blandford hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/budden-albert' | relative_url }}">Budden, Albert</a> in his “<a href="{{ '/ufo-history/ufo-books/budden-albert-electric-ufos' | relative_url }}">Electric UFOs: Fireballs, Electromagnetics and Abnormal States</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0713726857/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713726857/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 182 (in Chapter 5) of the Blandford hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -96,10 +96,10 @@ For discussion of Deputy Sheriff Val Johnson’s Marshall County encounter see t
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/budden-albert">Budden, Albert</a> in his “<a href="/ufo-history/ufo-books/budden-albert-ufos-psychic-close-encounters">UFOs : Psychic Close Encounters</a> : The Electromagnetic Indictment” (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/0713724218/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713724218/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 89-90 (in Chapter 3) of the Blandford softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/budden-albert' | relative_url }}">Budden, Albert</a> in his “<a href="{{ '/ufo-history/ufo-books/budden-albert-ufos-psychic-close-encounters' | relative_url }}">UFOs : Psychic Close Encounters</a> : The Electromagnetic Indictment” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/0713724218/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713724218/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 89-90 (in Chapter 3) of the Blandford softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -107,10 +107,10 @@ For discussion of Deputy Sheriff Val Johnson’s Marshall County encounter see t
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="547">
-<p>Canadeo, Anne in her “<a href="/ufo-history/ufo-books/canadeo-anne-ufos-the-fact-or-fiction-file">UFO’s: The Fact or Fiction File</a>” (<a href="/tags/1990">1990</a>) (available <a href="http://www.amazon.com/dp/0802769276/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0802769276/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 26-27 (in Chapter 3 of the pro-UFO side of the book, i.e. the side which starts with the Chapter 1 entitled “Visitors at Cisco Grove”) of the Walker hardback edition.</p>
+<p>Canadeo, Anne in her “<a href="{{ '/ufo-history/ufo-books/canadeo-anne-ufos-the-fact-or-fiction-file' | relative_url }}">UFO’s: The Fact or Fiction File</a>” (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) (available <a href="http://www.amazon.com/dp/0802769276/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0802769276/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 26-27 (in Chapter 3 of the pro-UFO side of the book, i.e. the side which starts with the Chapter 1 entitled “Visitors at Cisco Grove”) of the Walker hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -118,10 +118,10 @@ For discussion of Deputy Sheriff Val Johnson’s Marshall County encounter see t
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p>Cassirer, Manfred in his “<a href="/ufo-history/ufo-books/cassirer-manfred-dimensions-of-enchantment">Dimensions of Enchantment</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/0947533893/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0947533893/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 122 (in Chapter 9) of the Breese Books softcover edition.</p>
+<p>Cassirer, Manfred in his “<a href="{{ '/ufo-history/ufo-books/cassirer-manfred-dimensions-of-enchantment' | relative_url }}">Dimensions of Enchantment</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/0947533893/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0947533893/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 122 (in Chapter 9) of the Breese Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -129,10 +129,10 @@ For discussion of Deputy Sheriff Val Johnson’s Marshall County encounter see t
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-the-ufo-book">The UFO Book</a>: Encyclopedia of the Extraterrestrial” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/1578590299/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1578590299/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 356-363 (in an entry entitled “Marshall County CE2”) of the Visible Ink Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-the-ufo-book' | relative_url }}">The UFO Book</a>: Encyclopedia of the Extraterrestrial” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/1578590299/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1578590299/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 356-363 (in an entry entitled “Marshall County CE2”) of the Visible Ink Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>8</p>
@@ -140,10 +140,10 @@ For discussion of Deputy Sheriff Val Johnson’s Marshall County encounter see t
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq">The UFO Encyclopedia: 1st edition</a>: Volume 3 – High Strangeness” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/1558887423/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558887423/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 302-307 (in an entry entitled “Marshall County CE2”) of the Omnigraphics hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq' | relative_url }}">The UFO Encyclopedia: 1st edition</a>: Volume 3 – High Strangeness” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/1558887423/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558887423/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 302-307 (in an entry entitled “Marshall County CE2”) of the Omnigraphics hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>6</p>
@@ -151,10 +151,10 @@ For discussion of Deputy Sheriff Val Johnson’s Marshall County encounter see t
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) in Volume 2:L-Z at pages 608-612 (in an entry entitled “Marshall County CE2”) of the Omnigraphics hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition' | relative_url }}">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) in Volume 2:L-Z at pages 608-612 (in an entry entitled “Marshall County CE2”) of the Omnigraphics hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>
@@ -162,10 +162,10 @@ For discussion of Deputy Sheriff Val Johnson’s Marshall County encounter see t
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encounters">UFO Encounters</a>” (<a href="/tags/1992">1992</a>) (available <a href="http://www.amazon.com/dp/1561736058/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1561736058/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 68 (in the unnumbered chapter entitled “The Dimensions of a Phenomenon”) of the Publications International hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encounters' | relative_url }}">UFO Encounters</a>” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="http://www.amazon.com/dp/1561736058/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1561736058/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 68 (in the unnumbered chapter entitled “The Dimensions of a Phenomenon”) of the Publications International hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -173,10 +173,10 @@ For discussion of Deputy Sheriff Val Johnson’s Marshall County encounter see t
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p>Cousineau, Phil in his “<a href="/ufo-history/ufo-books/cousineau-phil-ufos-a-manual-for-the-millenium">UFOs: A Manual for the Millenium</a>” (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/0062586386/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0062586386/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 105 (in Chapter 4) of the Harper Collins paperback edition.</p>
+<p>Cousineau, Phil in his “<a href="{{ '/ufo-history/ufo-books/cousineau-phil-ufos-a-manual-for-the-millenium' | relative_url }}">UFOs: A Manual for the Millenium</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/0062586386/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0062586386/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 105 (in Chapter 4) of the Harper Collins paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -184,10 +184,10 @@ For discussion of Deputy Sheriff Val Johnson’s Marshall County encounter see t
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/hamilton-william-f">Hamilton, William F</a> in his “Alien Magic: UFO Crashes, Abductions, Underground Bases” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/B00072TSG8/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B00072TSG8/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 36 (in Chapter 3) of the Global Communications softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hamilton-william-f' | relative_url }}">Hamilton, William F</a> in his “Alien Magic: UFO Crashes, Abductions, Underground Bases” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/B00072TSG8/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B00072TSG8/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 36 (in Chapter 3) of the Global Communications softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -195,10 +195,10 @@ For discussion of Deputy Sheriff Val Johnson’s Marshall County encounter see t
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1983">1983</a></p>
+<p><a href="{{ '/tags/1983' | relative_url }}">1983</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/klass-philip-j">Klass, Philip J</a> in “<a href="/ufo-history/ufo-books/klass-philip-j-ufos-the-public-deceived">UFOs – The Public Deceived</a>” (<a href="/tags/1983">1983</a>) (available <a href="http://www.amazon.com/dp/0879753226/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879753226/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 223-227 (Chapter 24 generally) of the Prometheus softback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/klass-philip-j' | relative_url }}">Klass, Philip J</a> in “<a href="{{ '/ufo-history/ufo-books/klass-philip-j-ufos-the-public-deceived' | relative_url }}">UFOs – The Public Deceived</a>” (<a href="{{ '/tags/1983' | relative_url }}">1983</a>) (available <a href="http://www.amazon.com/dp/0879753226/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879753226/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 223-227 (Chapter 24 generally) of the Prometheus softback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>
@@ -206,10 +206,10 @@ For discussion of Deputy Sheriff Val Johnson’s Marshall County encounter see t
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1985">1985</a></p>
+<p><a href="{{ '/tags/1985' | relative_url }}">1985</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> and <a href="/ufo-history/ufo-personalities/warrington-peter">Warrington, Peter</a> in their “<a href="/ufo-history/ufo-books/randles-jenny-and-warrington-peter-science-and-the-ufos">Science and the UFOs</a> " (<a href="/tags/1985">1985</a>) (available <a href="http://www.amazon.com/dp/0631135634/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0631135634/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 93-98 (in Chapter 8) of the Blackwell hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> and <a href="{{ '/ufo-history/ufo-personalities/warrington-peter' | relative_url }}">Warrington, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-warrington-peter-science-and-the-ufos' | relative_url }}">Science and the UFOs</a> " (<a href="{{ '/tags/1985' | relative_url }}">1985</a>) (available <a href="http://www.amazon.com/dp/0631135634/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0631135634/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 93-98 (in Chapter 8) of the Blackwell hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>6</p>
@@ -217,10 +217,10 @@ For discussion of Deputy Sheriff Val Johnson’s Marshall County encounter see t
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1988">1988</a></p>
+<p><a href="{{ '/tags/1988' | relative_url }}">1988</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-abduction">Abduction</a>“ (<a href="/tags/1988">1988</a>) (available <a href="http://www.amazon.com/dp/0709032765/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0709032765/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 95-99 (in Chapter 6) of the Hale hardback edition (with the same page numbering in the Headline paperback edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-abduction' | relative_url }}">Abduction</a>“ (<a href="{{ '/tags/1988' | relative_url }}">1988</a>) (available <a href="http://www.amazon.com/dp/0709032765/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0709032765/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 95-99 (in Chapter 6) of the Hale hardback edition (with the same page numbering in the Headline paperback edition).</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>
@@ -228,10 +228,10 @@ For discussion of Deputy Sheriff Val Johnson’s Marshall County encounter see t
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Spaceage in its “<a href="/ufo-history/ufo-books/spaceage-ufo-usa-a-travelers-guide">UFO USA - A Traveler's Guide</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0786883960/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0786883960/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 97 (in the chapter entitled “Minnesota”) of the Hyperion softcover edition.</p>
+<p>Spaceage in its “<a href="{{ '/ufo-history/ufo-books/spaceage-ufo-usa-a-travelers-guide' | relative_url }}">UFO USA - A Traveler's Guide</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0786883960/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0786883960/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 97 (in the chapter entitled “Minnesota”) of the Hyperion softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -239,10 +239,10 @@ For discussion of Deputy Sheriff Val Johnson’s Marshall County encounter see t
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/spencer-john">Spencer, John</a> in his “<a href="/ufo-history/ufo-books/spencer-john-the-ufo-encyclopedia">The UFO Encyclopedia</a>” (<a href="/tags/1991">1991</a>) (available <a href="http://www.amazon.com/dp/0380768879/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380768879/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 167-168 (in an entry entitled “Johnson, Deputy Val”) of the Guild hardback edition (with the same page numbering in the Avon softcover edition) at pages 192-193 of the Headline paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">Spencer, John</a> in his “<a href="{{ '/ufo-history/ufo-books/spencer-john-the-ufo-encyclopedia' | relative_url }}">The UFO Encyclopedia</a>” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/0380768879/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380768879/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 167-168 (in an entry entitled “Johnson, Deputy Val”) of the Guild hardback edition (with the same page numbering in the Avon softcover edition) at pages 192-193 of the Headline paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -250,10 +250,10 @@ For discussion of Deputy Sheriff Val Johnson’s Marshall County encounter see t
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p>Van Dyk, Gregory in his “<a href="/ufo-history/ufo-books/van-dyk-gregory-the-alien-files">The Alien Files</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1862041350/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1862041350/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 50-55 (in Chapter 3) of the Element paperback edition.</p>
+<p>Van Dyk, Gregory in his “<a href="{{ '/ufo-history/ufo-books/van-dyk-gregory-the-alien-files' | relative_url }}">The Alien Files</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1862041350/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1862041350/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 50-55 (in Chapter 3) of the Element paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>6</p>

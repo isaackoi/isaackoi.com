@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0060141417.jpg"}
 book: {"identifiers": ["0060141417", "0874514223", "0890092486", "0451204247", "1841196134", "0963916122", "075241450X", "0449135691", "0440236134", "0760704406", "1575000237", "0312352166"], "primary_isbn": "0060141417", "cover_image": "/book-covers/0060141417.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Ronald Story](/ufo-history/ufo-personalities/story-ronald)'s book “[The Space Gods Revealed](/ufo-history/ufo-books/story-ronald-the-space-gods-revealed)” ([1976](/tags/1976)) (available [on Amazon USA](http://www.amazon.com/dp/0060141417/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0060141417/?&tag=ufot-21))
+Brief review to be added of [Ronald Story]({{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }})'s book “[The Space Gods Revealed]({{ '/ufo-history/ufo-books/story-ronald-the-space-gods-revealed' | relative_url }})” ([1976]({{ '/tags/1976' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0060141417/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0060141417/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1987">1987</a></p>
+<p><a href="{{ '/tags/1987' | relative_url }}">1987</a></p>
 </td>
 <td valign="top" width="547">
-<p>Baird, John C in his “<a href="/ufo-history/ufo-books/baird-john-c-the-inner-limits-of-outer-space">The Inner Limits of Outer Space</a>” (<a href="/tags/1987">1987</a>) (available <a href="http://www.amazon.com/dp/0874514223/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0874514223/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 22 (in Chapter 2) of the Dartmouth hardback edition.</p>
+<p>Baird, John C in his “<a href="{{ '/ufo-history/ufo-books/baird-john-c-the-inner-limits-of-outer-space' | relative_url }}">The Inner Limits of Outer Space</a>” (<a href="{{ '/tags/1987' | relative_url }}">1987</a>) (available <a href="http://www.amazon.com/dp/0874514223/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0874514223/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 22 (in Chapter 2) of the Dartmouth hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -65,10 +65,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1979">1979</a></p>
+<p><a href="{{ '/tags/1979' | relative_url }}">1979</a></p>
 </td>
 <td valign="top" width="547">
-<p>Boyce, Chris in his <a href="/ufo-history/ufo-books/boyce-chris-extraterrestrial-encounter">Extraterrestrial Encounter</a> (<a href="/tags/1979">1979</a>) (available <a href="http://www.amazon.com/dp/0890092486/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0890092486/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 84 (in Chapter 6) of the David &amp; Charles hardback edition, at page 75 of the <a href="/tags/1980">1980</a> revised NEL paperback edition.</p>
+<p>Boyce, Chris in his <a href="{{ '/ufo-history/ufo-books/boyce-chris-extraterrestrial-encounter' | relative_url }}">Extraterrestrial Encounter</a> (<a href="{{ '/tags/1979' | relative_url }}">1979</a>) (available <a href="http://www.amazon.com/dp/0890092486/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0890092486/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 84 (in Chapter 6) of the David &amp; Charles hardback edition, at page 75 of the <a href="{{ '/tags/1980' | relative_url }}">1980</a> revised NEL paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -76,10 +76,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fitzgerald-randall">Fitzgerald, Randall</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 559 (in an entry entitled “Space Gods Revealed, The”) of the New American Library softcover edition, at page 547 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }}">Fitzgerald, Randall</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 559 (in an entry entitled “Space Gods Revealed, The”) of the New American Library softcover edition, at page 547 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -87,10 +87,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fitzgerald-randall">Fitzgerald, Randall</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 670 (in an entry entitled “Space Gods Revealed, The”) of the Robinson softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }}">Fitzgerald, Randall</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 670 (in an entry entitled “Space Gods Revealed, The”) of the Robinson softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -98,10 +98,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fitzgerald-randall">Fitzgerald, Randall</a> in his “<a href="/ufo-history/ufo-books/fitzgerald-randall-the-cosmic-test-tube">The Cosmic Test Tube</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0963916122/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963916122/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 309-311 (in Section 4) with a one sentence summary at page 377 (in the Guide To Books) of the Moonlake Media softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }}">Fitzgerald, Randall</a> in his “<a href="{{ '/ufo-history/ufo-books/fitzgerald-randall-the-cosmic-test-tube' | relative_url }}">The Cosmic Test Tube</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0963916122/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963916122/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 309-311 (in Section 4) with a one sentence summary at page 377 (in the Guide To Books) of the Moonlake Media softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -109,10 +109,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/harbinson-w-a">Harbinson, W A</a> in his “Projekt Saucer” (<a href="/tags/1995">1995</a>) at pages 12-13 (in Chapter 1) of the Box Tree hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/harbinson-w-a' | relative_url }}">Harbinson, W A</a> in his “Projekt Saucer” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) at pages 12-13 (in Chapter 1) of the Box Tree hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -120,10 +120,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Hennessey, Roger in his “<a href="/ufo-history/ufo-books/hennessey-roger-a-s-worlds-without-end-the-historic-search-for-extraterrestrial-life">Worlds Without End : The Historic Search for Extraterrestrial Life</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/075241450X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/075241450X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 116 (in Chapter 11) of the Tempus hardback edition.</p>
+<p>Hennessey, Roger in his “<a href="{{ '/ufo-history/ufo-books/hennessey-roger-a-s-worlds-without-end-the-historic-search-for-extraterrestrial-life' | relative_url }}">Worlds Without End : The Historic Search for Extraterrestrial Life</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/075241450X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/075241450X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 116 (in Chapter 11) of the Tempus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -131,10 +131,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1976">1976</a></p>
+<p><a href="{{ '/tags/1976' | relative_url }}">1976</a></p>
 </td>
 <td valign="top" width="547">
-<p>Holzer, Hans in his “<a href="/ufo-history/ufo-books/holzer-hans-the-ufonauts">The UFOnauts</a>” (<a href="/tags/1976">1976</a>) (available <a href="http://www.amazon.com/dp/0449135691/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0449135691/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 16 (in Chapter 1) of the Fawcett Gold Medal paperback edition.</p>
+<p>Holzer, Hans in his “<a href="{{ '/ufo-history/ufo-books/holzer-hans-the-ufonauts' | relative_url }}">The UFOnauts</a>” (<a href="{{ '/tags/1976' | relative_url }}">1976</a>) (available <a href="http://www.amazon.com/dp/0449135691/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0449135691/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 16 (in Chapter 1) of the Fawcett Gold Medal paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -142,10 +142,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/korff-kal-k">Korff, Kal K</a> in his “<a href="/ufo-history/ufo-books/korff-kal-k-the-roswell-ufo-crash-what-they-dont-want-you-to-know">The Roswell UFO Crash: What They Don’t Want You to Know</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0440236134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0440236134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 254 (in Chapter 8) of the Dell paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/korff-kal-k' | relative_url }}">Korff, Kal K</a> in his “<a href="{{ '/ufo-history/ufo-books/korff-kal-k-the-roswell-ufo-crash-what-they-dont-want-you-to-know' | relative_url }}">The Roswell UFO Crash: What They Don’t Want You to Know</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0440236134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0440236134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 254 (in Chapter 8) of the Dell paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -153,10 +153,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1979">1979</a></p>
+<p><a href="{{ '/tags/1979' | relative_url }}">1979</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/lunan-duncan">Lunan, Duncan</a> in Chris Boyce’s <a href="/ufo-history/ufo-books/boyce-chris-extraterrestrial-encounter">Extraterrestrial Encounter</a> (<a href="/tags/1979">1979</a>) (available <a href="http://www.amazon.com/dp/0890092486/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0890092486/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 103-105 (in Chapter 7) of the David &amp; Charles hardback edition, at pages 92-94 of the <a href="/tags/1980">1980</a> revised NEL paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/lunan-duncan' | relative_url }}">Lunan, Duncan</a> in Chris Boyce’s <a href="{{ '/ufo-history/ufo-books/boyce-chris-extraterrestrial-encounter' | relative_url }}">Extraterrestrial Encounter</a> (<a href="{{ '/tags/1979' | relative_url }}">1979</a>) (available <a href="http://www.amazon.com/dp/0890092486/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0890092486/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 103-105 (in Chapter 7) of the David &amp; Charles hardback edition, at pages 92-94 of the <a href="{{ '/tags/1980' | relative_url }}">1980</a> revised NEL paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -164,10 +164,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> and <a href="/ufo-history/ufo-personalities/hough-peter">Hough, Peter</a> in their “<a href="/ufo-history/ufo-books/randles-jenny-and-hough-peter-looking-for-the-aliens">Looking for the Aliens</a>” (<a href="/tags/1991">1991</a>) (available <a href="http://www.amazon.com/dp/0760704406/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0760704406/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 138 (in Chapter 16) of the Blandford softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> and <a href="{{ '/ufo-history/ufo-personalities/hough-peter' | relative_url }}">Hough, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-hough-peter-looking-for-the-aliens' | relative_url }}">Looking for the Aliens</a>” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/0760704406/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0760704406/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 138 (in Chapter 16) of the Blandford softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -175,10 +175,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/spencer-john">Spencer, John</a> and Spencer, Anne in their “<a href="/ufo-history/ufo-books/spencer-john-true-life-encounters-alien-contact">True Life Encounters – Alien Contact</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1575000237/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1575000237/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 51 (in Chapter 4) of the Millenium paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">Spencer, John</a> and Spencer, Anne in their “<a href="{{ '/ufo-history/ufo-books/spencer-john-true-life-encounters-alien-contact' | relative_url }}">True Life Encounters – Alien Contact</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1575000237/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1575000237/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 51 (in Chapter 4) of the Millenium paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -186,10 +186,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/story-ronald">Story, Ronald</a> in his “<a href="/ufo-history/ufo-books/story-ronald-guardians-of-the-universe">Guardians of the Universe?</a>” (<a href="/tags/1980">1980</a>) (available <a href="http://www.amazon.com/dp/0312352166/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312352166/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 10 (in the Preface) of the New English Library paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Story, Ronald</a> in his “<a href="{{ '/ufo-history/ufo-books/story-ronald-guardians-of-the-universe' | relative_url }}">Guardians of the Universe?</a>” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) (available <a href="http://www.amazon.com/dp/0312352166/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312352166/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 10 (in the Preface) of the New English Library paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/townes_charles_h_3.gif"}
 ---
 
-![townes_charles_h_3](/images/stories/ufo_personalities/townes_charles_h_3.gif)
+![townes_charles_h_3]({{ '/images/stories/ufo_personalities/townes_charles_h_3.gif' | relative_url }})
 
 *Charles H Townes*
 
@@ -33,7 +33,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-Townes was discussed by SETI Institute’s SETI Science and Technology Working Group (“the SSTWG”) in “[SETI 2020: A Roadmap for the Search for Extraterrestrial Intelligence](/ufo-history/ufo-books/elkers-ronald-d-and-cullers-kent-d-and-billingham-john-and-scheffer-louis-k-editors-seti-2020-a-roadmap-for-the-search-for-extraterrestrial-intelligence)” ([2002](/tags/2002)) (edited by Elkers, Ronald D and [Cullers, Kent D](/ufo-history/ufo-personalities/cullers-kent-d) and [Billingham, John](/ufo-history/ufo-personalities/billingham-john) and Scheffer, Louis K) (available [on Amazon USA](http://www.amazon.com/dp/0966633539/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0966633539/ref=nosim?tag=ufot-21)) at page 469 (in Appendix Q entitled “SSTWG Biographies”) of the SETI Press softcover edition.
+Townes was discussed by SETI Institute’s SETI Science and Technology Working Group (“the SSTWG”) in “[SETI 2020: A Roadmap for the Search for Extraterrestrial Intelligence]({{ '/ufo-history/ufo-books/elkers-ronald-d-and-cullers-kent-d-and-billingham-john-and-scheffer-louis-k-editors-seti-2020-a-roadmap-for-the-search-for-extraterrestrial-intelligence' | relative_url }})” ([2002]({{ '/tags/2002' | relative_url }})) (edited by Elkers, Ronald D and [Cullers, Kent D]({{ '/ufo-history/ufo-personalities/cullers-kent-d' | relative_url }}) and [Billingham, John]({{ '/ufo-history/ufo-personalities/billingham-john' | relative_url }}) and Scheffer, Louis K) (available [on Amazon USA](http://www.amazon.com/dp/0966633539/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0966633539/ref=nosim?tag=ufot-21)) at page 469 (in Appendix Q entitled “SSTWG Biographies”) of the SETI Press softcover edition.
 
 See also the references provided in the entry on Townes' article on Optical SETI.
 

@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/rogo_d_scott_1.jpg"}
 ---
 
-![rogo_d_scott_1](/images/stories/ufo_personalities/rogo_d_scott_1.jpg)
+![rogo_d_scott_1]({{ '/images/stories/ufo_personalities/rogo_d_scott_1.jpg' | relative_url }})
 
 *D Scott Rogo*
 
@@ -36,18 +36,18 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/rogo-d-scott">Rogo, D Scott</a> and <a href="/ufo-history/ufo-personalities/druffel-ann">Druffel, Ann</a> “<a href="/ufo-history/ufo-books/rogo-d-scott-and-druffel-ann-the-tujunga-canyon-contacts">The Tujunga Canyon Contacts</a>” (<a href="/tags/1980">1980</a>) (available <a href="http://www.amazon.com/dp/1933665335/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1933665335/?&amp;tag=ufot-21">on Amazon UK</a>) relating to events in the Tujunga Canyon area of Southern California between <a href="/tags/1953">1953</a> and <a href="/tags/1975">1975</a>.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/rogo-d-scott' | relative_url }}">Rogo, D Scott</a> and <a href="{{ '/ufo-history/ufo-personalities/druffel-ann' | relative_url }}">Druffel, Ann</a> “<a href="{{ '/ufo-history/ufo-books/rogo-d-scott-and-druffel-ann-the-tujunga-canyon-contacts' | relative_url }}">The Tujunga Canyon Contacts</a>” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) (available <a href="http://www.amazon.com/dp/1933665335/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1933665335/?&amp;tag=ufot-21">on Amazon UK</a>) relating to events in the Tujunga Canyon area of Southern California between <a href="{{ '/tags/1953' | relative_url }}">1953</a> and <a href="{{ '/tags/1975' | relative_url }}">1975</a>.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/rogo-d-scott">Rogo, D Scott</a> (Ed.) “<a href="/ufo-history/ufo-books/rogo-d-scott-ed-ufo-abductions">UFO Abductions</a>” (<a href="/tags/1980">1980</a>) (available <a href="http://www.amazon.com/dp/0451094727/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451094727/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/rogo-d-scott' | relative_url }}">Rogo, D Scott</a> (Ed.) “<a href="{{ '/ufo-history/ufo-books/rogo-d-scott-ed-ufo-abductions' | relative_url }}">UFO Abductions</a>” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) (available <a href="http://www.amazon.com/dp/0451094727/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451094727/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>
@@ -91,10 +91,10 @@ For discussion of D Scott Rogo see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1988">1988</a></p>
+<p><a href="{{ '/tags/1988' | relative_url }}">1988</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/boyd-robert-d">Boyd, Robert D</a> in his “International Who’s Who in Ufology Directory” (<a href="/tags/1988">1988</a>) at page 178-179 of the PMT Publishing softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/boyd-robert-d' | relative_url }}">Boyd, Robert D</a> in his “International Who’s Who in Ufology Directory” (<a href="{{ '/tags/1988' | relative_url }}">1988</a>) at page 178-179 of the PMT Publishing softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -102,10 +102,10 @@ For discussion of D Scott Rogo see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/davenport-marc">Davenport, Marc</a> in his “<a href="/ufo-history/ufo-books/davenport-marc-visitors-from-time">Visitors from Time</a>” (<a href="/tags/1992">1992</a>) (available <a href="http://www.amazon.com/dp/1883729025/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1883729025/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 202 (in Chapter 14) of the <a href="/tags/1994">1994</a> revised Greenleaf softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/davenport-marc' | relative_url }}">Davenport, Marc</a> in his “<a href="{{ '/ufo-history/ufo-books/davenport-marc-visitors-from-time' | relative_url }}">Visitors from Time</a>” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="http://www.amazon.com/dp/1883729025/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1883729025/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 202 (in Chapter 14) of the <a href="{{ '/tags/1994' | relative_url }}">1994</a> revised Greenleaf softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -113,10 +113,10 @@ For discussion of D Scott Rogo see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/dennett-preston">Dennett, Preston</a> E in his “<a href="/ufo-history/ufo-books/dennett-preston-e-ufo-healings">UFO Healings</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/092652433X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/092652433X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page xv (in the Preface) of the Wild Flower Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dennett-preston' | relative_url }}">Dennett, Preston</a> E in his “<a href="{{ '/ufo-history/ufo-books/dennett-preston-e-ufo-healings' | relative_url }}">UFO Healings</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/092652433X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/092652433X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page xv (in the Preface) of the Wild Flower Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -124,10 +124,10 @@ For discussion of D Scott Rogo see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/good-timothy">Good, Timothy</a> in “<a href="/ufo-history/ufo-books/good-timothy-editor-the-ufo-report-1992">The UFO Report 1992</a>” (<a href="/tags/1991">1991</a>) (edited by <a href="/ufo-history/ufo-personalities/good-timothy">Timothy Good</a>) (available <a href="http://www.amazon.com/dp/0380713241/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380713241/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page ix (in the Editor’s Foreword) of the Sidgwick &amp; Jackson softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/good-timothy' | relative_url }}">Good, Timothy</a> in “<a href="{{ '/ufo-history/ufo-books/good-timothy-editor-the-ufo-report-1992' | relative_url }}">The UFO Report 1992</a>” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/good-timothy' | relative_url }}">Timothy Good</a>) (available <a href="http://www.amazon.com/dp/0380713241/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380713241/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page ix (in the Editor’s Foreword) of the Sidgwick &amp; Jackson softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -135,10 +135,10 @@ For discussion of D Scott Rogo see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/kottmeyer-martin-s">Kottmeyer, Martin S</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 363-364 (in an entry entitled “Mind Control By Aliens”) of the New American Library softcover edition, at page 355 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/kottmeyer-martin-s' | relative_url }}">Kottmeyer, Martin S</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 363-364 (in an entry entitled “Mind Control By Aliens”) of the New American Library softcover edition, at page 355 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -146,10 +146,10 @@ For discussion of D Scott Rogo see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/kottmeyer-martin-s">Kottmeyer, Martin S</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 440-441 (in an entry entitled “Mind Control By Aliens”) of the Robinson softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/kottmeyer-martin-s' | relative_url }}">Kottmeyer, Martin S</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 440-441 (in an entry entitled “Mind Control By Aliens”) of the Robinson softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

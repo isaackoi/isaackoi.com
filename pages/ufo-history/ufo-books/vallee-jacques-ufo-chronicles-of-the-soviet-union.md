@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0345373960.jpg"}
 book: {"identifiers": ["0345373960", "1852839244"], "primary_isbn": "0345373960", "cover_image": "/book-covers/0345373960.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Jacques Vallee](/ufo-history/ufo-personalities/vallee-jacques)'s book “[UFO Chronicles of the Soviet Union](/ufo-history/ufo-books/vallee-jacques-ufo-chronicles-of-the-soviet-union)” ([1992](/tags/1992)) (available [on Amazon USA](http://www.amazon.com/dp/0345373960/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0345373960/?&tag=ufot-21))
+Brief review to be added of [Jacques Vallee]({{ '/ufo-history/ufo-personalities/vallee-jacques' | relative_url }})'s book “[UFO Chronicles of the Soviet Union]({{ '/ufo-history/ufo-books/vallee-jacques-ufo-chronicles-of-the-soviet-union' | relative_url }})” ([1992]({{ '/tags/1992' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0345373960/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0345373960/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/spencer-john">Spencer, John</a> and Spencer, Anne in their “<a href="/ufo-history/ufo-books/spencer-john-fifty-years-of-ufos">Fifty Years of UFOs</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1852839244/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1852839244/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 153 (in the unnumbered chapter entitled “<a href="/tags/1987">1987</a>-<a href="/tags/1997">1997</a>”) of the Boxtree hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">Spencer, John</a> and Spencer, Anne in their “<a href="{{ '/ufo-history/ufo-books/spencer-john-fifty-years-of-ufos' | relative_url }}">Fifty Years of UFOs</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1852839244/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1852839244/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 153 (in the unnumbered chapter entitled “<a href="{{ '/tags/1987' | relative_url }}">1987</a>-<a href="{{ '/tags/1997' | relative_url }}">1997</a>”) of the Boxtree hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -63,10 +63,10 @@ For discussion of the Yaak incident see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1953">1953</a></p>
+<p><a href="{{ '/tags/1953' | relative_url }}">1953</a></p>
 </td>
 <td valign="top" width="547">
-<p>Durant Report (the memo dated 16<sup>th</sup> February <a href="/tags/1953">1953</a> from F C Durant to the Assistant Director for Scientific Intelligence relating to the Robertson Panel) at page 7 states this case was discussed “in detail” by the Robertson Panel. That discussion is summarised in pages 11-14 of the Durant Report. The Durant Report is available online at: <a href="http://www.cufon.org/cufon/robert.htm">http://www.cufon.org/cufon/robert.htm</a></p>
+<p>Durant Report (the memo dated 16<sup>th</sup> February <a href="{{ '/tags/1953' | relative_url }}">1953</a> from F C Durant to the Assistant Director for Scientific Intelligence relating to the Robertson Panel) at page 7 states this case was discussed “in detail” by the Robertson Panel. That discussion is summarised in pages 11-14 of the Durant Report. The Durant Report is available online at: <a href="http://www.cufon.org/cufon/robert.htm">http://www.cufon.org/cufon/robert.htm</a></p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -74,10 +74,10 @@ For discussion of the Yaak incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1983">1983</a></p>
+<p><a href="{{ '/tags/1983' | relative_url }}">1983</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/evans-hilary">Evans, Hilary</a> in his “<a href="/ufo-history/ufo-books/evans-hilary-the-evidence-for-ufos">The Evidence for UFOs</a>” (<a href="/tags/1983">1983</a>) (available <a href="http://www.amazon.com/dp/0850303508/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0850303508/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 60-62 of the Aquarian softcover edition (in Chapter 3, Case 24).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }}">Evans, Hilary</a> in his “<a href="{{ '/ufo-history/ufo-books/evans-hilary-the-evidence-for-ufos' | relative_url }}">The Evidence for UFOs</a>” (<a href="{{ '/tags/1983' | relative_url }}">1983</a>) (available <a href="http://www.amazon.com/dp/0850303508/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0850303508/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 60-62 of the Aquarian softcover edition (in Chapter 3, Case 24).</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -85,10 +85,10 @@ For discussion of the Yaak incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1956">1956</a></p>
+<p><a href="{{ '/tags/1956' | relative_url }}">1956</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/ruppelt-edward">Ruppelt, Edward</a> J in his “<a href="/ufo-history/ufo-books/ruppelt-edward-the-report-on-unidentified-flying-objects">The Report on Unidentified Flying Objects</a>” (<a href="/tags/1956">1956</a>) (available <a href="http://www.amazon.com/dp/B0007FIFVE/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0007FIFVE/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 194 (in Chapter 14) of the original 17 chapter Doubleday hardback edition, at pages 255-256 of the Gollancz hardback edition, at pages 254-255 of the Ace paperback edition, at page 194 of the <a href="/tags/1959">1959</a> revised Doubleday 20 chapter hardback edition, at page 137 of the reprinted Source Books softcover edition. The first of these editions (i.e. the original 17 chapter hardback edition) has the same page numbering as the version available free online at: <a href="http://www.nicap.org/rufo/contents2.htm">http://www.nicap.org/rufo/contents2.htm</a></p>
+<p><a href="{{ '/ufo-history/ufo-personalities/ruppelt-edward' | relative_url }}">Ruppelt, Edward</a> J in his “<a href="{{ '/ufo-history/ufo-books/ruppelt-edward-the-report-on-unidentified-flying-objects' | relative_url }}">The Report on Unidentified Flying Objects</a>” (<a href="{{ '/tags/1956' | relative_url }}">1956</a>) (available <a href="http://www.amazon.com/dp/B0007FIFVE/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0007FIFVE/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 194 (in Chapter 14) of the original 17 chapter Doubleday hardback edition, at pages 255-256 of the Gollancz hardback edition, at pages 254-255 of the Ace paperback edition, at page 194 of the <a href="{{ '/tags/1959' | relative_url }}">1959</a> revised Doubleday 20 chapter hardback edition, at page 137 of the reprinted Source Books softcover edition. The first of these editions (i.e. the original 17 chapter hardback edition) has the same page numbering as the version available free online at: <a href="http://www.nicap.org/rufo/contents2.htm">http://www.nicap.org/rufo/contents2.htm</a></p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -96,10 +96,10 @@ For discussion of the Yaak incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2003">2003</a></p>
+<p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sparks-brad">Sparks, Brad</a> in version 1.7 of his “Comprehensive Catalog of 1,500 Project BLUE BOOK UFO Unknowns” (<a href="/tags/2003">2003</a>) as Case Number 630 on pages 92-94 of the PDF edition (with the same page numbering in the Microsoft Word edition). Both editions are available online, respectively at the following links:</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sparks-brad' | relative_url }}">Sparks, Brad</a> in version 1.7 of his “Comprehensive Catalog of 1,500 Project BLUE BOOK UFO Unknowns” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) as Case Number 630 on pages 92-94 of the PDF edition (with the same page numbering in the Microsoft Word edition). Both editions are available online, respectively at the following links:</p>
 <p><a href="http://www.cufos.org/BB_Unknowns_1_7.pdf">http://www.cufos.org/BB_Unknowns_1_7.pdf</a></p>
 <p><a href="http://www.nicap.org/bluebook/CufosBBUnknowns.doc">http://www.nicap.org/bluebook/CufosBBUnknowns.doc</a></p>
 </td>
@@ -113,7 +113,7 @@ For discussion of the Yaak incident see the following:
 <a id="other"></a>
 ### Other Material
 
-Listed as Project Blue Book Case Number 2023 on the redacted US National Archives and Records Administration (“NARA”) microfilm records of Project Blue Book, released to the National Archives in [1975](/tags/1975) – see National Archives Microfilm Publication T1206 roll number 1. An image of the relevant index page has been given the unique Page ID (“PID”) of NARA-PBB1-81 (page 81 of 1014) at the link below.
+Listed as Project Blue Book Case Number 2023 on the redacted US National Archives and Records Administration (“NARA”) microfilm records of Project Blue Book, released to the National Archives in [1975]({{ '/tags/1975' | relative_url }}) – see National Archives Microfilm Publication T1206 roll number 1. An image of the relevant index page has been given the unique Page ID (“PID”) of NARA-PBB1-81 (page 81 of 1014) at the link below.
 
 Listed (without a Project Blue Book Case Number) on the unredacted Maxwell Air Force Base (“Maxwell”) microfilm records of Project Blue Book – see Maxwell microfilm roll number 30,363. An image of the relevant index page has been given the unique Page ID (“PID”) of MAXW-PBB2-314 (page 314 of 1352) at the link below.
 

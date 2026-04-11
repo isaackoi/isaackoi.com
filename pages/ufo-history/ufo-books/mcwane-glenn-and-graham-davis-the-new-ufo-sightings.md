@@ -14,7 +14,7 @@ header: {"preview_image": "https://covers.openlibrary.org/b/isbn/0446765929-L.jp
 book: {"identifiers": ["0446765929"], "primary_isbn": "0446765929", "cover_image": "https://covers.openlibrary.org/b/isbn/0446765929-L.jpg?default=false", "cover_source": "openlibrary"}
 ---
 
-Brief review to be added of “[The New UFO Sightings](/ufo-history/ufo-books/mcwane-glenn-and-graham-davis-the-new-ufo-sightings)” ([1974](/tags/1974)) (available [on Amazon USA](http://www.amazon.com/dp/0446765929/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0446765929/?&tag=ufot-21)) by Glenn McWane and Davis Graham.
+Brief review to be added of “[The New UFO Sightings]({{ '/ufo-history/ufo-books/mcwane-glenn-and-graham-davis-the-new-ufo-sightings' | relative_url }})” ([1974]({{ '/tags/1974' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0446765929/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0446765929/?&tag=ufot-21)) by Glenn McWane and Davis Graham.
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1974">1974</a></p>
+<p><a href="{{ '/tags/1974' | relative_url }}">1974</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/steiger-brad">Steiger, Brad</a> in “<a href="/ufo-history/ufo-books/mcwane-glenn-and-graham-davis-the-new-ufo-sightings">The New UFO Sightings</a>” (<a href="/tags/1974">1974</a>) (by McWane, Glenn &amp; Graham, Davis) at page 11 (in the Introduction) of the Warner paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/steiger-brad' | relative_url }}">Steiger, Brad</a> in “<a href="{{ '/ufo-history/ufo-books/mcwane-glenn-and-graham-davis-the-new-ufo-sightings' | relative_url }}">The New UFO Sightings</a>” (<a href="{{ '/tags/1974' | relative_url }}">1974</a>) (by McWane, Glenn &amp; Graham, Davis) at page 11 (in the Introduction) of the Warner paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/documents_1.gif"}
 ---
 
-![documents_1](/images/stories/ufo_tags/documents_1.gif)
+![documents_1]({{ '/images/stories/ufo_tags/documents_1.gif' | relative_url }})
 
 *Estimate of Situation rejected*
 
@@ -43,7 +43,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-For discussion see references provided in relation the entry for the alleged “Estimate of the Situation” in August [1948](/tags/1948).
+For discussion see references provided in relation the entry for the alleged “Estimate of the Situation” in August [1948]({{ '/tags/1948' | relative_url }}).
 
 <a id="other"></a>
 ### Other Material

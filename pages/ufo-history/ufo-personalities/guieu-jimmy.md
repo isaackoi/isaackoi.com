@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/guieu_jimmy_3.jpg"}
 ---
 
-![guieu_jimmy_3](/images/stories/ufo_personalities/guieu_jimmy_3.jpg)
+![guieu_jimmy_3]({{ '/images/stories/ufo_personalities/guieu_jimmy_3.jpg' | relative_url }})
 
 *Jimmy Guieu*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1956">1956</a></p>
+<p><a href="{{ '/tags/1956' | relative_url }}">1956</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/guieu-jimmy">Guieu, Jimmy</a> “<a href="/ufo-history/ufo-books/guieu-jimmy-flying-saucers-come-from-another-world">Flying Saucers Come From Another World</a>” (<a href="/tags/1956">1956</a>) (available <a href="http://www.amazon.com/dp/B0000CJCUL/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0000CJCUL/ref=nosim?tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/guieu-jimmy' | relative_url }}">Guieu, Jimmy</a> “<a href="{{ '/ufo-history/ufo-books/guieu-jimmy-flying-saucers-come-from-another-world' | relative_url }}">Flying Saucers Come From Another World</a>” (<a href="{{ '/tags/1956' | relative_url }}">1956</a>) (available <a href="http://www.amazon.com/dp/B0000CJCUL/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0000CJCUL/ref=nosim?tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>
@@ -83,10 +83,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2007">2007</a></p>
+<p><a href="{{ '/tags/2007' | relative_url }}">2007</a></p>
 </td>
 <td valign="top" width="547">
-<p>Lagrange, Pierre in “Alien Worlds : Social and Religious Dimensions of Extraterrestrial Contact” (<a href="/tags/2007">2007</a>) (edited by Diana Tumminia) (available <a href="http://www.amazon.com/dp/0815608586/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0815608586/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 166-167 (in Chapter 9) of the Syracuse University Press softcover edition.</p>
+<p>Lagrange, Pierre in “Alien Worlds : Social and Religious Dimensions of Extraterrestrial Contact” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (edited by Diana Tumminia) (available <a href="http://www.amazon.com/dp/0815608586/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0815608586/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 166-167 (in Chapter 9) of the Syracuse University Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p> </p>
@@ -94,10 +94,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="547">
-<p>Mauge, Claude and <a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in <a href="/ufo-history/ufo-personalities/clark-jerome">Jerome Clark</a>’s “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq">The UFO Encyclopedia: 1st edition</a>: Volume 1 – UFOs in the <a href="/tags/1980">1980</a>s” (<a href="/tags/1990">1990</a>) (available <a href="http://www.amazon.com/dp/1558883010/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558883010/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 114 (in an entry entitled “French Ufology”) of the Apogee hardback edition.</p>
+<p>Mauge, Claude and <a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in <a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Jerome Clark</a>’s “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq' | relative_url }}">The UFO Encyclopedia: 1st edition</a>: Volume 1 – UFOs in the <a href="{{ '/tags/1980' | relative_url }}">1980</a>s” (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) (available <a href="http://www.amazon.com/dp/1558883010/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558883010/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 114 (in an entry entitled “French Ufology”) of the Apogee hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

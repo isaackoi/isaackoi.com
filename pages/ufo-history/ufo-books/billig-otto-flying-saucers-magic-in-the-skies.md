@@ -14,7 +14,7 @@ header: {"preview_image": "https://covers.openlibrary.org/b/isbn/0870739409-L.jp
 book: {"identifiers": ["0870739409"], "primary_isbn": "0870739409", "cover_image": "https://covers.openlibrary.org/b/isbn/0870739409-L.jpg?default=false", "cover_source": "openlibrary"}
 ---
 
-Brief review to be added of Billig, Otto “[Flying Saucers: Magic in the Skies](/ufo-history/ufo-books/billig-otto-flying-saucers-magic-in-the-skies)” ([1982](/tags/1982)) (available [on Amazon USA](http://www.amazon.com/dp/0870739409/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0870739409/?&tag=ufot-21))
+Brief review to be added of Billig, Otto “[Flying Saucers: Magic in the Skies]({{ '/ufo-history/ufo-books/billig-otto-flying-saucers-magic-in-the-skies' | relative_url }})” ([1982]({{ '/tags/1982' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0870739409/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0870739409/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

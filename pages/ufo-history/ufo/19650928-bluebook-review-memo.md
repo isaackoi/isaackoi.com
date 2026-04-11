@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/documents_1.gif"}
 ---
 
-![documents_1](/images/stories/ufo_tags/documents_1.gif)
+![documents_1]({{ '/images/stories/ufo_tags/documents_1.gif' | relative_url }})
 
 *Bluebook review memo*
 
@@ -43,7 +43,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-Image of letter presented in the [Condon Report](/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects) (“[Scientific Study of Unidentified Flying Objects](/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects)”, Edward U Condon (Director) and Daniel S Gillmor (Editor) ([1969](/tags/1969))) (available [on Amazon USA](http://www.amazon.com/dp/B000EZY1RO/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B000EZY1RO/ref=nosim?tag=ufot-21)) at pages 1286-1287 (in Appendix A) of the uncorrected version submitted to the Air Force (with the same page numbering in the 3 volume paperbound edition distributed by the National Technical Information Service, US Department of Commerce) at pages 816-817 of the Vision hardback edition (with the same page numbering in the Bantam paperback edition). The first of these editions has the same page numbering as the edition available free online at the following links:
+Image of letter presented in the [Condon Report]({{ '/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects' | relative_url }}) (“[Scientific Study of Unidentified Flying Objects]({{ '/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects' | relative_url }})”, Edward U Condon (Director) and Daniel S Gillmor (Editor) ([1969]({{ '/tags/1969' | relative_url }}))) (available [on Amazon USA](http://www.amazon.com/dp/B000EZY1RO/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B000EZY1RO/ref=nosim?tag=ufot-21)) at pages 1286-1287 (in Appendix A) of the uncorrected version submitted to the Air Force (with the same page numbering in the 3 volume paperbound edition distributed by the National Technical Information Service, US Department of Commerce) at pages 816-817 of the Vision hardback edition (with the same page numbering in the Bantam paperback edition). The first of these editions has the same page numbering as the edition available free online at the following links:
 
 http://www.project1947.com/shg/condon/contents.html
 
@@ -71,10 +71,10 @@ For discussion of LeBailly’s memo see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/brookesmith-peter">Brookesmith, Peter</a> in his “<a href="/ufo-history/ufo-books/brookesmith-peter-ufo-the-government-files">UFO: The Government Files</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/0760702187/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0760702187/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 54 (in Chapter 3) of the Parragon hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/brookesmith-peter' | relative_url }}">Brookesmith, Peter</a> in his “<a href="{{ '/ufo-history/ufo-books/brookesmith-peter-ufo-the-government-files' | relative_url }}">UFO: The Government Files</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/0760702187/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0760702187/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 54 (in Chapter 3) of the Parragon hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -82,10 +82,10 @@ For discussion of LeBailly’s memo see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-the-ufo-book">The UFO Book</a>: Encyclopedia of the Extraterrestrial” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/1578590299/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1578590299/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 475 (forming part of an entry entitled “Project Blue Book”) of the Visible Ink Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-the-ufo-book' | relative_url }}">The UFO Book</a>: Encyclopedia of the Extraterrestrial” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/1578590299/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1578590299/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 475 (forming part of an entry entitled “Project Blue Book”) of the Visible Ink Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -93,10 +93,10 @@ For discussion of LeBailly’s memo see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) in Volume 2:L-Z at page 737 (forming part of an entry entitled “Project Blue Book” at pages 730-742) of the Omnigraphics hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition' | relative_url }}">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) in Volume 2:L-Z at page 737 (forming part of an entry entitled “Project Blue Book” at pages 730-742) of the Omnigraphics hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -104,11 +104,11 @@ For discussion of LeBailly’s memo see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1969">1969</a></p>
+<p><a href="{{ '/tags/1969' | relative_url }}">1969</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects">Condon Report</a> (“<a href="/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects">Scientific Study of Unidentified Flying Objects</a>”, Edward U Condon (Director) and Daniel S Gillmor (Editor) (<a href="/tags/1969">1969</a>)) (available <a href="http://www.amazon.com/dp/B000EZY1RO/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000EZY1RO/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 902-903 (in Section 5, Chapter 2 “UFOs: <a href="/tags/1947">1947</a>-<a href="/tags/1968">1968</a>”, by Edward U Condon) of the uncorrected version submitted to the Air Force (with the same page numbering in the 3 volume paperbound edition distributed by the National Technical Information Service, US Department of Commerce) at page 541 of the Vision hardback edition (with the same page numbering in the Bantam paperback edition). The first of these editions has the same page numbering as the edition available free online at the following links:</p>
-<p>http://www.project<a href="/tags/1947">1947</a>.com/shg/condon/contents.html</p>
+<p><a href="{{ '/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects' | relative_url }}">Condon Report</a> (“<a href="{{ '/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects' | relative_url }}">Scientific Study of Unidentified Flying Objects</a>”, Edward U Condon (Director) and Daniel S Gillmor (Editor) (<a href="{{ '/tags/1969' | relative_url }}">1969</a>)) (available <a href="http://www.amazon.com/dp/B000EZY1RO/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000EZY1RO/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 902-903 (in Section 5, Chapter 2 “UFOs: <a href="{{ '/tags/1947' | relative_url }}">1947</a>-<a href="{{ '/tags/1968' | relative_url }}">1968</a>”, by Edward U Condon) of the uncorrected version submitted to the Air Force (with the same page numbering in the 3 volume paperbound edition distributed by the National Technical Information Service, US Department of Commerce) at page 541 of the Vision hardback edition (with the same page numbering in the Bantam paperback edition). The first of these editions has the same page numbering as the edition available free online at the following links:</p>
+<p>http://www.project<a href="{{ '/tags/1947' | relative_url }}">1947</a>.com/shg/condon/contents.html</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -116,10 +116,10 @@ For discussion of LeBailly’s memo see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/craig-roy">Craig, Roy</a> in his “<a href="/ufo-history/ufo-books/craig-roy-ufos-an-insiders-view">UFOs – An Insider’s View</a>” (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/0929398947/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0929398947/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages xiv-xv (in the Preface) of the UNT softback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/craig-roy' | relative_url }}">Craig, Roy</a> in his “<a href="{{ '/ufo-history/ufo-books/craig-roy-ufos-an-insiders-view' | relative_url }}">UFOs – An Insider’s View</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/0929398947/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0929398947/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages xiv-xv (in the Preface) of the UNT softback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -127,10 +127,10 @@ For discussion of LeBailly’s memo see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/dolan-richard">Dolan, Richard</a> M in his “<a href="/ufo-history/ufo-books/dolan-richard-ufos-and-the-national-security-state-volume-1-1941-1973">UFOs and the National Security State: Volume 1: 1941-1973</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/1571743170/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1571743170/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 382-383 (in Chapter 7) of the Keyhole softcover edition, at pages 290-291 of the <a href="/tags/2002">2002</a> revised Hampton Road softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dolan-richard' | relative_url }}">Dolan, Richard</a> M in his “<a href="{{ '/ufo-history/ufo-books/dolan-richard-ufos-and-the-national-security-state-volume-1-1941-1973' | relative_url }}">UFOs and the National Security State: Volume 1: 1941-1973</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/1571743170/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1571743170/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 382-383 (in Chapter 7) of the Keyhole softcover edition, at pages 290-291 of the <a href="{{ '/tags/2002' | relative_url }}">2002</a> revised Hampton Road softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -138,10 +138,10 @@ For discussion of LeBailly’s memo see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1976">1976</a></p>
+<p><a href="{{ '/tags/1976' | relative_url }}">1976</a></p>
 </td>
 <td valign="top" width="547">
-<p>Flammonde, Paris in his “<a href="/ufo-history/ufo-books/flammonde-paris-ufo-exist">Ufo Exist!</a>” (<a href="/tags/1976">1976</a>) (available <a href="http://www.amazon.com/dp/0345339517/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0345339517/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 407-408 (in Chapter 20) of the Ballantine Books paperback edition.</p>
+<p>Flammonde, Paris in his “<a href="{{ '/ufo-history/ufo-books/flammonde-paris-ufo-exist' | relative_url }}">Ufo Exist!</a>” (<a href="{{ '/tags/1976' | relative_url }}">1976</a>) (available <a href="http://www.amazon.com/dp/0345339517/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0345339517/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 407-408 (in Chapter 20) of the Ballantine Books paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -149,10 +149,10 @@ For discussion of LeBailly’s memo see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/hall-richard-h">Hall, Richard</a> in “<a href="/ufo-history/ufo-books/hall-richard-the-ufo-evidence-volume-2-a-thirty-year-report">The UFO Evidence: Volume 2 – A Thirty Year Report</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/hall-richard-h">Richard Hall</a>) (available <a href="http://www.amazon.com/dp/0810838818/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0810838818/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 5-6 (in the unnumbered chapter entitled “Master Chronology”) of the Scarecrow Press hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hall-richard-h' | relative_url }}">Hall, Richard</a> in “<a href="{{ '/ufo-history/ufo-books/hall-richard-the-ufo-evidence-volume-2-a-thirty-year-report' | relative_url }}">The UFO Evidence: Volume 2 – A Thirty Year Report</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/hall-richard-h' | relative_url }}">Richard Hall</a>) (available <a href="http://www.amazon.com/dp/0810838818/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0810838818/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 5-6 (in the unnumbered chapter entitled “Master Chronology”) of the Scarecrow Press hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -160,10 +160,10 @@ For discussion of LeBailly’s memo see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1977">1977</a></p>
+<p><a href="{{ '/tags/1977' | relative_url }}">1977</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/hynek-j-allen">Hynek, J Allen</a> in his “<a href="/ufo-history/ufo-books/hynek-j-allen-the-hynek-ufo-report">The Hynek UFO Report</a>” (<a href="/tags/1977">1977</a>) (available <a href="http://www.amazon.com/dp/0440192013/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0440192013/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 271 (in Chapter 12) of the Barnes &amp; Noble hardback reprint (<a href="/tags/1997">1997</a>) at page 280 of the Dell paperback edition (with the same page numbering in the Sphere paperback edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hynek-j-allen' | relative_url }}">Hynek, J Allen</a> in his “<a href="{{ '/ufo-history/ufo-books/hynek-j-allen-the-hynek-ufo-report' | relative_url }}">The Hynek UFO Report</a>” (<a href="{{ '/tags/1977' | relative_url }}">1977</a>) (available <a href="http://www.amazon.com/dp/0440192013/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0440192013/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 271 (in Chapter 12) of the Barnes &amp; Noble hardback reprint (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) at page 280 of the Dell paperback edition (with the same page numbering in the Sphere paperback edition).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -171,10 +171,10 @@ For discussion of LeBailly’s memo see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1975">1975</a></p>
+<p><a href="{{ '/tags/1975' | relative_url }}">1975</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/jacobs-david-michael">Jacobs, David Michael</a> in his “<a href="/ufo-history/ufo-books/jacobs-david-michael-the-ufo-controversy-in-america">The UFO Controversy in America</a>” (<a href="/tags/1975">1975</a>) (available <a href="http://www.amazon.com/dp/0253190061/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0253190061/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 198 (in Chapter 8) of the Indiana hardback edition, pages 175 of the Signet paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/jacobs-david-michael' | relative_url }}">Jacobs, David Michael</a> in his “<a href="{{ '/ufo-history/ufo-books/jacobs-david-michael-the-ufo-controversy-in-america' | relative_url }}">The UFO Controversy in America</a>” (<a href="{{ '/tags/1975' | relative_url }}">1975</a>) (available <a href="http://www.amazon.com/dp/0253190061/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0253190061/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 198 (in Chapter 8) of the Indiana hardback edition, pages 175 of the Signet paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -182,10 +182,10 @@ For discussion of LeBailly’s memo see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1968">1968</a></p>
+<p><a href="{{ '/tags/1968' | relative_url }}">1968</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/saunders-david-r">Saunders, David R</a> and Harkins, R Roger in their “<a href="/ufo-history/ufo-books/saunders-david-r-and-harkins-r-roger-ufos-yes">UFOs? Yes!</a>” (<a href="/tags/1968">1968</a>) (available <a href="http://www.amazon.com/dp/B000LBSNHU/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000LBSNHU/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 24-25 (in Chapter 1) of the Signet paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/saunders-david-r' | relative_url }}">Saunders, David R</a> and Harkins, R Roger in their “<a href="{{ '/ufo-history/ufo-books/saunders-david-r-and-harkins-r-roger-ufos-yes' | relative_url }}">UFOs? Yes!</a>” (<a href="{{ '/tags/1968' | relative_url }}">1968</a>) (available <a href="http://www.amazon.com/dp/B000LBSNHU/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000LBSNHU/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 24-25 (in Chapter 1) of the Signet paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -193,10 +193,10 @@ For discussion of LeBailly’s memo see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1978">1978</a></p>
+<p><a href="{{ '/tags/1978' | relative_url }}">1978</a></p>
 </td>
 <td valign="top" width="547">
-<p>Stemman, Roy in his “Mysteries of the Universe: Great Mysteries” (<a href="/tags/1978">1978</a>) (available <a href="http://www.amazon.com/dp/1854710559/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1854710559/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 152-153 (in Chapter 7) of the Book Club Associates hardback edition.</p>
+<p>Stemman, Roy in his “Mysteries of the Universe: Great Mysteries” (<a href="{{ '/tags/1978' | relative_url }}">1978</a>) (available <a href="http://www.amazon.com/dp/1854710559/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1854710559/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 152-153 (in Chapter 7) of the Book Club Associates hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -204,10 +204,10 @@ For discussion of LeBailly’s memo see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1981">1981</a></p>
+<p><a href="{{ '/tags/1981' | relative_url }}">1981</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/story-ronald">Story, Ronald</a> in his “<a href="/ufo-history/ufo-books/story-ronald-ufos-and-the-limits-of-science">UFOs and the Limits of Science</a>” (<a href="/tags/1981">1981</a>) (available <a href="http://www.amazon.com/dp/0688001572/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0688001572/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 60 (in Chapter 2) of the NEL Hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Story, Ronald</a> in his “<a href="{{ '/ufo-history/ufo-books/story-ronald-ufos-and-the-limits-of-science' | relative_url }}">UFOs and the Limits of Science</a>” (<a href="{{ '/tags/1981' | relative_url }}">1981</a>) (available <a href="http://www.amazon.com/dp/0688001572/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0688001572/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 60 (in Chapter 2) of the NEL Hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -215,10 +215,10 @@ For discussion of LeBailly’s memo see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sturrock-peter-a">Sturrock, Peter</a> in his “<a href="/ufo-history/ufo-books/sturrock-peter-a-the-ufo-enigma">The UFO Enigma</a>“ (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0446525650/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0446525650/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 15 (in Chapter 2) of the Warner Aspect hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sturrock-peter-a' | relative_url }}">Sturrock, Peter</a> in his “<a href="{{ '/ufo-history/ufo-books/sturrock-peter-a-the-ufo-enigma' | relative_url }}">The UFO Enigma</a>“ (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0446525650/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0446525650/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 15 (in Chapter 2) of the Warner Aspect hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

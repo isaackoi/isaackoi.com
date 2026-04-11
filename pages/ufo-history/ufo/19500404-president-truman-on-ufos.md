@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -63,10 +63,10 @@ For discussion of President Truman’s remarks see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/berliner-don">Berliner, Don</a> with <a href="/ufo-history/ufo-personalities/galbraith-marie">Galbraith, Marie</a> and <a href="/ufo-history/ufo-personalities/huneeus-antonio">Huneeus, Antonio</a> in their “<a href="/ufo-history/ufo-books/berliner-don-with-galbraith-marie-and-huneeus-antonio-ufo-briefing-document-the-best-available-evidence">UFO Briefing Document : The Best Available Evidence</a>“ (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/044023638X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/044023638X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 160 of the Dell paperback edition (Part 3:Quotations, section entitled “Governments”).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/berliner-don' | relative_url }}">Berliner, Don</a> with <a href="{{ '/ufo-history/ufo-personalities/galbraith-marie' | relative_url }}">Galbraith, Marie</a> and <a href="{{ '/ufo-history/ufo-personalities/huneeus-antonio' | relative_url }}">Huneeus, Antonio</a> in their “<a href="{{ '/ufo-history/ufo-books/berliner-don-with-galbraith-marie-and-huneeus-antonio-ufo-briefing-document-the-best-available-evidence' | relative_url }}">UFO Briefing Document : The Best Available Evidence</a>“ (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/044023638X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/044023638X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 160 of the Dell paperback edition (Part 3:Quotations, section entitled “Governments”).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -74,10 +74,10 @@ For discussion of President Truman’s remarks see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/maccabee-bruce">Maccabee, Bruce</a> in his “<a href="/ufo-history/ufo-books/maccabee-bruce-ufo-fbi-connection">UFO-FBI Connection</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/1567184936/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1567184936/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 139-140 (in Chapter 14) of the Llewellyn softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/maccabee-bruce' | relative_url }}">Maccabee, Bruce</a> in his “<a href="{{ '/ufo-history/ufo-books/maccabee-bruce-ufo-fbi-connection' | relative_url }}">UFO-FBI Connection</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/1567184936/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1567184936/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 139-140 (in Chapter 14) of the Llewellyn softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -85,10 +85,10 @@ For discussion of President Truman’s remarks see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1950">1950</a></p>
+<p><a href="{{ '/tags/1950' | relative_url }}">1950</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/scully-frank">Scully, Frank</a> in his “<a href="/ufo-history/ufo-books/scully-frank-behind-the-flying-saucers">Behind the Flying Saucers</a>” (<a href="/tags/1950">1950</a>) (available <a href="http://www.amazon.com/dp/B000O3MUVK/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000O3MUVK/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 74-75 (in Chapter 7), 99 (in Chapter 9) of the Henry Holt hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/scully-frank' | relative_url }}">Scully, Frank</a> in his “<a href="{{ '/ufo-history/ufo-books/scully-frank-behind-the-flying-saucers' | relative_url }}">Behind the Flying Saucers</a>” (<a href="{{ '/tags/1950' | relative_url }}">1950</a>) (available <a href="http://www.amazon.com/dp/B000O3MUVK/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000O3MUVK/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 74-75 (in Chapter 7), 99 (in Chapter 9) of the Henry Holt hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -96,10 +96,10 @@ For discussion of President Truman’s remarks see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1993">1993</a></p>
+<p><a href="{{ '/tags/1993' | relative_url }}">1993</a></p>
 </td>
 <td valign="top" width="547">
-<p>Stone, Reuben in his “<a href="/ufo-history/ufo-books/stone-reuben-ufo-investigation">UFO Investigation</a>” (<a href="/tags/1993">1993</a>) (available <a href="http://www.amazon.com/dp/1856051285/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1856051285/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 4 (in the unnumbered chapter entitled “How Long Have They Been Here?”) of the Blitz Editions hardback edition.</p>
+<p>Stone, Reuben in his “<a href="{{ '/ufo-history/ufo-books/stone-reuben-ufo-investigation' | relative_url }}">UFO Investigation</a>” (<a href="{{ '/tags/1993' | relative_url }}">1993</a>) (available <a href="http://www.amazon.com/dp/1856051285/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1856051285/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 4 (in the unnumbered chapter entitled “How Long Have They Been Here?”) of the Blitz Editions hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -107,10 +107,10 @@ For discussion of President Truman’s remarks see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1971">1971</a></p>
+<p><a href="{{ '/tags/1971' | relative_url }}">1971</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/vesco-renato">Vesco, Renato</a> in his “<a href="/ufo-history/ufo-books/vesco-renato-intercept-ufo">Intercept Ufo</a>” (Formerly published as “Intercept - But Don't Shoot”) (<a href="/tags/1971">1971</a>) (available <a href="http://www.amazon.com/dp/0523008406/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0523008406/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 42 (in Chapter 2) of the Zebra paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/vesco-renato' | relative_url }}">Vesco, Renato</a> in his “<a href="{{ '/ufo-history/ufo-books/vesco-renato-intercept-ufo' | relative_url }}">Intercept Ufo</a>” (Formerly published as “Intercept - But Don't Shoot”) (<a href="{{ '/tags/1971' | relative_url }}">1971</a>) (available <a href="http://www.amazon.com/dp/0523008406/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0523008406/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 42 (in Chapter 2) of the Zebra paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -118,10 +118,10 @@ For discussion of President Truman’s remarks see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/von-buttlar-johannes">Von Buttlar, Johannes</a> in his “<a href="/ufo-history/ufo-books/von-buttlar-johannes-the-ufo-phenomenon">The UFO Phenomenon</a>” (<a href="/tags/1980">1980</a>) (available <a href="http://www.amazon.com/dp/0352306823/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0352306823/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 55 (in Chapter 4) of the Book Club Associates hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/von-buttlar-johannes' | relative_url }}">Von Buttlar, Johannes</a> in his “<a href="{{ '/ufo-history/ufo-books/von-buttlar-johannes-the-ufo-phenomenon' | relative_url }}">The UFO Phenomenon</a>” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) (available <a href="http://www.amazon.com/dp/0352306823/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0352306823/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 55 (in Chapter 4) of the Book Club Associates hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

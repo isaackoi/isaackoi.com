@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/davies_paul_2.jpg"}
 ---
 
-![davies_paul_2](/images/stories/ufo_personalities/davies_paul_2.jpg)
+![davies_paul_2]({{ '/images/stories/ufo_personalities/davies_paul_2.jpg' | relative_url }})
 
 *Paul Davies*
 
@@ -36,18 +36,18 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/davies-paul">Davies, Paul</a> “<a href="/ufo-history/ufo-books/davies-paul-are-we-alone">Are we Alone?</a>” (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/0465004180/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0465004180/?&amp;tag=ufot-21">on Amazon UK</a>) (<a href="/tags/seti">SETI</a>:)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/davies-paul' | relative_url }}">Davies, Paul</a> “<a href="{{ '/ufo-history/ufo-books/davies-paul-are-we-alone' | relative_url }}">Are we Alone?</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/0465004180/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0465004180/?&amp;tag=ufot-21">on Amazon UK</a>) (<a href="{{ '/tags/seti' | relative_url }}">SETI</a>:)</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/davies-paul">Davies, Paul</a> “The Fifth Miracle” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/068486309X/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/068486309X/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/davies-paul' | relative_url }}">Davies, Paul</a> “The Fifth Miracle” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/068486309X/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/068486309X/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>
@@ -93,10 +93,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2007">2007</a></p>
+<p><a href="{{ '/tags/2007' | relative_url }}">2007</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clarke-david">Clarke, David</a> and <a href="/ufo-history/ufo-personalities/roberts-andy">Roberts, Andy</a> in their “<a href="/ufo-history/ufo-books/clarke-david-and-roberts-andy-flying-saucerers">Flying Saucerers : A social history of UFOlogy</a>” (<a href="/tags/2007">2007</a>) (available <a href="http://www.amazon.com/dp/1905646003/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1905646003/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 67 (in Chapter 4) of the Alternative Albion softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clarke-david' | relative_url }}">Clarke, David</a> and <a href="{{ '/ufo-history/ufo-personalities/roberts-andy' | relative_url }}">Roberts, Andy</a> in their “<a href="{{ '/ufo-history/ufo-books/clarke-david-and-roberts-andy-flying-saucerers' | relative_url }}">Flying Saucerers : A social history of UFOlogy</a>” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (available <a href="http://www.amazon.com/dp/1905646003/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1905646003/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 67 (in Chapter 4) of the Alternative Albion softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -104,10 +104,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1979">1979</a></p>
+<p><a href="{{ '/tags/1979' | relative_url }}">1979</a></p>
 </td>
 <td valign="top" width="547">
-<p>Harold, Clive in his “<a href="/ufo-history/ufo-books/harold-clive-the-uninvited">The Uninvited</a>“ (<a href="/tags/1979">1979</a>) at page 169 (in the Epilogue) of the Star paperback edition.</p>
+<p>Harold, Clive in his “<a href="{{ '/ufo-history/ufo-books/harold-clive-the-uninvited' | relative_url }}">The Uninvited</a>“ (<a href="{{ '/tags/1979' | relative_url }}">1979</a>) at page 169 (in the Epilogue) of the Star paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -115,10 +115,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> and <a href="/ufo-history/ufo-personalities/hough-peter">Hough, Peter</a> in their “<a href="/ufo-history/ufo-books/randles-jenny-and-hough-peter-looking-for-the-aliens">Looking for the Aliens</a>” (<a href="/tags/1991">1991</a>) (available <a href="http://www.amazon.com/dp/0760704406/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0760704406/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 120-124 (in Chapter 14), 229 (in Chapter 23) of the Blandford softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> and <a href="{{ '/ufo-history/ufo-personalities/hough-peter' | relative_url }}">Hough, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-hough-peter-looking-for-the-aliens' | relative_url }}">Looking for the Aliens</a>” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/0760704406/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0760704406/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 120-124 (in Chapter 14), 229 (in Chapter 23) of the Blandford softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>6</p>

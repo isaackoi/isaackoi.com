@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -63,10 +63,10 @@ For discussion of the Drury movie film see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/chalker-bill">Chalker, Bill</a> in <a href="/ufo-history/ufo-personalities/clark-jerome">Jerome Clark</a>’s “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 340-342 (in an entry entitled “Drury Film”) of Volume 1:A-K of the Omnigraphics hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/chalker-bill' | relative_url }}">Chalker, Bill</a> in <a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Jerome Clark</a>’s “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition' | relative_url }}">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 340-342 (in an entry entitled “Drury Film”) of Volume 1:A-K of the Omnigraphics hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -74,10 +74,10 @@ For discussion of the Drury movie film see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2003">2003</a></p>
+<p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/druffel-ann">Druffel, Ann</a> in her “<a href="/ufo-history/ufo-books/druffel-ann-firestorm-dr-james-e-mcdonalds-fight-for-ufo-science">Firestorm : Dr James E McDonald's Fight for UFO Science</a>” (<a href="/tags/2003">2003</a>) (available <a href="http://www.amazon.com/dp/0926524585/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0926524585/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 174-178 (in Chapter 8) of the Wild Flower Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/druffel-ann' | relative_url }}">Druffel, Ann</a> in her “<a href="{{ '/ufo-history/ufo-books/druffel-ann-firestorm-dr-james-e-mcdonalds-fight-for-ufo-science' | relative_url }}">Firestorm : Dr James E McDonald's Fight for UFO Science</a>” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) (available <a href="http://www.amazon.com/dp/0926524585/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0926524585/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 174-178 (in Chapter 8) of the Wild Flower Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>
@@ -85,10 +85,10 @@ For discussion of the Drury movie film see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/hansen-terry">Hansen, Terry</a> in his “<a href="/ufo-history/ufo-books/hansen-terry-the-missing-times-news-media-complicity-in-the-ufo-cover-up">The Missing Times : News Media Complicity in the UFO Cover-Up</a> : News Media Complicity in the UFO Cover -Up” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/0738836125/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0738836125/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 184 (in Chapter 5) of the Xlibris softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hansen-terry' | relative_url }}">Hansen, Terry</a> in his “<a href="{{ '/ufo-history/ufo-books/hansen-terry-the-missing-times-news-media-complicity-in-the-ufo-cover-up' | relative_url }}">The Missing Times : News Media Complicity in the UFO Cover-Up</a> : News Media Complicity in the UFO Cover -Up” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/0738836125/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0738836125/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 184 (in Chapter 5) of the Xlibris softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -96,10 +96,10 @@ For discussion of the Drury movie film see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-investigating-the-truth-behind-mib">Investigating the Truth Behind MIB</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0312965214/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312965214/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 51-55 (in Chapter 4) of the Piatkus softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-investigating-the-truth-behind-mib' | relative_url }}">Investigating the Truth Behind MIB</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0312965214/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312965214/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 51-55 (in Chapter 4) of the Piatkus softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>
@@ -111,7 +111,7 @@ For discussion of the Drury movie film see the following:
 <a id="other"></a>
 ### Other Material
 
-Listed as Project Blue Book Case Number 2689 on the redacted US National Archives and Records Administration (“NARA”) microfilm records of Project Blue Book, released to the National Archives in [1975](/tags/1975) – see National Archives Microfilm Publication T1206 roll number 1. An image of the relevant index page has been given the unique Page ID (“PID”) of NARA-PBB1-102 (page 102 of 1014) at the link below.
+Listed as Project Blue Book Case Number 2689 on the redacted US National Archives and Records Administration (“NARA”) microfilm records of Project Blue Book, released to the National Archives in [1975]({{ '/tags/1975' | relative_url }}) – see National Archives Microfilm Publication T1206 roll number 1. An image of the relevant index page has been given the unique Page ID (“PID”) of NARA-PBB1-102 (page 102 of 1014) at the link below.
 
 Listed (without a Project Blue Book Case Number) on the unredacted Maxwell Air Force Base (“Maxwell”) microfilm records of Project Blue Book – see Maxwell microfilm roll number 30,363. An image of the relevant index page has been given the unique Page ID (“PID”) of MAXW-PBB2-335 (page 335 of 1352) at the link below.
 

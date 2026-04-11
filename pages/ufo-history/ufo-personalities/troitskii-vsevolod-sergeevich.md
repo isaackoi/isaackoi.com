@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/no_avatar.jpg"}
 ---
 
-![](/images/stories/no_avatar.jpg)
+![]({{ '/images/stories/no_avatar.jpg' | relative_url }})
 
 *Image needed*
 
@@ -57,10 +57,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1979">1979</a></p>
+<p><a href="{{ '/tags/1979' | relative_url }}">1979</a></p>
 </td>
 <td valign="top" width="547">
-<p>Boyce, Chris in his <a href="/ufo-history/ufo-books/boyce-chris-extraterrestrial-encounter">Extraterrestrial Encounter</a> (<a href="/tags/1979">1979</a>) (available <a href="http://www.amazon.com/dp/0890092486/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0890092486/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 90 (in Chapter 6) of the David &amp; Charles hardback edition, at page 81 of the <a href="/tags/1980">1980</a> revised NEL paperback edition.</p>
+<p>Boyce, Chris in his <a href="{{ '/ufo-history/ufo-books/boyce-chris-extraterrestrial-encounter' | relative_url }}">Extraterrestrial Encounter</a> (<a href="{{ '/tags/1979' | relative_url }}">1979</a>) (available <a href="http://www.amazon.com/dp/0890092486/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0890092486/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 90 (in Chapter 6) of the David &amp; Charles hardback edition, at page 81 of the <a href="{{ '/tags/1980' | relative_url }}">1980</a> revised NEL paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -68,10 +68,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1975">1975</a></p>
+<p><a href="{{ '/tags/1975' | relative_url }}">1975</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/chatelain-maurice">Chatelain, Maurice</a> in his “Our Ancestors Came From Outer Space” (<a href="/tags/1975">1975</a>) (available <a href="http://www.amazon.com/dp/0385125356/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0385125356/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 206 (in Chapter 12) of the Pan paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/chatelain-maurice' | relative_url }}">Chatelain, Maurice</a> in his “Our Ancestors Came From Outer Space” (<a href="{{ '/tags/1975' | relative_url }}">1975</a>) (available <a href="http://www.amazon.com/dp/0385125356/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0385125356/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 206 (in Chapter 12) of the Pan paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -79,10 +79,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1987">1987</a></p>
+<p><a href="{{ '/tags/1987' | relative_url }}">1987</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/chatelain-maurice">Chatelain, Maurice</a> in his “<a href="/ufo-history/ufo-books/chatelain-maurice-our-cosmic-ancestors">Our Cosmic Ancestors</a>” (<a href="/tags/1987">1987</a>) (available <a href="http://www.amazon.com/dp/0929686004/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0929686004/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 186 (in the unnumbered chapter entitled “Extraterrestrial Civilizations”) of the Temple Golden Publications softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/chatelain-maurice' | relative_url }}">Chatelain, Maurice</a> in his “<a href="{{ '/ufo-history/ufo-books/chatelain-maurice-our-cosmic-ancestors' | relative_url }}">Our Cosmic Ancestors</a>” (<a href="{{ '/tags/1987' | relative_url }}">1987</a>) (available <a href="http://www.amazon.com/dp/0929686004/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0929686004/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 186 (in the unnumbered chapter entitled “Extraterrestrial Civilizations”) of the Temple Golden Publications softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -90,10 +90,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Davidson, Keay in his “<a href="/ufo-history/ufo-personalities/sagan-carl">Carl Sagan</a>: A Life” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0471395366/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0471395366/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 486 (in the Notes) of the Wiley softcover edition.</p>
+<p>Davidson, Keay in his “<a href="{{ '/ufo-history/ufo-personalities/sagan-carl' | relative_url }}">Carl Sagan</a>: A Life” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0471395366/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0471395366/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 486 (in the Notes) of the Wiley softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -101,10 +101,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/drake-frank">Drake, Frank</a> and Dava Sobel in their “<a href="/ufo-history/ufo-books/drake-frank-and-sobel-dava-is-anyone-out-there">Is Anyone Out There?</a>“ (<a href="/tags/1991">1991</a>) (available <a href="http://www.amazon.com/dp/038530532X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/038530532X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 105-106 (in Chapter 5) of the Pocket Books paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/drake-frank' | relative_url }}">Drake, Frank</a> and Dava Sobel in their “<a href="{{ '/ufo-history/ufo-books/drake-frank-and-sobel-dava-is-anyone-out-there' | relative_url }}">Is Anyone Out There?</a>“ (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/038530532X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/038530532X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 105-106 (in Chapter 5) of the Pocket Books paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -112,10 +112,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fitzgerald-randall">Fitzgerald, Randall</a> in his “<a href="/ufo-history/ufo-books/fitzgerald-randall-the-cosmic-test-tube">The Cosmic Test Tube</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0963916122/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963916122/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 335 (in Section 5) of the Moonlake Media softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }}">Fitzgerald, Randall</a> in his “<a href="{{ '/ufo-history/ufo-books/fitzgerald-randall-the-cosmic-test-tube' | relative_url }}">The Cosmic Test Tube</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0963916122/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963916122/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 335 (in Section 5) of the Moonlake Media softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -123,10 +123,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1979">1979</a></p>
+<p><a href="{{ '/tags/1979' | relative_url }}">1979</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/holroyd-stuart">Holroyd, Stuart</a> in his “Alien Intelligence” (<a href="/tags/1979">1979</a>) (available <a href="http://www.amazon.com/dp/0896960404/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0896960404/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 152, 155 (in Chapter 6) of the David &amp; Charles hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/holroyd-stuart' | relative_url }}">Holroyd, Stuart</a> in his “Alien Intelligence” (<a href="{{ '/tags/1979' | relative_url }}">1979</a>) (available <a href="http://www.amazon.com/dp/0896960404/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0896960404/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 152, 155 (in Chapter 6) of the David &amp; Charles hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -134,10 +134,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1983">1983</a></p>
+<p><a href="{{ '/tags/1983' | relative_url }}">1983</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/ridpath-ian">Ridpath, Ian</a> in his “Life Off Earth” (<a href="/tags/1983">1983</a>) (available <a href="http://www.amazon.com/dp/0246119330/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0246119330/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 106 (in Chapter 9) of the Granada hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/ridpath-ian' | relative_url }}">Ridpath, Ian</a> in his “Life Off Earth” (<a href="{{ '/tags/1983' | relative_url }}">1983</a>) (available <a href="http://www.amazon.com/dp/0246119330/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0246119330/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 106 (in Chapter 9) of the Granada hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -145,10 +145,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1978">1978</a></p>
+<p><a href="{{ '/tags/1978' | relative_url }}">1978</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/ridpath-ian">Ridpath, Ian</a> in his “<a href="/ufo-history/ufo-books/ridpath-ian-messages-from-the-stars">Messages from the Stars</a>” (<a href="/tags/1978">1978</a>) (available <a href="http://www.amazon.com/dp/0060135891/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0060135891/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 122 (in Chapter 7), 160-161 (in Chapter 10) of the Fontana paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/ridpath-ian' | relative_url }}">Ridpath, Ian</a> in his “<a href="{{ '/ufo-history/ufo-books/ridpath-ian-messages-from-the-stars' | relative_url }}">Messages from the Stars</a>” (<a href="{{ '/tags/1978' | relative_url }}">1978</a>) (available <a href="http://www.amazon.com/dp/0060135891/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0060135891/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 122 (in Chapter 7), 160-161 (in Chapter 10) of the Fontana paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>10</p>
@@ -156,10 +156,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1975">1975</a></p>
+<p><a href="{{ '/tags/1975' | relative_url }}">1975</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/ridpath-ian">Ridpath, Ian</a> in his “<a href="/ufo-history/ufo-books/ridpath-ian-worlds-beyond">Worlds Beyond</a>” (<a href="/tags/1975">1975</a>) (available <a href="http://www.amazon.com/dp/0060135689/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0060135689/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 125-126 (in Chapter 7), 161 (in Chapter 9) of the Wildwood House softcover edition, at page 134 of the revised <a href="/tags/1977">1977</a> Penguin softcover edition entitled “Signs of Life”.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/ridpath-ian' | relative_url }}">Ridpath, Ian</a> in his “<a href="{{ '/ufo-history/ufo-books/ridpath-ian-worlds-beyond' | relative_url }}">Worlds Beyond</a>” (<a href="{{ '/tags/1975' | relative_url }}">1975</a>) (available <a href="http://www.amazon.com/dp/0060135689/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0060135689/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 125-126 (in Chapter 7), 161 (in Chapter 9) of the Wildwood House softcover edition, at page 134 of the revised <a href="{{ '/tags/1977' | relative_url }}">1977</a> Penguin softcover edition entitled “Signs of Life”.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -167,10 +167,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1973">1973</a></p>
+<p><a href="{{ '/tags/1973' | relative_url }}">1973</a></p>
 </td>
 <td valign="top" width="547">
-<p>Roulet, Alfred in his “The Search for Intelligent Life in Outer Space” (<a href="/tags/1973">1973</a>) (available <a href="http://www.amazon.com/dp/0425033198/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0425033198/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 145 (in the unnumbered chapter entitled “The Project Cyclops”) of the Berkley paperback edition.</p>
+<p>Roulet, Alfred in his “The Search for Intelligent Life in Outer Space” (<a href="{{ '/tags/1973' | relative_url }}">1973</a>) (available <a href="http://www.amazon.com/dp/0425033198/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0425033198/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 145 (in the unnumbered chapter entitled “The Project Cyclops”) of the Berkley paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -178,10 +178,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1985">1985</a></p>
+<p><a href="{{ '/tags/1985' | relative_url }}">1985</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sagan-carl">Sagan, Carl</a> in his “Contact” (<a href="/tags/1985">1985</a>) at page 77 (in Chapter 4) of the Legend paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sagan-carl' | relative_url }}">Sagan, Carl</a> in his “Contact” (<a href="{{ '/tags/1985' | relative_url }}">1985</a>) at page 77 (in Chapter 4) of the Legend paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -189,10 +189,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1976">1976</a></p>
+<p><a href="{{ '/tags/1976' | relative_url }}">1976</a></p>
 </td>
 <td valign="top" width="547">
-<p>Stoneley, Jack and Lawton, A T in their “<a href="/ufo-history/ufo-books/stoneley-jack-and-lawton-a-t-ceti-communication-with-extra-terrestrial-intelligence">CETI: Communication with Extra-Terrestrial Intelligence</a>” (<a href="/tags/1976">1976</a>) (available <a href="http://www.amazon.com/dp/B000PRMOWK/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000PRMOWK/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 20-25 (in Chapter 1) of the Star Books paperback edition.</p>
+<p>Stoneley, Jack and Lawton, A T in their “<a href="{{ '/ufo-history/ufo-books/stoneley-jack-and-lawton-a-t-ceti-communication-with-extra-terrestrial-intelligence' | relative_url }}">CETI: Communication with Extra-Terrestrial Intelligence</a>” (<a href="{{ '/tags/1976' | relative_url }}">1976</a>) (available <a href="http://www.amazon.com/dp/B000PRMOWK/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000PRMOWK/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 20-25 (in Chapter 1) of the Star Books paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>6</p>
@@ -200,10 +200,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1974">1974</a></p>
+<p><a href="{{ '/tags/1974' | relative_url }}">1974</a></p>
 </td>
 <td valign="top" width="547">
-<p>Stoneley, Jack and Lawton, A T in their “Is Anyone Out There?” (<a href="/tags/1974">1974</a>) (available <a href="http://www.amazon.com/dp/0352300604/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0352300604/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 9-10 (in the Introduction) of the Star Books paperback edition.</p>
+<p>Stoneley, Jack and Lawton, A T in their “Is Anyone Out There?” (<a href="{{ '/tags/1974' | relative_url }}">1974</a>) (available <a href="http://www.amazon.com/dp/0352300604/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0352300604/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 9-10 (in the Introduction) of the Star Books paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

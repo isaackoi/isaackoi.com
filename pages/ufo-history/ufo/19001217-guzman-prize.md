@@ -13,15 +13,15 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/seti_1.jpg"}
 ---
 
-![seti_1](/images/stories/ufo_tags/seti_1.jpg)
+![seti_1]({{ '/images/stories/ufo_tags/seti_1.jpg' | relative_url }})
 
 *Guzman Prize*
 
-[SETI](/tags/seti): The Pierre Guzman prize (commonly referred to as “the Guzman Prize”) of one hundred thousand francs is announced in Paris by Clara Gouguet in memory of her son by a former marriage. The prize was to be awarded “a celui qui aura trouve le moyen de communiquer avec an astre autre que la planet Mars (“to him who has found the means of communicating with a star other than Mars”).
+[SETI]({{ '/tags/seti' | relative_url }}): The Pierre Guzman prize (commonly referred to as “the Guzman Prize”) of one hundred thousand francs is announced in Paris by Clara Gouguet in memory of her son by a former marriage. The prize was to be awarded “a celui qui aura trouve le moyen de communiquer avec an astre autre que la planet Mars (“to him who has found the means of communicating with a star other than Mars”).
 
 The prize was administered by the French Academy of Sciences.
 
-(The date of the announcement of the prize various from source to source, e.g. Moore says [1900](/tags/1900).1217 whereas Crowe says 1891).
+(The date of the announcement of the prize various from source to source, e.g. Moore says [1900]({{ '/tags/1900' | relative_url }}).1217 whereas Crowe says 1891).
 
 1. [Web Resources](#web)
 
@@ -61,10 +61,10 @@ For discussion of the Guzman prize see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Chambers, Paul in his “Life On Mars” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0713727470/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713727470/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 49 (in Chapter 1) of the Blandford hardback edition.</p>
+<p>Chambers, Paul in his “Life On Mars” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0713727470/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713727470/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 49 (in Chapter 1) of the Blandford hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -72,10 +72,10 @@ For discussion of the Guzman prize see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1986">1986</a></p>
+<p><a href="{{ '/tags/1986' | relative_url }}">1986</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/crowe-michael-j">Crowe, Michael J</a> in his “<a href="/ufo-history/ufo-books/crowe-michael-j-the-extraterrestrial-life-debate-1750-1900">The Extraterrestrial Life Debate, 1750-1900</a>” (<a href="/tags/1986">1986</a>) (available <a href="http://www.amazon.com/dp/048640675X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/048640675X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 394-395, 396, 397 (in Chapter 8) of the <a href="/tags/1999">1999</a> Dover softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/crowe-michael-j' | relative_url }}">Crowe, Michael J</a> in his “<a href="{{ '/ufo-history/ufo-books/crowe-michael-j-the-extraterrestrial-life-debate-1750-1900' | relative_url }}">The Extraterrestrial Life Debate, 1750-1900</a>” (<a href="{{ '/tags/1986' | relative_url }}">1986</a>) (available <a href="http://www.amazon.com/dp/048640675X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/048640675X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 394-395, 396, 397 (in Chapter 8) of the <a href="{{ '/tags/1999' | relative_url }}">1999</a> Dover softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -83,10 +83,10 @@ For discussion of the Guzman prize see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/darling-david">Darling, David</a> in his “<a href="/ufo-history/ufo-books/darling-david-the-extraterrestrial-encyclopedia">The Extraterrestrial Encyclopedia</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/081293248X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/081293248X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 84 (in the entry entitled “communication, with the Moon and planets”), 177 (in the entry entitled “Guzman Prize”) of the Three Rivers softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/darling-david' | relative_url }}">Darling, David</a> in his “<a href="{{ '/ufo-history/ufo-books/darling-david-the-extraterrestrial-encyclopedia' | relative_url }}">The Extraterrestrial Encyclopedia</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/081293248X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/081293248X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 84 (in the entry entitled “communication, with the Moon and planets”), 177 (in the entry entitled “Guzman Prize”) of the Three Rivers softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -94,10 +94,10 @@ For discussion of the Guzman prize see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2003">2003</a></p>
+<p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/darling-david">Darling, David</a> in his online encyclopedia, “The Encyclopedia of Astrobiology, Astronomy and Spaceflight” (<a href="/tags/2003">2003</a>) in the entry entitled “communication, with the Moon and planets”) and in the entry entitled “Guzman Prize”). The relevant entries are available online at:</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/darling-david' | relative_url }}">Darling, David</a> in his online encyclopedia, “The Encyclopedia of Astrobiology, Astronomy and Spaceflight” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) in the entry entitled “communication, with the Moon and planets”) and in the entry entitled “Guzman Prize”). The relevant entries are available online at:</p>
 <p><a href="http://www.daviddarling.info/encyclopedia/G/Guzman.html">http://www.daviddarling.info/encyclopedia/G/Guzman.html</a></p>
 <p><a href="http://www.daviddarling.info/encyclopedia/C/commMoon.html">http://www.daviddarling.info/encyclopedia/C/commMoon.html</a></p>
 </td>
@@ -107,10 +107,10 @@ For discussion of the Guzman prize see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/hancock-graham">Hancock, Graham</a> in his “<a href="/ufo-history/ufo-books/hancock-graham-the-mars-mystery">The Mars Mystery</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0609600869/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0609600869/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 55 (in Chapter 5) of the Crown hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hancock-graham' | relative_url }}">Hancock, Graham</a> in his “<a href="{{ '/ufo-history/ufo-books/hancock-graham-the-mars-mystery' | relative_url }}">The Mars Mystery</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0609600869/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0609600869/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 55 (in Chapter 5) of the Crown hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -118,10 +118,10 @@ For discussion of the Guzman prize see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Hennessey, Roger in his “<a href="/ufo-history/ufo-books/hennessey-roger-a-s-worlds-without-end-the-historic-search-for-extraterrestrial-life">Worlds Without End : The Historic Search for Extraterrestrial Life</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/075241450X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/075241450X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 95 (in Chapter 10) of the Tempus hardback edition.</p>
+<p>Hennessey, Roger in his “<a href="{{ '/ufo-history/ufo-books/hennessey-roger-a-s-worlds-without-end-the-historic-search-for-extraterrestrial-life' | relative_url }}">Worlds Without End : The Historic Search for Extraterrestrial Life</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/075241450X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/075241450X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 95 (in Chapter 10) of the Tempus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -129,10 +129,10 @@ For discussion of the Guzman prize see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p>Lemonick, Michael in his “<a href="/ufo-history/ufo-books/sagan-carl-other-worlds">Other Worlds</a>“ (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0684832941/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684832941/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 40 (in Chapter 1) of the Simon &amp; Schuster hardback edition (with the same page numbering in the Simon &amp; Schuster softcover edition).</p>
+<p>Lemonick, Michael in his “<a href="{{ '/ufo-history/ufo-books/sagan-carl-other-worlds' | relative_url }}">Other Worlds</a>“ (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0684832941/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684832941/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 40 (in Chapter 1) of the Simon &amp; Schuster hardback edition (with the same page numbering in the Simon &amp; Schuster softcover edition).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -140,10 +140,10 @@ For discussion of the Guzman prize see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1963">1963</a></p>
+<p><a href="{{ '/tags/1963' | relative_url }}">1963</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/ley-willy">Ley, Willy</a> in his “Watchers of the Skies” (<a href="/tags/1963">1963</a>) (available <a href="http://www.amazon.com/dp/B0000CM5HJ/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0000CM5HJ/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 294-295 (in Chapter 12) of the Sidgwick and Jackson hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/ley-willy' | relative_url }}">Ley, Willy</a> in his “Watchers of the Skies” (<a href="{{ '/tags/1963' | relative_url }}">1963</a>) (available <a href="http://www.amazon.com/dp/B0000CM5HJ/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0000CM5HJ/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 294-295 (in Chapter 12) of the Sidgwick and Jackson hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -151,10 +151,10 @@ For discussion of the Guzman prize see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p>Marvels and Mysteries (Editors Of) in “Marvels and Mysteries: Aliens” (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/075251217X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/075251217X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 39 of the Parrallel softcover edition.</p>
+<p>Marvels and Mysteries (Editors Of) in “Marvels and Mysteries: Aliens” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/075251217X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/075251217X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 39 of the Parrallel softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -162,10 +162,10 @@ For discussion of the Guzman prize see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/moore-patrick">Moore, Patrick</a> in his “On Mars” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/1844035468/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1844035468/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 16 (in Chapter 1) of the Seven Dials softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/moore-patrick' | relative_url }}">Moore, Patrick</a> in his “On Mars” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/1844035468/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1844035468/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 16 (in Chapter 1) of the Seven Dials softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -173,10 +173,10 @@ For discussion of the Guzman prize see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2003">2003</a></p>
+<p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
-<p>Pillinger, Colin in his “Beagle” (<a href="/tags/2003">2003</a>) (available <a href="http://www.amazon.com/dp/0571223230/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0571223230/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 49 (in the unnumbered chapter entitled “Is there Life on Mars?”) of the Faber and Faber hardback edition.</p>
+<p>Pillinger, Colin in his “Beagle” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) (available <a href="http://www.amazon.com/dp/0571223230/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0571223230/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 49 (in the unnumbered chapter entitled “Is there Life on Mars?”) of the Faber and Faber hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

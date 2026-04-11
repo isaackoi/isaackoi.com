@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/no_avatar.jpg"}
 ---
 
-![](/images/stories/no_avatar.jpg)
+![]({{ '/images/stories/no_avatar.jpg' | relative_url }})
 
 *Image needed*
 
@@ -36,18 +36,18 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/halliday-ron">Halliday, Ron</a> “<a href="/ufo-history/ufo-books/halliday-ron-mcx-scotlands-x-files">McX : Scotland's X-Files</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1873631774/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1873631774/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/halliday-ron' | relative_url }}">Halliday, Ron</a> “<a href="{{ '/ufo-history/ufo-books/halliday-ron-mcx-scotlands-x-files' | relative_url }}">McX : Scotland's X-Files</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1873631774/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1873631774/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/halliday-ron">Halliday, Ron</a> “UFO Scotland”</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/halliday-ron' | relative_url }}">Halliday, Ron</a> “UFO Scotland”</p>
 </td>
 </tr>
 </tbody>

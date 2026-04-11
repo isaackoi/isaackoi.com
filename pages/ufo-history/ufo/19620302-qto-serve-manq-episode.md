@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -63,10 +63,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/alnor-william-m">Alnor, William M</a> in his “<a href="/ufo-history/ufo-books/alnor-william-m-ufo-in-the-new-age">UFO in the New Age</a>” (<a href="/tags/1992">1992</a>) (available <a href="http://www.amazon.com/dp/0801002265/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0801002265/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 122 (in Chapter 7) of the Baker softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/alnor-william-m' | relative_url }}">Alnor, William M</a> in his “<a href="{{ '/ufo-history/ufo-books/alnor-william-m-ufo-in-the-new-age' | relative_url }}">UFO in the New Age</a>” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="http://www.amazon.com/dp/0801002265/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0801002265/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 122 (in Chapter 7) of the Baker softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -74,10 +74,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p>Mannion, Michael in his “<a href="/ufo-history/ufo-books/mannion-michael-project-mindshift">Project Mindshift</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0871318563/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0871318563/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 198 (in Chapter 7) of the Evans hardback edition.</p>
+<p>Mannion, Michael in his “<a href="{{ '/ufo-history/ufo-books/mannion-michael-project-mindshift' | relative_url }}">Project Mindshift</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0871318563/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0871318563/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 198 (in Chapter 7) of the Evans hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -85,10 +85,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1977">1977</a></p>
+<p><a href="{{ '/tags/1977' | relative_url }}">1977</a></p>
 </td>
 <td valign="top" width="547">
-<p>Naha, Ed in his “Science Fiction Aliens - Starlog Photo Guidebook” (<a href="/tags/1977">1977</a>) (available <a href="http://www.amazon.com/dp/0931064015/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0931064015/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 93 (in the unnumbered section entitled “Television Shows”) of the Starlog softcover edition.</p>
+<p>Naha, Ed in his “Science Fiction Aliens - Starlog Photo Guidebook” (<a href="{{ '/tags/1977' | relative_url }}">1977</a>) (available <a href="http://www.amazon.com/dp/0931064015/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0931064015/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 93 (in the unnumbered section entitled “Television Shows”) of the Starlog softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -96,10 +96,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/rux-bruce">Rux, Bruce</a> in his “<a href="/ufo-history/ufo-books/rux-bruce-hollywood-vs-the-aliens">Hollywood Vs. the Aliens</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1883319617/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1883319617/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 305 (in Chapter 6) of the Frog softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/rux-bruce' | relative_url }}">Rux, Bruce</a> in his “<a href="{{ '/ufo-history/ufo-books/rux-bruce-hollywood-vs-the-aliens' | relative_url }}">Hollywood Vs. the Aliens</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1883319617/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1883319617/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 305 (in Chapter 6) of the Frog softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

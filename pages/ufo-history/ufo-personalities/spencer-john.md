@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/spencer_john_1.jpg"}
 ---
 
-![spencer_john_1](/images/stories/ufo_personalities/spencer_john_1.jpg)
+![spencer_john_1]({{ '/images/stories/ufo_personalities/spencer_john_1.jpg' | relative_url }})
 
 *John Spencer*
 
@@ -36,66 +36,66 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1987">1987</a></p>
+<p><a href="{{ '/tags/1987' | relative_url }}">1987</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/evans-hilary">Evans, Hilary</a> and <a href="/ufo-history/ufo-personalities/spencer-john">Spencer, John</a> “<a href="/ufo-history/ufo-books/evans-hilary-and-spencer-john-ufo-1947-1987">UFO: 1947-1987</a>” (<a href="/tags/1987">1987</a>) (available <a href="http://www.amazon.com/dp/1870021029/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1870021029/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }}">Evans, Hilary</a> and <a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">Spencer, John</a> “<a href="{{ '/ufo-history/ufo-books/evans-hilary-and-spencer-john-ufo-1947-1987' | relative_url }}">UFO: 1947-1987</a>” (<a href="{{ '/tags/1987' | relative_url }}">1987</a>) (available <a href="http://www.amazon.com/dp/1870021029/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1870021029/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1988">1988</a></p>
+<p><a href="{{ '/tags/1988' | relative_url }}">1988</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/spencer-john">Spencer, John</a> and <a href="/ufo-history/ufo-personalities/evans-hilary">Evans, Hilary</a> “<a href="/ufo-history/ufo-books/spencer-john-and-evans-hilary-phenomenon">Phenomenon</a>” (<a href="/tags/1988">1988</a>) (available <a href="http://www.amazon.com/dp/0380706547/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380706547/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">Spencer, John</a> and <a href="{{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }}">Evans, Hilary</a> “<a href="{{ '/ufo-history/ufo-books/spencer-john-and-evans-hilary-phenomenon' | relative_url }}">Phenomenon</a>” (<a href="{{ '/tags/1988' | relative_url }}">1988</a>) (available <a href="http://www.amazon.com/dp/0380706547/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380706547/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1989">1989</a></p>
+<p><a href="{{ '/tags/1989' | relative_url }}">1989</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/spencer-john">Spencer, John</a> “<a href="/ufo-history/ufo-books/spencer-john-perspectives">Perspectives</a>” (<a href="/tags/1989">1989</a>) (available <a href="http://www.amazon.com/dp/0708847781/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0708847781/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">Spencer, John</a> “<a href="{{ '/ufo-history/ufo-books/spencer-john-perspectives' | relative_url }}">Perspectives</a>” (<a href="{{ '/tags/1989' | relative_url }}">1989</a>) (available <a href="http://www.amazon.com/dp/0708847781/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0708847781/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/spencer-john">Spencer, John</a> “<a href="/ufo-history/ufo-books/spencer-john-the-ufo-encyclopedia">The UFO Encyclopedia</a>” (<a href="/tags/1991">1991</a>) (available <a href="http://www.amazon.com/dp/0380768879/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380768879/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">Spencer, John</a> “<a href="{{ '/ufo-history/ufo-books/spencer-john-the-ufo-encyclopedia' | relative_url }}">The UFO Encyclopedia</a>” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/0380768879/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380768879/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/spencer-john">Spencer, John</a> “<a href="/ufo-history/ufo-books/spencer-john-ufos-the-definitive-casebook">UFOs: The Definitive Casebook</a>” (<a href="/tags/1991">1991</a>) (available <a href="http://www.amazon.com/dp/B000S52VNG/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000S52VNG/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">Spencer, John</a> “<a href="{{ '/ufo-history/ufo-books/spencer-john-ufos-the-definitive-casebook' | relative_url }}">UFOs: The Definitive Casebook</a>” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/B000S52VNG/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000S52VNG/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/spencer-john">Spencer, John</a> “<a href="/ufo-history/ufo-books/spencer-john-gifts-of-the-gods">Gifts of the Gods?</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/0863698212/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0863698212/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">Spencer, John</a> “<a href="{{ '/ufo-history/ufo-books/spencer-john-gifts-of-the-gods' | relative_url }}">Gifts of the Gods?</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/0863698212/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0863698212/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/spencer-john">Spencer, John</a> and Spencer, Anne “<a href="/ufo-history/ufo-books/spencer-john-fifty-years-of-ufos">Fifty Years of UFOs</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1852839244/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1852839244/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">Spencer, John</a> and Spencer, Anne “<a href="{{ '/ufo-history/ufo-books/spencer-john-fifty-years-of-ufos' | relative_url }}">Fifty Years of UFOs</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1852839244/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1852839244/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/spencer-john">Spencer, John</a> and Spencer, Anne “<a href="/ufo-history/ufo-books/spencer-john-true-life-encounters-alien-contact">True Life Encounters – Alien Contact</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1575000237/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1575000237/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">Spencer, John</a> and Spencer, Anne “<a href="{{ '/ufo-history/ufo-books/spencer-john-true-life-encounters-alien-contact' | relative_url }}">True Life Encounters – Alien Contact</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1575000237/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1575000237/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>
@@ -139,10 +139,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1988">1988</a></p>
+<p><a href="{{ '/tags/1988' | relative_url }}">1988</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/boyd-robert-d">Boyd, Robert D</a> in his “International Who’s Who in Ufology Directory” (<a href="/tags/1988">1988</a>) at page 198 of the PMT Publishing softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/boyd-robert-d' | relative_url }}">Boyd, Robert D</a> in his “International Who’s Who in Ufology Directory” (<a href="{{ '/tags/1988' | relative_url }}">1988</a>) at page 198 of the PMT Publishing softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -150,10 +150,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/pope-nick">Pope, Nick</a> in his “<a href="/ufo-history/ufo-books/pope-nick-open-skies-closed-minds">Open Skies, Closed Minds</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/0684816644/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684816644/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 58 (in Chapter 3) of the Simon and Schuster hardback edition, with the same page numbering in the Pocket Books paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/pope-nick' | relative_url }}">Pope, Nick</a> in his “<a href="{{ '/ufo-history/ufo-books/pope-nick-open-skies-closed-minds' | relative_url }}">Open Skies, Closed Minds</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/0684816644/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684816644/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 58 (in Chapter 3) of the Simon and Schuster hardback edition, with the same page numbering in the Pocket Books paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -161,10 +161,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1993">1993</a></p>
+<p><a href="{{ '/tags/1993' | relative_url }}">1993</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/good-timothy">Good, Timothy</a> in “Alien Update” (<a href="/tags/1993">1993</a>) (edited by <a href="/ufo-history/ufo-personalities/good-timothy">Timothy Good</a>) (available <a href="http://www.amazon.com/dp/0099257610/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0099257610/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 87 (in the Editor’s introduction to Chapter 7) of the Arrow paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/good-timothy' | relative_url }}">Good, Timothy</a> in “Alien Update” (<a href="{{ '/tags/1993' | relative_url }}">1993</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/good-timothy' | relative_url }}">Timothy Good</a>) (available <a href="http://www.amazon.com/dp/0099257610/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0099257610/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 87 (in the Editor’s introduction to Chapter 7) of the Arrow paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

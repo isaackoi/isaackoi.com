@@ -13,7 +13,7 @@ planned_sections: []
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -35,4 +35,4 @@ Leslie James (“Jim”) Lorenzen
 
 .
 
-See the separate entry in relation to [APRO](/ufo-history/ufo-personalities/apro).
+See the separate entry in relation to [APRO]({{ '/ufo-history/ufo-personalities/apro' | relative_url }}).

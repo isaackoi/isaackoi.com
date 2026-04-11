@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/1933665300.jpg"}
 book: {"identifiers": ["1933665300", "1575000229", "1558887423", "0451204247", "1841196134", "0963916122", "1880090627", "0880642262"], "primary_isbn": "1933665300", "cover_image": "/book-covers/1933665300.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Jacques Vallee](/ufo-history/ufo-personalities/vallee-jacques)'s book “[Revelations: Alien Contact and Human Deception](/ufo-history/ufo-books/vallee-jacques-revelations-alien-contact-and-human-deception)” ([1991](/tags/1991)) (available [on Amazon USA](http://www.amazon.com/dp/1933665300/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1933665300/?&tag=ufot-21))
+Brief review to be added of [Jacques Vallee]({{ '/ufo-history/ufo-personalities/vallee-jacques' | relative_url }})'s book “[Revelations: Alien Contact and Human Deception]({{ '/ufo-history/ufo-books/vallee-jacques-revelations-alien-contact-and-human-deception' | relative_url }})” ([1991]({{ '/tags/1991' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1933665300/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1933665300/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -34,7 +34,7 @@ The table below includes references to relevant discussions in UFO/SETI books no
 
 Many of the tables of references on this website are considerably longer than the references to books found on most other UFO websites. Indeed, some are probably the longest that have been collated in relation to some events and personalities. I hope that these tables are found to be a useful contribution to UFOlogy.
 
-For discussion of Vallee’s “[Revelations: Alien Contact and Human Deception](/ufo-history/ufo-books/vallee-jacques-revelations-alien-contact-and-human-deception)“ see the following:
+For discussion of Vallee’s “[Revelations: Alien Contact and Human Deception]({{ '/ufo-history/ufo-books/vallee-jacques-revelations-alien-contact-and-human-deception' | relative_url }})“ see the following:
 
 <table border="1" cellpadding="0" cellspacing="0" class="sortable" data-sortable="true" id="sortabletable">
 <thead>
@@ -54,10 +54,10 @@ For discussion of Vallee’s “[Revelations: Alien Contact and Human Deception]
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/baker-alan">Baker, Alan</a> in his “Sci-Fi Channel: True Life Encounters: UFO Sightings” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1575000229/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1575000229/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 84-88 (in Chapter 3) of the Orion softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/baker-alan' | relative_url }}">Baker, Alan</a> in his “Sci-Fi Channel: True Life Encounters: UFO Sightings” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1575000229/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1575000229/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 84-88 (in Chapter 3) of the Orion softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>
@@ -65,10 +65,10 @@ For discussion of Vallee’s “[Revelations: Alien Contact and Human Deception]
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq">The UFO Encyclopedia: 1st edition</a>: Volume 3 – High Strangeness” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/1558887423/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558887423/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 375, 378 of the Omnigraphics hardback edition in an entry entitled “Paranormal and Occult Theories about UFOs”.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq' | relative_url }}">The UFO Encyclopedia: 1st edition</a>: Volume 3 – High Strangeness” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/1558887423/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558887423/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 375, 378 of the Omnigraphics hardback edition in an entry entitled “Paranormal and Occult Theories about UFOs”.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -76,10 +76,10 @@ For discussion of Vallee’s “[Revelations: Alien Contact and Human Deception]
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fitzgerald-randall">Fitzgerald, Randall</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 493 (in an entry entitled “<a href="/ufo-history/ufo-books/vallee-jacques-revelations-alien-contact-and-human-deception">Revelations: Alien Contact and Human Deception</a>“) of the New American Library softcover edition, at page 482 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }}">Fitzgerald, Randall</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 493 (in an entry entitled “<a href="{{ '/ufo-history/ufo-books/vallee-jacques-revelations-alien-contact-and-human-deception' | relative_url }}">Revelations: Alien Contact and Human Deception</a>“) of the New American Library softcover edition, at page 482 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -87,10 +87,10 @@ For discussion of Vallee’s “[Revelations: Alien Contact and Human Deception]
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fitzgerald-randall">Fitzgerald, Randall</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 592 (in an entry entitled “<a href="/ufo-history/ufo-books/vallee-jacques-revelations-alien-contact-and-human-deception">Revelations: Alien Contact and Human Deception</a>“) of the Robinson softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }}">Fitzgerald, Randall</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 592 (in an entry entitled “<a href="{{ '/ufo-history/ufo-books/vallee-jacques-revelations-alien-contact-and-human-deception' | relative_url }}">Revelations: Alien Contact and Human Deception</a>“) of the Robinson softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -98,10 +98,10 @@ For discussion of Vallee’s “[Revelations: Alien Contact and Human Deception]
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fitzgerald-randall">Fitzgerald, Randall</a> in his “<a href="/ufo-history/ufo-books/fitzgerald-randall-the-cosmic-test-tube">The Cosmic Test Tube</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0963916122/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963916122/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 176-178 (in Section 2) with a one sentence summary at page 373 (in the Guide To Books) of the Moonlake Media softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }}">Fitzgerald, Randall</a> in his “<a href="{{ '/ufo-history/ufo-books/fitzgerald-randall-the-cosmic-test-tube' | relative_url }}">The Cosmic Test Tube</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0963916122/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963916122/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 176-178 (in Section 2) with a one sentence summary at page 373 (in the Guide To Books) of the Moonlake Media softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -109,10 +109,10 @@ For discussion of Vallee’s “[Revelations: Alien Contact and Human Deception]
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/hall-michael-david">Hall, Michael David</a> in his “<a href="/ufo-history/ufo-books/hall-michael-david-ufos-a-century-of-sightings">UFOs : A Century of Sightings</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/1880090627/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1880090627/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 331 (in Chapter 11) of the Galde Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hall-michael-david' | relative_url }}">Hall, Michael David</a> in his “<a href="{{ '/ufo-history/ufo-books/hall-michael-david-ufos-a-century-of-sightings' | relative_url }}">UFOs : A Century of Sightings</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/1880090627/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1880090627/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 331 (in Chapter 11) of the Galde Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -120,10 +120,10 @@ For discussion of Vallee’s “[Revelations: Alien Contact and Human Deception]
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/wilson-colin">Wilson, Colin</a> in his “<a href="/ufo-history/ufo-books/wilson-colin-alien-dawn">Alien Dawn</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0880642262/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0880642262/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 140 (in Chapter 4) of the Virgin softcover edition (with the same page numbering in the Virgin paperback edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/wilson-colin' | relative_url }}">Wilson, Colin</a> in his “<a href="{{ '/ufo-history/ufo-books/wilson-colin-alien-dawn' | relative_url }}">Alien Dawn</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0880642262/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0880642262/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 140 (in Chapter 4) of the Virgin softcover edition (with the same page numbering in the Virgin paperback edition).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

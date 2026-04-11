@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0752208950.jpg"}
 book: {"identifiers": ["0752208950"], "primary_isbn": "0752208950", "cover_image": "/book-covers/0752208950.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [W A Harbinson](/ufo-history/ufo-personalities/harbinson-w-a)'s book “[Projekt Saucer: The Case for Man-Made Flying Saucers](/ufo-history/ufo-books/harbinson-w-a-projekt-saucer-the-case-for-man-made-flying-saucers)” ([1995](/tags/1995)) (available [on Amazon USA](http://www.amazon.com/dp/0752208950/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0752208950/?&tag=ufot-21))
+Brief review to be added of [W A Harbinson]({{ '/ufo-history/ufo-personalities/harbinson-w-a' | relative_url }})'s book “[Projekt Saucer: The Case for Man-Made Flying Saucers]({{ '/ufo-history/ufo-books/harbinson-w-a-projekt-saucer-the-case-for-man-made-flying-saucers' | relative_url }})” ([1995]({{ '/tags/1995' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0752208950/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0752208950/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

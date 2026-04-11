@@ -42,11 +42,11 @@ This video appears to show a small rotating UFO with numerous moving claws movin
 
 Screen shots from this video are included below for ease of identification.
 
-![](/images/stories/ufo_videos/video106_1.JPG)
+![]({{ '/images/stories/ufo_videos/video106_1.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video106_2.JPG)
+![]({{ '/images/stories/ufo_videos/video106_2.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video106_3.JPG)
+![]({{ '/images/stories/ufo_videos/video106_3.JPG' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this video
@@ -91,4 +91,4 @@ Relevant discussions online include the following:
 
 [Discussion on Vimeo](https://vimeo.com/6037424) started in or around 2009 when [Erik van Helvoirt](https://www.facebook.com/erik.vanhelvoirt) posted this video on that website.
 
-![](/images/stories/ufo_videos/video106_3d.JPG)
+![]({{ '/images/stories/ufo_videos/video106_3d.JPG' | relative_url }})

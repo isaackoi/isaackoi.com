@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/harris_paola_3.jpg"}
 ---
 
-![harris_paola_3](/images/stories/ufo_personalities/harris_paola_3.jpg)
+![harris_paola_3]({{ '/images/stories/ufo_personalities/harris_paola_3.jpg' | relative_url }})
 
 *Paola Harris*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/2007">2007</a></p>
+<p><a href="{{ '/tags/2007' | relative_url }}">2007</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/harris-paola">Harris, Paola</a> “<a href="/ufo-history/ufo-books/harris-paola-how-does-one-speak-to-a-ball-of-light">How does one speak to a ball of light?</a>” (<a href="/tags/2007">2007</a>) (available <a href="http://www.amazon.com/dp/1425994024/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1425994024/?&amp;tag=ufot-21">on Amazon UK</a>).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/harris-paola' | relative_url }}">Harris, Paola</a> “<a href="{{ '/ufo-history/ufo-books/harris-paola-how-does-one-speak-to-a-ball-of-light' | relative_url }}">How does one speak to a ball of light?</a>” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (available <a href="http://www.amazon.com/dp/1425994024/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1425994024/?&amp;tag=ufot-21">on Amazon UK</a>).</p>
 </td>
 </tr>
 </tbody>
@@ -85,10 +85,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2007">2007</a></p>
+<p><a href="{{ '/tags/2007' | relative_url }}">2007</a></p>
 </td>
 <td valign="top" width="547">
-<p>Riolo, Pascal in Paola Harris’ “<a href="/ufo-history/ufo-books/harris-paola-how-does-one-speak-to-a-ball-of-light">How does one speak to a ball of light?</a>” (<a href="/tags/2007">2007</a>) (available <a href="http://www.amazon.com/dp/1425994024/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1425994024/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages xvii-xix (in the Foreword) of the Author House softcover edition.</p>
+<p>Riolo, Pascal in Paola Harris’ “<a href="{{ '/ufo-history/ufo-books/harris-paola-how-does-one-speak-to-a-ball-of-light' | relative_url }}">How does one speak to a ball of light?</a>” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (available <a href="http://www.amazon.com/dp/1425994024/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1425994024/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages xvii-xix (in the Foreword) of the Author House softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -96,10 +96,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2007">2007</a></p>
+<p><a href="{{ '/tags/2007' | relative_url }}">2007</a></p>
 </td>
 <td valign="top" width="547">
-<p>Salla, Michael in Paola Harris’ “<a href="/ufo-history/ufo-books/harris-paola-how-does-one-speak-to-a-ball-of-light">How does one speak to a ball of light?</a>” (<a href="/tags/2007">2007</a>) (available <a href="http://www.amazon.com/dp/1425994024/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1425994024/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages xiv-xvii (in the Preface) of the Author House softcover edition.</p>
+<p>Salla, Michael in Paola Harris’ “<a href="{{ '/ufo-history/ufo-books/harris-paola-how-does-one-speak-to-a-ball-of-light' | relative_url }}">How does one speak to a ball of light?</a>” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (available <a href="http://www.amazon.com/dp/1425994024/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1425994024/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages xiv-xvii (in the Preface) of the Author House softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>

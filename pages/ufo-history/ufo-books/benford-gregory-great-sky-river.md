@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0446611557.jpg"}
 book: {"identifiers": ["0446611557", "0091879272"], "primary_isbn": "0446611557", "cover_image": "/book-covers/0446611557.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Gregory Benford](/ufo-history/ufo-personalities/benford-gregory)'s novel “[Great Sky River](/ufo-history/ufo-books/benford-gregory-great-sky-river)” ([1987](/tags/1987)) (available [on Amazon USA](http://www.amazon.com/dp/0446611557/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0446611557/?&tag=ufot-21))
+Brief review to be added of [Gregory Benford]({{ '/ufo-history/ufo-personalities/benford-gregory' | relative_url }})'s novel “[Great Sky River]({{ '/ufo-history/ufo-books/benford-gregory-great-sky-river' | relative_url }})” ([1987]({{ '/tags/1987' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0446611557/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0446611557/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2002">2002</a><strong> </strong></p>
+<p><a href="{{ '/tags/2002' | relative_url }}">2002</a><strong> </strong></p>
 </td>
 <td valign="top" width="547">
-<p>Cohen, Jack and Stewart, Ian in their “<a href="/ufo-history/ufo-books/cohen-jack-and-stewart-ian-evolving-the-alien">Evolving the Alien</a>” (<a href="/tags/2002">2002</a>) (available <a href="http://www.amazon.com/dp/0091879272/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0091879272/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 343-344 (in Chapter 14) of the Ebury Press hardback edition.</p>
+<p>Cohen, Jack and Stewart, Ian in their “<a href="{{ '/ufo-history/ufo-books/cohen-jack-and-stewart-ian-evolving-the-alien' | relative_url }}">Evolving the Alien</a>” (<a href="{{ '/tags/2002' | relative_url }}">2002</a>) (available <a href="http://www.amazon.com/dp/0091879272/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0091879272/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 343-344 (in Chapter 14) of the Ebury Press hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

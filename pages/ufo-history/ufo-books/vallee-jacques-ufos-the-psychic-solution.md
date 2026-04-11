@@ -14,9 +14,9 @@ header: {"preview_image": "/book-covers/0586046534.jpg"}
 book: {"identifiers": ["0586046534"], "primary_isbn": "0586046534", "cover_image": "/book-covers/0586046534.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Jacques Vallee](/ufo-history/ufo-personalities/vallee-jacques) “[UFOs: The Psychic Solution](/ufo-history/ufo-books/vallee-jacques-ufos-the-psychic-solution)” ([1975](/tags/1975)) (available [on Amazon USA](http://www.amazon.com/dp/0586046534/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0586046534/?&tag=ufot-21))
+Brief review to be added of [Jacques Vallee]({{ '/ufo-history/ufo-personalities/vallee-jacques' | relative_url }}) “[UFOs: The Psychic Solution]({{ '/ufo-history/ufo-books/vallee-jacques-ufos-the-psychic-solution' | relative_url }})” ([1975]({{ '/tags/1975' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0586046534/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0586046534/?&tag=ufot-21))
 
-(Formerly "[The Invisible College](/ufo-history/ufo-books/vallee-jacques-the-invisible-college)")
+(Formerly "[The Invisible College]({{ '/ufo-history/ufo-books/vallee-jacques-the-invisible-college' | relative_url }})")
 
 1. [Web Resources](#web)
 

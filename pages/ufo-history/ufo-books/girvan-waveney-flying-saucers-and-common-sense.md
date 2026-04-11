@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/1556431252.jpg"}
 book: {"identifiers": ["B0007DXIH2", "1556431252"], "primary_isbn": "1556431252", "cover_image": "/book-covers/1556431252.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Waveney Girvan](/ufo-history/ufo-personalities/girvan-waveney)'s book “[Flying Saucers and Common Sense](/ufo-history/ufo-books/girvan-waveney-flying-saucers-and-common-sense)” ([1955](/tags/1955)) (available [on Amazon USA](http://www.amazon.com/dp/B0007DXIH2/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B0007DXIH2/?&tag=ufot-21))
+Brief review to be added of [Waveney Girvan]({{ '/ufo-history/ufo-personalities/girvan-waveney' | relative_url }})'s book “[Flying Saucers and Common Sense]({{ '/ufo-history/ufo-books/girvan-waveney-flying-saucers-and-common-sense' | relative_url }})” ([1955]({{ '/tags/1955' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/B0007DXIH2/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B0007DXIH2/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -52,10 +52,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/vallee-jacques">Vallee, Jacques</a> in his “<a href="/ufo-history/ufo-books/vallee-jacques-forbidden-science-journals-1957-1969">Forbidden Science: Journals 1957-1969</a>.” (<a href="/tags/1992">1992</a>) (available <a href="http://www.amazon.com/dp/1556431252/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1556431252/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 66 (in Chapter 6 journal entry for <a href="/tags/1963">1963</a>.0330) of the North Atlantic Books hardback edition, at page 74 of the <a href="/tags/1996">1996</a> abridged Marlowe paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/vallee-jacques' | relative_url }}">Vallee, Jacques</a> in his “<a href="{{ '/ufo-history/ufo-books/vallee-jacques-forbidden-science-journals-1957-1969' | relative_url }}">Forbidden Science: Journals 1957-1969</a>.” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="http://www.amazon.com/dp/1556431252/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1556431252/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 66 (in Chapter 6 journal entry for <a href="{{ '/tags/1963' | relative_url }}">1963</a>.0330) of the North Atlantic Books hardback edition, at page 74 of the <a href="{{ '/tags/1996' | relative_url }}">1996</a> abridged Marlowe paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

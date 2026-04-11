@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -63,10 +63,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1974">1974</a></p>
+<p><a href="{{ '/tags/1974' | relative_url }}">1974</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/quintanilla-hector">Quintanilla, Hector</a> (Major) in his unpublished manuscript entitled “<a href="/ufo-history/ufo-books/quintanilla-hector-major-ufos-an-air-force-dilemma">UFOs: An Air Force Dilemma</a>” (copyright <a href="/tags/1974">1974</a>) at page 88 of the manuscript, at page 101 of the NIDS pdf version available free on-line on various websites, including at the following link:</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/quintanilla-hector' | relative_url }}">Quintanilla, Hector</a> (Major) in his unpublished manuscript entitled “<a href="{{ '/ufo-history/ufo-books/quintanilla-hector-major-ufos-an-air-force-dilemma' | relative_url }}">UFOs: An Air Force Dilemma</a>” (copyright <a href="{{ '/tags/1974' | relative_url }}">1974</a>) at page 88 of the manuscript, at page 101 of the NIDS pdf version available free on-line on various websites, including at the following link:</p>
 <p><a href="http://www.projectbluebook.us/UFOs%20An%20Air%20Force%20Dilemma%20By%20Quintanilla.pdf">http://www.projectbluebook.us/UFOs%20An%20Air%20Force%20Dilemma%20By%20Quintanilla.pdf</a></p>
 <p><a href="http://www.nidsci.org/pdf/quintanilla.pdf">http://www.nidsci.org/pdf/quintanilla.pdf</a></p>
 <p> </p>
@@ -77,10 +77,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1975">1975</a></p>
+<p><a href="{{ '/tags/1975' | relative_url }}">1975</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/jacobs-david-michael">Jacobs, David Michael</a> in his “<a href="/ufo-history/ufo-books/jacobs-david-michael-the-ufo-controversy-in-america">The UFO Controversy in America</a>” (<a href="/tags/1975">1975</a>) (available <a href="http://www.amazon.com/dp/0253190061/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0253190061/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 255 (in Chapter 9) of the Indiana hardback edition, pages 226-227 of the Signet paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/jacobs-david-michael' | relative_url }}">Jacobs, David Michael</a> in his “<a href="{{ '/ufo-history/ufo-books/jacobs-david-michael-the-ufo-controversy-in-america' | relative_url }}">The UFO Controversy in America</a>” (<a href="{{ '/tags/1975' | relative_url }}">1975</a>) (available <a href="http://www.amazon.com/dp/0253190061/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0253190061/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 255 (in Chapter 9) of the Indiana hardback edition, pages 226-227 of the Signet paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

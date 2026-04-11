@@ -14,7 +14,7 @@ header: {"preview_image": "https://covers.openlibrary.org/b/isbn/0720707897-L.jp
 book: {"identifiers": ["0720707897"], "primary_isbn": "0720707897", "cover_image": "https://covers.openlibrary.org/b/isbn/0720707897-L.jpg?default=false", "cover_source": "openlibrary"}
 ---
 
-Brief review to be added of [Rex Dutta](/ufo-history/ufo-personalities/dutta-rex)'s book “[Reality of Occult/Yoga/Meditation/Flying Saucers](/ufo-history/ufo-books/dutta-rex-reality-of-occultyogameditationflying-saucers)” ([1974](/tags/1974)) (available [on Amazon USA](http://www.amazon.com/dp/0720707897/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0720707897/?&tag=ufot-21))
+Brief review to be added of [Rex Dutta]({{ '/ufo-history/ufo-personalities/dutta-rex' | relative_url }})'s book “[Reality of Occult/Yoga/Meditation/Flying Saucers]({{ '/ufo-history/ufo-books/dutta-rex-reality-of-occultyogameditationflying-saucers' | relative_url }})” ([1974]({{ '/tags/1974' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0720707897/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0720707897/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -52,10 +52,10 @@ Many of the tables of references on this website are considerably longer than th
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1974">1974</a></p>
+<p><a href="{{ '/tags/1974' | relative_url }}">1974</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/puharich-andrija">Puharich, Andrija</a> in Rex Dutta’s “<a href="/ufo-history/ufo-books/dutta-rex-reality-of-occultyogameditationflying-saucers">Reality of Occult/Yoga/Meditation/Flying Saucers</a>” (<a href="/tags/1974">1974</a>) (available <a href="http://www.amazon.com/dp/0720707897/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0720707897/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 7 (in the Foreword) of the Pelham Books hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/puharich-andrija' | relative_url }}">Puharich, Andrija</a> in Rex Dutta’s “<a href="{{ '/ufo-history/ufo-books/dutta-rex-reality-of-occultyogameditationflying-saucers' | relative_url }}">Reality of Occult/Yoga/Meditation/Flying Saucers</a>” (<a href="{{ '/tags/1974' | relative_url }}">1974</a>) (available <a href="http://www.amazon.com/dp/0720707897/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0720707897/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 7 (in the Foreword) of the Pelham Books hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/documents_1.gif"}
 ---
 
-![documents_1](/images/stories/ufo_tags/documents_1.gif)
+![documents_1]({{ '/images/stories/ufo_tags/documents_1.gif' | relative_url }})
 
 *Air Force Regulation 200-2 amended*
 
@@ -39,7 +39,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-Text of revision to AFR 200-2 presented in “[Making Contact](/ufo-history/ufo-books/fawcett-bill-ed-making-contact)” ([1997](/tags/1997)) (edited by Bill Fawcett) (available [on Amazon USA](http://www.amazon.com/dp/0688144861/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0688144861/ref=nosim?tag=ufot-21)) at pages 133-144 (in Section 2) of the Morrow hardback edition.
+Text of revision to AFR 200-2 presented in “[Making Contact]({{ '/ufo-history/ufo-books/fawcett-bill-ed-making-contact' | relative_url }})” ([1997]({{ '/tags/1997' | relative_url }})) (edited by Bill Fawcett) (available [on Amazon USA](http://www.amazon.com/dp/0688144861/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0688144861/ref=nosim?tag=ufot-21)) at pages 133-144 (in Section 2) of the Morrow hardback edition.
 
 <a id="other"></a>
 ### Other Material

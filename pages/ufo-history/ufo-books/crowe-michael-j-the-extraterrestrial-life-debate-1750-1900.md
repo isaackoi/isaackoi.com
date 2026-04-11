@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/048640675X.jpg"}
 book: {"identifiers": ["048640675X"], "primary_isbn": "048640675X", "cover_image": "/book-covers/048640675X.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Crowe, Michael J](/ufo-history/ufo-personalities/crowe-michael-j)'s book “[The Extraterrestrial Life Debate, 1750-1900](/ufo-history/ufo-books/crowe-michael-j-the-extraterrestrial-life-debate-1750-1900)” ([1986](/tags/1986)) (available [on Amazon USA](http://www.amazon.com/dp/048640675X/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/048640675X/?&tag=ufot-21))
+Brief review to be added of [Crowe, Michael J]({{ '/ufo-history/ufo-personalities/crowe-michael-j' | relative_url }})'s book “[The Extraterrestrial Life Debate, 1750-1900]({{ '/ufo-history/ufo-books/crowe-michael-j-the-extraterrestrial-life-debate-1750-1900' | relative_url }})” ([1986]({{ '/tags/1986' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/048640675X/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/048640675X/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

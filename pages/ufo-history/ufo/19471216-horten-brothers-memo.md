@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/documents_1.gif"}
 ---
 
-![documents_1](/images/stories/ufo_tags/documents_1.gif)
+![documents_1]({{ '/images/stories/ufo_tags/documents_1.gif' | relative_url }})
 
 *Horten brothers memo*
 
@@ -65,10 +65,10 @@ For discussion of this memo see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2006">2006</a></p>
+<p><a href="{{ '/tags/2006' | relative_url }}">2006</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/collins-robert-m">Collins, Robert M</a> (with <a href="/ufo-history/ufo-personalities/doty-richard">Doty, Richard C</a> and <a href="/ufo-history/ufo-personalities/cooper-timothy-s">Cooper, Timothy S</a>) in “<a href="/ufo-history/ufo-books/collins-robert-m-with-doty-richard-c-and-cooper-timothy-s-exempt-from-disclosure">Exempt From Disclosure</a>” (<a href="/tags/2006">2006</a>) (available <a href="http://www.amazon.com/dp/0976642638/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0976642638/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 128-129 (in Section 3, Chapter 1) of the Peregrine Communications softcover second edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/collins-robert-m' | relative_url }}">Collins, Robert M</a> (with <a href="{{ '/ufo-history/ufo-personalities/doty-richard' | relative_url }}">Doty, Richard C</a> and <a href="{{ '/ufo-history/ufo-personalities/cooper-timothy-s' | relative_url }}">Cooper, Timothy S</a>) in “<a href="{{ '/ufo-history/ufo-books/collins-robert-m-with-doty-richard-c-and-cooper-timothy-s-exempt-from-disclosure' | relative_url }}">Exempt From Disclosure</a>” (<a href="{{ '/tags/2006' | relative_url }}">2006</a>) (available <a href="http://www.amazon.com/dp/0976642638/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0976642638/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 128-129 (in Section 3, Chapter 1) of the Peregrine Communications softcover second edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -76,10 +76,10 @@ For discussion of this memo see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/matthews-tim">Matthews, Tim</a> in his “<a href="/ufo-history/ufo-books/matthews-tim-ufo-revelation">UFO Revelation</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0713727330/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713727330/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 50-51 (in Chapter 3) of the Blandford softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/matthews-tim' | relative_url }}">Matthews, Tim</a> in his “<a href="{{ '/ufo-history/ufo-books/matthews-tim-ufo-revelation' | relative_url }}">UFO Revelation</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0713727330/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713727330/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 50-51 (in Chapter 3) of the Blandford softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -87,10 +87,10 @@ For discussion of this memo see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2005">2005</a></p>
+<p><a href="{{ '/tags/2005' | relative_url }}">2005</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/redfern-nicholas">Redfern, Nicholas</a> in his “<a href="/ufo-history/ufo-books/redfern-nicholas-body-snatchers-in-the-desert">Body Snatchers in the Desert: The Horrible Truth at the heart of the Roswell Story</a>” (<a href="/tags/2005">2005</a>) (available <a href="http://www.amazon.com/dp/0743497538/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743497538/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 149-150 (in Chapter 12) of the Paraview Pocket Books softback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/redfern-nicholas' | relative_url }}">Redfern, Nicholas</a> in his “<a href="{{ '/ufo-history/ufo-books/redfern-nicholas-body-snatchers-in-the-desert' | relative_url }}">Body Snatchers in the Desert: The Horrible Truth at the heart of the Roswell Story</a>” (<a href="{{ '/tags/2005' | relative_url }}">2005</a>) (available <a href="http://www.amazon.com/dp/0743497538/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743497538/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 149-150 (in Chapter 12) of the Paraview Pocket Books softback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -99,7 +99,7 @@ For discussion of this memo see the following:
 </tbody>
 </table>
 
-See also the references for discussion of the [Horten brothers](/ufo-history/ufo-personalities/horten-brothers).
+See also the references for discussion of the [Horten brothers]({{ '/ufo-history/ufo-personalities/horten-brothers' | relative_url }}).
 
 <a id="other"></a>
 ### Other Material

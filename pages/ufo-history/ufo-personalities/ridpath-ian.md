@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/ridpath_ian_1.jpg"}
 ---
 
-![ridpath_ian_1](/images/stories/ufo_personalities/ridpath_ian_1.jpg)
+![ridpath_ian_1]({{ '/images/stories/ufo_personalities/ridpath_ian_1.jpg' | relative_url }})
 
 *Ian Ridpath*
 
@@ -36,34 +36,34 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1975">1975</a></p>
+<p><a href="{{ '/tags/1975' | relative_url }}">1975</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/ridpath-ian">Ridpath, Ian</a> “<a href="/ufo-history/ufo-books/ridpath-ian-worlds-beyond">Worlds Beyond</a>” (<a href="/tags/1975">1975</a>) (available <a href="http://www.amazon.com/dp/0060135689/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0060135689/?&amp;tag=ufot-21">on Amazon UK</a>). Later revised edition published as “Signs of Life” (<a href="/tags/1977">1977</a>). (<a href="/tags/seti">SETI</a>:)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/ridpath-ian' | relative_url }}">Ridpath, Ian</a> “<a href="{{ '/ufo-history/ufo-books/ridpath-ian-worlds-beyond' | relative_url }}">Worlds Beyond</a>” (<a href="{{ '/tags/1975' | relative_url }}">1975</a>) (available <a href="http://www.amazon.com/dp/0060135689/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0060135689/?&amp;tag=ufot-21">on Amazon UK</a>). Later revised edition published as “Signs of Life” (<a href="{{ '/tags/1977' | relative_url }}">1977</a>). (<a href="{{ '/tags/seti' | relative_url }}">SETI</a>:)</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1977">1977</a></p>
+<p><a href="{{ '/tags/1977' | relative_url }}">1977</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/ridpath-ian">Ridpath, Ian</a> “Signs of Life” (<a href="/tags/seti">SETI</a>:)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/ridpath-ian' | relative_url }}">Ridpath, Ian</a> “Signs of Life” (<a href="{{ '/tags/seti' | relative_url }}">SETI</a>:)</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1978">1978</a></p>
+<p><a href="{{ '/tags/1978' | relative_url }}">1978</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/ridpath-ian">Ridpath, Ian</a> “<a href="/ufo-history/ufo-books/ridpath-ian-messages-from-the-stars">Messages from the Stars</a>” (<a href="/tags/1978">1978</a>) (available <a href="http://www.amazon.com/dp/0060135891/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0060135891/?&amp;tag=ufot-21">on Amazon UK</a>) (<a href="/tags/seti">SETI</a>:)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/ridpath-ian' | relative_url }}">Ridpath, Ian</a> “<a href="{{ '/ufo-history/ufo-books/ridpath-ian-messages-from-the-stars' | relative_url }}">Messages from the Stars</a>” (<a href="{{ '/tags/1978' | relative_url }}">1978</a>) (available <a href="http://www.amazon.com/dp/0060135891/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0060135891/?&amp;tag=ufot-21">on Amazon UK</a>) (<a href="{{ '/tags/seti' | relative_url }}">SETI</a>:)</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1983">1983</a></p>
+<p><a href="{{ '/tags/1983' | relative_url }}">1983</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/ridpath-ian">Ridpath, Ian</a> “Life Off Earth” (<a href="/tags/1983">1983</a>) (available <a href="http://www.amazon.com/dp/0246119330/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0246119330/?&amp;tag=ufot-21">on Amazon UK</a>) (<a href="/tags/seti">SETI</a>:)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/ridpath-ian' | relative_url }}">Ridpath, Ian</a> “Life Off Earth” (<a href="{{ '/tags/1983' | relative_url }}">1983</a>) (available <a href="http://www.amazon.com/dp/0246119330/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0246119330/?&amp;tag=ufot-21">on Amazon UK</a>) (<a href="{{ '/tags/seti' | relative_url }}">SETI</a>:)</p>
 </td>
 </tr>
 </tbody>
@@ -107,10 +107,10 @@ For discussion of Ian Ridpath see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1984">1984</a></p>
+<p><a href="{{ '/tags/1984' | relative_url }}">1984</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/butler-brenda">Butler, Brenda</a> and <a href="/ufo-history/ufo-personalities/street-dot">Street, Dot</a> and <a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in their “<a href="/ufo-history/ufo-books/butler-brenda-and-street-dot-and-randles-jenny-sky-crash">Sky Crash</a>” (<a href="/tags/1984">1984</a>) (available <a href="http://www.amazon.com/dp/0586066780/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0586066780/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 210-211 (in Chapter 20), 225-228, 237 (in Chapter 22) of the Grafton paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/butler-brenda' | relative_url }}">Butler, Brenda</a> and <a href="{{ '/ufo-history/ufo-personalities/street-dot' | relative_url }}">Street, Dot</a> and <a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in their “<a href="{{ '/ufo-history/ufo-books/butler-brenda-and-street-dot-and-randles-jenny-sky-crash' | relative_url }}">Sky Crash</a>” (<a href="{{ '/tags/1984' | relative_url }}">1984</a>) (available <a href="http://www.amazon.com/dp/0586066780/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0586066780/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 210-211 (in Chapter 20), 225-228, 237 (in Chapter 22) of the Grafton paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>7</p>
@@ -118,10 +118,10 @@ For discussion of Ian Ridpath see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Hennessey, Roger in his “<a href="/ufo-history/ufo-books/hennessey-roger-a-s-worlds-without-end-the-historic-search-for-extraterrestrial-life">Worlds Without End : The Historic Search for Extraterrestrial Life</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/075241450X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/075241450X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 119 (in Chapter 11) of the Tempus hardback edition.</p>
+<p>Hennessey, Roger in his “<a href="{{ '/ufo-history/ufo-books/hennessey-roger-a-s-worlds-without-end-the-historic-search-for-extraterrestrial-life' | relative_url }}">Worlds Without End : The Historic Search for Extraterrestrial Life</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/075241450X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/075241450X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 119 (in Chapter 11) of the Tempus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -129,10 +129,10 @@ For discussion of Ian Ridpath see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-from-out-of-the-blue">From Out of the Blue</a>" (<a href="/tags/1991">1991</a>) (available <a href="http://www.amazon.com/dp/0938294083/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0938294083/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 185, 194-195 (in Chapter 19) of the Berkley paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-from-out-of-the-blue' | relative_url }}">From Out of the Blue</a>" (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/0938294083/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0938294083/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 185, 194-195 (in Chapter 19) of the Berkley paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -140,10 +140,10 @@ For discussion of Ian Ridpath see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sheaffer-robert">Sheaffer, Robert</a> in his “<a href="/ufo-history/ufo-books/sheaffer-robert-the-ufo-verdict">The UFO Verdict</a>” (<a href="/tags/1980">1980</a>) (available <a href="http://www.amazon.com/dp/0879753382/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879753382/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 134 –135 (in Chapter 13) of the Prometheus softback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sheaffer-robert' | relative_url }}">Sheaffer, Robert</a> in his “<a href="{{ '/ufo-history/ufo-books/sheaffer-robert-the-ufo-verdict' | relative_url }}">The UFO Verdict</a>” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) (available <a href="http://www.amazon.com/dp/0879753382/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879753382/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 134 –135 (in Chapter 13) of the Prometheus softback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -151,10 +151,10 @@ For discussion of Ian Ridpath see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sheaffer-robert">Sheaffer, Robert</a> in his “<a href="/ufo-history/ufo-books/sheaffer-robert-ufo-sightings-the-evidence">UFO Sightings: The Evidence</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/1573922137/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573922137/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 178 (in Chapter 12) of the Prometheus hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sheaffer-robert' | relative_url }}">Sheaffer, Robert</a> in his “<a href="{{ '/ufo-history/ufo-books/sheaffer-robert-ufo-sightings-the-evidence' | relative_url }}">UFO Sightings: The Evidence</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/1573922137/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573922137/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 178 (in Chapter 12) of the Prometheus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

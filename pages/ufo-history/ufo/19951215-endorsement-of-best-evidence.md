@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -83,9 +83,9 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-Letter of endorsement presented by [Berliner, Don](/ufo-history/ufo-personalities/berliner-don) with [Galbraith, Marie](/ufo-history/ufo-personalities/galbraith-marie) and [Huneeus, Antonio](/ufo-history/ufo-personalities/huneeus-antonio) in their “[UFO Briefing Document: The Best Available Evidence](/ufo-history/ufo-books/berliner-don-with-galbraith-marie-and-huneeus-antonio-ufo-briefing-document-the-best-available-evidence)“ ([1995](/tags/1995)) (available [on Amazon USA](http://www.amazon.com/dp/044023638X/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/044023638X/ref=nosim?tag=ufot-21)) at page vii (in the introductory chapter entitled “The Letter of Endorsement”) of the Dell paperback edition.
+Letter of endorsement presented by [Berliner, Don]({{ '/ufo-history/ufo-personalities/berliner-don' | relative_url }}) with [Galbraith, Marie]({{ '/ufo-history/ufo-personalities/galbraith-marie' | relative_url }}) and [Huneeus, Antonio]({{ '/ufo-history/ufo-personalities/huneeus-antonio' | relative_url }}) in their “[UFO Briefing Document: The Best Available Evidence]({{ '/ufo-history/ufo-books/berliner-don-with-galbraith-marie-and-huneeus-antonio-ufo-briefing-document-the-best-available-evidence' | relative_url }})“ ([1995]({{ '/tags/1995' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/044023638X/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/044023638X/ref=nosim?tag=ufot-21)) at page vii (in the introductory chapter entitled “The Letter of Endorsement”) of the Dell paperback edition.
 
-See references provided in relation to the book “[UFO Briefing Document: The Best Available Evidence](/ufo-history/ufo-books/berliner-don-with-galbraith-marie-and-huneeus-antonio-ufo-briefing-document-the-best-available-evidence)“ ([1995](/tags/1995)) (available [on Amazon USA](http://www.amazon.com/dp/044023638X/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/044023638X/ref=nosim?tag=ufot-21)).
+See references provided in relation to the book “[UFO Briefing Document: The Best Available Evidence]({{ '/ufo-history/ufo-books/berliner-don-with-galbraith-marie-and-huneeus-antonio-ufo-briefing-document-the-best-available-evidence' | relative_url }})“ ([1995]({{ '/tags/1995' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/044023638X/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/044023638X/ref=nosim?tag=ufot-21)).
 
 <a id="other"></a>
 ### Other Material

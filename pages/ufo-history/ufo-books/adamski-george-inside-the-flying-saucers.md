@@ -14,7 +14,7 @@ header: {"preview_image": "https://covers.openlibrary.org/b/isbn/0446766429-L.jp
 book: {"identifiers": ["0446766429", "1931044325", "0505513048", "0932813437", "0712678123", "0253190061", "1560983434"], "primary_isbn": "0446766429", "cover_image": "https://covers.openlibrary.org/b/isbn/0446766429-L.jpg?default=false", "cover_source": "openlibrary"}
 ---
 
-Brief review to be added of [George Adamski's](/ufo-history/ufo-personalities/adamski-george) book “[Inside the Flying Saucers](/ufo-history/ufo-books/adamski-george-inside-the-flying-saucers)” ([1955](/tags/1955)) (available [on Amazon USA](http://www.amazon.com/dp/0446766429/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0446766429/?&tag=ufot-21)). This book was originally entitled “Inside the Space Ships”.
+Brief review to be added of [George Adamski's]({{ '/ufo-history/ufo-personalities/adamski-george' | relative_url }}) book “[Inside the Flying Saucers]({{ '/ufo-history/ufo-books/adamski-george-inside-the-flying-saucers' | relative_url }})” ([1955]({{ '/tags/1955' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0446766429/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0446766429/?&tag=ufot-21)). This book was originally entitled “Inside the Space Ships”.
 
 1. [Web Resources](#web)
 
@@ -52,10 +52,10 @@ Many of the tables of references on this website are considerably longer than th
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/bennett-colin">Bennett, Colin</a> in his “<a href="/ufo-history/ufo-books/bennett-colin-looking-for-orthon">Looking for Orthon</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/1931044325/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1931044325/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 88, 99 (in Chapter 7), 127 (in Chapter 11) of the Paraview softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/bennett-colin' | relative_url }}">Bennett, Colin</a> in his “<a href="{{ '/ufo-history/ufo-books/bennett-colin-looking-for-orthon' | relative_url }}">Looking for Orthon</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/1931044325/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1931044325/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 88, 99 (in Chapter 7), 127 (in Chapter 11) of the Paraview softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -63,10 +63,10 @@ Many of the tables of references on this website are considerably longer than th
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1968">1968</a></p>
+<p><a href="{{ '/tags/1968' | relative_url }}">1968</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/binder-otto">Binder, Otto</a> in his “Flying Saucers Are Watching Us” (<a href="/tags/1968">1968</a>) (available <a href="http://www.amazon.com/dp/0505513048/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0505513048/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 25 (in Chapter 2) of the Belmont paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/binder-otto' | relative_url }}">Binder, Otto</a> in his “Flying Saucers Are Watching Us” (<a href="{{ '/tags/1968' | relative_url }}">1968</a>) (available <a href="http://www.amazon.com/dp/0505513048/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0505513048/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 25 (in Chapter 2) of the Belmont paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -74,10 +74,10 @@ Many of the tables of references on this website are considerably longer than th
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1966">1966</a></p>
+<p><a href="{{ '/tags/1966' | relative_url }}">1966</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/cramp-leonard-g">Cramp, Leonard G</a> in his “<a href="/ufo-history/ufo-books/cramp-leonard-g-piece-for-a-jig-saw">Piece for a Jig-Saw</a>” (<a href="/tags/1966">1966</a>) (available <a href="http://www.amazon.com/dp/0932813437/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0932813437/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 369-370, 373 (in Chapter 22) of the Somerton hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/cramp-leonard-g' | relative_url }}">Cramp, Leonard G</a> in his “<a href="{{ '/ufo-history/ufo-books/cramp-leonard-g-piece-for-a-jig-saw' | relative_url }}">Piece for a Jig-Saw</a>” (<a href="{{ '/tags/1966' | relative_url }}">1966</a>) (available <a href="http://www.amazon.com/dp/0932813437/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0932813437/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 369-370, 373 (in Chapter 22) of the Somerton hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -85,10 +85,10 @@ Many of the tables of references on this website are considerably longer than th
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/good-timothy">Good, Timothy</a> in his “<a href="/ufo-history/ufo-books/good-timothy-alien-base">Alien Base</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0712678123/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0712678123/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 149-151 (in Chapter 7) of the Century hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/good-timothy' | relative_url }}">Good, Timothy</a> in his “<a href="{{ '/ufo-history/ufo-books/good-timothy-alien-base' | relative_url }}">Alien Base</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0712678123/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0712678123/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 149-151 (in Chapter 7) of the Century hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -96,10 +96,10 @@ Many of the tables of references on this website are considerably longer than th
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1975">1975</a></p>
+<p><a href="{{ '/tags/1975' | relative_url }}">1975</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/jacobs-david-michael">Jacobs, David Michael</a> in his “<a href="/ufo-history/ufo-books/jacobs-david-michael-the-ufo-controversy-in-america">The UFO Controversy in America</a>” (<a href="/tags/1975">1975</a>) (available <a href="http://www.amazon.com/dp/0253190061/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0253190061/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 111 of the Indiana hardback edition, page 98 of the Signet paperback edition (in Chapter 5, the remainder of the Chapter also making various other relevant points).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/jacobs-david-michael' | relative_url }}">Jacobs, David Michael</a> in his “<a href="{{ '/ufo-history/ufo-books/jacobs-david-michael-the-ufo-controversy-in-america' | relative_url }}">The UFO Controversy in America</a>” (<a href="{{ '/tags/1975' | relative_url }}">1975</a>) (available <a href="http://www.amazon.com/dp/0253190061/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0253190061/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 111 of the Indiana hardback edition, page 98 of the Signet paperback edition (in Chapter 5, the remainder of the Chapter also making various other relevant points).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -107,10 +107,10 @@ Many of the tables of references on this website are considerably longer than th
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/peebles-curtis">Peebles, Curtis</a> in his “<a href="/ufo-history/ufo-books/peebles-curtis-watch-the-skies">Watch the Skies!</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/1560983434/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1560983434/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 101 of the Smithsonian hardback edition, pages 122-123 of the Berkley paperback edition (Chapter 7, “The Contactee Era” – in part of a section entitled “Adamski’s Imitators” ).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/peebles-curtis' | relative_url }}">Peebles, Curtis</a> in his “<a href="{{ '/ufo-history/ufo-books/peebles-curtis-watch-the-skies' | relative_url }}">Watch the Skies!</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/1560983434/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1560983434/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 101 of the Smithsonian hardback edition, pages 122-123 of the Berkley paperback edition (Chapter 7, “The Contactee Era” – in part of a section entitled “Adamski’s Imitators” ).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

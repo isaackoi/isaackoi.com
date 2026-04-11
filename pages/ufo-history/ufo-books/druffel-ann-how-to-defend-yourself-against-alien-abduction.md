@@ -14,7 +14,7 @@ header: {"preview_image": "https://covers.openlibrary.org/b/isbn/0749919418-L.jp
 book: {"identifiers": ["0749919418", "0451204247", "1841196134"], "primary_isbn": "0749919418", "cover_image": "https://covers.openlibrary.org/b/isbn/0749919418-L.jpg?default=false", "cover_source": "openlibrary"}
 ---
 
-Brief review to be added of [Ann Druffel](/ufo-history/ufo-personalities/druffel-ann)'s book “[How to Defend Yourself Against Alien Abduction](/ufo-history/ufo-books/druffel-ann-how-to-defend-yourself-against-alien-abduction)” ([1998](/tags/1998)) (available [on Amazon USA](http://www.amazon.com/dp/0749919418/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0749919418/?&tag=ufot-21))
+Brief review to be added of [Ann Druffel]({{ '/ufo-history/ufo-personalities/druffel-ann' | relative_url }})'s book “[How to Defend Yourself Against Alien Abduction]({{ '/ufo-history/ufo-books/druffel-ann-how-to-defend-yourself-against-alien-abduction' | relative_url }})” ([1998]({{ '/tags/1998' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0749919418/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0749919418/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -34,7 +34,7 @@ The table below includes references to relevant discussions in UFO/SETI books no
 
 Many of the tables of references on this website are considerably longer than the references to books found on most other UFO websites. Indeed, some are probably the longest that have been collated in relation to some events and personalities. I hope that these tables are found to be a useful contribution to UFOlogy.
 
-For discussion of “[How to Defend Yourself Against Alien Abduction](/ufo-history/ufo-books/druffel-ann-how-to-defend-yourself-against-alien-abduction)” see the following:
+For discussion of “[How to Defend Yourself Against Alien Abduction]({{ '/ufo-history/ufo-books/druffel-ann-how-to-defend-yourself-against-alien-abduction' | relative_url }})” see the following:
 
 <table border="1" cellpadding="0" cellspacing="0" class="sortable" data-sortable="true" id="sortabletable">
 <thead>
@@ -54,10 +54,10 @@ For discussion of “[How to Defend Yourself Against Alien Abduction](/ufo-histo
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/druffel-ann">Druffel, Ann</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 491-493 (in an entry entitled “resistance techniques against alien abduction”) of the New American Library softcover edition, at pages 480-481 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/druffel-ann' | relative_url }}">Druffel, Ann</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 491-493 (in an entry entitled “resistance techniques against alien abduction”) of the New American Library softcover edition, at pages 480-481 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -65,10 +65,10 @@ For discussion of “[How to Defend Yourself Against Alien Abduction](/ufo-histo
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/druffel-ann">Druffel, Ann</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 591-592 (in an entry entitled “resistance techniques against alien abduction”) of the Robinson softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/druffel-ann' | relative_url }}">Druffel, Ann</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 591-592 (in an entry entitled “resistance techniques against alien abduction”) of the Robinson softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

@@ -46,33 +46,33 @@ This video discusses photographs of a "UFO mothership" that "appears semi-cloake
 
 The relevant photo is included below for ease of identification.
 
-![](/images/stories/ufo_videos/video107_1.JPG)
+![]({{ '/images/stories/ufo_videos/video107_1.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video107_2.JPG)
+![]({{ '/images/stories/ufo_videos/video107_2.JPG' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this video
 
 The relevant photographs prompted several articles online in October 2015, including [one on the website of The Express](http://www.express.co.uk/news/science/612097/Biggest-best-ever-UFO-photograph-Witnesses-snap-Independence-Day-like-mothership) (a British tabloid newspaper). The relevant articles claimed that the photographs were taken in Manipur, India at around 1.30pm on 7 October 2015. Some of the articles claimed that it appeared to be a genuine photograph, and not edited, since a person is seen pointing at the object in one of the pictures.
 
-![](/images/stories/ufo_videos/video107_8.JPG)
+![]({{ '/images/stories/ufo_videos/video107_8.JPG' | relative_url }})
 
 The article [on the website of The Express](http://www.express.co.uk/news/science/612097/Biggest-best-ever-UFO-photograph-Witnesses-snap-Independence-Day-like-mothership) (a British tabloid newspaper) also included very similar photographs said to have been taken over Brazil, China and elsewhere.
 
-![](/images/stories/ufo_videos/video107_3.JPG)
+![]({{ '/images/stories/ufo_videos/video107_3.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video107_4.JPG)
+![]({{ '/images/stories/ufo_videos/video107_4.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video107_5.JPG)
+![]({{ '/images/stories/ufo_videos/video107_5.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video107_6.JPG)
+![]({{ '/images/stories/ufo_videos/video107_6.JPG' | relative_url }})
 
 <a id="truth"></a>
 ### 3. The real background to this video
 
 In fact, the "UFO mothership" seen in the photographs is a piece of computer artwork created in 2006 by Jukka Korhonen from Finland. He called that piece "[V for Victory](http://loadus.cgsociety.org/art/v-ufo-invasion-destruction-storm-clouds-hurricane-thunder-visitors-victory-3d-334975)". (Jukka is a fan of that television series). The photographs circulated online in 2015 simply combine (or "composite") the UFO artwork into mundane photographs.
 
-![](/images/stories/ufo_videos/video107_10.JPG)
+![]({{ '/images/stories/ufo_videos/video107_10.JPG' | relative_url }})
 
 Jukka Korhonen's "[V for Victory](http://loadus.cgsociety.org/art/v-ufo-invasion-destruction-storm-clouds-hurricane-thunder-visitors-victory-3d-334975)" was posted online in 2006.
 
@@ -80,11 +80,11 @@ Jukka stated in his accompanying caption that he was "a big fan of V when it fir
 
 Jukka's stated that his artwork (which, incidentally, I think is fantastic) was "modelled in trueSpace and postwork in Corel GS".
 
-![](/images/stories/ufo_videos/video107_11.JPG)
+![]({{ '/images/stories/ufo_videos/video107_11.JPG' | relative_url }})
 
 Jukka Korhonen is pictured below:
 
-![](/images/stories/ufo_videos/video107_9.JPG)
+![]({{ '/images/stories/ufo_videos/video107_9.JPG' | relative_url }})
 
 Compositing Jukka Korhonen's artwork into a photograph can could be done in a matter of minutes (indeed, sometimes in a matter of seconds) using software such as Adobe's Photoshop.
 
@@ -92,17 +92,17 @@ Creating such "composite" images has become much easier in the last few years, w
 
 Here is [a screenshot](https://www.flickr.com/photos/popazrael/22111369281/) showing some of the images in the "Endwar" series which can be quickly added to any photograph.
 
-![](/images/stories/ufo_videos/video107_7.JPG)
+![]({{ '/images/stories/ufo_videos/video107_7.JPG' | relative_url }})
 
 When the Endwar series was launched by Camera360 in October 2015, the Camera360 page on Facebook included various samples of the "UFO" images which could be created using the images which accompany that app.
 
 Those sample images included the following (see the [first](https://www.facebook.com/camera360official/photos/a.308433005942734.72516.305920579527310/827549734031056/?type=3&theater), second and third sample):
 
-![](/images/stories/ufo_videos/video107_12.JPG)
+![]({{ '/images/stories/ufo_videos/video107_12.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video107_13.JPG)
+![]({{ '/images/stories/ufo_videos/video107_13.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video107_14.JPG)
+![]({{ '/images/stories/ufo_videos/video107_14.JPG' | relative_url }})
 
 Incidentally, I found that Jukka Korhonen's "V for Victory" was the source of the UFO in these photographs in just a few minutes with kind assistance on Facebook from Curt Collins and Gilles Fernandez.
 
@@ -119,4 +119,4 @@ Relevant discussions online include the following:
 
 2015 (October) [discussion on the UFO UpDates](https://www.facebook.com/groups/ufoupdates/permalink/10153074039636790/) group page
 
-![](/images/stories/ufo_videos/video107_1d.JPG)
+![]({{ '/images/stories/ufo_videos/video107_1d.JPG' | relative_url }})

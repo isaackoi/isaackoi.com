@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0425035018.jpg"}
 book: {"identifiers": ["0425035018", "0760707642", "0451204247", "1841196134", "0963916122", "0380706547", "0631135634", "0879753382", "1573922137"], "primary_isbn": "0425035018", "cover_image": "/book-covers/0425035018.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of “[Abducted!: Confrontations with Beings from Outer Space](/ufo-history/ufo-books/lorenzen-coral-and-lorenzen-jim-abducted-confrontations-with-beings-from-outer-space)” ([1977](/tags/1977)) (available [on Amazon USA](http://www.amazon.com/dp/0425035018/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0425035018/?&tag=ufot-21)) by [Coral Lorenzen](/ufo-history/ufo-personalities/lorenzen-coral-e) and [Jim Lorenzen](/ufo-history/ufo-personalities/lorenzen-jim).
+Brief review to be added of “[Abducted!: Confrontations with Beings from Outer Space]({{ '/ufo-history/ufo-books/lorenzen-coral-and-lorenzen-jim-abducted-confrontations-with-beings-from-outer-space' | relative_url }})” ([1977]({{ '/tags/1977' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0425035018/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0425035018/?&tag=ufot-21)) by [Coral Lorenzen]({{ '/ufo-history/ufo-personalities/lorenzen-coral-e' | relative_url }}) and [Jim Lorenzen]({{ '/ufo-history/ufo-personalities/lorenzen-jim' | relative_url }}).
 
 1. [Web Resources](#web)
 
@@ -34,7 +34,7 @@ The table below includes references to relevant discussions in UFO/SETI books no
 
 Many of the tables of references on this website are considerably longer than the references to books found on most other UFO websites. Indeed, some are probably the longest that have been collated in relation to some events and personalities. I hope that these tables are found to be a useful contribution to UFOlogy.
 
-For discussion of “[Abducted!: Confrontations with Beings from Outer Space](/ufo-history/ufo-books/lorenzen-coral-and-lorenzen-jim-abducted-confrontations-with-beings-from-outer-space)” see the following:
+For discussion of “[Abducted!: Confrontations with Beings from Outer Space]({{ '/ufo-history/ufo-books/lorenzen-coral-and-lorenzen-jim-abducted-confrontations-with-beings-from-outer-space' | relative_url }})” see the following:
 
 <table border="1" cellpadding="0" cellspacing="0" class="sortable" data-sortable="true" id="sortabletable">
 <thead>
@@ -54,10 +54,10 @@ For discussion of “[Abducted!: Confrontations with Beings from Outer Space](/u
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/brookesmith-peter">Brookesmith, Peter</a> in his “<a href="/ufo-history/ufo-books/brookesmith-peter-alien-abductions">Alien Abductions</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0760707642/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0760707642/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 47 (in Chapter 2) of the Barnes &amp; Noble hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/brookesmith-peter' | relative_url }}">Brookesmith, Peter</a> in his “<a href="{{ '/ufo-history/ufo-books/brookesmith-peter-alien-abductions' | relative_url }}">Alien Abductions</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0760707642/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0760707642/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 47 (in Chapter 2) of the Barnes &amp; Noble hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -65,10 +65,10 @@ For discussion of “[Abducted!: Confrontations with Beings from Outer Space](/u
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fitzgerald-randall">Fitzgerald, Randall</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 1 (in an entry entitled “Abducted : Confrontations with Beings from Outer Space”) of the New American Library softcover edition, at page 1 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }}">Fitzgerald, Randall</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 1 (in an entry entitled “Abducted : Confrontations with Beings from Outer Space”) of the New American Library softcover edition, at page 1 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -76,10 +76,10 @@ For discussion of “[Abducted!: Confrontations with Beings from Outer Space](/u
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fitzgerald-randall">Fitzgerald, Randall</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 1 (in an entry entitled “Abducted : Confrontations with Beings from Outer Space”) of the Robinson softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }}">Fitzgerald, Randall</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 1 (in an entry entitled “Abducted : Confrontations with Beings from Outer Space”) of the Robinson softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -87,10 +87,10 @@ For discussion of “[Abducted!: Confrontations with Beings from Outer Space](/u
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fitzgerald-randall">Fitzgerald, Randall</a> in his “<a href="/ufo-history/ufo-books/fitzgerald-randall-the-cosmic-test-tube">The Cosmic Test Tube</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0963916122/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963916122/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 235-237 (in Section 3) with a one sentence summary at page 374 (in the Guide To Books) of the Moonlake Media softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }}">Fitzgerald, Randall</a> in his “<a href="{{ '/ufo-history/ufo-books/fitzgerald-randall-the-cosmic-test-tube' | relative_url }}">The Cosmic Test Tube</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0963916122/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963916122/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 235-237 (in Section 3) with a one sentence summary at page 374 (in the Guide To Books) of the Moonlake Media softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -98,10 +98,10 @@ For discussion of “[Abducted!: Confrontations with Beings from Outer Space](/u
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1988">1988</a></p>
+<p><a href="{{ '/tags/1988' | relative_url }}">1988</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/hopkins-budd">Hopkins, Budd</a> in “<a href="/ufo-history/ufo-books/spencer-john-and-evans-hilary-phenomenon">Phenomenon</a>“ (<a href="/tags/1988">1988</a>) (edited by <a href="/ufo-history/ufo-personalities/spencer-john">John Spencer</a> and <a href="/ufo-history/ufo-personalities/evans-hilary">Hilary Evans</a>) (available <a href="http://www.amazon.com/dp/0380706547/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380706547/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 135 (in Part 2, in the unnumbered chapter entitled “Investigating the Abductees”) of the MacDonald hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hopkins-budd' | relative_url }}">Hopkins, Budd</a> in “<a href="{{ '/ufo-history/ufo-books/spencer-john-and-evans-hilary-phenomenon' | relative_url }}">Phenomenon</a>“ (<a href="{{ '/tags/1988' | relative_url }}">1988</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">John Spencer</a> and <a href="{{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }}">Hilary Evans</a>) (available <a href="http://www.amazon.com/dp/0380706547/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380706547/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 135 (in Part 2, in the unnumbered chapter entitled “Investigating the Abductees”) of the MacDonald hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -109,10 +109,10 @@ For discussion of “[Abducted!: Confrontations with Beings from Outer Space](/u
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1985">1985</a></p>
+<p><a href="{{ '/tags/1985' | relative_url }}">1985</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> and <a href="/ufo-history/ufo-personalities/warrington-peter">Warrington, Peter</a> in their “<a href="/ufo-history/ufo-books/randles-jenny-and-warrington-peter-science-and-the-ufos">Science and the UFOs</a> " (<a href="/tags/1985">1985</a>) (available <a href="http://www.amazon.com/dp/0631135634/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0631135634/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 141 (in Chapter 10) of the Blackwell hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> and <a href="{{ '/ufo-history/ufo-personalities/warrington-peter' | relative_url }}">Warrington, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-warrington-peter-science-and-the-ufos' | relative_url }}">Science and the UFOs</a> " (<a href="{{ '/tags/1985' | relative_url }}">1985</a>) (available <a href="http://www.amazon.com/dp/0631135634/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0631135634/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 141 (in Chapter 10) of the Blackwell hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -120,10 +120,10 @@ For discussion of “[Abducted!: Confrontations with Beings from Outer Space](/u
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sheaffer-robert">Sheaffer, Robert</a> in his “<a href="/ufo-history/ufo-books/sheaffer-robert-the-ufo-verdict">The UFO Verdict</a>” (<a href="/tags/1980">1980</a>) (available <a href="http://www.amazon.com/dp/0879753382/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879753382/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 44 (in Chapter 5) of the Prometheus softback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sheaffer-robert' | relative_url }}">Sheaffer, Robert</a> in his “<a href="{{ '/ufo-history/ufo-books/sheaffer-robert-the-ufo-verdict' | relative_url }}">The UFO Verdict</a>” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) (available <a href="http://www.amazon.com/dp/0879753382/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879753382/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 44 (in Chapter 5) of the Prometheus softback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -131,10 +131,10 @@ For discussion of “[Abducted!: Confrontations with Beings from Outer Space](/u
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sheaffer-robert">Sheaffer, Robert</a> in his “<a href="/ufo-history/ufo-books/sheaffer-robert-ufo-sightings-the-evidence">UFO Sightings: The Evidence</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/1573922137/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573922137/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 75 (in Chapter 5) of the Prometheus hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sheaffer-robert' | relative_url }}">Sheaffer, Robert</a> in his “<a href="{{ '/ufo-history/ufo-books/sheaffer-robert-ufo-sightings-the-evidence' | relative_url }}">UFO Sightings: The Evidence</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/1573922137/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573922137/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 75 (in Chapter 5) of the Prometheus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

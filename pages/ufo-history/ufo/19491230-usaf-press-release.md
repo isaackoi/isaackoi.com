@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/documents_1.gif"}
 ---
 
-![documents_1](/images/stories/ufo_tags/documents_1.gif)
+![documents_1]({{ '/images/stories/ufo_tags/documents_1.gif' | relative_url }})
 
 *USAF press release*
 
@@ -61,10 +61,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1950">1950</a></p>
+<p><a href="{{ '/tags/1950' | relative_url }}">1950</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/keyhoe-donald-e">Keyhoe, Donald E</a> in his “<a href="/ufo-history/ufo-books/keyhoe-donald-e-the-flying-saucers-are-real">The Flying Saucers are Real</a>” (<a href="/tags/1950">1950</a>) (available <a href="http://www.amazon.com/dp/B000IMEYWK/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000IMEYWK/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 39 (in Chapter 5), 144 (in Chapter 16) of the Fawcett Gold Medal paperback edition, which has the same page numbering as the version available on-line at</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/keyhoe-donald-e' | relative_url }}">Keyhoe, Donald E</a> in his “<a href="{{ '/ufo-history/ufo-books/keyhoe-donald-e-the-flying-saucers-are-real' | relative_url }}">The Flying Saucers are Real</a>” (<a href="{{ '/tags/1950' | relative_url }}">1950</a>) (available <a href="http://www.amazon.com/dp/B000IMEYWK/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000IMEYWK/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 39 (in Chapter 5), 144 (in Chapter 16) of the Fawcett Gold Medal paperback edition, which has the same page numbering as the version available on-line at</p>
 <p><a href="http://www.nicap.org/fsar/chapters.htm">http://www.nicap.org/fsar/fsar-chapters.htm</a></p>
 </td>
 <td valign="top" width="52">

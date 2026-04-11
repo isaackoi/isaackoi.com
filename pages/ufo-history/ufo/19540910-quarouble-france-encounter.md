@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -67,10 +67,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1966">1966</a></p>
+<p><a href="{{ '/tags/1966' | relative_url }}">1966</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/edwards-frank">Edwards, Frank</a> in his “<a href="/ufo-history/ufo-books/edwards-frank-flying-saucers-serious-business">Flying Saucers – Serious Business</a>” (<a href="/tags/1966">1966</a>) (available <a href="http://www.amazon.com/dp/B0006BOERI/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0006BOERI/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 57-59 (in Chapter 5) of the Bantam paperback edition, at pages 64-65 of the Mayflower-Dell paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/edwards-frank' | relative_url }}">Edwards, Frank</a> in his “<a href="{{ '/ufo-history/ufo-books/edwards-frank-flying-saucers-serious-business' | relative_url }}">Flying Saucers – Serious Business</a>” (<a href="{{ '/tags/1966' | relative_url }}">1966</a>) (available <a href="http://www.amazon.com/dp/B0006BOERI/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0006BOERI/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 57-59 (in Chapter 5) of the Bantam paperback edition, at pages 64-65 of the Mayflower-Dell paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -78,10 +78,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2007">2007</a></p>
+<p><a href="{{ '/tags/2007' | relative_url }}">2007</a></p>
 </td>
 <td valign="top" width="547">
-<p>Lagrange, Pierre in “Alien Worlds : Social and Religious Dimensions of Extraterrestrial Contact” (<a href="/tags/2007">2007</a>) (edited by Diana Tumminia) (available <a href="http://www.amazon.com/dp/0815608586/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0815608586/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 164-165 (in Chapter 9) of the Syracuse University Press softcover edition.</p>
+<p>Lagrange, Pierre in “Alien Worlds : Social and Religious Dimensions of Extraterrestrial Contact” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (edited by Diana Tumminia) (available <a href="http://www.amazon.com/dp/0815608586/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0815608586/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 164-165 (in Chapter 9) of the Syracuse University Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -89,10 +89,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/lorenzen-coral-e">Lorenzen, Coral</a> and <a href="/ufo-history/ufo-personalities/lorenzen-jim">Lorenzen, Jim</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 455-456 (in an entry entitled “Quarouble (France) encounter”) of the New American Library softcover edition, at pages [insert check Story] of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/lorenzen-coral-e' | relative_url }}">Lorenzen, Coral</a> and <a href="{{ '/ufo-history/ufo-personalities/lorenzen-jim' | relative_url }}">Lorenzen, Jim</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 455-456 (in an entry entitled “Quarouble (France) encounter”) of the New American Library softcover edition, at pages [insert check Story] of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -100,10 +100,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1976">1976</a></p>
+<p><a href="{{ '/tags/1976' | relative_url }}">1976</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/lorenzen-coral-e">Lorenzen, Coral</a> and <a href="/ufo-history/ufo-personalities/lorenzen-jim">Lorenzen, Jim</a> in their “<a href="/ufo-history/ufo-books/lorenzen-coral-and-lorenzen-jim-encounters-with-ufo-occupants">Encounters with UFO Occupants</a>” (<a href="/tags/1976">1976</a>) (available <a href="http://www.amazon.com/dp/0425030938/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0425030938/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 116-118 (in Chapter 8) of the Berkley paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/lorenzen-coral-e' | relative_url }}">Lorenzen, Coral</a> and <a href="{{ '/ufo-history/ufo-personalities/lorenzen-jim' | relative_url }}">Lorenzen, Jim</a> in their “<a href="{{ '/ufo-history/ufo-books/lorenzen-coral-and-lorenzen-jim-encounters-with-ufo-occupants' | relative_url }}">Encounters with UFO Occupants</a>” (<a href="{{ '/tags/1976' | relative_url }}">1976</a>) (available <a href="http://www.amazon.com/dp/0425030938/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0425030938/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 116-118 (in Chapter 8) of the Berkley paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -111,10 +111,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1967">1967</a></p>
+<p><a href="{{ '/tags/1967' | relative_url }}">1967</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/lorenzen-coral-e">Lorenzen, Coral</a> and <a href="/ufo-history/ufo-personalities/lorenzen-jim">Lorenzen, Jim</a> in their “<a href="/ufo-history/ufo-books/lorenzen-coral-and-lorenzen-jim-flying-saucer-occupants">Flying Saucer Occupants</a>” (<a href="/tags/1967">1967</a>) (available <a href="http://www.amazon.com/dp/B0006BQ02U/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0006BQ02U/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 89-91 (in Chapter 5) of the Signet paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/lorenzen-coral-e' | relative_url }}">Lorenzen, Coral</a> and <a href="{{ '/ufo-history/ufo-personalities/lorenzen-jim' | relative_url }}">Lorenzen, Jim</a> in their “<a href="{{ '/ufo-history/ufo-books/lorenzen-coral-and-lorenzen-jim-flying-saucer-occupants' | relative_url }}">Flying Saucer Occupants</a>” (<a href="{{ '/tags/1967' | relative_url }}">1967</a>) (available <a href="http://www.amazon.com/dp/B0006BQ02U/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0006BQ02U/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 89-91 (in Chapter 5) of the Signet paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -122,10 +122,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1958">1958</a></p>
+<p><a href="{{ '/tags/1958' | relative_url }}">1958</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/michel-aime">Michel, Aime</a> in his “<a href="/ufo-history/ufo-books/michel-aime-flying-saucers-and-the-straight-line-mystery">Flying Saucers and the Straight Line Mystery</a>” (<a href="/tags/1958">1958</a>) (available <a href="http://www.amazon.com/dp/0875990770/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0875990770/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 44-48 (in Part 1) of the Criterion hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/michel-aime' | relative_url }}">Michel, Aime</a> in his “<a href="{{ '/ufo-history/ufo-books/michel-aime-flying-saucers-and-the-straight-line-mystery' | relative_url }}">Flying Saucers and the Straight Line Mystery</a>” (<a href="{{ '/tags/1958' | relative_url }}">1958</a>) (available <a href="http://www.amazon.com/dp/0875990770/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0875990770/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 44-48 (in Part 1) of the Criterion hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>
@@ -133,10 +133,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1969">1969</a></p>
+<p><a href="{{ '/tags/1969' | relative_url }}">1969</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/vallee-jacques">Vallee, Jacques</a> in “<a href="/ufo-history/ufo-books/bowen-charles-ed-the-humanoids">The Humanoids</a>” (<a href="/tags/1969">1969</a>) (edited by Charles Bowen) (available <a href="http://www.amazon.com/dp/B000GGZYWC/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000GGZYWC/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 31 (in the unnumbered chapter entitled “The Pattern Behind the UFO Landings”) of the Neville Spearman hardback edition, with the same page numbering in the Futura paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/vallee-jacques' | relative_url }}">Vallee, Jacques</a> in “<a href="{{ '/ufo-history/ufo-books/bowen-charles-ed-the-humanoids' | relative_url }}">The Humanoids</a>” (<a href="{{ '/tags/1969' | relative_url }}">1969</a>) (edited by Charles Bowen) (available <a href="http://www.amazon.com/dp/B000GGZYWC/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000GGZYWC/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 31 (in the unnumbered chapter entitled “The Pattern Behind the UFO Landings”) of the Neville Spearman hardback edition, with the same page numbering in the Futura paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -144,10 +144,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1965">1965</a></p>
+<p><a href="{{ '/tags/1965' | relative_url }}">1965</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/vallee-jacques">Vallee, Jacques</a> in his “<a href="/ufo-history/ufo-books/vallee-jacques-anatomy-of-a-phenomenon-ufos-in-space">Anatomy of a Phenomenon</a>” (<a href="/tags/1965">1965</a>) (available <a href="http://www.amazon.com/dp/0345270754/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0345270754/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 68-69 (in Chapter 3) of the Henry Regnery hardback edition (with the same page numbering in the Tandem paperback edition) at pages 74-75 of the Ballantine Books paperback edition, pages 108-109 of the <a href="/tags/1966">1966</a> revised and enlarged Ace Star paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/vallee-jacques' | relative_url }}">Vallee, Jacques</a> in his “<a href="{{ '/ufo-history/ufo-books/vallee-jacques-anatomy-of-a-phenomenon-ufos-in-space' | relative_url }}">Anatomy of a Phenomenon</a>” (<a href="{{ '/tags/1965' | relative_url }}">1965</a>) (available <a href="http://www.amazon.com/dp/0345270754/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0345270754/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 68-69 (in Chapter 3) of the Henry Regnery hardback edition (with the same page numbering in the Tandem paperback edition) at pages 74-75 of the Ballantine Books paperback edition, pages 108-109 of the <a href="{{ '/tags/1966' | relative_url }}">1966</a> revised and enlarged Ace Star paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -155,10 +155,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1988">1988</a></p>
+<p><a href="{{ '/tags/1988' | relative_url }}">1988</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/vallee-jacques">Vallee, Jacques</a> in his “<a href="/ufo-history/ufo-books/vallee-jaques-dimensions">Dimensions</a>“ (<a href="/tags/1988">1988</a>) (available <a href="http://www.amazon.com/dp/1933665289/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1933665289/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 24-25 (in Chapter 1) of the Souvenir Press hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/vallee-jacques' | relative_url }}">Vallee, Jacques</a> in his “<a href="{{ '/ufo-history/ufo-books/vallee-jaques-dimensions' | relative_url }}">Dimensions</a>“ (<a href="{{ '/tags/1988' | relative_url }}">1988</a>) (available <a href="http://www.amazon.com/dp/1933665289/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1933665289/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 24-25 (in Chapter 1) of the Souvenir Press hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -166,10 +166,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1970">1970</a></p>
+<p><a href="{{ '/tags/1970' | relative_url }}">1970</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/vallee-jacques">Vallee, Jacques</a> in his “<a href="/ufo-history/ufo-books/vallee-jacques-passport-to-magonia">Passport to Magonia</a>” (<a href="/tags/1970">1970</a>) (available <a href="http://www.amazon.com/dp/B0006CPDGI/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0006CPDGI/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 17-18 (in Chapter 1) [and at pages 209, 223 (in the Appendix entitled “A Century of UFO Landings (1868-<a href="/tags/1968">1968</a>)”)] of the Regnery hardback edition, with the same page numbering in the Tandem paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/vallee-jacques' | relative_url }}">Vallee, Jacques</a> in his “<a href="{{ '/ufo-history/ufo-books/vallee-jacques-passport-to-magonia' | relative_url }}">Passport to Magonia</a>” (<a href="{{ '/tags/1970' | relative_url }}">1970</a>) (available <a href="http://www.amazon.com/dp/B0006CPDGI/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0006CPDGI/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 17-18 (in Chapter 1) [and at pages 209, 223 (in the Appendix entitled “A Century of UFO Landings (1868-<a href="{{ '/tags/1968' | relative_url }}">1968</a>)”)] of the Regnery hardback edition, with the same page numbering in the Tandem paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>

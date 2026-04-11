@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/1567183077.jpg"}
 book: {"identifiers": ["1567183077"], "primary_isbn": "1567183077", "cover_image": "/book-covers/1567183077.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of Bruce Goldberg's book “[Time Travelers from our Future: An explanation of alien abduction](/ufo-history/ufo-books/goldberg-bruce-time-travelers-from-our-future-an-explanation-of-alien-abduction)” ([1988](/tags/1988)) (available [on Amazon USA](http://www.amazon.com/dp/1567183077/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1567183077/?&tag=ufot-21))
+Brief review to be added of Bruce Goldberg's book “[Time Travelers from our Future: An explanation of alien abduction]({{ '/ufo-history/ufo-books/goldberg-bruce-time-travelers-from-our-future-an-explanation-of-alien-abduction' | relative_url }})” ([1988]({{ '/tags/1988' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1567183077/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1567183077/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

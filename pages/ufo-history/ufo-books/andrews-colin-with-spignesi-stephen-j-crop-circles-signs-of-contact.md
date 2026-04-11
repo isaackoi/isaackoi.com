@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/156414674X.jpg"}
 book: {"identifiers": ["156414674X"], "primary_isbn": "156414674X", "cover_image": "/book-covers/156414674X.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Andrews, Colin](/ufo-history/ufo-personalities/andrews-colin) with Spignesi, Stephen J “[Crop Circles: Signs of Contact](/ufo-history/ufo-books/andrews-colin-with-spignesi-stephen-j-crop-circles-signs-of-contact)” (available [on Amazon USA](http://www.amazon.com/dp/156414674X/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/156414674X/?&tag=ufot-21))
+Brief review to be added of [Andrews, Colin]({{ '/ufo-history/ufo-personalities/andrews-colin' | relative_url }}) with Spignesi, Stephen J “[Crop Circles: Signs of Contact]({{ '/ufo-history/ufo-books/andrews-colin-with-spignesi-stephen-j-crop-circles-signs-of-contact' | relative_url }})” (available [on Amazon USA](http://www.amazon.com/dp/156414674X/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/156414674X/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -52,10 +52,10 @@ Many of the tables of references on this website are considerably longer than th
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2003">2003</a></p>
+<p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/presley-reg">Presley, Reg</a> in “<a href="/ufo-history/ufo-books/andrews-colin-with-spignesi-stephen-j-crop-circles-signs-of-contact">Crop Circles: Signs of Contact</a>” (<a href="/tags/2003">2003</a>) (by Colin Andrews with Stephen J Spignesi) (available <a href="http://www.amazon.com/dp/156414674X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/156414674X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 19-20 (in the Introduction) of the New Page softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/presley-reg' | relative_url }}">Presley, Reg</a> in “<a href="{{ '/ufo-history/ufo-books/andrews-colin-with-spignesi-stephen-j-crop-circles-signs-of-contact' | relative_url }}">Crop Circles: Signs of Contact</a>” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) (by Colin Andrews with Stephen J Spignesi) (available <a href="http://www.amazon.com/dp/156414674X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/156414674X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 19-20 (in the Introduction) of the New Page softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

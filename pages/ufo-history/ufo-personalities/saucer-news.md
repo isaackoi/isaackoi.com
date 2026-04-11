@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/no_avatar.jpg"}
 ---
 
-![](/images/stories/no_avatar.jpg)
+![]({{ '/images/stories/no_avatar.jpg' | relative_url }})
 
 *Image needed*
 
@@ -57,10 +57,10 @@ For discussion of “Saucer News” see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) in Volume 2:L-Z at pages 652 (in an entry entitled “<a href="/ufo-history/ufo-personalities/moseley-james">Moseley, James</a> Willett (<a href="/tags/1931">1931</a>- )”), 816-817 (in an entry entitled “<em>Saucer News</em>”) of the Omnigraphics hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition' | relative_url }}">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) in Volume 2:L-Z at pages 652 (in an entry entitled “<a href="{{ '/ufo-history/ufo-personalities/moseley-james' | relative_url }}">Moseley, James</a> Willett (<a href="{{ '/tags/1931' | relative_url }}">1931</a>- )”), 816-817 (in an entry entitled “<em>Saucer News</em>”) of the Omnigraphics hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -68,10 +68,10 @@ For discussion of “Saucer News” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq">The UFO Encyclopedia: 1st edition</a>: Volume 2 – Emergence of a Phenomenon” (<a href="/tags/1992">1992</a>) (available <a href="http://www.amazon.com/dp/1558887415/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558887415/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 298-300 (in an entry entitled “<em>Saucer News</em>”) of the Omnigraphics hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq' | relative_url }}">The UFO Encyclopedia: 1st edition</a>: Volume 2 – Emergence of a Phenomenon” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="http://www.amazon.com/dp/1558887415/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558887415/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 298-300 (in an entry entitled “<em>Saucer News</em>”) of the Omnigraphics hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -79,10 +79,10 @@ For discussion of “Saucer News” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/vallee-jacques">Vallee, Jacques</a> in his “<a href="/ufo-history/ufo-books/vallee-jacques-forbidden-science-journals-1957-1969">Forbidden Science: Journals 1957-1969</a>.” (<a href="/tags/1992">1992</a>) (available <a href="http://www.amazon.com/dp/1556431252/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1556431252/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 158 (in the entry dated <a href="/tags/1965">1965</a>.1023) of the North Atlantic Books hardback edition, at pages 163-164 of the <a href="/tags/1996">1996</a> abridged Marlowe paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/vallee-jacques' | relative_url }}">Vallee, Jacques</a> in his “<a href="{{ '/ufo-history/ufo-books/vallee-jacques-forbidden-science-journals-1957-1969' | relative_url }}">Forbidden Science: Journals 1957-1969</a>.” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="http://www.amazon.com/dp/1556431252/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1556431252/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 158 (in the entry dated <a href="{{ '/tags/1965' | relative_url }}">1965</a>.1023) of the North Atlantic Books hardback edition, at pages 163-164 of the <a href="{{ '/tags/1996' | relative_url }}">1996</a> abridged Marlowe paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -90,10 +90,10 @@ For discussion of “Saucer News” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2002">2002</a></p>
+<p><a href="{{ '/tags/2002' | relative_url }}">2002</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/moseley-james">Moseley, James</a> and <a href="/ufo-history/ufo-personalities/pflock-karl-t">Pflock, Karl</a> in their “<a href="/ufo-history/ufo-books/moseley-james-and-pflock-karl-shockingly-close-to-the-truth">Shockingly Close to the Truth!</a>” (<a href="/tags/2002">2002</a>) generally, particularly at pages 103 (in Chapter 4), 104-109, 111 (in Chapter 5), 205, 213-215 (in Chapter 9) of the Prometheus hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/moseley-james' | relative_url }}">Moseley, James</a> and <a href="{{ '/ufo-history/ufo-personalities/pflock-karl-t' | relative_url }}">Pflock, Karl</a> in their “<a href="{{ '/ufo-history/ufo-books/moseley-james-and-pflock-karl-shockingly-close-to-the-truth' | relative_url }}">Shockingly Close to the Truth!</a>” (<a href="{{ '/tags/2002' | relative_url }}">2002</a>) generally, particularly at pages 103 (in Chapter 4), 104-109, 111 (in Chapter 5), 205, 213-215 (in Chapter 9) of the Prometheus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>12</p>

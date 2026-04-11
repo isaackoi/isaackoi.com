@@ -44,9 +44,9 @@ The website for the MESS Theater Festival in Sarajevo in 2005 included a page wi
 
 The following sample screenshots are taken from that video for ease of identification of the relevant video:
 
-![](/images/stories/ufo_videos/video002_1.JPG)
+![]({{ '/images/stories/ufo_videos/video002_1.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video002_2.JPG)
+![]({{ '/images/stories/ufo_videos/video002_2.JPG' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this video
@@ -66,7 +66,7 @@ In January 2007, I contacted the website of the organisers of the MESS Festival.
 
 I asked Nihad Kresevljakovic whether the makers of the video had followed the discussion of their video on the Internet and, if so, what they thought about the fact that the video kept appearing on various UFO forums and what they thought of the various opinions expressed. Nihad Kresevljakovic replied that his own opinion was that it was "partly funny and it is partly scary".
 
-![](/images/stories/ufo_videos/video002_3.JPG)
+![]({{ '/images/stories/ufo_videos/video002_3.JPG' | relative_url }})
 
 A [website apparently run by a "Rudolf Bosnjak"](http://www.sartelcom.net/ET/ufo_nlo/ufo_nlo_sarajevo.html) claimed that "This UFO sighting WAS NOT a commercial video for The International Theater Festival in Sarajevo as NOW, after world know about this, all wish to declare. In time of event nobody know about that." However, I cannot find any intelligible reasons on Bosnjak's website for reaching the conclusion that the video was not promoting the Theater Festival in Sarajevo.
 
@@ -89,4 +89,4 @@ Relevant discussions on the AboveTopSecret.com forum include the following:
 
 # **“[Fabulous Sarajevo UFO video - A fake](http://www.alien-ufos.com/forum/showthread.php?t=10169)”**
 
-![](/images/stories/ufo_videos/video002_1d.jpg)
+![]({{ '/images/stories/ufo_videos/video002_1d.jpg' | relative_url }})

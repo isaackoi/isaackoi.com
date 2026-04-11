@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0450011844.jpg"}
 book: {"identifiers": ["0450011844", "0805204504", "0801002265", "0091879272", "1901018008", "1416516778", "0345336895"], "primary_isbn": "0450011844", "cover_image": "/book-covers/0450011844.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Frank Herbert](/ufo-history/ufo-personalities/herbert-frank)'s book “[Dune](/ufo-history/ufo-books/herbert-frank-dune)” ([1965](/tags/1965)) (available [on Amazon USA](http://www.amazon.com/dp/0450011844/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0450011844/?&tag=ufot-21))
+Brief review to be added of [Frank Herbert]({{ '/ufo-history/ufo-personalities/herbert-frank' | relative_url }})'s book “[Dune]({{ '/ufo-history/ufo-books/herbert-frank-dune' | relative_url }})” ([1965]({{ '/tags/1965' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0450011844/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0450011844/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion of “Dune” see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1973">1973</a></p>
+<p><a href="{{ '/tags/1973' | relative_url }}">1973</a></p>
 </td>
 <td valign="top" width="547">
-<p>Aldiss, Brian in his “Billion Year Spree” (<a href="/tags/1973">1973</a>) (available <a href="http://www.amazon.com/dp/0805204504/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0805204504/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 274-276 (in Chapter 10) of the Weidenfeld &amp; Nicolson hardback edition.</p>
+<p>Aldiss, Brian in his “Billion Year Spree” (<a href="{{ '/tags/1973' | relative_url }}">1973</a>) (available <a href="http://www.amazon.com/dp/0805204504/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0805204504/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 274-276 (in Chapter 10) of the Weidenfeld &amp; Nicolson hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -65,10 +65,10 @@ For discussion of “Dune” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/alnor-william-m">Alnor, William M</a> in his “<a href="/ufo-history/ufo-books/alnor-william-m-ufo-in-the-new-age">UFO in the New Age</a>” (<a href="/tags/1992">1992</a>) (available <a href="http://www.amazon.com/dp/0801002265/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0801002265/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 124 (in Chapter 7) of the Baker softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/alnor-william-m' | relative_url }}">Alnor, William M</a> in his “<a href="{{ '/ufo-history/ufo-books/alnor-william-m-ufo-in-the-new-age' | relative_url }}">UFO in the New Age</a>” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="http://www.amazon.com/dp/0801002265/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0801002265/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 124 (in Chapter 7) of the Baker softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -76,10 +76,10 @@ For discussion of “Dune” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2002">2002</a></p>
+<p><a href="{{ '/tags/2002' | relative_url }}">2002</a></p>
 </td>
 <td valign="top" width="547">
-<p>Cohen, Jack and Stewart, Ian in their “<a href="/ufo-history/ufo-books/cohen-jack-and-stewart-ian-evolving-the-alien">Evolving the Alien</a>” (<a href="/tags/2002">2002</a>) (available <a href="http://www.amazon.com/dp/0091879272/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0091879272/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 158-160 (in Chapter 7) of the Ebury Press hardback edition.</p>
+<p>Cohen, Jack and Stewart, Ian in their “<a href="{{ '/ufo-history/ufo-books/cohen-jack-and-stewart-ian-evolving-the-alien' | relative_url }}">Evolving the Alien</a>” (<a href="{{ '/tags/2002' | relative_url }}">2002</a>) (available <a href="http://www.amazon.com/dp/0091879272/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0091879272/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 158-160 (in Chapter 7) of the Ebury Press hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -87,10 +87,10 @@ For discussion of “Dune” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p>Miller, David and Gatiss, Mark in their “<a href="/ufo-history/ufo-books/miller-david-and-gatiss-mark-they-came-from-outer-space-alien-encounters-in-the-movies">They Came From Outer Space : Alien Encounters in the Movies</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/1901018008/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1901018008/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 112-113 of the Visual Imagination softcover edition.</p>
+<p>Miller, David and Gatiss, Mark in their “<a href="{{ '/ufo-history/ufo-books/miller-david-and-gatiss-mark-they-came-from-outer-space-alien-encounters-in-the-movies' | relative_url }}">They Came From Outer Space : Alien Encounters in the Movies</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/1901018008/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1901018008/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 112-113 of the Visual Imagination softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -98,10 +98,10 @@ For discussion of “Dune” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2006">2006</a></p>
+<p><a href="{{ '/tags/2006' | relative_url }}">2006</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/radin-dean">Radin, Dean</a> in his “<a href="/ufo-history/ufo-books/radin-dean-entangled-minds-extrasensory-experiences-in-a-quantum-reality">Entangled Minds : Extrasensory Experiences in a Quantum Reality</a>” (<a href="/tags/2006">2006</a>) (available <a href="http://www.amazon.com/dp/1416516778/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1416516778/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 263 (in Chapter 13) of the Paraview Pocket Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/radin-dean' | relative_url }}">Radin, Dean</a> in his “<a href="{{ '/ufo-history/ufo-books/radin-dean-entangled-minds-extrasensory-experiences-in-a-quantum-reality' | relative_url }}">Entangled Minds : Extrasensory Experiences in a Quantum Reality</a>” (<a href="{{ '/tags/2006' | relative_url }}">2006</a>) (available <a href="http://www.amazon.com/dp/1416516778/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1416516778/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 263 (in Chapter 13) of the Paraview Pocket Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -109,10 +109,10 @@ For discussion of “Dune” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1979">1979</a></p>
+<p><a href="{{ '/tags/1979' | relative_url }}">1979</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sagan-carl">Sagan, Carl</a> in his “<a href="/ufo-history/ufo-books/sagan-carl-brocas-brain">Broca’s Brain</a>” (<a href="/tags/1979">1979</a>) (available <a href="http://www.amazon.com/dp/0345336895/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0345336895/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 176 (in Chapter 9) of the Coronet paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sagan-carl' | relative_url }}">Sagan, Carl</a> in his “<a href="{{ '/ufo-history/ufo-books/sagan-carl-brocas-brain' | relative_url }}">Broca’s Brain</a>” (<a href="{{ '/tags/1979' | relative_url }}">1979</a>) (available <a href="http://www.amazon.com/dp/0345336895/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0345336895/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 176 (in Chapter 9) of the Coronet paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

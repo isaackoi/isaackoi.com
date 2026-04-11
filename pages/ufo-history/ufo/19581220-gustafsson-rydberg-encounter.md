@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -63,10 +63,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/baker-alan">Baker, Alan</a> in his “<a href="/ufo-history/ufo-books/baker-alan-the-encyclopaedia-of-alien-encounters">The Encyclopaedia of Alien Encounters</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/1852277343/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1852277343/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 37 (in an entry entitled “Blob (Aliens)” of the Virgin hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/baker-alan' | relative_url }}">Baker, Alan</a> in his “<a href="{{ '/ufo-history/ufo-books/baker-alan-the-encyclopaedia-of-alien-encounters' | relative_url }}">The Encyclopaedia of Alien Encounters</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/1852277343/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1852277343/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 37 (in an entry entitled “Blob (Aliens)” of the Virgin hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -74,10 +74,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq">The UFO Encyclopedia: 1st edition</a>: Volume 2 – Emergence of a Phenomenon” (<a href="/tags/1992">1992</a>) (available <a href="http://www.amazon.com/dp/1558887415/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558887415/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 131 (in an entry entitled “Domsten CE3 Hoax”) of the Omnigraphics hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq' | relative_url }}">The UFO Encyclopedia: 1st edition</a>: Volume 2 – Emergence of a Phenomenon” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="http://www.amazon.com/dp/1558887415/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558887415/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 131 (in an entry entitled “Domsten CE3 Hoax”) of the Omnigraphics hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -85,10 +85,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) in Volume 1:A-K at pages 337-339 (in an entry entitled “Domsten CE3 Hoax”) of the Omnigraphics hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition' | relative_url }}">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) in Volume 1:A-K at pages 337-339 (in an entry entitled “Domsten CE3 Hoax”) of the Omnigraphics hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -96,10 +96,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1967">1967</a></p>
+<p><a href="{{ '/tags/1967' | relative_url }}">1967</a></p>
 </td>
 <td valign="top" width="547">
-<p>Erskine, Allen Louis in his “Why Are They Watching Us?” (<a href="/tags/1967">1967</a>) (available <a href="http://www.amazon.com/dp/B000I9JDLK/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000I9JDLK/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 89 (in Chapter 10) of the Tower paperback edition.</p>
+<p>Erskine, Allen Louis in his “Why Are They Watching Us?” (<a href="{{ '/tags/1967' | relative_url }}">1967</a>) (available <a href="http://www.amazon.com/dp/B000I9JDLK/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000I9JDLK/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 89 (in Chapter 10) of the Tower paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -107,10 +107,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1967">1967</a></p>
+<p><a href="{{ '/tags/1967' | relative_url }}">1967</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/green-gabriel">Green, Gabriel</a> with <a href="/ufo-history/ufo-personalities/smith-warren">Smith, Warren</a> in their “Let’s face the facts about Flying Saucers” (<a href="/tags/1967">1967</a>) (available <a href="http://www.amazon.com/dp/B0006BS25S/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0006BS25S/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 95-96 (in the unnumbered chapter entitled “Raiders from the Skies”) of the Popular Library paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/green-gabriel' | relative_url }}">Green, Gabriel</a> with <a href="{{ '/ufo-history/ufo-personalities/smith-warren' | relative_url }}">Smith, Warren</a> in their “Let’s face the facts about Flying Saucers” (<a href="{{ '/tags/1967' | relative_url }}">1967</a>) (available <a href="http://www.amazon.com/dp/B0006BS25S/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0006BS25S/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 95-96 (in the unnumbered chapter entitled “Raiders from the Skies”) of the Popular Library paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -118,10 +118,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/huyghe-patrick">Huyghe, Patrick</a> in his “<a href="/ufo-history/ufo-books/huyghe-patrick-the-field-guide-to-extraterrestrials">The Field Guide to Extraterrestrials</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/038078128X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/038078128X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 116-117 (in the unnumbered section entitled “Exotic”) of the Avon softcover edition (with the same page numbering in the NEL softcover edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/huyghe-patrick' | relative_url }}">Huyghe, Patrick</a> in his “<a href="{{ '/ufo-history/ufo-books/huyghe-patrick-the-field-guide-to-extraterrestrials' | relative_url }}">The Field Guide to Extraterrestrials</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/038078128X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/038078128X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 116-117 (in the unnumbered section entitled “Exotic”) of the Avon softcover edition (with the same page numbering in the NEL softcover edition).</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -129,10 +129,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="547">
-<p>Jackson, Robert in his “UFOs” (<a href="/tags/1992">1992</a>) (available <a href="http://www.amazon.com/dp/0831790563/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0831790563/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 31-33 (in the unnumbered chapter entitled “Lights in the Sky”) of the Smithmark hardback edition.</p>
+<p>Jackson, Robert in his “UFOs” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="http://www.amazon.com/dp/0831790563/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0831790563/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 31-33 (in the unnumbered chapter entitled “Lights in the Sky”) of the Smithmark hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -140,10 +140,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1962">1962</a></p>
+<p><a href="{{ '/tags/1962' | relative_url }}">1962</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/lorenzen-coral-e">Lorenzen, Coral E</a> in her “<a href="/ufo-history/ufo-books/lorenzen-coral-e-the-great-flying-saucer-hoax">The Great Flying Saucer Hoax</a>” (<a href="/tags/1962">1962</a>) (available <a href="http://www.amazon.com/dp/B0007EF5K4/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0007EF5K4/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 56-61 (in Chapter 6) of the <a href="/ufo-history/ufo-personalities/apro">APRO</a> hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/lorenzen-coral-e' | relative_url }}">Lorenzen, Coral E</a> in her “<a href="{{ '/ufo-history/ufo-books/lorenzen-coral-e-the-great-flying-saucer-hoax' | relative_url }}">The Great Flying Saucer Hoax</a>” (<a href="{{ '/tags/1962' | relative_url }}">1962</a>) (available <a href="http://www.amazon.com/dp/B0007EF5K4/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0007EF5K4/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 56-61 (in Chapter 6) of the <a href="{{ '/ufo-history/ufo-personalities/apro' | relative_url }}">APRO</a> hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>6</p>
@@ -151,10 +151,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1966">1966</a></p>
+<p><a href="{{ '/tags/1966' | relative_url }}">1966</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/lorenzen-coral-e">Lorenzen, Coral</a> in “<a href="/ufo-history/ufo-books/lorenzen-coral-e-flying-saucers-the-startling-evidence-of-the-invasion-from-outer-space">Flying Saucers : the Startling Evidence of the Invasion from Outer Space</a>” (<a href="/tags/1966">1966</a>) (an enlarged version of her “<a href="/ufo-history/ufo-books/lorenzen-coral-e-the-great-flying-saucer-hoax">The Great Flying Saucer Hoax</a>” (<a href="/tags/1962">1962</a>)) (available <a href="http://www.amazon.com/dp/B000BD1A2I/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000BD1A2I/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 60-64 (in Chapter 6) of the Signet paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/lorenzen-coral-e' | relative_url }}">Lorenzen, Coral</a> in “<a href="{{ '/ufo-history/ufo-books/lorenzen-coral-e-flying-saucers-the-startling-evidence-of-the-invasion-from-outer-space' | relative_url }}">Flying Saucers : the Startling Evidence of the Invasion from Outer Space</a>” (<a href="{{ '/tags/1966' | relative_url }}">1966</a>) (an enlarged version of her “<a href="{{ '/ufo-history/ufo-books/lorenzen-coral-e-the-great-flying-saucer-hoax' | relative_url }}">The Great Flying Saucer Hoax</a>” (<a href="{{ '/tags/1962' | relative_url }}">1962</a>)) (available <a href="http://www.amazon.com/dp/B000BD1A2I/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000BD1A2I/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 60-64 (in Chapter 6) of the Signet paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>
@@ -162,10 +162,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p>Marvels and Mysteries (Editors Of) in “Marvels and Mysteries: Aliens” (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/075251217X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/075251217X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 101-102 of the Parrallel softcover edition.</p>
+<p>Marvels and Mysteries (Editors Of) in “Marvels and Mysteries: Aliens” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/075251217X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/075251217X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 101-102 of the Parrallel softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -173,10 +173,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p>Picknett, Lynn in her “<a href="/ufo-history/ufo-books/picknett-lynn-the-mammoth-book-of-ufos">The Mammoth Book of UFOs</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/078670800X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/078670800X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 70-71 (in Chapter 2) of the Robinson softcover edition.</p>
+<p>Picknett, Lynn in her “<a href="{{ '/ufo-history/ufo-books/picknett-lynn-the-mammoth-book-of-ufos' | relative_url }}">The Mammoth Book of UFOs</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/078670800X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/078670800X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 70-71 (in Chapter 2) of the Robinson softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -184,10 +184,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randle-kevin">Randle, Kevin</a> D and <a href="/ufo-history/ufo-personalities/estes-russ">Estes, Russ</a> in their “<a href="/ufo-history/ufo-books/randle-kevin-d-and-estes-russ-faces-of-the-visitors">Faces of the Visitors</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0684839733/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684839733/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 96-98 (in Part 2) of the Fireside softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randle-kevin' | relative_url }}">Randle, Kevin</a> D and <a href="{{ '/ufo-history/ufo-personalities/estes-russ' | relative_url }}">Estes, Russ</a> in their “<a href="{{ '/ufo-history/ufo-books/randle-kevin-d-and-estes-russ-faces-of-the-visitors' | relative_url }}">Faces of the Visitors</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0684839733/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684839733/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 96-98 (in Part 2) of the Fireside softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -195,10 +195,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p>Ritchie, David in his “<a href="/ufo-history/ufo-books/ritchie-david-ufo-the-definitive-guide">UFO : The Definitive Guide</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/1567312004/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1567312004/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 102 (in an entry entitled “Hoganas-Helsingborg incident, Sweden”) of the MJF hardback edition.</p>
+<p>Ritchie, David in his “<a href="{{ '/ufo-history/ufo-books/ritchie-david-ufo-the-definitive-guide' | relative_url }}">UFO : The Definitive Guide</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/1567312004/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1567312004/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 102 (in an entry entitled “Hoganas-Helsingborg incident, Sweden”) of the MJF hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -206,10 +206,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/spencer-john">Spencer, John</a> in his “<a href="/ufo-history/ufo-books/spencer-john-ufos-the-definitive-casebook">UFOs: The Definitive Casebook</a>” (<a href="/tags/1991">1991</a>) (available <a href="http://www.amazon.com/dp/B000S52VNG/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000S52VNG/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 88 (in the unnumbered section entitled “Europe”, in the chapter entitled “Database”) of the Hamlyn hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">Spencer, John</a> in his “<a href="{{ '/ufo-history/ufo-books/spencer-john-ufos-the-definitive-casebook' | relative_url }}">UFOs: The Definitive Casebook</a>” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/B000S52VNG/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000S52VNG/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 88 (in the unnumbered section entitled “Europe”, in the chapter entitled “Database”) of the Hamlyn hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -217,10 +217,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1966">1966</a></p>
+<p><a href="{{ '/tags/1966' | relative_url }}">1966</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/steiger-brad">Steiger, Brad</a> in his “Strangers from the Skies” (<a href="/tags/1966">1966</a>) (available <a href="http://www.amazon.com/dp/B0006CCFX2/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0006CCFX2/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 53-56 (in Chapter 8 generally) of the Award Books paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/steiger-brad' | relative_url }}">Steiger, Brad</a> in his “Strangers from the Skies” (<a href="{{ '/tags/1966' | relative_url }}">1966</a>) (available <a href="http://www.amazon.com/dp/B0006CCFX2/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0006CCFX2/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 53-56 (in Chapter 8 generally) of the Award Books paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -232,7 +232,7 @@ For discussion see the following:
 <a id="other"></a>
 ### Other Material
 
-Listed as Project Blue Book Case Number 6212 on the redacted US National Archives and Records Administration (“NARA”) microfilm records of Project Blue Book, released to the National Archives in [1975](/tags/1975) – see National Archives Microfilm Publication T1206 roll number 1. An image of the relevant index page has been given the unique Page ID (“PID”) of NARA-PBB1-208 (page 208 of 1014) at the link below.
+Listed as Project Blue Book Case Number 6212 on the redacted US National Archives and Records Administration (“NARA”) microfilm records of Project Blue Book, released to the National Archives in [1975]({{ '/tags/1975' | relative_url }}) – see National Archives Microfilm Publication T1206 roll number 1. An image of the relevant index page has been given the unique Page ID (“PID”) of NARA-PBB1-208 (page 208 of 1014) at the link below.
 
 Listed (without a Project Blue Book Case Number) on the unredacted Maxwell Air Force Base (“Maxwell”) microfilm records of Project Blue Book – see Maxwell microfilm roll number 30,363. An image of the relevant index page has been given the unique Page ID (“PID”) of MAXW-PBB2-448 (page 448 of 1352) at the link below.
 

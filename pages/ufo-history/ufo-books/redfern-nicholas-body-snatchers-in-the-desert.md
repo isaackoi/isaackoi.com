@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0743497538.jpg"}
 book: {"identifiers": ["0743497538"], "primary_isbn": "0743497538", "cover_image": "/book-covers/0743497538.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Nicholas Redfern](/ufo-history/ufo-personalities/redfern-nicholas)'s book “[Body Snatchers in the Desert: The Horrible Truth at the heart of the Roswell Story](/ufo-history/ufo-books/redfern-nicholas-body-snatchers-in-the-desert)” ([2005](/tags/2005)) (available [on Amazon USA](http://www.amazon.com/dp/0743497538/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0743497538/?&tag=ufot-21))
+Brief review to be added of [Nicholas Redfern]({{ '/ufo-history/ufo-personalities/redfern-nicholas' | relative_url }})'s book “[Body Snatchers in the Desert: The Horrible Truth at the heart of the Roswell Story]({{ '/ufo-history/ufo-books/redfern-nicholas-body-snatchers-in-the-desert' | relative_url }})” ([2005]({{ '/tags/2005' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0743497538/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0743497538/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -67,10 +67,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1993">1993</a></p>
+<p><a href="{{ '/tags/1993' | relative_url }}">1993</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/andrews-george-c">Andrews, George C</a> in his “Extra-Terrestrial Friends and Foes” (<a href="/tags/1993">1993</a>) (available <a href="http://www.amazon.com/dp/0962653489/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0962653489/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 9-11 (in Chapter 1), 341 (in the Credits) of the Illuminet Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/andrews-george-c' | relative_url }}">Andrews, George C</a> in his “Extra-Terrestrial Friends and Foes” (<a href="{{ '/tags/1993' | relative_url }}">1993</a>) (available <a href="http://www.amazon.com/dp/0962653489/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0962653489/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 9-11 (in Chapter 1), 341 (in the Credits) of the Illuminet Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -78,10 +78,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1986">1986</a></p>
+<p><a href="{{ '/tags/1986' | relative_url }}">1986</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/andrews-george-c">Andrews, George C</a> in his “<a href="/ufo-history/ufo-books/andrews-george-c-extra-terrestrials-among-us">Extra-Terrestrials Among Us</a>” (<a href="/tags/1986">1986</a>) (available <a href="http://www.amazon.com/dp/087542001X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/087542001X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 276-278 (in the Appendix) of the Llewellyn softcover edition, at pages 315-317 of the Llewellyn paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/andrews-george-c' | relative_url }}">Andrews, George C</a> in his “<a href="{{ '/ufo-history/ufo-books/andrews-george-c-extra-terrestrials-among-us' | relative_url }}">Extra-Terrestrials Among Us</a>” (<a href="{{ '/tags/1986' | relative_url }}">1986</a>) (available <a href="http://www.amazon.com/dp/087542001X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/087542001X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 276-278 (in the Appendix) of the Llewellyn softcover edition, at pages 315-317 of the Llewellyn paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -89,10 +89,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/berliner-don">Berliner, Don</a> with <a href="/ufo-history/ufo-personalities/galbraith-marie">Galbraith, Marie</a> and <a href="/ufo-history/ufo-personalities/huneeus-antonio">Huneeus, Antonio</a> in their “<a href="/ufo-history/ufo-books/berliner-don-with-galbraith-marie-and-huneeus-antonio-ufo-briefing-document-the-best-available-evidence">UFO Briefing Document : The Best Available Evidence</a>“ (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/044023638X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/044023638X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 121-127 of the Dell paperback edition (Part 2: Case Histories, section entitled “<a href="/tags/1986">1986</a>: Jet Chase Over Brazil”).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/berliner-don' | relative_url }}">Berliner, Don</a> with <a href="{{ '/ufo-history/ufo-personalities/galbraith-marie' | relative_url }}">Galbraith, Marie</a> and <a href="{{ '/ufo-history/ufo-personalities/huneeus-antonio' | relative_url }}">Huneeus, Antonio</a> in their “<a href="{{ '/ufo-history/ufo-books/berliner-don-with-galbraith-marie-and-huneeus-antonio-ufo-briefing-document-the-best-available-evidence' | relative_url }}">UFO Briefing Document : The Best Available Evidence</a>“ (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/044023638X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/044023638X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 121-127 of the Dell paperback edition (Part 2: Case Histories, section entitled “<a href="{{ '/tags/1986' | relative_url }}">1986</a>: Jet Chase Over Brazil”).</p>
 </td>
 <td valign="top" width="52">
 <p>7</p>
@@ -100,10 +100,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/good-timothy">Good, Timothy</a> in his “<a href="/ufo-history/ufo-books/good-timothy-beyond-top-secret">Beyond Top Secret</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/0283062452/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0283062452/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 272-273 (in Chapter 13) of the Sidgwick &amp; Jackson hardback edition (with the same page numbering in the Pan paperback edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/good-timothy' | relative_url }}">Good, Timothy</a> in his “<a href="{{ '/ufo-history/ufo-books/good-timothy-beyond-top-secret' | relative_url }}">Beyond Top Secret</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/0283062452/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0283062452/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 272-273 (in Chapter 13) of the Sidgwick &amp; Jackson hardback edition (with the same page numbering in the Pan paperback edition).</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -111,10 +111,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1988">1988</a></p>
+<p><a href="{{ '/tags/1988' | relative_url }}">1988</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/hall-richard-h">Hall, Richard</a> in his “<a href="/ufo-history/ufo-books/hall-richard-uninvited-guests">Uninvited Guests</a>” (<a href="/tags/1988">1988</a>) (available <a href="http://www.amazon.com/dp/0943358329/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0943358329/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 317-319 (in Appendix A) of the Aurora Press paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hall-richard-h' | relative_url }}">Hall, Richard</a> in his “<a href="{{ '/ufo-history/ufo-books/hall-richard-uninvited-guests' | relative_url }}">Uninvited Guests</a>” (<a href="{{ '/tags/1988' | relative_url }}">1988</a>) (available <a href="http://www.amazon.com/dp/0943358329/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0943358329/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 317-319 (in Appendix A) of the Aurora Press paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -122,10 +122,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1987">1987</a></p>
+<p><a href="{{ '/tags/1987' | relative_url }}">1987</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/savelli-guy">Smith, Willy</a> in “<a href="/ufo-history/ufo-books/evans-hilary-and-spencer-john-ufo-1947-1987">UFO: 1947-1987</a>” (<a href="/tags/1987">1987</a>) (edited by <a href="/ufo-history/ufo-personalities/evans-hilary">Hilary Evans</a> with <a href="/ufo-history/ufo-personalities/spencer-john">John Spencer</a>) (available <a href="http://www.amazon.com/dp/1870021029/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1870021029/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 111-113 of the Fortean Tomes softcover edition (in Chapter 2.3.4, entitled “UFOs in Latin America”).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/savelli-guy' | relative_url }}">Smith, Willy</a> in “<a href="{{ '/ufo-history/ufo-books/evans-hilary-and-spencer-john-ufo-1947-1987' | relative_url }}">UFO: 1947-1987</a>” (<a href="{{ '/tags/1987' | relative_url }}">1987</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }}">Hilary Evans</a> with <a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">John Spencer</a>) (available <a href="http://www.amazon.com/dp/1870021029/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1870021029/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 111-113 of the Fortean Tomes softcover edition (in Chapter 2.3.4, entitled “UFOs in Latin America”).</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>

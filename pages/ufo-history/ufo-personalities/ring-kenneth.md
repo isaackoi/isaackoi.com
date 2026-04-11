@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/ring_kenneth_1.jpg"}
 ---
 
-![ring_kenneth_1](/images/stories/ufo_personalities/ring_kenneth_1.jpg)
+![ring_kenneth_1]({{ '/images/stories/ufo_personalities/ring_kenneth_1.jpg' | relative_url }})
 
 *Kenneth Ring*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/ring-kenneth">Ring, Kenneth</a> “<a href="/ufo-history/ufo-books/ring-kenneth-the-omega-project-near-death-experiences-ufo-encounters-and-the-mind-at-large">The Omega Project: Near-Death Experiences, UFO Encounters, and the Mind at Large</a>” (<a href="/tags/1992">1992</a>) (available <a href="http://www.amazon.com/dp/068810729X/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/068810729X/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/ring-kenneth' | relative_url }}">Ring, Kenneth</a> “<a href="{{ '/ufo-history/ufo-books/ring-kenneth-the-omega-project-near-death-experiences-ufo-encounters-and-the-mind-at-large' | relative_url }}">The Omega Project: Near-Death Experiences, UFO Encounters, and the Mind at Large</a>” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="http://www.amazon.com/dp/068810729X/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/068810729X/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>
@@ -59,7 +59,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-See the references provided in the entry for Ring's book “[The Omega Project: Near-Death Experiences, UFO Encounters, and the Mind at Large](/ufo-history/ufo-books/ring-kenneth-the-omega-project-near-death-experiences-ufo-encounters-and-the-mind-at-large)” ([1992](/tags/1992)).
+See the references provided in the entry for Ring's book “[The Omega Project: Near-Death Experiences, UFO Encounters, and the Mind at Large]({{ '/ufo-history/ufo-books/ring-kenneth-the-omega-project-near-death-experiences-ufo-encounters-and-the-mind-at-large' | relative_url }})” ([1992]({{ '/tags/1992' | relative_url }})).
 
 <a id="other"></a>
 ### Other Material

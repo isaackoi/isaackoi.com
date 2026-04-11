@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -63,10 +63,10 @@ For discussion of the Beverly, Massachusetts incident see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1974">1974</a></p>
+<p><a href="{{ '/tags/1974' | relative_url }}">1974</a></p>
 </td>
 <td valign="top" width="547">
-<p>Blum, Ralph and Blum, Judy in their “<a href="/ufo-history/ufo-books/blum-ralph-and-blum-judy-beyond-earth-mans-contact-with-ufos">Beyond Earth: Man’s Contact with UFOs</a>” (<a href="/tags/1974">1974</a>) (available <a href="http://www.amazon.com/dp/B000H3RDQY/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000H3RDQY/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 162-163 (in Chapter 14) of the Bantam paperback edition (with the same page numbering in the Corgi paperback edition).</p>
+<p>Blum, Ralph and Blum, Judy in their “<a href="{{ '/ufo-history/ufo-books/blum-ralph-and-blum-judy-beyond-earth-mans-contact-with-ufos' | relative_url }}">Beyond Earth: Man’s Contact with UFOs</a>” (<a href="{{ '/tags/1974' | relative_url }}">1974</a>) (available <a href="http://www.amazon.com/dp/B000H3RDQY/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000H3RDQY/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 162-163 (in Chapter 14) of the Bantam paperback edition (with the same page numbering in the Corgi paperback edition).</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -74,11 +74,11 @@ For discussion of the Beverly, Massachusetts incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1969">1969</a></p>
+<p><a href="{{ '/tags/1969' | relative_url }}">1969</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects">Condon Report</a> (“<a href="/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects">Scientific Study of Unidentified Flying Objects</a>”, Edward U Condon (Director) and Daniel S Gillmor (Editor) (<a href="/tags/1969">1969</a>)) as Condon Case 6 at pages 104 (in Section 3, Chapter 1 “Field Studies”, by Roy Craig), 405-410 (in Section 4, “Case Studies”) of the uncorrected version submitted to the Air Force (with the same page numbering in the 3 volume paperbound edition distributed by the National Technical Information Service, US Department of Commerce) at pages 72-73, 266-270 of the Vision hardback edition (with the same page numbering in the Bantam paperback edition). The first of these editions has the same page numbering as the edition available free online at the following links:</p>
-<p>http://www.project<a href="/tags/1947">1947</a>.com/shg/condon/contents.html</p>
+<p><a href="{{ '/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects' | relative_url }}">Condon Report</a> (“<a href="{{ '/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects' | relative_url }}">Scientific Study of Unidentified Flying Objects</a>”, Edward U Condon (Director) and Daniel S Gillmor (Editor) (<a href="{{ '/tags/1969' | relative_url }}">1969</a>)) as Condon Case 6 at pages 104 (in Section 3, Chapter 1 “Field Studies”, by Roy Craig), 405-410 (in Section 4, “Case Studies”) of the uncorrected version submitted to the Air Force (with the same page numbering in the 3 volume paperbound edition distributed by the National Technical Information Service, US Department of Commerce) at pages 72-73, 266-270 of the Vision hardback edition (with the same page numbering in the Bantam paperback edition). The first of these editions has the same page numbering as the edition available free online at the following links:</p>
+<p>http://www.project<a href="{{ '/tags/1947' | relative_url }}">1947</a>.com/shg/condon/contents.html</p>
 </td>
 <td valign="top" width="52">
 <p>7</p>
@@ -86,10 +86,10 @@ For discussion of the Beverly, Massachusetts incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/craig-roy">Craig, Roy</a> in his “<a href="/ufo-history/ufo-books/craig-roy-ufos-an-insiders-view">UFOs – An Insider’s View</a>” (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/0929398947/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0929398947/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 192-193 (in Chapter 11) of the UNT softback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/craig-roy' | relative_url }}">Craig, Roy</a> in his “<a href="{{ '/ufo-history/ufo-books/craig-roy-ufos-an-insiders-view' | relative_url }}">UFOs – An Insider’s View</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/0929398947/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0929398947/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 192-193 (in Chapter 11) of the UNT softback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -97,10 +97,10 @@ For discussion of the Beverly, Massachusetts incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1981">1981</a></p>
+<p><a href="{{ '/tags/1981' | relative_url }}">1981</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fowler-raymond-e">Fowler, Raymond E</a> in his “<a href="/ufo-history/ufo-books/fowler-raymond-e-casebook-of-a-ufo-investigator">Casebook of a UFO Investigator</a>” (<a href="/tags/1981">1981</a>) (available <a href="http://www.amazon.com/dp/013117424X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/013117424X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 45-52 (in Chapter 5) of the Prentice-Hall hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fowler-raymond-e' | relative_url }}">Fowler, Raymond E</a> in his “<a href="{{ '/ufo-history/ufo-books/fowler-raymond-e-casebook-of-a-ufo-investigator' | relative_url }}">Casebook of a UFO Investigator</a>” (<a href="{{ '/tags/1981' | relative_url }}">1981</a>) (available <a href="http://www.amazon.com/dp/013117424X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/013117424X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 45-52 (in Chapter 5) of the Prentice-Hall hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>8</p>
@@ -108,10 +108,10 @@ For discussion of the Beverly, Massachusetts incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1974">1974</a></p>
+<p><a href="{{ '/tags/1974' | relative_url }}">1974</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fowler-raymond-e">Fowler, Raymond E</a> in his “UFOs: Interplanetary Visitors” (<a href="/tags/1974">1974</a>) (available <a href="http://www.amazon.com/dp/0595186947/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0595186947/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 130-136 (in Chapter 9) of the Exposition Banner hardback edition, at pages 126-132 of the Bantam paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fowler-raymond-e' | relative_url }}">Fowler, Raymond E</a> in his “UFOs: Interplanetary Visitors” (<a href="{{ '/tags/1974' | relative_url }}">1974</a>) (available <a href="http://www.amazon.com/dp/0595186947/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0595186947/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 130-136 (in Chapter 9) of the Exposition Banner hardback edition, at pages 126-132 of the Bantam paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>7</p>
@@ -119,10 +119,10 @@ For discussion of the Beverly, Massachusetts incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1969">1969</a></p>
+<p><a href="{{ '/tags/1969' | relative_url }}">1969</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fuller-john-g">Fuller, John</a> in his “<a href="/ufo-history/ufo-books/fuller-john-aliens-in-the-skies">Aliens in the Skies</a>” (<a href="/tags/1969">1969</a>) (available <a href="http://www.amazon.com/dp/B000HLWN6Q/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000HLWN6Q/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 37 (in the Introduction) of the Putnam hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fuller-john-g' | relative_url }}">Fuller, John</a> in his “<a href="{{ '/ufo-history/ufo-books/fuller-john-aliens-in-the-skies' | relative_url }}">Aliens in the Skies</a>” (<a href="{{ '/tags/1969' | relative_url }}">1969</a>) (available <a href="http://www.amazon.com/dp/B000HLWN6Q/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000HLWN6Q/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 37 (in the Introduction) of the Putnam hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -130,10 +130,10 @@ For discussion of the Beverly, Massachusetts incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/hall-michael-david">Hall, Michael David</a> in his “<a href="/ufo-history/ufo-books/hall-michael-david-ufos-a-century-of-sightings">UFOs : A Century of Sightings</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/1880090627/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1880090627/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 284-285, 295 (in Chapter 7) of the Galde Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hall-michael-david' | relative_url }}">Hall, Michael David</a> in his “<a href="{{ '/ufo-history/ufo-books/hall-michael-david-ufos-a-century-of-sightings' | relative_url }}">UFOs : A Century of Sightings</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/1880090627/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1880090627/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 284-285, 295 (in Chapter 7) of the Galde Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -141,10 +141,10 @@ For discussion of the Beverly, Massachusetts incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1968">1968</a></p>
+<p><a href="{{ '/tags/1968' | relative_url }}">1968</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/mcdonald-james-e">McDonald, James E</a> in his prepared statement to the Roush Hearing (the U.S. House of Representatives Committee on Science and Astronautics “Symposium on Unidentified Flying Objects” on <a href="/tags/1968">1968</a>.0729) at page 58 (in the discussion of Case 19) of the transcript of the Ninetieth Congress, Second Session, Number 7. Complete transcript available free online at the following links:</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/mcdonald-james-e' | relative_url }}">McDonald, James E</a> in his prepared statement to the Roush Hearing (the U.S. House of Representatives Committee on Science and Astronautics “Symposium on Unidentified Flying Objects” on <a href="{{ '/tags/1968' | relative_url }}">1968</a>.0729) at page 58 (in the discussion of Case 19) of the transcript of the Ninetieth Congress, Second Session, Number 7. Complete transcript available free online at the following links:</p>
 <p><a href="http://ncas.sawco.com/ufosymposium/contents.html">http://ncas.sawco.com/ufosymposium/contents.html</a> <a href="http://www.project1947.com/shg/symposium/contents.html%20">http://www.project1947.com/shg/symposium/contents.html</a></p>
 </td>
 <td valign="top" width="52">
@@ -153,10 +153,10 @@ For discussion of the Beverly, Massachusetts incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1977">1977</a></p>
+<p><a href="{{ '/tags/1977' | relative_url }}">1977</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/menzel-donald-h">Menzel, Donald</a> and Taves, Ernest in their “<a href="/ufo-history/ufo-books/menzel-donald-h-and-taves-ernest-the-ufo-enigma">The UFO Enigma</a>“ (<a href="/tags/1977">1977</a>) (available <a href="http://www.amazon.com/dp/0385035969/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0385035969/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 96-98 (in Chapter 8, “The [Condon Report’s] ‘Unexplained Cases”) of the Doubleday hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/menzel-donald-h' | relative_url }}">Menzel, Donald</a> and Taves, Ernest in their “<a href="{{ '/ufo-history/ufo-books/menzel-donald-h-and-taves-ernest-the-ufo-enigma' | relative_url }}">The UFO Enigma</a>“ (<a href="{{ '/tags/1977' | relative_url }}">1977</a>) (available <a href="http://www.amazon.com/dp/0385035969/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0385035969/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 96-98 (in Chapter 8, “The [Condon Report’s] ‘Unexplained Cases”) of the Doubleday hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -164,10 +164,10 @@ For discussion of the Beverly, Massachusetts incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1974">1974</a></p>
+<p><a href="{{ '/tags/1974' | relative_url }}">1974</a></p>
 </td>
 <td valign="top" width="547">
-<p>Rehn, K Gosta in his “UFOs Here and Now” (<a href="/tags/1974">1974</a>) (available <a href="http://www.amazon.com/dp/020072195X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/020072195X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 14-15 (in the unnumbered chapter entitled “The Condon-Colorado Report”) of the Abelard-Schuman hardback edition.</p>
+<p>Rehn, K Gosta in his “UFOs Here and Now” (<a href="{{ '/tags/1974' | relative_url }}">1974</a>) (available <a href="http://www.amazon.com/dp/020072195X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/020072195X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 14-15 (in the unnumbered chapter entitled “The Condon-Colorado Report”) of the Abelard-Schuman hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -175,10 +175,10 @@ For discussion of the Beverly, Massachusetts incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2003">2003</a></p>
+<p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sparks-brad">Sparks, Brad</a> in version 1.7 of his “Comprehensive Catalog of 1,500 Project BLUE BOOK UFO Unknowns” (<a href="/tags/2003">2003</a>) as Case Number 1445 on page 180 of the PDF edition (with the same page numbering in the Microsoft Word edition). Both editions are available online, respectively at the following links:</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sparks-brad' | relative_url }}">Sparks, Brad</a> in version 1.7 of his “Comprehensive Catalog of 1,500 Project BLUE BOOK UFO Unknowns” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) as Case Number 1445 on page 180 of the PDF edition (with the same page numbering in the Microsoft Word edition). Both editions are available online, respectively at the following links:</p>
 <p><a href="http://www.cufos.org/BB_Unknowns_1_7.pdf">http://www.cufos.org/BB_Unknowns_1_7.pdf</a></p>
 <p><a href="http://www.nicap.org/bluebook/CufosBBUnknowns.doc">http://www.nicap.org/bluebook/CufosBBUnknowns.doc</a></p>
 </td>
@@ -188,10 +188,10 @@ For discussion of the Beverly, Massachusetts incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1993">1993</a></p>
+<p><a href="{{ '/tags/1993' | relative_url }}">1993</a></p>
 </td>
 <td valign="top" width="547">
-<p>Thompson, Richard in his “<a href="/ufo-history/ufo-books/thompson-richard-alien-identities-ancient-insights-into-modern-ufo-pheonemena">Alien Identities: Ancient Insights into Modern UFO Pheonemena</a>” (<a href="/tags/1993">1993</a>) (available <a href="http://www.amazon.com/dp/0963530941/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963530941/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 96-98 (in Chapter 3) of the GHP revised softcover edition.</p>
+<p>Thompson, Richard in his “<a href="{{ '/ufo-history/ufo-books/thompson-richard-alien-identities-ancient-insights-into-modern-ufo-pheonemena' | relative_url }}">Alien Identities: Ancient Insights into Modern UFO Pheonemena</a>” (<a href="{{ '/tags/1993' | relative_url }}">1993</a>) (available <a href="http://www.amazon.com/dp/0963530941/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963530941/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 96-98 (in Chapter 3) of the GHP revised softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -199,10 +199,10 @@ For discussion of the Beverly, Massachusetts incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1970">1970</a></p>
+<p><a href="{{ '/tags/1970' | relative_url }}">1970</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/vallee-jacques">Vallee, Jacques</a> in his “<a href="/ufo-history/ufo-books/vallee-jacques-passport-to-magonia">Passport to Magonia</a>” (<a href="/tags/1970">1970</a>) (available <a href="http://www.amazon.com/dp/B0006CPDGI/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0006CPDGI/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 330 (in the Appendix entitled “A Century of UFO Landings (1868-<a href="/tags/1968">1968</a>)”) of the Regnery hardback edition, with the relevant Appendix omitted from the Tandem paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/vallee-jacques' | relative_url }}">Vallee, Jacques</a> in his “<a href="{{ '/ufo-history/ufo-books/vallee-jacques-passport-to-magonia' | relative_url }}">Passport to Magonia</a>” (<a href="{{ '/tags/1970' | relative_url }}">1970</a>) (available <a href="http://www.amazon.com/dp/B0006CPDGI/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0006CPDGI/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 330 (in the Appendix entitled “A Century of UFO Landings (1868-<a href="{{ '/tags/1968' | relative_url }}">1968</a>)”) of the Regnery hardback edition, with the relevant Appendix omitted from the Tandem paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -210,10 +210,10 @@ For discussion of the Beverly, Massachusetts incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/watts-alan">Watts, Alan</a> in his “<a href="/ufo-history/ufo-books/watts-alan-ufo-visitation">UFO Visitation</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/0713726008/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713726008/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 19-20 (in Chapter 2) of the Blandford softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/watts-alan' | relative_url }}">Watts, Alan</a> in his “<a href="{{ '/ufo-history/ufo-books/watts-alan-ufo-visitation' | relative_url }}">UFO Visitation</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/0713726008/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713726008/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 19-20 (in Chapter 2) of the Blandford softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -221,10 +221,10 @@ For discussion of the Beverly, Massachusetts incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/wilson-colin">Wilson, Colin</a> in his “<a href="/ufo-history/ufo-books/wilson-colin-alien-dawn">Alien Dawn</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0880642262/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0880642262/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 98 (in Chapter 3) of the Virgin softcover edition (with the same page numbering in the Virgin paperback edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/wilson-colin' | relative_url }}">Wilson, Colin</a> in his “<a href="{{ '/ufo-history/ufo-books/wilson-colin-alien-dawn' | relative_url }}">Alien Dawn</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0880642262/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0880642262/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 98 (in Chapter 3) of the Virgin softcover edition (with the same page numbering in the Virgin paperback edition).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

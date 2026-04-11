@@ -62,9 +62,9 @@ And it’s called mental wealth
 
 Screen shots from the video are included below for ease of identification:
 
-![](/images/stories/ufo_videos/video054_1.JPG)
+![]({{ '/images/stories/ufo_videos/video054_1.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video054_2.JPG)
+![]({{ '/images/stories/ufo_videos/video054_2.JPG' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this video
@@ -78,13 +78,13 @@ Most people appear to recognise this video as an advertisement, with relatively 
 
 This video was created by [British video artist Chris Cunningham](http://en.wikipedia.org/wiki/Chris_Cunningham) as an advertisement (entitled "Material Wealth") for the Sony Playstation in 1999. It was broadcast on television in various countries. At the end of the video, the Sony Playstation logo appeared with a link to a Playstation website.
 
-![](/images/stories/ufo_videos/video054_3.JPG)
+![]({{ '/images/stories/ufo_videos/video054_3.JPG' | relative_url }})
 
 The Sony Playstation logo has been omitted from some of the copies placed on Youtube. Coincidentally, the copies of the video without the Sony Playstation logo appear to have become the most viewed and discussed.
 
 The video is also displayed on [Chris Cunningham's own website](http://www.chriscunningham.com/).
 
-![](/images/stories/ufo_videos/video054_4.JPG)
+![]({{ '/images/stories/ufo_videos/video054_4.JPG' | relative_url }})
 
 Chris Cunningham's other videos include "Rubber Johnny", embedded below.
 
@@ -94,15 +94,15 @@ Various other websites also refer to the "Mental Wealth" Sony Playstation advert
 
 For example, [the Director File website](http://www.director-file.com/cunningham/sony-playstation-mental-wealth/) states that "Mental Wealth was Chris’ first commercial since he decided to quit the promo scene" and that "Continuing along the lines he’s drawn in technological futurism, he makes an alien reality frighteningly believable", commenting that Chris Cunningham "has us watch this charming, pig-tailed girl with eerily human/inhuman facial features advise us about our own destinies". That website states that the girl in the video was Fiona Maclean (although I think the correct spelling is in fact "Fiona Maclaine"). Chris Cunningham worked with The Mill’s Flame operator, Barnsley, on designing a look for the girl, which involved pulling her eyes apart and turning them inwards, shrinking her nose, squashing her mouth and stretching her body out like a bean-pole.
 
-![](/images/stories/ufo_videos/video054_5.JPG)
+![]({{ '/images/stories/ufo_videos/video054_5.JPG' | relative_url }})
 
 A brief page on the IMDB website relating to Fiona Maclaine indicates that she is an actress that appeared in the movies "[Minotaur](http://www.imdb.com/title/tt0415160?ref_=nm_ov_bio_lk2)" (2006), "[Mercenaries](http://www.imdb.com/title/tt1728979?ref_=nm_ov_bio_lk3)" (2011) and "**[The Sky in Bloom](http://www.imdb.com/title/tt2216748/?ref_=nm_flmg_act_2)"** (2013).
 
-![](/images/stories/ufo_videos/video054_6.JPG)
+![]({{ '/images/stories/ufo_videos/video054_6.JPG' | relative_url }})
 
 Further details, and photos, of Fiona Maclaine appear in [an entry on the Spotlight.com website](http://www.spotlight.com/interactive/cv/1417-6752-1226).
 
-![](/images/stories/ufo_videos/video054_7.JPG)
+![]({{ '/images/stories/ufo_videos/video054_7.JPG' | relative_url }})
 
 <a id="forums"></a>
 ### 4. Relevant online discussions
@@ -113,4 +113,4 @@ Relevant discussions on the AboveTopSecret.com forum include the following:
 
 2007 (October) discussion entitled "[Cummingham Video - Mental Wealth - Make-Up Or Gray Alien Girl?](http://www.abovetopsecret.com/forum/thread308851/pg1)"
 
-![](/images/stories/ufo_videos/video054_2d.jpg)
+![]({{ '/images/stories/ufo_videos/video054_2d.jpg' | relative_url }})

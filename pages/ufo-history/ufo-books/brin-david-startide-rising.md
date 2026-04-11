@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/055327418X.jpg"}
 book: {"identifiers": ["055327418X", "0521343267", "0091879272", "0802711057"], "primary_isbn": "055327418X", "cover_image": "/book-covers/055327418X.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of David Brin's “[Startide Rising](/ufo-history/ufo-books/brin-david-startide-rising)” ([1983](/tags/1983)) (available [on Amazon USA](http://www.amazon.com/dp/055327418X/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/055327418X/?&tag=ufot-21)).
+Brief review to be added of David Brin's “[Startide Rising]({{ '/ufo-history/ufo-books/brin-david-startide-rising' | relative_url }})” ([1983]({{ '/tags/1983' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/055327418X/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/055327418X/?&tag=ufot-21)).
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion of this book, and the Uplift Wars series, see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/dick-steven-j">Dick, Steven J</a> in his “<a href="/ufo-history/ufo-books/dick-steven-j-the-biological-universe">The Biological Universe</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/0521343267/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521343267/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 261 (in Chapter 5) of the Cambridge hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dick-steven-j' | relative_url }}">Dick, Steven J</a> in his “<a href="{{ '/ufo-history/ufo-books/dick-steven-j-the-biological-universe' | relative_url }}">The Biological Universe</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/0521343267/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521343267/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 261 (in Chapter 5) of the Cambridge hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -65,10 +65,10 @@ For discussion of this book, and the Uplift Wars series, see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2002">2002</a></p>
+<p><a href="{{ '/tags/2002' | relative_url }}">2002</a></p>
 </td>
 <td valign="top" width="547">
-<p>Cohen, Jack and Stewart, Ian in their “<a href="/ufo-history/ufo-books/cohen-jack-and-stewart-ian-evolving-the-alien">Evolving the Alien</a>” (<a href="/tags/2002">2002</a>) (available <a href="http://www.amazon.com/dp/0091879272/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0091879272/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 214-216 (in Chapter 10) of the Ebury Press hardback edition.</p>
+<p>Cohen, Jack and Stewart, Ian in their “<a href="{{ '/ufo-history/ufo-books/cohen-jack-and-stewart-ian-evolving-the-alien' | relative_url }}">Evolving the Alien</a>” (<a href="{{ '/tags/2002' | relative_url }}">2002</a>) (available <a href="http://www.amazon.com/dp/0091879272/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0091879272/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 214-216 (in Chapter 10) of the Ebury Press hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -76,10 +76,10 @@ For discussion of this book, and the Uplift Wars series, see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="547">
-<p>White, Frank in his “<a href="/ufo-history/ufo-books/white-frank-the-seti-factor">The SETI Factor</a>” (<a href="/tags/1990">1990</a>) (available <a href="http://www.amazon.com/dp/0802711057/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0802711057/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 150 (in Chapter 9) of the Walker hardback edition.</p>
+<p>White, Frank in his “<a href="{{ '/ufo-history/ufo-books/white-frank-the-seti-factor' | relative_url }}">The SETI Factor</a>” (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) (available <a href="http://www.amazon.com/dp/0802711057/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0802711057/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 150 (in Chapter 9) of the Walker hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

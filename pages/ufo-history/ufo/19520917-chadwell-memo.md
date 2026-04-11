@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/cia_1.gif"}
 ---
 
-![cia_1](/images/stories/ufo_tags/cia_1.gif)
+![cia_1]({{ '/images/stories/ufo_tags/cia_1.gif' | relative_url }})
 
 *Chadwell memo*
 
@@ -39,9 +39,9 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-Image of relevant memo in [Timothy Good](/ufo-history/ufo-personalities/good-timothy)’s “[Above Top Secret](/ufo-history/ufo-books/good-timothy-above-top-secret)” ([1987](/tags/1987)) (available [on Amazon USA](http://www.amazon.com/dp/0688092020/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0688092020/ref=nosim?tag=ufot-21)) at pages 502-503 (in the Appendix) of the Sidgwick & Jackson hardback edition (with the same page numbering in the Guild Publishing hardback edition and the Grafton paperback edition).
+Image of relevant memo in [Timothy Good]({{ '/ufo-history/ufo-personalities/good-timothy' | relative_url }})’s “[Above Top Secret]({{ '/ufo-history/ufo-books/good-timothy-above-top-secret' | relative_url }})” ([1987]({{ '/tags/1987' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0688092020/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0688092020/ref=nosim?tag=ufot-21)) at pages 502-503 (in the Appendix) of the Sidgwick & Jackson hardback edition (with the same page numbering in the Guild Publishing hardback edition and the Grafton paperback edition).
 
-Complete text of memo presented by [Hall, Michael David](/ufo-history/ufo-personalities/hall-michael-david) and [Connors, Wendy Ann](/ufo-history/ufo-personalities/connors-wendy-ann) in their “[Captain Edward J Ruppelt: Summer of the Saucers - 1952](/ufo-history/ufo-books/hall-michael-david-and-connors-wendy-ann-captain-edward-j-ruppelt)” ([2000](/tags/2000)) (available [on Amazon USA](http://www.amazon.com/dp/0970505507/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0970505507/ref=nosim?tag=ufot-21)) at 282-283 (in Appendix 4) of the Rose Press softcover edition.
+Complete text of memo presented by [Hall, Michael David]({{ '/ufo-history/ufo-personalities/hall-michael-david' | relative_url }}) and [Connors, Wendy Ann]({{ '/ufo-history/ufo-personalities/connors-wendy-ann' | relative_url }}) in their “[Captain Edward J Ruppelt: Summer of the Saucers - 1952]({{ '/ufo-history/ufo-books/hall-michael-david-and-connors-wendy-ann-captain-edward-j-ruppelt' | relative_url }})” ([2000]({{ '/tags/2000' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0970505507/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0970505507/ref=nosim?tag=ufot-21)) at 282-283 (in Appendix 4) of the Rose Press softcover edition.
 
 The table below includes references to relevant discussions in UFO/SETI books noted by Isaac Koi during a review of approximately 963 UFO/SETI books during the period 2003-2006 (with a few later additions). The table can be sorted by author, date and length of discussion by clicking on the relevant word in the top line of the table.
 
@@ -67,20 +67,20 @@ For discussion see the following:
 <tbody>
 <tr>
 <td>
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td>
-<p>Haines, Gerald K (National Reconnaissance Office historian) at footnote 22 in his study entitled “A Die-Hard Issue : CIA's Role in the Study of UFOs, <a href="/tags/1947">1947</a>-90” in “Studies in Intelligence”, Issue <a href="/tags/1997">1997</a> Vol. 1, No. 1 (the text of the study is available online on various websites, including the CIA’s:</p>
+<p>Haines, Gerald K (National Reconnaissance Office historian) at footnote 22 in his study entitled “A Die-Hard Issue : CIA's Role in the Study of UFOs, <a href="{{ '/tags/1947' | relative_url }}">1947</a>-90” in “Studies in Intelligence”, Issue <a href="{{ '/tags/1997' | relative_url }}">1997</a> Vol. 1, No. 1 (the text of the study is available online on various websites, including the CIA’s:</p>
 <p><a href="http://www.cia.gov/csi/studies/97unclass/ufo.html#ft22">http://www.cia.gov/csi/studies/97unclass/ufo.html#ft22</a></p>
 </td>
 <td>1</td>
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/hall-michael-david">Hall, Michael David</a> and <a href="/ufo-history/ufo-personalities/connors-wendy-ann">Connors, Wendy Ann</a> in their “<a href="/ufo-history/ufo-books/hall-michael-david-and-connors-wendy-ann-captain-edward-j-ruppelt">Captain Edward J Ruppelt : Summer of the Saucers - 1952</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/0970505507/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0970505507/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 197 (in Chapter 7), with complete text of memo presented at 282-283 (in Appendix 4) of the Rose Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hall-michael-david' | relative_url }}">Hall, Michael David</a> and <a href="{{ '/ufo-history/ufo-personalities/connors-wendy-ann' | relative_url }}">Connors, Wendy Ann</a> in their “<a href="{{ '/ufo-history/ufo-books/hall-michael-david-and-connors-wendy-ann-captain-edward-j-ruppelt' | relative_url }}">Captain Edward J Ruppelt : Summer of the Saucers - 1952</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/0970505507/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0970505507/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 197 (in Chapter 7), with complete text of memo presented at 282-283 (in Appendix 4) of the Rose Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

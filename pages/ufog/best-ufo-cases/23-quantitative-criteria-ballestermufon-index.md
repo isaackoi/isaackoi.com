@@ -13,9 +13,9 @@ planned_sections: []
 header: {"preview_image": null}
 ---
 
-“[Best UFO Cases](/ufog/best-ufo-cases)” by Isaac Koi
+“[Best UFO Cases]({{ '/ufog/best-ufo-cases' | relative_url }})” by Isaac Koi
 
-[PART 23: Quantitative criteria: Ballester/MUFON index](/ufog/best-ufo-cases/23-quantitative-criteria-ballestermufon-index)
+[PART 23: Quantitative criteria: Ballester/MUFON index]({{ '/ufog/best-ufo-cases/23-quantitative-criteria-ballestermufon-index' | relative_url }})
 
 **Introduction**
 
@@ -45,7 +45,7 @@ The values to be assigned for each of these factors was set out in the article, 
 
 This factor “indicates the ‘strength’ that a report has for analysis based on how it was acquired”.
 
-This factor is similar to the [S]ource and [V]isit factors in Jacques Vallee’s SVP criteria (see [PART 21: Quantitative criteria: Vallee’s SVP ratings](/ufog/best-ufo-cases/21-quantitative-criteria-vallees-svp-ratings)) and the Investigation Levels proposed by Jenny Randles (see the relevant discussion towards the end of [PART 20: Quantitative criteria: Hynek – Strangeness and Probability](/ufog/best-ufo-cases/20-quantitative-criteria-hynek-strangeness-and-probability)).
+This factor is similar to the [S]ource and [V]isit factors in Jacques Vallee’s SVP criteria (see [PART 21: Quantitative criteria: Vallee’s SVP ratings]({{ '/ufog/best-ufo-cases/21-quantitative-criteria-vallees-svp-ratings' | relative_url }})) and the Investigation Levels proposed by Jenny Randles (see the relevant discussion towards the end of [PART 20: Quantitative criteria: Hynek – Strangeness and Probability]({{ '/ufog/best-ufo-cases/20-quantitative-criteria-hynek-strangeness-and-probability' | relative_url }})).
 
 <table border="1" cellpadding="0" cellspacing="0" class="sortable" data-sortable="true">
 <tbody>
@@ -235,7 +235,7 @@ While such values can probably be assigned fairly easily by the person that cond
 
 This factor indicates “the ‘abnormality’ level of a report compared to normal processes, familiar phenomena and known manufactured objects”.
 
-It is similar to the Strangeness Rating suggested by J Allen Hynek (see [PART 20: Quantitative criteria: Hynek – Strangeness and Probability](/ufog/best-ufo-cases/20-quantitative-criteria-hynek-strangeness-and-probability)).
+It is similar to the Strangeness Rating suggested by J Allen Hynek (see [PART 20: Quantitative criteria: Hynek – Strangeness and Probability]({{ '/ufog/best-ufo-cases/20-quantitative-criteria-hynek-strangeness-and-probability' | relative_url }})).
 
 The article suggests that “one simply counts up” the number of the following seven features that are “commonly found in sighting reports” and divides by seven:
 
@@ -261,7 +261,7 @@ This factor indicates “the witness ‘credibility’ ”.
 
 The “Reliability Index” is considerably more complicated than the above factors. There are six categories within this parameter and each is assigned a “weight factor”. MUFON’s manual states that a researcher “selects the appropriate number from each category, multiplies it by its ‘weight factor’ and ultimately adds the six results together”.
 
-A similar method of giving different weights to different factors has been described by Claude Poher (see the relevant discussion near the end of [PART 20: Quantitative criteria: Hynek – Strangeness and Probability](/ufog/best-ufo-cases/20-quantitative-criteria-hynek-strangeness-and-probability)).
+A similar method of giving different weights to different factors has been described by Claude Poher (see the relevant discussion near the end of [PART 20: Quantitative criteria: Hynek – Strangeness and Probability]({{ '/ufog/best-ufo-cases/20-quantitative-criteria-hynek-strangeness-and-probability' | relative_url }})).
 
 Credibility Feature 1: Number of witnesses (“a sighting is more believable if it has more witnesses”)
 

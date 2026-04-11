@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/1573929913.jpg"}
 book: {"identifiers": ["1573929913"], "primary_isbn": "1573929913", "cover_image": "/book-covers/1573929913.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of “[Shockingly Close to the Truth!](/ufo-history/ufo-books/moseley-james-and-pflock-karl-shockingly-close-to-the-truth)” ([2002](/tags/2002)) (available [on Amazon USA](http://www.amazon.com/dp/1573929913/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1573929913/?&tag=ufot-21)) by [James Moseley](/ufo-history/ufo-personalities/moseley-james) and [Karl T Pflock](/ufo-history/ufo-personalities/pflock-karl-t)
+Brief review to be added of “[Shockingly Close to the Truth!]({{ '/ufo-history/ufo-books/moseley-james-and-pflock-karl-shockingly-close-to-the-truth' | relative_url }})” ([2002]({{ '/tags/2002' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1573929913/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1573929913/?&tag=ufot-21)) by [James Moseley]({{ '/ufo-history/ufo-personalities/moseley-james' | relative_url }}) and [Karl T Pflock]({{ '/ufo-history/ufo-personalities/pflock-karl-t' | relative_url }})
 
 1. [Web Resources](#web)
 

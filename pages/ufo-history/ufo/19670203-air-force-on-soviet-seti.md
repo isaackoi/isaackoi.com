@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/seti_1.jpg"}
 ---
 
-![seti_1](/images/stories/ufo_tags/seti_1.jpg)
+![seti_1]({{ '/images/stories/ufo_tags/seti_1.jpg' | relative_url }})
 
 *Air Force on Soviet SETI*
 
@@ -39,12 +39,12 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-Extract from report presented by [Steiger, Brad](/ufo-history/ufo-personalities/steiger-brad) in his “[Project Blue Book](/ufo-history/ufo-books/steiger-brad-project-blue-book)“ ([1976](/tags/1976)) (available [on Amazon USA](http://www.amazon.com/dp/0345345258/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0345345258/ref=nosim?tag=ufot-21)) at pages 285-324 (in Chapter Eleven) of the Ballantine Books paperback edition.
+Extract from report presented by [Steiger, Brad]({{ '/ufo-history/ufo-personalities/steiger-brad' | relative_url }}) in his “[Project Blue Book]({{ '/ufo-history/ufo-books/steiger-brad-project-blue-book' | relative_url }})“ ([1976]({{ '/tags/1976' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0345345258/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0345345258/ref=nosim?tag=ufot-21)) at pages 285-324 (in Chapter Eleven) of the Ballantine Books paperback edition.
 
 <a id="other"></a>
 ### Other Material
 
-Complete images of the relevant report included on the redacted US National Archives and Records Administration (“NARA”) microfilm records of Project Blue Book, released to the National Archives in [1975](/tags/1975) – see National Archives Microfilm Publication T1206 roll number 86 (“Administrative Files: Box 3”). Images of the relevant pages are at the link below from the page with the unique Page ID (“PID”) of NARA-PBB86-1178 (page 1178 of 1249) to the page with the PID of NARA-PBB86-1249 (page 1249 of 1249).
+Complete images of the relevant report included on the redacted US National Archives and Records Administration (“NARA”) microfilm records of Project Blue Book, released to the National Archives in [1975]({{ '/tags/1975' | relative_url }}) – see National Archives Microfilm Publication T1206 roll number 86 (“Administrative Files: Box 3”). Images of the relevant pages are at the link below from the page with the unique Page ID (“PID”) of NARA-PBB86-1178 (page 1178 of 1249) to the page with the PID of NARA-PBB86-1249 (page 1249 of 1249).
 
 http://www.bluebookarchive.org
 

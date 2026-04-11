@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/alnor_bill_1.jpg"}
 ---
 
-![alnor_bill_1](/images/stories/ufo_personalities/alnor_bill_1.jpg)
+![alnor_bill_1]({{ '/images/stories/ufo_personalities/alnor_bill_1.jpg' | relative_url }})
 
 *Bill Alnor*
 
@@ -36,18 +36,18 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/alnor-william-m">Alnor, William M</a> “<a href="/ufo-history/ufo-books/alnor-william-m-ufo-in-the-new-age">UFO in the New Age</a>” (<a href="/tags/1992">1992</a>) (available <a href="http://www.amazon.com/dp/0801002265/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0801002265/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/alnor-william-m' | relative_url }}">Alnor, William M</a> “<a href="{{ '/ufo-history/ufo-books/alnor-william-m-ufo-in-the-new-age' | relative_url }}">UFO in the New Age</a>” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="http://www.amazon.com/dp/0801002265/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0801002265/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/alnor-william-m">Alnor, William M</a> “<a href="/ufo-history/ufo-books/alnor-william-m-ufo-cults-and-the-new-millenium">UFO Cults and the New Millenium</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0801057914/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0801057914/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/alnor-william-m' | relative_url }}">Alnor, William M</a> “<a href="{{ '/ufo-history/ufo-books/alnor-william-m-ufo-cults-and-the-new-millenium' | relative_url }}">UFO Cults and the New Millenium</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0801057914/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0801057914/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>

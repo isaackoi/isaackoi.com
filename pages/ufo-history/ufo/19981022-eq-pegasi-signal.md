@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/seti_1.jpg"}
 ---
 
-![seti_1](/images/stories/ufo_tags/seti_1.jpg)
+![seti_1]({{ '/images/stories/ufo_tags/seti_1.jpg' | relative_url }})
 
 *EQ Pegasi signal*
 
@@ -34,7 +34,7 @@ Sections below
 <a id="web"></a>
 ### Web Resources
 
-Relevant BBC News article of 29 October [1998](/tags/1998) available online at:
+Relevant BBC News article of 29 October [1998]({{ '/tags/1998' | relative_url }}) available online at:
 
 http://news.bbc.co.uk/1/hi/sci/tech/203133.stm
 
@@ -67,10 +67,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p>Clark, Stuart in his “<a href="/ufo-history/ufo-books/clark-stuart-life-on-other-worlds-and-how-to-find-it">Life on Other Worlds and How to Find It</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/185233097X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/185233097X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 139 (in Chapter 10) of the Springer hardback edition.</p>
+<p>Clark, Stuart in his “<a href="{{ '/ufo-history/ufo-books/clark-stuart-life-on-other-worlds-and-how-to-find-it' | relative_url }}">Life on Other Worlds and How to Find It</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/185233097X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/185233097X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 139 (in Chapter 10) of the Springer hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p> </p>
@@ -78,10 +78,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Clark, Andrew J H and Clark, David H in their “<a href="/ufo-history/ufo-books/clark-andrew-j-h-and-clark-david-h-aliens">Aliens</a>“ (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0880642335/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0880642335/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 87-88 (in Chapter 2) of the Fromm hardback edition.</p>
+<p>Clark, Andrew J H and Clark, David H in their “<a href="{{ '/ufo-history/ufo-books/clark-andrew-j-h-and-clark-david-h-aliens' | relative_url }}">Aliens</a>“ (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0880642335/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0880642335/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 87-88 (in Chapter 2) of the Fromm hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -89,10 +89,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2005">2005</a></p>
+<p><a href="{{ '/tags/2005' | relative_url }}">2005</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/wood-ryan">Wood, Ryan</a> in his “<a href="/ufo-history/ufo-books/wood-ryan-majic-eyes-only">MAJIC Eyes Only</a>” (<a href="/tags/2005">2005</a>) (available <a href="http://www.amazon.com/dp/0977205908/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0977205908/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 240-241 of the Wood Enterprises hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/wood-ryan' | relative_url }}">Wood, Ryan</a> in his “<a href="{{ '/ufo-history/ufo-books/wood-ryan-majic-eyes-only' | relative_url }}">MAJIC Eyes Only</a>” (<a href="{{ '/tags/2005' | relative_url }}">2005</a>) (available <a href="http://www.amazon.com/dp/0977205908/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0977205908/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 240-241 of the Wood Enterprises hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/o_brien_brian_1.jpg"}
 ---
 
-![o_brien_brian_1](/images/stories/ufo_personalities/o_brien_brian_1.jpg)
+![o_brien_brian_1]({{ '/images/stories/ufo_personalities/o_brien_brian_1.jpg' | relative_url }})
 
 *Brian O'Brien*
 
@@ -57,10 +57,10 @@ For discussion of Dr O’ Brien see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2003">2003</a></p>
+<p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/druffel-ann">Druffel, Ann</a> in her “<a href="/ufo-history/ufo-books/druffel-ann-firestorm-dr-james-e-mcdonalds-fight-for-ufo-science">Firestorm : Dr James E McDonald's Fight for UFO Science</a>” (<a href="/tags/2003">2003</a>) (available <a href="http://www.amazon.com/dp/0926524585/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0926524585/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 50, 51, 52, 53-54 (in Chapter 3), 140 (in Chapter 7), 388, 391 (in Chapter 14) of the Wild Flower Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/druffel-ann' | relative_url }}">Druffel, Ann</a> in her “<a href="{{ '/ufo-history/ufo-books/druffel-ann-firestorm-dr-james-e-mcdonalds-fight-for-ufo-science' | relative_url }}">Firestorm : Dr James E McDonald's Fight for UFO Science</a>” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) (available <a href="http://www.amazon.com/dp/0926524585/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0926524585/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 50, 51, 52, 53-54 (in Chapter 3), 140 (in Chapter 7), 388, 391 (in Chapter 14) of the Wild Flower Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>8</p>

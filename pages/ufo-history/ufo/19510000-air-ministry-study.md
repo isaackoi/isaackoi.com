@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/britain_1.gif"}
 ---
 
-![britain_1](/images/stories/ufo_tags/britain_1.gif)
+![britain_1]({{ '/images/stories/ufo_tags/britain_1.gif' | relative_url }})
 
 *Air Ministry study*
 
@@ -67,10 +67,10 @@ For discussion of Squadron Leader R G Woodman’s report see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2002">2002</a></p>
+<p><a href="{{ '/tags/2002' | relative_url }}">2002</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clarke-david">Clarke, David</a> and <a href="/ufo-history/ufo-personalities/roberts-andy">Roberts, Andy</a> in their “<a href="file:///C:\Users\homelap\Documents\koi\Notes%20active%20files%20-%20videos%20photos%20etc\v">Out Of The Shadows</a>” (<a href="/tags/2002">2002</a>) (available <a href="http://www.amazon.com/dp/0749922907/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0749922907/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 74-77 (in Chapter 5) of the Piatkus hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clarke-david' | relative_url }}">Clarke, David</a> and <a href="{{ '/ufo-history/ufo-personalities/roberts-andy' | relative_url }}">Roberts, Andy</a> in their “<a href="file:///C:\Users\homelap\Documents\koi\Notes%20active%20files%20-%20videos%20photos%20etc\v">Out Of The Shadows</a>” (<a href="{{ '/tags/2002' | relative_url }}">2002</a>) (available <a href="http://www.amazon.com/dp/0749922907/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0749922907/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 74-77 (in Chapter 5) of the Piatkus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -78,10 +78,10 @@ For discussion of Squadron Leader R G Woodman’s report see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clarke-david">Clarke, David</a> and <a href="/ufo-history/ufo-personalities/roberts-andy">Roberts, Andy</a> in their “<a href="/ufo-history/ufo-books/clarke-david-and-roberts-andy-phantoms-of-the-sky">Phantoms of the Sky</a>: UFOs – A Modern Myth?” (<a href="/tags/1990">1990</a>) (available <a href="http://www.amazon.com/dp/0709040865/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0709040865/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 115-116 (in Chapter 6) of the Hale hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clarke-david' | relative_url }}">Clarke, David</a> and <a href="{{ '/ufo-history/ufo-personalities/roberts-andy' | relative_url }}">Roberts, Andy</a> in their “<a href="{{ '/ufo-history/ufo-books/clarke-david-and-roberts-andy-phantoms-of-the-sky' | relative_url }}">Phantoms of the Sky</a>: UFOs – A Modern Myth?” (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) (available <a href="http://www.amazon.com/dp/0709040865/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0709040865/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 115-116 (in Chapter 6) of the Hale hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -89,10 +89,10 @@ For discussion of Squadron Leader R G Woodman’s report see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/redfern-nicholas">Redfern, Nicholas</a> in his “<a href="/ufo-history/ufo-books/redfern-nicholas-a-covert-agenda">A Covert Agenda</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0671005324/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0671005324/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 21-24 (in Chapter 2) of the Simon &amp; Schuster hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/redfern-nicholas' | relative_url }}">Redfern, Nicholas</a> in his “<a href="{{ '/ufo-history/ufo-books/redfern-nicholas-a-covert-agenda' | relative_url }}">A Covert Agenda</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0671005324/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0671005324/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 21-24 (in Chapter 2) of the Simon &amp; Schuster hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>

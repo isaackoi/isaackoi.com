@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/1559723041.jpg"}
 book: {"identifiers": ["1559723041", "0762101083", "0451204247", "1841196134"], "primary_isbn": "1559723041", "cover_image": "/book-covers/1559723041.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of Scott Mandelker's book “[From Elsewhere: Being ET in America](/ufo-history/ufo-books/mandelker-scott-from-elsewhere-being-et-in-america)” ([1995](/tags/1995)) (available [on Amazon USA](http://www.amazon.com/dp/1559723041/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1559723041/?&tag=ufot-21))
+Brief review to be added of Scott Mandelker's book “[From Elsewhere: Being ET in America]({{ '/ufo-history/ufo-books/mandelker-scott-from-elsewhere-being-et-in-america' | relative_url }})” ([1995]({{ '/tags/1995' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1559723041/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1559723041/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -34,7 +34,7 @@ The table below includes references to relevant discussions in UFO/SETI books no
 
 Many of the tables of references on this website are considerably longer than the references to books found on most other UFO websites. Indeed, some are probably the longest that have been collated in relation to some events and personalities. I hope that these tables are found to be a useful contribution to UFOlogy.
 
-For discussion of Scott Mandelker and/or “[From Elsewhere: Being ET in America](/ufo-history/ufo-books/mandelker-scott-from-elsewhere-being-et-in-america)” see the following:
+For discussion of Scott Mandelker and/or “[From Elsewhere: Being ET in America]({{ '/ufo-history/ufo-books/mandelker-scott-from-elsewhere-being-et-in-america' | relative_url }})” see the following:
 
 <table border="1" cellpadding="0" cellspacing="0" class="sortable" data-sortable="true" id="sortabletable">
 <thead>
@@ -54,10 +54,10 @@ For discussion of Scott Mandelker and/or “[From Elsewhere: Being ET in America
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/evans-hilary">Evans, Hilary</a> in his “<a href="/ufo-history/ufo-books/evans-hilary-from-other-worlds">From Other Worlds</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0762101083/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0762101083/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 47, 50 (in Chapter 2) of the Carlton hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }}">Evans, Hilary</a> in his “<a href="{{ '/ufo-history/ufo-books/evans-hilary-from-other-worlds' | relative_url }}">From Other Worlds</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0762101083/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0762101083/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 47, 50 (in Chapter 2) of the Carlton hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -65,10 +65,10 @@ For discussion of Scott Mandelker and/or “[From Elsewhere: Being ET in America
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/steiger-brad">Steiger, Brad</a> in Scott Mandelker’s “<a href="/ufo-history/ufo-books/mandelker-scott-from-elsewhere-being-et-in-america">From Elsewhere: Being ET in America</a>” (<a href="/tags/1995">1995</a>) at pages xii-xiii (in the Introduction) of the Dell paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/steiger-brad' | relative_url }}">Steiger, Brad</a> in Scott Mandelker’s “<a href="{{ '/ufo-history/ufo-books/mandelker-scott-from-elsewhere-being-et-in-america' | relative_url }}">From Elsewhere: Being ET in America</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) at pages xii-xiii (in the Introduction) of the Dell paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -76,10 +76,10 @@ For discussion of Scott Mandelker and/or “[From Elsewhere: Being ET in America
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/story-ronald">Story, Ronald</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 324-325 (in an entry entitled “Mandelker, Scott”) of the New American Library softcover edition, at pages 316-317 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Story, Ronald</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 324-325 (in an entry entitled “Mandelker, Scott”) of the New American Library softcover edition, at pages 316-317 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -87,10 +87,10 @@ For discussion of Scott Mandelker and/or “[From Elsewhere: Being ET in America
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/story-ronald">Story, Ronald</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 390-391 (in an entry entitled “Mandelker, Scott”) of the Robinson softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Story, Ronald</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 390-391 (in an entry entitled “Mandelker, Scott”) of the Robinson softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

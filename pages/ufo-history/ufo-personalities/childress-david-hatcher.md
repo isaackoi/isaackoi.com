@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/childress_david_hatcher_1.jpg"}
 ---
 
-![childress_david_hatcher_1](/images/stories/ufo_personalities/childress_david_hatcher_1.jpg)
+![childress_david_hatcher_1]({{ '/images/stories/ufo_personalities/childress_david_hatcher_1.jpg' | relative_url }})
 
 *David Hatcher Childress*
 
@@ -36,18 +36,18 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/childress-david-hatcher">Childress, David Hatcher</a> and <a href="/ufo-history/ufo-personalities/shaver-richard-s">Shaver, Richard</a> “Lost Continents and The Hollow Earth”</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/childress-david-hatcher' | relative_url }}">Childress, David Hatcher</a> and <a href="{{ '/ufo-history/ufo-personalities/shaver-richard-s' | relative_url }}">Shaver, Richard</a> “Lost Continents and The Hollow Earth”</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/vesco-renato">Vesco, Renato</a> and <a href="/ufo-history/ufo-personalities/childress-david-hatcher">Childress, David Hatcher</a> “<a href="/ufo-history/ufo-books/vesco-renato-and-childress-david-hatcher-man-made-ufos-1944-1994-50-years-of-suppression">Man Made UFOs 1944-1994 – 50 Years of Suppression</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/0932813232/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0932813232/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/vesco-renato' | relative_url }}">Vesco, Renato</a> and <a href="{{ '/ufo-history/ufo-personalities/childress-david-hatcher' | relative_url }}">Childress, David Hatcher</a> “<a href="{{ '/ufo-history/ufo-books/vesco-renato-and-childress-david-hatcher-man-made-ufos-1944-1994-50-years-of-suppression' | relative_url }}">Man Made UFOs 1944-1994 – 50 Years of Suppression</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/0932813232/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0932813232/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>

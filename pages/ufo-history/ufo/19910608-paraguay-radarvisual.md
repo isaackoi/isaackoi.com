@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -63,10 +63,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/berliner-don">Berliner, Don</a> with <a href="/ufo-history/ufo-personalities/galbraith-marie">Galbraith, Marie</a> and <a href="/ufo-history/ufo-personalities/huneeus-antonio">Huneeus, Antonio</a> in their “<a href="/ufo-history/ufo-books/berliner-don-with-galbraith-marie-and-huneeus-antonio-ufo-briefing-document-the-best-available-evidence">UFO Briefing Document : The Best Available Evidence</a>“ (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/044023638X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/044023638X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 145-146 of the Dell paperback edition (Part 2: Case Histories, section entitled “<a href="/tags/1991">1991</a>-<a href="/tags/1994">1994</a>: Recent Cases”).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/berliner-don' | relative_url }}">Berliner, Don</a> with <a href="{{ '/ufo-history/ufo-personalities/galbraith-marie' | relative_url }}">Galbraith, Marie</a> and <a href="{{ '/ufo-history/ufo-personalities/huneeus-antonio' | relative_url }}">Huneeus, Antonio</a> in their “<a href="{{ '/ufo-history/ufo-books/berliner-don-with-galbraith-marie-and-huneeus-antonio-ufo-briefing-document-the-best-available-evidence' | relative_url }}">UFO Briefing Document : The Best Available Evidence</a>“ (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/044023638X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/044023638X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 145-146 of the Dell paperback edition (Part 2: Case Histories, section entitled “<a href="{{ '/tags/1991' | relative_url }}">1991</a>-<a href="{{ '/tags/1994' | relative_url }}">1994</a>: Recent Cases”).</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

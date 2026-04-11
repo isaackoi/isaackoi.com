@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/seti_1.jpg"}
 ---
 
-![seti_1](/images/stories/ufo_tags/seti_1.jpg)
+![seti_1]({{ '/images/stories/ufo_tags/seti_1.jpg' | relative_url }})
 
 *SETI "top priority"*
 
@@ -63,10 +63,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1965">1965</a></p>
+<p><a href="{{ '/tags/1965' | relative_url }}">1965</a></p>
 </td>
 <td valign="top" width="547">
-<p>Allen, Tom in his “The Quest: A Report on Extraterrestrial life " (<a href="/tags/1965">1965</a>) at pages xi-xii (in the Introduction) of the Chilton hardback edition.</p>
+<p>Allen, Tom in his “The Quest: A Report on Extraterrestrial life " (<a href="{{ '/tags/1965' | relative_url }}">1965</a>) at pages xi-xii (in the Introduction) of the Chilton hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -74,10 +74,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1964">1964</a></p>
+<p><a href="{{ '/tags/1964' | relative_url }}">1964</a></p>
 </td>
 <td valign="top" width="547">
-<p>Simpson, George Gaylord in his “This View of Life” (<a href="/tags/1964">1964</a>) at pages 253-254 (in Chapter 13), 300 (in the Notes and References) of the Harcourt, Brace &amp; World hardcover edition.</p>
+<p>Simpson, George Gaylord in his “This View of Life” (<a href="{{ '/tags/1964' | relative_url }}">1964</a>) at pages 253-254 (in Chapter 13), 300 (in the Notes and References) of the Harcourt, Brace &amp; World hardcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -89,6 +89,6 @@ For discussion see the following:
 <a id="other"></a>
 ### Other Material
 
-National Academy of Sciences-National Research Council, A Review of Space Research, report of the summer study conducted under the auspices of the Space Science Board of the National Academy of Sciences, NAS-NRC Publication 1079 (Washington, [1962](/tags/1962)) (chairman - H H Hess)
+National Academy of Sciences-National Research Council, A Review of Space Research, report of the summer study conducted under the auspices of the Space Science Board of the National Academy of Sciences, NAS-NRC Publication 1079 (Washington, [1962]({{ '/tags/1962' | relative_url }})) (chairman - H H Hess)
 
 Please use the comments section below to share references to any particularly interesting relevant articles.

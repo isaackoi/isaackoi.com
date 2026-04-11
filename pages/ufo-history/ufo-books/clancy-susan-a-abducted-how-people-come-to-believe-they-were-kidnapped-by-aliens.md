@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/067402401X.jpg"}
 book: {"identifiers": ["067402401X"], "primary_isbn": "067402401X", "cover_image": "/book-covers/067402401X.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Susan A Clancy](/ufo-history/ufo-personalities/clancy-susan-a)'s book “[Abducted: How people come to believe they were kidnapped by aliens](/ufo-history/ufo-books/clancy-susan-a-abducted-how-people-come-to-believe-they-were-kidnapped-by-aliens)” ([2005](/tags/2005)) (available [on Amazon USA](http://www.amazon.com/dp/067402401X/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/067402401X/?&tag=ufot-21))
+Brief review to be added of [Susan A Clancy]({{ '/ufo-history/ufo-personalities/clancy-susan-a' | relative_url }})'s book “[Abducted: How people come to believe they were kidnapped by aliens]({{ '/ufo-history/ufo-books/clancy-susan-a-abducted-how-people-come-to-believe-they-were-kidnapped-by-aliens' | relative_url }})” ([2005]({{ '/tags/2005' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/067402401X/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/067402401X/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

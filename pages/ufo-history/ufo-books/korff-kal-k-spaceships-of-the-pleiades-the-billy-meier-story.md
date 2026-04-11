@@ -14,9 +14,9 @@ header: {"preview_image": "/book-covers/0879759593.jpg"}
 book: {"identifiers": ["0879759593"], "primary_isbn": "0879759593", "cover_image": "/book-covers/0879759593.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Kal K Korff](/ufo-history/ufo-personalities/korff-kal-k)'s book “[Spaceships of the Pleiades: The Billy Meier Story](/ufo-history/ufo-books/korff-kal-k-spaceships-of-the-pleiades-the-billy-meier-story)” ([1995](/tags/1995)) (available [on Amazon USA](http://www.amazon.com/dp/0879759593/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0879759593/?&tag=ufot-21))
+Brief review to be added of [Kal K Korff]({{ '/ufo-history/ufo-personalities/korff-kal-k' | relative_url }})'s book “[Spaceships of the Pleiades: The Billy Meier Story]({{ '/ufo-history/ufo-books/korff-kal-k-spaceships-of-the-pleiades-the-billy-meier-story' | relative_url }})” ([1995]({{ '/tags/1995' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0879759593/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0879759593/?&tag=ufot-21))
 
-See the entry in relation to [Eduard Albert “Billy” Meier](/ufo-history/ufo-personalities/meier-billy).
+See the entry in relation to [Eduard Albert “Billy” Meier]({{ '/ufo-history/ufo-personalities/meier-billy' | relative_url }}).
 
 1. [Web Resources](#web)
 

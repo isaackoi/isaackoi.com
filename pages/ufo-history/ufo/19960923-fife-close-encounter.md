@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/britain_1.gif"}
 ---
 
-![britain_1](/images/stories/ufo_tags/britain_1.gif)
+![britain_1]({{ '/images/stories/ufo_tags/britain_1.gif' | relative_url }})
 
 *Fife close encounter*
 
@@ -63,10 +63,10 @@ For discussion of the Fife incident see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/dodd-tony">Dodd, Tony</a> in his “<a href="/ufo-history/ufo-books/dodd-tony-alien-investigator">Alien Investigator</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0747261415/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0747261415/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 107-113 (in Chapter 4) of the Headline paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dodd-tony' | relative_url }}">Dodd, Tony</a> in his “<a href="{{ '/ufo-history/ufo-books/dodd-tony-alien-investigator' | relative_url }}">Alien Investigator</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0747261415/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0747261415/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 107-113 (in Chapter 4) of the Headline paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>7</p>
@@ -74,10 +74,10 @@ For discussion of the Fife incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/halliday-ron">Halliday, Ron</a> in his “<a href="/ufo-history/ufo-books/halliday-ron-mcx-scotlands-x-files">McX : Scotland's X-Files</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1873631774/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1873631774/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 76-80 (Chapter 13 generally) of the B&amp;W softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/halliday-ron' | relative_url }}">Halliday, Ron</a> in his “<a href="{{ '/ufo-history/ufo-books/halliday-ron-mcx-scotlands-x-files' | relative_url }}">McX : Scotland's X-Files</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1873631774/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1873631774/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 76-80 (Chapter 13 generally) of the B&amp;W softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>
@@ -85,10 +85,10 @@ For discussion of the Fife incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/halliday-ron">Halliday, Ron</a> in his “UFO Scotland” (<a href="/tags/1998">1998</a>) at pages 160-164 (in Chapter 5) of the B&amp;W softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/halliday-ron' | relative_url }}">Halliday, Ron</a> in his “UFO Scotland” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) at pages 160-164 (in Chapter 5) of the B&amp;W softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>
@@ -96,10 +96,10 @@ For discussion of the Fife incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="Search.html?ordering=0&amp;searchphrase=all&amp;searchword=king">King, Jon</a> in his “<a href="/ufo-history/ufo-books/king-jon-cosmic-top-secret">Cosmic Top Secret</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0340708220/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0340708220/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 174-176 (in the chapter entitled “Document 05”, “File 20”) of the NEL paperback edition.</p>
+<p><a href="Search.html?ordering=0&amp;searchphrase=all&amp;searchword=king">King, Jon</a> in his “<a href="{{ '/ufo-history/ufo-books/king-jon-cosmic-top-secret' | relative_url }}">Cosmic Top Secret</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0340708220/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0340708220/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 174-176 (in the chapter entitled “Document 05”, “File 20”) of the NEL paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -107,10 +107,10 @@ For discussion of the Fife incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p>Picknett, Lynn in her “<a href="/ufo-history/ufo-books/picknett-lynn-the-mammoth-book-of-ufos">The Mammoth Book of UFOs</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/078670800X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/078670800X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 165-168 (in Chapter 2) of the Robinson softcover edition.</p>
+<p>Picknett, Lynn in her “<a href="{{ '/ufo-history/ufo-books/picknett-lynn-the-mammoth-book-of-ufos' | relative_url }}">The Mammoth Book of UFOs</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/078670800X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/078670800X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 165-168 (in Chapter 2) of the Robinson softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -118,10 +118,10 @@ For discussion of the Fife incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-alien-contact-the-first-fifty-years">Alien Contact – The First Fifty Years</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0806904763/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806904763/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 136 (in the chapter entitled “<a href="/tags/1996">1996</a>”) of the Collins and Brown hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-alien-contact-the-first-fifty-years' | relative_url }}">Alien Contact – The First Fifty Years</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0806904763/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806904763/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 136 (in the chapter entitled “<a href="{{ '/tags/1996' | relative_url }}">1996</a>”) of the Collins and Brown hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -129,7 +129,7 @@ For discussion of the Fife incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
 <p>Robinson, Malcolm in his online article entitled “The Fife incident” at pages 1-28. The relevant article is available online at:</p>

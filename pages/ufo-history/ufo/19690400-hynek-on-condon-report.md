@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -45,7 +45,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-An extract from the relevant article appears, and is discussed, by [Steiger, Brad](/ufo-history/ufo-personalities/steiger-brad) in his “[Project Blue Book](/ufo-history/ufo-books/steiger-brad-project-blue-book)“ ([1976](/tags/1976)) (available [on Amazon USA](http://www.amazon.com/dp/0345345258/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0345345258/ref=nosim?tag=ufot-21)) at pages 334-335 of the Ballantine Books paperback edition (forming part of Chapter 13).
+An extract from the relevant article appears, and is discussed, by [Steiger, Brad]({{ '/ufo-history/ufo-personalities/steiger-brad' | relative_url }}) in his “[Project Blue Book]({{ '/ufo-history/ufo-books/steiger-brad-project-blue-book' | relative_url }})“ ([1976]({{ '/tags/1976' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0345345258/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0345345258/ref=nosim?tag=ufot-21)) at pages 334-335 of the Ballantine Books paperback edition (forming part of Chapter 13).
 
 The table below includes references to relevant discussions in UFO/SETI books noted by Isaac Koi during a review of approximately 963 UFO/SETI books during the period 2003-2006 (with a few later additions). The table can be sorted by author, date and length of discussion by clicking on the relevant word in the top line of the table.
 
@@ -71,10 +71,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2003">2003</a></p>
+<p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/druffel-ann">Druffel, Ann</a> in her “<a href="/ufo-history/ufo-books/druffel-ann-firestorm-dr-james-e-mcdonalds-fight-for-ufo-science">Firestorm : Dr James E McDonald's Fight for UFO Science</a>” (<a href="/tags/2003">2003</a>) (available <a href="http://www.amazon.com/dp/0926524585/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0926524585/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 82 (in Chapter 4) of the Wild Flower Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/druffel-ann' | relative_url }}">Druffel, Ann</a> in her “<a href="{{ '/ufo-history/ufo-books/druffel-ann-firestorm-dr-james-e-mcdonalds-fight-for-ufo-science' | relative_url }}">Firestorm : Dr James E McDonald's Fight for UFO Science</a>” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) (available <a href="http://www.amazon.com/dp/0926524585/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0926524585/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 82 (in Chapter 4) of the Wild Flower Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -82,10 +82,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1975">1975</a></p>
+<p><a href="{{ '/tags/1975' | relative_url }}">1975</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/jacobs-david-michael">Jacobs, David Michael</a> in his “<a href="/ufo-history/ufo-books/jacobs-david-michael-the-ufo-controversy-in-america">The UFO Controversy in America</a>” (<a href="/tags/1975">1975</a>) (available <a href="http://www.amazon.com/dp/0253190061/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0253190061/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 246-247 (in Chapter 9) of the Indiana hardback edition, pages 218-220 of the Signet paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/jacobs-david-michael' | relative_url }}">Jacobs, David Michael</a> in his “<a href="{{ '/ufo-history/ufo-books/jacobs-david-michael-the-ufo-controversy-in-america' | relative_url }}">The UFO Controversy in America</a>” (<a href="{{ '/tags/1975' | relative_url }}">1975</a>) (available <a href="http://www.amazon.com/dp/0253190061/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0253190061/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 246-247 (in Chapter 9) of the Indiana hardback edition, pages 218-220 of the Signet paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -93,10 +93,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1987">1987</a></p>
+<p><a href="{{ '/tags/1987' | relative_url }}">1987</a></p>
 </td>
 <td valign="top" width="547">
-<p>Kinder, Gary in his “<a href="/ufo-history/ufo-books/kinder-gary-light-years-about-eduard-albert-billy-meier">Light Years</a>” (<a href="/tags/1987">1987</a>) (available <a href="http://www.amazon.com/dp/0871131390/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0871131390/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 173-174 (in Chapter 8) of the Viking hardback edition.</p>
+<p>Kinder, Gary in his “<a href="{{ '/ufo-history/ufo-books/kinder-gary-light-years-about-eduard-albert-billy-meier' | relative_url }}">Light Years</a>” (<a href="{{ '/tags/1987' | relative_url }}">1987</a>) (available <a href="http://www.amazon.com/dp/0871131390/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0871131390/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 173-174 (in Chapter 8) of the Viking hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -104,10 +104,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1973">1973</a></p>
+<p><a href="{{ '/tags/1973' | relative_url }}">1973</a></p>
 </td>
 <td valign="top" width="547">
-<p>Roulet, Alfred in his “The Search for Intelligent Life in Outer Space” (<a href="/tags/1973">1973</a>) (available <a href="http://www.amazon.com/dp/0425033198/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0425033198/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 85 (in the unnumbered chapter entitled “A Challenge to Science”) of the Berkley paperback edition.</p>
+<p>Roulet, Alfred in his “The Search for Intelligent Life in Outer Space” (<a href="{{ '/tags/1973' | relative_url }}">1973</a>) (available <a href="http://www.amazon.com/dp/0425033198/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0425033198/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 85 (in the unnumbered chapter entitled “A Challenge to Science”) of the Berkley paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -115,10 +115,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/thompson-keith">Thompson, Keith</a> in his “<a href="/ufo-history/ufo-books/thompson-keith-angels-and-aliens-ufos-and-the-mythic-imagination">Angels and Aliens: UFOs and the Mythic Imagination</a>” (<a href="/tags/1991">1991</a>) (available <a href="http://www.amazon.com/dp/0449908372/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0449908372/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 87-88 (in Chapter 7) of the Fawcett softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/thompson-keith' | relative_url }}">Thompson, Keith</a> in his “<a href="{{ '/ufo-history/ufo-books/thompson-keith-angels-and-aliens-ufos-and-the-mythic-imagination' | relative_url }}">Angels and Aliens: UFOs and the Mythic Imagination</a>” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/0449908372/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0449908372/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 87-88 (in Chapter 7) of the Fawcett softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -127,7 +127,7 @@ For discussion see the following:
 </tbody>
 </table>
 
-See also references provided in the main entry for the [Condon Report](/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects) (9 January [1969](/tags/1969))
+See also references provided in the main entry for the [Condon Report]({{ '/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects' | relative_url }}) (9 January [1969]({{ '/tags/1969' | relative_url }}))
 
 <a id="other"></a>
 ### Other Material

@@ -13,13 +13,13 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/documents_1.gif"}
 ---
 
-![documents_1](/images/stories/ufo_tags/documents_1.gif)
+![documents_1]({{ '/images/stories/ufo_tags/documents_1.gif' | relative_url }})
 
 *O’Brien Committee report*
 
-During March [1966](/tags/1966), a short report was produced by the “Ad Hoc Committee to Review Project Blue Book”, under the chairmanship of Dr. [Brian O'Brien](/ufo-history/ufo-personalities/obrien-brian).
+During March [1966]({{ '/tags/1966' | relative_url }}), a short report was produced by the “Ad Hoc Committee to Review Project Blue Book”, under the chairmanship of Dr. [Brian O'Brien]({{ '/ufo-history/ufo-personalities/obrien-brian' | relative_url }}).
 
-For relevant references, see the entry for the meeting of the O’Brien Committee(3 February [1966](/tags/1966)).
+For relevant references, see the entry for the meeting of the O’Brien Committee(3 February [1966]({{ '/tags/1966' | relative_url }})).
 
 Sections below
 
@@ -43,7 +43,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-For relevant references, see the entry for the meeting of the O’Brien Committee (3 February [1966](/tags/1966)).
+For relevant references, see the entry for the meeting of the O’Brien Committee (3 February [1966]({{ '/tags/1966' | relative_url }})).
 
 <a id="other"></a>
 ### Other Material

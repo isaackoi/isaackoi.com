@@ -13,11 +13,11 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
-The January/February [2005](/tags/2005) issue of the Journal of the British Interplanetary Society include an article entitled “Inflation-Theory Implications for Extraterrestrial Visitation” by James Deardorff, Bernard Haisch, Bruce Maccabee and [Puthoff, Hal](/ufo-history/ufo-personalities/puthoff-hal).
+The January/February [2005]({{ '/tags/2005' | relative_url }}) issue of the Journal of the British Interplanetary Society include an article entitled “Inflation-Theory Implications for Extraterrestrial Visitation” by James Deardorff, Bernard Haisch, Bruce Maccabee and [Puthoff, Hal]({{ '/ufo-history/ufo-personalities/puthoff-hal' | relative_url }}).
 
 Sections below
 
@@ -30,7 +30,7 @@ Sections below
 <a id="web"></a>
 ### Web Resources
 
-*Journal of the British Interplanetary Society* Vol. 58, No. 1/2 (January/February [2005](/tags/2005)), pp. 43-50. Available on various websites, including:
+*Journal of the British Interplanetary Society* Vol. 58, No. 1/2 (January/February [2005]({{ '/tags/2005' | relative_url }})), pp. 43-50. Available on various websites, including:
 
 [http://www.ufoskeptic.org/JBIS.pdf](http://www.ufoskeptic.org/JBIS.pdf)
 
@@ -63,10 +63,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2008">2008</a></p>
+<p><a href="{{ '/tags/2008' | relative_url }}">2008</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/friedman-stanton">Friedman, Stanton</a> in his “<a href="/ufo-history/ufo-books/friedman-stanton-flying-saucers-and-science-a-scientist-investigates-the-mysteries-of-ufos">Flying Saucers and Science : A Scientist Investigates the Mysteries of UFOs</a>” (<a href="/tags/2008">2008</a>) (available <a href="http://www.amazon.com/dp/1601630115/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1601630115/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 85 (in Chapter 2) of the New Page softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/friedman-stanton' | relative_url }}">Friedman, Stanton</a> in his “<a href="{{ '/ufo-history/ufo-books/friedman-stanton-flying-saucers-and-science-a-scientist-investigates-the-mysteries-of-ufos' | relative_url }}">Flying Saucers and Science : A Scientist Investigates the Mysteries of UFOs</a>” (<a href="{{ '/tags/2008' | relative_url }}">2008</a>) (available <a href="http://www.amazon.com/dp/1601630115/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1601630115/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 85 (in Chapter 2) of the New Page softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -74,10 +74,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2006">2006</a></p>
+<p><a href="{{ '/tags/2006' | relative_url }}">2006</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/good-timothy">Good, Timothy</a> in his “<a href="/ufo-history/ufo-books/good-timothy-need-to-know-ufos-the-military-and-intelligence">Need To Know : UFOs, the Military and Intelligence</a>” (<a href="/tags/2006">2006</a>) (available <a href="http://www.amazon.com/dp/028307034X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/028307034X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 2-3 (in the Introduction) of the Sidgwick &amp; Jackson hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/good-timothy' | relative_url }}">Good, Timothy</a> in his “<a href="{{ '/ufo-history/ufo-books/good-timothy-need-to-know-ufos-the-military-and-intelligence' | relative_url }}">Need To Know : UFOs, the Military and Intelligence</a>” (<a href="{{ '/tags/2006' | relative_url }}">2006</a>) (available <a href="http://www.amazon.com/dp/028307034X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/028307034X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 2-3 (in the Introduction) of the Sidgwick &amp; Jackson hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

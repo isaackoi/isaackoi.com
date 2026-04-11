@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -67,10 +67,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1989">1989</a></p>
+<p><a href="{{ '/tags/1989' | relative_url }}">1989</a></p>
 </td>
 <td valign="top" width="547">
-<p>Schultz, Ted in “<a href="/ufo-history/ufo-books/schultz-ted-the-fringes-of-reason">The Fringes of Reason</a>” (<a href="/tags/1989">1989</a>) (edited by Ted Schultz) (available <a href="http://www.amazon.com/dp/051757165X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/051757165X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 108 of the Harmony Books softcover edition.</p>
+<p>Schultz, Ted in “<a href="{{ '/ufo-history/ufo-books/schultz-ted-the-fringes-of-reason' | relative_url }}">The Fringes of Reason</a>” (<a href="{{ '/tags/1989' | relative_url }}">1989</a>) (edited by Ted Schultz) (available <a href="http://www.amazon.com/dp/051757165X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/051757165X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 108 of the Harmony Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/seti_1.jpg"}
 ---
 
-![seti_1](/images/stories/ufo_tags/seti_1.jpg)
+![seti_1]({{ '/images/stories/ufo_tags/seti_1.jpg' | relative_url }})
 
 *Philosophers consider SETI*
 
@@ -39,7 +39,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-Complete text of address published in “Extraterrestrials: Science and alien intelligence” ([1985](/tags/1985)) (edited by Edward Regis) (available [on Amazon USA](http://www.amazon.com/dp/0521262275/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0521262275/ref=nosim?tag=ufot-21)) at pages 3-18 (in Part 1) of the Cambridge University Press softcover edition.
+Complete text of address published in “Extraterrestrials: Science and alien intelligence” ([1985]({{ '/tags/1985' | relative_url }})) (edited by Edward Regis) (available [on Amazon USA](http://www.amazon.com/dp/0521262275/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0521262275/ref=nosim?tag=ufot-21)) at pages 3-18 (in Part 1) of the Cambridge University Press softcover edition.
 
 The table below includes references to relevant discussions in UFO/SETI books noted by Isaac Koi during a review of approximately 963 UFO/SETI books during the period 2003-2006 (with a few later additions). The table can be sorted by author, date and length of discussion by clicking on the relevant word in the top line of the table.
 
@@ -65,10 +65,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1985">1985</a></p>
+<p><a href="{{ '/tags/1985' | relative_url }}">1985</a></p>
 </td>
 <td valign="top" width="547">
-<p>Raup, David M in “Extraterrestrials: Science and alien intelligence” (<a href="/tags/1985">1985</a>) (edited by Edward Regis) (available <a href="http://www.amazon.com/dp/0521262275/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521262275/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 31, 35-37 (in Part 2) of the Cambridge University Press softcover edition.</p>
+<p>Raup, David M in “Extraterrestrials: Science and alien intelligence” (<a href="{{ '/tags/1985' | relative_url }}">1985</a>) (edited by Edward Regis) (available <a href="http://www.amazon.com/dp/0521262275/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521262275/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 31, 35-37 (in Part 2) of the Cambridge University Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -76,10 +76,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1985">1985</a></p>
+<p><a href="{{ '/tags/1985' | relative_url }}">1985</a></p>
 </td>
 <td valign="top" width="547">
-<p>Regis, Edward in “Extraterrestrials: Science and alien intelligence” (<a href="/tags/1985">1985</a>) (edited by Edward Regis) (available <a href="http://www.amazon.com/dp/0521262275/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521262275/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 1 (in the introduction to Part 1) of the Cambridge University Press softcover edition.</p>
+<p>Regis, Edward in “Extraterrestrials: Science and alien intelligence” (<a href="{{ '/tags/1985' | relative_url }}">1985</a>) (edited by Edward Regis) (available <a href="http://www.amazon.com/dp/0521262275/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521262275/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 1 (in the introduction to Part 1) of the Cambridge University Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -87,10 +87,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1985">1985</a></p>
+<p><a href="{{ '/tags/1985' | relative_url }}">1985</a></p>
 </td>
 <td valign="top" width="547">
-<p>Ruse, Michael in “Extraterrestrials: Science and alien intelligence” (<a href="/tags/1985">1985</a>) (edited by Edward Regis) (available <a href="http://www.amazon.com/dp/0521262275/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521262275/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 44 (in Part 2) of the Cambridge University Press softcover edition.</p>
+<p>Ruse, Michael in “Extraterrestrials: Science and alien intelligence” (<a href="{{ '/tags/1985' | relative_url }}">1985</a>) (edited by Edward Regis) (available <a href="http://www.amazon.com/dp/0521262275/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521262275/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 44 (in Part 2) of the Cambridge University Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

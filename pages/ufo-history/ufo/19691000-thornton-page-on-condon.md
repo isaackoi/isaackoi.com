@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -47,7 +47,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-See references provided in main entry for the [Condon Report](/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects) (9 January [1969](/tags/1969))
+See references provided in main entry for the [Condon Report]({{ '/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects' | relative_url }}) (9 January [1969]({{ '/tags/1969' | relative_url }}))
 
 <a id="other"></a>
 ### Other Material

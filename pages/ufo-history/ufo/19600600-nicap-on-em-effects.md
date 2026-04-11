@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -43,7 +43,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-Discussed by [NICAP](/ufo-history/ufo-personalities/nicap) in its “[The UFO Evidence](/ufo-history/ufo-books/hall-richard-h-ed-nicap-the-ufo-evidence)” ([1964](/tags/1964)) (edited by [Richard Hall](/ufo-history/ufo-personalities/hall-richard-h)) (available [on Amazon USA](http://www.amazon.com/dp/0760706271/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0760706271/ref=nosim?tag=ufot-21)) at pages 73-76 (in Section 8) of the privately published paperbound edition, with the same page numbering in the [1997](/tags/1997) Barnes & Noble paperbound reprint. Available free online at: “[http://www.nicap.org/ufoe/section_8.htm](http://www.nicap.org/ufoe/section_8.htm)
+Discussed by [NICAP]({{ '/ufo-history/ufo-personalities/nicap' | relative_url }}) in its “[The UFO Evidence]({{ '/ufo-history/ufo-books/hall-richard-h-ed-nicap-the-ufo-evidence' | relative_url }})” ([1964]({{ '/tags/1964' | relative_url }})) (edited by [Richard Hall]({{ '/ufo-history/ufo-personalities/hall-richard-h' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0760706271/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0760706271/ref=nosim?tag=ufot-21)) at pages 73-76 (in Section 8) of the privately published paperbound edition, with the same page numbering in the [1997]({{ '/tags/1997' | relative_url }}) Barnes & Noble paperbound reprint. Available free online at: “[http://www.nicap.org/ufoe/section_8.htm](http://www.nicap.org/ufoe/section_8.htm)
 
 <a id="other"></a>
 ### Other Material

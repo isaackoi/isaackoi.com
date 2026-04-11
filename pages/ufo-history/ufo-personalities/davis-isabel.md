@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/davis_isabel_1.jpg"}
 ---
 
-![davis_isabel_1](/images/stories/ufo_personalities/davis_isabel_1.jpg)
+![davis_isabel_1]({{ '/images/stories/ufo_personalities/davis_isabel_1.jpg' | relative_url }})
 
 *Isabel Davis*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1978">1978</a></p>
+<p><a href="{{ '/tags/1978' | relative_url }}">1978</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/bloecher-ted">Bloecher, Ted</a> and <a href="/ufo-history/ufo-personalities/davis-isabel">Davis, Isabel</a> “Close Encounter at Kelly and others of <a href="/tags/1955">1955</a>”</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/bloecher-ted' | relative_url }}">Bloecher, Ted</a> and <a href="{{ '/ufo-history/ufo-personalities/davis-isabel' | relative_url }}">Davis, Isabel</a> “Close Encounter at Kelly and others of <a href="{{ '/tags/1955' | relative_url }}">1955</a>”</p>
 </td>
 </tr>
 </tbody>
@@ -85,10 +85,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 319 (in an entry entitled “<a href="/ufo-history/ufo-personalities/davis-isabel">Davis, Isabel</a> L. (1904-<a href="/tags/1984">1984</a>)”) of Volume 1:A-K of the Omnigraphics hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition' | relative_url }}">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 319 (in an entry entitled “<a href="{{ '/ufo-history/ufo-personalities/davis-isabel' | relative_url }}">Davis, Isabel</a> L. (1904-<a href="{{ '/tags/1984' | relative_url }}">1984</a>)”) of Volume 1:A-K of the Omnigraphics hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -96,10 +96,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq">The UFO Encyclopedia: 1st edition</a>: Volume 2 – Emergence of a Phenomenon” (<a href="/tags/1992">1992</a>) (available <a href="http://www.amazon.com/dp/1558887415/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558887415/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 127 (in an entry entitled “<a href="/ufo-history/ufo-personalities/davis-isabel">Davis, Isabel</a> L. (1904-<a href="/tags/1984">1984</a>)”), 196 (in an entry entitled “Hoaxes through <a href="/tags/1959">1959</a>”) of the Omnigraphics hardback edition</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq' | relative_url }}">The UFO Encyclopedia: 1st edition</a>: Volume 2 – Emergence of a Phenomenon” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="http://www.amazon.com/dp/1558887415/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558887415/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 127 (in an entry entitled “<a href="{{ '/ufo-history/ufo-personalities/davis-isabel' | relative_url }}">Davis, Isabel</a> L. (1904-<a href="{{ '/tags/1984' | relative_url }}">1984</a>)”), 196 (in an entry entitled “Hoaxes through <a href="{{ '/tags/1959' | relative_url }}">1959</a>”) of the Omnigraphics hardback edition</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

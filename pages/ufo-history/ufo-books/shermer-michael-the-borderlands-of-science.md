@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0195143264.jpg"}
 book: {"identifiers": ["0195143264"], "primary_isbn": "0195143264", "cover_image": "/book-covers/0195143264.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Michael Shermer](/ufo-history/ufo-personalities/shermer-michael)'s book “[The Borderlands of Science](/ufo-history/ufo-books/shermer-michael-the-borderlands-of-science)” ([2001](/tags/2001)) (available [on Amazon USA](http://www.amazon.com/dp/0195143264/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0195143264/?&tag=ufot-21))
+Brief review to be added of [Michael Shermer]({{ '/ufo-history/ufo-personalities/shermer-michael' | relative_url }})'s book “[The Borderlands of Science]({{ '/ufo-history/ufo-books/shermer-michael-the-borderlands-of-science' | relative_url }})” ([2001]({{ '/tags/2001' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0195143264/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0195143264/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

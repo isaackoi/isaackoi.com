@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/boylan_richard_1.jpg"}
 ---
 
-![boylan_richard_1](/images/stories/ufo_personalities/boylan_richard_1.jpg)
+![boylan_richard_1]({{ '/images/stories/ufo_personalities/boylan_richard_1.jpg' | relative_url }})
 
 *Richard J Boylan*
 
@@ -36,18 +36,18 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/boylan-richard-j">Boylan, Richard J</a> and Boylan, Lee K “<a href="/ufo-history/ufo-books/boylan-richard-j-and-boylan-lee-k-close-extraterrestrial-encounters-positive-experiences-with-mysteries-visitors">Close Extraterrestrial Encounters: Positive Experiences With Mysteries Visitors</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/0926524267/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0926524267/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/boylan-richard-j' | relative_url }}">Boylan, Richard J</a> and Boylan, Lee K “<a href="{{ '/ufo-history/ufo-books/boylan-richard-j-and-boylan-lee-k-close-extraterrestrial-encounters-positive-experiences-with-mysteries-visitors' | relative_url }}">Close Extraterrestrial Encounters: Positive Experiences With Mysteries Visitors</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/0926524267/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0926524267/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/boylan-richard-j">Boylan, Richard</a> “Project Epiphany”</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/boylan-richard-j' | relative_url }}">Boylan, Richard</a> “Project Epiphany”</p>
 </td>
 </tr>
 </tbody>
@@ -91,10 +91,10 @@ For discussion of Richard Boylan see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2004">2004</a></p>
+<p><a href="{{ '/tags/2004' | relative_url }}">2004</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/birnes-william">Birnes, William</a> in his “<a href="/ufo-history/ufo-books/birnes-william-the-ufo-magazine-ufo-encyclopedia">The UFO Magazine UFO Encyclopedia</a>” (<a href="/tags/2004">2004</a>) (available <a href="http://www.amazon.com/dp/0743466748/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743466748/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 45 (in an entry entitled “Boylan, Dr Richard”) of the Pocket Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/birnes-william' | relative_url }}">Birnes, William</a> in his “<a href="{{ '/ufo-history/ufo-books/birnes-william-the-ufo-magazine-ufo-encyclopedia' | relative_url }}">The UFO Magazine UFO Encyclopedia</a>” (<a href="{{ '/tags/2004' | relative_url }}">2004</a>) (available <a href="http://www.amazon.com/dp/0743466748/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743466748/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 45 (in an entry entitled “Boylan, Dr Richard”) of the Pocket Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -102,10 +102,10 @@ For discussion of Richard Boylan see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/bryan-c-d-b">Bryan, C D B</a> in his “<a href="/ufo-history/ufo-books/bryan-c-d-b-close-encounters-of-the-fourth-kind">Close Encounters of the Fourth Kind</a>: Alien Abduction, UFOs, and the Conference at MIT” (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/0964491702/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0964491702/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 129 (in Chapter 4), 160, 165-182 (in Chapter 5) in an interview at pages 237-249 (Chapter 9 generally), 564 (in Chapter 20) of the Weidenfeld &amp; Nicolson hardback edition (with the same page numbering in the Knopf hardback edition and the Penguin Arkana softcover edition) at pages 173, 215, 221-244, 321-338, 564 of the Orion paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/bryan-c-d-b' | relative_url }}">Bryan, C D B</a> in his “<a href="{{ '/ufo-history/ufo-books/bryan-c-d-b-close-encounters-of-the-fourth-kind' | relative_url }}">Close Encounters of the Fourth Kind</a>: Alien Abduction, UFOs, and the Conference at MIT” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/0964491702/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0964491702/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 129 (in Chapter 4), 160, 165-182 (in Chapter 5) in an interview at pages 237-249 (Chapter 9 generally), 564 (in Chapter 20) of the Weidenfeld &amp; Nicolson hardback edition (with the same page numbering in the Knopf hardback edition and the Penguin Arkana softcover edition) at pages 173, 215, 221-244, 321-338, 564 of the Orion paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>34</p>
@@ -113,10 +113,10 @@ For discussion of Richard Boylan see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/dean-jodi">Dean, Jodi</a> in her “<a href="/ufo-history/ufo-books/dean-jodi-aliens-in-america">Aliens in America</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0801484685/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0801484685/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 195 (in the Postscript), 224 (in the Notes) of the Cornell University softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dean-jodi' | relative_url }}">Dean, Jodi</a> in her “<a href="{{ '/ufo-history/ufo-books/dean-jodi-aliens-in-america' | relative_url }}">Aliens in America</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0801484685/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0801484685/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 195 (in the Postscript), 224 (in the Notes) of the Cornell University softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -124,10 +124,10 @@ For discussion of Richard Boylan see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/dennett-preston">Dennett, Preston</a> E in his “<a href="/ufo-history/ufo-books/dennett-preston-e-ufo-healings">UFO Healings</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/092652433X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/092652433X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page xvi-xvii (in the Preface) of the Wild Flower Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dennett-preston' | relative_url }}">Dennett, Preston</a> E in his “<a href="{{ '/ufo-history/ufo-books/dennett-preston-e-ufo-healings' | relative_url }}">UFO Healings</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/092652433X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/092652433X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page xvi-xvii (in the Preface) of the Wild Flower Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -135,10 +135,10 @@ For discussion of Richard Boylan see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/emmons-charles-f">Emmons, Charles F</a> in his “<a href="/ufo-history/ufo-books/emmons-charles-f-at-the-threshold-ufos-science-and-the-new-age">At The Threshold: UFOs, Science and the New Age</a>” (available <a href="http://www.amazon.com/dp/0926524429/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0926524429/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 70 (in Chapter 4), 180 (in Chapter 9), 224-225 (in the Appendix, entitled “Ufologist Case Studies / Biographies) of the Wild Flower Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/emmons-charles-f' | relative_url }}">Emmons, Charles F</a> in his “<a href="{{ '/ufo-history/ufo-books/emmons-charles-f-at-the-threshold-ufos-science-and-the-new-age' | relative_url }}">At The Threshold: UFOs, Science and the New Age</a>” (available <a href="http://www.amazon.com/dp/0926524429/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0926524429/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 70 (in Chapter 4), 180 (in Chapter 9), 224-225 (in the Appendix, entitled “Ufologist Case Studies / Biographies) of the Wild Flower Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -146,10 +146,10 @@ For discussion of Richard Boylan see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/jacobs-david-michael">Jacobs, David Michael</a> in his “<a href="/ufo-history/ufo-books/jacobs-david-m-the-threat">The Threat</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0684814846/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684814846/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 209-211 (in Chapter 11) of the Simon &amp; Schuster hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/jacobs-david-michael' | relative_url }}">Jacobs, David Michael</a> in his “<a href="{{ '/ufo-history/ufo-books/jacobs-david-m-the-threat' | relative_url }}">The Threat</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0684814846/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684814846/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 209-211 (in Chapter 11) of the Simon &amp; Schuster hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -157,10 +157,10 @@ For discussion of Richard Boylan see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/kanon-gregory-m">Kanon, Gregory M</a> in his “The Great UFO Hoax” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1880090414/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1880090414/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 112 (in Chapter 7) of the Galde Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/kanon-gregory-m' | relative_url }}">Kanon, Gregory M</a> in his “The Great UFO Hoax” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1880090414/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1880090414/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 112 (in Chapter 7) of the Galde Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -168,10 +168,10 @@ For discussion of Richard Boylan see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randle-kevin">Randle, Kevin</a> D and <a href="/ufo-history/ufo-personalities/estes-russ">Estes, Russ</a> and Cone, William in their “<a href="/ufo-history/ufo-books/randle-kevin-and-estes-russ-and-cone-william-the-abduction-enigma">The Abduction Enigma</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0312867085/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312867085/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 67 (in Chapter 2), 151-163 (Chapter 10 generally), 311 (in Chapter 21), 356-357, 358-359 (in Chapter 24) of the Forge hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randle-kevin' | relative_url }}">Randle, Kevin</a> D and <a href="{{ '/ufo-history/ufo-personalities/estes-russ' | relative_url }}">Estes, Russ</a> and Cone, William in their “<a href="{{ '/ufo-history/ufo-books/randle-kevin-and-estes-russ-and-cone-william-the-abduction-enigma' | relative_url }}">The Abduction Enigma</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0312867085/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312867085/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 67 (in Chapter 2), 151-163 (Chapter 10 generally), 311 (in Chapter 21), 356-357, 358-359 (in Chapter 24) of the Forge hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>19</p>
@@ -179,10 +179,10 @@ For discussion of Richard Boylan see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2007">2007</a></p>
+<p><a href="{{ '/tags/2007' | relative_url }}">2007</a></p>
 </td>
 <td valign="top" width="547">
-<p>Ronnevig, Georg in “Alien Worlds : Social and Religious Dimensions of Extraterrestrial Contact” (<a href="/tags/2007">2007</a>) (edited by Diana Tumminia) (available <a href="http://www.amazon.com/dp/0815608586/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0815608586/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 120 (in Chapter 6) of the Syracuse University Press softcover edition.</p>
+<p>Ronnevig, Georg in “Alien Worlds : Social and Religious Dimensions of Extraterrestrial Contact” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (edited by Diana Tumminia) (available <a href="http://www.amazon.com/dp/0815608586/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0815608586/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 120 (in Chapter 6) of the Syracuse University Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -190,10 +190,10 @@ For discussion of Richard Boylan see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2004">2004</a></p>
+<p><a href="{{ '/tags/2004' | relative_url }}">2004</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/salla-michael">Salla, Michael</a> in his “<a href="/ufo-history/ufo-books/salla-michael-exopolitics-political-implications-of-the-extraterrestrial-presence">Exopolitics : Political Implications of the Extraterrestrial Presence</a>” (<a href="/tags/2004">2004</a>) (available <a href="http://www.amazon.com/dp/1893302563/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1893302563/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 21, 24, 25, 31 (in Chapter 1), 272 (in Chapter 7) of the Dandelion Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/salla-michael' | relative_url }}">Salla, Michael</a> in his “<a href="{{ '/ufo-history/ufo-books/salla-michael-exopolitics-political-implications-of-the-extraterrestrial-presence' | relative_url }}">Exopolitics : Political Implications of the Extraterrestrial Presence</a>” (<a href="{{ '/tags/2004' | relative_url }}">2004</a>) (available <a href="http://www.amazon.com/dp/1893302563/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1893302563/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 21, 24, 25, 31 (in Chapter 1), 272 (in Chapter 7) of the Dandelion Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>
@@ -201,10 +201,10 @@ For discussion of Richard Boylan see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p>Wright, Susan in her “<a href="/ufo-history/ufo-books/wright-susan-ufo-headquarters">UFO Headquarters</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0312193475/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312193475/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 94-95 (in Chapter 5), 158, 161-163 (in Chapter 8) of the St Martin’s Press softcover edition.</p>
+<p>Wright, Susan in her “<a href="{{ '/ufo-history/ufo-books/wright-susan-ufo-headquarters' | relative_url }}">UFO Headquarters</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0312193475/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312193475/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 94-95 (in Chapter 5), 158, 161-163 (in Chapter 8) of the St Martin’s Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

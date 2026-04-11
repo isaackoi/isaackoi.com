@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/britain_1.gif"}
 ---
 
-![britain_1](/images/stories/ufo_tags/britain_1.gif)
+![britain_1]({{ '/images/stories/ufo_tags/britain_1.gif' | relative_url }})
 
 *Scientology defamation claim*
 
@@ -67,10 +67,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1973">1973</a></p>
+<p><a href="{{ '/tags/1973' | relative_url }}">1973</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/evans-christopher">Evans, Christopher</a> in his “<a href="/ufo-history/ufo-books/evans-christopher-cults-of-unreason">Cults of Unreason</a>” (<a href="/tags/1973">1973</a>) (available <a href="http://www.amazon.com/dp/0374133247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0374133247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 124-126 (in Part 1, Chapter 9) of the Panther paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/evans-christopher' | relative_url }}">Evans, Christopher</a> in his “<a href="{{ '/ufo-history/ufo-books/evans-christopher-cults-of-unreason' | relative_url }}">Cults of Unreason</a>” (<a href="{{ '/tags/1973' | relative_url }}">1973</a>) (available <a href="http://www.amazon.com/dp/0374133247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0374133247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 124-126 (in Part 1, Chapter 9) of the Panther paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -78,10 +78,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="547">
-<p>Atack, Jon in his “A Piece of Blue Sky : Scientology, Dianetics and L Ron Hubbard Exposed ” (<a href="/tags/1990">1990</a>) in Part 4, Chapter 3. Text available free online on various websites, including at:</p>
+<p>Atack, Jon in his “A Piece of Blue Sky : Scientology, Dianetics and L Ron Hubbard Exposed ” (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) in Part 4, Chapter 3. Text available free online on various websites, including at:</p>
 <p><a href="http://www.clambake.org/archive/books/apobs/bs4-3.htm">http://www.clambake.org/archive/books/apobs/bs4-3.htm</a></p>
 </td>
 <td valign="top" width="52">

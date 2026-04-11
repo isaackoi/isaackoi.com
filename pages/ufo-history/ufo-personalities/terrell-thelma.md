@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/terrel_thelma_1.jpg"}
 ---
 
-![terrel_thelma_1](/images/stories/ufo_personalities/terrel_thelma_1.jpg)
+![terrel_thelma_1]({{ '/images/stories/ufo_personalities/terrel_thelma_1.jpg' | relative_url }})
 
 *Thelma Terrell*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1993">1993</a></p>
+<p><a href="{{ '/tags/1993' | relative_url }}">1993</a></p>
 </td>
 <td valign="top" width="564">
-<p>Tuella (real name <a href="/ufo-history/ufo-personalities/terrell-thelma">Terrell, Thelma</a>) “Project World Evacuation”</p>
+<p>Tuella (real name <a href="{{ '/ufo-history/ufo-personalities/terrell-thelma' | relative_url }}">Terrell, Thelma</a>) “Project World Evacuation”</p>
 </td>
 </tr>
 </tbody>
@@ -83,10 +83,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/alnor-william-m">Alnor, William M</a> in his “<a href="/ufo-history/ufo-books/alnor-william-m-ufo-cults-and-the-new-millenium">UFO Cults and the New Millenium</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0801057914/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0801057914/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 73 (in Chapter 4), 146-148 (in Chapter 9) of the Baker softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/alnor-william-m' | relative_url }}">Alnor, William M</a> in his “<a href="{{ '/ufo-history/ufo-books/alnor-william-m-ufo-cults-and-the-new-millenium' | relative_url }}">UFO Cults and the New Millenium</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0801057914/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0801057914/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 73 (in Chapter 4), 146-148 (in Chapter 9) of the Baker softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -94,10 +94,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/alnor-william-m">Alnor, William M</a> in his “<a href="/ufo-history/ufo-books/alnor-william-m-ufo-in-the-new-age">UFO in the New Age</a>” (<a href="/tags/1992">1992</a>) (available <a href="http://www.amazon.com/dp/0801002265/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0801002265/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 51-52 (in Chapter 2) of the Baker softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/alnor-william-m' | relative_url }}">Alnor, William M</a> in his “<a href="{{ '/ufo-history/ufo-books/alnor-william-m-ufo-in-the-new-age' | relative_url }}">UFO in the New Age</a>” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="http://www.amazon.com/dp/0801002265/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0801002265/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 51-52 (in Chapter 2) of the Baker softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -105,10 +105,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1985">1985</a></p>
+<p><a href="{{ '/tags/1985' | relative_url }}">1985</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/montgomery-ruth">Montgomery, Ruth</a> in her “<a href="/ufo-history/ufo-books/montgomery-ruth-aliens-among-us">Aliens Among Us</a>” (<a href="/tags/1985">1985</a>) (available <a href="http://www.amazon.com/dp/0449208095/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0449208095/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 43-45 (in Chapter 2) of the Fawcett paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/montgomery-ruth' | relative_url }}">Montgomery, Ruth</a> in her “<a href="{{ '/ufo-history/ufo-books/montgomery-ruth-aliens-among-us' | relative_url }}">Aliens Among Us</a>” (<a href="{{ '/tags/1985' | relative_url }}">1985</a>) (available <a href="http://www.amazon.com/dp/0449208095/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0449208095/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 43-45 (in Chapter 2) of the Fawcett paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -116,10 +116,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p>Missler, Chuck and Eastman, Mark in their “<a href="/ufo-history/ufo-books/missler-chuck-and-eastman-mark-alien-encounters">Alien Encounters: The Secret behind the UFO Phenomenon</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1578210615/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1578210615/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 187, 195-196, 197 (in Chapter 9) of the Koinonia House softcover edition.</p>
+<p>Missler, Chuck and Eastman, Mark in their “<a href="{{ '/ufo-history/ufo-books/missler-chuck-and-eastman-mark-alien-encounters' | relative_url }}">Alien Encounters: The Secret behind the UFO Phenomenon</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1578210615/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1578210615/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 187, 195-196, 197 (in Chapter 9) of the Koinonia House softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>

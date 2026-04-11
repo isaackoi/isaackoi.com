@@ -14,9 +14,9 @@ header: {"preview_image": "/book-covers/0345331354.jpg"}
 book: {"identifiers": ["0345331354", "0471395366", "0805057668", "0345379187"], "primary_isbn": "0345331354", "cover_image": "/book-covers/0345331354.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Carl Sagan](/ufo-history/ufo-personalities/sagan-carl)'s book “[Cosmos](/ufo-history/ufo-books/sagan-carl-cosmos)” ([1980](/tags/1980)) (available [on Amazon USA](http://www.amazon.com/dp/0345331354/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0345331354/?&tag=ufot-21)).
+Brief review to be added of [Carl Sagan]({{ '/ufo-history/ufo-personalities/sagan-carl' | relative_url }})'s book “[Cosmos]({{ '/ufo-history/ufo-books/sagan-carl-cosmos' | relative_url }})” ([1980]({{ '/tags/1980' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0345331354/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0345331354/?&tag=ufot-21)).
 
-Accompanying the television series of the same name, which first aired on 28th September [1980](/tags/1980).
+Accompanying the television series of the same name, which first aired on 28th September [1980]({{ '/tags/1980' | relative_url }}).
 
 1. [Web Resources](#web)
 
@@ -36,7 +36,7 @@ The table below includes references to relevant discussions in UFO/SETI books no
 
 Many of the tables of references on this website are considerably longer than the references to books found on most other UFO websites. Indeed, some are probably the longest that have been collated in relation to some events and personalities. I hope that these tables are found to be a useful contribution to UFOlogy.
 
-For discussion of “[Cosmos](/ufo-history/ufo-books/sagan-carl-cosmos)“ (the book and/or the TV series) see the following:
+For discussion of “[Cosmos]({{ '/ufo-history/ufo-books/sagan-carl-cosmos' | relative_url }})“ (the book and/or the TV series) see the following:
 
 <table border="1" cellpadding="0" cellspacing="0" class="sortable" data-sortable="true" id="sortabletable">
 <thead>
@@ -56,10 +56,10 @@ For discussion of “[Cosmos](/ufo-history/ufo-books/sagan-carl-cosmos)“ (the 
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Davidson, Keay in his “<a href="/ufo-history/ufo-personalities/sagan-carl">Carl Sagan</a>: A Life” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0471395366/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0471395366/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 318-340 (in Chapter 13), 341 (in Chapter 14) of the Wiley softcover edition.</p>
+<p>Davidson, Keay in his “<a href="{{ '/ufo-history/ufo-personalities/sagan-carl' | relative_url }}">Carl Sagan</a>: A Life” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0471395366/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0471395366/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 318-340 (in Chapter 13), 341 (in Chapter 14) of the Wiley softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>24</p>
@@ -67,10 +67,10 @@ For discussion of “[Cosmos](/ufo-history/ufo-books/sagan-carl-cosmos)“ (the 
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Poundstone, William in his “<a href="/ufo-history/ufo-books/poundstone-william-carl-sagan-a-life-in-the-cosmos">Carl Sagan: A Life in the Cosmos</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0805057668/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0805057668/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 230, 231 (in the chapter entitled “Ithaca <a href="/tags/1977">1977</a>-78”), 256-263, 267 (in the chapter entitled “Los Angeles <a href="/tags/1978">1978</a>-81”) of the Owl Books softcover edition.</p>
+<p>Poundstone, William in his “<a href="{{ '/ufo-history/ufo-books/poundstone-william-carl-sagan-a-life-in-the-cosmos' | relative_url }}">Carl Sagan: A Life in the Cosmos</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0805057668/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0805057668/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 230, 231 (in the chapter entitled “Ithaca <a href="{{ '/tags/1977' | relative_url }}">1977</a>-78”), 256-263, 267 (in the chapter entitled “Los Angeles <a href="{{ '/tags/1978' | relative_url }}">1978</a>-81”) of the Owl Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>11</p>
@@ -78,10 +78,10 @@ For discussion of “[Cosmos](/ufo-history/ufo-books/sagan-carl-cosmos)“ (the 
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sagan-carl">Sagan, Carl</a> in his “<a href="/ufo-history/ufo-books/sagan-carl-billions-and-billions">Billions and Billions</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0345379187/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0345379187/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 3 (in Chapter 1) of the Headline softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sagan-carl' | relative_url }}">Sagan, Carl</a> in his “<a href="{{ '/ufo-history/ufo-books/sagan-carl-billions-and-billions' | relative_url }}">Billions and Billions</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0345379187/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0345379187/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 3 (in Chapter 1) of the Headline softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

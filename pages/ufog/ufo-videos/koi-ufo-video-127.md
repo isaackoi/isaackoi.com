@@ -23,7 +23,7 @@ As at August 2016, one copy of the video on Youtube has approximately 0.5 millio
 
 Whitley Strieber (author of the book "Communion") wrote an article about this video on 21 August 2016 entitled ["Profound Wisdom from an 'Alien Video' by Whitley Strieber"](http://www.unknowncountry.com/insight/profound-wisdom-alien-video-whitley-strieber) which stated "The material presented in this video is consistent with what I have learned in my close encounter experience over the past 30 years".
 
-In fact, as discussed below, the various copies of this video can easily be traced back to an original upload to Youtube on 6 July 2016 by Canadian visual effects artists Aristomenis Tsirbas ("Meni Tsirbas") of [MeniThings Productions](https://www.facebook.com/menithingsproductions). Meni Tsirbas has been a digital artist on Star Trek: Deep Space Nine, Star Trek: Voyager, Star Trek: Enterprise, various movies (including Hellboy and Titanic) and other projects. This is not his first excursion into the field of ufology. Meni was responsible for direction, animation and lighting of another well-known UFO hoax (see "UFO over Santa Clarita" on the page [Koi UFO Video 080](/ufog/ufo-videos/koi-ufo-video-080)). He admitted that hoax and posted a video effects breakdown of it years ago and is well known as the creator of viral/hoax videos. His other uploads to the same Youtube account include an amusing viral video of a flying car. I find it somewhat bemusing that anyone could spent 5 minutes watching the video but not bother spending 1 minute looking into the uploader of the video, which would easily reveal these facts. I'm regularly bemused by the conduct of some people in ufology... So many things within ufology are the basis of speculation when a little bit of work reveals relevant facts. This applies to government documents in various archives as much as it does to "UFO" videos on Youtube.:)
+In fact, as discussed below, the various copies of this video can easily be traced back to an original upload to Youtube on 6 July 2016 by Canadian visual effects artists Aristomenis Tsirbas ("Meni Tsirbas") of [MeniThings Productions](https://www.facebook.com/menithingsproductions). Meni Tsirbas has been a digital artist on Star Trek: Deep Space Nine, Star Trek: Voyager, Star Trek: Enterprise, various movies (including Hellboy and Titanic) and other projects. This is not his first excursion into the field of ufology. Meni was responsible for direction, animation and lighting of another well-known UFO hoax (see "UFO over Santa Clarita" on the page [Koi UFO Video 080]({{ '/ufog/ufo-videos/koi-ufo-video-080' | relative_url }})). He admitted that hoax and posted a video effects breakdown of it years ago and is well known as the creator of viral/hoax videos. His other uploads to the same Youtube account include an amusing viral video of a flying car. I find it somewhat bemusing that anyone could spent 5 minutes watching the video but not bother spending 1 minute looking into the uploader of the video, which would easily reveal these facts. I'm regularly bemused by the conduct of some people in ufology... So many things within ufology are the basis of speculation when a little bit of work reveals relevant facts. This applies to government documents in various archives as much as it does to "UFO" videos on Youtube.:)
 
 Sections below:
 
@@ -42,11 +42,11 @@ Koi UFO Video 127 appears to show an alien-looking being being interviewed. That
 
 Screen shots from the video are included below for ease of identification:
 
-![](/images/stories/ufo_videos/video127_1.JPG)
+![]({{ '/images/stories/ufo_videos/video127_1.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video127_2.JPG)
+![]({{ '/images/stories/ufo_videos/video127_2.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video127_3.JPG)
+![]({{ '/images/stories/ufo_videos/video127_3.JPG' | relative_url }})
 
 A transcript of the video is given below:
 
@@ -150,17 +150,17 @@ Whitley Strieber (author of the book "Communion") wrote an article about this vi
 
 The various copies of this video can easily be traced back to an original upload to Youtube on 6 July 2016 by Canadian visual effects artists Aristomenis Tsirbas ("Meni Tsirbas") of [MeniThings Productions](https://www.facebook.com/menithingsproductions).
 
-![](/images/stories/ufo_videos/video127_4.JPG)
+![]({{ '/images/stories/ufo_videos/video127_4.JPG' | relative_url }})
 
 Meni Tsirbas' [entry on the IMDB website i](http://www.imdb.com/name/nm0875056/)ndicates that he acted as a digital artist on Star Trek: Deep Space Nine, Star Trek: Voyager, Star Trek: Enterprise, various movies (including Hellboy and Titanic) and other projects.
 
-![](/images/stories/ufo_videos/video080_4.JPG)
+![]({{ '/images/stories/ufo_videos/video080_4.JPG' | relative_url }})
 
-This is not his first excursion into the field of ufology. Meni was responsible for direction, animation and lighting of another well-known UFO hoax (see "UFO over Santa Clarita" on the page [Koi UFO Video 080](/ufog/ufo-videos/koi-ufo-video-080)). Koi UFO Video 080 appears to show someone driving on a road through a desert when a UFO flies over the car and towards some power lines before a large UFO mothership suddenly appears and then disappears.
+This is not his first excursion into the field of ufology. Meni was responsible for direction, animation and lighting of another well-known UFO hoax (see "UFO over Santa Clarita" on the page [Koi UFO Video 080]({{ '/ufog/ufo-videos/koi-ufo-video-080' | relative_url }})). Koi UFO Video 080 appears to show someone driving on a road through a desert when a UFO flies over the car and towards some power lines before a large UFO mothership suddenly appears and then disappears.
 
 [https://www.youtube.com/watch?v=tFHSV4sMw6U](https://www.youtube.com/watch?v=tFHSV4sMw6U)
 
-![](/images/stories/ufo_videos/video080_1d.JPG)
+![]({{ '/images/stories/ufo_videos/video080_1d.JPG' | relative_url }})
 
 On 17 February 2013, Meni Tsirbas uploaded a further video to Youtube. This video was entitled "UFO Over Santa Clarita VFX Breakdown" and had a caption which stated "A behind-the-scenes look at the viral video "UFO Over Santa Clarita". While most assumed that the UFO's must CGI while everything else was live action footage, in reality everything is computer generated". This video showed the 3d models used for the various elements of the "UFO" video and included extensive credits listing those involved in the creation of the Santa Claritia UFO video.
 
@@ -189,4 +189,4 @@ Relevant online discussions of this video include:
 
 2016 (August) discussion on the AboveTopSecret forum entitled "[New Alleged Area 51 tape with alien. Claims to be human from future](http://www.abovetopsecret.com/forum/thread1133802/pg1)"
 
-![](/images/stories/ufo_videos/video127_2d.jpg)
+![]({{ '/images/stories/ufo_videos/video127_2d.jpg' | relative_url }})

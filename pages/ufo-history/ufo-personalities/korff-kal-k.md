@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/korff_kal_1.jpg"}
 ---
 
-![korff_kal_1](/images/stories/ufo_personalities/korff_kal_1.jpg)
+![korff_kal_1]({{ '/images/stories/ufo_personalities/korff_kal_1.jpg' | relative_url }})
 
 *Kal Korff*
 
@@ -36,18 +36,18 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/korff-kal-k">Korff, Kal K</a> “<a href="/ufo-history/ufo-books/korff-kal-k-spaceships-of-the-pleiades-the-billy-meier-story">Spaceships of the Pleiades : The Billy Meier Story</a>” (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/0879759593/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879759593/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/korff-kal-k' | relative_url }}">Korff, Kal K</a> “<a href="{{ '/ufo-history/ufo-books/korff-kal-k-spaceships-of-the-pleiades-the-billy-meier-story' | relative_url }}">Spaceships of the Pleiades : The Billy Meier Story</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/0879759593/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879759593/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/korff-kal-k">Korff, Kal K</a> “<a href="/ufo-history/ufo-books/korff-kal-k-the-roswell-ufo-crash-what-they-dont-want-you-to-know">The Roswell UFO Crash: What They Don’t Want You to Know</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0440236134/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0440236134/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/korff-kal-k' | relative_url }}">Korff, Kal K</a> “<a href="{{ '/ufo-history/ufo-books/korff-kal-k-the-roswell-ufo-crash-what-they-dont-want-you-to-know' | relative_url }}">The Roswell UFO Crash: What They Don’t Want You to Know</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0440236134/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0440236134/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>
@@ -67,7 +67,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-See the references provided in the entry for Korff's book “[The Roswell UFO Crash: What They Don’t Want You to Know](/ufo-history/ufo-books/korff-kal-k-the-roswell-ufo-crash-what-they-dont-want-you-to-know)” ([1997](/tags/1997)).
+See the references provided in the entry for Korff's book “[The Roswell UFO Crash: What They Don’t Want You to Know]({{ '/ufo-history/ufo-books/korff-kal-k-the-roswell-ufo-crash-what-they-dont-want-you-to-know' | relative_url }})” ([1997]({{ '/tags/1997' | relative_url }})).
 
 <a id="other"></a>
 ### Other Material

@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/documents_1.gif"}
 ---
 
-![documents_1](/images/stories/ufo_tags/documents_1.gif)
+![documents_1]({{ '/images/stories/ufo_tags/documents_1.gif' | relative_url }})
 
 *Project Saucer press release*
 
@@ -69,10 +69,10 @@ For discussion of the Memorandum for the Press see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1952">1952</a></p>
+<p><a href="{{ '/tags/1952' | relative_url }}">1952</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/arnold-kenneth">Arnold, Kenneth</a> and <a href="/ufo-history/ufo-personalities/palmer-raymond-a">Palmer, Ray</a> in their “<a href="/ufo-history/ufo-books/arnold-kenneth-and-palmer-ray-the-coming-of-the-saucers">The Coming of the Saucers</a>” (<a href="/tags/1952">1952</a>), with extensive digest of the Memorandum, at pages 85-102 (Chapter 6 generally), 103-112 (Chapter 7 generally) of the Amherst softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/arnold-kenneth' | relative_url }}">Arnold, Kenneth</a> and <a href="{{ '/ufo-history/ufo-personalities/palmer-raymond-a' | relative_url }}">Palmer, Ray</a> in their “<a href="{{ '/ufo-history/ufo-books/arnold-kenneth-and-palmer-ray-the-coming-of-the-saucers' | relative_url }}">The Coming of the Saucers</a>” (<a href="{{ '/tags/1952' | relative_url }}">1952</a>), with extensive digest of the Memorandum, at pages 85-102 (Chapter 6 generally), 103-112 (Chapter 7 generally) of the Amherst softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>27</p>
@@ -80,10 +80,10 @@ For discussion of the Memorandum for the Press see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/brookesmith-peter">Brookesmith, Peter</a> in his “<a href="/ufo-history/ufo-books/brookesmith-peter-ufo-the-government-files">UFO: The Government Files</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/0760702187/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0760702187/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 29 (in Chapter 1) of the Parragon hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/brookesmith-peter' | relative_url }}">Brookesmith, Peter</a> in his “<a href="{{ '/ufo-history/ufo-books/brookesmith-peter-ufo-the-government-files' | relative_url }}">UFO: The Government Files</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/0760702187/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0760702187/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 29 (in Chapter 1) of the Parragon hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -91,10 +91,10 @@ For discussion of the Memorandum for the Press see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in “<a href="/ufo-history/ufo-books/evans-hilary-and-stacy-dennis-ufo-1947-1997">UFO: 1947-1997</a>” (<a href="/tags/1997">1997</a>) (edited by <a href="/ufo-history/ufo-personalities/evans-hilary">Hilary Evans</a> and <a href="/ufo-history/ufo-personalities/stacy-dennis">Dennis Stacy</a>) (available <a href="http://www.amazon.com/dp/1870870999/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1870870999/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 73 (in the section entitled “The <a href="/tags/1950">1950</a>s”, unnumbered chapter entitled “Meeting the Extraterrestrials: How the ETH was Invented”) of the John Brown hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in “<a href="{{ '/ufo-history/ufo-books/evans-hilary-and-stacy-dennis-ufo-1947-1997' | relative_url }}">UFO: 1947-1997</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }}">Hilary Evans</a> and <a href="{{ '/ufo-history/ufo-personalities/stacy-dennis' | relative_url }}">Dennis Stacy</a>) (available <a href="http://www.amazon.com/dp/1870870999/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1870870999/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 73 (in the section entitled “The <a href="{{ '/tags/1950' | relative_url }}">1950</a>s”, unnumbered chapter entitled “Meeting the Extraterrestrials: How the ETH was Invented”) of the John Brown hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -102,10 +102,10 @@ For discussion of the Memorandum for the Press see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/dolan-richard">Dolan, Richard</a> M in his “<a href="/ufo-history/ufo-books/dolan-richard-ufos-and-the-national-security-state-volume-1-1941-1973">UFOs and the National Security State: Volume 1: 1941-1973</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/1571743170/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1571743170/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 118 (in Chapter 3) of the Keyhole softcover edition, at page 69 of the <a href="/tags/2002">2002</a> revised Hampton Road softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dolan-richard' | relative_url }}">Dolan, Richard</a> M in his “<a href="{{ '/ufo-history/ufo-books/dolan-richard-ufos-and-the-national-security-state-volume-1-1941-1973' | relative_url }}">UFOs and the National Security State: Volume 1: 1941-1973</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/1571743170/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1571743170/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 118 (in Chapter 3) of the Keyhole softcover edition, at page 69 of the <a href="{{ '/tags/2002' | relative_url }}">2002</a> revised Hampton Road softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -113,10 +113,10 @@ For discussion of the Memorandum for the Press see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1956">1956</a></p>
+<p><a href="{{ '/tags/1956' | relative_url }}">1956</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/guieu-jimmy">Guieu, Jimmy</a> in his “<a href="/ufo-history/ufo-books/guieu-jimmy-flying-saucers-come-from-another-world">Flying Saucers Come From Another World</a>” (<a href="/tags/1956">1956</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/B0000CJCUL/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0000CJCUL/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 182 (in Chapter 8) of the Hutchinson hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/guieu-jimmy' | relative_url }}">Guieu, Jimmy</a> in his “<a href="{{ '/ufo-history/ufo-books/guieu-jimmy-flying-saucers-come-from-another-world' | relative_url }}">Flying Saucers Come From Another World</a>” (<a href="{{ '/tags/1956' | relative_url }}">1956</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/B0000CJCUL/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0000CJCUL/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 182 (in Chapter 8) of the Hutchinson hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -124,10 +124,10 @@ For discussion of the Memorandum for the Press see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/hall-michael-david">Hall, Michael David</a> and <a href="/ufo-history/ufo-personalities/connors-wendy-ann">Connors, Wendy Ann</a> in their “<a href="/ufo-history/ufo-books/hall-michael-david-and-connors-wendy-ann-captain-edward-j-ruppelt">Captain Edward J Ruppelt : Summer of the Saucers - 1952</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/0970505507/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0970505507/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 14-15 (in Chapter 1) of the Rose Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hall-michael-david' | relative_url }}">Hall, Michael David</a> and <a href="{{ '/ufo-history/ufo-personalities/connors-wendy-ann' | relative_url }}">Connors, Wendy Ann</a> in their “<a href="{{ '/ufo-history/ufo-books/hall-michael-david-and-connors-wendy-ann-captain-edward-j-ruppelt' | relative_url }}">Captain Edward J Ruppelt : Summer of the Saucers - 1952</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/0970505507/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0970505507/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 14-15 (in Chapter 1) of the Rose Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -135,10 +135,10 @@ For discussion of the Memorandum for the Press see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1988">1988</a></p>
+<p><a href="{{ '/tags/1988' | relative_url }}">1988</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/hall-richard-h">Hall, Richard</a> in his “<a href="/ufo-history/ufo-books/hall-richard-uninvited-guests">Uninvited Guests</a>” (<a href="/tags/1988">1988</a>) (available <a href="http://www.amazon.com/dp/0943358329/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0943358329/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 172 (in Chapter 11) of the Aurora Press paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hall-richard-h' | relative_url }}">Hall, Richard</a> in his “<a href="{{ '/ufo-history/ufo-books/hall-richard-uninvited-guests' | relative_url }}">Uninvited Guests</a>” (<a href="{{ '/tags/1988' | relative_url }}">1988</a>) (available <a href="http://www.amazon.com/dp/0943358329/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0943358329/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 172 (in Chapter 11) of the Aurora Press paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -146,10 +146,10 @@ For discussion of the Memorandum for the Press see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1973">1973</a></p>
+<p><a href="{{ '/tags/1973' | relative_url }}">1973</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/keyhoe-donald-e">Keyhoe, Donald E</a> in his “<a href="/ufo-history/ufo-books/keyhoe-donald-e-aliens-from-space">Aliens from Space</a>” (<a href="/tags/1973">1973</a>) (available <a href="http://www.amazon.com/dp/0385067518/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0385067518/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 136-137 (in Chapter 9) of the Signet paperback edition, at pages 158-159 of the Panther paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/keyhoe-donald-e' | relative_url }}">Keyhoe, Donald E</a> in his “<a href="{{ '/ufo-history/ufo-books/keyhoe-donald-e-aliens-from-space' | relative_url }}">Aliens from Space</a>” (<a href="{{ '/tags/1973' | relative_url }}">1973</a>) (available <a href="http://www.amazon.com/dp/0385067518/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0385067518/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 136-137 (in Chapter 9) of the Signet paperback edition, at pages 158-159 of the Panther paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -157,10 +157,10 @@ For discussion of the Memorandum for the Press see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1960">1960</a></p>
+<p><a href="{{ '/tags/1960' | relative_url }}">1960</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/keyhoe-donald-e">Keyhoe, Donald E</a> in his “<a href="/ufo-history/ufo-books/keyhoe-donald-flying-saucers-top-secret">Flying Saucers: Top Secret</a>” (<a href="/tags/1960">1960</a>) (available <a href="http://www.amazon.com/dp/B0007F2EIY/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0007F2EIY/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 152-153 of the G P Putnam hardback edition (in Chapter 10).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/keyhoe-donald-e' | relative_url }}">Keyhoe, Donald E</a> in his “<a href="{{ '/ufo-history/ufo-books/keyhoe-donald-flying-saucers-top-secret' | relative_url }}">Flying Saucers: Top Secret</a>” (<a href="{{ '/tags/1960' | relative_url }}">1960</a>) (available <a href="http://www.amazon.com/dp/B0007F2EIY/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0007F2EIY/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 152-153 of the G P Putnam hardback edition (in Chapter 10).</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -168,10 +168,10 @@ For discussion of the Memorandum for the Press see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1950">1950</a></p>
+<p><a href="{{ '/tags/1950' | relative_url }}">1950</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/keyhoe-donald-e">Keyhoe, Donald E</a> in his “<a href="/ufo-history/ufo-books/keyhoe-donald-e-the-flying-saucers-are-real">The Flying Saucers are Real</a>” (<a href="/tags/1950">1950</a>) (available <a href="http://www.amazon.com/dp/B000IMEYWK/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000IMEYWK/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 5 (in the Author’s Note), 38 (in Chapter 5), 71 (in Chapter 8), 116-118 (in Chapter 13) of the Fawcett Gold Medal paperback edition, which has the same page numbering as the version available on-line at</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/keyhoe-donald-e' | relative_url }}">Keyhoe, Donald E</a> in his “<a href="{{ '/ufo-history/ufo-books/keyhoe-donald-e-the-flying-saucers-are-real' | relative_url }}">The Flying Saucers are Real</a>” (<a href="{{ '/tags/1950' | relative_url }}">1950</a>) (available <a href="http://www.amazon.com/dp/B000IMEYWK/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000IMEYWK/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 5 (in the Author’s Note), 38 (in Chapter 5), 71 (in Chapter 8), 116-118 (in Chapter 13) of the Fawcett Gold Medal paperback edition, which has the same page numbering as the version available on-line at</p>
 <p><a href="http://www.nicap.org/fsar/chapters.htm">http://www.nicap.org/fsar/fsar-chapters.htm</a></p>
 </td>
 <td valign="top" width="52">
@@ -180,10 +180,10 @@ For discussion of the Memorandum for the Press see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/maccabee-bruce">Maccabee, Bruce</a> in his “<a href="/ufo-history/ufo-books/maccabee-bruce-ufo-fbi-connection">UFO-FBI Connection</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/1567184936/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1567184936/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 97, 98-100, 102, 103-104 (in Chapter 9) of the Llewellyn softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/maccabee-bruce' | relative_url }}">Maccabee, Bruce</a> in his “<a href="{{ '/ufo-history/ufo-books/maccabee-bruce-ufo-fbi-connection' | relative_url }}">UFO-FBI Connection</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/1567184936/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1567184936/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 97, 98-100, 102, 103-104 (in Chapter 9) of the Llewellyn softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>7</p>
@@ -191,10 +191,10 @@ For discussion of the Memorandum for the Press see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1953">1953</a></p>
+<p><a href="{{ '/tags/1953' | relative_url }}">1953</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/menzel-donald-h">Menzel, Donald</a> in his “<a href="/ufo-history/ufo-books/menzel-donald-h-flying-saucers">Flying Saucers</a>“ (<a href="/tags/1953">1953</a>) (available <a href="http://www.amazon.com/dp/B000J0PM1S/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000J0PM1S/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 47-48 (in Chapter 4) of the Putnam hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/menzel-donald-h' | relative_url }}">Menzel, Donald</a> in his “<a href="{{ '/ufo-history/ufo-books/menzel-donald-h-flying-saucers' | relative_url }}">Flying Saucers</a>“ (<a href="{{ '/tags/1953' | relative_url }}">1953</a>) (available <a href="http://www.amazon.com/dp/B000J0PM1S/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000J0PM1S/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 47-48 (in Chapter 4) of the Putnam hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -202,10 +202,10 @@ For discussion of the Memorandum for the Press see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1956">1956</a></p>
+<p><a href="{{ '/tags/1956' | relative_url }}">1956</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/michel-aime">Michel, Aime</a> in his “<a href="/ufo-history/ufo-books/michel-aime-the-truth-about-flying-saucers">The Truth about Flying Saucers</a>” (<a href="/tags/1956">1956</a>) (available <a href="http://www.amazon.com/dp/B000OZY8EA/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000OZY8EA/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 72-76 (in Part 1, Chapter 3) of the Robert Hale hardback edition, at pages 77-82 of the Pyramid paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/michel-aime' | relative_url }}">Michel, Aime</a> in his “<a href="{{ '/ufo-history/ufo-books/michel-aime-the-truth-about-flying-saucers' | relative_url }}">The Truth about Flying Saucers</a>” (<a href="{{ '/tags/1956' | relative_url }}">1956</a>) (available <a href="http://www.amazon.com/dp/B000OZY8EA/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000OZY8EA/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 72-76 (in Part 1, Chapter 3) of the Robert Hale hardback edition, at pages 77-82 of the Pyramid paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>
@@ -213,10 +213,10 @@ For discussion of the Memorandum for the Press see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/peebles-curtis">Peebles, Curtis</a> in his “<a href="/ufo-history/ufo-books/peebles-curtis-watch-the-skies">Watch the Skies!</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/1560983434/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1560983434/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 34 (Chapter 3, “The Classics” – in part of a section entitled “Suspicions”) of the Smithsonian hardback edition, page 40 of the Berkley paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/peebles-curtis' | relative_url }}">Peebles, Curtis</a> in his “<a href="{{ '/ufo-history/ufo-books/peebles-curtis-watch-the-skies' | relative_url }}">Watch the Skies!</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/1560983434/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1560983434/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 34 (Chapter 3, “The Classics” – in part of a section entitled “Suspicions”) of the Smithsonian hardback edition, page 40 of the Berkley paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -224,10 +224,10 @@ For discussion of the Memorandum for the Press see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1950">1950</a></p>
+<p><a href="{{ '/tags/1950' | relative_url }}">1950</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/scully-frank">Scully, Frank</a> in his “<a href="/ufo-history/ufo-books/scully-frank-behind-the-flying-saucers">Behind the Flying Saucers</a>” (<a href="/tags/1950">1950</a>) (available <a href="http://www.amazon.com/dp/B000O3MUVK/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000O3MUVK/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page xiv (in the Preface), 74, 75-83 (in Chapter 7) of the Henry Holt hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/scully-frank' | relative_url }}">Scully, Frank</a> in his “<a href="{{ '/ufo-history/ufo-books/scully-frank-behind-the-flying-saucers' | relative_url }}">Behind the Flying Saucers</a>” (<a href="{{ '/tags/1950' | relative_url }}">1950</a>) (available <a href="http://www.amazon.com/dp/B000O3MUVK/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000O3MUVK/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page xiv (in the Preface), 74, 75-83 (in Chapter 7) of the Henry Holt hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>11</p>
@@ -235,10 +235,10 @@ For discussion of the Memorandum for the Press see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1966">1966</a></p>
+<p><a href="{{ '/tags/1966' | relative_url }}">1966</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/stanton-l-jerome">Stanton, L Jerome</a> in his “<a href="/ufo-history/ufo-books/stanton-l-jerome-flying-saucers-hoax-or-reality">Flying Saucers : Hoax or Reality?</a>” (<a href="/tags/1966">1966</a>) (available <a href="http://www.amazon.com/dp/B000ILEK2A/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000ILEK2A/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 42 (in Chapter 2) of the Belmont paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/stanton-l-jerome' | relative_url }}">Stanton, L Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/stanton-l-jerome-flying-saucers-hoax-or-reality' | relative_url }}">Flying Saucers : Hoax or Reality?</a>” (<a href="{{ '/tags/1966' | relative_url }}">1966</a>) (available <a href="http://www.amazon.com/dp/B000ILEK2A/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000ILEK2A/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 42 (in Chapter 2) of the Belmont paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -246,10 +246,10 @@ For discussion of the Memorandum for the Press see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sturrock-peter-a">Sturrock, Peter</a> in his “<a href="/ufo-history/ufo-books/sturrock-peter-a-the-ufo-enigma">The UFO Enigma</a>“ (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0446525650/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0446525650/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 8-10 (in Chapter 2) of the Warner Aspect hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sturrock-peter-a' | relative_url }}">Sturrock, Peter</a> in his “<a href="{{ '/ufo-history/ufo-books/sturrock-peter-a-the-ufo-enigma' | relative_url }}">The UFO Enigma</a>“ (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0446525650/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0446525650/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 8-10 (in Chapter 2) of the Warner Aspect hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -257,10 +257,10 @@ For discussion of the Memorandum for the Press see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/swords-michael-d">Swords, Michael D</a> in “<a href="/ufo-history/ufo-books/evans-hilary-and-stacy-dennis-ufo-1947-1997">UFO: 1947-1997</a>” (<a href="/tags/1997">1997</a>) (edited by <a href="/ufo-history/ufo-personalities/evans-hilary">Hilary Evans</a> and <a href="/ufo-history/ufo-personalities/stacy-dennis">Dennis Stacy</a>) (available <a href="http://www.amazon.com/dp/1870870999/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1870870999/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 87 of the John Brown hardback edition (Section entitled “The <a href="/tags/1950">1950</a>s”, unnumbered chapter entitled “Donald E. Keyhoe and the Pentagon”).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/swords-michael-d' | relative_url }}">Swords, Michael D</a> in “<a href="{{ '/ufo-history/ufo-books/evans-hilary-and-stacy-dennis-ufo-1947-1997' | relative_url }}">UFO: 1947-1997</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }}">Hilary Evans</a> and <a href="{{ '/ufo-history/ufo-personalities/stacy-dennis' | relative_url }}">Dennis Stacy</a>) (available <a href="http://www.amazon.com/dp/1870870999/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1870870999/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 87 of the John Brown hardback edition (Section entitled “The <a href="{{ '/tags/1950' | relative_url }}">1950</a>s”, unnumbered chapter entitled “Donald E. Keyhoe and the Pentagon”).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -268,10 +268,10 @@ For discussion of the Memorandum for the Press see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1966">1966</a></p>
+<p><a href="{{ '/tags/1966' | relative_url }}">1966</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/vallee-jacques">Vallee, Jacques</a> and Vallee, Janine in their “<a href="/ufo-history/ufo-books/vallee-jacques-and-vallee-janine-challenge-to-science-the-ufo-enigma">Challenge to Science – The UFO Enigma</a>” (<a href="/tags/1966">1966</a>) (available <a href="http://www.amazon.com/dp/034527086X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/034527086X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 105 (in Chapter 5) of the Ballantine Books paperback edition, at page 90 of the Tandem paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/vallee-jacques' | relative_url }}">Vallee, Jacques</a> and Vallee, Janine in their “<a href="{{ '/ufo-history/ufo-books/vallee-jacques-and-vallee-janine-challenge-to-science-the-ufo-enigma' | relative_url }}">Challenge to Science – The UFO Enigma</a>” (<a href="{{ '/tags/1966' | relative_url }}">1966</a>) (available <a href="http://www.amazon.com/dp/034527086X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/034527086X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 105 (in Chapter 5) of the Ballantine Books paperback edition, at page 90 of the Tandem paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -279,10 +279,10 @@ For discussion of the Memorandum for the Press see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1971">1971</a></p>
+<p><a href="{{ '/tags/1971' | relative_url }}">1971</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/vesco-renato">Vesco, Renato</a> in his “<a href="/ufo-history/ufo-books/vesco-renato-intercept-ufo">Intercept Ufo</a>” (Formerly published as “Intercept - But Don't Shoot”) (<a href="/tags/1971">1971</a>) (available <a href="http://www.amazon.com/dp/0523008406/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0523008406/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 63, 73 (in Chapter 3) of the Zebra paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/vesco-renato' | relative_url }}">Vesco, Renato</a> in his “<a href="{{ '/ufo-history/ufo-books/vesco-renato-intercept-ufo' | relative_url }}">Intercept Ufo</a>” (Formerly published as “Intercept - But Don't Shoot”) (<a href="{{ '/tags/1971' | relative_url }}">1971</a>) (available <a href="http://www.amazon.com/dp/0523008406/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0523008406/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 63, 73 (in Chapter 3) of the Zebra paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

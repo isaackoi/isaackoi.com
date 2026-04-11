@@ -14,7 +14,7 @@ header: {"preview_image": "https://covers.openlibrary.org/b/isbn/0722153317-L.jp
 book: {"identifiers": ["0722153317", "1852277343", "1573922005", "0571220819", "0713725184", "1558887423", "0780800974", "B000GGZYWC", "0816038007", "0791423301", "0762101083", "0850305977", "0449135691", "0962653462", "1880090163", "0971394237", "0340758333", "0722176945", "0451157060", "0451064240", "0880642262"], "primary_isbn": "0722153317", "cover_image": "https://covers.openlibrary.org/b/isbn/0722153317-L.jpg?default=false", "cover_source": "openlibrary"}
 ---
 
-Brief review to be added of “[My Contact With UFOs](/ufo-history/ufo-books/kraspedon-dino-whose-real-name-was-aladino-felix-my-contact-with-ufos-formerly-my-contact-with-flying-saucers)” ([1959](/tags/1959)) (available [on Amazon USA](http://www.amazon.com/dp/0722153317/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0722153317/?&tag=ufot-21)) by [Dino Kraspedon](/ufo-history/ufo-personalities/kraspedon-dino) (whose real name was Aladino Felix).
+Brief review to be added of “[My Contact With UFOs]({{ '/ufo-history/ufo-books/kraspedon-dino-whose-real-name-was-aladino-felix-my-contact-with-ufos-formerly-my-contact-with-flying-saucers' | relative_url }})” ([1959]({{ '/tags/1959' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0722153317/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0722153317/?&tag=ufot-21)) by [Dino Kraspedon]({{ '/ufo-history/ufo-personalities/kraspedon-dino' | relative_url }}) (whose real name was Aladino Felix).
 
 Formerly published as “My contact with Flying Saucers”.
 
@@ -56,10 +56,10 @@ For discussion of Dino Kraspedon and/or his book see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/baker-alan">Baker, Alan</a> in his “<a href="/ufo-history/ufo-books/baker-alan-the-encyclopaedia-of-alien-encounters">The Encyclopaedia of Alien Encounters</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/1852277343/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1852277343/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 137 (in an entry entitled “<a href="/ufo-history/ufo-personalities/klass-philip-j">Klass, Philip J</a>ulian”) of the Virgin hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/baker-alan' | relative_url }}">Baker, Alan</a> in his “<a href="{{ '/ufo-history/ufo-books/baker-alan-the-encyclopaedia-of-alien-encounters' | relative_url }}">The Encyclopaedia of Alien Encounters</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/1852277343/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1852277343/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 137 (in an entry entitled “<a href="{{ '/ufo-history/ufo-personalities/klass-philip-j' | relative_url }}">Klass, Philip J</a>ulian”) of the Virgin hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -67,10 +67,10 @@ For discussion of Dino Kraspedon and/or his book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/bartholomew-robert-e">Bartholomew, Robert E</a> and Howard, George S in their “<a href="/ufo-history/ufo-books/bartholomew-robert-e-and-howard-george-s-ufos-and-alien-contact">UFOs and Alien Contact</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/1573922005/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573922005/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 296 (in Appendix A, entitled “The UFO Contact Catalogue”) of the Prometheus hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/bartholomew-robert-e' | relative_url }}">Bartholomew, Robert E</a> and Howard, George S in their “<a href="{{ '/ufo-history/ufo-books/bartholomew-robert-e-and-howard-george-s-ufos-and-alien-contact' | relative_url }}">UFOs and Alien Contact</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/1573922005/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573922005/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 296 (in Appendix A, entitled “The UFO Contact Catalogue”) of the Prometheus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -78,10 +78,10 @@ For discussion of Dino Kraspedon and/or his book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2005">2005</a></p>
+<p><a href="{{ '/tags/2005' | relative_url }}">2005</a></p>
 </td>
 <td valign="top" width="547">
-<p>Brennan, Herbie in his “The Aliens Handbook” (<a href="/tags/2005">2005</a>) (available <a href="http://www.amazon.com/dp/0571220819/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0571220819/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 21 (in Chapter 4) of the Faber and Faber softcover edition.</p>
+<p>Brennan, Herbie in his “The Aliens Handbook” (<a href="{{ '/tags/2005' | relative_url }}">2005</a>) (available <a href="http://www.amazon.com/dp/0571220819/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0571220819/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 21 (in Chapter 4) of the Faber and Faber softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -89,10 +89,10 @@ For discussion of Dino Kraspedon and/or his book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/brookesmith-peter">Brookesmith, Peter</a> in his “<a href="/ufo-history/ufo-books/brookesmith-peter-ufo-the-complete-sightings-catalogue">UFO: The Complete Sightings Catalogue</a>” (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/0713725184/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713725184/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 67 (in Chapter 3) of the BCA hardback edition (with the same page numbering in the Blitz hardback edition, and in the Barnes &amp; Noble hardback edition published under the title “UFO: The Complete Sightings”).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/brookesmith-peter' | relative_url }}">Brookesmith, Peter</a> in his “<a href="{{ '/ufo-history/ufo-books/brookesmith-peter-ufo-the-complete-sightings-catalogue' | relative_url }}">UFO: The Complete Sightings Catalogue</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/0713725184/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713725184/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 67 (in Chapter 3) of the BCA hardback edition (with the same page numbering in the Blitz hardback edition, and in the Barnes &amp; Noble hardback edition published under the title “UFO: The Complete Sightings”).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -100,10 +100,10 @@ For discussion of Dino Kraspedon and/or his book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq">The UFO Encyclopedia: 1st edition</a>: Volume 3 – High Strangeness” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/1558887423/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558887423/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 277-278 of the Omnigraphics hardback edition forming part of an entry entitled “Kraspedon Contact Claims”.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq' | relative_url }}">The UFO Encyclopedia: 1st edition</a>: Volume 3 – High Strangeness” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/1558887423/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558887423/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 277-278 of the Omnigraphics hardback edition forming part of an entry entitled “Kraspedon Contact Claims”.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -111,10 +111,10 @@ For discussion of Dino Kraspedon and/or his book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) in Volume 1:A-K at pages 566-567 (in an entry entitled “Kraspedon Contact Claims”) of the Omnigraphics hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition' | relative_url }}">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) in Volume 1:A-K at pages 566-567 (in an entry entitled “Kraspedon Contact Claims”) of the Omnigraphics hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -122,10 +122,10 @@ For discussion of Dino Kraspedon and/or his book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1969">1969</a></p>
+<p><a href="{{ '/tags/1969' | relative_url }}">1969</a></p>
 </td>
 <td valign="top" width="547">
-<p>Creighton, Gordon in “<a href="/ufo-history/ufo-books/bowen-charles-ed-the-humanoids">The Humanoids</a>” (<a href="/tags/1969">1969</a>) (edited by Charles Bowen) (available <a href="http://www.amazon.com/dp/B000GGZYWC/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000GGZYWC/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 90 of the Neville Spearman hardback edition, with the same page numbering in the Futura paperback edition (unnumbered chapter entitled “<a href="/ufo-history/ufo-books/bowen-charles-ed-the-humanoids">The Humanoids</a> in Latin America”).</p>
+<p>Creighton, Gordon in “<a href="{{ '/ufo-history/ufo-books/bowen-charles-ed-the-humanoids' | relative_url }}">The Humanoids</a>” (<a href="{{ '/tags/1969' | relative_url }}">1969</a>) (edited by Charles Bowen) (available <a href="http://www.amazon.com/dp/B000GGZYWC/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000GGZYWC/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 90 of the Neville Spearman hardback edition, with the same page numbering in the Futura paperback edition (unnumbered chapter entitled “<a href="{{ '/ufo-history/ufo-books/bowen-charles-ed-the-humanoids' | relative_url }}">The Humanoids</a> in Latin America”).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -133,10 +133,10 @@ For discussion of Dino Kraspedon and/or his book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/devereux-paul">Devereux, Paul</a> and <a href="/ufo-history/ufo-personalities/brookesmith-peter">Brookesmith, Peter</a> in their “<a href="/ufo-history/ufo-books/devereux-paul-and-brookesmith-peter-ufos-and-ufology-the-first-50-years">UFOs and Ufology – the first 50 years</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0816038007/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0816038007/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 30 (in Chapter 2) of the Blandford softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/devereux-paul' | relative_url }}">Devereux, Paul</a> and <a href="{{ '/ufo-history/ufo-personalities/brookesmith-peter' | relative_url }}">Brookesmith, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/devereux-paul-and-brookesmith-peter-ufos-and-ufology-the-first-50-years' | relative_url }}">UFOs and Ufology – the first 50 years</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0816038007/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0816038007/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 30 (in Chapter 2) of the Blandford softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -144,10 +144,10 @@ For discussion of Dino Kraspedon and/or his book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/eberhart-george">Eberhart, George</a> M and Melton, J Gordon in “<a href="/ufo-history/ufo-books/lewis-james-ed-the-gods-have-landed-new-religions-from-other-worlds">The Gods Have Landed – New Religions from Other Worlds</a>” (<a href="/tags/1995">1995</a>) (edited by James Lewis) (available <a href="http://www.amazon.com/dp/0791423301/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0791423301/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 268 (in Chapter 10, “The Flying Saucer Contactee Movement, <a href="/tags/1950">1950</a>-<a href="/tags/1994">1994</a>: A Bibliography”) of the Suny softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/eberhart-george' | relative_url }}">Eberhart, George</a> M and Melton, J Gordon in “<a href="{{ '/ufo-history/ufo-books/lewis-james-ed-the-gods-have-landed-new-religions-from-other-worlds' | relative_url }}">The Gods Have Landed – New Religions from Other Worlds</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (edited by James Lewis) (available <a href="http://www.amazon.com/dp/0791423301/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0791423301/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 268 (in Chapter 10, “The Flying Saucer Contactee Movement, <a href="{{ '/tags/1950' | relative_url }}">1950</a>-<a href="{{ '/tags/1994' | relative_url }}">1994</a>: A Bibliography”) of the Suny softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -155,10 +155,10 @@ For discussion of Dino Kraspedon and/or his book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/evans-hilary">Evans, Hilary</a> in his “<a href="/ufo-history/ufo-books/evans-hilary-from-other-worlds">From Other Worlds</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0762101083/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0762101083/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 116, 118, 128 (in Chapter 5) of the Carlton hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }}">Evans, Hilary</a> in his “<a href="{{ '/ufo-history/ufo-books/evans-hilary-from-other-worlds' | relative_url }}">From Other Worlds</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0762101083/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0762101083/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 116, 118, 128 (in Chapter 5) of the Carlton hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -166,10 +166,10 @@ For discussion of Dino Kraspedon and/or his book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1987">1987</a></p>
+<p><a href="{{ '/tags/1987' | relative_url }}">1987</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/evans-hilary">Evans, Hilary</a> in his “<a href="/ufo-history/ufo-books/evans-hilary-gods-spirits-cosmic-guardians">Gods, Spirits, Cosmic Guardians</a>” (<a href="/tags/1987">1987</a>) (available <a href="http://www.amazon.com/dp/0850305977/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0850305977/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 149-150 (in Chapter 4.3) of the Aquarian softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }}">Evans, Hilary</a> in his “<a href="{{ '/ufo-history/ufo-books/evans-hilary-gods-spirits-cosmic-guardians' | relative_url }}">Gods, Spirits, Cosmic Guardians</a>” (<a href="{{ '/tags/1987' | relative_url }}">1987</a>) (available <a href="http://www.amazon.com/dp/0850305977/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0850305977/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 149-150 (in Chapter 4.3) of the Aquarian softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -177,10 +177,10 @@ For discussion of Dino Kraspedon and/or his book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1976">1976</a></p>
+<p><a href="{{ '/tags/1976' | relative_url }}">1976</a></p>
 </td>
 <td valign="top" width="547">
-<p>Holzer, Hans in his “<a href="/ufo-history/ufo-books/holzer-hans-the-ufonauts">The UFOnauts</a>” (<a href="/tags/1976">1976</a>) (available <a href="http://www.amazon.com/dp/0449135691/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0449135691/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 296-297 (in Chapter 10) of the Fawcett Gold Medal paperback edition.</p>
+<p>Holzer, Hans in his “<a href="{{ '/ufo-history/ufo-books/holzer-hans-the-ufonauts' | relative_url }}">The UFOnauts</a>” (<a href="{{ '/tags/1976' | relative_url }}">1976</a>) (available <a href="http://www.amazon.com/dp/0449135691/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0449135691/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 296-297 (in Chapter 10) of the Fawcett Gold Medal paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -188,10 +188,10 @@ For discussion of Dino Kraspedon and/or his book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1970">1970</a></p>
+<p><a href="{{ '/tags/1970' | relative_url }}">1970</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/keel-john-a">Keel, John A</a> in his “<a href="/ufo-history/ufo-books/keel-john-a-ufos-operation-trojan-horse">UFOs: Operation Trojan Horse</a>” (<a href="/tags/1970">1970</a>) (available <a href="http://www.amazon.com/dp/0962653462/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0962653462/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 279-282 (in Chapter 14) of the Souvenir Press hardback edition (with the same page numbering in the Abacus softcover edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/keel-john-a' | relative_url }}">Keel, John A</a> in his “<a href="{{ '/ufo-history/ufo-books/keel-john-a-ufos-operation-trojan-horse' | relative_url }}">UFOs: Operation Trojan Horse</a>” (<a href="{{ '/tags/1970' | relative_url }}">1970</a>) (available <a href="http://www.amazon.com/dp/0962653462/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0962653462/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 279-282 (in Chapter 14) of the Souvenir Press hardback edition (with the same page numbering in the Abacus softcover edition).</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -199,10 +199,10 @@ For discussion of Dino Kraspedon and/or his book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1971">1971</a></p>
+<p><a href="{{ '/tags/1971' | relative_url }}">1971</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/keel-john-a">Keel, John A</a> in his “<a href="/ufo-history/ufo-books/keel-john-our-haunted-planet">Our Haunted Planet</a>” (<a href="/tags/1971">1971</a>) (available <a href="http://www.amazon.com/dp/1880090163/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1880090163/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 128-129 (in Chapter 10) of the Fawcett paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/keel-john-a' | relative_url }}">Keel, John A</a> in his “<a href="{{ '/ufo-history/ufo-books/keel-john-our-haunted-planet' | relative_url }}">Our Haunted Planet</a>” (<a href="{{ '/tags/1971' | relative_url }}">1971</a>) (available <a href="http://www.amazon.com/dp/1880090163/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1880090163/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 128-129 (in Chapter 10) of the Fawcett paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -210,10 +210,10 @@ For discussion of Dino Kraspedon and/or his book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p>Lachman, Gary Valentine in his “<a href="/ufo-history/ufo-books/lachman-gary-valentine-turn-off-your-mind">Turn Off Your Mind</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/0971394237/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0971394237/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 355 (in Chapter 12) of the Sidgwick &amp; Jackson softcover edition.</p>
+<p>Lachman, Gary Valentine in his “<a href="{{ '/ufo-history/ufo-books/lachman-gary-valentine-turn-off-your-mind' | relative_url }}">Turn Off Your Mind</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/0971394237/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0971394237/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 355 (in Chapter 12) of the Sidgwick &amp; Jackson softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -221,10 +221,10 @@ For discussion of Dino Kraspedon and/or his book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Morris, Peter J in his “Aliens Amongst Us: A Beginner’s Guide” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0340758333/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0340758333/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 49 (in Chapter 4) of the Hodder &amp; Stoughton softcover edition.</p>
+<p>Morris, Peter J in his “Aliens Amongst Us: A Beginner’s Guide” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0340758333/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0340758333/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 49 (in Chapter 4) of the Hodder &amp; Stoughton softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -232,10 +232,10 @@ For discussion of Dino Kraspedon and/or his book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1978">1978</a></p>
+<p><a href="{{ '/tags/1978' | relative_url }}">1978</a></p>
 </td>
 <td valign="top" width="547">
-<p>Seargent, D A J in his “UFOs: A Scientific Enigma” (<a href="/tags/1978">1978</a>) (available <a href="http://www.amazon.com/dp/0722176945/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0722176945/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 64 (in Chapter 2), 120 (in Chapter 6) of the Sphere paperback edition.</p>
+<p>Seargent, D A J in his “UFOs: A Scientific Enigma” (<a href="{{ '/tags/1978' | relative_url }}">1978</a>) (available <a href="http://www.amazon.com/dp/0722176945/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0722176945/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 64 (in Chapter 2), 120 (in Chapter 6) of the Sphere paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -243,10 +243,10 @@ For discussion of Dino Kraspedon and/or his book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1988">1988</a></p>
+<p><a href="{{ '/tags/1988' | relative_url }}">1988</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/wilson-clifford">Wilson, Clifford</a> in his “<a href="/ufo-history/ufo-books/wilson-clifford-the-alien-agenda">The Alien Agenda</a>” (<a href="/tags/1988">1988</a>) (available <a href="http://www.amazon.com/dp/0451157060/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451157060/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 97 (in Chapter 8) of the Signet paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/wilson-clifford' | relative_url }}">Wilson, Clifford</a> in his “<a href="{{ '/ufo-history/ufo-books/wilson-clifford-the-alien-agenda' | relative_url }}">The Alien Agenda</a>” (<a href="{{ '/tags/1988' | relative_url }}">1988</a>) (available <a href="http://www.amazon.com/dp/0451157060/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451157060/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 97 (in Chapter 8) of the Signet paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -254,10 +254,10 @@ For discussion of Dino Kraspedon and/or his book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1974">1974</a></p>
+<p><a href="{{ '/tags/1974' | relative_url }}">1974</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/wilson-clifford">Wilson, Clifford</a> in his “<a href="/ufo-history/ufo-books/wilson-clifford-ufos-and-their-mission-impossible">UFOs and Their Mission Impossible</a>” (<a href="/tags/1974">1974</a>) (available <a href="http://www.amazon.com/dp/0451064240/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451064240/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 97 (in Chapter 8) of the Signet paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/wilson-clifford' | relative_url }}">Wilson, Clifford</a> in his “<a href="{{ '/ufo-history/ufo-books/wilson-clifford-ufos-and-their-mission-impossible' | relative_url }}">UFOs and Their Mission Impossible</a>” (<a href="{{ '/tags/1974' | relative_url }}">1974</a>) (available <a href="http://www.amazon.com/dp/0451064240/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451064240/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 97 (in Chapter 8) of the Signet paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -265,10 +265,10 @@ For discussion of Dino Kraspedon and/or his book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/wilson-colin">Wilson, Colin</a> in his “<a href="/ufo-history/ufo-books/wilson-colin-alien-dawn">Alien Dawn</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0880642262/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0880642262/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 191-194 (in Chapter 6) of the Virgin softcover edition (with the same page numbering in the Virgin paperback edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/wilson-colin' | relative_url }}">Wilson, Colin</a> in his “<a href="{{ '/ufo-history/ufo-books/wilson-colin-alien-dawn' | relative_url }}">Alien Dawn</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0880642262/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0880642262/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 191-194 (in Chapter 6) of the Virgin softcover edition (with the same page numbering in the Virgin paperback edition).</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>

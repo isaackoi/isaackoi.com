@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/seti_1.jpg"}
 ---
 
-![seti_1](/images/stories/ufo_tags/seti_1.jpg)
+![seti_1]({{ '/images/stories/ufo_tags/seti_1.jpg' | relative_url }})
 
 *SETI response policy*
 
@@ -44,7 +44,7 @@ Sections below
 <a id="web"></a>
 ### Web Resources
 
-Relevant a[rticle](/ufo-history/ufo-personalities/michaud-michael) available online at:
+Relevant a[rticle]({{ '/ufo-history/ufo-personalities/michaud-michael' | relative_url }}) available online at:
 
 http://www.setv.org/online_mss/reply92.html
 
@@ -77,10 +77,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="547">
-<p>White, Frank in his “<a href="/ufo-history/ufo-books/white-frank-the-seti-factor">The SETI Factor</a>” (<a href="/tags/1990">1990</a>) (available <a href="http://www.amazon.com/dp/0802711057/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0802711057/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 67-69 (in Chapter 5) of the Walker hardback edition.</p>
+<p>White, Frank in his “<a href="{{ '/ufo-history/ufo-books/white-frank-the-seti-factor' | relative_url }}">The SETI Factor</a>” (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) (available <a href="http://www.amazon.com/dp/0802711057/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0802711057/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 67-69 (in Chapter 5) of the Walker hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -91,7 +91,7 @@ For discussion see the following:
 <p> </p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/billingham-john">Billingham, John</a> in his position paper entitled “A Decision Process for Examining the Possibility of Sending Communications to Extraterrestrial Civilizations” at:</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/billingham-john' | relative_url }}">Billingham, John</a> in his position paper entitled “A Decision Process for Examining the Possibility of Sending Communications to Extraterrestrial Civilizations” at:</p>
 <p><a href="http://www.iaanet.org/p_papers/seti.html">http://www.iaanet.org/p_papers/seti.html</a></p>
 </td>
 <td valign="top" width="52">
@@ -100,10 +100,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Hennessey, Roger in his “<a href="/ufo-history/ufo-books/hennessey-roger-a-s-worlds-without-end-the-historic-search-for-extraterrestrial-life">Worlds Without End : The Historic Search for Extraterrestrial Life</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/075241450X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/075241450X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 114 (in Chapter 11) of the Tempus hardback edition.</p>
+<p>Hennessey, Roger in his “<a href="{{ '/ufo-history/ufo-books/hennessey-roger-a-s-worlds-without-end-the-historic-search-for-extraterrestrial-life' | relative_url }}">Worlds Without End : The Historic Search for Extraterrestrial Life</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/075241450X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/075241450X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 114 (in Chapter 11) of the Tempus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -115,7 +115,7 @@ For discussion see the following:
 <a id="other"></a>
 ### Other Material
 
-[Michael Michaud](/ufo-history/ufo-personalities/michaud-michael), [John Billingham](/ufo-history/ufo-personalities/billingham-john) and [Tarter, Jill](/ufo-history/ufo-personalities/tarter-jill) in their paper “A Reply From Earth?”. Paper IAA-90-591 presented at the *41st Congress of the International Astronautical Federation,*Dresden, Germany, 8-12 October [1990](/tags/1990). Paper printed in *Acta Astronautica*Volume 26 ([1992](/tags/1992)), Number 14, pages 295-297. Available online at:
+[Michael Michaud]({{ '/ufo-history/ufo-personalities/michaud-michael' | relative_url }}), [John Billingham]({{ '/ufo-history/ufo-personalities/billingham-john' | relative_url }}) and [Tarter, Jill]({{ '/ufo-history/ufo-personalities/tarter-jill' | relative_url }}) in their paper “A Reply From Earth?”. Paper IAA-90-591 presented at the *41st Congress of the International Astronautical Federation,*Dresden, Germany, 8-12 October [1990]({{ '/tags/1990' | relative_url }}). Paper printed in *Acta Astronautica*Volume 26 ([1992]({{ '/tags/1992' | relative_url }})), Number 14, pages 295-297. Available online at:
 
 http://www.setv.org/online_mss/reply92.html
 

@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/novel_gordon_2.jpg"}
 ---
 
-![novel_gordon_2](/images/stories/ufo_personalities/novel_gordon_2.jpg)
+![novel_gordon_2]({{ '/images/stories/ufo_personalities/novel_gordon_2.jpg' | relative_url }})
 
 *Gordon Novel*
 
@@ -57,10 +57,10 @@ For discussion of Gordon Novel see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p>Hansen, George P in his “The Trickster and the Paranormal” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/1401000827/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1401000827/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 238, 459 of the Xlibris softcover edition.</p>
+<p>Hansen, George P in his “The Trickster and the Paranormal” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/1401000827/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1401000827/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 238, 459 of the Xlibris softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

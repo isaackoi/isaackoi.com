@@ -13,13 +13,13 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/documents_1.gif"}
 ---
 
-![documents_1](/images/stories/ufo_tags/documents_1.gif)
+![documents_1]({{ '/images/stories/ufo_tags/documents_1.gif' | relative_url }})
 
 *"Toilet seats" memo*
 
-On 3 September [1947](/tags/1947), a memo from Colonel R H Smith (Assistant Chief of Staff Intelligence) to several Commanding Generals in the Army Air Forces stated that the FBI had been asked to assist the Air Force in UFO investigations “to relieve the numbered Air Forces of the task of tracking down all the many instances which turned out to be ash can covers, toilet seats and whatnot”.
+On 3 September [1947]({{ '/tags/1947' | relative_url }}), a memo from Colonel R H Smith (Assistant Chief of Staff Intelligence) to several Commanding Generals in the Army Air Forces stated that the FBI had been asked to assist the Air Force in UFO investigations “to relieve the numbered Air Forces of the task of tracking down all the many instances which turned out to be ash can covers, toilet seats and whatnot”.
 
-The memo was supplied to FBI Special Agent Harry M Kimball by Lieutenant Colonel Donald Springer on 19 September [1947](/tags/1947).
+The memo was supplied to FBI Special Agent Harry M Kimball by Lieutenant Colonel Donald Springer on 19 September [1947]({{ '/tags/1947' | relative_url }}).
 
 Sections below:
 
@@ -41,7 +41,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-Complete text of memo presented by [Fawcett, George](/ufo-history/ufo-personalities/fawcett-george) and [Greenwood, Barry](/ufo-history/ufo-personalities/greenwood-barry) in their “[Clear Intent](/ufo-history/ufo-books/fawcett-george-and-greenwood-barry-clear-intent)” ([1984](/tags/1984)) (available [on Amazon USA](http://www.amazon.com/dp/0131366491/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0131366491/ref=nosim?tag=ufot-21)) at pages 156-159 (in Chapter 10) of the Spectrum softcover edition (with the same page numbering in the Fireside softcover edition published under the title “The UFO Cover-Up”).
+Complete text of memo presented by [Fawcett, George]({{ '/ufo-history/ufo-personalities/fawcett-george' | relative_url }}) and [Greenwood, Barry]({{ '/ufo-history/ufo-personalities/greenwood-barry' | relative_url }}) in their “[Clear Intent]({{ '/ufo-history/ufo-books/fawcett-george-and-greenwood-barry-clear-intent' | relative_url }})” ([1984]({{ '/tags/1984' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0131366491/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0131366491/ref=nosim?tag=ufot-21)) at pages 156-159 (in Chapter 10) of the Spectrum softcover edition (with the same page numbering in the Fireside softcover edition published under the title “The UFO Cover-Up”).
 
 The table below includes references to relevant discussions in UFO/SETI books noted by Isaac Koi during a review of approximately 963 UFO/SETI books during the period 2003-2006 (with a few later additions). The table can be sorted by author, date and length of discussion by clicking on the relevant word in the top line of the table.
 
@@ -67,10 +67,10 @@ For discussion of the toilet seat FBI memo see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/blum-howard">Blum, Howard</a> in his “<a href="/ufo-history/ufo-books/blum-howard-out-there">Out There</a>“ (<a href="/tags/1990">1990</a>) (available <a href="http://www.amazon.com/dp/0671662600/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0671662600/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 210 (in Chapter 30) of the Simon &amp; Schuster hardback edition, at page 232 of the Pocket Star paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/blum-howard' | relative_url }}">Blum, Howard</a> in his “<a href="{{ '/ufo-history/ufo-books/blum-howard-out-there' | relative_url }}">Out There</a>“ (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) (available <a href="http://www.amazon.com/dp/0671662600/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0671662600/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 210 (in Chapter 30) of the Simon &amp; Schuster hardback edition, at page 232 of the Pocket Star paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -78,10 +78,10 @@ For discussion of the toilet seat FBI memo see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/dolan-richard">Dolan, Richard</a> M. in his “<a href="/ufo-history/ufo-books/dolan-richard-ufos-and-the-national-security-state-volume-1-1941-1973">UFOs and the National Security State: Volume 1: 1941-1973</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/1571743170/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1571743170/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 80 (in Chapter 2) of the Keyhole softcover edition, at page 33 of the <a href="/tags/2002">2002</a> revised Hampton Road softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dolan-richard' | relative_url }}">Dolan, Richard</a> M. in his “<a href="{{ '/ufo-history/ufo-books/dolan-richard-ufos-and-the-national-security-state-volume-1-1941-1973' | relative_url }}">UFOs and the National Security State: Volume 1: 1941-1973</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/1571743170/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1571743170/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 80 (in Chapter 2) of the Keyhole softcover edition, at page 33 of the <a href="{{ '/tags/2002' | relative_url }}">2002</a> revised Hampton Road softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -89,10 +89,10 @@ For discussion of the toilet seat FBI memo see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fawcett-george">Fawcett, George</a> and <a href="/ufo-history/ufo-personalities/greenwood-barry">Greenwood, Barry</a> (with complete text) in their “<a href="/ufo-history/ufo-books/fawcett-george-and-greenwood-barry-clear-intent">Clear Intent</a>” (<a href="/tags/1984">1984</a>) (available <a href="http://www.amazon.com/dp/0131366491/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0131366491/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 156-159 (in Chapter 10) of the Spectrum softcover edition (with the same page numbering in the Fireside softcover edition published under the title “The UFO Cover-Up”).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fawcett-george' | relative_url }}">Fawcett, George</a> and <a href="{{ '/ufo-history/ufo-personalities/greenwood-barry' | relative_url }}">Greenwood, Barry</a> (with complete text) in their “<a href="{{ '/ufo-history/ufo-books/fawcett-george-and-greenwood-barry-clear-intent' | relative_url }}">Clear Intent</a>” (<a href="{{ '/tags/1984' | relative_url }}">1984</a>) (available <a href="http://www.amazon.com/dp/0131366491/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0131366491/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 156-159 (in Chapter 10) of the Spectrum softcover edition (with the same page numbering in the Fireside softcover edition published under the title “The UFO Cover-Up”).</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -100,10 +100,10 @@ For discussion of the toilet seat FBI memo see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/maccabee-bruce">Maccabee, Bruce</a> in his “<a href="/ufo-history/ufo-books/maccabee-bruce-ufo-fbi-connection">UFO-FBI Connection</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/1567184936/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1567184936/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 31-32 (in Chapter 4) of the Llewellyn softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/maccabee-bruce' | relative_url }}">Maccabee, Bruce</a> in his “<a href="{{ '/ufo-history/ufo-books/maccabee-bruce-ufo-fbi-connection' | relative_url }}">UFO-FBI Connection</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/1567184936/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1567184936/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 31-32 (in Chapter 4) of the Llewellyn softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -111,10 +111,10 @@ For discussion of the toilet seat FBI memo see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1979">1979</a></p>
+<p><a href="{{ '/tags/1979' | relative_url }}">1979</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/paget-peter">Paget, Peter</a> in his “<a href="/ufo-history/ufo-books/paget-peter-the-welsh-triangle">The Welsh Triangle</a>” (<a href="/tags/1979">1979</a>) (available <a href="http://www.amazon.com/dp/0586049118/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0586049118/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 56-59 (in Chapter 3) of the Grafton paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/paget-peter' | relative_url }}">Paget, Peter</a> in his “<a href="{{ '/ufo-history/ufo-books/paget-peter-the-welsh-triangle' | relative_url }}">The Welsh Triangle</a>” (<a href="{{ '/tags/1979' | relative_url }}">1979</a>) (available <a href="http://www.amazon.com/dp/0586049118/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0586049118/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 56-59 (in Chapter 3) of the Grafton paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -122,10 +122,10 @@ For discussion of the toilet seat FBI memo see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> and <a href="/ufo-history/ufo-personalities/hough-peter">Hough, Peter</a> in their “<a href="/ufo-history/ufo-books/randles-jenny-and-hough-peter-the-complete-book-of-ufos">The Complete Book of UFOs</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/0806981326/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806981326/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 101 (in Chapter 7) of the Piatkus softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> and <a href="{{ '/ufo-history/ufo-personalities/hough-peter' | relative_url }}">Hough, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-hough-peter-the-complete-book-of-ufos' | relative_url }}">The Complete Book of UFOs</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/0806981326/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806981326/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 101 (in Chapter 7) of the Piatkus softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -133,10 +133,10 @@ For discussion of the toilet seat FBI memo see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/redfern-nicholas">Redfern, Nicholas</a> in his “<a href="/ufo-history/ufo-books/redfern-nicholas-the-fbi-files">The FBI Files</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0671005332/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0671005332/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 34-37 (in Chapter 2) of the Simon &amp; Schuster softcover edition, with the same page numbering in the Pocket Books paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/redfern-nicholas' | relative_url }}">Redfern, Nicholas</a> in his “<a href="{{ '/ufo-history/ufo-books/redfern-nicholas-the-fbi-files' | relative_url }}">The FBI Files</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0671005332/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0671005332/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 34-37 (in Chapter 2) of the Simon &amp; Schuster softcover edition, with the same page numbering in the Pocket Books paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -144,10 +144,10 @@ For discussion of the toilet seat FBI memo see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sachs-margaret">Sachs, Margaret</a> in her “<a href="/ufo-history/ufo-books/sachs-margaret-the-ufo-encyclopedia">The UFO Encyclopedia</a>“ (<a href="/tags/1980">1980</a> (available <a href="http://www.amazon.com/dp/0399124217/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0399124217/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 103 (in an entry entitled “Federal Bureau of Investigation”) of the Corgi softback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sachs-margaret' | relative_url }}">Sachs, Margaret</a> in her “<a href="{{ '/ufo-history/ufo-books/sachs-margaret-the-ufo-encyclopedia' | relative_url }}">The UFO Encyclopedia</a>“ (<a href="{{ '/tags/1980' | relative_url }}">1980</a> (available <a href="http://www.amazon.com/dp/0399124217/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0399124217/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 103 (in an entry entitled “Federal Bureau of Investigation”) of the Corgi softback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

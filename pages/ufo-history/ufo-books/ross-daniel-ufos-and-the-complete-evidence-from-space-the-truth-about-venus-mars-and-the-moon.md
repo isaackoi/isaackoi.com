@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0944255000.jpg"}
 book: {"identifiers": ["0944255000"], "primary_isbn": "0944255000", "cover_image": "/book-covers/0944255000.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of “[UFOs and the Complete Evidence from Space: The Truth About Venus, Mars and the Moon](/ufo-history/ufo-books/ross-daniel-ufos-and-the-complete-evidence-from-space-the-truth-about-venus-mars-and-the-moon)” ([1987](/tags/1987)) (available [on Amazon USA](http://www.amazon.com/dp/0944255000/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0944255000/?&tag=ufot-21)) by Daniel Ross.
+Brief review to be added of “[UFOs and the Complete Evidence from Space: The Truth About Venus, Mars and the Moon]({{ '/ufo-history/ufo-books/ross-daniel-ufos-and-the-complete-evidence-from-space-the-truth-about-venus-mars-and-the-moon' | relative_url }})” ([1987]({{ '/tags/1987' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0944255000/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0944255000/?&tag=ufot-21)) by Daniel Ross.
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1987">1987</a></p>
+<p><a href="{{ '/tags/1987' | relative_url }}">1987</a></p>
 </td>
 <td valign="top" width="547">
-<p>Ross, Daniel in his “<a href="/ufo-history/ufo-books/ross-daniel-ufos-and-the-complete-evidence-from-space-the-truth-about-venus-mars-and-the-moon">UFOs and the Complete Evidence from Space: The Truth About Venus, Mars and the Moon</a>” (<a href="/tags/1987">1987</a>) (available <a href="http://www.amazon.com/dp/0944255000/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0944255000/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 1-2 (in Chapter 1) of the Pintado softcover edition.</p>
+<p>Ross, Daniel in his “<a href="{{ '/ufo-history/ufo-books/ross-daniel-ufos-and-the-complete-evidence-from-space-the-truth-about-venus-mars-and-the-moon' | relative_url }}">UFOs and the Complete Evidence from Space: The Truth About Venus, Mars and the Moon</a>” (<a href="{{ '/tags/1987' | relative_url }}">1987</a>) (available <a href="http://www.amazon.com/dp/0944255000/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0944255000/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 1-2 (in Chapter 1) of the Pintado softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

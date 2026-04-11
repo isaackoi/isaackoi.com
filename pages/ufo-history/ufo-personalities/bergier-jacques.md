@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/bergier_jacques_1.jpg"}
 ---
 
-![bergier_jacques_1](/images/stories/ufo_personalities/bergier_jacques_1.jpg)
+![bergier_jacques_1]({{ '/images/stories/ufo_personalities/bergier_jacques_1.jpg' | relative_url }})
 
 *Jacques Bergier*
 
@@ -36,18 +36,18 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1960">1960</a></p>
+<p><a href="{{ '/tags/1960' | relative_url }}">1960</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/pauwels-louis">Pauwels, Louis</a> and <a href="/ufo-history/ufo-personalities/bergier-jacques">Bergier, Jacques</a> “<a href="/ufo-history/ufo-books/pauwels-louis-and-bergier-jacques-the-morning-of-the-magicians">The Morning of the Magicians</a>” (<a href="/tags/1960">1960</a>) (available <a href="http://www.amazon.com/dp/0285635832/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0285635832/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/pauwels-louis' | relative_url }}">Pauwels, Louis</a> and <a href="{{ '/ufo-history/ufo-personalities/bergier-jacques' | relative_url }}">Bergier, Jacques</a> “<a href="{{ '/ufo-history/ufo-books/pauwels-louis-and-bergier-jacques-the-morning-of-the-magicians' | relative_url }}">The Morning of the Magicians</a>” (<a href="{{ '/tags/1960' | relative_url }}">1960</a>) (available <a href="http://www.amazon.com/dp/0285635832/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0285635832/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1968">1968</a></p>
+<p><a href="{{ '/tags/1968' | relative_url }}">1968</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/pauwels-louis">Pauwels, Louis</a> and <a href="/ufo-history/ufo-personalities/bergier-jacques">Bergier, Jacques</a> “Impossible Possibilities”</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/pauwels-louis' | relative_url }}">Pauwels, Louis</a> and <a href="{{ '/ufo-history/ufo-personalities/bergier-jacques' | relative_url }}">Bergier, Jacques</a> “Impossible Possibilities”</p>
 </td>
 </tr>
 </tbody>

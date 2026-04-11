@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0330375458.jpg"}
 book: {"identifiers": ["0330375458"], "primary_isbn": "0330375458", "cover_image": "/book-covers/0330375458.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Jon Ronson](/ufo-history/ufo-personalities/ronson-jon)'s book “[Them: Adventures with Extremists](/ufo-history/ufo-books/ronson-jon-them-adventures-with-extremists)” ([2001](/tags/2001)) (available [on Amazon USA](http://www.amazon.com/dp/0330375458/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0330375458/?&tag=ufot-21))
+Brief review to be added of [Jon Ronson]({{ '/ufo-history/ufo-personalities/ronson-jon' | relative_url }})'s book “[Them: Adventures with Extremists]({{ '/ufo-history/ufo-books/ronson-jon-them-adventures-with-extremists' | relative_url }})” ([2001]({{ '/tags/2001' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0330375458/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0330375458/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

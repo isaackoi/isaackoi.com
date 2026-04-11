@@ -30,7 +30,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-For discussion of [Condon, Edward](/ufo-history/ufo-personalities/condon-edward) “[Scientific Study of Unidentified Flying Objects](/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects)” ([1969](/tags/1969)) (available [on Amazon USA](http://www.amazon.com/dp/B000EZY1RO/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B000EZY1RO/ref=nosim?tag=ufot-21)), see the discussion of the Condon Report.
+For discussion of [Condon, Edward]({{ '/ufo-history/ufo-personalities/condon-edward' | relative_url }}) “[Scientific Study of Unidentified Flying Objects]({{ '/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects' | relative_url }})” ([1969]({{ '/tags/1969' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/B000EZY1RO/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B000EZY1RO/ref=nosim?tag=ufot-21)), see the discussion of the Condon Report.
 
 <a id="other"></a>
 ### Other Material

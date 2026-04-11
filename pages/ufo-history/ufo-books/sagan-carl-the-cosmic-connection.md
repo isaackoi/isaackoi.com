@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0521783038.jpg"}
 book: {"identifiers": ["0521783038", "0935702083", "0890092486", "0471395366", "0963916122", "0805057668"], "primary_isbn": "0521783038", "cover_image": "/book-covers/0521783038.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Carl Sagan](/ufo-history/ufo-personalities/sagan-carl)'s book “[The Cosmic Connection](/ufo-history/ufo-books/sagan-carl-the-cosmic-connection)” ([1973](/tags/1973)) (available [on Amazon USA](http://www.amazon.com/dp/0521783038/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0521783038/?&tag=ufot-21))
+Brief review to be added of [Carl Sagan]({{ '/ufo-history/ufo-personalities/sagan-carl' | relative_url }})'s book “[The Cosmic Connection]({{ '/ufo-history/ufo-books/sagan-carl-the-cosmic-connection' | relative_url }})” ([1973]({{ '/tags/1973' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0521783038/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0521783038/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p>Adler, Alfred in “The Quest For Extraterrestrial Life : A Book of Readings” (<a href="/tags/1980">1980</a>) (edited by Donald Goldsmith) (available <a href="http://www.amazon.com/dp/0935702083/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0935702083/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 225 (in Chapter 41) of the University Science Books hardback edition. The relevant chapter is a reprint of “Behold the Stars”, Atlantic Monthly, 234 (<a href="/tags/1974">1974</a>.1000), pages 109ff.</p>
+<p>Adler, Alfred in “The Quest For Extraterrestrial Life : A Book of Readings” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) (edited by Donald Goldsmith) (available <a href="http://www.amazon.com/dp/0935702083/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0935702083/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 225 (in Chapter 41) of the University Science Books hardback edition. The relevant chapter is a reprint of “Behold the Stars”, Atlantic Monthly, 234 (<a href="{{ '/tags/1974' | relative_url }}">1974</a>.1000), pages 109ff.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -65,10 +65,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1979">1979</a></p>
+<p><a href="{{ '/tags/1979' | relative_url }}">1979</a></p>
 </td>
 <td valign="top" width="547">
-<p>Boyce, Chris in his <a href="/ufo-history/ufo-books/boyce-chris-extraterrestrial-encounter">Extraterrestrial Encounter</a> (<a href="/tags/1979">1979</a>) (available <a href="http://www.amazon.com/dp/0890092486/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0890092486/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 189 (in the Notes for Chapter 11, footnote 3) of the David &amp; Charles hardback edition, at page 178 of the <a href="/tags/1980">1980</a> revised NEL paperback edition.</p>
+<p>Boyce, Chris in his <a href="{{ '/ufo-history/ufo-books/boyce-chris-extraterrestrial-encounter' | relative_url }}">Extraterrestrial Encounter</a> (<a href="{{ '/tags/1979' | relative_url }}">1979</a>) (available <a href="http://www.amazon.com/dp/0890092486/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0890092486/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 189 (in the Notes for Chapter 11, footnote 3) of the David &amp; Charles hardback edition, at page 178 of the <a href="{{ '/tags/1980' | relative_url }}">1980</a> revised NEL paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -76,10 +76,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Davidson, Keay in his “<a href="/ufo-history/ufo-personalities/sagan-carl">Carl Sagan</a>: A Life” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0471395366/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0471395366/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 233-234 (in Chapter 8), 254, 255-259 (in Chapter 9), 268 (in Chapter 10), 392 (in Chapter 16) of the Wiley softcover edition.</p>
+<p>Davidson, Keay in his “<a href="{{ '/ufo-history/ufo-personalities/sagan-carl' | relative_url }}">Carl Sagan</a>: A Life” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0471395366/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0471395366/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 233-234 (in Chapter 8), 254, 255-259 (in Chapter 9), 268 (in Chapter 10), 392 (in Chapter 16) of the Wiley softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>10</p>
@@ -87,10 +87,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fitzgerald-randall">Fitzgerald, Randall</a> in his “<a href="/ufo-history/ufo-books/fitzgerald-randall-the-cosmic-test-tube">The Cosmic Test Tube</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0963916122/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963916122/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 305-307 (in Section 4) with a one sentence summary at page 377 (in the Guide To Books) of the Moonlake Media softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }}">Fitzgerald, Randall</a> in his “<a href="{{ '/ufo-history/ufo-books/fitzgerald-randall-the-cosmic-test-tube' | relative_url }}">The Cosmic Test Tube</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0963916122/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963916122/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 305-307 (in Section 4) with a one sentence summary at page 377 (in the Guide To Books) of the Moonlake Media softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -98,10 +98,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Poundstone, William in his “<a href="/ufo-history/ufo-books/poundstone-william-carl-sagan-a-life-in-the-cosmos">Carl Sagan: A Life in the Cosmos</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0805057668/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0805057668/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 174, 176-177, 177, 178, 181 (in the chapter entitled “Ithaca <a href="/tags/1968">1968</a>-76”) of the Owl Books softcover edition.</p>
+<p>Poundstone, William in his “<a href="{{ '/ufo-history/ufo-books/poundstone-william-carl-sagan-a-life-in-the-cosmos' | relative_url }}">Carl Sagan: A Life in the Cosmos</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0805057668/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0805057668/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 174, 176-177, 177, 178, 181 (in the chapter entitled “Ithaca <a href="{{ '/tags/1968' | relative_url }}">1968</a>-76”) of the Owl Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>

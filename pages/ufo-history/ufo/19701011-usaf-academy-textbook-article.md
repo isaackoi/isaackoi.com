@@ -13,11 +13,11 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/documents_1.gif"}
 ---
 
-![documents_1](/images/stories/ufo_tags/documents_1.gif)
+![documents_1]({{ '/images/stories/ufo_tags/documents_1.gif' | relative_url }})
 
 *USAF Academy textbook article*
 
-On 11 October [1970](/tags/1970), the US Air Force Academy textbook on space sciences was referred to in an article in “The National Enquirer” by Lloyd Mallan.
+On 11 October [1970]({{ '/tags/1970' | relative_url }}), the US Air Force Academy textbook on space sciences was referred to in an article in “The National Enquirer” by Lloyd Mallan.
 
 The textbook stated that “there is some evidence supporting” the viewpoint that “UFOs are material objects which are either ‘manned’ or remote controlled by beings who are alien to this planet”.
 
@@ -61,10 +61,10 @@ For discussion of the academy textbook see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/dolan-richard">Dolan, Richard</a> M in his “<a href="/ufo-history/ufo-books/dolan-richard-ufos-and-the-national-security-state-volume-1-1941-1973">UFOs and the National Security State: Volume 1: 1941-1973</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/1571743170/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1571743170/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 461 (in Chapter 8) of the Keyhole softcover edition, at page 363 of the <a href="/tags/2002">2002</a> revised Hampton Road softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dolan-richard' | relative_url }}">Dolan, Richard</a> M in his “<a href="{{ '/ufo-history/ufo-books/dolan-richard-ufos-and-the-national-security-state-volume-1-1941-1973' | relative_url }}">UFOs and the National Security State: Volume 1: 1941-1973</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/1571743170/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1571743170/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 461 (in Chapter 8) of the Keyhole softcover edition, at page 363 of the <a href="{{ '/tags/2002' | relative_url }}">2002</a> revised Hampton Road softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -72,10 +72,10 @@ For discussion of the academy textbook see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1974">1974</a></p>
+<p><a href="{{ '/tags/1974' | relative_url }}">1974</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/emenegger-robert">Emenegger, Robert</a> in his “<a href="/ufo-history/ufo-books/emenegger-robert-ufos-past-present-and-future">UFOs Past, Present and Future</a>” (<a href="/tags/1974">1974</a>), with relatively extensive extracts, at pages 161-166 (in Appendix B) of the silver covered Ballantine paperback edition first printing, at pages 185-191 of the blue covered Ballantine paperback edition eighth printing.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/emenegger-robert' | relative_url }}">Emenegger, Robert</a> in his “<a href="{{ '/ufo-history/ufo-books/emenegger-robert-ufos-past-present-and-future' | relative_url }}">UFOs Past, Present and Future</a>” (<a href="{{ '/tags/1974' | relative_url }}">1974</a>), with relatively extensive extracts, at pages 161-166 (in Appendix B) of the silver covered Ballantine paperback edition first printing, at pages 185-191 of the blue covered Ballantine paperback edition eighth printing.</p>
 </td>
 <td valign="top" width="52">
 <p>6</p>
@@ -83,10 +83,10 @@ For discussion of the academy textbook see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fawcett-george">Fawcett, George</a> and <a href="/ufo-history/ufo-personalities/greenwood-barry">Greenwood, Barry</a> in their “<a href="/ufo-history/ufo-books/fawcett-george-and-greenwood-barry-clear-intent">Clear Intent</a>” (<a href="/tags/1984">1984</a>) (available <a href="http://www.amazon.com/dp/0131366491/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0131366491/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 13-15 (in Chapter 1) of the Spectrum softcover edition (with the same page numbering in the Fireside softcover edition published under the title “The UFO Cover-Up”).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fawcett-george' | relative_url }}">Fawcett, George</a> and <a href="{{ '/ufo-history/ufo-personalities/greenwood-barry' | relative_url }}">Greenwood, Barry</a> in their “<a href="{{ '/ufo-history/ufo-books/fawcett-george-and-greenwood-barry-clear-intent' | relative_url }}">Clear Intent</a>” (<a href="{{ '/tags/1984' | relative_url }}">1984</a>) (available <a href="http://www.amazon.com/dp/0131366491/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0131366491/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 13-15 (in Chapter 1) of the Spectrum softcover edition (with the same page numbering in the Fireside softcover edition published under the title “The UFO Cover-Up”).</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -94,10 +94,10 @@ For discussion of the academy textbook see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1974">1974</a></p>
+<p><a href="{{ '/tags/1974' | relative_url }}">1974</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fowler-raymond-e">Fowler, Raymond E</a> in his “UFOs: Interplanetary Visitors” (<a href="/tags/1974">1974</a>) (available <a href="http://www.amazon.com/dp/0595186947/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0595186947/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 268-274 (in Chapter 14) of the Exposition Banner hardback edition, at pages 260-266 of the Bantam paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fowler-raymond-e' | relative_url }}">Fowler, Raymond E</a> in his “UFOs: Interplanetary Visitors” (<a href="{{ '/tags/1974' | relative_url }}">1974</a>) (available <a href="http://www.amazon.com/dp/0595186947/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0595186947/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 268-274 (in Chapter 14) of the Exposition Banner hardback edition, at pages 260-266 of the Bantam paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>7</p>
@@ -105,10 +105,10 @@ For discussion of the academy textbook see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1987">1987</a></p>
+<p><a href="{{ '/tags/1987' | relative_url }}">1987</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/haines-richard">Haines, Richard</a> in his “<a href="/ufo-history/ufo-books/haines-richard-ce-5-close-encounters-of-the-fifth-kind">CE-5 : Close Encounters of the Fifth Kind</a>” (<a href="/tags/1987">1987</a>) (available <a href="http://www.amazon.com/dp/1570714274/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1570714274/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 176-177 (in Chapter 4) of the Sourcebooks softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/haines-richard' | relative_url }}">Haines, Richard</a> in his “<a href="{{ '/ufo-history/ufo-books/haines-richard-ce-5-close-encounters-of-the-fifth-kind' | relative_url }}">CE-5 : Close Encounters of the Fifth Kind</a>” (<a href="{{ '/tags/1987' | relative_url }}">1987</a>) (available <a href="http://www.amazon.com/dp/1570714274/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1570714274/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 176-177 (in Chapter 4) of the Sourcebooks softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -116,10 +116,10 @@ For discussion of the academy textbook see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1976">1976</a></p>
+<p><a href="{{ '/tags/1976' | relative_url }}">1976</a></p>
 </td>
 <td valign="top" width="547">
-<p>Hervey, Michael in his “UFOs : The American Scene” (<a href="/tags/1976">1976</a>) (available <a href="http://www.amazon.com/dp/031282775X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/031282775X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 22 (in Chapter 2) of the Hale hardback edition.</p>
+<p>Hervey, Michael in his “UFOs : The American Scene” (<a href="{{ '/tags/1976' | relative_url }}">1976</a>) (available <a href="http://www.amazon.com/dp/031282775X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/031282775X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 22 (in Chapter 2) of the Hale hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -127,10 +127,10 @@ For discussion of the academy textbook see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/kanon-gregory-m">Kanon, Gregory M</a> in his “The Great UFO Hoax” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1880090414/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1880090414/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 169-170 (in Chapter 10) of the Galde Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/kanon-gregory-m' | relative_url }}">Kanon, Gregory M</a> in his “The Great UFO Hoax” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1880090414/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1880090414/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 169-170 (in Chapter 10) of the Galde Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -138,10 +138,10 @@ For discussion of the academy textbook see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p>Mannion, Michael in his “<a href="/ufo-history/ufo-books/mannion-michael-project-mindshift">Project Mindshift</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0871318563/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0871318563/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 32-33 (in Chapter 1), 184 (in Chapter 6) of the Evans hardback edition.</p>
+<p>Mannion, Michael in his “<a href="{{ '/ufo-history/ufo-books/mannion-michael-project-mindshift' | relative_url }}">Project Mindshift</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0871318563/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0871318563/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 32-33 (in Chapter 1), 184 (in Chapter 6) of the Evans hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -149,10 +149,10 @@ For discussion of the academy textbook see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1983">1983</a></p>
+<p><a href="{{ '/tags/1983' | relative_url }}">1983</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/schwarz-berthold-e">Schwarz, Berthold E</a> in his “<a href="/ufo-history/ufo-books/schwarz-berthold-e-ufo-dynamics-psychiatric-and-psychic-aspects-of-the-ufo-syndrome">UFO Dynamics : Psychiatric and Psychic Aspects of the UFO Syndrome</a>” (<a href="/tags/1983">1983</a>) (available <a href="http://www.amazon.com/dp/0935834648/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0935834648/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 273 (in Chapter 15) of the <a href="/tags/1988">1988</a> revised Rainbow Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/schwarz-berthold-e' | relative_url }}">Schwarz, Berthold E</a> in his “<a href="{{ '/ufo-history/ufo-books/schwarz-berthold-e-ufo-dynamics-psychiatric-and-psychic-aspects-of-the-ufo-syndrome' | relative_url }}">UFO Dynamics : Psychiatric and Psychic Aspects of the UFO Syndrome</a>” (<a href="{{ '/tags/1983' | relative_url }}">1983</a>) (available <a href="http://www.amazon.com/dp/0935834648/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0935834648/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 273 (in Chapter 15) of the <a href="{{ '/tags/1988' | relative_url }}">1988</a> revised Rainbow Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -160,10 +160,10 @@ For discussion of the academy textbook see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p>Van Dyk, Gregory, with relatively extensive extracts, in his “<a href="/ufo-history/ufo-books/van-dyk-gregory-the-alien-files">The Alien Files</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1862041350/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1862041350/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 112-128 (in Chapter 5) of the Element paperback edition.</p>
+<p>Van Dyk, Gregory, with relatively extensive extracts, in his “<a href="{{ '/ufo-history/ufo-books/van-dyk-gregory-the-alien-files' | relative_url }}">The Alien Files</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1862041350/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1862041350/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 112-128 (in Chapter 5) of the Element paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>17</p>
@@ -171,10 +171,10 @@ For discussion of the academy textbook see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p>Wright, Susan in her “<a href="/ufo-history/ufo-books/wright-susan-ufo-headquarters">UFO Headquarters</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0312193475/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312193475/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 21-22, 23, 31 (in Chapter 2), 238 (in Chapter 12) of the St Martin’s Press softcover edition.</p>
+<p>Wright, Susan in her “<a href="{{ '/ufo-history/ufo-books/wright-susan-ufo-headquarters' | relative_url }}">UFO Headquarters</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0312193475/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312193475/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 21-22, 23, 31 (in Chapter 2), 238 (in Chapter 12) of the St Martin’s Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>

@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0393063364.jpg"}
 book: {"identifiers": ["0393063364", "095080245X", "0397317808"], "primary_isbn": "0393063364", "cover_image": "/book-covers/0393063364.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of F W Holiday's book “[The Dragon and the Disc](/ufo-history/ufo-books/holiday-f-w-ted-the-dragon-and-the-disc)” ([1973](/tags/1973)) (available [on Amazon USA](http://www.amazon.com/dp/0393063364/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0393063364/?&tag=ufot-21))
+Brief review to be added of F W Holiday's book “[The Dragon and the Disc]({{ '/ufo-history/ufo-books/holiday-f-w-ted-the-dragon-and-the-disc' | relative_url }})” ([1973]({{ '/tags/1973' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0393063364/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0393063364/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="547">
-<p>Collins, Andrew in his “The Circlemakers: A Revolutionary New Vision” (<a href="/tags/1992">1992</a>) (available <a href="http://www.amazon.com/dp/095080245X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/095080245X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 121 (in Chapter 13) of the ABC softcover edition.</p>
+<p>Collins, Andrew in his “The Circlemakers: A Revolutionary New Vision” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="http://www.amazon.com/dp/095080245X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/095080245X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 121 (in Chapter 13) of the ABC softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -65,10 +65,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1978">1978</a></p>
+<p><a href="{{ '/tags/1978' | relative_url }}">1978</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/cohen-daniel">Cohen, Daniel</a> in his “<a href="/ufo-history/ufo-books/cohen-daniel-the-world-of-ufos">The World of UFOs</a>” (<a href="/tags/1978">1978</a>) (available <a href="http://www.amazon.com/dp/0397317808/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0397317808/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 138 (in Chapter 17) of the Lippincott hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/cohen-daniel' | relative_url }}">Cohen, Daniel</a> in his “<a href="{{ '/ufo-history/ufo-books/cohen-daniel-the-world-of-ufos' | relative_url }}">The World of UFOs</a>” (<a href="{{ '/tags/1978' | relative_url }}">1978</a>) (available <a href="http://www.amazon.com/dp/0397317808/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0397317808/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 138 (in Chapter 17) of the Lippincott hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

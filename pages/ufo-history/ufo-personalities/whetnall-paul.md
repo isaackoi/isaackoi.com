@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/no_avatar.jpg"}
 ---
 
-![](/images/stories/no_avatar.jpg)
+![]({{ '/images/stories/no_avatar.jpg' | relative_url }})
 
 *Image needed*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1982">1982</a></p>
+<p><a href="{{ '/tags/1982' | relative_url }}">1982</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> and <a href="/ufo-history/ufo-personalities/whetnall-paul">Whetnall, Paul</a> “<a href="/ufo-history/ufo-books/randles-jenny-and-whetnall-paul-alien-contact-window-on-another-world">Alien Contact: Window on Another World</a>” (<a href="/tags/1981">1981</a>) (available <a href="http://www.amazon.com/dp/B000OVBWKC/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000OVBWKC/?&amp;tag=ufot-21">on Amazon UK</a>). Focuses on sightings of Gaynor Sunderland and the Sunderland family.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> and <a href="{{ '/ufo-history/ufo-personalities/whetnall-paul' | relative_url }}">Whetnall, Paul</a> “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-whetnall-paul-alien-contact-window-on-another-world' | relative_url }}">Alien Contact: Window on Another World</a>” (<a href="{{ '/tags/1981' | relative_url }}">1981</a>) (available <a href="http://www.amazon.com/dp/B000OVBWKC/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000OVBWKC/?&amp;tag=ufot-21">on Amazon UK</a>). Focuses on sightings of Gaynor Sunderland and the Sunderland family.</p>
 </td>
 </tr>
 </tbody>

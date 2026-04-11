@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -71,10 +71,10 @@ For discussion of the 1127<sup>th</sup> Field Activities Group see the following
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p>Anderson, Jack in <a href="/ufo-history/ufo-personalities/randle-kevin">Kevin Randle</a>’s “<a href="/ufo-history/ufo-books/randle-kevin-d-conspiracy-of-silence">Conspiracy of Silence</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0380799189/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380799189/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page xi (in the Foreword) of the Avon paperback edition.</p>
+<p>Anderson, Jack in <a href="{{ '/ufo-history/ufo-personalities/randle-kevin' | relative_url }}">Kevin Randle</a>’s “<a href="{{ '/ufo-history/ufo-books/randle-kevin-d-conspiracy-of-silence' | relative_url }}">Conspiracy of Silence</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0380799189/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380799189/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page xi (in the Foreword) of the Avon paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -82,10 +82,10 @@ For discussion of the 1127<sup>th</sup> Field Activities Group see the following
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq">The UFO Encyclopedia: 1st edition</a>: Volume 2 – Emergence of a Phenomenon” (<a href="/tags/1992">1992</a>) (available <a href="http://www.amazon.com/dp/1558887415/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558887415/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 274 (forming part of an entry entitled “Project Blue Book, <a href="/tags/1952">1952</a>-<a href="/tags/1959">1959</a>”) of the Omnigraphics hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq' | relative_url }}">The UFO Encyclopedia: 1st edition</a>: Volume 2 – Emergence of a Phenomenon” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="http://www.amazon.com/dp/1558887415/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558887415/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 274 (forming part of an entry entitled “Project Blue Book, <a href="{{ '/tags/1952' | relative_url }}">1952</a>-<a href="{{ '/tags/1959' | relative_url }}">1959</a>”) of the Omnigraphics hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -93,10 +93,10 @@ For discussion of the 1127<sup>th</sup> Field Activities Group see the following
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2006">2006</a></p>
+<p><a href="{{ '/tags/2006' | relative_url }}">2006</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/collins-robert-m">Collins, Robert M</a> (with <a href="/ufo-history/ufo-personalities/doty-richard">Doty, Richard C</a> and <a href="/ufo-history/ufo-personalities/cooper-timothy-s">Cooper, Timothy S</a>) in “<a href="/ufo-history/ufo-books/collins-robert-m-with-doty-richard-c-and-cooper-timothy-s-exempt-from-disclosure">Exempt From Disclosure</a>” (<a href="/tags/2006">2006</a>) (available <a href="http://www.amazon.com/dp/0976642638/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0976642638/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 108-111 (in Section 2, Chapter 5) of the Peregrine Communications softcover second edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/collins-robert-m' | relative_url }}">Collins, Robert M</a> (with <a href="{{ '/ufo-history/ufo-personalities/doty-richard' | relative_url }}">Doty, Richard C</a> and <a href="{{ '/ufo-history/ufo-personalities/cooper-timothy-s' | relative_url }}">Cooper, Timothy S</a>) in “<a href="{{ '/ufo-history/ufo-books/collins-robert-m-with-doty-richard-c-and-cooper-timothy-s-exempt-from-disclosure' | relative_url }}">Exempt From Disclosure</a>” (<a href="{{ '/tags/2006' | relative_url }}">2006</a>) (available <a href="http://www.amazon.com/dp/0976642638/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0976642638/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 108-111 (in Section 2, Chapter 5) of the Peregrine Communications softcover second edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -104,10 +104,10 @@ For discussion of the 1127<sup>th</sup> Field Activities Group see the following
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/dolan-richard">Dolan, Richard</a> M in his “<a href="/ufo-history/ufo-books/dolan-richard-ufos-and-the-national-security-state-volume-1-1941-1973">UFOs and the National Security State: Volume 1: 1941-1973</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/1571743170/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1571743170/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 316 (in Chapter 6) of the Keyhole softcover edition, at page 233 of the <a href="/tags/2002">2002</a> revised Hampton Road softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dolan-richard' | relative_url }}">Dolan, Richard</a> M in his “<a href="{{ '/ufo-history/ufo-books/dolan-richard-ufos-and-the-national-security-state-volume-1-1941-1973' | relative_url }}">UFOs and the National Security State: Volume 1: 1941-1973</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/1571743170/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1571743170/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 316 (in Chapter 6) of the Keyhole softcover edition, at page 233 of the <a href="{{ '/tags/2002' | relative_url }}">2002</a> revised Hampton Road softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -115,10 +115,10 @@ For discussion of the 1127<sup>th</sup> Field Activities Group see the following
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/hall-michael-david">Hall, Michael David</a> in his “<a href="/ufo-history/ufo-books/hall-michael-david-ufos-a-century-of-sightings">UFOs : A Century of Sightings</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/1880090627/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1880090627/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 263 (in Chapter 6) of the Galde Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hall-michael-david' | relative_url }}">Hall, Michael David</a> in his “<a href="{{ '/ufo-history/ufo-books/hall-michael-david-ufos-a-century-of-sightings' | relative_url }}">UFOs : A Century of Sightings</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/1880090627/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1880090627/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 263 (in Chapter 6) of the Galde Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -126,10 +126,10 @@ For discussion of the 1127<sup>th</sup> Field Activities Group see the following
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1975">1975</a></p>
+<p><a href="{{ '/tags/1975' | relative_url }}">1975</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/jacobs-david-michael">Jacobs, David Michael</a> in his “<a href="/ufo-history/ufo-books/jacobs-david-michael-the-ufo-controversy-in-america">The UFO Controversy in America</a>” (<a href="/tags/1975">1975</a>) (available <a href="http://www.amazon.com/dp/0253190061/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0253190061/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 151 of the Indiana hardback edition, page 134 of the Signet paperback edition (in Chapter 6).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/jacobs-david-michael' | relative_url }}">Jacobs, David Michael</a> in his “<a href="{{ '/ufo-history/ufo-books/jacobs-david-michael-the-ufo-controversy-in-america' | relative_url }}">The UFO Controversy in America</a>” (<a href="{{ '/tags/1975' | relative_url }}">1975</a>) (available <a href="http://www.amazon.com/dp/0253190061/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0253190061/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 151 of the Indiana hardback edition, page 134 of the Signet paperback edition (in Chapter 6).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -137,10 +137,10 @@ For discussion of the 1127<sup>th</sup> Field Activities Group see the following
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/peebles-curtis">Peebles, Curtis</a> in his “<a href="/ufo-history/ufo-books/peebles-curtis-watch-the-skies">Watch the Skies!</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/1560983434/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1560983434/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 141 of the Smithsonian hardback edition, page 169 of the Berkley paperback edition (Chapter 10).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/peebles-curtis' | relative_url }}">Peebles, Curtis</a> in his “<a href="{{ '/ufo-history/ufo-books/peebles-curtis-watch-the-skies' | relative_url }}">Watch the Skies!</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/1560983434/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1560983434/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 141 of the Smithsonian hardback edition, page 169 of the Berkley paperback edition (Chapter 10).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -148,10 +148,10 @@ For discussion of the 1127<sup>th</sup> Field Activities Group see the following
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randle-kevin">Randle, Kevin</a> and <a href="file:///C:/Users/homelap/Documents/koi/Notes%20active%20files%20-%20videos%20photos%20etc/Schmitt,%20Donald%20R">Schmitt, Donald</a> in their “<a href="/ufo-history/ufo-books/randle-kevin-and-schmitt-donald-the-truth-about-the-ufo-crash-at-roswell">The Truth About the UFO Crash At Roswell</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/0380778033/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380778033/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 96 (in Chapter 13) of the Evans hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randle-kevin' | relative_url }}">Randle, Kevin</a> and <a href="file:///C:/Users/homelap/Documents/koi/Notes%20active%20files%20-%20videos%20photos%20etc/Schmitt,%20Donald%20R">Schmitt, Donald</a> in their “<a href="{{ '/ufo-history/ufo-books/randle-kevin-and-schmitt-donald-the-truth-about-the-ufo-crash-at-roswell' | relative_url }}">The Truth About the UFO Crash At Roswell</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/0380778033/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380778033/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 96 (in Chapter 13) of the Evans hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -159,10 +159,10 @@ For discussion of the 1127<sup>th</sup> Field Activities Group see the following
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randle-kevin">Randle, Kevin</a> D in his “<a href="/ufo-history/ufo-books/randle-kevin-d-a-history-of-ufo-crashes">A history of UFO crashes</a>” (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/0380776669/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380776669/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 159, 166 (in the unnumbered chapter entitled “<a href="/ufo-history/ufo-books/randle-kevin-d-project-moon-dust">Project Moon Dust</a>”) of the Avon paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randle-kevin' | relative_url }}">Randle, Kevin</a> D in his “<a href="{{ '/ufo-history/ufo-books/randle-kevin-d-a-history-of-ufo-crashes' | relative_url }}">A history of UFO crashes</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/0380776669/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380776669/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 159, 166 (in the unnumbered chapter entitled “<a href="{{ '/ufo-history/ufo-books/randle-kevin-d-project-moon-dust' | relative_url }}">Project Moon Dust</a>”) of the Avon paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -170,10 +170,10 @@ For discussion of the 1127<sup>th</sup> Field Activities Group see the following
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randle-kevin">Randle, Kevin</a> D in his “<a href="/ufo-history/ufo-books/randle-kevin-d-conspiracy-of-silence">Conspiracy of Silence</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0380799189/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380799189/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 186 (in Chapter 9) of the Avon paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randle-kevin' | relative_url }}">Randle, Kevin</a> D in his “<a href="{{ '/ufo-history/ufo-books/randle-kevin-d-conspiracy-of-silence' | relative_url }}">Conspiracy of Silence</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0380799189/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380799189/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 186 (in Chapter 9) of the Avon paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -181,10 +181,10 @@ For discussion of the 1127<sup>th</sup> Field Activities Group see the following
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randle-kevin">Randle, Kevin</a> D in his “<a href="/ufo-history/ufo-books/randle-kevin-d-project-moon-dust">Project Moon Dust</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0380806037/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380806037/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 95 (in Chapter 4) of the Avon softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randle-kevin' | relative_url }}">Randle, Kevin</a> D in his “<a href="{{ '/ufo-history/ufo-books/randle-kevin-d-project-moon-dust' | relative_url }}">Project Moon Dust</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0380806037/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380806037/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 95 (in Chapter 4) of the Avon softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -192,10 +192,10 @@ For discussion of the 1127<sup>th</sup> Field Activities Group see the following
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2003">2003</a></p>
+<p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/redfern-nicholas">Redfern, Nicholas</a> and <a href="/ufo-history/ufo-personalities/roberts-andy">Roberts, Andy</a> in their “<a href="/ufo-history/ufo-books/redfern-nick-and-roberts-andy-strange-secrets-real-government-files-on-the-unknown">Strange Secrets: Real Government Files on the Unknown</a>” (<a href="/tags/2003">2003</a>) (available <a href="http://www.amazon.com/dp/0743469763/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743469763/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 141 (in Chapter 7) of the Paraview Pocket Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/redfern-nicholas' | relative_url }}">Redfern, Nicholas</a> and <a href="{{ '/ufo-history/ufo-personalities/roberts-andy' | relative_url }}">Roberts, Andy</a> in their “<a href="{{ '/ufo-history/ufo-books/redfern-nick-and-roberts-andy-strange-secrets-real-government-files-on-the-unknown' | relative_url }}">Strange Secrets: Real Government Files on the Unknown</a>” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) (available <a href="http://www.amazon.com/dp/0743469763/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743469763/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 141 (in Chapter 7) of the Paraview Pocket Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -203,10 +203,10 @@ For discussion of the 1127<sup>th</sup> Field Activities Group see the following
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2006">2006</a></p>
+<p><a href="{{ '/tags/2006' | relative_url }}">2006</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/redfern-nicholas">Redfern, Nicholas</a> in his “<a href="/ufo-history/ufo-books/redfern-nicholas-on-the-trail-of-the-saucer-spies">On the Trail of the Saucer Spies : UFOs and Government Surveillance</a>” (<a href="/tags/2006">2006</a>) (available <a href="http://www.amazon.com/dp/0743497538/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743497538/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 63 (in Chapter 4) of the Anomalist Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/redfern-nicholas' | relative_url }}">Redfern, Nicholas</a> in his “<a href="{{ '/ufo-history/ufo-books/redfern-nicholas-on-the-trail-of-the-saucer-spies' | relative_url }}">On the Trail of the Saucer Spies : UFOs and Government Surveillance</a>” (<a href="{{ '/tags/2006' | relative_url }}">2006</a>) (available <a href="http://www.amazon.com/dp/0743497538/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743497538/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 63 (in Chapter 4) of the Anomalist Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

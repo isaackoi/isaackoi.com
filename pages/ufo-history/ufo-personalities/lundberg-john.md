@@ -13,13 +13,13 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/lundberg_john_1.jpg"}
 ---
 
-![lundberg_john_1](/images/stories/ufo_personalities/lundberg_john_1.jpg)
+![lundberg_john_1]({{ '/images/stories/ufo_personalities/lundberg_john_1.jpg' | relative_url }})
 
 *John Lundberg*
 
 Brief comments to be added on this individual.
 
-Lundberg directed a television documentary entitled "The Mythologist", about Henry Azadehdel aka [Victorian, Armen](/ufo-history/ufo-personalities/victorian-armen), which was broadcast in the UK on BBC4 on 25 March [2004](/tags/2004).
+Lundberg directed a television documentary entitled "The Mythologist", about Henry Azadehdel aka [Victorian, Armen]({{ '/ufo-history/ufo-personalities/victorian-armen' | relative_url }}), which was broadcast in the UK on BBC4 on 25 March [2004]({{ '/tags/2004' | relative_url }}).
 
 1. [Web Resources](#web)
 

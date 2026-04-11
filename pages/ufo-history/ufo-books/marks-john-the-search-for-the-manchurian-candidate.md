@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0393307948.jpg"}
 book: {"identifiers": ["0393307948", "1883319617"], "primary_isbn": "0393307948", "cover_image": "/book-covers/0393307948.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of John Marks' book “[The Search for the Manchurian Candidate](/ufo-history/ufo-books/marks-john-the-search-for-the-manchurian-candidate)” ([1979](/tags/1979)) (available [on Amazon USA](http://www.amazon.com/dp/0393307948/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0393307948/?&tag=ufot-21))
+Brief review to be added of John Marks' book “[The Search for the Manchurian Candidate]({{ '/ufo-history/ufo-books/marks-john-the-search-for-the-manchurian-candidate' | relative_url }})” ([1979]({{ '/tags/1979' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0393307948/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0393307948/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/rux-bruce">Rux, Bruce</a> in his “<a href="/ufo-history/ufo-books/rux-bruce-hollywood-vs-the-aliens">Hollywood Vs. the Aliens</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1883319617/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1883319617/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 112, 116 (in Chapter 2) of the Frog softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/rux-bruce' | relative_url }}">Rux, Bruce</a> in his “<a href="{{ '/ufo-history/ufo-books/rux-bruce-hollywood-vs-the-aliens' | relative_url }}">Hollywood Vs. the Aliens</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1883319617/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1883319617/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 112, 116 (in Chapter 2) of the Frog softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

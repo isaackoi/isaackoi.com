@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0806981326.jpg"}
 book: {"identifiers": ["0806981326"], "primary_isbn": "0806981326", "cover_image": "/book-covers/0806981326.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of “[The Complete Book of UFOs](/ufo-history/ufo-books/randles-jenny-and-hough-peter-the-complete-book-of-ufos)” ([1994](/tags/1994)) (available [on Amazon USA](http://www.amazon.com/dp/0806981326/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0806981326/?&tag=ufot-21)) by [Jenny Randles](/ufo-history/ufo-personalities/randles-jenny) and [Peter Hough](/ufo-history/ufo-personalities/hough-peter).
+Brief review to be added of “[The Complete Book of UFOs]({{ '/ufo-history/ufo-books/randles-jenny-and-hough-peter-the-complete-book-of-ufos' | relative_url }})” ([1994]({{ '/tags/1994' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0806981326/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0806981326/?&tag=ufot-21)) by [Jenny Randles]({{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}) and [Peter Hough]({{ '/ufo-history/ufo-personalities/hough-peter' | relative_url }}).
 
 1. [Web Resources](#web)
 

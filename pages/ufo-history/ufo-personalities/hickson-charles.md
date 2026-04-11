@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/hickson_charlie_4.jpg"}
 ---
 
-![hickson_charlie_4](/images/stories/ufo_personalities/hickson_charlie_4.jpg)
+![hickson_charlie_4]({{ '/images/stories/ufo_personalities/hickson_charlie_4.jpg' | relative_url }})
 
 *Charles Hickson*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1983">1983</a></p>
+<p><a href="{{ '/tags/1983' | relative_url }}">1983</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/hickson-charles">Hickson, Charles</a> and Mendez, William “<a href="/ufo-history/ufo-books/hickson-and-mendez-ufo-contact-at-pascagoula">UFO Contact at Pascagoula</a>” (<a href="/tags/1983">1983</a>) (available <a href="http://www.amazon.com/dp/0960855866/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0960855866/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hickson-charles' | relative_url }}">Hickson, Charles</a> and Mendez, William “<a href="{{ '/ufo-history/ufo-books/hickson-and-mendez-ufo-contact-at-pascagoula' | relative_url }}">UFO Contact at Pascagoula</a>” (<a href="{{ '/tags/1983' | relative_url }}">1983</a>) (available <a href="http://www.amazon.com/dp/0960855866/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0960855866/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>

@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/lovell_bernard_1.jpg"}
 ---
 
-![lovell_bernard_1](/images/stories/ufo_personalities/lovell_bernard_1.jpg)
+![lovell_bernard_1]({{ '/images/stories/ufo_personalities/lovell_bernard_1.jpg' | relative_url }})
 
 *Bernard Lovell*
 
@@ -57,10 +57,10 @@ For discussion of Sir Bernard Lovell see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1965">1965</a></p>
+<p><a href="{{ '/tags/1965' | relative_url }}">1965</a></p>
 </td>
 <td valign="top" width="547">
-<p>Allen, Tom in his “The Quest: A Report on Extraterrestrial life " (<a href="/tags/1965">1965</a>) at pages 39-40 (in Chapter 2) of the Chilton hardback edition.</p>
+<p>Allen, Tom in his “The Quest: A Report on Extraterrestrial life " (<a href="{{ '/tags/1965' | relative_url }}">1965</a>) at pages 39-40 (in Chapter 2) of the Chilton hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -68,10 +68,10 @@ For discussion of Sir Bernard Lovell see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2007">2007</a></p>
+<p><a href="{{ '/tags/2007' | relative_url }}">2007</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clarke-david">Clarke, David</a> and <a href="/ufo-history/ufo-personalities/roberts-andy">Roberts, Andy</a> in their “<a href="/ufo-history/ufo-books/clarke-david-and-roberts-andy-flying-saucerers">Flying Saucerers : A social history of UFOlogy</a>” (<a href="/tags/2007">2007</a>) (available <a href="http://www.amazon.com/dp/1905646003/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1905646003/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 67-68 (in Chapter 4) of the Alternative Albion softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clarke-david' | relative_url }}">Clarke, David</a> and <a href="{{ '/ufo-history/ufo-personalities/roberts-andy' | relative_url }}">Roberts, Andy</a> in their “<a href="{{ '/ufo-history/ufo-books/clarke-david-and-roberts-andy-flying-saucerers' | relative_url }}">Flying Saucerers : A social history of UFOlogy</a>” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (available <a href="http://www.amazon.com/dp/1905646003/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1905646003/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 67-68 (in Chapter 4) of the Alternative Albion softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -79,10 +79,10 @@ For discussion of Sir Bernard Lovell see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/drake-frank">Drake, Frank</a> and Dava Sobel in their “<a href="/ufo-history/ufo-books/drake-frank-and-sobel-dava-is-anyone-out-there">Is Anyone Out There?</a>“ (<a href="/tags/1991">1991</a>) (available <a href="http://www.amazon.com/dp/038530532X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/038530532X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 201-202 (in Chapter 9) of the Pocket Books paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/drake-frank' | relative_url }}">Drake, Frank</a> and Dava Sobel in their “<a href="{{ '/ufo-history/ufo-books/drake-frank-and-sobel-dava-is-anyone-out-there' | relative_url }}">Is Anyone Out There?</a>“ (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/038530532X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/038530532X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 201-202 (in Chapter 9) of the Pocket Books paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -90,10 +90,10 @@ For discussion of Sir Bernard Lovell see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1973">1973</a></p>
+<p><a href="{{ '/tags/1973' | relative_url }}">1973</a></p>
 </td>
 <td valign="top" width="547">
-<p>Roulet, Alfred in his “The Search for Intelligent Life in Outer Space” (<a href="/tags/1973">1973</a>) (available <a href="http://www.amazon.com/dp/0425033198/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0425033198/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 29 (in the unnumbered chapter entitled “Hello, Out There”) of the Berkley paperback edition.</p>
+<p>Roulet, Alfred in his “The Search for Intelligent Life in Outer Space” (<a href="{{ '/tags/1973' | relative_url }}">1973</a>) (available <a href="http://www.amazon.com/dp/0425033198/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0425033198/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 29 (in the unnumbered chapter entitled “Hello, Out There”) of the Berkley paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -101,10 +101,10 @@ For discussion of Sir Bernard Lovell see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1964">1964</a></p>
+<p><a href="{{ '/tags/1964' | relative_url }}">1964</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sullivan-walter">Sullivan, Walter</a> in his “<a href="/ufo-history/ufo-books/sullivan-walter-we-are-not-alone">We Are Not Alone</a>” (<a href="/tags/1964">1964</a>) (available <a href="http://www.amazon.com/dp/B00005X52F/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B00005X52F/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 16 (in Chapter 1), 191-193 (in Chapter 13, including extracts of a letter dated 29 June <a href="/tags/1959">1959</a> from Cocconi and Lovell’s reply dated 14 July <a href="/tags/1959">1959</a>) of the Signet paperback revised editions.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sullivan-walter' | relative_url }}">Sullivan, Walter</a> in his “<a href="{{ '/ufo-history/ufo-books/sullivan-walter-we-are-not-alone' | relative_url }}">We Are Not Alone</a>” (<a href="{{ '/tags/1964' | relative_url }}">1964</a>) (available <a href="http://www.amazon.com/dp/B00005X52F/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B00005X52F/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 16 (in Chapter 1), 191-193 (in Chapter 13, including extracts of a letter dated 29 June <a href="{{ '/tags/1959' | relative_url }}">1959</a> from Cocconi and Lovell’s reply dated 14 July <a href="{{ '/tags/1959' | relative_url }}">1959</a>) of the Signet paperback revised editions.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>

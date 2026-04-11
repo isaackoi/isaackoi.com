@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/no_avatar.jpg"}
 ---
 
-![](/images/stories/no_avatar.jpg)
+![]({{ '/images/stories/no_avatar.jpg' | relative_url }})
 
 *Image needed*
 
@@ -36,18 +36,18 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1954">1954</a></p>
+<p><a href="{{ '/tags/1954' | relative_url }}">1954</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/wilkins-harold">Wilkins, Harold</a> “<a href="/ufo-history/ufo-books/wilkins-harold-flying-saucers-on-the-moon">Flying Saucers on the Moon</a>” (<a href="/tags/1954">1954</a>) (available <a href="http://www.amazon.com/dp/B0007J479O/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0007J479O/ref=nosim?tag=ufot-21">on Amazon UK</a>). Published in the USA as “Flying Saucers on the Attack”.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/wilkins-harold' | relative_url }}">Wilkins, Harold</a> “<a href="{{ '/ufo-history/ufo-books/wilkins-harold-flying-saucers-on-the-moon' | relative_url }}">Flying Saucers on the Moon</a>” (<a href="{{ '/tags/1954' | relative_url }}">1954</a>) (available <a href="http://www.amazon.com/dp/B0007J479O/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0007J479O/ref=nosim?tag=ufot-21">on Amazon UK</a>). Published in the USA as “Flying Saucers on the Attack”.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1955">1955</a></p>
+<p><a href="{{ '/tags/1955' | relative_url }}">1955</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/wilkins-harold">Wilkins, Harold</a> “<a href="/ufo-history/ufo-books/wilkins-harold-t-flying-saucers-uncensored">Flying Saucers Uncensored</a>” (<a href="/tags/1955">1955</a>) (available <a href="http://www.amazon.com/dp/B000JIJGC6/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000JIJGC6/ref=nosim?tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/wilkins-harold' | relative_url }}">Wilkins, Harold</a> “<a href="{{ '/ufo-history/ufo-books/wilkins-harold-t-flying-saucers-uncensored' | relative_url }}">Flying Saucers Uncensored</a>” (<a href="{{ '/tags/1955' | relative_url }}">1955</a>) (available <a href="http://www.amazon.com/dp/B000JIJGC6/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000JIJGC6/ref=nosim?tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>
@@ -91,10 +91,10 @@ For discussion of Harold Wilkins see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in “<a href="/ufo-history/ufo-books/evans-hilary-and-stacy-dennis-ufo-1947-1997">UFO: 1947-1997</a>” (<a href="/tags/1997">1997</a>) (edited by <a href="/ufo-history/ufo-personalities/evans-hilary">Hilary Evans</a> and <a href="/ufo-history/ufo-personalities/stacy-dennis">Dennis Stacy</a>) (available <a href="http://www.amazon.com/dp/1870870999/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1870870999/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 76 (in the Section entitled “The <a href="/tags/1950">1950</a>s”, unnumbered chapter entitled “Meeting the Extraterrestrials: How the ETH was Invented”) of the John Brown hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in “<a href="{{ '/ufo-history/ufo-books/evans-hilary-and-stacy-dennis-ufo-1947-1997' | relative_url }}">UFO: 1947-1997</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }}">Hilary Evans</a> and <a href="{{ '/ufo-history/ufo-personalities/stacy-dennis' | relative_url }}">Dennis Stacy</a>) (available <a href="http://www.amazon.com/dp/1870870999/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1870870999/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 76 (in the Section entitled “The <a href="{{ '/tags/1950' | relative_url }}">1950</a>s”, unnumbered chapter entitled “Meeting the Extraterrestrials: How the ETH was Invented”) of the John Brown hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -102,10 +102,10 @@ For discussion of Harold Wilkins see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-the-ufo-book">The UFO Book</a>: Encyclopedia of the Extraterrestrial” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/1578590299/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1578590299/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 207 (in an entry entitled “Extraterrestrial Hypothesis and Ufology”) of the Visible Ink Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-the-ufo-book' | relative_url }}">The UFO Book</a>: Encyclopedia of the Extraterrestrial” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/1578590299/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1578590299/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 207 (in an entry entitled “Extraterrestrial Hypothesis and Ufology”) of the Visible Ink Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -113,10 +113,10 @@ For discussion of Harold Wilkins see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq">The UFO Encyclopedia: 1st edition</a>: Volume 2 – Emergence of a Phenomenon” (<a href="/tags/1992">1992</a>) (available <a href="http://www.amazon.com/dp/1558887415/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558887415/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 403 (in an entry entitled “<a href="/ufo-history/ufo-personalities/wilkins-harold">Wilkins, Harold T</a>. (<a href="/tags/1883">1883</a>-<a href="/tags/1960">1960</a>)”) of the Omnigraphics hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq' | relative_url }}">The UFO Encyclopedia: 1st edition</a>: Volume 2 – Emergence of a Phenomenon” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="http://www.amazon.com/dp/1558887415/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558887415/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 403 (in an entry entitled “<a href="{{ '/ufo-history/ufo-personalities/wilkins-harold' | relative_url }}">Wilkins, Harold T</a>. (<a href="{{ '/tags/1883' | relative_url }}">1883</a>-<a href="{{ '/tags/1960' | relative_url }}">1960</a>)”) of the Omnigraphics hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -124,10 +124,10 @@ For discussion of Harold Wilkins see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) in Volume 2:L-Z at page 1029 (in an entry entitled “<a href="/ufo-history/ufo-personalities/wilkins-harold">Wilkins, Harold T</a>. (<a href="/tags/1883">1883</a>-<a href="/tags/1960">1960</a>)”) of the Omnigraphics hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition' | relative_url }}">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) in Volume 2:L-Z at page 1029 (in an entry entitled “<a href="{{ '/ufo-history/ufo-personalities/wilkins-harold' | relative_url }}">Wilkins, Harold T</a>. (<a href="{{ '/tags/1883' | relative_url }}">1883</a>-<a href="{{ '/tags/1960' | relative_url }}">1960</a>)”) of the Omnigraphics hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -135,10 +135,10 @@ For discussion of Harold Wilkins see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 381 of Volume 1:A-K (in an entry entitled “Extraterrestrial Hypothesis and Ufology” at pages 374-393) of the Omnigraphics hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition' | relative_url }}">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 381 of Volume 1:A-K (in an entry entitled “Extraterrestrial Hypothesis and Ufology” at pages 374-393) of the Omnigraphics hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -146,10 +146,10 @@ For discussion of Harold Wilkins see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1969">1969</a></p>
+<p><a href="{{ '/tags/1969' | relative_url }}">1969</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects">Condon Report</a> (“<a href="/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects">Scientific Study of Unidentified Flying Objects</a>”, Edward U Condon (Director) and Daniel S Gillmor (Editor) (<a href="/tags/1969">1969</a>)) (available <a href="http://www.amazon.com/dp/B000EZY1RO/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000EZY1RO/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 877 (in Section 5, Chapter 2 “UFOs: <a href="/tags/1947">1947</a>-<a href="/tags/1968">1968</a>”, by Edward U Condon) of the uncorrected version submitted to the Air Force (with the same page numbering in the 3 volume paperbound edition distributed by the National Technical Information Service, US Department of Commerce) at page 524 of the Vision hardback edition (with the same page numbering in the Bantam paperback edition). The first of these editions has the same page numbering as the edition available free online at the following links:</p>
+<p><a href="{{ '/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects' | relative_url }}">Condon Report</a> (“<a href="{{ '/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects' | relative_url }}">Scientific Study of Unidentified Flying Objects</a>”, Edward U Condon (Director) and Daniel S Gillmor (Editor) (<a href="{{ '/tags/1969' | relative_url }}">1969</a>)) (available <a href="http://www.amazon.com/dp/B000EZY1RO/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000EZY1RO/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 877 (in Section 5, Chapter 2 “UFOs: <a href="{{ '/tags/1947' | relative_url }}">1947</a>-<a href="{{ '/tags/1968' | relative_url }}">1968</a>”, by Edward U Condon) of the uncorrected version submitted to the Air Force (with the same page numbering in the 3 volume paperbound edition distributed by the National Technical Information Service, US Department of Commerce) at page 524 of the Vision hardback edition (with the same page numbering in the Bantam paperback edition). The first of these editions has the same page numbering as the edition available free online at the following links:</p>
 <p><a href="http://www.project1947.com/shg/condon/contents.html">http://www.project1947.com/shg/condon/contents.html</a></p>
 </td>
 <td valign="top" width="52">
@@ -158,10 +158,10 @@ For discussion of Harold Wilkins see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p>Delair, J Bernard in “<a href="/ufo-history/ufo-books/story-ronald-editor-and-green-j-richard-consulting-editor-the-encyclopedia-of-ufos">The Encyclopedia of UFOs</a>” (<a href="/tags/1980">1980</a>) edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a> (available <a href="http://www.amazon.com/dp/0385136773/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0385136773/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 396-397 (in an entry entitled “<a href="/ufo-history/ufo-personalities/wilkins-harold">Wilkins, Harold T</a>.”) of the NEL hardback edition.</p>
+<p>Delair, J Bernard in “<a href="{{ '/ufo-history/ufo-books/story-ronald-editor-and-green-j-richard-consulting-editor-the-encyclopedia-of-ufos' | relative_url }}">The Encyclopedia of UFOs</a>” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a> (available <a href="http://www.amazon.com/dp/0385136773/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0385136773/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 396-397 (in an entry entitled “<a href="{{ '/ufo-history/ufo-personalities/wilkins-harold' | relative_url }}">Wilkins, Harold T</a>.”) of the NEL hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -169,10 +169,10 @@ For discussion of Harold Wilkins see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/dolan-richard">Dolan, Richard</a> M in his “<a href="/ufo-history/ufo-books/dolan-richard-ufos-and-the-national-security-state-volume-1-1941-1973">UFOs and the National Security State: Volume 1: 1941-1973</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/1571743170/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1571743170/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 207 (in Chapter 5) of the Keyhole softcover edition, omitted from the <a href="/tags/2002">2002</a> revised Hampton Road softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dolan-richard' | relative_url }}">Dolan, Richard</a> M in his “<a href="{{ '/ufo-history/ufo-books/dolan-richard-ufos-and-the-national-security-state-volume-1-1941-1973' | relative_url }}">UFOs and the National Security State: Volume 1: 1941-1973</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/1571743170/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1571743170/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 207 (in Chapter 5) of the Keyhole softcover edition, omitted from the <a href="{{ '/tags/2002' | relative_url }}">2002</a> revised Hampton Road softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -180,10 +180,10 @@ For discussion of Harold Wilkins see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1971">1971</a></p>
+<p><a href="{{ '/tags/1971' | relative_url }}">1971</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/vesco-renato">Vesco, Renato</a> in his “<a href="/ufo-history/ufo-books/vesco-renato-intercept-ufo">Intercept Ufo</a>” (Formerly published as “Intercept - But Don't Shoot”) (<a href="/tags/1971">1971</a>) (available <a href="http://www.amazon.com/dp/0523008406/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0523008406/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 45 (in Chapter 2) of the Zebra paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/vesco-renato' | relative_url }}">Vesco, Renato</a> in his “<a href="{{ '/ufo-history/ufo-books/vesco-renato-intercept-ufo' | relative_url }}">Intercept Ufo</a>” (Formerly published as “Intercept - But Don't Shoot”) (<a href="{{ '/tags/1971' | relative_url }}">1971</a>) (available <a href="http://www.amazon.com/dp/0523008406/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0523008406/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 45 (in Chapter 2) of the Zebra paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/poll_1.jpg"}
 ---
 
-![poll_1](/images/stories/ufo_tags/poll_1.jpg)
+![poll_1]({{ '/images/stories/ufo_tags/poll_1.jpg' | relative_url }})
 
 *Gallup poll*
 
@@ -43,7 +43,7 @@ The table below includes references to relevant discussions in UFO/SETI books no
 
 Many of the tables of references on this website are considerably longer than the references to books found on most other UFO websites. Indeed, some are probably the longest that have been collated in relation to some events and personalities. I hope that these tables are found to be a useful contribution to UFOlogy.
 
-For discussion of the [1990](/tags/1990) Gallup Poll see the following:
+For discussion of the [1990]({{ '/tags/1990' | relative_url }}) Gallup Poll see the following:
 
 <table border="1" cellpadding="0" cellspacing="0" class="sortable" data-sortable="true" id="sortabletable">
 <thead>
@@ -63,10 +63,10 @@ For discussion of the [1990](/tags/1990) Gallup Poll see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/alnor-william-m">Alnor, William M</a> in his “<a href="/ufo-history/ufo-books/alnor-william-m-ufo-in-the-new-age">UFO in the New Age</a>” (<a href="/tags/1992">1992</a>) (available <a href="http://www.amazon.com/dp/0801002265/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0801002265/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 73 (in Chapter 4) of the Baker softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/alnor-william-m' | relative_url }}">Alnor, William M</a> in his “<a href="{{ '/ufo-history/ufo-books/alnor-william-m-ufo-in-the-new-age' | relative_url }}">UFO in the New Age</a>” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="http://www.amazon.com/dp/0801002265/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0801002265/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 73 (in Chapter 4) of the Baker softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -74,10 +74,10 @@ For discussion of the [1990](/tags/1990) Gallup Poll see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2003">2003</a></p>
+<p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/barkun-michael">Barkun, Michael</a> in his “<a href="/ufo-history/ufo-books/barkun-michael-a-culture-of-conspiracy-apocalyptic-visions-in-contemporary-america">A Culture of Conspiracy : Apocalyptic Visions in Contemporary America</a>” (<a href="/tags/2003">2003</a>) (available <a href="http://www.amazon.com/dp/0520248120/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0520248120/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 80, 81 (in Chapter 5) of the California hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/barkun-michael' | relative_url }}">Barkun, Michael</a> in his “<a href="{{ '/ufo-history/ufo-books/barkun-michael-a-culture-of-conspiracy-apocalyptic-visions-in-contemporary-america' | relative_url }}">A Culture of Conspiracy : Apocalyptic Visions in Contemporary America</a>” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) (available <a href="http://www.amazon.com/dp/0520248120/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0520248120/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 80, 81 (in Chapter 5) of the California hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -85,10 +85,10 @@ For discussion of the [1990](/tags/1990) Gallup Poll see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/dean-jodi">Dean, Jodi</a> in her “<a href="/ufo-history/ufo-books/dean-jodi-aliens-in-america">Aliens in America</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0801484685/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0801484685/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 206-207 (in the Notes) of the Cornell University softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dean-jodi' | relative_url }}">Dean, Jodi</a> in her “<a href="{{ '/ufo-history/ufo-books/dean-jodi-aliens-in-america' | relative_url }}">Aliens in America</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0801484685/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0801484685/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 206-207 (in the Notes) of the Cornell University softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -96,10 +96,10 @@ For discussion of the [1990](/tags/1990) Gallup Poll see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/dick-steven-j">Dick, Steven J</a> in his “<a href="/ufo-history/ufo-books/dick-steven-j-the-biological-universe">The Biological Universe</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/0521343267/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521343267/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 3 (in the Introduction) of the Cambridge hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dick-steven-j' | relative_url }}">Dick, Steven J</a> in his “<a href="{{ '/ufo-history/ufo-books/dick-steven-j-the-biological-universe' | relative_url }}">The Biological Universe</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/0521343267/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521343267/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 3 (in the Introduction) of the Cambridge hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -107,10 +107,10 @@ For discussion of the [1990](/tags/1990) Gallup Poll see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p>Durant, Robert in “<a href="/ufo-history/ufo-books/evans-hilary-and-stacy-dennis-ufo-1947-1997">UFO: 1947-1997</a>” (<a href="/tags/1997">1997</a>) (edited by <a href="/ufo-history/ufo-personalities/evans-hilary">Hilary Evans</a> and <a href="/ufo-history/ufo-personalities/stacy-dennis">Dennis Stacy</a>) (available <a href="http://www.amazon.com/dp/1870870999/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1870870999/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 237-238 of the John Brown hardback edition (section entitled “Aspects”, unnumbered chapter entitled “Public Opinion Polls and UFOs”).</p>
+<p>Durant, Robert in “<a href="{{ '/ufo-history/ufo-books/evans-hilary-and-stacy-dennis-ufo-1947-1997' | relative_url }}">UFO: 1947-1997</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }}">Hilary Evans</a> and <a href="{{ '/ufo-history/ufo-personalities/stacy-dennis' | relative_url }}">Dennis Stacy</a>) (available <a href="http://www.amazon.com/dp/1870870999/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1870870999/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 237-238 of the John Brown hardback edition (section entitled “Aspects”, unnumbered chapter entitled “Public Opinion Polls and UFOs”).</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -118,10 +118,10 @@ For discussion of the [1990](/tags/1990) Gallup Poll see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fitzgerald-randall">Fitzgerald, Randall</a> in his “<a href="/ufo-history/ufo-books/fitzgerald-randall-the-cosmic-test-tube">The Cosmic Test Tube</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0963916122/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963916122/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 69 (in Section 2) of the Moonlake Media softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }}">Fitzgerald, Randall</a> in his “<a href="{{ '/ufo-history/ufo-books/fitzgerald-randall-the-cosmic-test-tube' | relative_url }}">The Cosmic Test Tube</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0963916122/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963916122/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 69 (in Section 2) of the Moonlake Media softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -129,10 +129,10 @@ For discussion of the [1990](/tags/1990) Gallup Poll see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Glenday, Craig in his “<a href="/ufo-history/ufo-books/glenday-craig-the-ufo-investigators-handbook">The UFO Investigator’s Handbook</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0762406194/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0762406194/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 109 (in Chapter 5) of the Running Press softcover edition.</p>
+<p>Glenday, Craig in his “<a href="{{ '/ufo-history/ufo-books/glenday-craig-the-ufo-investigators-handbook' | relative_url }}">The UFO Investigator’s Handbook</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0762406194/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0762406194/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 109 (in Chapter 5) of the Running Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -140,10 +140,10 @@ For discussion of the [1990](/tags/1990) Gallup Poll see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2002">2002</a></p>
+<p><a href="{{ '/tags/2002' | relative_url }}">2002</a></p>
 </td>
 <td valign="top" width="547">
-<p>Nixon, Neil in his “<a href="/ufo-history/ufo-books/nixon-neil-pocket-essentials-ufos">Pocket Essentials : UFOs</a>” (<a href="/tags/2002">2002</a>) (available <a href="http://www.amazon.com/dp/1903047889/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1903047889/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 40-41 (in Chapter 3) of the Pocket Essentials softcover edition.</p>
+<p>Nixon, Neil in his “<a href="{{ '/ufo-history/ufo-books/nixon-neil-pocket-essentials-ufos' | relative_url }}">Pocket Essentials : UFOs</a>” (<a href="{{ '/tags/2002' | relative_url }}">2002</a>) (available <a href="http://www.amazon.com/dp/1903047889/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1903047889/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 40-41 (in Chapter 3) of the Pocket Essentials softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -151,10 +151,10 @@ For discussion of the [1990](/tags/1990) Gallup Poll see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p>Rhodes, Ron in his “<a href="/ufo-history/ufo-books/rhodes-ron-alien-obsession">Alien Obsession: What Lies Behind Abductions, Sightings and the Attraction to the Paranormal</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/1565078497/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1565078497/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 17 (in Chapter 1) of the Harvest House softcover edition.</p>
+<p>Rhodes, Ron in his “<a href="{{ '/ufo-history/ufo-books/rhodes-ron-alien-obsession' | relative_url }}">Alien Obsession: What Lies Behind Abductions, Sightings and the Attraction to the Paranormal</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/1565078497/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1565078497/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 17 (in Chapter 1) of the Harvest House softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

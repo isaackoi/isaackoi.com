@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/seti_1.jpg"}
 ---
 
-![seti_1](/images/stories/ufo_tags/seti_1.jpg)
+![seti_1]({{ '/images/stories/ufo_tags/seti_1.jpg' | relative_url }})
 
 *“Project Ozma II”*
 
@@ -71,10 +71,10 @@ For discussion of Ozma II see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1989">1989</a></p>
+<p><a href="{{ '/tags/1989' | relative_url }}">1989</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/ashpole-edward">Ashpole, Edward</a> in his “<a href="/ufo-history/ufo-books/ashpole-edward-the-search-for-extraterrestrial-intelligence">The Search for Extraterrestrial Intelligence</a>” (<a href="/tags/1989">1989</a>) (available <a href="http://www.amazon.com/dp/071371963X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/071371963X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 63 (in Chapter 4) of the Blandford softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/ashpole-edward' | relative_url }}">Ashpole, Edward</a> in his “<a href="{{ '/ufo-history/ufo-books/ashpole-edward-the-search-for-extraterrestrial-intelligence' | relative_url }}">The Search for Extraterrestrial Intelligence</a>” (<a href="{{ '/tags/1989' | relative_url }}">1989</a>) (available <a href="http://www.amazon.com/dp/071371963X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/071371963X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 63 (in Chapter 4) of the Blandford softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -82,10 +82,10 @@ For discussion of Ozma II see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Clark, Andrew J H and Clark, David H in their “<a href="/ufo-history/ufo-books/clark-andrew-j-h-and-clark-david-h-aliens">Aliens</a>“ (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0880642335/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0880642335/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 73 (in Chapter 2) of the Fromm hardback edition.</p>
+<p>Clark, Andrew J H and Clark, David H in their “<a href="{{ '/ufo-history/ufo-books/clark-andrew-j-h-and-clark-david-h-aliens' | relative_url }}">Aliens</a>“ (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0880642335/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0880642335/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 73 (in Chapter 2) of the Fromm hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -93,10 +93,10 @@ For discussion of Ozma II see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/darling-david">Darling, David</a> in his “<a href="/ufo-history/ufo-books/darling-david-the-extraterrestrial-encyclopedia">The Extraterrestrial Encyclopedia</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/081293248X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/081293248X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 378 (in the table entitled “SETI Observing Programs: <a href="/tags/1960">1960</a> to the Present”) of the Three Rivers softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/darling-david' | relative_url }}">Darling, David</a> in his “<a href="{{ '/ufo-history/ufo-books/darling-david-the-extraterrestrial-encyclopedia' | relative_url }}">The Extraterrestrial Encyclopedia</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/081293248X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/081293248X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 378 (in the table entitled “SETI Observing Programs: <a href="{{ '/tags/1960' | relative_url }}">1960</a> to the Present”) of the Three Rivers softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -104,10 +104,10 @@ For discussion of Ozma II see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/drake-frank">Drake, Frank</a> and Sobel, Dava in their “<a href="/ufo-history/ufo-books/drake-frank-and-sobel-dava-is-anyone-out-there">Is Anyone Out There?</a>“ (<a href="/tags/1991">1991</a>) (available <a href="http://www.amazon.com/dp/038530532X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/038530532X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 141 (in Chapter 7) of the Pocket Books paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/drake-frank' | relative_url }}">Drake, Frank</a> and Sobel, Dava in their “<a href="{{ '/ufo-history/ufo-books/drake-frank-and-sobel-dava-is-anyone-out-there' | relative_url }}">Is Anyone Out There?</a>“ (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/038530532X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/038530532X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 141 (in Chapter 7) of the Pocket Books paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -115,10 +115,10 @@ For discussion of Ozma II see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1978">1978</a></p>
+<p><a href="{{ '/tags/1978' | relative_url }}">1978</a></p>
 </td>
 <td valign="top" width="547">
-<p>Edelson, Edward in his “Who Goes There?” (<a href="/tags/1978">1978</a>) (available <a href="http://www.amazon.com/dp/0385112572/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0385112572/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 116-117 (in Chapter 9) of the NEL paperback edition (with the same page numbering in the NEL paperback edition combining this book and Chris Boyce’s “Extraterrestrial Encounter).</p>
+<p>Edelson, Edward in his “Who Goes There?” (<a href="{{ '/tags/1978' | relative_url }}">1978</a>) (available <a href="http://www.amazon.com/dp/0385112572/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0385112572/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 116-117 (in Chapter 9) of the NEL paperback edition (with the same page numbering in the NEL paperback edition combining this book and Chris Boyce’s “Extraterrestrial Encounter).</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -126,10 +126,10 @@ For discussion of Ozma II see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1967">1967</a></p>
+<p><a href="{{ '/tags/1967' | relative_url }}">1967</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/gaddis-vincent">Gaddis, Vincent</a> in his “Mysterious Fire And Lights” (<a href="/tags/1967">1967</a>) (available <a href="http://www.amazon.com/dp/B000JL5A64/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000JL5A64/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 12 (in Chapter 1) of the Dell hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/gaddis-vincent' | relative_url }}">Gaddis, Vincent</a> in his “Mysterious Fire And Lights” (<a href="{{ '/tags/1967' | relative_url }}">1967</a>) (available <a href="http://www.amazon.com/dp/B000JL5A64/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000JL5A64/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 12 (in Chapter 1) of the Dell hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -137,10 +137,10 @@ For discussion of Ozma II see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/papagiannis-michael">Papagiannis, Michael</a> in “Are We Alone in the Cosmos” (<a href="/tags/1999">1999</a>) (edited by <a href="/ufo-history/ufo-personalities/bova-ben">Ben Bova</a> and Byron Preiss) (available <a href="http://www.amazon.com/dp/0671038923/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0671038923/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 211 (in Chapter 5) of the ibooks softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/papagiannis-michael' | relative_url }}">Papagiannis, Michael</a> in “Are We Alone in the Cosmos” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/bova-ben' | relative_url }}">Ben Bova</a> and Byron Preiss) (available <a href="http://www.amazon.com/dp/0671038923/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0671038923/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 211 (in Chapter 5) of the ibooks softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -148,10 +148,10 @@ For discussion of Ozma II see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/papagiannis-michael">Papagiannis, Michael</a> in “First Contact” (<a href="/tags/1990">1990</a>) (edited by <a href="/ufo-history/ufo-personalities/bova-ben">Ben Bova</a> and Byron Preiss) (available <a href="http://www.amazon.com/dp/0747235082/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0747235082/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 186-187 (in Chapter 5) of the NAL Books hardback edition, at pages 235-236 of the Headline paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/papagiannis-michael' | relative_url }}">Papagiannis, Michael</a> in “First Contact” (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/bova-ben' | relative_url }}">Ben Bova</a> and Byron Preiss) (available <a href="http://www.amazon.com/dp/0747235082/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0747235082/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 186-187 (in Chapter 5) of the NAL Books hardback edition, at pages 235-236 of the Headline paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -159,10 +159,10 @@ For discussion of Ozma II see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p>Parker, Barry in his “Alien Life” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0306457954/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0306457954/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 180 (in Chapter 10) of the Plenum Trade hardback edition.</p>
+<p>Parker, Barry in his “Alien Life” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0306457954/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0306457954/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 180 (in Chapter 10) of the Plenum Trade hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -170,10 +170,10 @@ For discussion of Ozma II see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1983">1983</a></p>
+<p><a href="{{ '/tags/1983' | relative_url }}">1983</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/ridpath-ian">Ridpath, Ian</a> in his “Life Off Earth” (<a href="/tags/1983">1983</a>) (available <a href="http://www.amazon.com/dp/0246119330/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0246119330/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 106 (in Chapter 9) of the Granada hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/ridpath-ian' | relative_url }}">Ridpath, Ian</a> in his “Life Off Earth” (<a href="{{ '/tags/1983' | relative_url }}">1983</a>) (available <a href="http://www.amazon.com/dp/0246119330/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0246119330/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 106 (in Chapter 9) of the Granada hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -181,10 +181,10 @@ For discussion of Ozma II see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1978">1978</a></p>
+<p><a href="{{ '/tags/1978' | relative_url }}">1978</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/ridpath-ian">Ridpath, Ian</a> in his “<a href="/ufo-history/ufo-books/ridpath-ian-messages-from-the-stars">Messages from the Stars</a>” (<a href="/tags/1978">1978</a>) (available <a href="http://www.amazon.com/dp/0060135891/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0060135891/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 114 (in Chapter 7) of the Fontana paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/ridpath-ian' | relative_url }}">Ridpath, Ian</a> in his “<a href="{{ '/ufo-history/ufo-books/ridpath-ian-messages-from-the-stars' | relative_url }}">Messages from the Stars</a>” (<a href="{{ '/tags/1978' | relative_url }}">1978</a>) (available <a href="http://www.amazon.com/dp/0060135891/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0060135891/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 114 (in Chapter 7) of the Fontana paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -192,10 +192,10 @@ For discussion of Ozma II see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1975">1975</a></p>
+<p><a href="{{ '/tags/1975' | relative_url }}">1975</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/ridpath-ian">Ridpath, Ian</a> in his “<a href="/ufo-history/ufo-books/ridpath-ian-worlds-beyond">Worlds Beyond</a>” (<a href="/tags/1975">1975</a>) (available <a href="http://www.amazon.com/dp/0060135689/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0060135689/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 127 (in Chapter 7) of the Wildwood House softcover edition, at page 135 of the revised <a href="/tags/1977">1977</a> Penguin softcover edition entitled “Signs of Life”.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/ridpath-ian' | relative_url }}">Ridpath, Ian</a> in his “<a href="{{ '/ufo-history/ufo-books/ridpath-ian-worlds-beyond' | relative_url }}">Worlds Beyond</a>” (<a href="{{ '/tags/1975' | relative_url }}">1975</a>) (available <a href="http://www.amazon.com/dp/0060135689/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0060135689/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 127 (in Chapter 7) of the Wildwood House softcover edition, at page 135 of the revised <a href="{{ '/tags/1977' | relative_url }}">1977</a> Penguin softcover edition entitled “Signs of Life”.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -203,10 +203,10 @@ For discussion of Ozma II see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p>Rood, Robert and Trefil, James in their “<a href="/ufo-history/ufo-books/rood-robert-and-trefil-james-are-we-alone">Are We Alone?</a>“ (<a href="/tags/1980">1980</a>) (available <a href="http://www.amazon.com/dp/B000GR9HP6/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000GR9HP6/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 153 (in Chapter 10) of the Scribners hardback edition.</p>
+<p>Rood, Robert and Trefil, James in their “<a href="{{ '/ufo-history/ufo-books/rood-robert-and-trefil-james-are-we-alone' | relative_url }}">Are We Alone?</a>“ (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) (available <a href="http://www.amazon.com/dp/B000GR9HP6/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000GR9HP6/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 153 (in Chapter 10) of the Scribners hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -214,10 +214,10 @@ For discussion of Ozma II see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sheaffer-robert">Sheaffer, Robert</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 530-531 (in an entry entitled “Search for Extraterrestrial Intelligence, The (SETI)”) of the New American Library softcover edition, at page 519 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sheaffer-robert' | relative_url }}">Sheaffer, Robert</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 530-531 (in an entry entitled “Search for Extraterrestrial Intelligence, The (SETI)”) of the New American Library softcover edition, at page 519 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -225,10 +225,10 @@ For discussion of Ozma II see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sheaffer-robert">Sheaffer, Robert</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 637 (in an entry entitled “Search for Extraterrestrial Intelligence, The (SETI)”) of the Robinson softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sheaffer-robert' | relative_url }}">Sheaffer, Robert</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 637 (in an entry entitled “Search for Extraterrestrial Intelligence, The (SETI)”) of the Robinson softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -236,10 +236,10 @@ For discussion of Ozma II see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sheaffer-robert">Sheaffer, Robert</a> in his “<a href="/ufo-history/ufo-books/sheaffer-robert-the-ufo-verdict">The UFO Verdict</a>” (<a href="/tags/1980">1980</a>) (available <a href="http://www.amazon.com/dp/0879753382/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879753382/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 136 of the Prometheus softback edition (Chapter 13).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sheaffer-robert' | relative_url }}">Sheaffer, Robert</a> in his “<a href="{{ '/ufo-history/ufo-books/sheaffer-robert-the-ufo-verdict' | relative_url }}">The UFO Verdict</a>” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) (available <a href="http://www.amazon.com/dp/0879753382/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879753382/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 136 of the Prometheus softback edition (Chapter 13).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -247,10 +247,10 @@ For discussion of Ozma II see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sheaffer-robert">Sheaffer, Robert</a> in his “<a href="/ufo-history/ufo-books/sheaffer-robert-ufo-sightings-the-evidence">UFO Sightings: The Evidence</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/1573922137/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573922137/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 179 of the Prometheus hardback edition (Chapter 12).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sheaffer-robert' | relative_url }}">Sheaffer, Robert</a> in his “<a href="{{ '/ufo-history/ufo-books/sheaffer-robert-ufo-sightings-the-evidence' | relative_url }}">UFO Sightings: The Evidence</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/1573922137/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573922137/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 179 of the Prometheus hardback edition (Chapter 12).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -258,10 +258,10 @@ For discussion of Ozma II see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1985">1985</a></p>
+<p><a href="{{ '/tags/1985' | relative_url }}">1985</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/tarter-jill">Tarter, Jill</a> in “Extraterrestrials: Science and alien intelligence” (<a href="/tags/1985">1985</a>) (edited by Edward Regis) (available <a href="http://www.amazon.com/dp/0521262275/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521262275/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 177 (in Part 5) of the Cambridge University Press softcover edition. Also included as Reference 6 in the tabular Appendix entitled “Archive of SETI observing programs <a href="/tags/1959">1959</a>-84” at page 192.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/tarter-jill' | relative_url }}">Tarter, Jill</a> in “Extraterrestrials: Science and alien intelligence” (<a href="{{ '/tags/1985' | relative_url }}">1985</a>) (edited by Edward Regis) (available <a href="http://www.amazon.com/dp/0521262275/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521262275/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 177 (in Part 5) of the Cambridge University Press softcover edition. Also included as Reference 6 in the tabular Appendix entitled “Archive of SETI observing programs <a href="{{ '/tags/1959' | relative_url }}">1959</a>-84” at page 192.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -269,10 +269,10 @@ For discussion of Ozma II see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2002">2002</a></p>
+<p><a href="{{ '/tags/2002' | relative_url }}">2002</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/tarter-jill">Tarter, Jill</a> in “<a href="/ufo-history/ufo-books/elkers-ronald-d-and-cullers-kent-d-and-billingham-john-and-scheffer-louis-k-editors-seti-2020-a-roadmap-for-the-search-for-extraterrestrial-intelligence">SETI 2020 : A Roadmap for the Search for Extraterrestrial Intelligence</a>” (<a href="/tags/2002">2002</a>) (edited by Elkers, Ronald D and <a href="/ufo-history/ufo-personalities/cullers-kent-d">Cullers, Kent D</a> and <a href="/ufo-history/ufo-personalities/billingham-john">Billingham, John</a> and Scheffer, Louis K) (available <a href="http://www.amazon.com/dp/0966633539/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0966633539/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 385 (in Appendix L, entitled “Archive of SETI Searches”) of the SETI Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/tarter-jill' | relative_url }}">Tarter, Jill</a> in “<a href="{{ '/ufo-history/ufo-books/elkers-ronald-d-and-cullers-kent-d-and-billingham-john-and-scheffer-louis-k-editors-seti-2020-a-roadmap-for-the-search-for-extraterrestrial-intelligence' | relative_url }}">SETI 2020 : A Roadmap for the Search for Extraterrestrial Intelligence</a>” (<a href="{{ '/tags/2002' | relative_url }}">2002</a>) (edited by Elkers, Ronald D and <a href="{{ '/ufo-history/ufo-personalities/cullers-kent-d' | relative_url }}">Cullers, Kent D</a> and <a href="{{ '/ufo-history/ufo-personalities/billingham-john' | relative_url }}">Billingham, John</a> and Scheffer, Louis K) (available <a href="http://www.amazon.com/dp/0966633539/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0966633539/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 385 (in Appendix L, entitled “Archive of SETI Searches”) of the SETI Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -280,10 +280,10 @@ For discussion of Ozma II see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2002">2002</a></p>
+<p><a href="{{ '/tags/2002' | relative_url }}">2002</a></p>
 </td>
 <td valign="top" width="547">
-<p>Webb, Stephen in his “<a href="/ufo-history/ufo-books/webb-stephen-where-is-everybody-fifty-solutions-to-the-fermi-paradox">Where is Everybody?: Fifty Solutions to the Fermi Paradox</a>” (<a href="/tags/2002">2002</a>) (available <a href="http://www.amazon.com/dp/0387955011/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0387955011/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 105 (in Chapter 4), 259 (in the Notes and Further Reading) of the Copernicus hardback edition.</p>
+<p>Webb, Stephen in his “<a href="{{ '/ufo-history/ufo-books/webb-stephen-where-is-everybody-fifty-solutions-to-the-fermi-paradox' | relative_url }}">Where is Everybody?: Fifty Solutions to the Fermi Paradox</a>” (<a href="{{ '/tags/2002' | relative_url }}">2002</a>) (available <a href="http://www.amazon.com/dp/0387955011/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0387955011/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 105 (in Chapter 4), 259 (in the Notes and Further Reading) of the Copernicus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

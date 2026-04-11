@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0002570300.jpg"}
 book: {"identifiers": ["0002570300"], "primary_isbn": "0002570300", "cover_image": "/book-covers/0002570300.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of Laurence Bergreen's “[The Quest For Mars](/ufo-history/ufo-books/bergreen-laurence-the-quest-for-mars)” ([2000](/tags/2000)) (available [on Amazon USA](http://www.amazon.com/dp/0002570300/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0002570300/?&tag=ufot-21))
+Brief review to be added of Laurence Bergreen's “[The Quest For Mars]({{ '/ufo-history/ufo-books/bergreen-laurence-the-quest-for-mars' | relative_url }})” ([2000]({{ '/tags/2000' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0002570300/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0002570300/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

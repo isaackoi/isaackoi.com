@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/cia_1.gif"}
 ---
 
-![cia_1](/images/stories/ufo_tags/cia_1.gif)
+![cia_1]({{ '/images/stories/ufo_tags/cia_1.gif' | relative_url }})
 
 *CIA documents released*
 
@@ -59,20 +59,20 @@ For discussion of the relevant release see the following:
 <tbody>
 <tr>
 <td>
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td>
-<p>Haines, Gerald K (National Reconnaissance Office historian) immediately before the reference to footnote 85 in his study entitled “A Die-Hard Issue : CIA's Role in the Study of UFOs, <a href="/tags/1947">1947</a>-90” in “Studies in Intelligence”, Issue <a href="/tags/1997">1997</a> Vol. 1, No. 1 (the text of the study is available online on various websites, including the CIA’s:</p>
+<p>Haines, Gerald K (National Reconnaissance Office historian) immediately before the reference to footnote 85 in his study entitled “A Die-Hard Issue : CIA's Role in the Study of UFOs, <a href="{{ '/tags/1947' | relative_url }}">1947</a>-90” in “Studies in Intelligence”, Issue <a href="{{ '/tags/1997' | relative_url }}">1997</a> Vol. 1, No. 1 (the text of the study is available online on various websites, including the CIA’s:</p>
 <p><a href="http://www.cia.gov/csi/studies/97unclass/ufo.html#ft85">http://www.cia.gov/csi/studies/97unclass/ufo.html#ft85</a></p>
 </td>
 <td>1</td>
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1983">1983</a></p>
+<p><a href="{{ '/tags/1983' | relative_url }}">1983</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/klass-philip-j">Klass, Philip J</a> in “<a href="/ufo-history/ufo-books/klass-philip-j-ufos-the-public-deceived">UFOs – The Public Deceived</a>” (<a href="/tags/1983">1983</a>) (available <a href="http://www.amazon.com/dp/0879753226/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879753226/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 1-2, 10-11 (in the Introduction) of the Prometheus softback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/klass-philip-j' | relative_url }}">Klass, Philip J</a> in “<a href="{{ '/ufo-history/ufo-books/klass-philip-j-ufos-the-public-deceived' | relative_url }}">UFOs – The Public Deceived</a>” (<a href="{{ '/tags/1983' | relative_url }}">1983</a>) (available <a href="http://www.amazon.com/dp/0879753226/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879753226/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 1-2, 10-11 (in the Introduction) of the Prometheus softback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -84,6 +84,6 @@ For discussion of the relevant release see the following:
 <a id="other"></a>
 ### Other Material
 
-The relevant documents are discussed by discussed by [Klass, Philip J](/ufo-history/ufo-personalities/klass-philip-j) in “[UFOs – The Public Deceived](/ufo-history/ufo-books/klass-philip-j-ufos-the-public-deceived)” ([1983](/tags/1983)) (available [on Amazon USA](http://www.amazon.com/dp/0879753226/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0879753226/ref=nosim?tag=ufot-21)) at pages 13-45 of the Prometheus softback edition (in Chapters 2, 3 and 4 generally), particularly pages at 13-14.
+The relevant documents are discussed by discussed by [Klass, Philip J]({{ '/ufo-history/ufo-personalities/klass-philip-j' | relative_url }}) in “[UFOs – The Public Deceived]({{ '/ufo-history/ufo-books/klass-philip-j-ufos-the-public-deceived' | relative_url }})” ([1983]({{ '/tags/1983' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0879753226/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0879753226/ref=nosim?tag=ufot-21)) at pages 13-45 of the Prometheus softback edition (in Chapters 2, 3 and 4 generally), particularly pages at 13-14.
 
 Please use the comments section below to share references to any particularly interesting relevant articles.

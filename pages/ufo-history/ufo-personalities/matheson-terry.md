@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/matheson_terry_1.jpg"}
 ---
 
-![matheson_terry_1](/images/stories/ufo_personalities/matheson_terry_1.jpg)
+![matheson_terry_1]({{ '/images/stories/ufo_personalities/matheson_terry_1.jpg' | relative_url }})
 
 *Terry Matheson*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/matheson-terry">Matheson, Terry</a> “<a href="/ufo-history/ufo-books/matheson-terry-alien-abductions-creating-a-modern-phenomenon">Alien Abductions : Creating a Modern Phenomenon</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/1573922447/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573922447/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/matheson-terry' | relative_url }}">Matheson, Terry</a> “<a href="{{ '/ufo-history/ufo-books/matheson-terry-alien-abductions-creating-a-modern-phenomenon' | relative_url }}">Alien Abductions : Creating a Modern Phenomenon</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/1573922447/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573922447/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>
@@ -59,7 +59,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-See the references provided in relation to Matheson's book “[Alien Abductions: Creating a Modern Phenomenon](/ufo-history/ufo-books/matheson-terry-alien-abductions-creating-a-modern-phenomenon)” ([1998](/tags/1998)).
+See the references provided in relation to Matheson's book “[Alien Abductions: Creating a Modern Phenomenon]({{ '/ufo-history/ufo-books/matheson-terry-alien-abductions-creating-a-modern-phenomenon' | relative_url }})” ([1998]({{ '/tags/1998' | relative_url }})).
 
 <a id="other"></a>
 ### Other Material

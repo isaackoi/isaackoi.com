@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0684857391.jpg"}
 book: {"identifiers": ["0684857391"], "primary_isbn": "0684857391", "cover_image": "/book-covers/0684857391.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of “[Spaceships of the Visitors](/ufo-history/ufo-books/randle-kevin-d-and-estes-russ-spaceships-of-the-visitors)” ([1997](/tags/1997)) (available [on Amazon USA](http://www.amazon.com/dp/0684857391/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0684857391/?&tag=ufot-21)) by [Kevin Randle](/ufo-history/ufo-personalities/randle-kevin) and [Russ Estes](/ufo-history/ufo-personalities/estes-russ).
+Brief review to be added of “[Spaceships of the Visitors]({{ '/ufo-history/ufo-books/randle-kevin-d-and-estes-russ-spaceships-of-the-visitors' | relative_url }})” ([1997]({{ '/tags/1997' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0684857391/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0684857391/?&tag=ufot-21)) by [Kevin Randle]({{ '/ufo-history/ufo-personalities/randle-kevin' | relative_url }}) and [Russ Estes]({{ '/ufo-history/ufo-personalities/estes-russ' | relative_url }}).
 
 1. [Web Resources](#web)
 

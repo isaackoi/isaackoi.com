@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -63,10 +63,10 @@ For discussion of Hart’s photographs see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1967">1967</a></p>
+<p><a href="{{ '/tags/1967' | relative_url }}">1967</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/binder-otto">Binder, Otto</a> in his “<a href="/ufo-history/ufo-books/binder-otto-what-we-really-know-about-flying-saucers">What we really know about Flying Saucers</a>” (<a href="/tags/1967">1967</a>) (available <a href="http://www.amazon.com/dp/B000NPYTFO/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000NPYTFO/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 194 (in Chapter 16) of the Fawcett paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/binder-otto' | relative_url }}">Binder, Otto</a> in his “<a href="{{ '/ufo-history/ufo-books/binder-otto-what-we-really-know-about-flying-saucers' | relative_url }}">What we really know about Flying Saucers</a>” (<a href="{{ '/tags/1967' | relative_url }}">1967</a>) (available <a href="http://www.amazon.com/dp/B000NPYTFO/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000NPYTFO/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 194 (in Chapter 16) of the Fawcett paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -74,10 +74,10 @@ For discussion of Hart’s photographs see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-the-ufo-book">The UFO Book</a>: Encyclopedia of the Extraterrestrial” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/1578590299/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1578590299/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 345-346, 349 (forming part of an entry entitled “Lubbock Lights”) of the Visible Ink Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-the-ufo-book' | relative_url }}">The UFO Book</a>: Encyclopedia of the Extraterrestrial” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/1578590299/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1578590299/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 345-346, 349 (forming part of an entry entitled “Lubbock Lights”) of the Visible Ink Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -85,10 +85,10 @@ For discussion of Hart’s photographs see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq">The UFO Encyclopedia: 1st edition</a>: Volume 2 – Emergence of a Phenomenon” (<a href="/tags/1992">1992</a>) (available <a href="http://www.amazon.com/dp/1558887415/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558887415/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 231-233, 236 (forming part of an entry entitled “Lubbock Lights”) of the Omnigraphics hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq' | relative_url }}">The UFO Encyclopedia: 1st edition</a>: Volume 2 – Emergence of a Phenomenon” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="http://www.amazon.com/dp/1558887415/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558887415/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 231-233, 236 (forming part of an entry entitled “Lubbock Lights”) of the Omnigraphics hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -96,10 +96,10 @@ For discussion of Hart’s photographs see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) in Volume 2:L-Z at pages 586-587 (forming part of an entry entitled “Lubbock Lights” at pages 584-591) of the Omnigraphics hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition' | relative_url }}">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) in Volume 2:L-Z at pages 586-587 (forming part of an entry entitled “Lubbock Lights” at pages 584-591) of the Omnigraphics hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -107,10 +107,10 @@ For discussion of Hart’s photographs see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1979">1979</a></p>
+<p><a href="{{ '/tags/1979' | relative_url }}">1979</a></p>
 </td>
 <td valign="top" width="547">
-<p>Knight, David C in his “UFOs: A pictorial history from antiquity to the present” (<a href="/tags/1979">1979</a>) (available <a href="http://www.amazon.com/dp/0070351031/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0070351031/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 46 (in Part 3) of the McGraw Hill hardback edition.</p>
+<p>Knight, David C in his “UFOs: A pictorial history from antiquity to the present” (<a href="{{ '/tags/1979' | relative_url }}">1979</a>) (available <a href="http://www.amazon.com/dp/0070351031/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0070351031/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 46 (in Part 3) of the McGraw Hill hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -118,10 +118,10 @@ For discussion of Hart’s photographs see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1963">1963</a></p>
+<p><a href="{{ '/tags/1963' | relative_url }}">1963</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/menzel-donald-h">Menzel, Donald</a> and <a href="/ufo-history/ufo-personalities/boyd-lyle">Boyd, Lyle</a> in their “<a href="/ufo-history/ufo-books/menzel-donald-h-and-boyd-lyle-the-world-of-flying-saucers">The World of Flying Saucers</a>” (<a href="/tags/1963">1963</a>) (available <a href="http://www.amazon.com/dp/B0015NVBB8/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0015NVBB8/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 125-126, 128-129 (in Chapter VI) of the Doubleday hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/menzel-donald-h' | relative_url }}">Menzel, Donald</a> and <a href="{{ '/ufo-history/ufo-personalities/boyd-lyle' | relative_url }}">Boyd, Lyle</a> in their “<a href="{{ '/ufo-history/ufo-books/menzel-donald-h-and-boyd-lyle-the-world-of-flying-saucers' | relative_url }}">The World of Flying Saucers</a>” (<a href="{{ '/tags/1963' | relative_url }}">1963</a>) (available <a href="http://www.amazon.com/dp/B0015NVBB8/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0015NVBB8/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 125-126, 128-129 (in Chapter VI) of the Doubleday hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -129,10 +129,10 @@ For discussion of Hart’s photographs see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2002">2002</a></p>
+<p><a href="{{ '/tags/2002' | relative_url }}">2002</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/moseley-james">Moseley, James</a> and <a href="/ufo-history/ufo-personalities/pflock-karl-t">Pflock, Karl</a> in their “<a href="/ufo-history/ufo-books/moseley-james-and-pflock-karl-shockingly-close-to-the-truth">Shockingly Close to the Truth!</a>” (<a href="/tags/2002">2002</a>) (available <a href="http://www.amazon.com/dp/1573929913/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573929913/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 55-56 (in Chapter 2) of the Prometheus hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/moseley-james' | relative_url }}">Moseley, James</a> and <a href="{{ '/ufo-history/ufo-personalities/pflock-karl-t' | relative_url }}">Pflock, Karl</a> in their “<a href="{{ '/ufo-history/ufo-books/moseley-james-and-pflock-karl-shockingly-close-to-the-truth' | relative_url }}">Shockingly Close to the Truth!</a>” (<a href="{{ '/tags/2002' | relative_url }}">2002</a>) (available <a href="http://www.amazon.com/dp/1573929913/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573929913/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 55-56 (in Chapter 2) of the Prometheus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -140,10 +140,10 @@ For discussion of Hart’s photographs see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1951">1951</a></p>
+<p><a href="{{ '/tags/1951' | relative_url }}">1951</a></p>
 </td>
 <td valign="top" width="547">
-<p>Project Grudge Status Report Number 2 (<a href="/tags/1951">1951</a>.1231) at pages 1-4 of Appendix 1. Complete images of relevant report included on the redacted National Archives Microfilm Publication T1206 roll number 85 (“Administrative Files: Box 1”), at the link below from the page with the unique Page ID (“PID”) of NARA-PBB85-549 (page 549 of 915) to the page with the PID of NARA-PBB85-577 (page 577 of 915). Complete images of relevant report included on the unredacted Maxwell Air Force Base microfilm roll number 30,362, at the link below from the page with the PID of MAXW-PBB1-529 (page 529 of 1537) to the page with the PID of MAXW-PBB1-556 (page 556 of 1537). Images of complete text of relevant report available free online as a downloadable pdf file from the download section of the website at the link below:</p>
+<p>Project Grudge Status Report Number 2 (<a href="{{ '/tags/1951' | relative_url }}">1951</a>.1231) at pages 1-4 of Appendix 1. Complete images of relevant report included on the redacted National Archives Microfilm Publication T1206 roll number 85 (“Administrative Files: Box 1”), at the link below from the page with the unique Page ID (“PID”) of NARA-PBB85-549 (page 549 of 915) to the page with the PID of NARA-PBB85-577 (page 577 of 915). Complete images of relevant report included on the unredacted Maxwell Air Force Base microfilm roll number 30,362, at the link below from the page with the PID of MAXW-PBB1-529 (page 529 of 1537) to the page with the PID of MAXW-PBB1-556 (page 556 of 1537). Images of complete text of relevant report available free online as a downloadable pdf file from the download section of the website at the link below:</p>
 <p><a href="http://www.bluebookarchive.org">http://www.bluebookarchive.org</a></p>
 </td>
 <td valign="top" width="52">
@@ -152,10 +152,10 @@ For discussion of Hart’s photographs see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randle-kevin">Randle, Kevin</a> and <a href="/ufo-history/ufo-personalities/estes-russ">Estes, Russ</a> in their “<a href="/ufo-history/ufo-books/randle-kevin-d-and-estes-russ-spaceships-of-the-visitors">Spaceships of the Visitors</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0684857391/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684857391/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 122-123, 125-127, 128, 129 (in Part 3) of the Fireside softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randle-kevin' | relative_url }}">Randle, Kevin</a> and <a href="{{ '/ufo-history/ufo-personalities/estes-russ' | relative_url }}">Estes, Russ</a> in their “<a href="{{ '/ufo-history/ufo-books/randle-kevin-d-and-estes-russ-spaceships-of-the-visitors' | relative_url }}">Spaceships of the Visitors</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0684857391/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684857391/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 122-123, 125-127, 128, 129 (in Part 3) of the Fireside softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>7</p>
@@ -163,10 +163,10 @@ For discussion of Hart’s photographs see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randle-kevin">Randle, Kevin</a> in his “<a href="/ufo-history/ufo-books/randle-kevin-d-conspiracy-of-silence">Conspiracy of Silence</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0380799189/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380799189/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 84-94, 95-97 (in Chapter 4) of the Avon paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randle-kevin' | relative_url }}">Randle, Kevin</a> in his “<a href="{{ '/ufo-history/ufo-books/randle-kevin-d-conspiracy-of-silence' | relative_url }}">Conspiracy of Silence</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0380799189/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380799189/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 84-94, 95-97 (in Chapter 4) of the Avon paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>14</p>
@@ -174,10 +174,10 @@ For discussion of Hart’s photographs see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randle-kevin">Randle, Kevin</a> in his “<a href="/ufo-history/ufo-books/randle-kevin-d-scientific-ufology">Scientific Ufology</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0380813831/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380813831/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 73 (in Chapter 4), 204-205 (in Chapter 7) of the Avon softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randle-kevin' | relative_url }}">Randle, Kevin</a> in his “<a href="{{ '/ufo-history/ufo-books/randle-kevin-d-scientific-ufology' | relative_url }}">Scientific Ufology</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0380813831/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380813831/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 73 (in Chapter 4), 204-205 (in Chapter 7) of the Avon softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -185,10 +185,10 @@ For discussion of Hart’s photographs see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1956">1956</a></p>
+<p><a href="{{ '/tags/1956' | relative_url }}">1956</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/ruppelt-edward">Ruppelt, Edward</a> J in his “<a href="/ufo-history/ufo-books/ruppelt-edward-the-report-on-unidentified-flying-objects">The Report on Unidentified Flying Objects</a>” (<a href="/tags/1956">1956</a>) (available <a href="http://www.amazon.com/dp/B0007FIFVE/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0007FIFVE/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 97, 100-101, 105-107 (in Chapter 8) of the original 17 chapter Doubleday hardback edition, at pages 135, 138-139, 143-145 of the Gollancz hardback edition, at pages 132, 135-136, 141-143 of the Ace paperback edition, at pages 97, 100-101, 105-107 of the <a href="/tags/1959">1959</a> revised Doubleday 20 chapter hardback edition, at pages 72, 73-74, 76-77 of the reprinted Source Books softcover edition. The first of these editions (i.e. the original 17 chapter hardback edition) has the same page numbering as the version available free online at: <a href="http://www.nicap.org/rufo/contents2.htm">http://www.nicap.org/rufo/contents2.htm</a></p>
+<p><a href="{{ '/ufo-history/ufo-personalities/ruppelt-edward' | relative_url }}">Ruppelt, Edward</a> J in his “<a href="{{ '/ufo-history/ufo-books/ruppelt-edward-the-report-on-unidentified-flying-objects' | relative_url }}">The Report on Unidentified Flying Objects</a>” (<a href="{{ '/tags/1956' | relative_url }}">1956</a>) (available <a href="http://www.amazon.com/dp/B0007FIFVE/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0007FIFVE/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 97, 100-101, 105-107 (in Chapter 8) of the original 17 chapter Doubleday hardback edition, at pages 135, 138-139, 143-145 of the Gollancz hardback edition, at pages 132, 135-136, 141-143 of the Ace paperback edition, at pages 97, 100-101, 105-107 of the <a href="{{ '/tags/1959' | relative_url }}">1959</a> revised Doubleday 20 chapter hardback edition, at pages 72, 73-74, 76-77 of the reprinted Source Books softcover edition. The first of these editions (i.e. the original 17 chapter hardback edition) has the same page numbering as the version available free online at: <a href="http://www.nicap.org/rufo/contents2.htm">http://www.nicap.org/rufo/contents2.htm</a></p>
 </td>
 <td valign="top" width="52">
 <p>6</p>
@@ -196,10 +196,10 @@ For discussion of Hart’s photographs see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1986">1986</a></p>
+<p><a href="{{ '/tags/1986' | relative_url }}">1986</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/stevens-wendelle">Stevens, Wendelle</a> and <a href="/ufo-history/ufo-personalities/roberts-august">Roberts, August</a> in their “UFO Photographs: Around The World: Vol. 1” (<a href="/tags/1986">1986</a>) (available <a href="http://www.amazon.com/dp/0934269009/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0934269009/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 234 (in the unnumbered chapter entitled “Appendix 1 : Catalogue of UFO Photographic Reports”) of the UFO Photo Archives hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/stevens-wendelle' | relative_url }}">Stevens, Wendelle</a> and <a href="{{ '/ufo-history/ufo-personalities/roberts-august' | relative_url }}">Roberts, August</a> in their “UFO Photographs: Around The World: Vol. 1” (<a href="{{ '/tags/1986' | relative_url }}">1986</a>) (available <a href="http://www.amazon.com/dp/0934269009/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0934269009/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 234 (in the unnumbered chapter entitled “Appendix 1 : Catalogue of UFO Photographic Reports”) of the UFO Photo Archives hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

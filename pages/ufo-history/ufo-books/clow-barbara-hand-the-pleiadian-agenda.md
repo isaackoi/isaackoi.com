@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/1879181304.jpg"}
 book: {"identifiers": ["1879181304"], "primary_isbn": "1879181304", "cover_image": "/book-covers/1879181304.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of Barbara Hand Clow's book “[The Pleiadian Agenda](/ufo-history/ufo-books/clow-barbara-hand-the-pleiadian-agenda)” ([1996](/tags/1996)) (available [on Amazon USA](http://www.amazon.com/dp/1879181304/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1879181304/?&tag=ufot-21))
+Brief review to be added of Barbara Hand Clow's book “[The Pleiadian Agenda]({{ '/ufo-history/ufo-books/clow-barbara-hand-the-pleiadian-agenda' | relative_url }})” ([1996]({{ '/tags/1996' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1879181304/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1879181304/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -52,10 +52,10 @@ Many of the tables of references on this website are considerably longer than th
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p>Swimme, Brian in Barbara Hand Clow’s “<a href="/ufo-history/ufo-books/clow-barbara-hand-the-pleiadian-agenda">The Pleiadian Agenda</a>” (<a href="/tags/1996">1996</a>) at page 1 (in Chapter 1) of the Bear &amp; Co softcover edition.</p>
+<p>Swimme, Brian in Barbara Hand Clow’s “<a href="{{ '/ufo-history/ufo-books/clow-barbara-hand-the-pleiadian-agenda' | relative_url }}">The Pleiadian Agenda</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) at page 1 (in Chapter 1) of the Bear &amp; Co softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

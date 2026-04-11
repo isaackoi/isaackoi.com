@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/1573922005.jpg"}
 book: {"identifiers": ["B0007E6U8A", "1573922005", "1931044325", "054838844X", "1870870999", "1576072495", "0780800974", "1578590299", "1905646003", "0879517247", "0816038007", "0722130325", "0451204247", "1841196134", "0963916122", "0486203948", "B0007DXIH2", "B00072TSG8", "B0007K7DSU", "0962653462", "1931882444", "1560983434", "0684839733", "B000NLQNZC", "1558883010", "0345409469", "0812817125", "1852839244", "B000ILEK2A", "0932813232", "0523008406", "0451157060", "0451064240"], "primary_isbn": "1573922005", "cover_image": "/book-covers/1573922005.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Gerald Heard](/ufo-history/ufo-personalities/heard-gerald)'s book “[The Riddle of the Flying Saucers](/ufo-history/ufo-books/heard-gerald-the-riddle-of-the-flying-saucers)” ([1950](/tags/1950)) (available [on Amazon USA](http://www.amazon.com/dp/B0007E6U8A/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B0007E6U8A/?&tag=ufot-21)). Also published as “Is Another World Watching?”.
+Brief review to be added of [Gerald Heard]({{ '/ufo-history/ufo-personalities/heard-gerald' | relative_url }})'s book “[The Riddle of the Flying Saucers]({{ '/ufo-history/ufo-books/heard-gerald-the-riddle-of-the-flying-saucers' | relative_url }})” ([1950]({{ '/tags/1950' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/B0007E6U8A/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B0007E6U8A/?&tag=ufot-21)). Also published as “Is Another World Watching?”.
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion of Gerald Heard’s book see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/bartholomew-robert-e">Bartholomew, Robert E</a> and Howard, George S in their “<a href="/ufo-history/ufo-books/bartholomew-robert-e-and-howard-george-s-ufos-and-alien-contact">UFOs and Alien Contact</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/1573922005/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573922005/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 193 (in Chapter 9) of the Prometheus hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/bartholomew-robert-e' | relative_url }}">Bartholomew, Robert E</a> and Howard, George S in their “<a href="{{ '/ufo-history/ufo-books/bartholomew-robert-e-and-howard-george-s-ufos-and-alien-contact' | relative_url }}">UFOs and Alien Contact</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/1573922005/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573922005/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 193 (in Chapter 9) of the Prometheus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -65,10 +65,10 @@ For discussion of Gerald Heard’s book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/bennett-colin">Bennett, Colin</a> in his “<a href="/ufo-history/ufo-books/bennett-colin-looking-for-orthon">Looking for Orthon</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/1931044325/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1931044325/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 64 (in Chapter 4) of the Paraview softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/bennett-colin' | relative_url }}">Bennett, Colin</a> in his “<a href="{{ '/ufo-history/ufo-books/bennett-colin-looking-for-orthon' | relative_url }}">Looking for Orthon</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/1931044325/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1931044325/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 64 (in Chapter 4) of the Paraview softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -76,10 +76,10 @@ For discussion of Gerald Heard’s book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1967">1967</a></p>
+<p><a href="{{ '/tags/1967' | relative_url }}">1967</a></p>
 </td>
 <td valign="top" width="547">
-<p>Chambers, Howard in his “<a href="/ufo-history/ufo-books/chambers-howard-ufos-for-the-millions">UFOs for the millions</a>” (<a href="/tags/1967">1967</a>) (available <a href="http://www.amazon.com/dp/054838844X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/054838844X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 110 (in Chapter 8) of the Bell hardcover edition.</p>
+<p>Chambers, Howard in his “<a href="{{ '/ufo-history/ufo-books/chambers-howard-ufos-for-the-millions' | relative_url }}">UFOs for the millions</a>” (<a href="{{ '/tags/1967' | relative_url }}">1967</a>) (available <a href="http://www.amazon.com/dp/054838844X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/054838844X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 110 (in Chapter 8) of the Bell hardcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -87,10 +87,10 @@ For discussion of Gerald Heard’s book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in “<a href="/ufo-history/ufo-books/evans-hilary-and-stacy-dennis-ufo-1947-1997">UFO: 1947-1997</a>” (<a href="/tags/1997">1997</a>) (edited by <a href="/ufo-history/ufo-personalities/evans-hilary">Hilary Evans</a> and <a href="/ufo-history/ufo-personalities/stacy-dennis">Dennis Stacy</a>) (available <a href="http://www.amazon.com/dp/1870870999/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1870870999/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 75-76 of the John Brown hardback edition (Section entitled “The <a href="/tags/1950">1950</a>s”, unnumbered chapter entitled “Meeting the Extraterrestrials: How the ETH was Invented”).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in “<a href="{{ '/ufo-history/ufo-books/evans-hilary-and-stacy-dennis-ufo-1947-1997' | relative_url }}">UFO: 1947-1997</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }}">Hilary Evans</a> and <a href="{{ '/ufo-history/ufo-personalities/stacy-dennis' | relative_url }}">Dennis Stacy</a>) (available <a href="http://www.amazon.com/dp/1870870999/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1870870999/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 75-76 of the John Brown hardback edition (Section entitled “The <a href="{{ '/tags/1950' | relative_url }}">1950</a>s”, unnumbered chapter entitled “Meeting the Extraterrestrials: How the ETH was Invented”).</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -98,10 +98,10 @@ For discussion of Gerald Heard’s book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-extraordinary-encounters">Extraordinary Encounters : An Encyclopedia of Extraterrestrials and Otherworldly Beings</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/1576072495/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1576072495/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 166 (in an entry entitled “Martian bees”) of the ABC-Clio hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-extraordinary-encounters' | relative_url }}">Extraordinary Encounters : An Encyclopedia of Extraterrestrials and Otherworldly Beings</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/1576072495/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1576072495/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 166 (in an entry entitled “Martian bees”) of the ABC-Clio hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -109,10 +109,10 @@ For discussion of Gerald Heard’s book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 380 (in an entry entitled “Extraterrestrial Hypothesis and Ufology” at pages 374-393) of Volume 1:A-K of the Omnigraphics hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition' | relative_url }}">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 380 (in an entry entitled “Extraterrestrial Hypothesis and Ufology” at pages 374-393) of Volume 1:A-K of the Omnigraphics hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -120,10 +120,10 @@ For discussion of Gerald Heard’s book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-the-ufo-book">The UFO Book</a>: Encyclopedia of the Extraterrestrial” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/1578590299/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1578590299/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 206-207 of the Visible Ink Press softcover edition in an entry entitled “Extraterrestrial Hypothesis and Ufology”.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-the-ufo-book' | relative_url }}">The UFO Book</a>: Encyclopedia of the Extraterrestrial” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/1578590299/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1578590299/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 206-207 of the Visible Ink Press softcover edition in an entry entitled “Extraterrestrial Hypothesis and Ufology”.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -131,10 +131,10 @@ For discussion of Gerald Heard’s book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2007">2007</a></p>
+<p><a href="{{ '/tags/2007' | relative_url }}">2007</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clarke-david">Clarke, David</a> and <a href="/ufo-history/ufo-personalities/roberts-andy">Roberts, Andy</a> in their “<a href="/ufo-history/ufo-books/clarke-david-and-roberts-andy-flying-saucerers">Flying Saucerers : A social history of UFOlogy</a>” (<a href="/tags/2007">2007</a>) (available <a href="http://www.amazon.com/dp/1905646003/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1905646003/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 22-23 (in Chapter 2) of the Alternative Albion softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clarke-david' | relative_url }}">Clarke, David</a> and <a href="{{ '/ufo-history/ufo-personalities/roberts-andy' | relative_url }}">Roberts, Andy</a> in their “<a href="{{ '/ufo-history/ufo-books/clarke-david-and-roberts-andy-flying-saucerers' | relative_url }}">Flying Saucerers : A social history of UFOlogy</a>” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (available <a href="http://www.amazon.com/dp/1905646003/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1905646003/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 22-23 (in Chapter 2) of the Alternative Albion softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -142,10 +142,10 @@ For discussion of Gerald Heard’s book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p>Dash, Mike in his “Borderlands” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0879517247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879517247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 154 (in Chapter 4) of the Arrow paperback edition.</p>
+<p>Dash, Mike in his “Borderlands” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0879517247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879517247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 154 (in Chapter 4) of the Arrow paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -153,10 +153,10 @@ For discussion of Gerald Heard’s book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/devereux-paul">Devereux, Paul</a> and <a href="/ufo-history/ufo-personalities/brookesmith-peter">Brookesmith, Peter</a> in their “<a href="/ufo-history/ufo-books/devereux-paul-and-brookesmith-peter-ufos-and-ufology-the-first-50-years">UFOs and Ufology – the first 50 years</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0816038007/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0816038007/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 27 (in Chapter 2) of the Blandford softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/devereux-paul' | relative_url }}">Devereux, Paul</a> and <a href="{{ '/ufo-history/ufo-personalities/brookesmith-peter' | relative_url }}">Brookesmith, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/devereux-paul-and-brookesmith-peter-ufos-and-ufology-the-first-50-years' | relative_url }}">UFOs and Ufology – the first 50 years</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0816038007/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0816038007/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 27 (in Chapter 2) of the Blandford softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -164,10 +164,10 @@ For discussion of Gerald Heard’s book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1964">1964</a></p>
+<p><a href="{{ '/tags/1964' | relative_url }}">1964</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/drake-w-raymond">Drake, W Raymond</a> in his “<a href="/ufo-history/ufo-books/drake-w-raymond-messengers-from-the-stars">Messengers From the Stars</a>” (<a href="/tags/1964">1964</a>) (Formerly “Gods or Spacemen?”) (available <a href="http://www.amazon.com/dp/0722130325/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0722130325/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 78-79 (in Chapter 5) of the Sphere paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/drake-w-raymond' | relative_url }}">Drake, W Raymond</a> in his “<a href="{{ '/ufo-history/ufo-books/drake-w-raymond-messengers-from-the-stars' | relative_url }}">Messengers From the Stars</a>” (<a href="{{ '/tags/1964' | relative_url }}">1964</a>) (Formerly “Gods or Spacemen?”) (available <a href="http://www.amazon.com/dp/0722130325/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0722130325/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 78-79 (in Chapter 5) of the Sphere paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -175,10 +175,10 @@ For discussion of Gerald Heard’s book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fitzgerald-randall">Fitzgerald, Randall</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 272-273 (in an entry entitled “Is Another World Watching?”) of the New American Library softcover edition, at pages 266-267 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }}">Fitzgerald, Randall</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 272-273 (in an entry entitled “Is Another World Watching?”) of the New American Library softcover edition, at pages 266-267 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -186,10 +186,10 @@ For discussion of Gerald Heard’s book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fitzgerald-randall">Fitzgerald, Randall</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 329 (in an entry entitled “Is Another World Watching?”) of the Robinson softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }}">Fitzgerald, Randall</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 329 (in an entry entitled “Is Another World Watching?”) of the Robinson softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -197,10 +197,10 @@ For discussion of Gerald Heard’s book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fitzgerald-randall">Fitzgerald, Randall</a> in his “<a href="/ufo-history/ufo-books/fitzgerald-randall-the-cosmic-test-tube">The Cosmic Test Tube</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0963916122/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963916122/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 98-99 (in Section 2) with a one sentence summary at page 369 (in the Guide To Books) of the Moonlake Media softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }}">Fitzgerald, Randall</a> in his “<a href="{{ '/ufo-history/ufo-books/fitzgerald-randall-the-cosmic-test-tube' | relative_url }}">The Cosmic Test Tube</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0963916122/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963916122/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 98-99 (in Section 2) with a one sentence summary at page 369 (in the Guide To Books) of the Moonlake Media softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -208,10 +208,10 @@ For discussion of Gerald Heard’s book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1957">1957</a></p>
+<p><a href="{{ '/tags/1957' | relative_url }}">1957</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/gardner-martin">Gardner, Martin</a> in his “<a href="/ufo-history/ufo-books/gardner-martin-fads-and-fallacies-in-the-name-of-science">Fads and Fallacies in the Name of Science</a>” (<a href="/tags/1957">1957</a>) (available <a href="http://www.amazon.com/dp/0486203948/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0486203948/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 65-66 (in Chapter 5) of the Dover softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/gardner-martin' | relative_url }}">Gardner, Martin</a> in his “<a href="{{ '/ufo-history/ufo-books/gardner-martin-fads-and-fallacies-in-the-name-of-science' | relative_url }}">Fads and Fallacies in the Name of Science</a>” (<a href="{{ '/tags/1957' | relative_url }}">1957</a>) (available <a href="http://www.amazon.com/dp/0486203948/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0486203948/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 65-66 (in Chapter 5) of the Dover softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -219,10 +219,10 @@ For discussion of Gerald Heard’s book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1955">1955</a></p>
+<p><a href="{{ '/tags/1955' | relative_url }}">1955</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/girvan-waveney">Girvan, Waveney</a> in his “Flying Saucers and Common Sense” (<a href="/tags/1955">1955</a>) (available <a href="http://www.amazon.com/dp/B0007DXIH2/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0007DXIH2/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 8 (in the Introduction), 49-52 (in Chapter 4), 56-60, 67-68, 70-74 (in Chapter 5), 75 and 80-81 (in Chapter 6) of the Frederick Muller hardback edition (with the same page numbering in the Citadel hardback edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/girvan-waveney' | relative_url }}">Girvan, Waveney</a> in his “Flying Saucers and Common Sense” (<a href="{{ '/tags/1955' | relative_url }}">1955</a>) (available <a href="http://www.amazon.com/dp/B0007DXIH2/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0007DXIH2/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 8 (in the Introduction), 49-52 (in Chapter 4), 56-60, 67-68, 70-74 (in Chapter 5), 75 and 80-81 (in Chapter 6) of the Frederick Muller hardback edition (with the same page numbering in the Citadel hardback edition).</p>
 </td>
 <td valign="top" width="52">
 <p>20</p>
@@ -230,10 +230,10 @@ For discussion of Gerald Heard’s book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/hamilton-william-f">Hamilton, William F</a> in his “Alien Magic: UFO Crashes, Abductions, Underground Bases” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/B00072TSG8/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B00072TSG8/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 113 (in Chapter 10) of the Global Communications softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hamilton-william-f' | relative_url }}">Hamilton, William F</a> in his “Alien Magic: UFO Crashes, Abductions, Underground Bases” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/B00072TSG8/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B00072TSG8/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 113 (in Chapter 10) of the Global Communications softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -241,10 +241,10 @@ For discussion of Gerald Heard’s book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1965">1965</a></p>
+<p><a href="{{ '/tags/1965' | relative_url }}">1965</a></p>
 </td>
 <td valign="top" width="547">
-<p>Holledge, James in his “Flying Saucers over Australia” (<a href="/tags/1965">1965</a>) (available <a href="http://www.amazon.com/dp/B0007K7DSU/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0007K7DSU/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 37-39 (in Chapter 4) of the Horwitz paperback edition.</p>
+<p>Holledge, James in his “Flying Saucers over Australia” (<a href="{{ '/tags/1965' | relative_url }}">1965</a>) (available <a href="http://www.amazon.com/dp/B0007K7DSU/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0007K7DSU/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 37-39 (in Chapter 4) of the Horwitz paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -252,10 +252,10 @@ For discussion of Gerald Heard’s book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1970">1970</a></p>
+<p><a href="{{ '/tags/1970' | relative_url }}">1970</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/keel-john-a">Keel, John A</a> in his “<a href="/ufo-history/ufo-books/keel-john-a-ufos-operation-trojan-horse">UFOs: Operation Trojan Horse</a>” (<a href="/tags/1970">1970</a>) (available <a href="http://www.amazon.com/dp/0962653462/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0962653462/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 38 (in Chapter 2) of the Souvenir Press hardback edition (with the same page numbering in the Abacus softcover edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/keel-john-a' | relative_url }}">Keel, John A</a> in his “<a href="{{ '/ufo-history/ufo-books/keel-john-a-ufos-operation-trojan-horse' | relative_url }}">UFOs: Operation Trojan Horse</a>” (<a href="{{ '/tags/1970' | relative_url }}">1970</a>) (available <a href="http://www.amazon.com/dp/0962653462/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0962653462/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 38 (in Chapter 2) of the Souvenir Press hardback edition (with the same page numbering in the Abacus softcover edition).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -263,10 +263,10 @@ For discussion of Gerald Heard’s book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/keith-jim">Keith, Jim</a> in his “<a href="/ufo-history/ufo-books/keith-jim-casebook-on-alternative-3">Casebook on Alternative 3</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/1931882444/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1931882444/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 157 (in Chapter 21) of the I-Net softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/keith-jim' | relative_url }}">Keith, Jim</a> in his “<a href="{{ '/ufo-history/ufo-books/keith-jim-casebook-on-alternative-3' | relative_url }}">Casebook on Alternative 3</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/1931882444/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1931882444/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 157 (in Chapter 21) of the I-Net softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -274,10 +274,10 @@ For discussion of Gerald Heard’s book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/peebles-curtis">Peebles, Curtis</a> in his “<a href="/ufo-history/ufo-books/peebles-curtis-watch-the-skies">Watch the Skies!</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/1560983434/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1560983434/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 90 of the Smithsonian hardback edition, pages 110 of the Berkley paperback edition (Chapter 6, “The Robertson Panel” – in part of the section entitled “ ‘<a href="/ufo-history/ufo-books/keyhoe-donald-e-flying-saucers-from-outer-space">Flying Saucers from Outer Space</a>”).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/peebles-curtis' | relative_url }}">Peebles, Curtis</a> in his “<a href="{{ '/ufo-history/ufo-books/peebles-curtis-watch-the-skies' | relative_url }}">Watch the Skies!</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/1560983434/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1560983434/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 90 of the Smithsonian hardback edition, pages 110 of the Berkley paperback edition (Chapter 6, “The Robertson Panel” – in part of the section entitled “ ‘<a href="{{ '/ufo-history/ufo-books/keyhoe-donald-e-flying-saucers-from-outer-space' | relative_url }}">Flying Saucers from Outer Space</a>”).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -285,10 +285,10 @@ For discussion of Gerald Heard’s book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randle-kevin">Randle, Kevin</a> and <a href="/ufo-history/ufo-personalities/estes-russ">Estes, Russ</a> in their “<a href="/ufo-history/ufo-books/randle-kevin-d-and-estes-russ-faces-of-the-visitors">Faces of the Visitors</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0684839733/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684839733/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 83 (in Part 2) of the Fireside softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randle-kevin' | relative_url }}">Randle, Kevin</a> and <a href="{{ '/ufo-history/ufo-personalities/estes-russ' | relative_url }}">Estes, Russ</a> in their “<a href="{{ '/ufo-history/ufo-books/randle-kevin-d-and-estes-russ-faces-of-the-visitors' | relative_url }}">Faces of the Visitors</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0684839733/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684839733/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 83 (in Part 2) of the Fireside softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -296,10 +296,10 @@ For discussion of Gerald Heard’s book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> and <a href="/ufo-history/ufo-personalities/hough-peter">Hough, Peter</a> in their “<a href="/ufo-history/ufo-books/randles-jenny-and-hough-peter-50-years-of-ufo-encounters">50 Years of UFO Encounters</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/B000NLQNZC/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000NLQNZC/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 18 (in unnumbered section entitled “<a href="/tags/1950">1950</a>: Cosmic Conspiracy”) of the Encounters Magazine softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> and <a href="{{ '/ufo-history/ufo-personalities/hough-peter' | relative_url }}">Hough, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-hough-peter-50-years-of-ufo-encounters' | relative_url }}">50 Years of UFO Encounters</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/B000NLQNZC/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000NLQNZC/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 18 (in unnumbered section entitled “<a href="{{ '/tags/1950' | relative_url }}">1950</a>: Cosmic Conspiracy”) of the Encounters Magazine softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -307,10 +307,10 @@ For discussion of Gerald Heard’s book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in <a href="/ufo-history/ufo-personalities/clark-jerome">Jerome Clark</a>’s “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq">The UFO Encyclopedia: 1st edition</a>: Volume 1 – UFOs in the <a href="/tags/1980">1980</a>s” (<a href="/tags/1990">1990</a>) (available <a href="http://www.amazon.com/dp/1558883010/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558883010/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 28 (in an entry entitled “British Ufology”) of the Apogee hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in <a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Jerome Clark</a>’s “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq' | relative_url }}">The UFO Encyclopedia: 1st edition</a>: Volume 1 – UFOs in the <a href="{{ '/tags/1980' | relative_url }}">1980</a>s” (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) (available <a href="http://www.amazon.com/dp/1558883010/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558883010/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 28 (in an entry entitled “British Ufology”) of the Apogee hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -318,10 +318,10 @@ For discussion of Gerald Heard’s book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sagan-carl">Sagan, Carl</a> in his “<a href="/ufo-history/ufo-books/sagan-carl-the-demon-haunted-world">The Demon Haunted World</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0345409469/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0345409469/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 105-106 (in Chapter 6) of the Headline softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sagan-carl' | relative_url }}">Sagan, Carl</a> in his “<a href="{{ '/ufo-history/ufo-books/sagan-carl-the-demon-haunted-world' | relative_url }}">The Demon Haunted World</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0345409469/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0345409469/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 105-106 (in Chapter 6) of the Headline softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -329,10 +329,10 @@ For discussion of Gerald Heard’s book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1974">1974</a></p>
+<p><a href="{{ '/tags/1974' | relative_url }}">1974</a></p>
 </td>
 <td valign="top" width="547">
-<p>Sladek, John in his “<a href="/ufo-history/ufo-books/sladek-john-the-new-apocrypha">The New Apocrypha</a>” (<a href="/tags/1974">1974</a>) (available <a href="http://www.amazon.com/dp/0812817125/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0812817125/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 35 (in Chapter 2) of the Panther paperback edition.</p>
+<p>Sladek, John in his “<a href="{{ '/ufo-history/ufo-books/sladek-john-the-new-apocrypha' | relative_url }}">The New Apocrypha</a>” (<a href="{{ '/tags/1974' | relative_url }}">1974</a>) (available <a href="http://www.amazon.com/dp/0812817125/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0812817125/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 35 (in Chapter 2) of the Panther paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -340,10 +340,10 @@ For discussion of Gerald Heard’s book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/spencer-john">Spencer, John</a> and Spencer, Anne in their “<a href="/ufo-history/ufo-books/spencer-john-fifty-years-of-ufos">Fifty Years of UFOs</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1852839244/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1852839244/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 20 (in the unnumbered chapter entitled “<a href="/tags/1947">1947</a>-<a href="/tags/1957">1957</a>”) of the Boxtree hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">Spencer, John</a> and Spencer, Anne in their “<a href="{{ '/ufo-history/ufo-books/spencer-john-fifty-years-of-ufos' | relative_url }}">Fifty Years of UFOs</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1852839244/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1852839244/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 20 (in the unnumbered chapter entitled “<a href="{{ '/tags/1947' | relative_url }}">1947</a>-<a href="{{ '/tags/1957' | relative_url }}">1957</a>”) of the Boxtree hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -351,10 +351,10 @@ For discussion of Gerald Heard’s book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1966">1966</a></p>
+<p><a href="{{ '/tags/1966' | relative_url }}">1966</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/stanton-l-jerome">Stanton, L Jerome</a> in his “<a href="/ufo-history/ufo-books/stanton-l-jerome-flying-saucers-hoax-or-reality">Flying Saucers : Hoax or Reality?</a>” (<a href="/tags/1966">1966</a>) (available <a href="http://www.amazon.com/dp/B000ILEK2A/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000ILEK2A/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 87-89 (in Chapter 5) of the Belmont paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/stanton-l-jerome' | relative_url }}">Stanton, L Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/stanton-l-jerome-flying-saucers-hoax-or-reality' | relative_url }}">Flying Saucers : Hoax or Reality?</a>” (<a href="{{ '/tags/1966' | relative_url }}">1966</a>) (available <a href="http://www.amazon.com/dp/B000ILEK2A/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000ILEK2A/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 87-89 (in Chapter 5) of the Belmont paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -362,10 +362,10 @@ For discussion of Gerald Heard’s book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p>Taylor, Philip in his article “The Mystic and the Spy: Two early British UFO writers” in Magonia, Issue 61, November <a href="/tags/1997">1997</a> (<a href="/tags/1997">1997</a>). The relevant article is available online at: <a href="http://www.magonia.demon.co.uk/arc/90/mysticspy.html">http://www.magonia.demon.co.uk/arc/90/mysticspy.html</a></p>
+<p>Taylor, Philip in his article “The Mystic and the Spy: Two early British UFO writers” in Magonia, Issue 61, November <a href="{{ '/tags/1997' | relative_url }}">1997</a> (<a href="{{ '/tags/1997' | relative_url }}">1997</a>). The relevant article is available online at: <a href="http://www.magonia.demon.co.uk/arc/90/mysticspy.html">http://www.magonia.demon.co.uk/arc/90/mysticspy.html</a></p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -373,10 +373,10 @@ For discussion of Gerald Heard’s book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/vesco-renato">Vesco, Renato</a> and <a href="/ufo-history/ufo-personalities/childress-david-hatcher">Childress, David Hatcher</a> in their “<a href="/ufo-history/ufo-books/vesco-renato-and-childress-david-hatcher-man-made-ufos-1944-1994-50-years-of-suppression">Man Made UFOs 1944-1994 – 50 Years of Suppression</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/0932813232/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0932813232/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 49 (in Chapter 2) of the AUP softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/vesco-renato' | relative_url }}">Vesco, Renato</a> and <a href="{{ '/ufo-history/ufo-personalities/childress-david-hatcher' | relative_url }}">Childress, David Hatcher</a> in their “<a href="{{ '/ufo-history/ufo-books/vesco-renato-and-childress-david-hatcher-man-made-ufos-1944-1994-50-years-of-suppression' | relative_url }}">Man Made UFOs 1944-1994 – 50 Years of Suppression</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/0932813232/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0932813232/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 49 (in Chapter 2) of the AUP softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -384,10 +384,10 @@ For discussion of Gerald Heard’s book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1971">1971</a></p>
+<p><a href="{{ '/tags/1971' | relative_url }}">1971</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/vesco-renato">Vesco, Renato</a> in his “<a href="/ufo-history/ufo-books/vesco-renato-intercept-ufo">Intercept Ufo</a>” (Formerly published as “Intercept - But Don't Shoot”) (<a href="/tags/1971">1971</a>) (available <a href="http://www.amazon.com/dp/0523008406/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0523008406/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 34, 49 (in Chapter 2) of the Zebra paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/vesco-renato' | relative_url }}">Vesco, Renato</a> in his “<a href="{{ '/ufo-history/ufo-books/vesco-renato-intercept-ufo' | relative_url }}">Intercept Ufo</a>” (Formerly published as “Intercept - But Don't Shoot”) (<a href="{{ '/tags/1971' | relative_url }}">1971</a>) (available <a href="http://www.amazon.com/dp/0523008406/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0523008406/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 34, 49 (in Chapter 2) of the Zebra paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -395,10 +395,10 @@ For discussion of Gerald Heard’s book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1988">1988</a></p>
+<p><a href="{{ '/tags/1988' | relative_url }}">1988</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/wilson-clifford">Wilson, Clifford</a> in his “<a href="/ufo-history/ufo-books/wilson-clifford-the-alien-agenda">The Alien Agenda</a>” (<a href="/tags/1988">1988</a>) (available <a href="http://www.amazon.com/dp/0451157060/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451157060/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 99-100 (in Chapter 9) of the Signet paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/wilson-clifford' | relative_url }}">Wilson, Clifford</a> in his “<a href="{{ '/ufo-history/ufo-books/wilson-clifford-the-alien-agenda' | relative_url }}">The Alien Agenda</a>” (<a href="{{ '/tags/1988' | relative_url }}">1988</a>) (available <a href="http://www.amazon.com/dp/0451157060/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451157060/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 99-100 (in Chapter 9) of the Signet paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -406,10 +406,10 @@ For discussion of Gerald Heard’s book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1974">1974</a></p>
+<p><a href="{{ '/tags/1974' | relative_url }}">1974</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/wilson-clifford">Wilson, Clifford</a> in his “<a href="/ufo-history/ufo-books/wilson-clifford-ufos-and-their-mission-impossible">UFOs and Their Mission Impossible</a>” (<a href="/tags/1974">1974</a>) (available <a href="http://www.amazon.com/dp/0451064240/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451064240/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 99-100 (in Chapter 9) of the Signet paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/wilson-clifford' | relative_url }}">Wilson, Clifford</a> in his “<a href="{{ '/ufo-history/ufo-books/wilson-clifford-ufos-and-their-mission-impossible' | relative_url }}">UFOs and Their Mission Impossible</a>” (<a href="{{ '/tags/1974' | relative_url }}">1974</a>) (available <a href="http://www.amazon.com/dp/0451064240/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451064240/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 99-100 (in Chapter 9) of the Signet paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

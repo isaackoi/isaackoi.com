@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/lindemann_michael_1.jpg"}
 ---
 
-![lindemann_michael_1](/images/stories/ufo_personalities/lindemann_michael_1.jpg)
+![lindemann_michael_1]({{ '/images/stories/ufo_personalities/lindemann_michael_1.jpg' | relative_url }})
 
 *Michael Lindemann*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/lindemann-michael">Lindemann, Michael</a> (Editor) “UFOs And The Alien Presence: Six Viewpoints” (<a href="/tags/1991">1991</a>) (available <a href="http://www.amazon.com/dp/0963010409/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963010409/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/lindemann-michael' | relative_url }}">Lindemann, Michael</a> (Editor) “UFOs And The Alien Presence: Six Viewpoints” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/0963010409/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963010409/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>
@@ -85,10 +85,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/hansen-terry">Hansen, Terry</a> in his “<a href="/ufo-history/ufo-books/hansen-terry-the-missing-times-news-media-complicity-in-the-ufo-cover-up">The Missing Times : News Media Complicity in the UFO Cover-Up</a> : News Media Complicity in the UFO Cover -Up” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/0738836125/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0738836125/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 285-287 (in Chapter 7) of the Xlibris softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hansen-terry' | relative_url }}">Hansen, Terry</a> in his “<a href="{{ '/ufo-history/ufo-books/hansen-terry-the-missing-times-news-media-complicity-in-the-ufo-cover-up' | relative_url }}">The Missing Times : News Media Complicity in the UFO Cover-Up</a> : News Media Complicity in the UFO Cover -Up” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/0738836125/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0738836125/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 285-287 (in Chapter 7) of the Xlibris softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -96,10 +96,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p>Mannion, Michael in his “<a href="/ufo-history/ufo-books/mannion-michael-project-mindshift">Project Mindshift</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0871318563/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0871318563/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 99, 158-168 (in Chapter 5), 289-290 (in Chapter 12) of the Evans hardback edition.</p>
+<p>Mannion, Michael in his “<a href="{{ '/ufo-history/ufo-books/mannion-michael-project-mindshift' | relative_url }}">Project Mindshift</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0871318563/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0871318563/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 99, 158-168 (in Chapter 5), 289-290 (in Chapter 12) of the Evans hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>14</p>
@@ -107,10 +107,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p>Horn, Arthur D and Horn, Lynette M in their “<a href="/ufo-history/ufo-books/horn-arthur-d-and-horn-lynette-m-humanitys-extraterrestrial-origins">Humanity's Extraterrestrial Origins</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/3931652319/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/3931652319/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 199-200 (in Chapter 12) of the Silberschnur softcover edition.</p>
+<p>Horn, Arthur D and Horn, Lynette M in their “<a href="{{ '/ufo-history/ufo-books/horn-arthur-d-and-horn-lynette-m-humanitys-extraterrestrial-origins' | relative_url }}">Humanity's Extraterrestrial Origins</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/3931652319/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/3931652319/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 199-200 (in Chapter 12) of the Silberschnur softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/1567312004.jpg"}
 book: {"identifiers": ["1567312004"], "primary_isbn": "1567312004", "cover_image": "/book-covers/1567312004.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of David Ritchie's book “[UFO: The Definitive Guide](/ufo-history/ufo-books/ritchie-david-ufo-the-definitive-guide)” ([1994](/tags/1994)) (available [on Amazon USA](http://www.amazon.com/dp/1567312004/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1567312004/?&tag=ufot-21))
+Brief review to be added of David Ritchie's book “[UFO: The Definitive Guide]({{ '/ufo-history/ufo-books/ritchie-david-ufo-the-definitive-guide' | relative_url }})” ([1994]({{ '/tags/1994' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1567312004/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1567312004/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

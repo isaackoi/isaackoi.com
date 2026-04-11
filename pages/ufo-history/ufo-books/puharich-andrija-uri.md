@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0860071243.jpg"}
 book: {"identifiers": ["0860071243", "0397317808", "0552109975", "0971394237", "0586074309", "0399124217"], "primary_isbn": "0860071243", "cover_image": "/book-covers/0860071243.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Andrija Puharich](/ufo-history/ufo-personalities/puharich-andrija)'s book “[Uri](/ufo-history/ufo-books/puharich-andrija-uri)” ([1974](/tags/1974)) (available [on Amazon USA](http://www.amazon.com/dp/0860071243/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0860071243/?&tag=ufot-21))
+Brief review to be added of [Andrija Puharich]({{ '/ufo-history/ufo-personalities/puharich-andrija' | relative_url }})'s book “[Uri]({{ '/ufo-history/ufo-books/puharich-andrija-uri' | relative_url }})” ([1974]({{ '/tags/1974' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0860071243/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0860071243/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -34,7 +34,7 @@ The table below includes references to relevant discussions in UFO/SETI books no
 
 Many of the tables of references on this website are considerably longer than the references to books found on most other UFO websites. Indeed, some are probably the longest that have been collated in relation to some events and personalities. I hope that these tables are found to be a useful contribution to UFOlogy.
 
-For discussion of the book “[Uri](/ufo-history/ufo-books/puharich-andrija-uri)“ see the following:
+For discussion of the book “[Uri]({{ '/ufo-history/ufo-books/puharich-andrija-uri' | relative_url }})“ see the following:
 
 <table border="1" cellpadding="0" cellspacing="0" class="sortable" data-sortable="true" id="sortabletable">
 <thead>
@@ -54,10 +54,10 @@ For discussion of the book “[Uri](/ufo-history/ufo-books/puharich-andrija-uri)
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1978">1978</a></p>
+<p><a href="{{ '/tags/1978' | relative_url }}">1978</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/cohen-daniel">Cohen, Daniel</a> in his “<a href="/ufo-history/ufo-books/cohen-daniel-the-world-of-ufos">The World of UFOs</a>” (<a href="/tags/1978">1978</a>) (available <a href="http://www.amazon.com/dp/0397317808/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0397317808/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 137-138 (in Chapter 17) of the Lippincott hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/cohen-daniel' | relative_url }}">Cohen, Daniel</a> in his “<a href="{{ '/ufo-history/ufo-books/cohen-daniel-the-world-of-ufos' | relative_url }}">The World of UFOs</a>” (<a href="{{ '/tags/1978' | relative_url }}">1978</a>) (available <a href="http://www.amazon.com/dp/0397317808/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0397317808/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 137-138 (in Chapter 17) of the Lippincott hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -65,10 +65,10 @@ For discussion of the book “[Uri](/ufo-history/ufo-books/puharich-andrija-uri)
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1977">1977</a></p>
+<p><a href="{{ '/tags/1977' | relative_url }}">1977</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/holroyd-stuart">Holroyd, Stuart</a> in his “<a href="/ufo-history/ufo-books/holroyd-stuart-briefing-for-the-landing-on-planet-earth">Briefing for the landing on Planet Earth</a>” (<a href="/tags/1977">1977</a>) (available <a href="http://www.amazon.com/dp/0552109975/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0552109975/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 16-17, 19 (in Chapter 1), 71 (in Chapter 3) of the Corgi paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/holroyd-stuart' | relative_url }}">Holroyd, Stuart</a> in his “<a href="{{ '/ufo-history/ufo-books/holroyd-stuart-briefing-for-the-landing-on-planet-earth' | relative_url }}">Briefing for the landing on Planet Earth</a>” (<a href="{{ '/tags/1977' | relative_url }}">1977</a>) (available <a href="http://www.amazon.com/dp/0552109975/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0552109975/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 16-17, 19 (in Chapter 1), 71 (in Chapter 3) of the Corgi paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -76,10 +76,10 @@ For discussion of the book “[Uri](/ufo-history/ufo-books/puharich-andrija-uri)
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p>Lachman, Gary Valentine in his “<a href="/ufo-history/ufo-books/lachman-gary-valentine-turn-off-your-mind">Turn Off Your Mind</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/0971394237/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0971394237/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 158, 159 (in Chapter 6) of the Sidgwick &amp; Jackson softcover edition.</p>
+<p>Lachman, Gary Valentine in his “<a href="{{ '/ufo-history/ufo-books/lachman-gary-valentine-turn-off-your-mind' | relative_url }}">Turn Off Your Mind</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/0971394237/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0971394237/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 158, 159 (in Chapter 6) of the Sidgwick &amp; Jackson softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -87,10 +87,10 @@ For discussion of the book “[Uri](/ufo-history/ufo-books/puharich-andrija-uri)
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1987">1987</a></p>
+<p><a href="{{ '/tags/1987' | relative_url }}">1987</a></p>
 </td>
 <td valign="top" width="547">
-<p>Playfair, Guy Lyon in “<a href="/ufo-history/ufo-books/geller-uri-and-playfair-guy-lyon-the-geller-effect">The Geller Effect</a>” (<a href="/tags/1987">1987</a>) (available <a href="http://www.amazon.com/dp/0586074309/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0586074309/ref=nosim?tag=ufot-21">on Amazon UK</a>) (by Uri Geller and Guy Lyon Playfair) at page 247 (in Chapter 13) of the Arrow paperback edition.</p>
+<p>Playfair, Guy Lyon in “<a href="{{ '/ufo-history/ufo-books/geller-uri-and-playfair-guy-lyon-the-geller-effect' | relative_url }}">The Geller Effect</a>” (<a href="{{ '/tags/1987' | relative_url }}">1987</a>) (available <a href="http://www.amazon.com/dp/0586074309/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0586074309/ref=nosim?tag=ufot-21">on Amazon UK</a>) (by Uri Geller and Guy Lyon Playfair) at page 247 (in Chapter 13) of the Arrow paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -98,10 +98,10 @@ For discussion of the book “[Uri](/ufo-history/ufo-books/puharich-andrija-uri)
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sachs-margaret">Sachs, Margaret</a> in her “<a href="/ufo-history/ufo-books/sachs-margaret-the-ufo-encyclopedia">The UFO Encyclopedia</a>“ (<a href="/tags/1980">1980</a> (available <a href="http://www.amazon.com/dp/0399124217/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0399124217/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 120 of the Corgi softback edition in an entry entitled “<a href="/ufo-history/ufo-personalities/geller-uri">Geller, Uri</a>”.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sachs-margaret' | relative_url }}">Sachs, Margaret</a> in her “<a href="{{ '/ufo-history/ufo-books/sachs-margaret-the-ufo-encyclopedia' | relative_url }}">The UFO Encyclopedia</a>“ (<a href="{{ '/tags/1980' | relative_url }}">1980</a> (available <a href="http://www.amazon.com/dp/0399124217/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0399124217/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 120 of the Corgi softback edition in an entry entitled “<a href="{{ '/ufo-history/ufo-personalities/geller-uri' | relative_url }}">Geller, Uri</a>”.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -109,10 +109,10 @@ For discussion of the book “[Uri](/ufo-history/ufo-books/puharich-andrija-uri)
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1977">1977</a></p>
+<p><a href="{{ '/tags/1977' | relative_url }}">1977</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/wilson-colin">Wilson, Colin</a> in Stuart Holroyd’s “<a href="/ufo-history/ufo-books/holroyd-stuart-briefing-for-the-landing-on-planet-earth">Briefing for the landing on Planet Earth</a>” (<a href="/tags/1977">1977</a>) (available <a href="http://www.amazon.com/dp/0552109975/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0552109975/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 9-11 (in the Introduction) of the Corgi paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/wilson-colin' | relative_url }}">Wilson, Colin</a> in Stuart Holroyd’s “<a href="{{ '/ufo-history/ufo-books/holroyd-stuart-briefing-for-the-landing-on-planet-earth' | relative_url }}">Briefing for the landing on Planet Earth</a>” (<a href="{{ '/tags/1977' | relative_url }}">1977</a>) (available <a href="http://www.amazon.com/dp/0552109975/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0552109975/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 9-11 (in the Introduction) of the Corgi paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>

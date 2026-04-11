@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/andrews_colin_2.JPG"}
 ---
 
-![andrews_colin_2](/images/stories/ufo_personalities/andrews_colin_2.JPG)
+![andrews_colin_2]({{ '/images/stories/ufo_personalities/andrews_colin_2.JPG' | relative_url }})
 
 *Colin Andrews*
 
@@ -36,18 +36,18 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1989">1989</a></p>
+<p><a href="{{ '/tags/1989' | relative_url }}">1989</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/delgado-pat">Delgado, Pat</a> and <a href="/ufo-history/ufo-personalities/andrews-colin">Andrews, Colin</a> “<a href="/ufo-history/ufo-books/delgado-pat-and-andrews-colin-circular-evidence-a-detailed-investigation">Circular Evidence: A Detailed Investigation</a>” (<a href="/tags/1989">1989</a>) (available <a href="http://www.amazon.com/dp/0747506353/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0747506353/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/delgado-pat' | relative_url }}">Delgado, Pat</a> and <a href="{{ '/ufo-history/ufo-personalities/andrews-colin' | relative_url }}">Andrews, Colin</a> “<a href="{{ '/ufo-history/ufo-books/delgado-pat-and-andrews-colin-circular-evidence-a-detailed-investigation' | relative_url }}">Circular Evidence: A Detailed Investigation</a>” (<a href="{{ '/tags/1989' | relative_url }}">1989</a>) (available <a href="http://www.amazon.com/dp/0747506353/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0747506353/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/2003">2003</a></p>
+<p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/andrews-colin">Andrews, Colin</a> with Spignesi, Stephen J “<a href="/ufo-history/ufo-books/andrews-colin-with-spignesi-stephen-j-crop-circles-signs-of-contact">Crop Circles: Signs of Contact</a>” (<a href="http://isaackoi.com/tags/crop-circles.html">Crop Circles:</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/andrews-colin' | relative_url }}">Andrews, Colin</a> with Spignesi, Stephen J “<a href="{{ '/ufo-history/ufo-books/andrews-colin-with-spignesi-stephen-j-crop-circles-signs-of-contact' | relative_url }}">Crop Circles: Signs of Contact</a>” (<a href="http://isaackoi.com/tags/crop-circles.html">Crop Circles:</a>)</p>
 </td>
 </tr>
 </tbody>
@@ -93,10 +93,10 @@ For discussion of Colin Andrews see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2004">2004</a></p>
+<p><a href="{{ '/tags/2004' | relative_url }}">2004</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/birnes-william">Birnes, William</a> in his “<a href="/ufo-history/ufo-books/birnes-william-the-ufo-magazine-ufo-encyclopedia">The UFO Magazine UFO Encyclopedia</a>” (<a href="/tags/2004">2004</a>) (available <a href="http://www.amazon.com/dp/0743466748/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743466748/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 18-19 (in an entry entitled “<a href="/ufo-history/ufo-personalities/andrews-colin">Andrews, Colin</a>”) of the Pocket Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/birnes-william' | relative_url }}">Birnes, William</a> in his “<a href="{{ '/ufo-history/ufo-books/birnes-william-the-ufo-magazine-ufo-encyclopedia' | relative_url }}">The UFO Magazine UFO Encyclopedia</a>” (<a href="{{ '/tags/2004' | relative_url }}">2004</a>) (available <a href="http://www.amazon.com/dp/0743466748/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743466748/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 18-19 (in an entry entitled “<a href="{{ '/ufo-history/ufo-personalities/andrews-colin' | relative_url }}">Andrews, Colin</a>”) of the Pocket Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -104,10 +104,10 @@ For discussion of Colin Andrews see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/downes-jonathan">Downes, Jonathan</a> in his “The Blackdown Mystery” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/1905723008/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1905723008/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 37-38 (in Chapter 5) of the CFZ spiralbound edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/downes-jonathan' | relative_url }}">Downes, Jonathan</a> in his “The Blackdown Mystery” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/1905723008/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1905723008/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 37-38 (in Chapter 5) of the CFZ spiralbound edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -115,10 +115,10 @@ For discussion of Colin Andrews see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p>Kossy, Donna in her “<a href="/ufo-history/ufo-books/kossy-donna-kooks">Kooks</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/0922915679/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0922915679/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 189-190 (in Part 5, unnumbered chapter entitled “Trevor James Constable : Bioplilia in Extremis” generally) of the Feral House softcover edition.</p>
+<p>Kossy, Donna in her “<a href="{{ '/ufo-history/ufo-books/kossy-donna-kooks' | relative_url }}">Kooks</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/0922915679/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0922915679/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 189-190 (in Part 5, unnumbered chapter entitled “Trevor James Constable : Bioplilia in Extremis” generally) of the Feral House softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -126,10 +126,10 @@ For discussion of Colin Andrews see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/nickell-joe">Nickell, Joe</a> and Fischer, John F in their “<a href="/ufo-history/ufo-books/nickell-joe-and-fischer-john-f-mysterious-realms">Mysterious Realms</a>” (<a href="/tags/1992">1992</a>) (available <a href="http://www.amazon.com/dp/0879757655/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879757655/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 199 (in Chapter 11) of the Prometheus hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/nickell-joe' | relative_url }}">Nickell, Joe</a> and Fischer, John F in their “<a href="{{ '/ufo-history/ufo-books/nickell-joe-and-fischer-john-f-mysterious-realms' | relative_url }}">Mysterious Realms</a>” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="http://www.amazon.com/dp/0879757655/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879757655/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 199 (in Chapter 11) of the Prometheus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -137,10 +137,10 @@ For discussion of Colin Andrews see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2002">2002</a></p>
+<p><a href="{{ '/tags/2002' | relative_url }}">2002</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/presley-reg">Presley, Reg</a> in his “<a href="/ufo-history/ufo-books/presley-reg-wild-things-they-dont-tell-us">Wild Things (They Don’t Tell Us)</a>” (<a href="/tags/2002">2002</a>) (available <a href="http://www.amazon.com/dp/184358073X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/184358073X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 27, 28 (in Chapter 2) of the Metro hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/presley-reg' | relative_url }}">Presley, Reg</a> in his “<a href="{{ '/ufo-history/ufo-books/presley-reg-wild-things-they-dont-tell-us' | relative_url }}">Wild Things (They Don’t Tell Us)</a>” (<a href="{{ '/tags/2002' | relative_url }}">2002</a>) (available <a href="http://www.amazon.com/dp/184358073X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/184358073X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 27, 28 (in Chapter 2) of the Metro hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -148,10 +148,10 @@ For discussion of Colin Andrews see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1993">1993</a></p>
+<p><a href="{{ '/tags/1993' | relative_url }}">1993</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/schnabel-jim">Schnabel, Jim</a> in his “<a href="/ufo-history/ufo-books/schnabel-jim-round-in-circles">Round in Circles</a>” (<a href="/tags/1993">1993</a>) (available <a href="http://www.amazon.com/dp/1591021103/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1591021103/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 34 (in Chapter 3), 37, 38, 39, 40-41 (in Chapter 4), 42-43, 44-45, 46, 47-49 (in Chapter 5), 60 (in Chapter 6), 65, 66, 67-73 (in Chapter 7), 84-85, 88-96 (in Chapter 9), 97-98, 99 (in Chapter 10), 114, 119, 121 (in Chapter 11), 122-124, 125-126, 131 (in Chapter 12), 138 (in Chapter 13), 156 (in Chapter 15), 168 (in Chapter 17), 193, 194, 233-234 (in Chapter 20), 254-256, 262-263 (in Chapter 22), 287, 288-289 (in the Epilogue) of the Hamish Hamilton hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/schnabel-jim' | relative_url }}">Schnabel, Jim</a> in his “<a href="{{ '/ufo-history/ufo-books/schnabel-jim-round-in-circles' | relative_url }}">Round in Circles</a>” (<a href="{{ '/tags/1993' | relative_url }}">1993</a>) (available <a href="http://www.amazon.com/dp/1591021103/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1591021103/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 34 (in Chapter 3), 37, 38, 39, 40-41 (in Chapter 4), 42-43, 44-45, 46, 47-49 (in Chapter 5), 60 (in Chapter 6), 65, 66, 67-73 (in Chapter 7), 84-85, 88-96 (in Chapter 9), 97-98, 99 (in Chapter 10), 114, 119, 121 (in Chapter 11), 122-124, 125-126, 131 (in Chapter 12), 138 (in Chapter 13), 156 (in Chapter 15), 168 (in Chapter 17), 193, 194, 233-234 (in Chapter 20), 254-256, 262-263 (in Chapter 22), 287, 288-289 (in the Epilogue) of the Hamish Hamilton hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>62</p>

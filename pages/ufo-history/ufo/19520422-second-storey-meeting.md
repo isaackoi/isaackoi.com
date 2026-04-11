@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -63,10 +63,10 @@ For discussion of Project Second Storey see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p>Bray, Arthur in “<a href="/ufo-history/ufo-books/story-ronald-editor-and-green-j-richard-consulting-editor-the-encyclopedia-of-ufos">The Encyclopedia of UFOs</a>” (<a href="/tags/1980">1980</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0385136773/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0385136773/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 276 (in an entry entitled “Project Second Storey”) of the NEL hardback edition.</p>
+<p>Bray, Arthur in “<a href="{{ '/ufo-history/ufo-books/story-ronald-editor-and-green-j-richard-consulting-editor-the-encyclopedia-of-ufos' | relative_url }}">The Encyclopedia of UFOs</a>” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0385136773/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0385136773/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 276 (in an entry entitled “Project Second Storey”) of the NEL hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -74,10 +74,10 @@ For discussion of Project Second Storey see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p>Campagna, Palmiro in his “<a href="/ufo-history/ufo-books/campagna-palmiro-the-ufo-files-the-canadian-connection-exposed">The UFO Files: The Canadian Connection Exposed</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0773759735/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0773759735/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 52-60 (in Chapter 4), 89 (in Chapter 7), 154 (in Chapter 11) of the Stoddart softcover edition.</p>
+<p>Campagna, Palmiro in his “<a href="{{ '/ufo-history/ufo-books/campagna-palmiro-the-ufo-files-the-canadian-connection-exposed' | relative_url }}">The UFO Files: The Canadian Connection Exposed</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0773759735/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0773759735/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 52-60 (in Chapter 4), 89 (in Chapter 7), 154 (in Chapter 11) of the Stoddart softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>11</p>
@@ -85,10 +85,10 @@ For discussion of Project Second Storey see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) in Volume 2:L-Z at page 852 (forming part of an entry entitled “<a href="/ufo-history/ufo-personalities/smith-wilbert-b">Smith, Wilbert B</a>rockhouse (1910-<a href="/tags/1962">1962</a>) at pages 851-854”) of the Omnigraphics hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition' | relative_url }}">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) in Volume 2:L-Z at page 852 (forming part of an entry entitled “<a href="{{ '/ufo-history/ufo-personalities/smith-wilbert-b' | relative_url }}">Smith, Wilbert B</a>rockhouse (1910-<a href="{{ '/tags/1962' | relative_url }}">1962</a>) at pages 851-854”) of the Omnigraphics hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -96,10 +96,10 @@ For discussion of Project Second Storey see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1969">1969</a></p>
+<p><a href="{{ '/tags/1969' | relative_url }}">1969</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects">Condon Report</a> (“<a href="/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects">Scientific Study of Unidentified Flying Objects</a>”, Edward U Condon (Director) and Daniel S Gillmor (Editor) (<a href="/tags/1969">1969</a>)) (available <a href="http://www.amazon.com/dp/B000EZY1RO/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000EZY1RO/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 921-922 (in Section 5, Chapter 3, “Official <a href="/ufo-history/ufo-books/randles-jenny-ufo-study">UFO Study</a> Programs in Foreign Countries” by Harriet Hunter) of the uncorrected version submitted to the Air Force (with the same page numbering in the 3 volume paperbound edition distributed by the National Technical Information Service, US Department of Commerce) at pages 553-554 of the Vision hardback edition (with the same page numbering in the Bantam paperback edition). The first of these editions has the same page numbering as the edition available free online at the following links:</p>
+<p><a href="{{ '/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects' | relative_url }}">Condon Report</a> (“<a href="{{ '/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects' | relative_url }}">Scientific Study of Unidentified Flying Objects</a>”, Edward U Condon (Director) and Daniel S Gillmor (Editor) (<a href="{{ '/tags/1969' | relative_url }}">1969</a>)) (available <a href="http://www.amazon.com/dp/B000EZY1RO/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000EZY1RO/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 921-922 (in Section 5, Chapter 3, “Official <a href="{{ '/ufo-history/ufo-books/randles-jenny-ufo-study' | relative_url }}">UFO Study</a> Programs in Foreign Countries” by Harriet Hunter) of the uncorrected version submitted to the Air Force (with the same page numbering in the 3 volume paperbound edition distributed by the National Technical Information Service, US Department of Commerce) at pages 553-554 of the Vision hardback edition (with the same page numbering in the Bantam paperback edition). The first of these editions has the same page numbering as the edition available free online at the following links:</p>
 <p><a href="http://www.project1947.com/shg/condon/contents.html">http://www.project1947.com/shg/condon/contents.html</a></p>
 </td>
 <td valign="top" width="52">
@@ -108,10 +108,10 @@ For discussion of Project Second Storey see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1987">1987</a></p>
+<p><a href="{{ '/tags/1987' | relative_url }}">1987</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/good-timothy">Good, Timothy</a> in his “<a href="/ufo-history/ufo-books/good-timothy-above-top-secret">Above Top Secret</a>” (<a href="/tags/1987">1987</a>) (available <a href="http://www.amazon.com/dp/0688092020/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0688092020/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 181-183 (in Chapter 8) of the Sidgwick &amp; Jackson hardback edition (with the same page numbering in the Guild Publishing hardback edition and the Grafton paperback edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/good-timothy' | relative_url }}">Good, Timothy</a> in his “<a href="{{ '/ufo-history/ufo-books/good-timothy-above-top-secret' | relative_url }}">Above Top Secret</a>” (<a href="{{ '/tags/1987' | relative_url }}">1987</a>) (available <a href="http://www.amazon.com/dp/0688092020/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0688092020/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 181-183 (in Chapter 8) of the Sidgwick &amp; Jackson hardback edition (with the same page numbering in the Guild Publishing hardback edition and the Grafton paperback edition).</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -119,10 +119,10 @@ For discussion of Project Second Storey see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/good-timothy">Good, Timothy</a> in his “<a href="/ufo-history/ufo-books/good-timothy-beyond-top-secret">Beyond Top Secret</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/0283062452/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0283062452/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 187-189 (in Chapter 10) of the Sidgwick &amp; Jackson hardback edition (with the same page numbering in the Pan paperback edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/good-timothy' | relative_url }}">Good, Timothy</a> in his “<a href="{{ '/ufo-history/ufo-books/good-timothy-beyond-top-secret' | relative_url }}">Beyond Top Secret</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/0283062452/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0283062452/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 187-189 (in Chapter 10) of the Sidgwick &amp; Jackson hardback edition (with the same page numbering in the Pan paperback edition).</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -130,10 +130,10 @@ For discussion of Project Second Storey see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/spencer-john">Spencer, John</a> in his “<a href="/ufo-history/ufo-books/spencer-john-the-ufo-encyclopedia">The UFO Encyclopedia</a>” (<a href="/tags/1991">1991</a>) (available <a href="http://www.amazon.com/dp/0380768879/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380768879/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 274 (in an entry entitled “Second Storey, Project”) of the Guild hardback edition (with the same page numbering in the Avon softcover edition) at page 323 of the Headline paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">Spencer, John</a> in his “<a href="{{ '/ufo-history/ufo-books/spencer-john-the-ufo-encyclopedia' | relative_url }}">The UFO Encyclopedia</a>” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/0380768879/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380768879/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 274 (in an entry entitled “Second Storey, Project”) of the Guild hardback edition (with the same page numbering in the Avon softcover edition) at page 323 of the Headline paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

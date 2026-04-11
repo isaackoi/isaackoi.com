@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -63,10 +63,10 @@ For discussion of the Port Huron incident see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1953">1953</a></p>
+<p><a href="{{ '/tags/1953' | relative_url }}">1953</a></p>
 </td>
 <td valign="top" width="547">
-<p>Durant Report (the memo dated 16<sup>th</sup> February <a href="/tags/1953">1953</a> from F C Durant to the Assistant Director for Scientific Intelligence relating to the Robertson Panel) at page 7 states this case was discussed “in detail” by the Robertson Panel. The Durant Report is available online at: <a href="http://www.cufon.org/cufon/robert.htm">http://www.cufon.org/cufon/robert.htm</a></p>
+<p>Durant Report (the memo dated 16<sup>th</sup> February <a href="{{ '/tags/1953' | relative_url }}">1953</a> from F C Durant to the Assistant Director for Scientific Intelligence relating to the Robertson Panel) at page 7 states this case was discussed “in detail” by the Robertson Panel. The Durant Report is available online at: <a href="http://www.cufon.org/cufon/robert.htm">http://www.cufon.org/cufon/robert.htm</a></p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -74,10 +74,10 @@ For discussion of the Port Huron incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/hall-michael-david">Hall, Michael David</a> and <a href="/ufo-history/ufo-personalities/connors-wendy-ann">Connors, Wendy Ann</a> in their “<a href="/ufo-history/ufo-books/hall-michael-david-and-connors-wendy-ann-captain-edward-j-ruppelt">Captain Edward J Ruppelt : Summer of the Saucers - 1952</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/0970505507/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0970505507/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 153-156 (in Chapter 5) of the Rose Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hall-michael-david' | relative_url }}">Hall, Michael David</a> and <a href="{{ '/ufo-history/ufo-personalities/connors-wendy-ann' | relative_url }}">Connors, Wendy Ann</a> in their “<a href="{{ '/ufo-history/ufo-books/hall-michael-david-and-connors-wendy-ann-captain-edward-j-ruppelt' | relative_url }}">Captain Edward J Ruppelt : Summer of the Saucers - 1952</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/0970505507/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0970505507/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 153-156 (in Chapter 5) of the Rose Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -85,10 +85,10 @@ For discussion of the Port Huron incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/hall-michael-david">Hall, Michael David</a> in his “<a href="/ufo-history/ufo-books/hall-michael-david-ufos-a-century-of-sightings">UFOs : A Century of Sightings</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/1880090627/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1880090627/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 188-189 (in Chapter 4) of the Galde Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hall-michael-david' | relative_url }}">Hall, Michael David</a> in his “<a href="{{ '/ufo-history/ufo-books/hall-michael-david-ufos-a-century-of-sightings' | relative_url }}">UFOs : A Century of Sightings</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/1880090627/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1880090627/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 188-189 (in Chapter 4) of the Galde Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -96,10 +96,10 @@ For discussion of the Port Huron incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/harbinson-w-a">Harbinson, W A</a> in his “Projekt Saucer” (<a href="/tags/1995">1995</a>) at page 94 (in Chapter 5) of the Box Tree hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/harbinson-w-a' | relative_url }}">Harbinson, W A</a> in his “Projekt Saucer” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) at page 94 (in Chapter 5) of the Box Tree hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -107,10 +107,10 @@ For discussion of the Port Huron incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1968">1968</a></p>
+<p><a href="{{ '/tags/1968' | relative_url }}">1968</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/mcdonald-james-e">McDonald, James E</a> in his prepared statement to the Roush Hearing (the U.S. House of Representatives Committee on Science and Astronautics "Symposium on Unidentified Flying Objects" on <a href="/tags/1968">1968</a>.0729) as Case 39 at pages 72-73 of the transcript of the Ninetieth Congress, Second Session, Number 7. Complete transcript available free online at the following links:</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/mcdonald-james-e' | relative_url }}">McDonald, James E</a> in his prepared statement to the Roush Hearing (the U.S. House of Representatives Committee on Science and Astronautics "Symposium on Unidentified Flying Objects" on <a href="{{ '/tags/1968' | relative_url }}">1968</a>.0729) as Case 39 at pages 72-73 of the transcript of the Ninetieth Congress, Second Session, Number 7. Complete transcript available free online at the following links:</p>
 <p><a href="http://ncas.sawco.com/ufosymposium/contents.html">http://ncas.sawco.com/ufosymposium/contents.html</a> <a href="http://www.project1947.com/shg/symposium/contents.html%20">http://www.project1947.com/shg/symposium/contents.html</a></p>
 </td>
 <td valign="top" width="52">
@@ -119,10 +119,10 @@ For discussion of the Port Huron incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1952">1952</a></p>
+<p><a href="{{ '/tags/1952' | relative_url }}">1952</a></p>
 </td>
 <td valign="top" width="547">
-<p>Project Blue Book Status Report Number 8 (<a href="/tags/1952">1952</a>.1231) at pages 27-28 (in Appendix 3). Complete images of relevant report included on the redacted National Archives Microfilm Publication T1206 roll number 85 (“Administrative Files: Box 1”), at the link below from the page with the unique Page ID (“PID”) of NARA-PBB85-672 (page 672 of 915) to the page with the PID of NARA-PBB85-713 (page 713 of 915). Complete images of relevant report included on the unredacted Maxwell Air Force Base microfilm roll number 30,362, at the link below from the page with the PID of MAXW-PBB1-647 (page 647 of 1537) to the page with the PID of MAXW-PBB1-686 (page 686 of 1537). Images of complete text of relevant report available free online as a downloadable pdf file from the download section of the website at the link below.</p>
+<p>Project Blue Book Status Report Number 8 (<a href="{{ '/tags/1952' | relative_url }}">1952</a>.1231) at pages 27-28 (in Appendix 3). Complete images of relevant report included on the redacted National Archives Microfilm Publication T1206 roll number 85 (“Administrative Files: Box 1”), at the link below from the page with the unique Page ID (“PID”) of NARA-PBB85-672 (page 672 of 915) to the page with the PID of NARA-PBB85-713 (page 713 of 915). Complete images of relevant report included on the unredacted Maxwell Air Force Base microfilm roll number 30,362, at the link below from the page with the PID of MAXW-PBB1-647 (page 647 of 1537) to the page with the PID of MAXW-PBB1-686 (page 686 of 1537). Images of complete text of relevant report available free online as a downloadable pdf file from the download section of the website at the link below.</p>
 <p><a href="http://www.bluebookarchive.org">http://www.bluebookarchive.org</a></p>
 </td>
 <td valign="top" width="52">
@@ -131,10 +131,10 @@ For discussion of the Port Huron incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1956">1956</a></p>
+<p><a href="{{ '/tags/1956' | relative_url }}">1956</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/ruppelt-edward">Ruppelt, Edward</a> J in his “<a href="/ufo-history/ufo-books/ruppelt-edward-the-report-on-unidentified-flying-objects">The Report on Unidentified Flying Objects</a>” (<a href="/tags/1956">1956</a>) (available <a href="http://www.amazon.com/dp/B0007FIFVE/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0007FIFVE/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 170-172 (in Chapter 12), 190 (in Chapter 14) of the original 17 chapter Doubleday hardback edition, at pages 226-228, 251 of the Gollancz hardback edition, at pages 225-227, 250 of the Ace paperback edition, at pages 170-172, 190 of the <a href="/tags/1959">1959</a> revised Doubleday 20 chapter hardback edition, at pages 120-121, 135 of the reprinted Source Books softcover edition. The first of these editions (i.e. the original 17 chapter hardback edition) has the same page numbering as the version available free online at: <a href="http://www.nicap.org/rufo/contents2.htm">http://www.nicap.org/rufo/contents2.htm</a></p>
+<p><a href="{{ '/ufo-history/ufo-personalities/ruppelt-edward' | relative_url }}">Ruppelt, Edward</a> J in his “<a href="{{ '/ufo-history/ufo-books/ruppelt-edward-the-report-on-unidentified-flying-objects' | relative_url }}">The Report on Unidentified Flying Objects</a>” (<a href="{{ '/tags/1956' | relative_url }}">1956</a>) (available <a href="http://www.amazon.com/dp/B0007FIFVE/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0007FIFVE/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 170-172 (in Chapter 12), 190 (in Chapter 14) of the original 17 chapter Doubleday hardback edition, at pages 226-228, 251 of the Gollancz hardback edition, at pages 225-227, 250 of the Ace paperback edition, at pages 170-172, 190 of the <a href="{{ '/tags/1959' | relative_url }}">1959</a> revised Doubleday 20 chapter hardback edition, at pages 120-121, 135 of the reprinted Source Books softcover edition. The first of these editions (i.e. the original 17 chapter hardback edition) has the same page numbering as the version available free online at: <a href="http://www.nicap.org/rufo/contents2.htm">http://www.nicap.org/rufo/contents2.htm</a></p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -142,10 +142,10 @@ For discussion of the Port Huron incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2003">2003</a></p>
+<p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sparks-brad">Sparks, Brad</a> in version 1.7 of his “Comprehensive Catalog of 1,500 Project BLUE BOOK UFO Unknowns” (<a href="/tags/2003">2003</a>) as Case Number 566 on pages 86-87 of the PDF edition (with the same page numbering in the Microsoft Word edition). Both editions are available online, respectively at the following links:</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sparks-brad' | relative_url }}">Sparks, Brad</a> in version 1.7 of his “Comprehensive Catalog of 1,500 Project BLUE BOOK UFO Unknowns” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) as Case Number 566 on pages 86-87 of the PDF edition (with the same page numbering in the Microsoft Word edition). Both editions are available online, respectively at the following links:</p>
 <p><a href="http://www.cufos.org/BB_Unknowns_1_7.pdf">http://www.cufos.org/BB_Unknowns_1_7.pdf</a></p>
 <p><a href="http://www.nicap.org/bluebook/CufosBBUnknowns.doc">http://www.nicap.org/bluebook/CufosBBUnknowns.doc</a></p>
 </td>
@@ -155,10 +155,10 @@ For discussion of the Port Huron incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1966">1966</a></p>
+<p><a href="{{ '/tags/1966' | relative_url }}">1966</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/stanton-l-jerome">Stanton, L Jerome</a> in his “<a href="/ufo-history/ufo-books/stanton-l-jerome-flying-saucers-hoax-or-reality">Flying Saucers : Hoax or Reality?</a>” (<a href="/tags/1966">1966</a>) (available <a href="http://www.amazon.com/dp/B000ILEK2A/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000ILEK2A/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 68-69 (in Chapter 4) of the Belmont paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/stanton-l-jerome' | relative_url }}">Stanton, L Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/stanton-l-jerome-flying-saucers-hoax-or-reality' | relative_url }}">Flying Saucers : Hoax or Reality?</a>” (<a href="{{ '/tags/1966' | relative_url }}">1966</a>) (available <a href="http://www.amazon.com/dp/B000ILEK2A/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000ILEK2A/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 68-69 (in Chapter 4) of the Belmont paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -170,7 +170,7 @@ For discussion of the Port Huron incident see the following:
 <a id="other"></a>
 ### Other Material
 
-Listed as Project Blue Book Case Number 1753 on the redacted US National Archives and Records Administration (“NARA”) microfilm records of Project Blue Book, released to the National Archives in [1975](/tags/1975) – see National Archives Microfilm Publication T1206 roll number 1. An image of the relevant index page has been given the unique Page ID (“PID”) of NARA-PBB1-70 (page 70 of 1014) at the link below.
+Listed as Project Blue Book Case Number 1753 on the redacted US National Archives and Records Administration (“NARA”) microfilm records of Project Blue Book, released to the National Archives in [1975]({{ '/tags/1975' | relative_url }}) – see National Archives Microfilm Publication T1206 roll number 1. An image of the relevant index page has been given the unique Page ID (“PID”) of NARA-PBB1-70 (page 70 of 1014) at the link below.
 
 Listed (without a Project Blue Book Case Number) on the unredacted Maxwell Air Force Base (“Maxwell”) microfilm records of Project Blue Book – see Maxwell microfilm roll number 30,363. An image of the relevant index page has been given the unique Page ID (“PID”) of MAXW-PBB2-302 (page 302 of 1352) at the link below.
 

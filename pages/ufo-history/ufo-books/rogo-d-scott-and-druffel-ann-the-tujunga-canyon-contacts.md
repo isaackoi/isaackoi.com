@@ -14,9 +14,9 @@ header: {"preview_image": "https://covers.openlibrary.org/b/isbn/1933665335-L.jp
 book: {"identifiers": ["1933665335", "0743466748", "0760707642", "0713725184", "1578590299", "1560722703", "092652433X", "0520224329", "0451204247", "1841196134", "0963916122", "1573922447", "0684839733", "0850303621", "1567312004", "0451094727", "0380768879", "B000S52VNG", "0963530941", "0880642262", "0752517856"], "primary_isbn": "1933665335", "cover_image": "https://covers.openlibrary.org/b/isbn/1933665335-L.jpg?default=false", "cover_source": "openlibrary"}
 ---
 
-Brief review to be added of “[The Tujunga Canyon Contacts](/ufo-history/ufo-books/rogo-d-scott-and-druffel-ann-the-tujunga-canyon-contacts)” ([1980](/tags/1980)) (available [on Amazon USA](http://www.amazon.com/dp/1933665335/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1933665335/?&tag=ufot-21)) by [D. Scott Rogo](/ufo-history/ufo-personalities/rogo-d-scott) and [Ann Druffel](/ufo-history/ufo-personalities/druffel-ann).
+Brief review to be added of “[The Tujunga Canyon Contacts]({{ '/ufo-history/ufo-books/rogo-d-scott-and-druffel-ann-the-tujunga-canyon-contacts' | relative_url }})” ([1980]({{ '/tags/1980' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1933665335/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1933665335/?&tag=ufot-21)) by [D. Scott Rogo]({{ '/ufo-history/ufo-personalities/rogo-d-scott' | relative_url }}) and [Ann Druffel]({{ '/ufo-history/ufo-personalities/druffel-ann' | relative_url }}).
 
-Focuses on events in the Tujunga Canyon area of Southern California between [1953](/tags/1953) and [1975](/tags/1975).
+Focuses on events in the Tujunga Canyon area of Southern California between [1953]({{ '/tags/1953' | relative_url }}) and [1975]({{ '/tags/1975' | relative_url }}).
 
 1. [Web Resources](#web)
 
@@ -36,7 +36,7 @@ The table below includes references to relevant discussions in UFO/SETI books no
 
 Many of the tables of references on this website are considerably longer than the references to books found on most other UFO websites. Indeed, some are probably the longest that have been collated in relation to some events and personalities. I hope that these tables are found to be a useful contribution to UFOlogy.
 
-For discussion of [The Tujunga Canyon Contacts](/ufo-history/ufo-books/rogo-d-scott-and-druffel-ann-the-tujunga-canyon-contacts) see the following:
+For discussion of [The Tujunga Canyon Contacts]({{ '/ufo-history/ufo-books/rogo-d-scott-and-druffel-ann-the-tujunga-canyon-contacts' | relative_url }}) see the following:
 
 <table border="1" cellpadding="0" cellspacing="0" class="sortable" data-sortable="true" id="sortabletable">
 <thead>
@@ -56,10 +56,10 @@ For discussion of [The Tujunga Canyon Contacts](/ufo-history/ufo-books/rogo-d-sc
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2004">2004</a></p>
+<p><a href="{{ '/tags/2004' | relative_url }}">2004</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/birnes-william">Birnes, William</a> in his “<a href="/ufo-history/ufo-books/birnes-william-the-ufo-magazine-ufo-encyclopedia">The UFO Magazine UFO Encyclopedia</a>” (<a href="/tags/2004">2004</a>) (available <a href="http://www.amazon.com/dp/0743466748/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743466748/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 308 (in an entry entitled “Tujunga Canyon Abductions”) of the Pocket Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/birnes-william' | relative_url }}">Birnes, William</a> in his “<a href="{{ '/ufo-history/ufo-books/birnes-william-the-ufo-magazine-ufo-encyclopedia' | relative_url }}">The UFO Magazine UFO Encyclopedia</a>” (<a href="{{ '/tags/2004' | relative_url }}">2004</a>) (available <a href="http://www.amazon.com/dp/0743466748/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743466748/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 308 (in an entry entitled “Tujunga Canyon Abductions”) of the Pocket Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -67,10 +67,10 @@ For discussion of [The Tujunga Canyon Contacts](/ufo-history/ufo-books/rogo-d-sc
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/brookesmith-peter">Brookesmith, Peter</a> in his “<a href="/ufo-history/ufo-books/brookesmith-peter-alien-abductions">Alien Abductions</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0760707642/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0760707642/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 105-106, 107-109 (in Chapter 4) of the Barnes &amp; Noble hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/brookesmith-peter' | relative_url }}">Brookesmith, Peter</a> in his “<a href="{{ '/ufo-history/ufo-books/brookesmith-peter-alien-abductions' | relative_url }}">Alien Abductions</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0760707642/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0760707642/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 105-106, 107-109 (in Chapter 4) of the Barnes &amp; Noble hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>
@@ -78,10 +78,10 @@ For discussion of [The Tujunga Canyon Contacts](/ufo-history/ufo-books/rogo-d-sc
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/brookesmith-peter">Brookesmith, Peter</a> in his “<a href="/ufo-history/ufo-books/brookesmith-peter-ufo-the-complete-sightings-catalogue">UFO: The Complete Sightings Catalogue</a>” (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/0713725184/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713725184/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 57 (in Chapter 3) of the BCA hardback edition (with the same page numbering in the Blitz hardback edition, and in the Barnes &amp; Noble hardback edition published under the title “UFO: The Complete Sightings”).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/brookesmith-peter' | relative_url }}">Brookesmith, Peter</a> in his “<a href="{{ '/ufo-history/ufo-books/brookesmith-peter-ufo-the-complete-sightings-catalogue' | relative_url }}">UFO: The Complete Sightings Catalogue</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/0713725184/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713725184/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 57 (in Chapter 3) of the BCA hardback edition (with the same page numbering in the Blitz hardback edition, and in the Barnes &amp; Noble hardback edition published under the title “UFO: The Complete Sightings”).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -89,10 +89,10 @@ For discussion of [The Tujunga Canyon Contacts](/ufo-history/ufo-books/rogo-d-sc
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/bullard-thomas-e">Bullard, Thomas E</a> in <a href="/ufo-history/ufo-personalities/clark-jerome">Jerome Clark</a>’s “<a href="/ufo-history/ufo-books/clark-jerome-the-ufo-book">The UFO Book</a>: Encyclopedia of the Extraterrestrial” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/1578590299/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1578590299/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 2 (in an entry entitled “Abduction Phenomenon”) of the Visible Ink Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/bullard-thomas-e' | relative_url }}">Bullard, Thomas E</a> in <a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Jerome Clark</a>’s “<a href="{{ '/ufo-history/ufo-books/clark-jerome-the-ufo-book' | relative_url }}">The UFO Book</a>: Encyclopedia of the Extraterrestrial” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/1578590299/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1578590299/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 2 (in an entry entitled “Abduction Phenomenon”) of the Visible Ink Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -100,10 +100,10 @@ For discussion of [The Tujunga Canyon Contacts](/ufo-history/ufo-books/rogo-d-sc
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/dennett-preston">Dennett, Preston</a> E in his “<a href="/ufo-history/ufo-books/dennett-preston-e-one-in-forty-the-ufo-epidemic">One in Forty : The UFO Epidemic</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1560722703/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1560722703/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 79 (in Chapter 12) of the KB hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dennett-preston' | relative_url }}">Dennett, Preston</a> E in his “<a href="{{ '/ufo-history/ufo-books/dennett-preston-e-one-in-forty-the-ufo-epidemic' | relative_url }}">One in Forty : The UFO Epidemic</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1560722703/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1560722703/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 79 (in Chapter 12) of the KB hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -111,10 +111,10 @@ For discussion of [The Tujunga Canyon Contacts](/ufo-history/ufo-books/rogo-d-sc
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/dennett-preston">Dennett, Preston</a> E in his “<a href="/ufo-history/ufo-books/dennett-preston-e-ufo-healings">UFO Healings</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/092652433X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/092652433X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 2-3 (in Chapter 1) of the Wild Flower Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dennett-preston' | relative_url }}">Dennett, Preston</a> E in his “<a href="{{ '/ufo-history/ufo-books/dennett-preston-e-ufo-healings' | relative_url }}">UFO Healings</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/092652433X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/092652433X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 2-3 (in Chapter 1) of the Wild Flower Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -122,10 +122,10 @@ For discussion of [The Tujunga Canyon Contacts](/ufo-history/ufo-books/rogo-d-sc
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/denzler-brenda">Denzler, Brenda</a> in her “<a href="/ufo-history/ufo-books/denzler-brenda-the-lure-of-the-edge">The Lure of the Edge</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/0520224329/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0520224329/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 55 (in Chapter 2) of the California hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/denzler-brenda' | relative_url }}">Denzler, Brenda</a> in her “<a href="{{ '/ufo-history/ufo-books/denzler-brenda-the-lure-of-the-edge' | relative_url }}">The Lure of the Edge</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/0520224329/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0520224329/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 55 (in Chapter 2) of the California hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -133,10 +133,10 @@ For discussion of [The Tujunga Canyon Contacts](/ufo-history/ufo-books/rogo-d-sc
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/druffel-ann">Druffel, Ann</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 614-616 (in an entry entitled “Tujunga Canyon (California) contacts”) of the New American Library softcover edition, at pages 601-603 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/druffel-ann' | relative_url }}">Druffel, Ann</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 614-616 (in an entry entitled “Tujunga Canyon (California) contacts”) of the New American Library softcover edition, at pages 601-603 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -144,10 +144,10 @@ For discussion of [The Tujunga Canyon Contacts](/ufo-history/ufo-books/rogo-d-sc
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/druffel-ann">Druffel, Ann</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 735-737 (in an entry entitled “Tujunga Canyon (California) contacts”) of the Robinson softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/druffel-ann' | relative_url }}">Druffel, Ann</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 735-737 (in an entry entitled “Tujunga Canyon (California) contacts”) of the Robinson softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -155,10 +155,10 @@ For discussion of [The Tujunga Canyon Contacts](/ufo-history/ufo-books/rogo-d-sc
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fitzgerald-randall">Fitzgerald, Randall</a> in his “<a href="/ufo-history/ufo-books/fitzgerald-randall-the-cosmic-test-tube">The Cosmic Test Tube</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0963916122/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963916122/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 246-248 (in Section 3) with a one sentence summary at page 375 (in the Guide To Books) of the Moonlake Media softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }}">Fitzgerald, Randall</a> in his “<a href="{{ '/ufo-history/ufo-books/fitzgerald-randall-the-cosmic-test-tube' | relative_url }}">The Cosmic Test Tube</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0963916122/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963916122/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 246-248 (in Section 3) with a one sentence summary at page 375 (in the Guide To Books) of the Moonlake Media softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -166,10 +166,10 @@ For discussion of [The Tujunga Canyon Contacts](/ufo-history/ufo-books/rogo-d-sc
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/matheson-terry">Matheson, Terry</a> in his “<a href="/ufo-history/ufo-books/matheson-terry-alien-abductions-creating-a-modern-phenomenon">Alien Abductions : Creating a Modern Phenomenon</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/1573922447/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573922447/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 107, 114-127 , 129 of the Prometheus hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/matheson-terry' | relative_url }}">Matheson, Terry</a> in his “<a href="{{ '/ufo-history/ufo-books/matheson-terry-alien-abductions-creating-a-modern-phenomenon' | relative_url }}">Alien Abductions : Creating a Modern Phenomenon</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/1573922447/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573922447/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 107, 114-127 , 129 of the Prometheus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>16</p>
@@ -177,10 +177,10 @@ For discussion of [The Tujunga Canyon Contacts](/ufo-history/ufo-books/rogo-d-sc
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randle-kevin">Randle, Kevin</a> D and <a href="/ufo-history/ufo-personalities/estes-russ">Estes, Russ</a> in their “<a href="/ufo-history/ufo-books/randle-kevin-d-and-estes-russ-faces-of-the-visitors">Faces of the Visitors</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0684839733/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684839733/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 128-132, 173-175 (in Part 3) of the Fireside softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randle-kevin' | relative_url }}">Randle, Kevin</a> D and <a href="{{ '/ufo-history/ufo-personalities/estes-russ' | relative_url }}">Estes, Russ</a> in their “<a href="{{ '/ufo-history/ufo-books/randle-kevin-d-and-estes-russ-faces-of-the-visitors' | relative_url }}">Faces of the Visitors</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0684839733/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684839733/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 128-132, 173-175 (in Part 3) of the Fireside softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>8</p>
@@ -188,10 +188,10 @@ For discussion of [The Tujunga Canyon Contacts](/ufo-history/ufo-books/rogo-d-sc
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1984">1984</a></p>
+<p><a href="{{ '/tags/1984' | relative_url }}">1984</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/rimmer-john">Rimmer, John</a> in his “<a href="/ufo-history/ufo-books/rimmer-john-the-evidence-for-alien-abductions">The Evidence for Alien Abductions</a>” (<a href="/tags/1984">1984</a>) (available <a href="http://www.amazon.com/dp/0850303621/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0850303621/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 66-69 (in Chapter 3) of the Aquarian softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/rimmer-john' | relative_url }}">Rimmer, John</a> in his “<a href="{{ '/ufo-history/ufo-books/rimmer-john-the-evidence-for-alien-abductions' | relative_url }}">The Evidence for Alien Abductions</a>” (<a href="{{ '/tags/1984' | relative_url }}">1984</a>) (available <a href="http://www.amazon.com/dp/0850303621/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0850303621/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 66-69 (in Chapter 3) of the Aquarian softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -199,10 +199,10 @@ For discussion of [The Tujunga Canyon Contacts](/ufo-history/ufo-books/rogo-d-sc
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p>Ritchie, David in his “<a href="/ufo-history/ufo-books/ritchie-david-ufo-the-definitive-guide">UFO : The Definitive Guide</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/1567312004/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1567312004/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 209 (in an entry entitled “Tujuna Canyon case, California, United States”) of the MJF hardback edition.</p>
+<p>Ritchie, David in his “<a href="{{ '/ufo-history/ufo-books/ritchie-david-ufo-the-definitive-guide' | relative_url }}">UFO : The Definitive Guide</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/1567312004/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1567312004/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 209 (in an entry entitled “Tujuna Canyon case, California, United States”) of the MJF hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -210,10 +210,10 @@ For discussion of [The Tujunga Canyon Contacts](/ufo-history/ufo-books/rogo-d-sc
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/rogo-d-scott">Rogo, D Scott</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 497-499 (in an entry entitled “Rogo hypothesis”) of the New American Library softcover edition, at pages 485-487 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/rogo-d-scott' | relative_url }}">Rogo, D Scott</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 497-499 (in an entry entitled “Rogo hypothesis”) of the New American Library softcover edition, at pages 485-487 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -221,10 +221,10 @@ For discussion of [The Tujunga Canyon Contacts](/ufo-history/ufo-books/rogo-d-sc
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/rogo-d-scott">Rogo, D Scott</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 597-599 (in an entry entitled “Rogo hypothesis”) of the Robinson softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/rogo-d-scott' | relative_url }}">Rogo, D Scott</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 597-599 (in an entry entitled “Rogo hypothesis”) of the Robinson softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -232,10 +232,10 @@ For discussion of [The Tujunga Canyon Contacts](/ufo-history/ufo-books/rogo-d-sc
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/rogo-d-scott">Rogo, D Scott</a> in “<a href="/ufo-history/ufo-books/rogo-d-scott-ed-ufo-abductions">UFO Abductions</a>“ (<a href="/tags/1980">1980</a>) (edited by <a href="/ufo-history/ufo-personalities/rogo-d-scott">D. Scott Rogo</a>) (available <a href="http://www.amazon.com/dp/0451094727/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451094727/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 26-27 (in Part 1, unnumbered chapter entitled “Introductory Notes”), 235-238 (in the unnumbered chapter entitled “Conclusion : Toward An Explanation”) of the Signet paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/rogo-d-scott' | relative_url }}">Rogo, D Scott</a> in “<a href="{{ '/ufo-history/ufo-books/rogo-d-scott-ed-ufo-abductions' | relative_url }}">UFO Abductions</a>“ (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/rogo-d-scott' | relative_url }}">D. Scott Rogo</a>) (available <a href="http://www.amazon.com/dp/0451094727/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451094727/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 26-27 (in Part 1, unnumbered chapter entitled “Introductory Notes”), 235-238 (in the unnumbered chapter entitled “Conclusion : Toward An Explanation”) of the Signet paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>6</p>
@@ -243,10 +243,10 @@ For discussion of [The Tujunga Canyon Contacts](/ufo-history/ufo-books/rogo-d-sc
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p>Rogo, D. Scott and <a href="/ufo-history/ufo-personalities/druffel-ann">Druffel, Ann</a> in their “<a href="/ufo-history/ufo-books/rogo-d-scott-and-druffel-ann-the-tujunga-canyon-contacts">The Tujunga Canyon Contacts</a>” (<a href="/tags/1980">1980</a>) (available <a href="http://www.amazon.com/dp/1933665335/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1933665335/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 1-2 (in Chapter 2) of the revised <a href="/tags/1988">1988</a> Signet paperback edition.</p>
+<p>Rogo, D. Scott and <a href="{{ '/ufo-history/ufo-personalities/druffel-ann' | relative_url }}">Druffel, Ann</a> in their “<a href="{{ '/ufo-history/ufo-books/rogo-d-scott-and-druffel-ann-the-tujunga-canyon-contacts' | relative_url }}">The Tujunga Canyon Contacts</a>” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) (available <a href="http://www.amazon.com/dp/1933665335/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1933665335/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 1-2 (in Chapter 2) of the revised <a href="{{ '/tags/1988' | relative_url }}">1988</a> Signet paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -254,10 +254,10 @@ For discussion of [The Tujunga Canyon Contacts](/ufo-history/ufo-books/rogo-d-sc
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/spencer-john">Spencer, John</a> in his “<a href="/ufo-history/ufo-books/spencer-john-the-ufo-encyclopedia">The UFO Encyclopedia</a>” (<a href="/tags/1991">1991</a>) (available <a href="http://www.amazon.com/dp/0380768879/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380768879/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 298 (in an entry entitled “Tujunga Canyon”) of the Guild hardback edition (with the same page numbering in the Avon softcover edition) at pages 351-352 of the Headline paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">Spencer, John</a> in his “<a href="{{ '/ufo-history/ufo-books/spencer-john-the-ufo-encyclopedia' | relative_url }}">The UFO Encyclopedia</a>” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/0380768879/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380768879/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 298 (in an entry entitled “Tujunga Canyon”) of the Guild hardback edition (with the same page numbering in the Avon softcover edition) at pages 351-352 of the Headline paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -265,10 +265,10 @@ For discussion of [The Tujunga Canyon Contacts](/ufo-history/ufo-books/rogo-d-sc
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/spencer-john">Spencer, John</a> in his “<a href="/ufo-history/ufo-books/spencer-john-ufos-the-definitive-casebook">UFOs: The Definitive Casebook</a>” (<a href="/tags/1991">1991</a>) (available <a href="http://www.amazon.com/dp/B000S52VNG/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000S52VNG/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 32-33 (in the unnumbered section entitled “North America”, in the chapter entitled “Database”) of the Hamlyn hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">Spencer, John</a> in his “<a href="{{ '/ufo-history/ufo-books/spencer-john-ufos-the-definitive-casebook' | relative_url }}">UFOs: The Definitive Casebook</a>” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/B000S52VNG/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000S52VNG/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 32-33 (in the unnumbered section entitled “North America”, in the chapter entitled “Database”) of the Hamlyn hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -276,10 +276,10 @@ For discussion of [The Tujunga Canyon Contacts](/ufo-history/ufo-books/rogo-d-sc
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1993">1993</a></p>
+<p><a href="{{ '/tags/1993' | relative_url }}">1993</a></p>
 </td>
 <td valign="top" width="547">
-<p>Thompson, Richard in his “<a href="/ufo-history/ufo-books/thompson-richard-alien-identities-ancient-insights-into-modern-ufo-pheonemena">Alien Identities: Ancient Insights into Modern UFO Pheonemena</a>” (<a href="/tags/1993">1993</a>) (available <a href="http://www.amazon.com/dp/0963530941/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963530941/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 179 (in Chapter 5), 266-267 (in Chapter 7) of the GHP revised softcover edition.</p>
+<p>Thompson, Richard in his “<a href="{{ '/ufo-history/ufo-books/thompson-richard-alien-identities-ancient-insights-into-modern-ufo-pheonemena' | relative_url }}">Alien Identities: Ancient Insights into Modern UFO Pheonemena</a>” (<a href="{{ '/tags/1993' | relative_url }}">1993</a>) (available <a href="http://www.amazon.com/dp/0963530941/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963530941/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 179 (in Chapter 5), 266-267 (in Chapter 7) of the GHP revised softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -287,10 +287,10 @@ For discussion of [The Tujunga Canyon Contacts](/ufo-history/ufo-books/rogo-d-sc
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/wilson-colin">Wilson, Colin</a> in his “<a href="/ufo-history/ufo-books/wilson-colin-alien-dawn">Alien Dawn</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0880642262/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0880642262/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 223 (in Chapter 7) of the Virgin softcover edition (with the same page numbering in the Virgin paperback edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/wilson-colin' | relative_url }}">Wilson, Colin</a> in his “<a href="{{ '/ufo-history/ufo-books/wilson-colin-alien-dawn' | relative_url }}">Alien Dawn</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0880642262/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0880642262/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 223 (in Chapter 7) of the Virgin softcover edition (with the same page numbering in the Virgin paperback edition).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -298,10 +298,10 @@ For discussion of [The Tujunga Canyon Contacts](/ufo-history/ufo-books/rogo-d-sc
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/wilson-colin">Wilson, Colin</a> in his “<a href="/ufo-history/ufo-books/wilson-colin-world-famous-ufos">World Famous UFOs</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/0752517856/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0752517856/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 32-33 (in Chapter 2) of the Parragon softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/wilson-colin' | relative_url }}">Wilson, Colin</a> in his “<a href="{{ '/ufo-history/ufo-books/wilson-colin-world-famous-ufos' | relative_url }}">World Famous UFOs</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/0752517856/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0752517856/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 32-33 (in Chapter 2) of the Parragon softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

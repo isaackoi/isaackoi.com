@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/013117424X.jpg"}
 book: {"identifiers": ["013117424X", "0631135634", "1558887423"], "primary_isbn": "013117424X", "cover_image": "/book-covers/013117424X.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Raymond E Fowler](/ufo-history/ufo-personalities/fowler-raymond-e)'s book “[Casebook of a UFO Investigator](/ufo-history/ufo-books/fowler-raymond-e-casebook-of-a-ufo-investigator)” ([1981](/tags/1981)) (available [on Amazon USA](http://www.amazon.com/dp/013117424X/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/013117424X/?&tag=ufot-21))
+Brief review to be added of [Raymond E Fowler]({{ '/ufo-history/ufo-personalities/fowler-raymond-e' | relative_url }})'s book “[Casebook of a UFO Investigator]({{ '/ufo-history/ufo-books/fowler-raymond-e-casebook-of-a-ufo-investigator' | relative_url }})” ([1981]({{ '/tags/1981' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/013117424X/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/013117424X/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1985">1985</a></p>
+<p><a href="{{ '/tags/1985' | relative_url }}">1985</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> and <a href="/ufo-history/ufo-personalities/warrington-peter">Warrington, Peter</a> in their “<a href="/ufo-history/ufo-books/randles-jenny-and-warrington-peter-science-and-the-ufos">Science and the UFOs</a> " (<a href="/tags/1985">1985</a>) (available <a href="http://www.amazon.com/dp/0631135634/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0631135634/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 201 (in the Bibliography) of the Blackwell hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> and <a href="{{ '/ufo-history/ufo-personalities/warrington-peter' | relative_url }}">Warrington, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-warrington-peter-science-and-the-ufos' | relative_url }}">Science and the UFOs</a> " (<a href="{{ '/tags/1985' | relative_url }}">1985</a>) (available <a href="http://www.amazon.com/dp/0631135634/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0631135634/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 201 (in the Bibliography) of the Blackwell hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -65,10 +65,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq">The UFO Encyclopedia: 1st edition</a>: Volume 3 – High Strangeness” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/1558887423/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558887423/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 211 (forming part of an entry entitled “<a href="/ufo-history/ufo-personalities/fowler-raymond-e">Fowler, Raymond E</a>veleth (<a href="/tags/1933">1933</a>- )”) of the Omnigraphics hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq' | relative_url }}">The UFO Encyclopedia: 1st edition</a>: Volume 3 – High Strangeness” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/1558887423/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558887423/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 211 (forming part of an entry entitled “<a href="{{ '/ufo-history/ufo-personalities/fowler-raymond-e' | relative_url }}">Fowler, Raymond E</a>veleth (<a href="{{ '/tags/1933' | relative_url }}">1933</a>- )”) of the Omnigraphics hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

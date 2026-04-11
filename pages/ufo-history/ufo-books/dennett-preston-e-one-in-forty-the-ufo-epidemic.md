@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/1560722703.jpg"}
 book: {"identifiers": ["1560722703"], "primary_isbn": "1560722703", "cover_image": "/book-covers/1560722703.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Preston Dennett](/ufo-history/ufo-personalities/dennett-preston)'s book “[One in Forty: The UFO Epidemic](/ufo-history/ufo-books/dennett-preston-e-one-in-forty-the-ufo-epidemic)” ([1997](/tags/1997)) (available [on Amazon USA](http://www.amazon.com/dp/1560722703/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1560722703/?&tag=ufot-21))
+Brief review to be added of [Preston Dennett]({{ '/ufo-history/ufo-personalities/dennett-preston' | relative_url }})'s book “[One in Forty: The UFO Epidemic]({{ '/ufo-history/ufo-books/dennett-preston-e-one-in-forty-the-ufo-epidemic' | relative_url }})” ([1997]({{ '/tags/1997' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1560722703/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1560722703/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/documents_1.gif"}
 ---
 
-![documents_1](/images/stories/ufo_tags/documents_1.gif)
+![documents_1]({{ '/images/stories/ufo_tags/documents_1.gif' | relative_url }})
 
 *Colonel Allen memo*
 
@@ -43,7 +43,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-Images of memo presented by [Pflock, Karl T](/ufo-history/ufo-personalities/pflock-karl-t) in his “[Roswell: Inconvenient Facts and the Will to Believe](/ufo-history/ufo-books/pflock-karl-t-roswell-inconvenient-facts-and-the-will-to-believe)” ([2001](/tags/2001)) (available [on Amazon USA](http://www.amazon.com/dp/1573928941/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1573928941/ref=nosim?tag=ufot-21)) at pages at pages 310-314 (in Appendix I) of the Prometheus hardback edition.
+Images of memo presented by [Pflock, Karl T]({{ '/ufo-history/ufo-personalities/pflock-karl-t' | relative_url }}) in his “[Roswell: Inconvenient Facts and the Will to Believe]({{ '/ufo-history/ufo-books/pflock-karl-t-roswell-inconvenient-facts-and-the-will-to-believe' | relative_url }})” ([2001]({{ '/tags/2001' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1573928941/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1573928941/ref=nosim?tag=ufot-21)) at pages at pages 310-314 (in Appendix I) of the Prometheus hardback edition.
 
 The table below includes references to relevant discussions in UFO/SETI books noted by Isaac Koi during a review of approximately 963 UFO/SETI books during the period 2003-2006 (with a few later additions). The table can be sorted by author, date and length of discussion by clicking on the relevant word in the top line of the table.
 
@@ -69,10 +69,10 @@ For discussion of Allen’s memo see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/devereux-paul">Devereux, Paul</a> and <a href="/ufo-history/ufo-personalities/brookesmith-peter">Brookesmith, Peter</a> in “<a href="/ufo-history/ufo-books/devereux-paul-and-brookesmith-peter-ufos-and-ufology-the-first-50-years">UFOs and Ufology – the first 50 years</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0816038007/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0816038007/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 135 (in Chapter 9) of the Blandford softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/devereux-paul' | relative_url }}">Devereux, Paul</a> and <a href="{{ '/ufo-history/ufo-personalities/brookesmith-peter' | relative_url }}">Brookesmith, Peter</a> in “<a href="{{ '/ufo-history/ufo-books/devereux-paul-and-brookesmith-peter-ufos-and-ufology-the-first-50-years' | relative_url }}">UFOs and Ufology – the first 50 years</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0816038007/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0816038007/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 135 (in Chapter 9) of the Blandford softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -80,10 +80,10 @@ For discussion of Allen’s memo see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/maccabee-bruce">Maccabee, Bruce</a> in his “<a href="/ufo-history/ufo-books/maccabee-bruce-ufo-fbi-connection">UFO-FBI Connection</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/1567184936/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1567184936/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 48-53 (in Chapter 5) of the Llewellyn softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/maccabee-bruce' | relative_url }}">Maccabee, Bruce</a> in his “<a href="{{ '/ufo-history/ufo-books/maccabee-bruce-ufo-fbi-connection' | relative_url }}">UFO-FBI Connection</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/1567184936/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1567184936/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 48-53 (in Chapter 5) of the Llewellyn softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>6</p>
@@ -91,10 +91,10 @@ For discussion of Allen’s memo see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/pflock-karl-t">Pflock, Karl T</a> in his “<a href="/ufo-history/ufo-books/pflock-karl-t-roswell-inconvenient-facts-and-the-will-to-believe">Roswell: Inconvenient Facts and the Will to Believe</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/1573928941/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573928941/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 187-188 (in Chapter 15) with images of relevant documents at pages 310-314 (in Appendix I) of the Prometheus hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/pflock-karl-t' | relative_url }}">Pflock, Karl T</a> in his “<a href="{{ '/ufo-history/ufo-books/pflock-karl-t-roswell-inconvenient-facts-and-the-will-to-believe' | relative_url }}">Roswell: Inconvenient Facts and the Will to Believe</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/1573928941/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573928941/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 187-188 (in Chapter 15) with images of relevant documents at pages 310-314 (in Appendix I) of the Prometheus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>7</p>
@@ -102,10 +102,10 @@ For discussion of Allen’s memo see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sagan-carl">Sagan, Carl</a> in his “<a href="/ufo-history/ufo-books/sagan-carl-the-demon-haunted-world">The Demon Haunted World</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0345409469/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0345409469/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 81 (in Chapter 5) of the Headline softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sagan-carl' | relative_url }}">Sagan, Carl</a> in his “<a href="{{ '/ufo-history/ufo-books/sagan-carl-the-demon-haunted-world' | relative_url }}">The Demon Haunted World</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0345409469/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0345409469/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 81 (in Chapter 5) of the Headline softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

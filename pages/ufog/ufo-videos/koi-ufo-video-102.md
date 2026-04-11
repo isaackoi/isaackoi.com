@@ -42,9 +42,9 @@ This video appears to show a strange cloud, apparently with tendrils resembling 
 
 Screen shots from this video are included below for ease of identification.
 
-![](/images/stories/ufo_videos/video102_1.JPG)
+![]({{ '/images/stories/ufo_videos/video102_1.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video102_2.JPG)
+![]({{ '/images/stories/ufo_videos/video102_2.JPG' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this video
@@ -58,13 +58,13 @@ About a week after the cloud jellyfish video was posted, Anton Ilmyanov posted a
 
 In his accompanying comments, Anton Ilmyanov stated that the original footage had been created using the Blender software package. In a post on [one discussion forum for Blender artists](http://blenderartists.org/forum/showthread.php?371685-UFO-footage), Anton Ilmyanov posted that his cloud jellyfish video was "an unindentified object composited with amateur footage" and that "everything done with Blender (camera tracking, sculpting, some barely noticeable animation, rendering with Cycles, compositing)".
 
-![](/images/stories/ufo_videos/video102_3.JPG)
+![]({{ '/images/stories/ufo_videos/video102_3.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video102_4.JPG)
+![]({{ '/images/stories/ufo_videos/video102_4.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video102_5.JPG)
+![]({{ '/images/stories/ufo_videos/video102_5.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video102_6.JPG)
+![]({{ '/images/stories/ufo_videos/video102_6.JPG' | relative_url }})
 
 The captions to the original footage included a link to [Anton Ilmyanov's website](http://ilmyanov.com/), which promotes some of his other videos. Those videos demonstrate Anton Ilmyanov's (considerable) talents for creating science-fiction themed CGI (Computer Generated Graphics), again created using the Blender software package.
 
@@ -79,4 +79,4 @@ Relevant discussions on the Facebook include the following, which includes sever
 
 2015 (May) discussion on [the TrueReality.Org page](https://www.facebook.com/truereality.org/posts/1017686471576737)
 
-![](/images/stories/ufo_videos/video102_2d.jpg)
+![]({{ '/images/stories/ufo_videos/video102_2d.jpg' | relative_url }})

@@ -42,13 +42,13 @@ This video appears to be footage from a dashboard camera (a "dashcam") showing a
 
 Screen shots from the video are included below for ease of identification:
 
-![](/images/stories/ufo_videos/video077_1.JPG)
+![]({{ '/images/stories/ufo_videos/video077_1.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video077_2.JPG)
+![]({{ '/images/stories/ufo_videos/video077_2.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video077_3.JPG)
+![]({{ '/images/stories/ufo_videos/video077_3.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video077_4.JPG)
+![]({{ '/images/stories/ufo_videos/video077_4.JPG' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this video
@@ -60,7 +60,7 @@ This video appears online with titles such as "alien attacks police officer CNN 
 
 This video was in fact one of the "Promicin" series of online videos created to advertise a new season of the science-fiction series "[The 4400](http://www.imdb.com/title/tt0389564/)".
 
-![](/images/stories/ufo_videos/video077_5.JPG)
+![]({{ '/images/stories/ufo_videos/video077_5.JPG' | relative_url }})
 
 "[The 4400](http://www.imdb.com/title/tt0389564/)" was a rather good science-fiction series originally broadcast in 2004 to 2007. In the pilot episode, an enormous ball of light deposits a group of exactly 4400 people in the Cascade Range foothills near Mount Rainier, Washington. Each of the 4400 had disappeared at various times starting from 1946 in a beam of white light. None of the 4400 have aged from the time of their disappearance. A number of the returnees begin to manifest paranormal abilities, such as telekinesis, telepathy and precognition, as well as other "gifts".
 
@@ -72,7 +72,7 @@ The video now circulating as allegedly showing an alien attacking a police offic
 
 The original version of the video began and ended with prominent references to "The 4400" and an associated website (see the screenshot below). Those indications that the video was advertising "The 4400" have been stripped out of the copies now posted on Youtube
 
-![](/images/stories/ufo_videos/video077_6.JPG)
+![]({{ '/images/stories/ufo_videos/video077_6.JPG' | relative_url }})
 
 The original video (including the reference to "The 4400") is embedded below:
 
@@ -99,4 +99,4 @@ Relevant discussions on the AboveTopSecret.com forum include the following:
 
 A brief discussion of this video on [The GodLike Productions](http://www.godlikeproductions.com/forum1/message1936282/pg1)forum ended after someone made the (incorrect) assertion that in the original video the police officer "gets shot with a gun". I have often found it amusing to see discussions come to an end when an apparently logical explanation (albeit unsupported by any evidence and in fact completely false...) is asserted in a confident manner.
 
-![](/images/stories/ufo_videos/video077_1d.jpg)
+![]({{ '/images/stories/ufo_videos/video077_1d.jpg' | relative_url }})

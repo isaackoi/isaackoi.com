@@ -14,9 +14,9 @@ header: {"preview_image": "/book-covers/1931882444.jpg"}
 book: {"identifiers": ["1931882444", "0060186429"], "primary_isbn": "1931882444", "cover_image": "/book-covers/1931882444.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Jim Keith](/ufo-history/ufo-personalities/keith-jim)'s book “[Casebook on Alternative 3](/ufo-history/ufo-books/keith-jim-casebook-on-alternative-3)” ([1994](/tags/1994)) (available [on Amazon USA](http://www.amazon.com/dp/1931882444/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1931882444/?&tag=ufot-21))
+Brief review to be added of [Jim Keith]({{ '/ufo-history/ufo-personalities/keith-jim' | relative_url }})'s book “[Casebook on Alternative 3]({{ '/ufo-history/ufo-books/keith-jim-casebook-on-alternative-3' | relative_url }})” ([1994]({{ '/tags/1994' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1931882444/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1931882444/?&tag=ufot-21))
 
-See also the entry in relation to the broadcast of "Alternative 3" on Anglia Television (England) on 20 June [1977](/tags/1977).
+See also the entry in relation to the broadcast of "Alternative 3" on Anglia Television (England) on 20 June [1977]({{ '/tags/1977' | relative_url }}).
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/marrs-jim">Marrs, Jim</a> in his “<a href="/ufo-history/ufo-books/marrs-jim-alien-agenda">Alien Agenda</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0060186429/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0060186429/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 172-176 (in Chapter 6) of the Harper Collins paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/marrs-jim' | relative_url }}">Marrs, Jim</a> in his “<a href="{{ '/ufo-history/ufo-books/marrs-jim-alien-agenda' | relative_url }}">Alien Agenda</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0060186429/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0060186429/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 172-176 (in Chapter 6) of the Harper Collins paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>

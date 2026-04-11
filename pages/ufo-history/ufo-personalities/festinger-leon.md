@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/festinger_leon_2.jpg"}
 ---
 
-![festinger_leon_2](/images/stories/ufo_personalities/festinger_leon_2.jpg)
+![festinger_leon_2]({{ '/images/stories/ufo_personalities/festinger_leon_2.jpg' | relative_url }})
 
 *Leon Festinger*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1956">1956</a></p>
+<p><a href="{{ '/tags/1956' | relative_url }}">1956</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/festinger-leon">Festinger, Leon</a> and Riecken, Henry and Schachter, Stanley “<a href="/ufo-history/ufo-books/festinger-leon-and-riecken-henry-and-schachter-stanley-when-prophecy-fails">When Prophecy Fails</a>” (<a href="/tags/1956">1956</a>) (available <a href="http://www.amazon.com/dp/1905177194/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1905177194/ref=nosim?tag=ufot-21">on Amazon UK</a>). Focuses on a group headed by Marion Dorothy Martin (“Mrs Keech”).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/festinger-leon' | relative_url }}">Festinger, Leon</a> and Riecken, Henry and Schachter, Stanley “<a href="{{ '/ufo-history/ufo-books/festinger-leon-and-riecken-henry-and-schachter-stanley-when-prophecy-fails' | relative_url }}">When Prophecy Fails</a>” (<a href="{{ '/tags/1956' | relative_url }}">1956</a>) (available <a href="http://www.amazon.com/dp/1905177194/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1905177194/ref=nosim?tag=ufot-21">on Amazon UK</a>). Focuses on a group headed by Marion Dorothy Martin (“Mrs Keech”).</p>
 </td>
 </tr>
 </tbody>
@@ -83,10 +83,10 @@ For discussion of Festinger see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1974">1974</a></p>
+<p><a href="{{ '/tags/1974' | relative_url }}">1974</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/emenegger-robert">Emenegger, Robert</a> in his “<a href="/ufo-history/ufo-books/emenegger-robert-ufos-past-present-and-future">UFOs Past, Present and Future</a>” (available <a href="http://www.amazon.com/dp/0345241894/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0345241894/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 130 (in Chapter 19) of the silver covered Ballantine paperback edition first printing, at page 147 of the blue covered Ballantine paperback edition eighth printing.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/emenegger-robert' | relative_url }}">Emenegger, Robert</a> in his “<a href="{{ '/ufo-history/ufo-books/emenegger-robert-ufos-past-present-and-future' | relative_url }}">UFOs Past, Present and Future</a>” (available <a href="http://www.amazon.com/dp/0345241894/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0345241894/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 130 (in Chapter 19) of the silver covered Ballantine paperback edition first printing, at page 147 of the blue covered Ballantine paperback edition eighth printing.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -95,7 +95,7 @@ For discussion of Festinger see the following:
 </thead>
 </table>
 
-See also the references provided in the entry for “[When Prophecy Fails](/ufo-history/ufo-books/festinger-leon-and-riecken-henry-and-schachter-stanley-when-prophecy-fails)” ([1956](/tags/1956)) (available [on Amazon USA](http://www.amazon.com/dp/1905177194/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1905177194/ref=nosim?tag=ufot-21))..
+See also the references provided in the entry for “[When Prophecy Fails]({{ '/ufo-history/ufo-books/festinger-leon-and-riecken-henry-and-schachter-stanley-when-prophecy-fails' | relative_url }})” ([1956]({{ '/tags/1956' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1905177194/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1905177194/ref=nosim?tag=ufot-21))..
 
 <a id="other"></a>
 ### Other Material

@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0880642262.jpg"}
 book: {"identifiers": ["0880642262"], "primary_isbn": "0880642262", "cover_image": "/book-covers/0880642262.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Colin Wilson](/ufo-history/ufo-personalities/wilson-colin)'s book “[Alien Dawn](/ufo-history/ufo-books/wilson-colin-alien-dawn)” ([1998](/tags/1998)) (available [on Amazon USA](http://www.amazon.com/dp/0880642262/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0880642262/?&tag=ufot-21))
+Brief review to be added of [Colin Wilson]({{ '/ufo-history/ufo-personalities/wilson-colin' | relative_url }})'s book “[Alien Dawn]({{ '/ufo-history/ufo-books/wilson-colin-alien-dawn' | relative_url }})” ([1998]({{ '/tags/1998' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0880642262/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0880642262/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

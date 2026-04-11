@@ -14,7 +14,7 @@ header: {"preview_image": "https://covers.openlibrary.org/b/isbn/0816022763-L.jp
 book: {"identifiers": ["0816022763"], "primary_isbn": "0816022763", "cover_image": "https://covers.openlibrary.org/b/isbn/0816022763-L.jpg?default=false", "cover_source": "openlibrary"}
 ---
 
-Brief review to be added of Joseph A Angelo's book “[The Extraterrestrial Encyclopedia: Man’s Search for Life in Outer Space](/ufo-history/ufo-books/angelo-joseph-a-the-extraterrestrial-encyclopedia)” ([1985](/tags/1985)) (available [on Amazon USA](http://www.amazon.com/dp/0816022763/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0816022763/?&tag=ufot-21))
+Brief review to be added of Joseph A Angelo's book “[The Extraterrestrial Encyclopedia: Man’s Search for Life in Outer Space]({{ '/ufo-history/ufo-books/angelo-joseph-a-the-extraterrestrial-encyclopedia' | relative_url }})” ([1985]({{ '/tags/1985' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0816022763/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0816022763/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

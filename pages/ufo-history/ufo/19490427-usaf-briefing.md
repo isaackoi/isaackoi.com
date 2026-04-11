@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -23,7 +23,7 @@ On 27 April
 
 , there was a briefing for the USAF Deputy Chief of Staff for Operations and his staff on UFOs by Directorate of Intelligence personnel.
 
-Directorate of Intelligence, USAF, Decimal Correspondence File, "Flying Discs," [1949](/tags/1949), National Archives II, College Park Maryland.
+Directorate of Intelligence, USAF, Decimal Correspondence File, "Flying Discs," [1949]({{ '/tags/1949' | relative_url }}), National Archives II, College Park Maryland.
 
 Sections below
 
@@ -70,7 +70,7 @@ For discussion see the following:
 <p> </p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/aldrich-jan">Aldrich, Jan</a> in an article available online on the <a href="/ufo-history/ufo-personalities/project-1947">Project 1947</a> website at: <a href="http://www.project1947.com/fig/49docdex.htm">http://www.project1947.com/fig/49docdex.htm</a></p>
+<p><a href="{{ '/ufo-history/ufo-personalities/aldrich-jan' | relative_url }}">Aldrich, Jan</a> in an article available online on the <a href="{{ '/ufo-history/ufo-personalities/project-1947' | relative_url }}">Project 1947</a> website at: <a href="http://www.project1947.com/fig/49docdex.htm">http://www.project1947.com/fig/49docdex.htm</a></p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

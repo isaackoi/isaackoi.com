@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/green_kit_2.jpg"}
 ---
 
-![green_kit_2](/images/stories/ufo_personalities/green_kit_2.jpg)
+![green_kit_2]({{ '/images/stories/ufo_personalities/green_kit_2.jpg' | relative_url }})
 
 *Kit Green*
 

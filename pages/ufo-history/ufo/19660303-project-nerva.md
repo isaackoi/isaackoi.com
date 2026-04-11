@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -63,10 +63,10 @@ For discussion of NERVA and related projects see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1985">1985</a></p>
+<p><a href="{{ '/tags/1985' | relative_url }}">1985</a></p>
 </td>
 <td valign="top" width="547">
-<p>Angelo, Joseph A in his “<a href="/ufo-history/ufo-books/angelo-joseph-a-the-extraterrestrial-encyclopedia">The Extraterrestrial Encyclopedia: Man’s Search for Life in Outer Space</a>” (<a href="/tags/1985">1985</a>) (available <a href="http://www.amazon.com/dp/0816022763/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0816022763/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 186-187 (in the entry entitled “space nuclear propulsion”) of the revised <a href="/tags/1991">1991</a> Fact on File hardback edition.</p>
+<p>Angelo, Joseph A in his “<a href="{{ '/ufo-history/ufo-books/angelo-joseph-a-the-extraterrestrial-encyclopedia' | relative_url }}">The Extraterrestrial Encyclopedia: Man’s Search for Life in Outer Space</a>” (<a href="{{ '/tags/1985' | relative_url }}">1985</a>) (available <a href="http://www.amazon.com/dp/0816022763/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0816022763/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 186-187 (in the entry entitled “space nuclear propulsion”) of the revised <a href="{{ '/tags/1991' | relative_url }}">1991</a> Fact on File hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -74,10 +74,10 @@ For discussion of NERVA and related projects see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2003">2003</a></p>
+<p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/darling-david">Darling, David</a> in his online encyclopedia, “The Encyclopedia of Astrobiology, Astronomy and Spaceflight” (<a href="/tags/2003">2003</a>) in the entry entitled “NERVA (“Nuclear Engine for Rocket Vehicle Application”)”. The relevant entry is available online at: “<a href="http://www.daviddarling.info/encyclopedia/N/NERVA.html">http://www.daviddarling.info/encyclopedia/N/NERVA.html</a></p>
+<p><a href="{{ '/ufo-history/ufo-personalities/darling-david' | relative_url }}">Darling, David</a> in his online encyclopedia, “The Encyclopedia of Astrobiology, Astronomy and Spaceflight” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) in the entry entitled “NERVA (“Nuclear Engine for Rocket Vehicle Application”)”. The relevant entry is available online at: “<a href="http://www.daviddarling.info/encyclopedia/N/NERVA.html">http://www.daviddarling.info/encyclopedia/N/NERVA.html</a></p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -85,10 +85,10 @@ For discussion of NERVA and related projects see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2008">2008</a></p>
+<p><a href="{{ '/tags/2008' | relative_url }}">2008</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/friedman-stanton">Friedman, Stanton</a> in his “<a href="/ufo-history/ufo-books/friedman-stanton-flying-saucers-and-science-a-scientist-investigates-the-mysteries-of-ufos">Flying Saucers and Science : A Scientist Investigates the Mysteries of UFOs</a>” (<a href="/tags/2008">2008</a>) (available <a href="http://www.amazon.com/dp/1601630115/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1601630115/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 69-80 (in Chapter 2) of the New Page softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/friedman-stanton' | relative_url }}">Friedman, Stanton</a> in his “<a href="{{ '/ufo-history/ufo-books/friedman-stanton-flying-saucers-and-science-a-scientist-investigates-the-mysteries-of-ufos' | relative_url }}">Flying Saucers and Science : A Scientist Investigates the Mysteries of UFOs</a>” (<a href="{{ '/tags/2008' | relative_url }}">2008</a>) (available <a href="http://www.amazon.com/dp/1601630115/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1601630115/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 69-80 (in Chapter 2) of the New Page softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>12</p>
@@ -96,10 +96,10 @@ For discussion of NERVA and related projects see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1978">1978</a></p>
+<p><a href="{{ '/tags/1978' | relative_url }}">1978</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/friedman-stanton">Friedman, Stanton</a> T in “<a href="/ufo-history/ufo-books/geis-larry-and-florin-fabrice-editors-worlds-beyond">Worlds Beyond</a>” (<a href="/tags/1978">1978</a>) (available <a href="http://www.amazon.com/dp/0060804998/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0060804998/ref=nosim?tag=ufot-21">on Amazon UK</a>) (edited by Larry Geis and Fabrice Florin) at page 218 (in Sequence 21 entitled “Flying Saucers Are Real”) of the And/Or softcover edition (with the same page numbering in the Perennial Library paperback edition published under the title “Moving Into Space: The Myths and Realities of Extraterrestrial Life”).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/friedman-stanton' | relative_url }}">Friedman, Stanton</a> T in “<a href="{{ '/ufo-history/ufo-books/geis-larry-and-florin-fabrice-editors-worlds-beyond' | relative_url }}">Worlds Beyond</a>” (<a href="{{ '/tags/1978' | relative_url }}">1978</a>) (available <a href="http://www.amazon.com/dp/0060804998/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0060804998/ref=nosim?tag=ufot-21">on Amazon UK</a>) (edited by Larry Geis and Fabrice Florin) at page 218 (in Sequence 21 entitled “Flying Saucers Are Real”) of the And/Or softcover edition (with the same page numbering in the Perennial Library paperback edition published under the title “Moving Into Space: The Myths and Realities of Extraterrestrial Life”).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -107,10 +107,10 @@ For discussion of NERVA and related projects see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/harrison-albert-a">Harrison, Albert A</a> in his “<a href="/ufo-history/ufo-books/harrison-albert-a-spacefaring-the-human-dimension">Spacefaring : The Human Dimension</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/0520224531/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0520224531/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 244, 245 (in Chapter 14) of the California softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/harrison-albert-a' | relative_url }}">Harrison, Albert A</a> in his “<a href="{{ '/ufo-history/ufo-books/harrison-albert-a-spacefaring-the-human-dimension' | relative_url }}">Spacefaring : The Human Dimension</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/0520224531/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0520224531/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 244, 245 (in Chapter 14) of the California softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -118,10 +118,10 @@ For discussion of NERVA and related projects see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1989">1989</a></p>
+<p><a href="{{ '/tags/1989' | relative_url }}">1989</a></p>
 </td>
 <td valign="top" width="547">
-<p>Mallove, Eugene F and Matloff, Gregory L in their “<a href="/ufo-history/ufo-books/mallove-eugene-and-matloff-gregory-the-starflight-handbook">The Starflight Handbook</a>” (<a href="/tags/1989">1989</a>) (available <a href="http://www.amazon.com/dp/0471619124/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0471619124/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 44, 46, 47 (in Chapter 3) of the Wiley hardback edition.</p>
+<p>Mallove, Eugene F and Matloff, Gregory L in their “<a href="{{ '/ufo-history/ufo-books/mallove-eugene-and-matloff-gregory-the-starflight-handbook' | relative_url }}">The Starflight Handbook</a>” (<a href="{{ '/tags/1989' | relative_url }}">1989</a>) (available <a href="http://www.amazon.com/dp/0471619124/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0471619124/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 44, 46, 47 (in Chapter 3) of the Wiley hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -129,10 +129,10 @@ For discussion of NERVA and related projects see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2002">2002</a></p>
+<p><a href="{{ '/tags/2002' | relative_url }}">2002</a></p>
 </td>
 <td valign="top" width="547">
-<p>Mann, Adrian on his website “This is rocket science” (<a href="/tags/2002">2002</a>), at the link below: <a href="http://www.aemann.pwp.blueyonder.co.uk/spacecraft/nerva/nerva.html">http://www.aemann.pwp.blueyonder.co.uk/spacecraft/nerva/nerva.html</a></p>
+<p>Mann, Adrian on his website “This is rocket science” (<a href="{{ '/tags/2002' | relative_url }}">2002</a>), at the link below: <a href="http://www.aemann.pwp.blueyonder.co.uk/spacecraft/nerva/nerva.html">http://www.aemann.pwp.blueyonder.co.uk/spacecraft/nerva/nerva.html</a></p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -140,10 +140,10 @@ For discussion of NERVA and related projects see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1981">1981</a></p>
+<p><a href="{{ '/tags/1981' | relative_url }}">1981</a></p>
 </td>
 <td valign="top" width="547">
-<p>Powers, Robert M in his “The Coattails of God: The Trip to the Stars” (<a href="/tags/1981">1981</a>) (available <a href="http://www.amazon.com/dp/0446512311/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0446512311/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 41-43 (in Chapter 3) of the Warner paperback edition.</p>
+<p>Powers, Robert M in his “The Coattails of God: The Trip to the Stars” (<a href="{{ '/tags/1981' | relative_url }}">1981</a>) (available <a href="http://www.amazon.com/dp/0446512311/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0446512311/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 41-43 (in Chapter 3) of the Warner paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -151,10 +151,10 @@ For discussion of NERVA and related projects see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1973">1973</a></p>
+<p><a href="{{ '/tags/1973' | relative_url }}">1973</a></p>
 </td>
 <td valign="top" width="547">
-<p>Roulet, Alfred in his “The Search for Intelligent Life in Outer Space” (<a href="/tags/1973">1973</a>) (available <a href="http://www.amazon.com/dp/0425033198/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0425033198/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 56-57 (in the unnumbered chapter entitled “Hello, Out There”) of the Berkley paperback edition.</p>
+<p>Roulet, Alfred in his “The Search for Intelligent Life in Outer Space” (<a href="{{ '/tags/1973' | relative_url }}">1973</a>) (available <a href="http://www.amazon.com/dp/0425033198/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0425033198/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 56-57 (in the unnumbered chapter entitled “Hello, Out There”) of the Berkley paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -162,10 +162,10 @@ For discussion of NERVA and related projects see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/zubrin-robert">Zubrin, Robert</a> in his “Entering Space: Creating a Spacefaring Civilization” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/1585420360/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1585420360/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 138 (in Chapter 7) of the Tarcher Putnam hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/zubrin-robert' | relative_url }}">Zubrin, Robert</a> in his “Entering Space: Creating a Spacefaring Civilization” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/1585420360/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1585420360/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 138 (in Chapter 7) of the Tarcher Putnam hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

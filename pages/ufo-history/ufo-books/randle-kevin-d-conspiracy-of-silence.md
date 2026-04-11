@@ -14,7 +14,7 @@ header: {"preview_image": "https://covers.openlibrary.org/b/isbn/0380799189-L.jp
 book: {"identifiers": ["0380799189"], "primary_isbn": "0380799189", "cover_image": "https://covers.openlibrary.org/b/isbn/0380799189-L.jpg?default=false", "cover_source": "openlibrary"}
 ---
 
-Brief review to be added of [Kevin Randle](/ufo-history/ufo-personalities/randle-kevin)'s book “[Conspiracy of Silence](/ufo-history/ufo-books/randle-kevin-d-conspiracy-of-silence)” ([1997](/tags/1997)) (available [on Amazon USA](http://www.amazon.com/dp/0380799189/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0380799189/?&tag=ufot-21))
+Brief review to be added of [Kevin Randle]({{ '/ufo-history/ufo-personalities/randle-kevin' | relative_url }})'s book “[Conspiracy of Silence]({{ '/ufo-history/ufo-books/randle-kevin-d-conspiracy-of-silence' | relative_url }})” ([1997]({{ '/tags/1997' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0380799189/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0380799189/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

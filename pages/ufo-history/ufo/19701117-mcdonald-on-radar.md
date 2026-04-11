@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -59,7 +59,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-Discussed by [Druffel, Ann](/ufo-history/ufo-personalities/druffel-ann) in her “[Firestorm: Dr James E McDonald's Fight for UFO Science](/ufo-history/ufo-books/druffel-ann-firestorm-dr-james-e-mcdonalds-fight-for-ufo-science)” ([2003](/tags/2003)) (available [on Amazon USA](http://www.amazon.com/dp/0926524585/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0926524585/ref=nosim?tag=ufot-21)) at page 483 (in Chapter 17) of the Wild Flower Press softcover edition.
+Discussed by [Druffel, Ann]({{ '/ufo-history/ufo-personalities/druffel-ann' | relative_url }}) in her “[Firestorm: Dr James E McDonald's Fight for UFO Science]({{ '/ufo-history/ufo-books/druffel-ann-firestorm-dr-james-e-mcdonalds-fight-for-ufo-science' | relative_url }})” ([2003]({{ '/tags/2003' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0926524585/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0926524585/ref=nosim?tag=ufot-21)) at page 483 (in Chapter 17) of the Wild Flower Press softcover edition.
 
 <a id="other"></a>
 ### Other Material

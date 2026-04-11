@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/no_avatar.jpg"}
 ---
 
-![](/images/stories/no_avatar.jpg)
+![]({{ '/images/stories/no_avatar.jpg' | relative_url }})
 
 *Image needed*
 
@@ -61,10 +61,10 @@ For discussion of Ernie Kellerstrass see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2006">2006</a></p>
+<p><a href="{{ '/tags/2006' | relative_url }}">2006</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/collins-robert-m">Collins, Robert M</a> (with <a href="/ufo-history/ufo-personalities/doty-richard">Doty, Richard C</a> and <a href="/ufo-history/ufo-personalities/cooper-timothy-s">Cooper, Timothy S</a>) in “<a href="/ufo-history/ufo-books/collins-robert-m-with-doty-richard-c-and-cooper-timothy-s-exempt-from-disclosure">Exempt From Disclosure</a>” (<a href="/tags/2006">2006</a>) (available <a href="http://www.amazon.com/dp/0976642638/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0976642638/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 3 (in the Introduction), 6-7, 8, 9, 10, 11 (in Section 1, Chapter 1), 103 (in Section 2, Chapter 4), 129 (in Section 3, Chapter 1) of the Peregrine Communications softcover second edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/collins-robert-m' | relative_url }}">Collins, Robert M</a> (with <a href="{{ '/ufo-history/ufo-personalities/doty-richard' | relative_url }}">Doty, Richard C</a> and <a href="{{ '/ufo-history/ufo-personalities/cooper-timothy-s' | relative_url }}">Cooper, Timothy S</a>) in “<a href="{{ '/ufo-history/ufo-books/collins-robert-m-with-doty-richard-c-and-cooper-timothy-s-exempt-from-disclosure' | relative_url }}">Exempt From Disclosure</a>” (<a href="{{ '/tags/2006' | relative_url }}">2006</a>) (available <a href="http://www.amazon.com/dp/0976642638/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0976642638/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 3 (in the Introduction), 6-7, 8, 9, 10, 11 (in Section 1, Chapter 1), 103 (in Section 2, Chapter 4), 129 (in Section 3, Chapter 1) of the Peregrine Communications softcover second edition.</p>
 </td>
 <td valign="top" width="52">
 <p>9</p>
@@ -72,10 +72,10 @@ For discussion of Ernie Kellerstrass see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2006">2006</a></p>
+<p><a href="{{ '/tags/2006' | relative_url }}">2006</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/shandera-jaime-h">Shandera, Jaime H</a> in “<a href="/ufo-history/ufo-books/collins-robert-m-with-doty-richard-c-and-cooper-timothy-s-exempt-from-disclosure">Exempt From Disclosure</a>” (<a href="/tags/2006">2006</a>) (available <a href="http://www.amazon.com/dp/0976642638/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0976642638/ref=nosim?tag=ufot-21">on Amazon UK</a>) (by <a href="/ufo-history/ufo-personalities/collins-robert-m">Collins, Robert M</a> (with <a href="/ufo-history/ufo-personalities/doty-richard">Doty, Richard C</a> and <a href="/ufo-history/ufo-personalities/cooper-timothy-s">Cooper, Timothy S</a>)) at pages 91-92 (in the Addendum to Section 2, Chapter 4) of the Peregrine Communications softcover second edition.<strong> </strong></p>
+<p><a href="{{ '/ufo-history/ufo-personalities/shandera-jaime-h' | relative_url }}">Shandera, Jaime H</a> in “<a href="{{ '/ufo-history/ufo-books/collins-robert-m-with-doty-richard-c-and-cooper-timothy-s-exempt-from-disclosure' | relative_url }}">Exempt From Disclosure</a>” (<a href="{{ '/tags/2006' | relative_url }}">2006</a>) (available <a href="http://www.amazon.com/dp/0976642638/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0976642638/ref=nosim?tag=ufot-21">on Amazon UK</a>) (by <a href="{{ '/ufo-history/ufo-personalities/collins-robert-m' | relative_url }}">Collins, Robert M</a> (with <a href="{{ '/ufo-history/ufo-personalities/doty-richard' | relative_url }}">Doty, Richard C</a> and <a href="{{ '/ufo-history/ufo-personalities/cooper-timothy-s' | relative_url }}">Cooper, Timothy S</a>)) at pages 91-92 (in the Addendum to Section 2, Chapter 4) of the Peregrine Communications softcover second edition.<strong> </strong></p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

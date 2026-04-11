@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/031213066X.jpg"}
 book: {"identifiers": ["031213066X"], "primary_isbn": "031213066X", "cover_image": "/book-covers/031213066X.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [James Randi](/ufo-history/ufo-personalities/randi-james)'s book “[An Encyclopedia of Claims, Frauds and Hoaxes of the Occult and Supernatural](/ufo-history/ufo-books/randi-james-an-encyclopedia-of-claims-frauds-and-hoaxes-of-the-occult-and-supernatural)” ([1995](/tags/1995)) (available [on Amazon USA](http://www.amazon.com/dp/031213066X/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/031213066X/?&tag=ufot-21))
+Brief review to be added of [James Randi]({{ '/ufo-history/ufo-personalities/randi-james' | relative_url }})'s book “[An Encyclopedia of Claims, Frauds and Hoaxes of the Occult and Supernatural]({{ '/ufo-history/ufo-books/randi-james-an-encyclopedia-of-claims-frauds-and-hoaxes-of-the-occult-and-supernatural' | relative_url }})” ([1995]({{ '/tags/1995' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/031213066X/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/031213066X/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clarke-arthur-c">Clarke, Arthur C</a> in James Randi’s “<a href="/ufo-history/ufo-books/randi-james-an-encyclopedia-of-claims-frauds-and-hoaxes-of-the-occult-and-supernatural">An Encyclopedia of Claims, Frauds and Hoaxes of the Occult and Supernatural</a>” (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/031213066X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/031213066X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages xi-xiii (in the Foreword) of the St Martin’s Press hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clarke-arthur-c' | relative_url }}">Clarke, Arthur C</a> in James Randi’s “<a href="{{ '/ufo-history/ufo-books/randi-james-an-encyclopedia-of-claims-frauds-and-hoaxes-of-the-occult-and-supernatural' | relative_url }}">An Encyclopedia of Claims, Frauds and Hoaxes of the Occult and Supernatural</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/031213066X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/031213066X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages xi-xiii (in the Foreword) of the St Martin’s Press hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>

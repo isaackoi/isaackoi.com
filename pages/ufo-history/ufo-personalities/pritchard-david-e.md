@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/no_avatar.jpg"}
 ---
 
-![](/images/stories/no_avatar.jpg)
+![]({{ '/images/stories/no_avatar.jpg' | relative_url }})
 
 *Image needed*
 
@@ -57,10 +57,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/bryan-c-d-b">Bryan, C D B</a> in his “<a href="/ufo-history/ufo-books/bryan-c-d-b-close-encounters-of-the-fourth-kind">Close Encounters of the Fourth Kind</a>: Alien Abduction, UFOs, and the Conference at MIT” (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/0964491702/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0964491702/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 3 (in Chapter 1), 12 –13 (in Chapter 2), 50-51 (in Chapter 3) and interviewed at pages 231-236 (Chapter 8 generally) of the Weidenfeld &amp; Nicolson hardback edition (with the same page numbering in the Knopf hardback edition and the Penguin Arkana softcover edition) at pages 1-2, 13-15, 65-66, 312-320 of the Orion paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/bryan-c-d-b' | relative_url }}">Bryan, C D B</a> in his “<a href="{{ '/ufo-history/ufo-books/bryan-c-d-b-close-encounters-of-the-fourth-kind' | relative_url }}">Close Encounters of the Fourth Kind</a>: Alien Abduction, UFOs, and the Conference at MIT” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/0964491702/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0964491702/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 3 (in Chapter 1), 12 –13 (in Chapter 2), 50-51 (in Chapter 3) and interviewed at pages 231-236 (Chapter 8 generally) of the Weidenfeld &amp; Nicolson hardback edition (with the same page numbering in the Knopf hardback edition and the Penguin Arkana softcover edition) at pages 1-2, 13-15, 65-66, 312-320 of the Orion paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>11</p>

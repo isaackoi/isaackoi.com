@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0060804998.jpg"}
 book: {"identifiers": ["0060804998"], "primary_isbn": "0060804998", "cover_image": "/book-covers/0060804998.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of “[Worlds Beyond](/ufo-history/ufo-books/geis-larry-and-florin-fabrice-editors-worlds-beyond)” ([1978](/tags/1978)) (available [on Amazon USA](http://www.amazon.com/dp/0060804998/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0060804998/?&tag=ufot-21)) edited by Larry Geis and Fabrice Florin. Also published under the title “Moving Into Space: The Myths and Realities of Extraterrestrial Life”
+Brief review to be added of “[Worlds Beyond]({{ '/ufo-history/ufo-books/geis-larry-and-florin-fabrice-editors-worlds-beyond' | relative_url }})” ([1978]({{ '/tags/1978' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0060804998/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0060804998/?&tag=ufot-21)) edited by Larry Geis and Fabrice Florin. Also published under the title “Moving Into Space: The Myths and Realities of Extraterrestrial Life”
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1978">1978</a></p>
+<p><a href="{{ '/tags/1978' | relative_url }}">1978</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/vallee-jacques">Vallee, Jacques</a> in “<a href="/ufo-history/ufo-books/geis-larry-and-florin-fabrice-editors-worlds-beyond">Worlds Beyond</a>” (<a href="/tags/1978">1978</a>) (available <a href="http://www.amazon.com/dp/0060804998/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0060804998/ref=nosim?tag=ufot-21">on Amazon UK</a>) (edited by Larry Geis and Fabrice Florin) at pages vii-xii (in the Foreword) of the And/Or softcover edition (with the same page numbering in the Perennial Library paperback edition published under the title “Moving Into Space: The Myths and Realities of Extraterrestrial Life”).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/vallee-jacques' | relative_url }}">Vallee, Jacques</a> in “<a href="{{ '/ufo-history/ufo-books/geis-larry-and-florin-fabrice-editors-worlds-beyond' | relative_url }}">Worlds Beyond</a>” (<a href="{{ '/tags/1978' | relative_url }}">1978</a>) (available <a href="http://www.amazon.com/dp/0060804998/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0060804998/ref=nosim?tag=ufot-21">on Amazon UK</a>) (edited by Larry Geis and Fabrice Florin) at pages vii-xii (in the Foreword) of the And/Or softcover edition (with the same page numbering in the Perennial Library paperback edition published under the title “Moving Into Space: The Myths and Realities of Extraterrestrial Life”).</p>
 </td>
 <td valign="top" width="52">
 <p>6</p>

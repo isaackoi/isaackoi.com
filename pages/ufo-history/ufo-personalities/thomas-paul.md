@@ -13,11 +13,11 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/no_avatar.jpg"}
 ---
 
-![](/images/stories/no_avatar.jpg)
+![]({{ '/images/stories/no_avatar.jpg' | relative_url }})
 
 *Image needed*
 
-Paul Thomas was a pseudonym used by [Misraki, Paul](/ufo-history/ufo-personalities/misraki-paul).
+Paul Thomas was a pseudonym used by [Misraki, Paul]({{ '/ufo-history/ufo-personalities/misraki-paul' | relative_url }}).
 
 Books by this person include:
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1973">1973</a></p>
+<p><a href="{{ '/tags/1973' | relative_url }}">1973</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/thomas-paul">Thomas, Paul</a> (pseudonym for <a href="/ufo-history/ufo-personalities/misraki-paul">Misraki, Paul</a>) “<a href="/ufo-history/ufo-books/thomas-paul-pseudonym-for-misraki-paul-flying-saucers-through-the-ages">Flying Saucers Through The Ages</a>” (<a href="/tags/1973">1973</a>) (available <a href="http://www.amazon.com/dp/B0000CMVM6/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0000CMVM6/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/thomas-paul' | relative_url }}">Thomas, Paul</a> (pseudonym for <a href="{{ '/ufo-history/ufo-personalities/misraki-paul' | relative_url }}">Misraki, Paul</a>) “<a href="{{ '/ufo-history/ufo-books/thomas-paul-pseudonym-for-misraki-paul-flying-saucers-through-the-ages' | relative_url }}">Flying Saucers Through The Ages</a>” (<a href="{{ '/tags/1973' | relative_url }}">1973</a>) (available <a href="http://www.amazon.com/dp/B0000CMVM6/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0000CMVM6/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>

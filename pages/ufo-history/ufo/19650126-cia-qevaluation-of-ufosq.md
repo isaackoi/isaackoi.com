@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/cia_1.gif"}
 ---
 
-![cia_1](/images/stories/ufo_tags/cia_1.gif)
+![cia_1]({{ '/images/stories/ufo_tags/cia_1.gif' | relative_url }})
 
 *CIA "Evaluation of UFOs"*
 
@@ -67,10 +67,10 @@ For discussion of this memo see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p>Haines, Gerald K (National Reconnaissance Office historian) at footnotes 68-69 in his study entitled “A Die-Hard Issue : CIA's Role in the Study of UFOs, <a href="/tags/1947">1947</a>-90” in “Studies in Intelligence”, Issue <a href="/tags/1997">1997</a> Vol. 1, No. 1 (the text of the study is available online on various websites, including the CIA’s:</p>
+<p>Haines, Gerald K (National Reconnaissance Office historian) at footnotes 68-69 in his study entitled “A Die-Hard Issue : CIA's Role in the Study of UFOs, <a href="{{ '/tags/1947' | relative_url }}">1947</a>-90” in “Studies in Intelligence”, Issue <a href="{{ '/tags/1997' | relative_url }}">1997</a> Vol. 1, No. 1 (the text of the study is available online on various websites, including the CIA’s:</p>
 <p><a href="http://www.cia.gov/csi/studies/97unclass/ufo.html#ft68">http://www.cia.gov/csi/studies/97unclass/ufo.html#ft68</a> )</p>
 </td>
 <td valign="top" width="52">
@@ -79,10 +79,10 @@ For discussion of this memo see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1983">1983</a></p>
+<p><a href="{{ '/tags/1983' | relative_url }}">1983</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/klass-philip-j">Klass, Philip J</a> in “<a href="/ufo-history/ufo-books/klass-philip-j-ufos-the-public-deceived">UFOs – The Public Deceived</a>” (<a href="/tags/1983">1983</a>) (available <a href="http://www.amazon.com/dp/0879753226/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879753226/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 39 (in Chapter 4) of the Prometheus softback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/klass-philip-j' | relative_url }}">Klass, Philip J</a> in “<a href="{{ '/ufo-history/ufo-books/klass-philip-j-ufos-the-public-deceived' | relative_url }}">UFOs – The Public Deceived</a>” (<a href="{{ '/tags/1983' | relative_url }}">1983</a>) (available <a href="http://www.amazon.com/dp/0879753226/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879753226/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 39 (in Chapter 4) of the Prometheus softback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -90,10 +90,10 @@ For discussion of this memo see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sparks-brad">Sparks, Brad</a> in “<a href="/ufo-history/ufo-books/story-ronald-editor-and-green-j-richard-consulting-editor-the-encyclopedia-of-ufos">The Encyclopedia of UFOs</a>” (<a href="/tags/1980">1980</a>) edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a> (available <a href="http://www.amazon.com/dp/0385136773/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0385136773/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 72-73 (in an entry entitled “CIA Involvement”) of the NEL hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sparks-brad' | relative_url }}">Sparks, Brad</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-editor-and-green-j-richard-consulting-editor-the-encyclopedia-of-ufos' | relative_url }}">The Encyclopedia of UFOs</a>” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a> (available <a href="http://www.amazon.com/dp/0385136773/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0385136773/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 72-73 (in an entry entitled “CIA Involvement”) of the NEL hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -105,6 +105,6 @@ For discussion of this memo see the following:
 <a id="other"></a>
 ### Other Material
 
-Memo dated 26 January [1965](/tags/1965) from Donald F. Chamberlain (OSI Assistant Director) to DCI John McCone entitled “Evaluation of UFOs”.
+Memo dated 26 January [1965]({{ '/tags/1965' | relative_url }}) from Donald F. Chamberlain (OSI Assistant Director) to DCI John McCone entitled “Evaluation of UFOs”.
 
 Please use the comments section below to share references to any particularly interesting relevant articles.

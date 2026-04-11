@@ -42,13 +42,13 @@ This video appears to show a meteor-like object in the night sky, emitting spark
 
 Screen shots from the video are included below for ease of identification:
 
-![](/images/stories/ufo_videos/video084_1.JPG)
+![]({{ '/images/stories/ufo_videos/video084_1.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video084_2.JPG)
+![]({{ '/images/stories/ufo_videos/video084_2.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video084_3.JPG)
+![]({{ '/images/stories/ufo_videos/video084_3.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video084_4.JPG)
+![]({{ '/images/stories/ufo_videos/video084_4.JPG' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this video
@@ -74,7 +74,7 @@ Details of a big parachute/skydiving club at the Piracicaba airfield in 2007/200
 
 The person that filmed the event [subsequently posted details and a map online](http://www.abovetopsecret.com/forum/thread303667/pg3#pid3532729). That map is embedded below. You can clearly see the airport runway, at which 2 skydiving clubs were based, near to the location of the "UFO".
 
-![](/images/stories/ufo_videos/video084_5.jpg)
+![]({{ '/images/stories/ufo_videos/video084_5.jpg' | relative_url }})
 
 I consider the above facts highly relevant to an assessment of the likelihood that the video shows a night skydiver.
 
@@ -101,4 +101,4 @@ Relevant discussions on the AboveTopSecret.com forum include the following:
 
 2011 (February) discussion entitled "[A meteor that changes direction???](http://www.abovetopsecret.com/forum/thread664451/pg1)"
 
-![](/images/stories/ufo_videos/video084_1d.jpg)
+![]({{ '/images/stories/ufo_videos/video084_1d.jpg' | relative_url }})

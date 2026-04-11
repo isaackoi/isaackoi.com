@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/no_avatar.jpg"}
 ---
 
-![](/images/stories/no_avatar.jpg)
+![]({{ '/images/stories/no_avatar.jpg' | relative_url }})
 
 *Image needed*
 
@@ -57,10 +57,10 @@ For discussion of Dr Jack Vorona see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2007">2007</a></p>
+<p><a href="{{ '/tags/2007' | relative_url }}">2007</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/marrs-jim">Marrs, Jim</a> in his “<a href="/ufo-history/ufo-books/marrs-jim-psi-spies-the-true-story-of-americas-psychic-warfare-program">PSI Spies: The True Story of America’s Psychic Warfare Program</a>” (<a href="/tags/2007">2007</a>) (available <a href="http://www.amazon.com/dp/1564149609/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1564149609/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 176-177, 193, 195-196, 197 (in Chapter 6) of the New Page Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/marrs-jim' | relative_url }}">Marrs, Jim</a> in his “<a href="{{ '/ufo-history/ufo-books/marrs-jim-psi-spies-the-true-story-of-americas-psychic-warfare-program' | relative_url }}">PSI Spies: The True Story of America’s Psychic Warfare Program</a>” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (available <a href="http://www.amazon.com/dp/1564149609/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1564149609/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 176-177, 193, 195-196, 197 (in Chapter 6) of the New Page Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>6</p>
@@ -68,10 +68,10 @@ For discussion of Dr Jack Vorona see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/schnabel-jim">Schnabel, Jim</a> in his “<a href="/ufo-history/ufo-books/schnabel-jim-remote-viewers-the-secret-history-of-americas-psychic-spies">Remote Viewers : The Secret History of America’s Psychic Spies</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0440614058/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0440614058/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 55 (in Chapter 3), 220-228 (in Chapter 15), 234 (in Chapter 16), 260 (in Chapter 17), 271-272 (in Chapter 18), 301 (in Chapter 19), 317-321 (in Chapter 20), 328, 337-338, 345, 347 (in Chapter 21), 351, 367-368, 370-371 (in Chapter 22) of the Dell paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/schnabel-jim' | relative_url }}">Schnabel, Jim</a> in his “<a href="{{ '/ufo-history/ufo-books/schnabel-jim-remote-viewers-the-secret-history-of-americas-psychic-spies' | relative_url }}">Remote Viewers : The Secret History of America’s Psychic Spies</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0440614058/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0440614058/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 55 (in Chapter 3), 220-228 (in Chapter 15), 234 (in Chapter 16), 260 (in Chapter 17), 271-272 (in Chapter 18), 301 (in Chapter 19), 317-321 (in Chapter 20), 328, 337-338, 345, 347 (in Chapter 21), 351, 367-368, 370-371 (in Chapter 22) of the Dell paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>30</p>
@@ -79,10 +79,10 @@ For discussion of Dr Jack Vorona see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2005">2005</a></p>
+<p><a href="{{ '/tags/2005' | relative_url }}">2005</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/smith-paul">Smith, Paul</a> in his “<a href="/ufo-history/ufo-books/smith-paul-reading-the-enemys-mind">Reading the Enemy’s Mind</a>” (<a href="/tags/2005">2005</a>) (available <a href="http://www.amazon.com/dp/0312875150/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312875150/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 102, 122, 226, 227, 269, 270, 300, 329, 333, 346, 358, 362, 377, 385, 401, 402, 420, 434 of the Forge hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/smith-paul' | relative_url }}">Smith, Paul</a> in his “<a href="{{ '/ufo-history/ufo-books/smith-paul-reading-the-enemys-mind' | relative_url }}">Reading the Enemy’s Mind</a>” (<a href="{{ '/tags/2005' | relative_url }}">2005</a>) (available <a href="http://www.amazon.com/dp/0312875150/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312875150/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 102, 122, 226, 227, 269, 270, 300, 329, 333, 346, 358, 362, 377, 385, 401, 402, 420, 434 of the Forge hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>18</p>

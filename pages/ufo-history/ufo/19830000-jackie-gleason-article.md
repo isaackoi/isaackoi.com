@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -67,10 +67,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/dodd-tony">Dodd, Tony</a> “<a href="/ufo-history/ufo-books/dodd-tony-alien-investigator">Alien Investigator</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0747261415/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0747261415/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 45-46 (in Chapter 2) of the Headline paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dodd-tony' | relative_url }}">Dodd, Tony</a> “<a href="{{ '/ufo-history/ufo-books/dodd-tony-alien-investigator' | relative_url }}">Alien Investigator</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0747261415/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0747261415/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 45-46 (in Chapter 2) of the Headline paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -78,10 +78,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2005">2005</a></p>
+<p><a href="{{ '/tags/2005' | relative_url }}">2005</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/luckman-michael">Luckman, Michael</a> in his “<a href="/ufo-history/ufo-books/luckman-michael-alien-rock-the-rock-n-roll-extraterrestrial-connection">Alien Rock : The Rock ‘n’ Roll Extraterrestrial Connection</a>” (<a href="/tags/2005">2005</a>) (available <a href="http://www.amazon.com/dp/074346673X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/074346673X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 292 (in Chapter 9) of the Pocket Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/luckman-michael' | relative_url }}">Luckman, Michael</a> in his “<a href="{{ '/ufo-history/ufo-books/luckman-michael-alien-rock-the-rock-n-roll-extraterrestrial-connection' | relative_url }}">Alien Rock : The Rock ‘n’ Roll Extraterrestrial Connection</a>” (<a href="{{ '/tags/2005' | relative_url }}">2005</a>) (available <a href="http://www.amazon.com/dp/074346673X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/074346673X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 292 (in Chapter 9) of the Pocket Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -89,10 +89,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p>Munn, Michael in his “<a href="/ufo-history/ufo-books/munn-michael-x-rated-the-paranormal-experiences-of-the-movie-star-greats">X-Rated : The Paranormal Experiences of the Movie Star Greats</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/1861050178/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1861050178/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 150-153 (in Chapter 10) of the Robson Books hardback edition.</p>
+<p>Munn, Michael in his “<a href="{{ '/ufo-history/ufo-books/munn-michael-x-rated-the-paranormal-experiences-of-the-movie-star-greats' | relative_url }}">X-Rated : The Paranormal Experiences of the Movie Star Greats</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/1861050178/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1861050178/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 150-153 (in Chapter 10) of the Robson Books hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -100,10 +100,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sachs-margaret">Sachs, Margaret</a> in her “<a href="/ufo-history/ufo-books/sachs-margaret-the-ufo-encyclopedia">The UFO Encyclopedia</a>“ (<a href="/tags/1980">1980</a> (available <a href="http://www.amazon.com/dp/0399124217/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0399124217/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 124-125 (in an entry entitled “Gleason, Jackie”) of the Corgi softback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sachs-margaret' | relative_url }}">Sachs, Margaret</a> in her “<a href="{{ '/ufo-history/ufo-books/sachs-margaret-the-ufo-encyclopedia' | relative_url }}">The UFO Encyclopedia</a>“ (<a href="{{ '/tags/1980' | relative_url }}">1980</a> (available <a href="http://www.amazon.com/dp/0399124217/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0399124217/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 124-125 (in an entry entitled “Gleason, Jackie”) of the Corgi softback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -111,7 +111,7 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2003">2003</a></p>
+<p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
 <p>Young, Kenny in various emails available online, including at the following webpage:</p>

@@ -13,13 +13,13 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/hardin_charles_1.gif"}
 ---
 
-![hardin_charles_1](/images/stories/ufo_personalities/hardin_charles_1.gif)
+![hardin_charles_1]({{ '/images/stories/ufo_personalities/hardin_charles_1.gif' | relative_url }})
 
 *Charles Hardin*
 
 Brief comments to be added on this individual.
 
-Captain [Charles Hardin](/ufo-history/ufo-personalities/hardin-charles) was appointed head of Project Blue Book in [1954](/tags/1954).
+Captain [Charles Hardin]({{ '/ufo-history/ufo-personalities/hardin-charles' | relative_url }}) was appointed head of Project Blue Book in [1954]({{ '/tags/1954' | relative_url }}).
 
 Sections below:
 
@@ -41,7 +41,7 @@ The table below includes references to relevant discussions in UFO/SETI books no
 
 Many of the tables of references on this website are considerably longer than the references to books found on most other UFO websites. Indeed, some are probably the longest that have been collated in relation to some events and personalities. I hope that these tables are found to be a useful contribution to UFOlogy.
 
-For discussion of Captain [Charles Hardin](/ufo-history/ufo-personalities/hardin-charles) and/or his appointment see the following:
+For discussion of Captain [Charles Hardin]({{ '/ufo-history/ufo-personalities/hardin-charles' | relative_url }}) and/or his appointment see the following:
 
 <table border="1" cellpadding="0" cellspacing="0" class="sortable" data-sortable="true" id="sortabletable">
 <thead>
@@ -61,10 +61,10 @@ For discussion of Captain [Charles Hardin](/ufo-history/ufo-personalities/hardin
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) in Volume 2:L-Z at page 731 (forming part of an entry entitled “Project Blue Book” at pages 730-742) of the Omnigraphics hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition' | relative_url }}">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) in Volume 2:L-Z at page 731 (forming part of an entry entitled “Project Blue Book” at pages 730-742) of the Omnigraphics hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -72,10 +72,10 @@ For discussion of Captain [Charles Hardin](/ufo-history/ufo-personalities/hardin
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1975">1975</a></p>
+<p><a href="{{ '/tags/1975' | relative_url }}">1975</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/hynek-j-allen">Hynek, J Allen</a> and <a href="/ufo-history/ufo-personalities/vallee-jacques">Vallee, Jacques</a> in their “<a href="/ufo-history/ufo-books/hynek-allen-and-vallee-jacques-the-edge-of-reality">The Edge of Reality</a>” (<a href="/tags/1975">1975</a>) (available <a href="http://www.amazon.com/dp/B000RATSR4/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000RATSR4/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 190, 191-192 (in Chapter 7) of the Henry Regnery hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hynek-j-allen' | relative_url }}">Hynek, J Allen</a> and <a href="{{ '/ufo-history/ufo-personalities/vallee-jacques' | relative_url }}">Vallee, Jacques</a> in their “<a href="{{ '/ufo-history/ufo-books/hynek-allen-and-vallee-jacques-the-edge-of-reality' | relative_url }}">The Edge of Reality</a>” (<a href="{{ '/tags/1975' | relative_url }}">1975</a>) (available <a href="http://www.amazon.com/dp/B000RATSR4/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000RATSR4/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 190, 191-192 (in Chapter 7) of the Henry Regnery hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -83,10 +83,10 @@ For discussion of Captain [Charles Hardin](/ufo-history/ufo-personalities/hardin
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1972">1972</a></p>
+<p><a href="{{ '/tags/1972' | relative_url }}">1972</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/hynek-j-allen">Hynek, J Allen</a> in his “<a href="/ufo-history/ufo-books/hynek-j-allen-the-ufo-experience">The UFO Experience</a>” (<a href="/tags/1972">1972</a>) (available <a href="http://www.amazon.com/dp/0345239539/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0345239539/ref=nosim?tag=ufot-21">on Amazon UK</a>) (in Chapter 11) at page 187 of the Henry Regnery hardback edition (with same page numbering in the Abelard-Schuman hardback edition) at page 212 of the various Ballantine paperback editions, at page 233 of the Corgi paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hynek-j-allen' | relative_url }}">Hynek, J Allen</a> in his “<a href="{{ '/ufo-history/ufo-books/hynek-j-allen-the-ufo-experience' | relative_url }}">The UFO Experience</a>” (<a href="{{ '/tags/1972' | relative_url }}">1972</a>) (available <a href="http://www.amazon.com/dp/0345239539/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0345239539/ref=nosim?tag=ufot-21">on Amazon UK</a>) (in Chapter 11) at page 187 of the Henry Regnery hardback edition (with same page numbering in the Abelard-Schuman hardback edition) at page 212 of the various Ballantine paperback editions, at page 233 of the Corgi paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -94,10 +94,10 @@ For discussion of Captain [Charles Hardin](/ufo-history/ufo-personalities/hardin
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1975">1975</a></p>
+<p><a href="{{ '/tags/1975' | relative_url }}">1975</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/jacobs-david-michael">Jacobs, David Michael</a> in his “<a href="/ufo-history/ufo-books/jacobs-david-michael-the-ufo-controversy-in-america">The UFO Controversy in America</a>” (<a href="/tags/1975">1975</a>) (available <a href="http://www.amazon.com/dp/0253190061/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0253190061/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 133 (in Chapter 6) of the Indiana hardback edition, page 118 of the Signet paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/jacobs-david-michael' | relative_url }}">Jacobs, David Michael</a> in his “<a href="{{ '/ufo-history/ufo-books/jacobs-david-michael-the-ufo-controversy-in-america' | relative_url }}">The UFO Controversy in America</a>” (<a href="{{ '/tags/1975' | relative_url }}">1975</a>) (available <a href="http://www.amazon.com/dp/0253190061/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0253190061/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 133 (in Chapter 6) of the Indiana hardback edition, page 118 of the Signet paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

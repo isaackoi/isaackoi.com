@@ -13,17 +13,17 @@ planned_sections: []
 header: {"preview_image": null}
 ---
 
-“[Best UFO Cases](/ufog/best-ufo-cases)” by Isaac Koi
+“[Best UFO Cases]({{ '/ufog/best-ufo-cases' | relative_url }})” by Isaac Koi
 
 PART 7: Consensus lists: Paul Kimball’s Vox Populi poll (2006)
 
-As discussed in earlier sections of this article, Jacques Vallee and Ronald Story conducted polls of ufologists in an attempt to determine which cases were considered to be the best (see [PART 5: Consensus lists: Jacques Vallee’s poll (1965)](/ufog/best-ufo-cases/5-consensus-lists-jacques-vallees-poll-1965) and [PART 6: Consensus lists: Ronald Story’s poll (1979)](/ufog/best-ufo-cases/6-consensus-lists-ronald-storys-poll) of this article respectively). Those polls were conducted quite some time ago. Vallee’s questionnaire was sent to UFO groups between January and March 1965, with the survey being closed in August 1965 (see Footnote 7.01). Ronald Story’s form letter was sent to ufologists in October 1979 (see Footnote 7.02).
+As discussed in earlier sections of this article, Jacques Vallee and Ronald Story conducted polls of ufologists in an attempt to determine which cases were considered to be the best (see [PART 5: Consensus lists: Jacques Vallee’s poll (1965)]({{ '/ufog/best-ufo-cases/5-consensus-lists-jacques-vallees-poll-1965' | relative_url }}) and [PART 6: Consensus lists: Ronald Story’s poll (1979)]({{ '/ufog/best-ufo-cases/6-consensus-lists-ronald-storys-poll' | relative_url }}) of this article respectively). Those polls were conducted quite some time ago. Vallee’s questionnaire was sent to UFO groups between January and March 1965, with the survey being closed in August 1965 (see Footnote 7.01). Ronald Story’s form letter was sent to ufologists in October 1979 (see Footnote 7.02).
 
 Rather more recently, Paul Kimball has conducted a poll which formed the basis of his documentary “Best Evidence”, which was first broadcast on the Canadian “Space” channel on 10 May 2007.
 
 Paul Kimball described the relevant poll in the opening words of his documentary: “In 2005 and 2006, documentary filmmaker Paul Kimball surveyed a select group of the world’s leading UFO researchers. He asked each of them for a list of their ten best UFO cases of all time. The cases were assigned point values, based on their rank, and then averaged together. Over seventy UFO incidents from around the world received votes. At the end of the process, the following ten incidents comprised the best evidence UFO cases of all time” (see Footnote 7.03).
 
-The relevant poll of the relevant “select group of the world’s leading UFO researchers” is discussed in [PART 8: Consensus lists: Paul Kimball’s expert poll (2005/6)](/ufog/best-ufo-cases/8-consensus-lists-kimballs-expert-poll-2007) (i.e. in the next Part). Further information and relevant multimedia can be found on the blog “Best Evidence: Top Ten UFO Sightings” (see Footnote 7.10).
+The relevant poll of the relevant “select group of the world’s leading UFO researchers” is discussed in [PART 8: Consensus lists: Paul Kimball’s expert poll (2005/6)]({{ '/ufog/best-ufo-cases/8-consensus-lists-kimballs-expert-poll-2007' | relative_url }}) (i.e. in the next Part). Further information and relevant multimedia can be found on the blog “Best Evidence: Top Ten UFO Sightings” (see Footnote 7.10).
 
 As part of that polling process, Paul Kimball also conducted an informal poll on his main blog, “The Other Side of Truth” (see Footnote 7.09). Anyone could vote in that informal poll, which Paul Kimball e has described this poll as his “Vox Populi” poll. When launching gus “Vox Populi” poll, Paul Kimball indicated that he would factor in the results when determining the “top 10 list” for the documentary, assigning the results of the Vox Populi poll “a weight equivalent to one of our ufological experts” (see Footnote 7.04).
 
@@ -35,53 +35,53 @@ For ease of reference, I have typed up the relevant results and ordered them acc
 
 1. Other [unspecified in poll results] 29 votes
 
-2. [Bentwaters](/ufo-history/ufo/19801227-rendlesham-forest-incident) (1980) 22 votes (Case 18 in [Isaac Koi's “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
+2. [Bentwaters]({{ '/ufo-history/ufo/19801227-rendlesham-forest-incident' | relative_url }}) (1980) 22 votes (Case 18 in [Isaac Koi's “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
 
-3. [Belgium](/ufo-history/ufo/19891129-belgium-radarvisuals) (1990) 19 votes (Case 40 in [Isaac Koi's “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
+3. [Belgium]({{ '/ufo-history/ufo/19891129-belgium-radarvisuals' | relative_url }}) (1990) 19 votes (Case 40 in [Isaac Koi's “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
 
-4. [Shag Harbour](/ufo-history/ufo/19671004-shag-harbour-incident) (1967) 19 votes
+4. [Shag Harbour]({{ '/ufo-history/ufo/19671004-shag-harbour-incident' | relative_url }}) (1967) 19 votes
 
-5. [Cash Landrum](/ufo-history/ufo/19801229-cashlandrum-incident) (1980) 17 votes (Case 30 in [Isaac Koi's “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
+5. [Cash Landrum]({{ '/ufo-history/ufo/19801229-cashlandrum-incident' | relative_url }}) (1980) 17 votes (Case 30 in [Isaac Koi's “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
 
-6. [Valentich](/ufo-history/ufo/19781021-valentich-disappearance) (1978) 10 votes (Case 35 in [Isaac Koi's “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
+6. [Valentich]({{ '/ufo-history/ufo/19781021-valentich-disappearance' | relative_url }}) (1978) 10 votes (Case 35 in [Isaac Koi's “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
 
-7. [Tehran](/ufo-history/ufo/19760919-tehran-jet-chase-incident) (1976) 9 votes (Case 47 in [Isaac Koi's “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
+7. [Tehran]({{ '/ufo-history/ufo/19760919-tehran-jet-chase-incident' | relative_url }}) (1976) 9 votes (Case 47 in [Isaac Koi's “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
 
-8. [Washington flap](/ufo-history/ufo/19520700-washington-national-sightings) (1952) 8 votes (Case 8 in [Isaac Koi's “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
+8. [Washington flap]({{ '/ufo-history/ufo/19520700-washington-national-sightings' | relative_url }}) (1952) 8 votes (Case 8 in [Isaac Koi's “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
 
 9. Minot AFB (1968) 6 votes
 
 10. Yukon Territory (1996) 5 votes
 
-11. [Levelland, Texas](/ufo-history/ufo/19571102-levelland-texas-incident) (1957) 4 votes (Case 16 in [Isaac Koi's “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
+11. [Levelland, Texas]({{ '/ufo-history/ufo/19571102-levelland-texas-incident' | relative_url }}) (1957) 4 votes (Case 16 in [Isaac Koi's “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
 
 12. Malmstrom AFB (1967) 4 votes
 
-13. [McMinnville](/ufo-history/ufo/19500511-mcminnville-photographs) (Trent case - 1950) 4 votes (Case 17 in [Isaac Koi's “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
+13. [McMinnville]({{ '/ufo-history/ufo/19500511-mcminnville-photographs' | relative_url }}) (Trent case - 1950) 4 votes (Case 17 in [Isaac Koi's “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
 
-14. [RB-47](/ufo-history/ufo/19570717-rb-47-incident) (1957) 4 votes (Case 63 in [Isaac Koi's “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
+14. [RB-47]({{ '/ufo-history/ufo/19570717-rb-47-incident' | relative_url }}) (1957) 4 votes (Case 63 in [Isaac Koi's “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
 
 15. Agoura, CA - Kelly Johnson sighting (1953) 3 votes
 
 16. Killeen Base (1949) 3 votes
 
-17. [Father Gill](/ufo-history/ufo/19590626-father-gill-sightings) sighting (1959) 2 votes (Case 15 in [Isaac Koi's “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
+17. [Father Gill]({{ '/ufo-history/ufo/19590626-father-gill-sightings' | relative_url }}) sighting (1959) 2 votes (Case 15 in [Isaac Koi's “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
 
-18. [Trindade](/ufo-history/ufo/19580116-trindade-island-photos) (1958) 2 votes (Case 26 in [Isaac Koi's “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
+18. [Trindade]({{ '/ufo-history/ufo/19580116-trindade-island-photos' | relative_url }}) (1958) 2 votes (Case 26 in [Isaac Koi's “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
 
-19. [JAL 1630](/ufo-history/ufo/19861117-jal-flight-1628) (1986) 1 vote (Case 89 in [Isaac Koi's “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
+19. [JAL 1630]({{ '/ufo-history/ufo/19861117-jal-flight-1628' | relative_url }}) (1986) 1 vote (Case 89 in [Isaac Koi's “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
 
 20. Lincoln LaPaz sighting (1947) 0 votes
 
-It is notable that the largest number of votes was for “other”. As with the polls conducted by Jacques Vallee and Ronald Story, these poll results indicate a very limited degree of consensus. Although the identity of the relevant “other” cases is not specified in the results of the poll, voters were invited to specify the relevant case in the comments section of Paul Kimball’s blog. Cases referred to within the relevant section (which may or may not have voted for by one or more voters) include [Fatima](/ufo-history/ufo/19171013-fatima-apparition), [Roswell](/ufo-history/ufo/19470708-roswell-story), the Hudson Valley sightings, Kecksburg, [Socorro](/ufo-history/ufo/19640424-lonnie-zamora-sighting), and “The Battle of LA” (see Footnote 7.04).
+It is notable that the largest number of votes was for “other”. As with the polls conducted by Jacques Vallee and Ronald Story, these poll results indicate a very limited degree of consensus. Although the identity of the relevant “other” cases is not specified in the results of the poll, voters were invited to specify the relevant case in the comments section of Paul Kimball’s blog. Cases referred to within the relevant section (which may or may not have voted for by one or more voters) include [Fatima]({{ '/ufo-history/ufo/19171013-fatima-apparition' | relative_url }}), [Roswell]({{ '/ufo-history/ufo/19470708-roswell-story' | relative_url }}), the Hudson Valley sightings, Kecksburg, [Socorro]({{ '/ufo-history/ufo/19640424-lonnie-zamora-sighting' | relative_url }}), and “The Battle of LA” (see Footnote 7.04).
 
-The total of 171 votes in this poll for the “best” case is, on its face, impressive. This total is considerably more than the number of responses to the polls conducted by Jacques Vallee and Ronald Story(see [PART 5: Consensus lists: Jacques Vallee’s poll (1965)](/ufog/best-ufo-cases/5-consensus-lists-jacques-vallees-poll-1965) and [PART 6: Consensus lists: Ronald Story’s poll (1979)](/ufog/best-ufo-cases/6-consensus-lists-ronald-storys-poll) respectively).
+The total of 171 votes in this poll for the “best” case is, on its face, impressive. This total is considerably more than the number of responses to the polls conducted by Jacques Vallee and Ronald Story(see [PART 5: Consensus lists: Jacques Vallee’s poll (1965)]({{ '/ufog/best-ufo-cases/5-consensus-lists-jacques-vallees-poll-1965' | relative_url }}) and [PART 6: Consensus lists: Ronald Story’s poll (1979)]({{ '/ufog/best-ufo-cases/6-consensus-lists-ronald-storys-poll' | relative_url }}) respectively).
 
-It is, of course, relatively easy to point out potential flaws in a poll of this nature. An online poll linked to a particular blog is apt to attract votes from the usual visitors to that blog, which may involve a considerable degree of selection bias. Also, those visitor may have vastly different degrees of interest in (and knowledge of) reports of UFOs. Furthermore, the list of 19 cases offered to voters may also be queried (particularly as several cases that have proved popular in previous polls were not included within the relevant list of 19 cases, e.g. Lonnie Zamora’s [Socorro](/ufo-history/ufo/19640424-lonnie-zamora-sighting) sighting). Paul Kimball has himself acknowledged that his poll was “hardly a scientific sampling” (see Footnote 7.07).
+It is, of course, relatively easy to point out potential flaws in a poll of this nature. An online poll linked to a particular blog is apt to attract votes from the usual visitors to that blog, which may involve a considerable degree of selection bias. Also, those visitor may have vastly different degrees of interest in (and knowledge of) reports of UFOs. Furthermore, the list of 19 cases offered to voters may also be queried (particularly as several cases that have proved popular in previous polls were not included within the relevant list of 19 cases, e.g. Lonnie Zamora’s [Socorro]({{ '/ufo-history/ufo/19640424-lonnie-zamora-sighting' | relative_url }}) sighting). Paul Kimball has himself acknowledged that his poll was “hardly a scientific sampling” (see Footnote 7.07).
 
 Paul Kimball offered some comments on the results of his poll and the individuals likely to have voted. He suggested that it is fair to assume that “most, if not all, the people who voted have at least some interest in the subject of UFOs (otherwise they probably wouldn't be popping by to vote). Accordingly, one would assume that their knowledge level about the best cases would be a bit higher than that of the average man or woman on the street” (see Footnote 7.07).
 
-It is notable that, contrary to what may be expected given the contents of the lists of the “best cases” generated by experts (see [PART 3: Existing lists by various individuals](/ufog/best-ufo-cases/3-experts-short-lists)), the highest number of votes went to the most recent cases included within the relevant list of 19 cases. Suggesting reasons for this would involve a large element of speculation, but I note that the cases with the most votes in this poll tended to be those which have been best represented in television documentaries in recent years. Paul Kimball himself has commented, “I can't help but note that there is a bit of disconnect between what the public considers to be the best cases, and what the experts consider to be the best cases”. He asked whether some of the cases that came higher in the poll results were “just more recent, and better known” than some that came lower. He stated that he had noticed this when he talks to people at conferences, as well (see Footnote 7.07).
+It is notable that, contrary to what may be expected given the contents of the lists of the “best cases” generated by experts (see [PART 3: Existing lists by various individuals]({{ '/ufog/best-ufo-cases/3-experts-short-lists' | relative_url }})), the highest number of votes went to the most recent cases included within the relevant list of 19 cases. Suggesting reasons for this would involve a large element of speculation, but I note that the cases with the most votes in this poll tended to be those which have been best represented in television documentaries in recent years. Paul Kimball himself has commented, “I can't help but note that there is a bit of disconnect between what the public considers to be the best cases, and what the experts consider to be the best cases”. He asked whether some of the cases that came higher in the poll results were “just more recent, and better known” than some that came lower. He stated that he had noticed this when he talks to people at conferences, as well (see Footnote 7.07).
 
 Paul Kimball’s “Vox Populi” poll did not generate very much discussion on Internet discussion groups at the time that the relevant results were made available. One of the few relatively prominent UFO researchers that commented on the results was Jenny Randles (see Footnote 7.08). For ease of reference, the comments made by Jenny Randles are set out below:
 

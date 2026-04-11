@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0380004658.jpg"}
 book: {"identifiers": ["B000GE5320", "0380004658"], "primary_isbn": "0380004658", "cover_image": "/book-covers/0380004658.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [John Wallace Spencer](/ufo-history/ufo-personalities/spencer-john-wallace)'s book “[Limbo of the Lost](/ufo-history/ufo-books/spencer-john-wallace-limbo-of-the-lost)” ([1969](/tags/1969)) (available [on Amazon USA](http://www.amazon.com/dp/B000GE5320/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B000GE5320/?&tag=ufot-21))
+Brief review to be added of [John Wallace Spencer]({{ '/ufo-history/ufo-personalities/spencer-john-wallace' | relative_url }})'s book “[Limbo of the Lost]({{ '/ufo-history/ufo-books/spencer-john-wallace-limbo-of-the-lost' | relative_url }})” ([1969]({{ '/tags/1969' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/B000GE5320/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B000GE5320/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1974">1974</a></p>
+<p><a href="{{ '/tags/1974' | relative_url }}">1974</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/berlitz-charles">Berlitz, Charles</a> in his “The Bermuda Triangle” (<a href="/tags/1974">1974</a>) (available <a href="http://www.amazon.com/dp/0380004658/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380004658/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 101-103 (in Chapter 6) of the Book Club Associates hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/berlitz-charles' | relative_url }}">Berlitz, Charles</a> in his “The Bermuda Triangle” (<a href="{{ '/tags/1974' | relative_url }}">1974</a>) (available <a href="http://www.amazon.com/dp/0380004658/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380004658/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 101-103 (in Chapter 6) of the Book Club Associates hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -65,10 +65,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1969">1969</a></p>
+<p><a href="{{ '/tags/1969' | relative_url }}">1969</a></p>
 </td>
 <td valign="top" width="547">
-<p>Thorne, Jim in John Wallace Spence’s “<a href="/ufo-history/ufo-books/spencer-john-wallace-limbo-of-the-lost">Limbo of the Lost</a>” (<a href="/tags/1969">1969</a>) (available <a href="http://www.amazon.com/dp/B000GE5320/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000GE5320/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page xiii (in the Preface) of the <a href="/tags/1973">1973</a> revised Bantam paperback edition.</p>
+<p>Thorne, Jim in John Wallace Spence’s “<a href="{{ '/ufo-history/ufo-books/spencer-john-wallace-limbo-of-the-lost' | relative_url }}">Limbo of the Lost</a>” (<a href="{{ '/tags/1969' | relative_url }}">1969</a>) (available <a href="http://www.amazon.com/dp/B000GE5320/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000GE5320/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page xiii (in the Preface) of the <a href="{{ '/tags/1973' | relative_url }}">1973</a> revised Bantam paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

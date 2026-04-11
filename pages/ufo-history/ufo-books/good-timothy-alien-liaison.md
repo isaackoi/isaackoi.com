@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0099859203.jpg"}
 book: {"identifiers": ["0099859203", "0760705496"], "primary_isbn": "0099859203", "cover_image": "/book-covers/0099859203.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Timothy Good](/ufo-history/ufo-personalities/good-timothy)'s book “[Alien Liaison](/ufo-history/ufo-books/good-timothy-alien-liaison)” ([1991](/tags/1991)) (available [on Amazon USA](http://www.amazon.com/dp/0099859203/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0099859203/?&tag=ufot-21))
+Brief review to be added of [Timothy Good]({{ '/ufo-history/ufo-personalities/good-timothy' | relative_url }})'s book “[Alien Liaison]({{ '/ufo-history/ufo-books/good-timothy-alien-liaison' | relative_url }})” ([1991]({{ '/tags/1991' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0099859203/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0099859203/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-ufos-and-how-to-see-them">UFOs and How to See Them</a>” (<a href="/tags/1992">1992</a>) (available <a href="http://www.amazon.com/dp/0760705496/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0760705496/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 32 (in Chapter 1) of the Brockhampton Press hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-ufos-and-how-to-see-them' | relative_url }}">UFOs and How to See Them</a>” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="http://www.amazon.com/dp/0760705496/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0760705496/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 32 (in Chapter 1) of the Brockhampton Press hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/nasa_1.jpg"}
 ---
 
-![nasa_1](/images/stories/ufo_tags/nasa_1.jpg)
+![nasa_1]({{ '/images/stories/ufo_tags/nasa_1.jpg' | relative_url }})
 
 *NASA evolution workshop*
 
@@ -71,10 +71,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1977">1977</a></p>
+<p><a href="{{ '/tags/1977' | relative_url }}">1977</a></p>
 </td>
 <td valign="top" width="547">
-<p>Black, David C and Stull, Mark A in “The Search for Extraterrestrial Intelligence : <a href="/ufo-history/ufo-personalities/nasa">NASA</a> Special Publication 419 (“<a href="/ufo-history/ufo-personalities/nasa">NASA</a> SP 419”)” (<a href="/tags/1977">1977</a>) (edited by <a href="/ufo-history/ufo-personalities/morrison-philip">Morrison, Philip</a> and <a href="/ufo-history/ufo-personalities/billingham-john">Billingham, John</a> and Wolfe, John) at page 69 (in Section 2, in Colloquie 6) of the National Aeronautics and Space Administration softcover edition. Text of relevant report available free online at: <a href="http://history.nasa.gov/SP-419/contents.htm">http://history.nasa.gov/SP-419/contents.htm</a></p>
+<p>Black, David C and Stull, Mark A in “The Search for Extraterrestrial Intelligence : <a href="{{ '/ufo-history/ufo-personalities/nasa' | relative_url }}">NASA</a> Special Publication 419 (“<a href="{{ '/ufo-history/ufo-personalities/nasa' | relative_url }}">NASA</a> SP 419”)” (<a href="{{ '/tags/1977' | relative_url }}">1977</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/morrison-philip' | relative_url }}">Morrison, Philip</a> and <a href="{{ '/ufo-history/ufo-personalities/billingham-john' | relative_url }}">Billingham, John</a> and Wolfe, John) at page 69 (in Section 2, in Colloquie 6) of the National Aeronautics and Space Administration softcover edition. Text of relevant report available free online at: <a href="http://history.nasa.gov/SP-419/contents.htm">http://history.nasa.gov/SP-419/contents.htm</a></p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -82,10 +82,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1977">1977</a></p>
+<p><a href="{{ '/tags/1977' | relative_url }}">1977</a></p>
 </td>
 <td valign="top" width="547">
-<p>Stull, Mark A in “The Search for Extraterrestrial Intelligence : <a href="/ufo-history/ufo-personalities/nasa">NASA</a> Special Publication 419 (“<a href="/ufo-history/ufo-personalities/nasa">NASA</a> SP 419”)” (<a href="/tags/1977">1977</a>) (edited by <a href="/ufo-history/ufo-personalities/morrison-philip">Morrison, Philip</a> and <a href="/ufo-history/ufo-personalities/billingham-john">Billingham, John</a> and Wolfe, John) at pages 27-30 (in Section 2, in Colloquie 2) of the National Aeronautics and Space Administration softcover edition. Text of relevant report available free online at: <a href="http://history.nasa.gov/SP-419/contents.htm">http://history.nasa.gov/SP-419/contents.htm</a></p>
+<p>Stull, Mark A in “The Search for Extraterrestrial Intelligence : <a href="{{ '/ufo-history/ufo-personalities/nasa' | relative_url }}">NASA</a> Special Publication 419 (“<a href="{{ '/ufo-history/ufo-personalities/nasa' | relative_url }}">NASA</a> SP 419”)” (<a href="{{ '/tags/1977' | relative_url }}">1977</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/morrison-philip' | relative_url }}">Morrison, Philip</a> and <a href="{{ '/ufo-history/ufo-personalities/billingham-john' | relative_url }}">Billingham, John</a> and Wolfe, John) at pages 27-30 (in Section 2, in Colloquie 2) of the National Aeronautics and Space Administration softcover edition. Text of relevant report available free online at: <a href="http://history.nasa.gov/SP-419/contents.htm">http://history.nasa.gov/SP-419/contents.htm</a></p>
 </td>
 <td valign="top" width="52">
 <p>4</p>

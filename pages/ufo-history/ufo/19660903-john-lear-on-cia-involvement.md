@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/cia_1.gif"}
 ---
 
-![cia_1](/images/stories/ufo_tags/cia_1.gif)
+![cia_1]({{ '/images/stories/ufo_tags/cia_1.gif' | relative_url }})
 
 *John Lear on CIA involvement*
 
@@ -67,10 +67,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1967">1967</a></p>
+<p><a href="{{ '/tags/1967' | relative_url }}">1967</a></p>
 </td>
 <td valign="top" width="547">
-<p>Erskine, Allen Louis in his “Why Are They Watching Us?” (<a href="/tags/1967">1967</a>) (available <a href="http://www.amazon.com/dp/B000I9JDLK/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000I9JDLK/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 112-113 (in Chapter 14) of the Tower paperback edition.</p>
+<p>Erskine, Allen Louis in his “Why Are They Watching Us?” (<a href="{{ '/tags/1967' | relative_url }}">1967</a>) (available <a href="http://www.amazon.com/dp/B000I9JDLK/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000I9JDLK/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 112-113 (in Chapter 14) of the Tower paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -78,10 +78,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1967">1967</a></p>
+<p><a href="{{ '/tags/1967' | relative_url }}">1967</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/greenfield-irving-a">Greenfield, Irving A</a> in his “The UFO Report” (<a href="/tags/1967">1967</a>) at pages 126-128 (in Chapter 14) of the Lancer paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/greenfield-irving-a' | relative_url }}">Greenfield, Irving A</a> in his “The UFO Report” (<a href="{{ '/tags/1967' | relative_url }}">1967</a>) at pages 126-128 (in Chapter 14) of the Lancer paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -89,10 +89,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/harbinson-w-a">Harbinson, W A</a> in his “Projekt Saucer” (<a href="/tags/1995">1995</a>) at pages 237-238 (in Chapter 12) of the Box Tree hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/harbinson-w-a' | relative_url }}">Harbinson, W A</a> in his “Projekt Saucer” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) at pages 237-238 (in Chapter 12) of the Box Tree hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -100,10 +100,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1983">1983</a></p>
+<p><a href="{{ '/tags/1983' | relative_url }}">1983</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/klass-philip-j">Klass, Philip J</a> in “<a href="/ufo-history/ufo-books/klass-philip-j-ufos-the-public-deceived">UFOs – The Public Deceived</a>” (<a href="/tags/1983">1983</a>) (available <a href="http://www.amazon.com/dp/0879753226/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879753226/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 6-8 (in Chapter 1) and 39 (in Chapter 4) of the Prometheus softback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/klass-philip-j' | relative_url }}">Klass, Philip J</a> in “<a href="{{ '/ufo-history/ufo-books/klass-philip-j-ufos-the-public-deceived' | relative_url }}">UFOs – The Public Deceived</a>” (<a href="{{ '/tags/1983' | relative_url }}">1983</a>) (available <a href="http://www.amazon.com/dp/0879753226/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879753226/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 6-8 (in Chapter 1) and 39 (in Chapter 4) of the Prometheus softback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -115,6 +115,6 @@ For discussion see the following:
 <a id="other"></a>
 ### Other Material
 
-John Lear, “The Disputed CIA Document on UFOs”, The Saturday Review [1966](/tags/1966).0903
+John Lear, “The Disputed CIA Document on UFOs”, The Saturday Review [1966]({{ '/tags/1966' | relative_url }}).0903
 
 Please use the comments section below to share references to any particularly interesting relevant articles.

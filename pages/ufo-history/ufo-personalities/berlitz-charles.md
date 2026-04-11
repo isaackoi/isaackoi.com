@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/berlitz_charles_1.jpg"}
 ---
 
-![berlitz_charles_1](/images/stories/ufo_personalities/berlitz_charles_1.jpg)
+![berlitz_charles_1]({{ '/images/stories/ufo_personalities/berlitz_charles_1.jpg' | relative_url }})
 
 *Charles Berlitz*
 
@@ -36,58 +36,58 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1969">1969</a></p>
+<p><a href="{{ '/tags/1969' | relative_url }}">1969</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/berlitz-charles">Berlitz, Charles</a> “The Mystery of Atlantis”</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/berlitz-charles' | relative_url }}">Berlitz, Charles</a> “The Mystery of Atlantis”</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1972">1972</a></p>
+<p><a href="{{ '/tags/1972' | relative_url }}">1972</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/berlitz-charles">Berlitz, Charles</a> “Mysteries from Forgotten Worlds”</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/berlitz-charles' | relative_url }}">Berlitz, Charles</a> “Mysteries from Forgotten Worlds”</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1974">1974</a></p>
+<p><a href="{{ '/tags/1974' | relative_url }}">1974</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/berlitz-charles">Berlitz, Charles</a> “The Bermuda Triangle”</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/berlitz-charles' | relative_url }}">Berlitz, Charles</a> “The Bermuda Triangle”</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1977">1977</a></p>
+<p><a href="{{ '/tags/1977' | relative_url }}">1977</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/berlitz-charles">Berlitz, Charles</a> “Without a Trace”</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/berlitz-charles' | relative_url }}">Berlitz, Charles</a> “Without a Trace”</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1979">1979</a></p>
+<p><a href="{{ '/tags/1979' | relative_url }}">1979</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/berlitz-charles">Berlitz, Charles</a> and <a href="/ufo-history/ufo-personalities/moore-bill">Moore, Bill</a> “<a href="/ufo-history/ufo-books/berlitz-charles-and-moore-william-the-philadelphia-experiment">The Philadelphia Experiment</a>” (<a href="/tags/1979">1979</a>) (available <a href="http://www.amazon.com/dp/0285629999/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0285629999/?&amp;tag=ufot-21">on Amazon UK</a>). Focuses on <a href="/ufo-history/ufo-books/berlitz-charles-and-moore-william-the-philadelphia-experiment">The Philadelphia Experiment</a>.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/berlitz-charles' | relative_url }}">Berlitz, Charles</a> and <a href="{{ '/ufo-history/ufo-personalities/moore-bill' | relative_url }}">Moore, Bill</a> “<a href="{{ '/ufo-history/ufo-books/berlitz-charles-and-moore-william-the-philadelphia-experiment' | relative_url }}">The Philadelphia Experiment</a>” (<a href="{{ '/tags/1979' | relative_url }}">1979</a>) (available <a href="http://www.amazon.com/dp/0285629999/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0285629999/?&amp;tag=ufot-21">on Amazon UK</a>). Focuses on <a href="{{ '/ufo-history/ufo-books/berlitz-charles-and-moore-william-the-philadelphia-experiment' | relative_url }}">The Philadelphia Experiment</a>.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/berlitz-charles">Berlitz, Charles</a> and <a href="/ufo-history/ufo-personalities/moore-bill">Moore, Bill</a> “<a href="/ufo-history/ufo-books/berlitz-charles-and-moore-bill-the-roswell-incident">The Roswell Incident</a>” (<a href="/tags/1980">1980</a>) (available <a href="http://www.amazon.com/dp/0586051821/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0586051821/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/berlitz-charles' | relative_url }}">Berlitz, Charles</a> and <a href="{{ '/ufo-history/ufo-personalities/moore-bill' | relative_url }}">Moore, Bill</a> “<a href="{{ '/ufo-history/ufo-books/berlitz-charles-and-moore-bill-the-roswell-incident' | relative_url }}">The Roswell Incident</a>” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) (available <a href="http://www.amazon.com/dp/0586051821/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0586051821/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1988">1988</a></p>
+<p><a href="{{ '/tags/1988' | relative_url }}">1988</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/berlitz-charles">Berlitz, Charles</a> “World of Strange Phenomena” (<a href="/tags/1988">1988</a>) (available <a href="http://www.amazon.com/dp/0449218252/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0449218252/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/berlitz-charles' | relative_url }}">Berlitz, Charles</a> “World of Strange Phenomena” (<a href="{{ '/tags/1988' | relative_url }}">1988</a>) (available <a href="http://www.amazon.com/dp/0449218252/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0449218252/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>
@@ -133,10 +133,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sachs-margaret">Sachs, Margaret</a> in her “<a href="/ufo-history/ufo-books/sachs-margaret-the-ufo-encyclopedia">The UFO Encyclopedia</a>“ (<a href="/tags/1980">1980</a> (available <a href="http://www.amazon.com/dp/0399124217/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0399124217/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 33-34 (in an entry entitled “<a href="/ufo-history/ufo-personalities/berlitz-charles">Berlitz, Charles</a> F”) of the Corgi softback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sachs-margaret' | relative_url }}">Sachs, Margaret</a> in her “<a href="{{ '/ufo-history/ufo-books/sachs-margaret-the-ufo-encyclopedia' | relative_url }}">The UFO Encyclopedia</a>“ (<a href="{{ '/tags/1980' | relative_url }}">1980</a> (available <a href="http://www.amazon.com/dp/0399124217/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0399124217/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 33-34 (in an entry entitled “<a href="{{ '/ufo-history/ufo-personalities/berlitz-charles' | relative_url }}">Berlitz, Charles</a> F”) of the Corgi softback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -144,10 +144,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/cooper-william">Cooper, William</a> in his “<a href="/ufo-history/ufo-books/cooper-william-behold-a-pale-horse">Behold a Pale Horse</a>” (<a href="/tags/1991">1991</a>) (available <a href="http://www.amazon.com/dp/0929385225/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0929385225/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 228 (in Chapter 12) of the Light Technology softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/cooper-william' | relative_url }}">Cooper, William</a> in his “<a href="{{ '/ufo-history/ufo-books/cooper-william-behold-a-pale-horse' | relative_url }}">Behold a Pale Horse</a>” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/0929385225/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0929385225/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 228 (in Chapter 12) of the Light Technology softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

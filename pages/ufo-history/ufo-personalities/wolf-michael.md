@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/wolf_michael_1.jpg"}
 ---
 
-![wolf_michael_1](/images/stories/ufo_personalities/wolf_michael_1.jpg)
+![wolf_michael_1]({{ '/images/stories/ufo_personalities/wolf_michael_1.jpg' | relative_url }})
 
 *Michael Wolf*
 
@@ -57,10 +57,10 @@ For discussion of Michael Wolf see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2004">2004</a></p>
+<p><a href="{{ '/tags/2004' | relative_url }}">2004</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/salla-michael">Salla, Michael</a> in his “<a href="/ufo-history/ufo-books/salla-michael-exopolitics-political-implications-of-the-extraterrestrial-presence">Exopolitics : Political Implications of the Extraterrestrial Presence</a>” (<a href="/tags/2004">2004</a>) (available <a href="http://www.amazon.com/dp/1893302563/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1893302563/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 22, 30 (in Chapter 1), 118, 140 (in Chapter 3), 176, 178 (in Chapter 4) of the Dandelion Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/salla-michael' | relative_url }}">Salla, Michael</a> in his “<a href="{{ '/ufo-history/ufo-books/salla-michael-exopolitics-political-implications-of-the-extraterrestrial-presence' | relative_url }}">Exopolitics : Political Implications of the Extraterrestrial Presence</a>” (<a href="{{ '/tags/2004' | relative_url }}">2004</a>) (available <a href="http://www.amazon.com/dp/1893302563/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1893302563/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 22, 30 (in Chapter 1), 118, 140 (in Chapter 3), 176, 178 (in Chapter 4) of the Dandelion Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>6</p>

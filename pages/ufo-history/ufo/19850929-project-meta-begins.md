@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/seti_1.jpg"}
 ---
 
-![seti_1](/images/stories/ufo_tags/seti_1.jpg)
+![seti_1]({{ '/images/stories/ufo_tags/seti_1.jpg' | relative_url }})
 
 *Project META begins*
 
@@ -67,10 +67,10 @@ For discussion of Project META see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Achenbach, Joel in his “<a href="/ufo-history/ufo-books/achenbach-joel-captured-by-aliens">Captured by Aliens</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0684848562/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684848562/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 366-367 (in Chapter 36), 397 (in the Notes) of the Simon and Schuster hardback edition.</p>
+<p>Achenbach, Joel in his “<a href="{{ '/ufo-history/ufo-books/achenbach-joel-captured-by-aliens' | relative_url }}">Captured by Aliens</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0684848562/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684848562/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 366-367 (in Chapter 36), 397 (in the Notes) of the Simon and Schuster hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -78,10 +78,10 @@ For discussion of Project META see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Clark, Andrew J H and Clark, David H in their “<a href="/ufo-history/ufo-books/clark-andrew-j-h-and-clark-david-h-aliens">Aliens</a>“ (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0880642335/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0880642335/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 79-80 (in Chapter 2) of the Fromm hardback edition.</p>
+<p>Clark, Andrew J H and Clark, David H in their “<a href="{{ '/ufo-history/ufo-books/clark-andrew-j-h-and-clark-david-h-aliens' | relative_url }}">Aliens</a>“ (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0880642335/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0880642335/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 79-80 (in Chapter 2) of the Fromm hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -89,10 +89,10 @@ For discussion of Project META see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p>Clark, Stuart in his “<a href="/ufo-history/ufo-books/clark-stuart-life-on-other-worlds-and-how-to-find-it">Life on Other Worlds and How to Find It</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/185233097X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/185233097X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 137, 139 (in Chapter 10) of the Springer hardback edition.</p>
+<p>Clark, Stuart in his “<a href="{{ '/ufo-history/ufo-books/clark-stuart-life-on-other-worlds-and-how-to-find-it' | relative_url }}">Life on Other Worlds and How to Find It</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/185233097X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/185233097X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 137, 139 (in Chapter 10) of the Springer hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -100,10 +100,10 @@ For discussion of Project META see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/darling-david">Darling, David</a> in his “<a href="/ufo-history/ufo-books/darling-david-the-extraterrestrial-encyclopedia">The Extraterrestrial Encyclopedia</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/081293248X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/081293248X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 271 (in the entry entitled “META, Project”) of the Three Rivers softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/darling-david' | relative_url }}">Darling, David</a> in his “<a href="{{ '/ufo-history/ufo-books/darling-david-the-extraterrestrial-encyclopedia' | relative_url }}">The Extraterrestrial Encyclopedia</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/081293248X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/081293248X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 271 (in the entry entitled “META, Project”) of the Three Rivers softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -111,10 +111,10 @@ For discussion of Project META see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/drake-frank">Drake, Frank</a> and Dava Sobel in their “<a href="/ufo-history/ufo-books/drake-frank-and-sobel-dava-is-anyone-out-there">Is Anyone Out There?</a>“ (<a href="/tags/1991">1991</a>) (available <a href="http://www.amazon.com/dp/038530532X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/038530532X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 219-221 (in Chapter 10) of the Pocket Books paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/drake-frank' | relative_url }}">Drake, Frank</a> and Dava Sobel in their “<a href="{{ '/ufo-history/ufo-books/drake-frank-and-sobel-dava-is-anyone-out-there' | relative_url }}">Is Anyone Out There?</a>“ (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/038530532X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/038530532X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 219-221 (in Chapter 10) of the Pocket Books paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -122,10 +122,10 @@ For discussion of Project META see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p>Goodwin, Simon with John Gribbin in their “<a href="/ufo-history/ufo-books/goodwin-simon-with-gribbin-john-xtl">XTL</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/0304358975/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0304358975/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 172-173 (in Chapter 5) of the Weidenfeld &amp; Nicolson softcover edition.</p>
+<p>Goodwin, Simon with John Gribbin in their “<a href="{{ '/ufo-history/ufo-books/goodwin-simon-with-gribbin-john-xtl' | relative_url }}">XTL</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/0304358975/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0304358975/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 172-173 (in Chapter 5) of the Weidenfeld &amp; Nicolson softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -133,10 +133,10 @@ For discussion of Project META see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p>Heidmann, Jean in his “Extraterrestrial Intelligence” (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/0521585635/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521585635/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 163-164 (in Chapter 10) of the Cambridge hardback edition.</p>
+<p>Heidmann, Jean in his “Extraterrestrial Intelligence” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/0521585635/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521585635/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 163-164 (in Chapter 10) of the Cambridge hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -144,10 +144,10 @@ For discussion of Project META see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/horowitz-paul">Horowitz, Paul</a> in an interview in David W Swift’s “<a href="/ufo-history/ufo-books/swift-david-w-seti-pioneers-scientists-talk-about-their-search-for-extraterrestrial-intelligence">SETI Pioneers : Scientists Talk About Their Search for Extraterrestrial Intelligence</a>” (<a href="/tags/1990">1990</a>) (available <a href="http://www.amazon.com/dp/0816511195/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0816511195/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 401, 414 (in the unnumbered chapter entitled “Paul Horowitz”) of the Arizona hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/horowitz-paul' | relative_url }}">Horowitz, Paul</a> in an interview in David W Swift’s “<a href="{{ '/ufo-history/ufo-books/swift-david-w-seti-pioneers-scientists-talk-about-their-search-for-extraterrestrial-intelligence' | relative_url }}">SETI Pioneers : Scientists Talk About Their Search for Extraterrestrial Intelligence</a>” (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) (available <a href="http://www.amazon.com/dp/0816511195/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0816511195/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 401, 414 (in the unnumbered chapter entitled “Paul Horowitz”) of the Arizona hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -155,10 +155,10 @@ For discussion of Project META see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p>Lamb, David in his “<a href="/ufo-history/ufo-books/lamb-david-the-search-of-extraterrestrial-intelligence-a-philosophical-inquiry">The Search for Extraterrestrial Intelligence : A Philosophical Inquiry</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/0415243424/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0415243424/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 18 (in Chapter 1) of the Routledge softcover edition.</p>
+<p>Lamb, David in his “<a href="{{ '/ufo-history/ufo-books/lamb-david-the-search-of-extraterrestrial-intelligence-a-philosophical-inquiry' | relative_url }}">The Search for Extraterrestrial Intelligence : A Philosophical Inquiry</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/0415243424/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0415243424/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 18 (in Chapter 1) of the Routledge softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -166,10 +166,10 @@ For discussion of Project META see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p>McConnell, Brian in his “<a href="/ufo-history/ufo-books/mcdonnell-brian-beyond-contact-a-guide-to-seti-and-communicating-with-alien-civilizations">Beyond Contact : A Guide to SETI and Communicating with Alien Civilizations</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/0596000375/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0596000375/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 387-388 (in Appendix C, entitled “SETI Program Timeline”) of the O’Reilly hardback edition.</p>
+<p>McConnell, Brian in his “<a href="{{ '/ufo-history/ufo-books/mcdonnell-brian-beyond-contact-a-guide-to-seti-and-communicating-with-alien-civilizations' | relative_url }}">Beyond Contact : A Guide to SETI and Communicating with Alien Civilizations</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/0596000375/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0596000375/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 387-388 (in Appendix C, entitled “SETI Program Timeline”) of the O’Reilly hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -177,10 +177,10 @@ For discussion of Project META see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1987">1987</a></p>
+<p><a href="{{ '/tags/1987' | relative_url }}">1987</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/mcdonough-thomas-r">McDonough, Thomas R</a> in his “The Search for Extraterrestrial Intelligence - Listening for Life in the Cosmos” (<a href="/tags/1987">1987</a>) (available <a href="http://www.amazon.com/dp/0471846848/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0471846848/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 161-168 (in Chapter 12) of the Wiley softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/mcdonough-thomas-r' | relative_url }}">McDonough, Thomas R</a> in his “The Search for Extraterrestrial Intelligence - Listening for Life in the Cosmos” (<a href="{{ '/tags/1987' | relative_url }}">1987</a>) (available <a href="http://www.amazon.com/dp/0471846848/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0471846848/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 161-168 (in Chapter 12) of the Wiley softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>8</p>
@@ -188,10 +188,10 @@ For discussion of Project META see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p>Missler, Chuck and Eastman, Mark in their “<a href="/ufo-history/ufo-books/missler-chuck-and-eastman-mark-alien-encounters">Alien Encounters: The Secret behind the UFO Phenomenon</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1578210615/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1578210615/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 22-23 (in Chapter 1) of the Koinonia House softcover edition.</p>
+<p>Missler, Chuck and Eastman, Mark in their “<a href="{{ '/ufo-history/ufo-books/missler-chuck-and-eastman-mark-alien-encounters' | relative_url }}">Alien Encounters: The Secret behind the UFO Phenomenon</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1578210615/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1578210615/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 22-23 (in Chapter 1) of the Koinonia House softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -199,10 +199,10 @@ For discussion of Project META see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p>Parker, Barry in his “Alien Life” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0306457954/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0306457954/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 183 (in Chapter 10) of the Plenum Trade hardback edition.</p>
+<p>Parker, Barry in his “Alien Life” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0306457954/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0306457954/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 183 (in Chapter 10) of the Plenum Trade hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -210,10 +210,10 @@ For discussion of Project META see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p>Pickover, Clifford in his “<a href="/ufo-history/ufo-books/pickover-clifford-the-science-of-aliens">The Science of Aliens</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0465073158/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0465073158/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 158-159 (in Chapter 7) of the Basic Books hardback edition.</p>
+<p>Pickover, Clifford in his “<a href="{{ '/ufo-history/ufo-books/pickover-clifford-the-science-of-aliens' | relative_url }}">The Science of Aliens</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0465073158/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0465073158/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 158-159 (in Chapter 7) of the Basic Books hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -221,10 +221,10 @@ For discussion of Project META see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Poundstone, William in his “<a href="/ufo-history/ufo-books/poundstone-william-carl-sagan-a-life-in-the-cosmos">Carl Sagan: A Life in the Cosmos</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0805057668/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0805057668/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 327-328, 349-351, 352 (in the chapter entitled “Ithaca <a href="/tags/1981">1981</a>-95”), 385, 386-387 (in the Afterword) of the Owl Books softcover edition.</p>
+<p>Poundstone, William in his “<a href="{{ '/ufo-history/ufo-books/poundstone-william-carl-sagan-a-life-in-the-cosmos' | relative_url }}">Carl Sagan: A Life in the Cosmos</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0805057668/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0805057668/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 327-328, 349-351, 352 (in the chapter entitled “Ithaca <a href="{{ '/tags/1981' | relative_url }}">1981</a>-95”), 385, 386-387 (in the Afterword) of the Owl Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>9</p>
@@ -232,10 +232,10 @@ For discussion of Project META see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p>Rhodes, Ron in his “<a href="/ufo-history/ufo-books/rhodes-ron-alien-obsession">Alien Obsession: What Lies Behind Abductions, Sightings and the Attraction to the Paranormal</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/1565078497/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1565078497/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 31-32 (in Chapter 2) of the Harvest House softcover edition.</p>
+<p>Rhodes, Ron in his “<a href="{{ '/ufo-history/ufo-books/rhodes-ron-alien-obsession' | relative_url }}">Alien Obsession: What Lies Behind Abductions, Sightings and the Attraction to the Paranormal</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/1565078497/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1565078497/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 31-32 (in Chapter 2) of the Harvest House softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -243,10 +243,10 @@ For discussion of Project META see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sagan-carl">Sagan, Carl</a> in his “<a href="/ufo-history/ufo-books/sagan-carl-pale-blue-dot">Pale Blue Dot</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/0345376595/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0345376595/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 355-362, 364 (in Chapter 20) of the Random House softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sagan-carl' | relative_url }}">Sagan, Carl</a> in his “<a href="{{ '/ufo-history/ufo-books/sagan-carl-pale-blue-dot' | relative_url }}">Pale Blue Dot</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/0345376595/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0345376595/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 355-362, 364 (in Chapter 20) of the Random House softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>9</p>
@@ -254,10 +254,10 @@ For discussion of Project META see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2002">2002</a></p>
+<p><a href="{{ '/tags/2002' | relative_url }}">2002</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/tarter-jill">Tarter, Jill</a> in “<a href="/ufo-history/ufo-books/elkers-ronald-d-and-cullers-kent-d-and-billingham-john-and-scheffer-louis-k-editors-seti-2020-a-roadmap-for-the-search-for-extraterrestrial-intelligence">SETI 2020 : A Roadmap for the Search for Extraterrestrial Intelligence</a>” (<a href="/tags/2002">2002</a>) (edited by Elkers, Ronald D and <a href="/ufo-history/ufo-personalities/cullers-kent-d">Cullers, Kent D</a> and <a href="/ufo-history/ufo-personalities/billingham-john">Billingham, John</a> and Scheffer, Louis K) (available <a href="http://www.amazon.com/dp/0966633539/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0966633539/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 401 (in Appendix L, entitled “Archive of SETI Searches”) of the SETI Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/tarter-jill' | relative_url }}">Tarter, Jill</a> in “<a href="{{ '/ufo-history/ufo-books/elkers-ronald-d-and-cullers-kent-d-and-billingham-john-and-scheffer-louis-k-editors-seti-2020-a-roadmap-for-the-search-for-extraterrestrial-intelligence' | relative_url }}">SETI 2020 : A Roadmap for the Search for Extraterrestrial Intelligence</a>” (<a href="{{ '/tags/2002' | relative_url }}">2002</a>) (edited by Elkers, Ronald D and <a href="{{ '/ufo-history/ufo-personalities/cullers-kent-d' | relative_url }}">Cullers, Kent D</a> and <a href="{{ '/ufo-history/ufo-personalities/billingham-john' | relative_url }}">Billingham, John</a> and Scheffer, Louis K) (available <a href="http://www.amazon.com/dp/0966633539/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0966633539/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 401 (in Appendix L, entitled “Archive of SETI Searches”) of the SETI Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -265,10 +265,10 @@ For discussion of Project META see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2002">2002</a></p>
+<p><a href="{{ '/tags/2002' | relative_url }}">2002</a></p>
 </td>
 <td valign="top" width="547">
-<p>Webb, Stephen in his “<a href="/ufo-history/ufo-books/webb-stephen-where-is-everybody-fifty-solutions-to-the-fermi-paradox">Where is Everybody?: Fifty Solutions to the Fermi Paradox</a>” (<a href="/tags/2002">2002</a>) (available <a href="http://www.amazon.com/dp/0387955011/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0387955011/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 100 (in Chapter 4), 259 (in the Notes and Further Reading) of the Copernicus hardback edition.</p>
+<p>Webb, Stephen in his “<a href="{{ '/ufo-history/ufo-books/webb-stephen-where-is-everybody-fifty-solutions-to-the-fermi-paradox' | relative_url }}">Where is Everybody?: Fifty Solutions to the Fermi Paradox</a>” (<a href="{{ '/tags/2002' | relative_url }}">2002</a>) (available <a href="http://www.amazon.com/dp/0387955011/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0387955011/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 100 (in Chapter 4), 259 (in the Notes and Further Reading) of the Copernicus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -276,10 +276,10 @@ For discussion of Project META see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="547">
-<p>White, Frank in his “<a href="/ufo-history/ufo-books/white-frank-the-seti-factor">The SETI Factor</a>” (<a href="/tags/1990">1990</a>) (available <a href="http://www.amazon.com/dp/0802711057/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0802711057/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 56-57, 61 (in Chapter 5) of the Walker hardback edition.</p>
+<p>White, Frank in his “<a href="{{ '/ufo-history/ufo-books/white-frank-the-seti-factor' | relative_url }}">The SETI Factor</a>” (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) (available <a href="http://www.amazon.com/dp/0802711057/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0802711057/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 56-57, 61 (in Chapter 5) of the Walker hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>

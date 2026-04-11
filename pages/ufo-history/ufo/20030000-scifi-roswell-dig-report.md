@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -35,7 +35,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-Text of relevant report printed in “The Roswell Dig Diaries - Sci Fi Declassified” ([2004](/tags/2004)) (edited by Mike McAvennie) (available [on Amazon USA](http://www.amazon.com/dp/0743486129/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0743486129/ref=nosim?tag=ufot-21)) at pages 187-257 (in Chapter 5) of the Pocket Books softcover edition.
+Text of relevant report printed in “The Roswell Dig Diaries - Sci Fi Declassified” ([2004]({{ '/tags/2004' | relative_url }})) (edited by Mike McAvennie) (available [on Amazon USA](http://www.amazon.com/dp/0743486129/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0743486129/ref=nosim?tag=ufot-21)) at pages 187-257 (in Chapter 5) of the Pocket Books softcover edition.
 
 The table below includes references to relevant discussions in UFO/SETI books noted by Isaac Koi during a review of approximately 963 UFO/SETI books during the period 2003-2006 (with a few later additions). The table can be sorted by author, date and length of discussion by clicking on the relevant word in the top line of the table.
 
@@ -61,10 +61,10 @@ For discussion of the Roswell dig see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2004">2004</a></p>
+<p><a href="{{ '/tags/2004' | relative_url }}">2004</a></p>
 </td>
 <td valign="top" width="547">
-<p>Carey, Thomas and <a href="file:///C:/Users/homelap/Documents/koi/Notes%20active%20files%20-%20videos%20photos%20etc/Schmitt,%20Donald%20R">Schmitt, Donald</a> in “The Roswell Dig Diaries - Sci Fi Declassified” (<a href="/tags/2004">2004</a>) (edited by Mike McAvennie) (available <a href="http://www.amazon.com/dp/0743486129/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743486129/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages xii-xiii (in the Introduction) of the Pocket Books softcover edition.</p>
+<p>Carey, Thomas and <a href="file:///C:/Users/homelap/Documents/koi/Notes%20active%20files%20-%20videos%20photos%20etc/Schmitt,%20Donald%20R">Schmitt, Donald</a> in “The Roswell Dig Diaries - Sci Fi Declassified” (<a href="{{ '/tags/2004' | relative_url }}">2004</a>) (edited by Mike McAvennie) (available <a href="http://www.amazon.com/dp/0743486129/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743486129/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages xii-xiii (in the Introduction) of the Pocket Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -72,10 +72,10 @@ For discussion of the Roswell dig see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2004">2004</a></p>
+<p><a href="{{ '/tags/2004' | relative_url }}">2004</a></p>
 </td>
 <td valign="top" width="547">
-<p>McAvennie, Mike in “The Roswell Dig Diaries - Sci Fi Declassified” (<a href="/tags/2004">2004</a>) (edited by Mike McAvennie) (available <a href="http://www.amazon.com/dp/0743486129/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743486129/ref=nosim?tag=ufot-21">on Amazon UK</a>) generally, particularly at pages 1-45, 71-145 of the Pocket Books softcover edition.</p>
+<p>McAvennie, Mike in “The Roswell Dig Diaries - Sci Fi Declassified” (<a href="{{ '/tags/2004' | relative_url }}">2004</a>) (edited by Mike McAvennie) (available <a href="http://www.amazon.com/dp/0743486129/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743486129/ref=nosim?tag=ufot-21">on Amazon UK</a>) generally, particularly at pages 1-45, 71-145 of the Pocket Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>120</p>
@@ -83,10 +83,10 @@ For discussion of the Roswell dig see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2004">2004</a></p>
+<p><a href="{{ '/tags/2004' | relative_url }}">2004</a></p>
 </td>
 <td valign="top" width="547">
-<p>Vitale, Thomas in “The Roswell Dig Diaries - Sci Fi Declassified” (<a href="/tags/2004">2004</a>) (edited by Mike McAvennie) (available <a href="http://www.amazon.com/dp/0743486129/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743486129/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 259-260 (in the Afterword) of the Pocket Books softcover edition.</p>
+<p>Vitale, Thomas in “The Roswell Dig Diaries - Sci Fi Declassified” (<a href="{{ '/tags/2004' | relative_url }}">2004</a>) (edited by Mike McAvennie) (available <a href="http://www.amazon.com/dp/0743486129/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743486129/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 259-260 (in the Afterword) of the Pocket Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -118,10 +118,10 @@ For discussion of the Roswell dig final report see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2004">2004</a></p>
+<p><a href="{{ '/tags/2004' | relative_url }}">2004</a></p>
 </td>
 <td valign="top" width="547">
-<p>McAvennie, Mike in “The Roswell Dig Diaries - Sci Fi Declassified” (<a href="/tags/2004">2004</a>) (edited by Mike McAvennie) (available <a href="http://www.amazon.com/dp/0743486129/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743486129/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 186, 257 (in Chapter 5) of the Pocket Books softcover edition.</p>
+<p>McAvennie, Mike in “The Roswell Dig Diaries - Sci Fi Declassified” (<a href="{{ '/tags/2004' | relative_url }}">2004</a>) (edited by Mike McAvennie) (available <a href="http://www.amazon.com/dp/0743486129/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743486129/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 186, 257 (in Chapter 5) of the Pocket Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

@@ -13,9 +13,9 @@ planned_sections: []
 header: {"preview_image": null}
 ---
 
-“[Best UFO Cases](/ufog/best-ufo-cases)” by Isaac Koi
+“[Best UFO Cases]({{ '/ufog/best-ufo-cases' | relative_url }})” by Isaac Koi
 
-[PART 25: Quantitative criteria: Figuet’s hardest cases](/ufog/best-ufo-cases/25-quantitative-criteria-figuets-hardest-cases)
+[PART 25: Quantitative criteria: Figuet’s hardest cases]({{ '/ufog/best-ufo-cases/25-quantitative-criteria-figuets-hardest-cases' | relative_url }})
 
 Michel Figuet prepared a paper for the “European Congress on AAP” in November 1988 entitled “Criteria for selecting the hardest cases and other recent works on French and Belgium sighting catalogues” (see Footnote 25.01). That paper was presented to the “European Congress on AAP” by Jacques Scornaux, as Figuet did not speak English (see Footnote 25.06).
 

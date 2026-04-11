@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/spielberg_steven_1.jpg"}
 ---
 
-![spielberg_steven_1](/images/stories/ufo_personalities/spielberg_steven_1.jpg)
+![spielberg_steven_1]({{ '/images/stories/ufo_personalities/spielberg_steven_1.jpg' | relative_url }})
 
 *Steven Spielberg*
 
@@ -57,10 +57,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2003">2003</a></p>
+<p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/darling-david">Darling, David</a> in his online encyclopedia, “The Encyclopedia of Astrobiology, Astronomy and Spaceflight” (<a href="/tags/2003">2003</a>) in the entry entitled “<a href="/ufo-history/ufo-personalities/spielberg-steven">Spielberg, Steven</a> (<a href="/tags/1947">1947</a>- )”. The relevant entry is available online at: <a href="http://www.daviddarling.info/encyclopedia/S/Spielberg.html">http://www.daviddarling.info/encyclopedia/S/Spielberg.html</a></p>
+<p><a href="{{ '/ufo-history/ufo-personalities/darling-david' | relative_url }}">Darling, David</a> in his online encyclopedia, “The Encyclopedia of Astrobiology, Astronomy and Spaceflight” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) in the entry entitled “<a href="{{ '/ufo-history/ufo-personalities/spielberg-steven' | relative_url }}">Spielberg, Steven</a> (<a href="{{ '/tags/1947' | relative_url }}">1947</a>- )”. The relevant entry is available online at: <a href="http://www.daviddarling.info/encyclopedia/S/Spielberg.html">http://www.daviddarling.info/encyclopedia/S/Spielberg.html</a></p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -68,10 +68,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p>Mannion, Michael in his “<a href="/ufo-history/ufo-books/mannion-michael-project-mindshift">Project Mindshift</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0871318563/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0871318563/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 185-188 (in Chapter 6) of the Evans hardback edition.</p>
+<p>Mannion, Michael in his “<a href="{{ '/ufo-history/ufo-books/mannion-michael-project-mindshift' | relative_url }}">Project Mindshift</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0871318563/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0871318563/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 185-188 (in Chapter 6) of the Evans hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -79,10 +79,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2007">2007</a></p>
+<p><a href="{{ '/tags/2007' | relative_url }}">2007</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/harris-paola">Harris, Paola</a> in her “<a href="/ufo-history/ufo-books/harris-paola-how-does-one-speak-to-a-ball-of-light">How does one speak to a ball of light?</a>” (<a href="/tags/2007">2007</a>) (available <a href="http://www.amazon.com/dp/1425994024/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1425994024/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 80, 88-89 (in Section 2) of the Author House softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/harris-paola' | relative_url }}">Harris, Paola</a> in her “<a href="{{ '/ufo-history/ufo-books/harris-paola-how-does-one-speak-to-a-ball-of-light' | relative_url }}">How does one speak to a ball of light?</a>” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (available <a href="http://www.amazon.com/dp/1425994024/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1425994024/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 80, 88-89 (in Section 2) of the Author House softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -90,10 +90,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/hesemann-michael">Hesemann, Michael</a> and <a href="/ufo-history/ufo-personalities/mantle-philip">Mantle, Philip</a> in their “<a href="/ufo-history/ufo-books/hesemann-michael-and-mantle-philip-beyond-roswell">Beyond Roswell</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1569247811/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1569247811/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages xiv-xv (in the Introduction) of the Michael O’Mara hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hesemann-michael' | relative_url }}">Hesemann, Michael</a> and <a href="{{ '/ufo-history/ufo-personalities/mantle-philip' | relative_url }}">Mantle, Philip</a> in their “<a href="{{ '/ufo-history/ufo-books/hesemann-michael-and-mantle-philip-beyond-roswell' | relative_url }}">Beyond Roswell</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1569247811/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1569247811/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages xiv-xv (in the Introduction) of the Michael O’Mara hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -101,10 +101,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/watson-nigel">Watson, Nigel</a> and Slade, Darren in their “Supernatural Spielberg” (<a href="/tags/1992">1992</a>) generally, particularly at pages 7-129 of the Valis softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/watson-nigel' | relative_url }}">Watson, Nigel</a> and Slade, Darren in their “Supernatural Spielberg” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) generally, particularly at pages 7-129 of the Valis softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>123</p>

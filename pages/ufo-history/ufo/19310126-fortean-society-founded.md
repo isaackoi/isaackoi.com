@@ -13,11 +13,11 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
-On 26 January [1931](/tags/1931), the [Fortean Society](/ufo-history/ufo-personalities/fortean-society) was founded.
+On 26 January [1931]({{ '/tags/1931' | relative_url }}), the [Fortean Society]({{ '/ufo-history/ufo-personalities/fortean-society' | relative_url }}) was founded.
 
 1. [Web Resources](#web)
 
@@ -33,9 +33,9 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-See entry in relation to the [Fortean Society](/ufo-history/ufo-personalities/fortean-society).
+See entry in relation to the [Fortean Society]({{ '/ufo-history/ufo-personalities/fortean-society' | relative_url }}).
 
 <a id="other"></a>
 ### Other Material
 
-See entry in relation to the [Fortean Society](/ufo-history/ufo-personalities/fortean-society).
+See entry in relation to the [Fortean Society]({{ '/ufo-history/ufo-personalities/fortean-society' | relative_url }}).

@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/movies_1.jpg"}
 ---
 
-![movies_1](/images/stories/ufo_tags/movies_1.jpg)
+![movies_1]({{ '/images/stories/ufo_tags/movies_1.jpg' | relative_url }})
 
 *“Hangar 18”*
 
@@ -77,10 +77,10 @@ For discussion of the movie “Hangar 18” see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/baker-alan">Baker, Alan</a> in his “<a href="/ufo-history/ufo-books/baker-alan-the-encyclopaedia-of-alien-encounters">The Encyclopaedia of Alien Encounters</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/1852277343/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1852277343/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 99-100 (in an entry entitled “Hangar 18 (Film)”) of the Virgin hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/baker-alan' | relative_url }}">Baker, Alan</a> in his “<a href="{{ '/ufo-history/ufo-books/baker-alan-the-encyclopaedia-of-alien-encounters' | relative_url }}">The Encyclopaedia of Alien Encounters</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/1852277343/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1852277343/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 99-100 (in an entry entitled “Hangar 18 (Film)”) of the Virgin hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -88,10 +88,10 @@ For discussion of the movie “Hangar 18” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1989">1989</a></p>
+<p><a href="{{ '/tags/1989' | relative_url }}">1989</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/beckley-timothy-green">Beckley, Timothy Green</a> in his “MJ-12 and the Riddle of Hangar 18” (<a href="/tags/1989">1989</a>) (available <a href="http://www.amazon.com/dp/0938294024/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0938294024/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 40 (in Chapter 3) of the Inner Light softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/beckley-timothy-green' | relative_url }}">Beckley, Timothy Green</a> in his “MJ-12 and the Riddle of Hangar 18” (<a href="{{ '/tags/1989' | relative_url }}">1989</a>) (available <a href="http://www.amazon.com/dp/0938294024/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0938294024/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 40 (in Chapter 3) of the Inner Light softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -99,10 +99,10 @@ For discussion of the movie “Hangar 18” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-the-ufo-book">The UFO Book</a>: Encyclopedia of the Extraterrestrial” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/1578590299/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1578590299/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 672 (in an appendix entitled “UFO Films and Documentaries”) of the Visible Ink Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-the-ufo-book' | relative_url }}">The UFO Book</a>: Encyclopedia of the Extraterrestrial” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/1578590299/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1578590299/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 672 (in an appendix entitled “UFO Films and Documentaries”) of the Visible Ink Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -110,10 +110,10 @@ For discussion of the movie “Hangar 18” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2009">2009</a></p>
+<p><a href="{{ '/tags/2009' | relative_url }}">2009</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clarke-david">Clarke, David</a> in his “<a href="/ufo-history/ufo-books/clarke-david-the-ufo-files-the-inside-story-of-real-life-sightings">The UFO Files : The Inside Story of Real-Life Sightings</a>” (<a href="/tags/2009">2009</a>) (available <a href="http://www.amazon.com/dp/1905615507/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1905615507/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 100 (in Chapter 4) of the National Archives softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clarke-david' | relative_url }}">Clarke, David</a> in his “<a href="{{ '/ufo-history/ufo-books/clarke-david-the-ufo-files-the-inside-story-of-real-life-sightings' | relative_url }}">The UFO Files : The Inside Story of Real-Life Sightings</a>” (<a href="{{ '/tags/2009' | relative_url }}">2009</a>) (available <a href="http://www.amazon.com/dp/1905615507/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1905615507/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 100 (in Chapter 4) of the National Archives softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -121,10 +121,10 @@ For discussion of the movie “Hangar 18” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p>Lyne, William P in his “<a href="/ufo-history/ufo-books/lyne-william-p-space-aliens-from-the-pentagon">Space Aliens from the Pentagon</a>” (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/0963746715/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963746715/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 113 (in Chapter 3) of the Creatopia Productions softcover edition.</p>
+<p>Lyne, William P in his “<a href="{{ '/ufo-history/ufo-books/lyne-william-p-space-aliens-from-the-pentagon' | relative_url }}">Space Aliens from the Pentagon</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/0963746715/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963746715/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 113 (in Chapter 3) of the Creatopia Productions softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -132,10 +132,10 @@ For discussion of the movie “Hangar 18” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-alien-contact-the-first-fifty-years">Alien Contact – The First Fifty Years</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0806904763/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806904763/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 97 (in the chapter entitled “<a href="/tags/1980">1980</a>”) of the Collins and Brown hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-alien-contact-the-first-fifty-years' | relative_url }}">Alien Contact – The First Fifty Years</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0806904763/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806904763/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 97 (in the chapter entitled “<a href="{{ '/tags/1980' | relative_url }}">1980</a>”) of the Collins and Brown hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -143,10 +143,10 @@ For discussion of the movie “Hangar 18” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/rux-bruce">Rux, Bruce</a> in his “<a href="/ufo-history/ufo-books/rux-bruce-hollywood-vs-the-aliens">Hollywood Vs. the Aliens</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1883319617/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1883319617/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 490-491 (in Chapter 9) of the Frog softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/rux-bruce' | relative_url }}">Rux, Bruce</a> in his “<a href="{{ '/ufo-history/ufo-books/rux-bruce-hollywood-vs-the-aliens' | relative_url }}">Hollywood Vs. the Aliens</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1883319617/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1883319617/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 490-491 (in Chapter 9) of the Frog softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -154,10 +154,10 @@ For discussion of the movie “Hangar 18” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p>Sellier, Charles E and Meier, Joe in their “<a href="/ufo-history/ufo-books/sellier-charles-e-and-meier-joe-ufo">UFO</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0809231379/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0809231379/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 11-12 (in Chapter 1) of the Contemporary Books hardback edition.</p>
+<p>Sellier, Charles E and Meier, Joe in their “<a href="{{ '/ufo-history/ufo-books/sellier-charles-e-and-meier-joe-ufo' | relative_url }}">UFO</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0809231379/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0809231379/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 11-12 (in Chapter 1) of the Contemporary Books hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -165,10 +165,10 @@ For discussion of the movie “Hangar 18” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/vallee-jacques">Vallee, Jacques</a> in his “<a href="/ufo-history/ufo-books/vallee-jacques-revelations-alien-contact-and-human-deception">Revelations: Alien Contact and Human Deception</a>” (<a href="/tags/1991">1991</a>) (available <a href="http://www.amazon.com/dp/1933665300/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1933665300/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 27 (in Chapter 1) of the Ballantine Books paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/vallee-jacques' | relative_url }}">Vallee, Jacques</a> in his “<a href="{{ '/ufo-history/ufo-books/vallee-jacques-revelations-alien-contact-and-human-deception' | relative_url }}">Revelations: Alien Contact and Human Deception</a>” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/1933665300/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1933665300/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 27 (in Chapter 1) of the Ballantine Books paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -176,10 +176,10 @@ For discussion of the movie “Hangar 18” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1987">1987</a></p>
+<p><a href="{{ '/tags/1987' | relative_url }}">1987</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/watson-nigel">Watson, Nigel</a> in “<a href="/ufo-history/ufo-books/evans-hilary-and-spencer-john-ufo-1947-1987">UFO: 1947-1987</a>” (<a href="/tags/1987">1987</a>) (edited by <a href="/ufo-history/ufo-personalities/evans-hilary">Hilary Evans</a> with <a href="/ufo-history/ufo-personalities/spencer-john">John Spencer</a>) (available <a href="http://www.amazon.com/dp/1870021029/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1870021029/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 336 (in Chapter 5.4, entitled “The Day Flying Saucers Invaded the Cinema”) of the Fortean Tomes softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/watson-nigel' | relative_url }}">Watson, Nigel</a> in “<a href="{{ '/ufo-history/ufo-books/evans-hilary-and-spencer-john-ufo-1947-1987' | relative_url }}">UFO: 1947-1987</a>” (<a href="{{ '/tags/1987' | relative_url }}">1987</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }}">Hilary Evans</a> with <a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">John Spencer</a>) (available <a href="http://www.amazon.com/dp/1870021029/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1870021029/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 336 (in Chapter 5.4, entitled “The Day Flying Saucers Invaded the Cinema”) of the Fortean Tomes softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

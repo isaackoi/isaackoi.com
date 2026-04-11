@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0809231379.jpg"}
 book: {"identifiers": ["0809231379"], "primary_isbn": "0809231379", "cover_image": "/book-covers/0809231379.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of “[UFO](/ufo-history/ufo-books/sellier-charles-e-and-meier-joe-ufo)” ([1997](/tags/1997)) (available [on Amazon USA](http://www.amazon.com/dp/0809231379/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0809231379/?&tag=ufot-21)) by Charles E Sellier and Joe Meier.
+Brief review to be added of “[UFO]({{ '/ufo-history/ufo-books/sellier-charles-e-and-meier-joe-ufo' | relative_url }})” ([1997]({{ '/tags/1997' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0809231379/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0809231379/?&tag=ufot-21)) by Charles E Sellier and Joe Meier.
 
 1. [Web Resources](#web)
 

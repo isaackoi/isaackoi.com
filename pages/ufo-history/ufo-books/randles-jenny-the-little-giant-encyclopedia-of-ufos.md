@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0806918918.jpg"}
 book: {"identifiers": ["0806918918"], "primary_isbn": "0806918918", "cover_image": "/book-covers/0806918918.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of “[The Little Giant Encyclopedia of UFOs](/ufo-history/ufo-books/randles-jenny-the-little-giant-encyclopedia-of-ufos)” ([2000](/tags/2000)) (available [on Amazon USA](http://www.amazon.com/dp/0806918918/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0806918918/?&tag=ufot-21)) by [Jenny Randles](/ufo-history/ufo-personalities/randles-jenny).
+Brief review to be added of “[The Little Giant Encyclopedia of UFOs]({{ '/ufo-history/ufo-books/randles-jenny-the-little-giant-encyclopedia-of-ufos' | relative_url }})” ([2000]({{ '/tags/2000' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0806918918/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0806918918/?&tag=ufot-21)) by [Jenny Randles]({{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}).
 
 1. [Web Resources](#web)
 

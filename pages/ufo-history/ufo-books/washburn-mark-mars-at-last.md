@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0399119353.jpg"}
 book: {"identifiers": ["0399119353"], "primary_isbn": "0399119353", "cover_image": "/book-covers/0399119353.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of Mark Washburn's book “[Mars at Last!](/ufo-history/ufo-books/washburn-mark-mars-at-last)” ([1977](/tags/1977)) (available [on Amazon USA](http://www.amazon.com/dp/0399119353/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0399119353/?&tag=ufot-21))
+Brief review to be added of Mark Washburn's book “[Mars at Last!]({{ '/ufo-history/ufo-books/washburn-mark-mars-at-last' | relative_url }})” ([1977]({{ '/tags/1977' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0399119353/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0399119353/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1977">1977</a></p>
+<p><a href="{{ '/tags/1977' | relative_url }}">1977</a></p>
 </td>
 <td valign="top" width="547">
-<p>Washburn, Mark in his “<a href="/ufo-history/ufo-books/washburn-mark-mars-at-last">Mars at Last!</a>” (<a href="/tags/1977">1977</a>) (available <a href="http://www.amazon.com/dp/0399119353/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0399119353/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 1-2 (in Chapter 1) of the Abacus paperback edition.</p>
+<p>Washburn, Mark in his “<a href="{{ '/ufo-history/ufo-books/washburn-mark-mars-at-last' | relative_url }}">Mars at Last!</a>” (<a href="{{ '/tags/1977' | relative_url }}">1977</a>) (available <a href="http://www.amazon.com/dp/0399119353/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0399119353/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 1-2 (in Chapter 1) of the Abacus paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

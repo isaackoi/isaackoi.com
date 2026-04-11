@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/britain_1.gif"}
 ---
 
-![britain_1](/images/stories/ufo_tags/britain_1.gif)
+![britain_1]({{ '/images/stories/ufo_tags/britain_1.gif' | relative_url }})
 
 *“Doctor Who” begins*
 
@@ -63,10 +63,10 @@ For discussion of “Dr Who” see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1970">1970</a></p>
+<p><a href="{{ '/tags/1970' | relative_url }}">1970</a></p>
 </td>
 <td valign="top" width="547">
-<p>Baxter, John in his “Science Fiction in the Cinema” (<a href="/tags/1970">1970</a>) (available <a href="http://www.amazon.com/dp/0498074161/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0498074161/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 188 (in Chapter 15) of the Zwemmer softcover edition.</p>
+<p>Baxter, John in his “Science Fiction in the Cinema” (<a href="{{ '/tags/1970' | relative_url }}">1970</a>) (available <a href="http://www.amazon.com/dp/0498074161/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0498074161/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 188 (in Chapter 15) of the Zwemmer softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -74,10 +74,10 @@ For discussion of “Dr Who” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p>Miller, David and Gatiss, Mark in their “<a href="/ufo-history/ufo-books/miller-david-and-gatiss-mark-they-came-from-outer-space-alien-encounters-in-the-movies">They Came From Outer Space : Alien Encounters in the Movies</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/1901018008/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1901018008/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 62-63 of the Visual Imagination softcover edition.</p>
+<p>Miller, David and Gatiss, Mark in their “<a href="{{ '/ufo-history/ufo-books/miller-david-and-gatiss-mark-they-came-from-outer-space-alien-encounters-in-the-movies' | relative_url }}">They Came From Outer Space : Alien Encounters in the Movies</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/1901018008/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1901018008/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 62-63 of the Visual Imagination softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -85,10 +85,10 @@ For discussion of “Dr Who” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1977">1977</a></p>
+<p><a href="{{ '/tags/1977' | relative_url }}">1977</a></p>
 </td>
 <td valign="top" width="547">
-<p>Naha, Ed in his “Science Fiction Aliens - Starlog Photo Guidebook” (<a href="/tags/1977">1977</a>) (available <a href="http://www.amazon.com/dp/0931064015/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0931064015/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 17 (in the unnumbered section entitled “Motion Pictures”) of the Starlog softcover edition.</p>
+<p>Naha, Ed in his “Science Fiction Aliens - Starlog Photo Guidebook” (<a href="{{ '/tags/1977' | relative_url }}">1977</a>) (available <a href="http://www.amazon.com/dp/0931064015/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0931064015/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 17 (in the unnumbered section entitled “Motion Pictures”) of the Starlog softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -96,10 +96,10 @@ For discussion of “Dr Who” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/pope-nick">Pope, Nick</a> in his “<a href="/ufo-history/ufo-books/pope-nick-open-skies-closed-minds">Open Skies, Closed Minds</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/0684816644/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684816644/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 51-52 (in Chapter 3) of the Simon and Schuster hardback edition, with the same page numbering in the Pocket Books paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/pope-nick' | relative_url }}">Pope, Nick</a> in his “<a href="{{ '/ufo-history/ufo-books/pope-nick-open-skies-closed-minds' | relative_url }}">Open Skies, Closed Minds</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/0684816644/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684816644/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 51-52 (in Chapter 3) of the Simon and Schuster hardback edition, with the same page numbering in the Pocket Books paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -107,10 +107,10 @@ For discussion of “Dr Who” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1981">1981</a></p>
+<p><a href="{{ '/tags/1981' | relative_url }}">1981</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> and <a href="/ufo-history/ufo-personalities/whetnall-paul">Whetnall, Paul</a> in their “<a href="/ufo-history/ufo-books/randles-jenny-and-whetnall-paul-alien-contact-window-on-another-world">Alien Contact: Window on Another World</a>” (<a href="/tags/1981">1981</a>) (available <a href="http://www.amazon.com/dp/B000OVBWKC/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000OVBWKC/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 11 (in Chapter 1), 29 (in Chapter 4), 42 (in Chapter 5) of the Coronet paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> and <a href="{{ '/ufo-history/ufo-personalities/whetnall-paul' | relative_url }}">Whetnall, Paul</a> in their “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-whetnall-paul-alien-contact-window-on-another-world' | relative_url }}">Alien Contact: Window on Another World</a>” (<a href="{{ '/tags/1981' | relative_url }}">1981</a>) (available <a href="http://www.amazon.com/dp/B000OVBWKC/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000OVBWKC/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 11 (in Chapter 1), 29 (in Chapter 4), 42 (in Chapter 5) of the Coronet paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -118,10 +118,10 @@ For discussion of “Dr Who” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1988">1988</a></p>
+<p><a href="{{ '/tags/1988' | relative_url }}">1988</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-abduction">Abduction</a>“ (<a href="/tags/1988">1988</a>) (available <a href="http://www.amazon.com/dp/0709032765/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0709032765/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 42 (in Chapter 3), 81 (in Chapter 5) of the Hale hardback edition (with the same page numbering in the Headline paperback edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-abduction' | relative_url }}">Abduction</a>“ (<a href="{{ '/tags/1988' | relative_url }}">1988</a>) (available <a href="http://www.amazon.com/dp/0709032765/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0709032765/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 42 (in Chapter 3), 81 (in Chapter 5) of the Hale hardback edition (with the same page numbering in the Headline paperback edition).</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -129,10 +129,10 @@ For discussion of “Dr Who” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/rux-bruce">Rux, Bruce</a> in his “<a href="/ufo-history/ufo-books/rux-bruce-hollywood-vs-the-aliens">Hollywood Vs. the Aliens</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1883319617/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1883319617/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 362-370 (in Chapter 7) of the Frog softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/rux-bruce' | relative_url }}">Rux, Bruce</a> in his “<a href="{{ '/ufo-history/ufo-books/rux-bruce-hollywood-vs-the-aliens' | relative_url }}">Hollywood Vs. the Aliens</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1883319617/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1883319617/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 362-370 (in Chapter 7) of the Frog softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>9</p>
@@ -140,10 +140,10 @@ For discussion of “Dr Who” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1989">1989</a></p>
+<p><a href="{{ '/tags/1989' | relative_url }}">1989</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/spencer-john">Spencer, John</a> in his “<a href="/ufo-history/ufo-books/spencer-john-perspectives">Perspectives</a>“ (<a href="/tags/1989">1989</a>) (available <a href="http://www.amazon.com/dp/0708847781/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0708847781/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 183-184 (in Part 5) of the Futura paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">Spencer, John</a> in his “<a href="{{ '/ufo-history/ufo-books/spencer-john-perspectives' | relative_url }}">Perspectives</a>“ (<a href="{{ '/tags/1989' | relative_url }}">1989</a>) (available <a href="http://www.amazon.com/dp/0708847781/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0708847781/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 183-184 (in Part 5) of the Futura paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

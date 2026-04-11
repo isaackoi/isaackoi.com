@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0816038007.jpg"}
 book: {"identifiers": ["0816038007"], "primary_isbn": "0816038007", "cover_image": "/book-covers/0816038007.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of “[UFOs and Ufology – the first 50 years](/ufo-history/ufo-books/devereux-paul-and-brookesmith-peter-ufos-and-ufology-the-first-50-years)” ([1997](/tags/1997)) (available [on Amazon USA](http://www.amazon.com/dp/0816038007/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0816038007/?&tag=ufot-21)) by [Paul Devereux](/ufo-history/ufo-personalities/devereux-paul) and [Peter Brookesmith](/ufo-history/ufo-personalities/brookesmith-peter)
+Brief review to be added of “[UFOs and Ufology – the first 50 years]({{ '/ufo-history/ufo-books/devereux-paul-and-brookesmith-peter-ufos-and-ufology-the-first-50-years' | relative_url }})” ([1997]({{ '/tags/1997' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0816038007/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0816038007/?&tag=ufot-21)) by [Paul Devereux]({{ '/ufo-history/ufo-personalities/devereux-paul' | relative_url }}) and [Peter Brookesmith]({{ '/ufo-history/ufo-personalities/brookesmith-peter' | relative_url }})
 
 1. [Web Resources](#web)
 

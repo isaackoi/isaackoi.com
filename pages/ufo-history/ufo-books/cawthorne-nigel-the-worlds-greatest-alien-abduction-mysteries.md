@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0753704250.jpg"}
 book: {"identifiers": ["0753704250"], "primary_isbn": "0753704250", "cover_image": "/book-covers/0753704250.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Nigel Cawthorne](/ufo-history/ufo-personalities/cawthorne-nigel)'s book “[The World’s Greatest Alien Abduction Mysteries](/ufo-history/ufo-books/cawthorne-nigel-the-worlds-greatest-alien-abduction-mysteries)” ([2001](/tags/2001)) (available [on Amazon USA](http://www.amazon.com/dp/0753704250/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0753704250/?&tag=ufot-21))
+Brief review to be added of [Nigel Cawthorne]({{ '/ufo-history/ufo-personalities/cawthorne-nigel' | relative_url }})'s book “[The World’s Greatest Alien Abduction Mysteries]({{ '/ufo-history/ufo-books/cawthorne-nigel-the-worlds-greatest-alien-abduction-mysteries' | relative_url }})” ([2001]({{ '/tags/2001' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0753704250/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0753704250/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

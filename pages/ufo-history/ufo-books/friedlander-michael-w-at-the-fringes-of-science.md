@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0813322006.jpg"}
 book: {"identifiers": ["0813322006"], "primary_isbn": "0813322006", "cover_image": "/book-covers/0813322006.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of Michael W Friedlander's “[At the Fringes of Science](/ufo-history/ufo-books/friedlander-michael-w-at-the-fringes-of-science)” ([1995](/tags/1995)) (available [on Amazon USA](http://www.amazon.com/dp/0813322006/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0813322006/?&tag=ufot-21))
+Brief review to be added of Michael W Friedlander's “[At the Fringes of Science]({{ '/ufo-history/ufo-books/friedlander-michael-w-at-the-fringes-of-science' | relative_url }})” ([1995]({{ '/tags/1995' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0813322006/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0813322006/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

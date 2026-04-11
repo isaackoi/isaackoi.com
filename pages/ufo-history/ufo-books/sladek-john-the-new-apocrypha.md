@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0812817125.jpg"}
 book: {"identifiers": ["0812817125", "1573929905"], "primary_isbn": "0812817125", "cover_image": "/book-covers/0812817125.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of John Sladek's book “[The New Apocrypha](/ufo-history/ufo-books/sladek-john-the-new-apocrypha)” ([1974](/tags/1974)) (available [on Amazon USA](http://www.amazon.com/dp/0812817125/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0812817125/?&tag=ufot-21))
+Brief review to be added of John Sladek's book “[The New Apocrypha]({{ '/ufo-history/ufo-books/sladek-john-the-new-apocrypha' | relative_url }})” ([1974]({{ '/tags/1974' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0812817125/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0812817125/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2003">2003</a></p>
+<p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/moffitt-john">Moffitt, John</a> in his “<a href="/ufo-history/ufo-books/moffitt-john-picturing-extraterrestrials-alien-images-in-modern-mass-culture">Picturing Extraterrestrials : Alien Images in Modern Mass Culture</a>” (<a href="/tags/2003">2003</a>) (available <a href="http://www.amazon.com/dp/1573929905/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573929905/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 275-276 of the Prometheus hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/moffitt-john' | relative_url }}">Moffitt, John</a> in his “<a href="{{ '/ufo-history/ufo-books/moffitt-john-picturing-extraterrestrials-alien-images-in-modern-mass-culture' | relative_url }}">Picturing Extraterrestrials : Alien Images in Modern Mass Culture</a>” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) (available <a href="http://www.amazon.com/dp/1573929905/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573929905/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 275-276 of the Prometheus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

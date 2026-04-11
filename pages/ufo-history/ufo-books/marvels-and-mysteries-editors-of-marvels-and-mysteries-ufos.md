@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0752512277.jpg"}
 book: {"identifiers": ["0752512277"], "primary_isbn": "0752512277", "cover_image": "/book-covers/0752512277.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of “[Marvels and Mysteries: UFOs](/ufo-history/ufo-books/marvels-and-mysteries-editors-of-marvels-and-mysteries-ufos)” ([1997](/tags/1997)) (available [on Amazon USA](http://www.amazon.com/dp/0752512277/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0752512277/?&tag=ufot-21)) by the editors of Marvels and Mysteries.
+Brief review to be added of “[Marvels and Mysteries: UFOs]({{ '/ufo-history/ufo-books/marvels-and-mysteries-editors-of-marvels-and-mysteries-ufos' | relative_url }})” ([1997]({{ '/tags/1997' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0752512277/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0752512277/?&tag=ufot-21)) by the editors of Marvels and Mysteries.
 
 1. [Web Resources](#web)
 

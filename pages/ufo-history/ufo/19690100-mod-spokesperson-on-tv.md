@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/britain_1.gif"}
 ---
 
-![britain_1](/images/stories/ufo_tags/britain_1.gif)
+![britain_1]({{ '/images/stories/ufo_tags/britain_1.gif' | relative_url }})
 
 *MOD spokesperson on TV*
 
@@ -63,10 +63,10 @@ For discussion of the TV appearance of Anthony Davis see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2002">2002</a></p>
+<p><a href="{{ '/tags/2002' | relative_url }}">2002</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clarke-david">Clarke, David</a> and <a href="/ufo-history/ufo-personalities/roberts-andy">Roberts, Andy</a> in their “<a href="file:///C:/Users/homelap/Documents/koi/Notes%20active%20files%20-%20videos%20photos%20etc/v">Out Of The Shadows</a>” (<a href="/tags/2002">2002</a>) (available <a href="http://www.amazon.com/dp/0749922907/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0749922907/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 210-211 (in Chapter 11) of the Piatkus hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clarke-david' | relative_url }}">Clarke, David</a> and <a href="{{ '/ufo-history/ufo-personalities/roberts-andy' | relative_url }}">Roberts, Andy</a> in their “<a href="file:///C:/Users/homelap/Documents/koi/Notes%20active%20files%20-%20videos%20photos%20etc/v">Out Of The Shadows</a>” (<a href="{{ '/tags/2002' | relative_url }}">2002</a>) (available <a href="http://www.amazon.com/dp/0749922907/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0749922907/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 210-211 (in Chapter 11) of the Piatkus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

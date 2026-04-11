@@ -14,7 +14,7 @@ header: {"preview_image": "https://covers.openlibrary.org/b/isbn/0713725184-L.jp
 book: {"identifiers": ["0713725184"], "primary_isbn": "0713725184", "cover_image": "https://covers.openlibrary.org/b/isbn/0713725184-L.jpg?default=false", "cover_source": "openlibrary"}
 ---
 
-Brief review to be added of [Peter Brookesmith](/ufo-history/ufo-personalities/brookesmith-peter)'s book “[UFO: The Complete Sightings Catalogue](/ufo-history/ufo-books/brookesmith-peter-ufo-the-complete-sightings-catalogue)” ([1995](/tags/1995)) (available [on Amazon USA](http://www.amazon.com/dp/0713725184/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0713725184/?&tag=ufot-21)). (Also published as “UFO: The Complete Sightings”)
+Brief review to be added of [Peter Brookesmith]({{ '/ufo-history/ufo-personalities/brookesmith-peter' | relative_url }})'s book “[UFO: The Complete Sightings Catalogue]({{ '/ufo-history/ufo-books/brookesmith-peter-ufo-the-complete-sightings-catalogue' | relative_url }})” ([1995]({{ '/tags/1995' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0713725184/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0713725184/?&tag=ufot-21)). (Also published as “UFO: The Complete Sightings”)
 
 1. [Web Resources](#web)
 

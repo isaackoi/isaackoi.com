@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/tonnies_mac_3.jpg"}
 ---
 
-![tonnies_mac_3](/images/stories/ufo_personalities/tonnies_mac_3.jpg)
+![tonnies_mac_3]({{ '/images/stories/ufo_personalities/tonnies_mac_3.jpg' | relative_url }})
 
 *Mac Tonnies*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/2004">2004</a></p>
+<p><a href="{{ '/tags/2004' | relative_url }}">2004</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/tonnies-mac">Tonnies, Mac</a> “<a href="/ufo-history/ufo-books/tonnies-mac-after-the-martian-apocalypse">After the Martian Apocalypse</a>” (<a href="/tags/2004">2004</a>) (available <a href="http://www.amazon.com/dp/074348293X/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/074348293X/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/tonnies-mac' | relative_url }}">Tonnies, Mac</a> “<a href="{{ '/ufo-history/ufo-books/tonnies-mac-after-the-martian-apocalypse' | relative_url }}">After the Martian Apocalypse</a>” (<a href="{{ '/tags/2004' | relative_url }}">2004</a>) (available <a href="http://www.amazon.com/dp/074348293X/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/074348293X/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>

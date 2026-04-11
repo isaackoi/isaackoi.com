@@ -14,7 +14,7 @@ header: {"preview_image": "https://covers.openlibrary.org/b/isbn/0394450035-L.jp
 book: {"identifiers": ["0394450035", "0671820796", "1578590299", "1558887423", "B000EZY1RO", "B000I9JDLK", "0850303508", "0451204247", "1841196134", "0963916122", "0963010409", "0200716778", "0253190061", "0394492153", "B000EYS2RU", "B000GRISSS", "0934523355", "1567312004", "1870021029", "0137307136", "0815970005", "0140179534", "0879753382", "1573922137", "B000ILEK2A", "0345345258", "044821461X", "0809463245", "0523008406"], "primary_isbn": "0394450035", "cover_image": "https://covers.openlibrary.org/b/isbn/0394450035-L.jpg?default=false", "cover_source": "openlibrary"}
 ---
 
-Brief review to be added of “[UFOs – Identified](/ufo-history/ufo-books/klass-philip-j-ufos-identified)” ([1968](/tags/1968)) (available [on Amazon USA](http://www.amazon.com/dp/0394450035/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0394450035/?&tag=ufot-21)) by: [Philip J Klass](/ufo-history/ufo-personalities/klass-philip-j).
+Brief review to be added of “[UFOs – Identified]({{ '/ufo-history/ufo-books/klass-philip-j-ufos-identified' | relative_url }})” ([1968]({{ '/tags/1968' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0394450035/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0394450035/?&tag=ufot-21)) by: [Philip J Klass]({{ '/ufo-history/ufo-personalities/klass-philip-j' | relative_url }}).
 
 1. [Web Resources](#web)
 
@@ -34,7 +34,7 @@ The table below includes references to relevant discussions in UFO/SETI books no
 
 Many of the tables of references on this website are considerably longer than the references to books found on most other UFO websites. Indeed, some are probably the longest that have been collated in relation to some events and personalities. I hope that these tables are found to be a useful contribution to UFOlogy.
 
-For discussion of “[UFOs Identified](/ufo-history/ufo-books/klass-philip-j-ufos-identified)” and/or the plasma theory advanced by Philip J Klass see the following:
+For discussion of “[UFOs Identified]({{ '/ufo-history/ufo-books/klass-philip-j-ufos-identified' | relative_url }})” and/or the plasma theory advanced by Philip J Klass see the following:
 
 <table border="1" cellpadding="0" cellspacing="0" class="sortable" data-sortable="true" id="sortabletable">
 <thead>
@@ -54,10 +54,10 @@ For discussion of “[UFOs Identified](/ufo-history/ufo-books/klass-philip-j-ufo
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1978">1978</a></p>
+<p><a href="{{ '/tags/1978' | relative_url }}">1978</a></p>
 </td>
 <td valign="top" width="547">
-<p>Barry, Bill in his “<a href="/ufo-history/ufo-books/barry-bill-ultimate-encounter">Ultimate Encounter</a>” (<a href="/tags/1978">1978</a>) (available <a href="http://www.amazon.com/dp/0671820796/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0671820796/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 174-179 (in Chapter 14) of the Corgi paperback edition.</p>
+<p>Barry, Bill in his “<a href="{{ '/ufo-history/ufo-books/barry-bill-ultimate-encounter' | relative_url }}">Ultimate Encounter</a>” (<a href="{{ '/tags/1978' | relative_url }}">1978</a>) (available <a href="http://www.amazon.com/dp/0671820796/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0671820796/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 174-179 (in Chapter 14) of the Corgi paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>6</p>
@@ -65,10 +65,10 @@ For discussion of “[UFOs Identified](/ufo-history/ufo-books/klass-philip-j-ufo
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-the-ufo-book">The UFO Book</a>: Encyclopedia of the Extraterrestrial” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/1578590299/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1578590299/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 369 (in an entry entitled “<a href="/ufo-history/ufo-personalities/mcdonald-james-e">McDonald, James E</a>dward (1920-<a href="/tags/1971">1971</a>)”) of the Visible Ink Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-the-ufo-book' | relative_url }}">The UFO Book</a>: Encyclopedia of the Extraterrestrial” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/1578590299/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1578590299/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 369 (in an entry entitled “<a href="{{ '/ufo-history/ufo-personalities/mcdonald-james-e' | relative_url }}">McDonald, James E</a>dward (1920-<a href="{{ '/tags/1971' | relative_url }}">1971</a>)”) of the Visible Ink Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -76,10 +76,10 @@ For discussion of “[UFOs Identified](/ufo-history/ufo-books/klass-philip-j-ufo
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq">The UFO Encyclopedia: 1st edition</a>: Volume 3 – High Strangeness” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/1558887423/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558887423/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 298 (in an entry entitled “<a href="/ufo-history/ufo-personalities/mcdonald-james-e">McDonald, James E</a>dward (1920-<a href="/tags/1971">1971</a>)”) of the Omnigraphics hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq' | relative_url }}">The UFO Encyclopedia: 1st edition</a>: Volume 3 – High Strangeness” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/1558887423/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558887423/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 298 (in an entry entitled “<a href="{{ '/ufo-history/ufo-personalities/mcdonald-james-e' | relative_url }}">McDonald, James E</a>dward (1920-<a href="{{ '/tags/1971' | relative_url }}">1971</a>)”) of the Omnigraphics hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -87,10 +87,10 @@ For discussion of “[UFOs Identified](/ufo-history/ufo-books/klass-philip-j-ufo
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1969">1969</a></p>
+<p><a href="{{ '/tags/1969' | relative_url }}">1969</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects">Condon Report</a> (“<a href="/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects">Scientific Study of Unidentified Flying Objects</a>”, Edward U Condon (Director) and Daniel S Gillmor (Editor) (<a href="/tags/1969">1969</a>)) (available <a href="http://www.amazon.com/dp/B000EZY1RO/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000EZY1RO/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 1190-1194 (in Section 6, Chapter 7 “Atmospheric Electricity and Plasma Interpretations of UFOs”, by Martin D Altschuler) of the uncorrected version submitted to the Air Force (with the same page numbering in the 3 volume paperbound edition distributed by the National Technical Information Service, US Department of Commerce) at pages 748-750 of the Vision hardback edition (with the same page numbering in the Bantam paperback edition). The first of these editions has the same page numbering as the edition available free online at the following links:</p>
+<p><a href="{{ '/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects' | relative_url }}">Condon Report</a> (“<a href="{{ '/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects' | relative_url }}">Scientific Study of Unidentified Flying Objects</a>”, Edward U Condon (Director) and Daniel S Gillmor (Editor) (<a href="{{ '/tags/1969' | relative_url }}">1969</a>)) (available <a href="http://www.amazon.com/dp/B000EZY1RO/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000EZY1RO/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 1190-1194 (in Section 6, Chapter 7 “Atmospheric Electricity and Plasma Interpretations of UFOs”, by Martin D Altschuler) of the uncorrected version submitted to the Air Force (with the same page numbering in the 3 volume paperbound edition distributed by the National Technical Information Service, US Department of Commerce) at pages 748-750 of the Vision hardback edition (with the same page numbering in the Bantam paperback edition). The first of these editions has the same page numbering as the edition available free online at the following links:</p>
 <p><a href="http://ncas.sawco.com/condon/text/contents.htm">http://ncas.sawco.com/condon/text/contents.htm</a></p>
 <p><a href="http://www.project1947.com/shg/condon/contents.html">http://www.project1947.com/shg/condon/contents.html</a></p>
 </td>
@@ -100,10 +100,10 @@ For discussion of “[UFOs Identified](/ufo-history/ufo-books/klass-philip-j-ufo
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1967">1967</a></p>
+<p><a href="{{ '/tags/1967' | relative_url }}">1967</a></p>
 </td>
 <td valign="top" width="547">
-<p>Erskine, Allen Louis in his “Why Are They Watching Us?” (<a href="/tags/1967">1967</a>) (available <a href="http://www.amazon.com/dp/B000I9JDLK/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000I9JDLK/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 108-109 (in Chapter 13) of the Tower paperback edition.</p>
+<p>Erskine, Allen Louis in his “Why Are They Watching Us?” (<a href="{{ '/tags/1967' | relative_url }}">1967</a>) (available <a href="http://www.amazon.com/dp/B000I9JDLK/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000I9JDLK/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 108-109 (in Chapter 13) of the Tower paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -111,10 +111,10 @@ For discussion of “[UFOs Identified](/ufo-history/ufo-books/klass-philip-j-ufo
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1983">1983</a></p>
+<p><a href="{{ '/tags/1983' | relative_url }}">1983</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/evans-hilary">Evans, Hilary</a> in his “<a href="/ufo-history/ufo-books/evans-hilary-the-evidence-for-ufos">The Evidence for UFOs</a>” (<a href="/tags/1983">1983</a>) (available <a href="http://www.amazon.com/dp/0850303508/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0850303508/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 109 (in Chapter 6) of the Aquarian softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }}">Evans, Hilary</a> in his “<a href="{{ '/ufo-history/ufo-books/evans-hilary-the-evidence-for-ufos' | relative_url }}">The Evidence for UFOs</a>” (<a href="{{ '/tags/1983' | relative_url }}">1983</a>) (available <a href="http://www.amazon.com/dp/0850303508/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0850303508/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 109 (in Chapter 6) of the Aquarian softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -122,10 +122,10 @@ For discussion of “[UFOs Identified](/ufo-history/ufo-books/klass-philip-j-ufo
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fitzgerald-randall">Fitzgerald, Randall</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 622 (in an entry entitled “<a href="/ufo-history/ufo-books/klass-philip-j-ufos-identified">UFOs Identified</a>”) of the New American Library softcover edition, at page 608 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }}">Fitzgerald, Randall</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 622 (in an entry entitled “<a href="{{ '/ufo-history/ufo-books/klass-philip-j-ufos-identified' | relative_url }}">UFOs Identified</a>”) of the New American Library softcover edition, at page 608 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -133,10 +133,10 @@ For discussion of “[UFOs Identified](/ufo-history/ufo-books/klass-philip-j-ufo
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fitzgerald-randall">Fitzgerald, Randall</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 744-745 (in an entry entitled “<a href="/ufo-history/ufo-books/klass-philip-j-ufos-identified">UFOs Identified</a>”) of the Robinson softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }}">Fitzgerald, Randall</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 744-745 (in an entry entitled “<a href="{{ '/ufo-history/ufo-books/klass-philip-j-ufos-identified' | relative_url }}">UFOs Identified</a>”) of the Robinson softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -144,10 +144,10 @@ For discussion of “[UFOs Identified](/ufo-history/ufo-books/klass-philip-j-ufo
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fitzgerald-randall">Fitzgerald, Randall</a> in his “<a href="/ufo-history/ufo-books/fitzgerald-randall-the-cosmic-test-tube">The Cosmic Test Tube</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0963916122/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963916122/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 297-299 (in Section 4) with a one sentence summary at page 376 (in the Guide To Books) of the Moonlake Media softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }}">Fitzgerald, Randall</a> in his “<a href="{{ '/ufo-history/ufo-books/fitzgerald-randall-the-cosmic-test-tube' | relative_url }}">The Cosmic Test Tube</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0963916122/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963916122/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 297-299 (in Section 4) with a one sentence summary at page 376 (in the Guide To Books) of the Moonlake Media softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -155,10 +155,10 @@ For discussion of “[UFOs Identified](/ufo-history/ufo-books/klass-philip-j-ufo
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/friedman-stanton">Friedman, Stanton</a> in an interview in “UFOs And The Alien Presence: Six Viewpoints” (<a href="/tags/1991">1991</a>) (Edited by Michael Lindemann) (available <a href="http://www.amazon.com/dp/0963010409/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963010409/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 15-16 (in Chapter 1) of the <a href="/tags/2002">2002</a> Group softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/friedman-stanton' | relative_url }}">Friedman, Stanton</a> in an interview in “UFOs And The Alien Presence: Six Viewpoints” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (Edited by Michael Lindemann) (available <a href="http://www.amazon.com/dp/0963010409/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963010409/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 15-16 (in Chapter 1) of the <a href="{{ '/tags/2002' | relative_url }}">2002</a> Group softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -166,10 +166,10 @@ For discussion of “[UFOs Identified](/ufo-history/ufo-books/klass-philip-j-ufo
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1967">1967</a></p>
+<p><a href="{{ '/tags/1967' | relative_url }}">1967</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/greenfield-irving-a">Greenfield, Irving A</a> in his “The UFO Report” (<a href="/tags/1967">1967</a>) at pages 122-123 (in Chapter 14), 136 (in Chapter 16) of the Lancer paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/greenfield-irving-a' | relative_url }}">Greenfield, Irving A</a> in his “The UFO Report” (<a href="{{ '/tags/1967' | relative_url }}">1967</a>) at pages 122-123 (in Chapter 14), 136 (in Chapter 16) of the Lancer paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -177,10 +177,10 @@ For discussion of “[UFOs Identified](/ufo-history/ufo-books/klass-philip-j-ufo
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1970">1970</a></p>
+<p><a href="{{ '/tags/1970' | relative_url }}">1970</a></p>
 </td>
 <td valign="top" width="547">
-<p>Gurney, Gene (USAF Lt Col) and Gurney, Clare in their “Unidentified Flying Objects” (<a href="/tags/1970">1970</a>) (available <a href="http://www.amazon.com/dp/0200716778/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0200716778/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 116-119 (in Chapter 9) of the Abelard-Schuman hardback edition.</p>
+<p>Gurney, Gene (USAF Lt Col) and Gurney, Clare in their “Unidentified Flying Objects” (<a href="{{ '/tags/1970' | relative_url }}">1970</a>) (available <a href="http://www.amazon.com/dp/0200716778/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0200716778/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 116-119 (in Chapter 9) of the Abelard-Schuman hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -188,10 +188,10 @@ For discussion of “[UFOs Identified](/ufo-history/ufo-books/klass-philip-j-ufo
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1975">1975</a></p>
+<p><a href="{{ '/tags/1975' | relative_url }}">1975</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/jacobs-david-michael">Jacobs, David Michael</a> in his “<a href="/ufo-history/ufo-books/jacobs-david-michael-the-ufo-controversy-in-america">The UFO Controversy in America</a>” (<a href="/tags/1975">1975</a>) (available <a href="http://www.amazon.com/dp/0253190061/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0253190061/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 216-217 (in Chapter 8) of the Indiana hardback edition, page 192 of the Signet paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/jacobs-david-michael' | relative_url }}">Jacobs, David Michael</a> in his “<a href="{{ '/ufo-history/ufo-books/jacobs-david-michael-the-ufo-controversy-in-america' | relative_url }}">The UFO Controversy in America</a>” (<a href="{{ '/tags/1975' | relative_url }}">1975</a>) (available <a href="http://www.amazon.com/dp/0253190061/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0253190061/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 216-217 (in Chapter 8) of the Indiana hardback edition, page 192 of the Signet paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -199,10 +199,10 @@ For discussion of “[UFOs Identified](/ufo-history/ufo-books/klass-philip-j-ufo
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1974">1974</a></p>
+<p><a href="{{ '/tags/1974' | relative_url }}">1974</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/klass-philip-j">Klass, Philip J</a> in his “<a href="/ufo-history/ufo-books/klass-philip-j-ufos-explained">UFOs Explained</a>” (<a href="/tags/1974">1974</a>) (available <a href="http://www.amazon.com/dp/0394492153/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0394492153/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 94-95 (in Chapter 10) of the Random House Hardback edition, at pages 111-112 of Random House paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/klass-philip-j' | relative_url }}">Klass, Philip J</a> in his “<a href="{{ '/ufo-history/ufo-books/klass-philip-j-ufos-explained' | relative_url }}">UFOs Explained</a>” (<a href="{{ '/tags/1974' | relative_url }}">1974</a>) (available <a href="http://www.amazon.com/dp/0394492153/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0394492153/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 94-95 (in Chapter 10) of the Random House Hardback edition, at pages 111-112 of Random House paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -210,10 +210,10 @@ For discussion of “[UFOs Identified](/ufo-history/ufo-books/klass-philip-j-ufo
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1968">1968</a></p>
+<p><a href="{{ '/tags/1968' | relative_url }}">1968</a></p>
 </td>
 <td valign="top" width="547">
-<p>Lloyd Mallan in “The Official Guide to UFOs” (<a href="/tags/1968">1968</a>) (edited by the editors of Science &amp; Mechanics) (available <a href="http://www.amazon.com/dp/B000EYS2RU/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000EYS2RU/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 123-125 (in unnumbered chapter entitled “What Happened at Wanaque, N. J.?”) of the Ace paperback edition.</p>
+<p>Lloyd Mallan in “The Official Guide to UFOs” (<a href="{{ '/tags/1968' | relative_url }}">1968</a>) (edited by the editors of Science &amp; Mechanics) (available <a href="http://www.amazon.com/dp/B000EYS2RU/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000EYS2RU/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 123-125 (in unnumbered chapter entitled “What Happened at Wanaque, N. J.?”) of the Ace paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -221,10 +221,10 @@ For discussion of “[UFOs Identified](/ufo-history/ufo-books/klass-philip-j-ufo
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1979">1979</a></p>
+<p><a href="{{ '/tags/1979' | relative_url }}">1979</a></p>
 </td>
 <td valign="top" width="547">
-<p>Machlin, Milt in his “<a href="/ufo-history/ufo-books/machlin-milt-the-total-ufo-story">The Total UFO Story</a>” (<a href="/tags/1979">1979</a>) (available <a href="http://www.amazon.com/dp/B000GRISSS/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000GRISSS/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 48-49 (in the Chapter 2) of the Dale paperback edition.</p>
+<p>Machlin, Milt in his “<a href="{{ '/ufo-history/ufo-books/machlin-milt-the-total-ufo-story' | relative_url }}">The Total UFO Story</a>” (<a href="{{ '/tags/1979' | relative_url }}">1979</a>) (available <a href="http://www.amazon.com/dp/B000GRISSS/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000GRISSS/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 48-49 (in the Chapter 2) of the Dale paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -232,10 +232,10 @@ For discussion of “[UFOs Identified](/ufo-history/ufo-books/klass-philip-j-ufo
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1968">1968</a></p>
+<p><a href="{{ '/tags/1968' | relative_url }}">1968</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/mcdonald-james-e">McDonald, James E</a> in the Roush Hearing (the U.S. House of Representatives Committee on Science and Astronautics "Symposium on Unidentified Flying Objects" on <a href="/tags/1968">1968</a>.0729) at page 26 of the transcript of the Ninetieth Congress, Second Session, Number 7. Edited and annotated transcript presented by <a href="/ufo-history/ufo-personalities/fuller-john-g">Fuller, John</a> in his “<a href="/ufo-history/ufo-books/fuller-john-aliens-in-the-skies">Aliens in the Skies</a>” (<a href="/tags/1969">1969</a>), with the relevant extract appearing at pages 77-78 (in Chapter 2) of the Putnam hardback edition. Complete transcript available free online at the following links:</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/mcdonald-james-e' | relative_url }}">McDonald, James E</a> in the Roush Hearing (the U.S. House of Representatives Committee on Science and Astronautics "Symposium on Unidentified Flying Objects" on <a href="{{ '/tags/1968' | relative_url }}">1968</a>.0729) at page 26 of the transcript of the Ninetieth Congress, Second Session, Number 7. Edited and annotated transcript presented by <a href="{{ '/ufo-history/ufo-personalities/fuller-john-g' | relative_url }}">Fuller, John</a> in his “<a href="{{ '/ufo-history/ufo-books/fuller-john-aliens-in-the-skies' | relative_url }}">Aliens in the Skies</a>” (<a href="{{ '/tags/1969' | relative_url }}">1969</a>), with the relevant extract appearing at pages 77-78 (in Chapter 2) of the Putnam hardback edition. Complete transcript available free online at the following links:</p>
 <p><a href="http://ncas.sawco.com/ufosymposium/contents.html">http://ncas.sawco.com/ufosymposium/contents.html</a></p>
 <p><a href="http://www.project1947.com/shg/symposium/contents.html%20">http://www.project1947.com/shg/symposium/contents.html</a></p>
 </td>
@@ -245,10 +245,10 @@ For discussion of “[UFOs Identified](/ufo-history/ufo-books/klass-philip-j-ufo
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1988">1988</a></p>
+<p><a href="{{ '/tags/1988' | relative_url }}">1988</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randle-kevin">Randle, Kevin</a> in his “<a href="/ufo-history/ufo-books/randle-kevin-d-the-october-scenario">The October Scenario</a>” (<a href="/tags/1988">1988</a>) (available <a href="http://www.amazon.com/dp/0934523355/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0934523355/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 135 (in Part 3, unnumbered section entitled “Solutions and Theories”) of the Berkley paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randle-kevin' | relative_url }}">Randle, Kevin</a> in his “<a href="{{ '/ufo-history/ufo-books/randle-kevin-d-the-october-scenario' | relative_url }}">The October Scenario</a>” (<a href="{{ '/tags/1988' | relative_url }}">1988</a>) (available <a href="http://www.amazon.com/dp/0934523355/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0934523355/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 135 (in Part 3, unnumbered section entitled “Solutions and Theories”) of the Berkley paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -256,10 +256,10 @@ For discussion of “[UFOs Identified](/ufo-history/ufo-books/klass-philip-j-ufo
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p>Ritchie, David in his “<a href="/ufo-history/ufo-books/ritchie-david-ufo-the-definitive-guide">UFO : The Definitive Guide</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/1567312004/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1567312004/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 63-64 (in an entry entitled “electrical phenomena”) of the MJF hardback edition.</p>
+<p>Ritchie, David in his “<a href="{{ '/ufo-history/ufo-books/ritchie-david-ufo-the-definitive-guide' | relative_url }}">UFO : The Definitive Guide</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/1567312004/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1567312004/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 63-64 (in an entry entitled “electrical phenomena”) of the MJF hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -267,10 +267,10 @@ For discussion of “[UFOs Identified](/ufo-history/ufo-books/klass-philip-j-ufo
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1987">1987</a></p>
+<p><a href="{{ '/tags/1987' | relative_url }}">1987</a></p>
 </td>
 <td valign="top" width="547">
-<p>Rutkowski, Chris in “<a href="/ufo-history/ufo-books/evans-hilary-and-spencer-john-ufo-1947-1987">UFO: 1947-1987</a>” (<a href="/tags/1987">1987</a>) (edited by <a href="/ufo-history/ufo-personalities/evans-hilary">Hilary Evans</a> with <a href="/ufo-history/ufo-personalities/spencer-john">John Spencer</a>) (available <a href="http://www.amazon.com/dp/1870021029/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1870021029/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 274 (in Chapter 4.3.2, entitled “UFOs as Natural Phenomena”) of the Fortean Tomes softcover edition.</p>
+<p>Rutkowski, Chris in “<a href="{{ '/ufo-history/ufo-books/evans-hilary-and-spencer-john-ufo-1947-1987' | relative_url }}">UFO: 1947-1987</a>” (<a href="{{ '/tags/1987' | relative_url }}">1987</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }}">Hilary Evans</a> with <a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">John Spencer</a>) (available <a href="http://www.amazon.com/dp/1870021029/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1870021029/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 274 (in Chapter 4.3.2, entitled “UFOs as Natural Phenomena”) of the Fortean Tomes softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -278,10 +278,10 @@ For discussion of “[UFOs Identified](/ufo-history/ufo-books/klass-philip-j-ufo
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1981">1981</a></p>
+<p><a href="{{ '/tags/1981' | relative_url }}">1981</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/rutledge-harley-d">Rutledge, Harley D</a> in his “<a href="/ufo-history/ufo-books/rutledge-harley-d-project-identification">Project Identification</a>” (<a href="/tags/1981">1981</a>) (available <a href="http://www.amazon.com/dp/0137307136/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0137307136/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 246 (in Chapter 20) of the Prentice-Hall hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/rutledge-harley-d' | relative_url }}">Rutledge, Harley D</a> in his “<a href="{{ '/ufo-history/ufo-books/rutledge-harley-d-project-identification' | relative_url }}">Project Identification</a>” (<a href="{{ '/tags/1981' | relative_url }}">1981</a>) (available <a href="http://www.amazon.com/dp/0137307136/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0137307136/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 246 (in Chapter 20) of the Prentice-Hall hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -289,10 +289,10 @@ For discussion of “[UFOs Identified](/ufo-history/ufo-books/klass-philip-j-ufo
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1974">1974</a></p>
+<p><a href="{{ '/tags/1974' | relative_url }}">1974</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/salisbury-frank">Salisbury, Frank</a> in his “The Utah UFO Display: A Biologist’s Report” (<a href="/tags/1974">1974</a>) (available <a href="http://www.amazon.com/dp/0815970005/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0815970005/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 228 (in the Appendix entitled “The Literature of Ufology”) of the Devin Adair hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/salisbury-frank' | relative_url }}">Salisbury, Frank</a> in his “The Utah UFO Display: A Biologist’s Report” (<a href="{{ '/tags/1974' | relative_url }}">1974</a>) (available <a href="http://www.amazon.com/dp/0815970005/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0815970005/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 228 (in the Appendix entitled “The Literature of Ufology”) of the Devin Adair hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -300,10 +300,10 @@ For discussion of “[UFOs Identified](/ufo-history/ufo-books/klass-philip-j-ufo
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/schnabel-jim">Schnabel, Jim</a> in his “<a href="/ufo-history/ufo-books/schnabel-jim-dark-white">Dark White</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/0140179534/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0140179534/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 93-96 (in Chapter 6) of the Hamish Hamilton softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/schnabel-jim' | relative_url }}">Schnabel, Jim</a> in his “<a href="{{ '/ufo-history/ufo-books/schnabel-jim-dark-white' | relative_url }}">Dark White</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/0140179534/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0140179534/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 93-96 (in Chapter 6) of the Hamish Hamilton softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -311,10 +311,10 @@ For discussion of “[UFOs Identified](/ufo-history/ufo-books/klass-philip-j-ufo
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sheaffer-robert">Sheaffer, Robert</a> in his “<a href="/ufo-history/ufo-books/sheaffer-robert-the-ufo-verdict">The UFO Verdict</a>” (<a href="/tags/1980">1980</a>) (available <a href="http://www.amazon.com/dp/0879753382/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879753382/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 209 (in Chapter 20) of the Prometheus softback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sheaffer-robert' | relative_url }}">Sheaffer, Robert</a> in his “<a href="{{ '/ufo-history/ufo-books/sheaffer-robert-the-ufo-verdict' | relative_url }}">The UFO Verdict</a>” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) (available <a href="http://www.amazon.com/dp/0879753382/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879753382/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 209 (in Chapter 20) of the Prometheus softback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -322,10 +322,10 @@ For discussion of “[UFOs Identified](/ufo-history/ufo-books/klass-philip-j-ufo
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sheaffer-robert">Sheaffer, Robert</a> in his “<a href="/ufo-history/ufo-books/sheaffer-robert-ufo-sightings-the-evidence">UFO Sightings: The Evidence</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/1573922137/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573922137/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 270 (in Chapter 19) of the Prometheus hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sheaffer-robert' | relative_url }}">Sheaffer, Robert</a> in his “<a href="{{ '/ufo-history/ufo-books/sheaffer-robert-ufo-sightings-the-evidence' | relative_url }}">UFO Sightings: The Evidence</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/1573922137/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573922137/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 270 (in Chapter 19) of the Prometheus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -333,10 +333,10 @@ For discussion of “[UFOs Identified](/ufo-history/ufo-books/klass-philip-j-ufo
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1966">1966</a></p>
+<p><a href="{{ '/tags/1966' | relative_url }}">1966</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/stanton-l-jerome">Stanton, L Jerome</a> in his “<a href="/ufo-history/ufo-books/stanton-l-jerome-flying-saucers-hoax-or-reality">Flying Saucers : Hoax or Reality?</a>” (<a href="/tags/1966">1966</a>) (available <a href="http://www.amazon.com/dp/B000ILEK2A/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000ILEK2A/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 20-21 (in Chapter 1), 98 (in Chapter 6), 149 (in Chapter 9) of the Belmont paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/stanton-l-jerome' | relative_url }}">Stanton, L Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/stanton-l-jerome-flying-saucers-hoax-or-reality' | relative_url }}">Flying Saucers : Hoax or Reality?</a>” (<a href="{{ '/tags/1966' | relative_url }}">1966</a>) (available <a href="http://www.amazon.com/dp/B000ILEK2A/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000ILEK2A/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 20-21 (in Chapter 1), 98 (in Chapter 6), 149 (in Chapter 9) of the Belmont paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -344,10 +344,10 @@ For discussion of “[UFOs Identified](/ufo-history/ufo-books/klass-philip-j-ufo
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1976">1976</a></p>
+<p><a href="{{ '/tags/1976' | relative_url }}">1976</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/steiger-brad">Steiger, Brad</a> in his “<a href="/ufo-history/ufo-books/steiger-brad-project-blue-book">Project Blue Book</a>“ (<a href="/tags/1976">1976</a>) (available <a href="http://www.amazon.com/dp/0345345258/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0345345258/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 337 (forming part of Chapter 13) of the Ballantine Books paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/steiger-brad' | relative_url }}">Steiger, Brad</a> in his “<a href="{{ '/ufo-history/ufo-books/steiger-brad-project-blue-book' | relative_url }}">Project Blue Book</a>“ (<a href="{{ '/tags/1976' | relative_url }}">1976</a>) (available <a href="http://www.amazon.com/dp/0345345258/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0345345258/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 337 (forming part of Chapter 13) of the Ballantine Books paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -355,10 +355,10 @@ For discussion of “[UFOs Identified](/ufo-history/ufo-books/klass-philip-j-ufo
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1977">1977</a></p>
+<p><a href="{{ '/tags/1977' | relative_url }}">1977</a></p>
 </td>
 <td valign="top" width="547">
-<p>Strickland, Joshua in his “Extra-terrestrials on Earth” (<a href="/tags/1977">1977</a>) (available <a href="http://www.amazon.com/dp/044821461X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/044821461X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 66-69 (in Chapter 5) of the Granada softcover edition.</p>
+<p>Strickland, Joshua in his “Extra-terrestrials on Earth” (<a href="{{ '/tags/1977' | relative_url }}">1977</a>) (available <a href="http://www.amazon.com/dp/044821461X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/044821461X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 66-69 (in Chapter 5) of the Granada softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -366,10 +366,10 @@ For discussion of “[UFOs Identified](/ufo-history/ufo-books/klass-philip-j-ufo
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1987">1987</a></p>
+<p><a href="{{ '/tags/1987' | relative_url }}">1987</a></p>
 </td>
 <td valign="top" width="547">
-<p>Time-Life (Editors of) in “<a href="/ufo-history/ufo-books/time-life-editors-of-the-ufo-phenomenon-mysteries-of-the-unknown">The UFO phenomenon: Mysteries of the Unknown</a>” (<a href="/tags/1987">1987</a>) (available <a href="http://www.amazon.com/dp/0809463245/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0809463245/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 104-106 (in Chapter 3) of the Time-Life Book hardback edition.</p>
+<p>Time-Life (Editors of) in “<a href="{{ '/ufo-history/ufo-books/time-life-editors-of-the-ufo-phenomenon-mysteries-of-the-unknown' | relative_url }}">The UFO phenomenon: Mysteries of the Unknown</a>” (<a href="{{ '/tags/1987' | relative_url }}">1987</a>) (available <a href="http://www.amazon.com/dp/0809463245/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0809463245/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 104-106 (in Chapter 3) of the Time-Life Book hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -377,10 +377,10 @@ For discussion of “[UFOs Identified](/ufo-history/ufo-books/klass-philip-j-ufo
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1971">1971</a></p>
+<p><a href="{{ '/tags/1971' | relative_url }}">1971</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/vesco-renato">Vesco, Renato</a> in his “<a href="/ufo-history/ufo-books/vesco-renato-intercept-ufo">Intercept Ufo</a>” (Formerly published as “Intercept - But Don't Shoot”) (<a href="/tags/1971">1971</a>) (available <a href="http://www.amazon.com/dp/0523008406/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0523008406/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 331 (in Chapter 10) of the Zebra paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/vesco-renato' | relative_url }}">Vesco, Renato</a> in his “<a href="{{ '/ufo-history/ufo-books/vesco-renato-intercept-ufo' | relative_url }}">Intercept Ufo</a>” (Formerly published as “Intercept - But Don't Shoot”) (<a href="{{ '/tags/1971' | relative_url }}">1971</a>) (available <a href="http://www.amazon.com/dp/0523008406/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0523008406/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 331 (in Chapter 10) of the Zebra paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

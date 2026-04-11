@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/1881532062.jpg"}
 book: {"identifiers": ["1881532062"], "primary_isbn": "1881532062", "cover_image": "/book-covers/1881532062.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [John A Keel](/ufo-history/ufo-personalities/keel-john-a)'s book “[Disneyland of the Gods](/ufo-history/ufo-books/keel-john-disneyland-of-the-gods)” ([1988](/tags/1988)) (available [on Amazon USA](http://www.amazon.com/dp/1881532062/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1881532062/?&tag=ufot-21))
+Brief review to be added of [John A Keel]({{ '/ufo-history/ufo-personalities/keel-john-a' | relative_url }})'s book “[Disneyland of the Gods]({{ '/ufo-history/ufo-books/keel-john-disneyland-of-the-gods' | relative_url }})” ([1988]({{ '/tags/1988' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1881532062/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1881532062/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

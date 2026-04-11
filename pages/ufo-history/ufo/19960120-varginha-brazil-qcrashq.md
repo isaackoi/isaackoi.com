@@ -13,11 +13,11 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
-On 20 January [1996](/tags/1996), a UFO allegedly crashed north of Varginha, Minas Gerais state, Brazil. There were reports of a small humanoid creature.
+On 20 January [1996]({{ '/tags/1996' | relative_url }}), a UFO allegedly crashed north of Varginha, Minas Gerais state, Brazil. There were reports of a small humanoid creature.
 
 Sections below
 
@@ -63,10 +63,10 @@ For discussion of the Varginha incident see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/baker-alan">Baker, Alan</a> in his “Sci-Fi Channel: True Life Encounters: UFO Sightings” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1575000229/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1575000229/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 99-101 (in Chapter 3) of the Orion softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/baker-alan' | relative_url }}">Baker, Alan</a> in his “Sci-Fi Channel: True Life Encounters: UFO Sightings” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1575000229/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1575000229/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 99-101 (in Chapter 3) of the Orion softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -74,10 +74,10 @@ For discussion of the Varginha incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/baker-alan">Baker, Alan</a> in his “<a href="/ufo-history/ufo-books/baker-alan-the-encyclopaedia-of-alien-encounters">The Encyclopaedia of Alien Encounters</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/1852277343/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1852277343/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 250 (in an entry entitled “Varginha, Brazil”) of the Virgin hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/baker-alan' | relative_url }}">Baker, Alan</a> in his “<a href="{{ '/ufo-history/ufo-books/baker-alan-the-encyclopaedia-of-alien-encounters' | relative_url }}">The Encyclopaedia of Alien Encounters</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/1852277343/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1852277343/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 250 (in an entry entitled “Varginha, Brazil”) of the Virgin hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -85,10 +85,10 @@ For discussion of the Varginha incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2004">2004</a></p>
+<p><a href="{{ '/tags/2004' | relative_url }}">2004</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/birnes-william">Birnes, William</a> in his “<a href="/ufo-history/ufo-books/birnes-william-the-ufo-magazine-ufo-encyclopedia">The UFO Magazine UFO Encyclopedia</a>” (<a href="/tags/2004">2004</a>) (available <a href="http://www.amazon.com/dp/0743466748/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743466748/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 321 (in an entry entitled “Varginha, Brazil”) of the Pocket Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/birnes-william' | relative_url }}">Birnes, William</a> in his “<a href="{{ '/ufo-history/ufo-books/birnes-william-the-ufo-magazine-ufo-encyclopedia' | relative_url }}">The UFO Magazine UFO Encyclopedia</a>” (<a href="{{ '/tags/2004' | relative_url }}">2004</a>) (available <a href="http://www.amazon.com/dp/0743466748/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743466748/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 321 (in an entry entitled “Varginha, Brazil”) of the Pocket Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -96,10 +96,10 @@ For discussion of the Varginha incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/cawthorne-nigel">Cawthorne, Nigel</a> in “<a href="/ufo-history/ufo-books/cawthorne-nigel-the-worlds-greatest-alien-abduction-mysteries">The World’s Greatest Alien Abduction Mysteries</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/0753704250/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0753704250/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 257-259 (in the chapter entitled “Weird and Wacky”) of the Chancellor Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/cawthorne-nigel' | relative_url }}">Cawthorne, Nigel</a> in “<a href="{{ '/ufo-history/ufo-books/cawthorne-nigel-the-worlds-greatest-alien-abduction-mysteries' | relative_url }}">The World’s Greatest Alien Abduction Mysteries</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/0753704250/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0753704250/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 257-259 (in the chapter entitled “Weird and Wacky”) of the Chancellor Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -107,10 +107,10 @@ For discussion of the Varginha incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/cawthorne-nigel">Cawthorne, Nigel</a> in his “<a href="/ufo-history/ufo-books/cawthorne-nigel-the-worlds-greatest-alien-abductions">The World’s Greatest Alien Abductions</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0753700875/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0753700875/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 188-190 (in the chapter entitled “Weird and Wacky”) of the Hamlyn softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/cawthorne-nigel' | relative_url }}">Cawthorne, Nigel</a> in his “<a href="{{ '/ufo-history/ufo-books/cawthorne-nigel-the-worlds-greatest-alien-abductions' | relative_url }}">The World’s Greatest Alien Abductions</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0753700875/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0753700875/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 188-190 (in the chapter entitled “Weird and Wacky”) of the Hamlyn softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -118,10 +118,10 @@ For discussion of the Varginha incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p>Corrales, Scott in “<a href="/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 632-633 (in an entry entitled “Varginha (Brazil) encounters of <a href="/tags/1996">1996</a>”) of the New American Library softcover edition, at pages 619-620 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
+<p>Corrales, Scott in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 632-633 (in an entry entitled “Varginha (Brazil) encounters of <a href="{{ '/tags/1996' | relative_url }}">1996</a>”) of the New American Library softcover edition, at pages 619-620 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -129,10 +129,10 @@ For discussion of the Varginha incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p>Corrales, Scott in “<a href="/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 758-759 (in an entry entitled “Varginha (Brazil) encounters of <a href="/tags/1996">1996</a>”) of the Robinson softcover edition.</p>
+<p>Corrales, Scott in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 758-759 (in an entry entitled “Varginha (Brazil) encounters of <a href="{{ '/tags/1996' | relative_url }}">1996</a>”) of the Robinson softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -140,10 +140,10 @@ For discussion of the Varginha incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/devereux-paul">Devereux, Paul</a> and <a href="/ufo-history/ufo-personalities/brookesmith-peter">Brookesmith, Peter</a> in their “<a href="/ufo-history/ufo-books/devereux-paul-and-brookesmith-peter-ufos-and-ufology-the-first-50-years">UFOs and Ufology – the first 50 years</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0816038007/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0816038007/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 76 (in Chapter 6) of the Blandford softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/devereux-paul' | relative_url }}">Devereux, Paul</a> and <a href="{{ '/ufo-history/ufo-personalities/brookesmith-peter' | relative_url }}">Brookesmith, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/devereux-paul-and-brookesmith-peter-ufos-and-ufology-the-first-50-years' | relative_url }}">UFOs and Ufology – the first 50 years</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0816038007/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0816038007/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 76 (in Chapter 6) of the Blandford softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -151,10 +151,10 @@ For discussion of the Varginha incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2007">2007</a></p>
+<p><a href="{{ '/tags/2007' | relative_url }}">2007</a></p>
 </td>
 <td valign="top" width="547">
-<p>Gevaerd, A J in Paola Harris’ “<a href="/ufo-history/ufo-books/harris-paola-how-does-one-speak-to-a-ball-of-light">How does one speak to a ball of light?</a>” (<a href="/tags/2007">2007</a>) (available <a href="http://www.amazon.com/dp/1425994024/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1425994024/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 136-146 (in Section 2) of the Author House softcover edition.</p>
+<p>Gevaerd, A J in Paola Harris’ “<a href="{{ '/ufo-history/ufo-books/harris-paola-how-does-one-speak-to-a-ball-of-light' | relative_url }}">How does one speak to a ball of light?</a>” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (available <a href="http://www.amazon.com/dp/1425994024/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1425994024/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 136-146 (in Section 2) of the Author House softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>11</p>
@@ -162,10 +162,10 @@ For discussion of the Varginha incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Glenday, Craig in his “<a href="/ufo-history/ufo-books/glenday-craig-the-ufo-investigators-handbook">The UFO Investigator’s Handbook</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0762406194/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0762406194/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 127 (in Chapter 6) of the Running Press softcover edition.</p>
+<p>Glenday, Craig in his “<a href="{{ '/ufo-history/ufo-books/glenday-craig-the-ufo-investigators-handbook' | relative_url }}">The UFO Investigator’s Handbook</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0762406194/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0762406194/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 127 (in Chapter 6) of the Running Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -173,10 +173,10 @@ For discussion of the Varginha incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/good-timothy">Good, Timothy</a> in his “<a href="/ufo-history/ufo-books/good-timothy-unearthly-disclosure">Unearthly Disclosure</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/0099406020/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0099406020/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 187-201 (Chapter 14 generally) of the Century hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/good-timothy' | relative_url }}">Good, Timothy</a> in his “<a href="{{ '/ufo-history/ufo-books/good-timothy-unearthly-disclosure' | relative_url }}">Unearthly Disclosure</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/0099406020/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0099406020/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 187-201 (Chapter 14 generally) of the Century hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>15</p>
@@ -184,10 +184,10 @@ For discussion of the Varginha incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2006">2006</a></p>
+<p><a href="{{ '/tags/2006' | relative_url }}">2006</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/good-timothy">Good, Timothy</a> in his “<a href="/ufo-history/ufo-books/good-timothy-need-to-know-ufos-the-military-and-intelligence">Need To Know : UFOs, the Military and Intelligence</a>” (<a href="/tags/2006">2006</a>) (available <a href="http://www.amazon.com/dp/028307034X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/028307034X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 369-377 (in Chapter 24) of the Sidgwick &amp; Jackson hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/good-timothy' | relative_url }}">Good, Timothy</a> in his “<a href="{{ '/ufo-history/ufo-books/good-timothy-need-to-know-ufos-the-military-and-intelligence' | relative_url }}">Need To Know : UFOs, the Military and Intelligence</a>” (<a href="{{ '/tags/2006' | relative_url }}">2006</a>) (available <a href="http://www.amazon.com/dp/028307034X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/028307034X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 369-377 (in Chapter 24) of the Sidgwick &amp; Jackson hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>9</p>
@@ -195,10 +195,10 @@ For discussion of the Varginha incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/greer-steven">Greer, Steven</a> in his “<a href="/ufo-history/ufo-books/greer-steven-extraterrestrial-contact-the-evidence-and-implications">Extraterrestrial Contact: The Evidence and Implications</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0967323800/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0967323800/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 159-162 (in Chapter 26) of the Crossing Point softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/greer-steven' | relative_url }}">Greer, Steven</a> in his “<a href="{{ '/ufo-history/ufo-books/greer-steven-extraterrestrial-contact-the-evidence-and-implications' | relative_url }}">Extraterrestrial Contact: The Evidence and Implications</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0967323800/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0967323800/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 159-162 (in Chapter 26) of the Crossing Point softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -206,10 +206,10 @@ For discussion of the Varginha incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2007">2007</a></p>
+<p><a href="{{ '/tags/2007' | relative_url }}">2007</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/harris-paola">Harris, Paola</a> in her “<a href="/ufo-history/ufo-books/harris-paola-how-does-one-speak-to-a-ball-of-light">How does one speak to a ball of light?</a>” (<a href="/tags/2007">2007</a>) (available <a href="http://www.amazon.com/dp/1425994024/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1425994024/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 136-146 (in Section 2) of the Author House softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/harris-paola' | relative_url }}">Harris, Paola</a> in her “<a href="{{ '/ufo-history/ufo-books/harris-paola-how-does-one-speak-to-a-ball-of-light' | relative_url }}">How does one speak to a ball of light?</a>” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (available <a href="http://www.amazon.com/dp/1425994024/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1425994024/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 136-146 (in Section 2) of the Author House softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>11</p>
@@ -217,10 +217,10 @@ For discussion of the Varginha incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p>Picknett, Lynn in her “<a href="/ufo-history/ufo-books/picknett-lynn-the-mammoth-book-of-ufos">The Mammoth Book of UFOs</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/078670800X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/078670800X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 158-160, 162 (in Chapter 2) of the Robinson softcover edition.</p>
+<p>Picknett, Lynn in her “<a href="{{ '/ufo-history/ufo-books/picknett-lynn-the-mammoth-book-of-ufos' | relative_url }}">The Mammoth Book of UFOs</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/078670800X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/078670800X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 158-160, 162 (in Chapter 2) of the Robinson softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -228,10 +228,10 @@ For discussion of the Varginha incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2005">2005</a></p>
+<p><a href="{{ '/tags/2005' | relative_url }}">2005</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/wood-ryan">Wood, Ryan</a> in his “<a href="/ufo-history/ufo-books/wood-ryan-majic-eyes-only">MAJIC Eyes Only</a>” (<a href="/tags/2005">2005</a>) (available <a href="http://www.amazon.com/dp/0977205908/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0977205908/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 216-222 of the Wood Enterprises hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/wood-ryan' | relative_url }}">Wood, Ryan</a> in his “<a href="{{ '/ufo-history/ufo-books/wood-ryan-majic-eyes-only' | relative_url }}">MAJIC Eyes Only</a>” (<a href="{{ '/tags/2005' | relative_url }}">2005</a>) (available <a href="http://www.amazon.com/dp/0977205908/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0977205908/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 216-222 of the Wood Enterprises hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>7</p>

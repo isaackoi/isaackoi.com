@@ -40,15 +40,15 @@ This video appears to be a news report on the "PNC" television channel about a U
 
 Screen shots from the video are included below for ease of identification:
 
-![](/images/stories/ufo_videos/video076_1.JPG)
+![]({{ '/images/stories/ufo_videos/video076_1.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video076_2.JPG)
+![]({{ '/images/stories/ufo_videos/video076_2.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video076_3.JPG)
+![]({{ '/images/stories/ufo_videos/video076_3.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video076_4.JPG)
+![]({{ '/images/stories/ufo_videos/video076_4.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video076_5.JPG)
+![]({{ '/images/stories/ufo_videos/video076_5.JPG' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this video
@@ -84,27 +84,27 @@ Following the video with (fake) news reports, on 8 May 2013 Petronas Motorsports
 
 Screenshots from the "Abduction" video are included below:
 
-![](/images/stories/ufo_videos/video076_6.JPG)
+![]({{ '/images/stories/ufo_videos/video076_6.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video076_7.JPG)
+![]({{ '/images/stories/ufo_videos/video076_7.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video076_8.JPG)
+![]({{ '/images/stories/ufo_videos/video076_8.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video076_9.JPG)
+![]({{ '/images/stories/ufo_videos/video076_9.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video076_10.JPG)
+![]({{ '/images/stories/ufo_videos/video076_10.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video076_11.JPG)
+![]({{ '/images/stories/ufo_videos/video076_11.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video076_12.JPG)
+![]({{ '/images/stories/ufo_videos/video076_12.JPG' | relative_url }})
 
 A six, and final, video in this series (in a similar glossy style to the "Abduction" video referred to above) was uploaded by Petronas Motorsports on 19 May 2013. This one was entitled "The Ride". The caption for this video stated "A janitor, or so it seems, at a PETRONAS-AMG lab sneaks out for the ride of his life!". This video appears to show an alien (in human form) testing Petronas Syntium oil and driving a Mercedes AMG car, before concluding that "Their technology is more advanced than we imagined" and rapidly leaving the Earth in his flying saucer.
 
 [https://www.youtube.com/watch?v=ADhL_nxRRx4](https://www.youtube.com/watch?v=ADhL_nxRRx4)
 
-![](/images/stories/ufo_videos/video076_15.JPG)
+![]({{ '/images/stories/ufo_videos/video076_15.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video076_16.JPG)
+![]({{ '/images/stories/ufo_videos/video076_16.JPG' | relative_url }})
 
 "The Ride" was shot entirely in Stuttgart (Germany) by film director Sling Ng (Director's Think Tank). The company behind the special effects in the "The Ride" and "The Abduction" videos ("[Eyebelieve](http://www.eyebelieve.tv/)") has produced a video giving a behind-the-scenes look at some of the special effects used in the "The Ride" and "[The Abduction](http://www.eyebelieve.tv/10742/1417563/projects/petronas-mercedes-amg-abduction)":
 
@@ -116,11 +116,11 @@ As mentioned above, the "UFO attacks truck" video featured his video featured "C
 
 The [www.watchmen.de](http://www.watchmen.de) websiteindicates that Watchmen Productions is "A BOUTIQUE PRODUCTION HOUSE AND FILM SERVICES COMPANY BASED IN BERLIN, GERMANY. ESTABLISHED IN 2004, WATCHMEN BOASTS A CORE TEAM OF INDUSTRY PROFESSIONALS WITH VAST PRODUCTION EXPERIENCE IN COMMERCIALS AND CORPORATE MEDIA, AS WELL AS IN DOCUMENTARY AND FEATURE FILMS".
 
-![](/images/stories/ufo_videos/video076_14.JPG)
+![]({{ '/images/stories/ufo_videos/video076_14.JPG' | relative_url }})
 
 The [www.watchmen.de](http://www.watchmen.de) website [includes the following on Christopher Zitterbart](http://www.watchmen.de/people/): "Christopher has over 15 years experience in production and has shot in more than 25 countries. He graduated in film production and has produced several shorts and documentaries. His first feature film premiered in competition at Berlinale 2014."
 
-![](/images/stories/ufo_videos/video076_13.JPG)
+![]({{ '/images/stories/ufo_videos/video076_13.JPG' | relative_url }})
 
 Both [Watchmen Production](https://www.facebook.com/watchmenproductions) and [Eyebelieve](https://www.facebook.com/EyeBelieve.tv)have pages on Facebook giving more details of their activities.
 
@@ -133,4 +133,4 @@ Relevant discussions on the AboveTopSecret.com forum include the following:
 
 2013 (February) discussion entitled "[Ufo in Stuttgart Tunnel caught on Surveillance cams](http://www.abovetopsecret.com/forum/thread930010/pg1)"
 
-![](/images/stories/ufo_videos/video076_1d.JPG)
+![]({{ '/images/stories/ufo_videos/video076_1d.JPG' | relative_url }})

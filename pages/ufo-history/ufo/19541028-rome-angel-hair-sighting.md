@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -63,10 +63,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1977">1977</a></p>
+<p><a href="{{ '/tags/1977' | relative_url }}">1977</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/berlitz-charles">Berlitz, Charles</a> in his “Without a Trace” (<a href="/tags/1977">1977</a>) (available <a href="http://www.amazon.com/dp/0385111398/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0385111398/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 141 (in Chapter 8) of the Souvenir Press hardback edition, at page 175 of the Granada paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/berlitz-charles' | relative_url }}">Berlitz, Charles</a> in his “Without a Trace” (<a href="{{ '/tags/1977' | relative_url }}">1977</a>) (available <a href="http://www.amazon.com/dp/0385111398/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0385111398/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 141 (in Chapter 8) of the Souvenir Press hardback edition, at page 175 of the Granada paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -74,10 +74,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p>Christopher, Paul in his “<a href="/ufo-history/ufo-books/christopher-paul-alien-intervention">Alien Intervention: The Spiritual Mission of UFOs</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/1563841487/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1563841487/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 18 (in Chapter 1) of the Huntington House softcover edition.</p>
+<p>Christopher, Paul in his “<a href="{{ '/ufo-history/ufo-books/christopher-paul-alien-intervention' | relative_url }}">Alien Intervention: The Spiritual Mission of UFOs</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/1563841487/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1563841487/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 18 (in Chapter 1) of the Huntington House softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -85,10 +85,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p>Ritchie, David in his “<a href="/ufo-history/ufo-books/ritchie-david-ufo-the-definitive-guide">UFO : The Definitive Guide</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/1567312004/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1567312004/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 175-176 (in an entry entitled “Rome incidents, Italy”) of the MJF hardback edition.</p>
+<p>Ritchie, David in his “<a href="{{ '/ufo-history/ufo-books/ritchie-david-ufo-the-definitive-guide' | relative_url }}">UFO : The Definitive Guide</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/1567312004/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1567312004/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 175-176 (in an entry entitled “Rome incidents, Italy”) of the MJF hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -96,10 +96,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1956">1956</a></p>
+<p><a href="{{ '/tags/1956' | relative_url }}">1956</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/ruppelt-edward">Ruppelt, Edward</a> J in his “<a href="/ufo-history/ufo-books/ruppelt-edward-the-report-on-unidentified-flying-objects">The Report on Unidentified Flying Objects</a>” (<a href="/tags/1956">1956</a>) (available <a href="http://www.amazon.com/dp/B0007FIFVE/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0007FIFVE/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 238 (in Chapter 17) of the original 17 chapter Doubleday hardback edition, at page 309 of the Gollancz hardback edition, at page 312 of the Ace paperback edition, at page 238 of the <a href="/tags/1959">1959</a> revised Doubleday 20 chapter hardback edition, at page 170 of the reprinted Source Books softcover edition. The first of these editions (i.e. the original 17 chapter hardback edition) has the same page numbering as the version available free online at: <a href="http://www.nicap.org/rufo/contents2.htm">http://www.nicap.org/rufo/contents2.htm</a></p>
+<p><a href="{{ '/ufo-history/ufo-personalities/ruppelt-edward' | relative_url }}">Ruppelt, Edward</a> J in his “<a href="{{ '/ufo-history/ufo-books/ruppelt-edward-the-report-on-unidentified-flying-objects' | relative_url }}">The Report on Unidentified Flying Objects</a>” (<a href="{{ '/tags/1956' | relative_url }}">1956</a>) (available <a href="http://www.amazon.com/dp/B0007FIFVE/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0007FIFVE/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 238 (in Chapter 17) of the original 17 chapter Doubleday hardback edition, at page 309 of the Gollancz hardback edition, at page 312 of the Ace paperback edition, at page 238 of the <a href="{{ '/tags/1959' | relative_url }}">1959</a> revised Doubleday 20 chapter hardback edition, at page 170 of the reprinted Source Books softcover edition. The first of these editions (i.e. the original 17 chapter hardback edition) has the same page numbering as the version available free online at: <a href="http://www.nicap.org/rufo/contents2.htm">http://www.nicap.org/rufo/contents2.htm</a></p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -107,10 +107,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sachs-margaret">Sachs, Margaret</a> in her “<a href="/ufo-history/ufo-books/sachs-margaret-the-ufo-encyclopedia">The UFO Encyclopedia</a>“ (<a href="/tags/1980">1980</a> (available <a href="http://www.amazon.com/dp/0399124217/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0399124217/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 183 (in an entry entitled “Luce, Clare Boothe”) of the Corgi softback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sachs-margaret' | relative_url }}">Sachs, Margaret</a> in her “<a href="{{ '/ufo-history/ufo-books/sachs-margaret-the-ufo-encyclopedia' | relative_url }}">The UFO Encyclopedia</a>“ (<a href="{{ '/tags/1980' | relative_url }}">1980</a> (available <a href="http://www.amazon.com/dp/0399124217/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0399124217/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 183 (in an entry entitled “Luce, Clare Boothe”) of the Corgi softback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

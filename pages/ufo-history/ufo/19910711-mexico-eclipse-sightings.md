@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -63,10 +63,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/ashpole-edward">Ashpole, Edward</a> in his “The UFO Phenomena” (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/0747212465/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0747212465/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 155-156 (in Chapter 12), 160-161 (in Chapter 13) of the Headline hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/ashpole-edward' | relative_url }}">Ashpole, Edward</a> in his “The UFO Phenomena” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/0747212465/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0747212465/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 155-156 (in Chapter 12), 160-161 (in Chapter 13) of the Headline hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -74,10 +74,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/devereux-paul">Devereux, Paul</a> and <a href="/ufo-history/ufo-personalities/brookesmith-peter">Brookesmith, Peter</a> in their “<a href="/ufo-history/ufo-books/devereux-paul-and-brookesmith-peter-ufos-and-ufology-the-first-50-years">UFOs and Ufology – the first 50 years</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0816038007/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0816038007/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 56-57 (in Chapter 4), 154-156 (in Chapter 10) of the Blandford softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/devereux-paul' | relative_url }}">Devereux, Paul</a> and <a href="{{ '/ufo-history/ufo-personalities/brookesmith-peter' | relative_url }}">Brookesmith, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/devereux-paul-and-brookesmith-peter-ufos-and-ufology-the-first-50-years' | relative_url }}">UFOs and Ufology – the first 50 years</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0816038007/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0816038007/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 56-57 (in Chapter 4), 154-156 (in Chapter 10) of the Blandford softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>
@@ -85,10 +85,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Glenday, Craig in his “<a href="/ufo-history/ufo-books/glenday-craig-the-ufo-investigators-handbook">The UFO Investigator’s Handbook</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0762406194/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0762406194/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 97 (in Chapter 4), 128 (in Chapter 6) of the Running Press softcover edition.</p>
+<p>Glenday, Craig in his “<a href="{{ '/ufo-history/ufo-books/glenday-craig-the-ufo-investigators-handbook' | relative_url }}">The UFO Investigator’s Handbook</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0762406194/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0762406194/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 97 (in Chapter 4), 128 (in Chapter 6) of the Running Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -96,10 +96,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/greer-steven">Greer, Steven</a> in his “<a href="/ufo-history/ufo-books/greer-steven-extraterrestrial-contact-the-evidence-and-implications">Extraterrestrial Contact: The Evidence and Implications</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0967323800/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0967323800/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 155-158 (in Chapter 25) of the Crossing Point softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/greer-steven' | relative_url }}">Greer, Steven</a> in his “<a href="{{ '/ufo-history/ufo-books/greer-steven-extraterrestrial-contact-the-evidence-and-implications' | relative_url }}">Extraterrestrial Contact: The Evidence and Implications</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0967323800/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0967323800/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 155-158 (in Chapter 25) of the Crossing Point softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -107,10 +107,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/hansen-terry">Hansen, Terry</a> in his “<a href="/ufo-history/ufo-books/hansen-terry-the-missing-times-news-media-complicity-in-the-ufo-cover-up">The Missing Times : News Media Complicity in the UFO Cover-Up</a> : News Media Complicity in the UFO Cover -Up” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/0738836125/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0738836125/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 174, 178 (in Chapter 5) of the Xlibris softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hansen-terry' | relative_url }}">Hansen, Terry</a> in his “<a href="{{ '/ufo-history/ufo-books/hansen-terry-the-missing-times-news-media-complicity-in-the-ufo-cover-up' | relative_url }}">The Missing Times : News Media Complicity in the UFO Cover-Up</a> : News Media Complicity in the UFO Cover -Up” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/0738836125/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0738836125/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 174, 178 (in Chapter 5) of the Xlibris softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -118,10 +118,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p>Missler, Chuck and Eastman, Mark in their “<a href="/ufo-history/ufo-books/missler-chuck-and-eastman-mark-alien-encounters">Alien Encounters: The Secret behind the UFO Phenomenon</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1578210615/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1578210615/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 12-14 (in Chapter 1) of the Koinonia House softcover edition.</p>
+<p>Missler, Chuck and Eastman, Mark in their “<a href="{{ '/ufo-history/ufo-books/missler-chuck-and-eastman-mark-alien-encounters' | relative_url }}">Alien Encounters: The Secret behind the UFO Phenomenon</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1578210615/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1578210615/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 12-14 (in Chapter 1) of the Koinonia House softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -129,10 +129,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2002">2002</a></p>
+<p><a href="{{ '/tags/2002' | relative_url }}">2002</a></p>
 </td>
 <td valign="top" width="547">
-<p>Nixon, Neil in his “<a href="/ufo-history/ufo-books/nixon-neil-pocket-essentials-ufos">Pocket Essentials : UFOs</a>” (<a href="/tags/2002">2002</a>) (available <a href="http://www.amazon.com/dp/1903047889/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1903047889/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 35 (in Chapter 2), 41 (in Chapter 3) of the Pocket Essentials softcover edition.</p>
+<p>Nixon, Neil in his “<a href="{{ '/ufo-history/ufo-books/nixon-neil-pocket-essentials-ufos' | relative_url }}">Pocket Essentials : UFOs</a>” (<a href="{{ '/tags/2002' | relative_url }}">2002</a>) (available <a href="http://www.amazon.com/dp/1903047889/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1903047889/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 35 (in Chapter 2), 41 (in Chapter 3) of the Pocket Essentials softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -140,10 +140,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> and <a href="/ufo-history/ufo-personalities/hough-peter">Hough, Peter</a> in their “<a href="/ufo-history/ufo-books/randles-jenny-and-hough-peter-the-complete-book-of-ufos">The Complete Book of UFOs</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/0806981326/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806981326/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 359 (in Chapter 35) of the Piatkus softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> and <a href="{{ '/ufo-history/ufo-personalities/hough-peter' | relative_url }}">Hough, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-hough-peter-the-complete-book-of-ufos' | relative_url }}">The Complete Book of UFOs</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/0806981326/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806981326/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 359 (in Chapter 35) of the Piatkus softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -151,10 +151,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in “<a href="/ufo-history/ufo-books/randles-jenny-and-clarke-david-and-roberts-andy-the-ufos-that-never-were">The UFOs that never were</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/1902809351/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1902809351/ref=nosim?tag=ufot-21">on Amazon UK</a>) by <a href="/ufo-history/ufo-personalities/randles-jenny">Jenny Randles</a>, <a href="/ufo-history/ufo-personalities/roberts-andy">Andy Roberts</a> and <a href="/ufo-history/ufo-personalities/clarke-david">David Clarke</a> at pages 196-197 (in Chapter 9, by <a href="/ufo-history/ufo-personalities/randles-jenny">Jenny Randles</a>) of the London House hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-clarke-david-and-roberts-andy-the-ufos-that-never-were' | relative_url }}">The UFOs that never were</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/1902809351/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1902809351/ref=nosim?tag=ufot-21">on Amazon UK</a>) by <a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Jenny Randles</a>, <a href="{{ '/ufo-history/ufo-personalities/roberts-andy' | relative_url }}">Andy Roberts</a> and <a href="{{ '/ufo-history/ufo-personalities/clarke-david' | relative_url }}">David Clarke</a> at pages 196-197 (in Chapter 9, by <a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Jenny Randles</a>) of the London House hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -162,10 +162,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-the-complete-book-of-aliens-and-abductions">The Complete Book of Aliens and Abductions</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0749921005/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0749921005/ref=nosim?tag=ufot-21">on Amazon UK</a>) a page 106 (in Part 2) of the Piatkus hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-the-complete-book-of-aliens-and-abductions' | relative_url }}">The Complete Book of Aliens and Abductions</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0749921005/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0749921005/ref=nosim?tag=ufot-21">on Amazon UK</a>) a page 106 (in Part 2) of the Piatkus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -173,10 +173,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-the-little-giant-encyclopedia-of-ufos">The Little Giant Encyclopedia of UFOs</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/0806918918/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806918918/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 313, 315-317 (in Part 3, “UFOs Worldwide”) of the Sterling softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-the-little-giant-encyclopedia-of-ufos' | relative_url }}">The Little Giant Encyclopedia of UFOs</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/0806918918/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806918918/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 313, 315-317 (in Part 3, “UFOs Worldwide”) of the Sterling softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -184,10 +184,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p>Sellier, Charles E and Meier, Joe in their “<a href="/ufo-history/ufo-books/sellier-charles-e-and-meier-joe-ufo">UFO</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0809231379/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0809231379/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 213-214 (in Chapter 12) of the Contemporary Books hardback edition.</p>
+<p>Sellier, Charles E and Meier, Joe in their “<a href="{{ '/ufo-history/ufo-books/sellier-charles-e-and-meier-joe-ufo' | relative_url }}">UFO</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0809231379/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0809231379/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 213-214 (in Chapter 12) of the Contemporary Books hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -195,10 +195,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sheaffer-robert">Sheaffer, Robert</a> in his “<a href="/ufo-history/ufo-books/sheaffer-robert-ufo-sightings-the-evidence">UFO Sightings: The Evidence</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/1573922137/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573922137/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 302- 310 (in Chapter 21 generally, “UFOs Blitz Mexico”) of the Prometheus hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sheaffer-robert' | relative_url }}">Sheaffer, Robert</a> in his “<a href="{{ '/ufo-history/ufo-books/sheaffer-robert-ufo-sightings-the-evidence' | relative_url }}">UFO Sightings: The Evidence</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/1573922137/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573922137/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 302- 310 (in Chapter 21 generally, “UFOs Blitz Mexico”) of the Prometheus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>9</p>
@@ -206,10 +206,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/spencer-john">Spencer, John</a> and Spencer, Anne in their “<a href="/ufo-history/ufo-books/spencer-john-fifty-years-of-ufos">Fifty Years of UFOs</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1852839244/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1852839244/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 145 (in the unnumbered chapter entitled “<a href="/tags/1987">1987</a>-<a href="/tags/1997">1997</a>”) of the Boxtree hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">Spencer, John</a> and Spencer, Anne in their “<a href="{{ '/ufo-history/ufo-books/spencer-john-fifty-years-of-ufos' | relative_url }}">Fifty Years of UFOs</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1852839244/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1852839244/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 145 (in the unnumbered chapter entitled “<a href="{{ '/tags/1987' | relative_url }}">1987</a>-<a href="{{ '/tags/1997' | relative_url }}">1997</a>”) of the Boxtree hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

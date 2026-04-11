@@ -13,11 +13,11 @@ planned_sections: []
 header: {"preview_image": null}
 ---
 
-“[Best UFO Cases](/ufog/best-ufo-cases)” by Isaac Koi
+“[Best UFO Cases]({{ '/ufog/best-ufo-cases' | relative_url }})” by Isaac Koi
 
-[PART 17: Qualitative criteria: Multiple witnesses](/ufog/best-ufo-cases/17-qualitative-criteria-multiple-witnesses)
+[PART 17: Qualitative criteria: Multiple witnesses]({{ '/ufog/best-ufo-cases/17-qualitative-criteria-multiple-witnesses' | relative_url }})
 
-Several of the lists of qualitiative criteria suggested by various UFO researchers (see [PART 15: Qualitative criteria: Introduction](/ufog/best-ufo-cases/15-qualitative-criteria-introduction)) prominently include multiple witnesses as being a significant factor adding to the weight to be given to a UFO sighting. Philip Klass has commented that “Many UFO investigators automatically conclude that a report from multiple witnesses is more reliable than one from a single witness” (see Footnote 17.01).
+Several of the lists of qualitiative criteria suggested by various UFO researchers (see [PART 15: Qualitative criteria: Introduction]({{ '/ufog/best-ufo-cases/15-qualitative-criteria-introduction' | relative_url }})) prominently include multiple witnesses as being a significant factor adding to the weight to be given to a UFO sighting. Philip Klass has commented that “Many UFO investigators automatically conclude that a report from multiple witnesses is more reliable than one from a single witness” (see Footnote 17.01).
 
 On the other hand, ufo skeptic Robert Sheaffer has stated that “a multiple-witness UFO sighting gives no guarantee of greater reliability. In fact, the opposite may be true” (see Footnote 17.04 and Footnote 17.05).
 
@@ -41,7 +41,7 @@ In the light of this fact, Hendry commented that it was odd that the percentage 
 
 The problems noted by Hendry in relation to “group-think” when witnesses are in the same location are supported by a scientific article referred to by ufo skeptic Robert Sheaffer. Robert Sheaffer has referred to an article by Dr Robert Buckhout. He notes that Buckhout states that “a large body of research results demonstrate that an observer can be persuaded to conform to the majority opinion even when the majority is completely wrong” and that “group descriptions were more complete than the individual reports but gave rise to significantly more errors of commission: an assortment of incorrect and stereotyped details” (see Footnote 17.03, Footnote 17.04 and Footnote 17.05).
 
-As discussed in [PART 16: Qualitative criteria: Credible witnesses](/ufog/best-ufo-cases/16-qualitative-criteria-credible-witnesses), J Allen Hynek has stated that, while examining the cases in Project Blue Book, he and his colleagues kept careful records of the occupations of witnesses. He presented the following table (see Footnote 17.11), which includes some comparison between the percentage of misidentification by multiple witnesses relative to single witnesses in various groups:
+As discussed in [PART 16: Qualitative criteria: Credible witnesses]({{ '/ufog/best-ufo-cases/16-qualitative-criteria-credible-witnesses' | relative_url }}), J Allen Hynek has stated that, while examining the cases in Project Blue Book, he and his colleagues kept careful records of the occupations of witnesses. He presented the following table (see Footnote 17.11), which includes some comparison between the percentage of misidentification by multiple witnesses relative to single witnesses in various groups:
 
 Occupation % of Misidentification
 
@@ -111,4 +111,4 @@ FOOTNOTES
 
 [17.10] Allan Hendry, “The UFO Handbook” (1979) at page 194 (in Chapter 14) of the Sphere softback edition.
 
-[17.11] [J Allen Hynek](/ufo-history/ufo-personalities/hynek-j-allen), "The [Hynek](/ufo-history/ufo-personalities/hynek-j-allen) UFO Report" (1977) at page 261 (in Chapter 11) of the Barnes & Noble hardback reprint (1997) at page 271 of the Dell paperback edition (with the same page numbering in the Sphere paperback edition).
+[17.11] [J Allen Hynek]({{ '/ufo-history/ufo-personalities/hynek-j-allen' | relative_url }}), "The [Hynek]({{ '/ufo-history/ufo-personalities/hynek-j-allen' | relative_url }}) UFO Report" (1977) at page 261 (in Chapter 11) of the Barnes & Noble hardback reprint (1997) at page 271 of the Dell paperback edition (with the same page numbering in the Sphere paperback edition).

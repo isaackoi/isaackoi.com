@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/nasa_1.jpg"}
 ---
 
-![nasa_1](/images/stories/ufo_tags/nasa_1.jpg)
+![nasa_1]({{ '/images/stories/ufo_tags/nasa_1.jpg' | relative_url }})
 
 *Gemini 13 sighting*
 
@@ -65,10 +65,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/berlitz-charles">Berlitz, Charles</a> and <a href="/ufo-history/ufo-personalities/moore-bill">Moore, Bill</a> in their “<a href="/ufo-history/ufo-books/berlitz-charles-and-moore-bill-the-roswell-incident">The Roswell Incident</a>“ (<a href="/tags/1980">1980</a>) (available <a href="http://www.amazon.com/dp/0448211998/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0448211998/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 18 (in Chapter 1) of the Granada hardback edition (with the same page numbering in the Granada paperback edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/berlitz-charles' | relative_url }}">Berlitz, Charles</a> and <a href="{{ '/ufo-history/ufo-personalities/moore-bill' | relative_url }}">Moore, Bill</a> in their “<a href="{{ '/ufo-history/ufo-books/berlitz-charles-and-moore-bill-the-roswell-incident' | relative_url }}">The Roswell Incident</a>“ (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) (available <a href="http://www.amazon.com/dp/0448211998/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0448211998/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 18 (in Chapter 1) of the Granada hardback edition (with the same page numbering in the Granada paperback edition).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -76,10 +76,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1968">1968</a></p>
+<p><a href="{{ '/tags/1968' | relative_url }}">1968</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/binder-otto">Binder, Otto</a> in his “Flying Saucers Are Watching Us” (<a href="/tags/1968">1968</a>) (available <a href="http://www.amazon.com/dp/0505513048/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0505513048/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 164 (in Chapter 15) of the Belmont paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/binder-otto' | relative_url }}">Binder, Otto</a> in his “Flying Saucers Are Watching Us” (<a href="{{ '/tags/1968' | relative_url }}">1968</a>) (available <a href="http://www.amazon.com/dp/0505513048/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0505513048/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 164 (in Chapter 15) of the Belmont paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -87,11 +87,11 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1969">1969</a></p>
+<p><a href="{{ '/tags/1969' | relative_url }}">1969</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects">Condon Report</a> (“<a href="/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects">Scientific Study of Unidentified Flying Objects</a>”, Edward U Condon (Director) and Daniel S Gillmor (Editor) (<a href="/tags/1969">1969</a>)) (available <a href="http://www.amazon.com/dp/B000EZY1RO/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000EZY1RO/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 305-306 (in Section 3, Chapter 6 “Visual Observations Made by Astronauts”, by Franklin E Roach) of the uncorrected version submitted to the Air Force (with the same page numbering in the 3 volume paperbound edition distributed by the National Technical Information Service, US Department of Commerce) at page 204 of the Vision hardback edition (with the same page numbering in the Bantam paperback edition). The first of these editions has the same page numbering as the edition available free online at the following links:</p>
-<p>http://www.project<a href="/tags/1947">1947</a>.com/shg/condon/contents.html</p>
+<p><a href="{{ '/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects' | relative_url }}">Condon Report</a> (“<a href="{{ '/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects' | relative_url }}">Scientific Study of Unidentified Flying Objects</a>”, Edward U Condon (Director) and Daniel S Gillmor (Editor) (<a href="{{ '/tags/1969' | relative_url }}">1969</a>)) (available <a href="http://www.amazon.com/dp/B000EZY1RO/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000EZY1RO/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 305-306 (in Section 3, Chapter 6 “Visual Observations Made by Astronauts”, by Franklin E Roach) of the uncorrected version submitted to the Air Force (with the same page numbering in the 3 volume paperbound edition distributed by the National Technical Information Service, US Department of Commerce) at page 204 of the Vision hardback edition (with the same page numbering in the Bantam paperback edition). The first of these editions has the same page numbering as the edition available free online at the following links:</p>
+<p>http://www.project<a href="{{ '/tags/1947' | relative_url }}">1947</a>.com/shg/condon/contents.html</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -99,10 +99,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p>Marvels and Mysteries (Editors Of) in “<a href="/ufo-history/ufo-books/marvels-and-mysteries-editors-of-marvels-and-mysteries-ufos">Marvels and Mysteries: UFOs</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0752512277/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0752512277/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 34 of the Parrallel softcover edition.</p>
+<p>Marvels and Mysteries (Editors Of) in “<a href="{{ '/ufo-history/ufo-books/marvels-and-mysteries-editors-of-marvels-and-mysteries-ufos' | relative_url }}">Marvels and Mysteries: UFOs</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0752512277/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0752512277/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 34 of the Parrallel softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -110,10 +110,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/oberg-james-e">Oberg, James E</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 94 (in an entry entitled “astronauts, sightings by”) of the New American Library softcover edition, at page 93 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/oberg-james-e' | relative_url }}">Oberg, James E</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 94 (in an entry entitled “astronauts, sightings by”) of the New American Library softcover edition, at page 93 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -121,10 +121,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/oberg-james-e">Oberg, James E</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 106 (in an entry entitled “astronauts, sightings by”) of the Robinson softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/oberg-james-e' | relative_url }}">Oberg, James E</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 106 (in an entry entitled “astronauts, sightings by”) of the Robinson softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -132,10 +132,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/oberg-james-e">Oberg, James</a> in “<a href="/ufo-history/ufo-books/story-ronald-editor-and-green-j-richard-consulting-editor-the-encyclopedia-of-ufos">The Encyclopedia of UFOs</a>” (<a href="/tags/1980">1980</a>) edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a> (available <a href="http://www.amazon.com/dp/0385136773/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0385136773/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 27 (in an entry entitled “astronauts, sightings by”) of the NEL hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/oberg-james-e' | relative_url }}">Oberg, James</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-editor-and-green-j-richard-consulting-editor-the-encyclopedia-of-ufos' | relative_url }}">The Encyclopedia of UFOs</a>” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a> (available <a href="http://www.amazon.com/dp/0385136773/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0385136773/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 27 (in an entry entitled “astronauts, sightings by”) of the NEL hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -143,10 +143,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sachs-margaret">Sachs, Margaret</a> in her “<a href="/ufo-history/ufo-books/sachs-margaret-the-ufo-encyclopedia">The UFO Encyclopedia</a>“ (<a href="/tags/1980">1980</a> (available <a href="http://www.amazon.com/dp/0399124217/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0399124217/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 122 (in an entry entitled “Gemini 12”), 182 (in an entry entitled “Lovell, James A Jr”) of the Corgi softback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sachs-margaret' | relative_url }}">Sachs, Margaret</a> in her “<a href="{{ '/ufo-history/ufo-books/sachs-margaret-the-ufo-encyclopedia' | relative_url }}">The UFO Encyclopedia</a>“ (<a href="{{ '/tags/1980' | relative_url }}">1980</a> (available <a href="http://www.amazon.com/dp/0399124217/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0399124217/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 122 (in an entry entitled “Gemini 12”), 182 (in an entry entitled “Lovell, James A Jr”) of the Corgi softback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -154,10 +154,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p>Welfare, Simon and Fairley, John in their “<a href="/ufo-history/ufo-personalities/clarke-arthur-c">Arthur C Clarke</a>’s Mysterious World” (<a href="/tags/1980">1980</a>) (available <a href="http://www.amazon.com/dp/0006363156/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0006363156/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 261 (in Chapter 10) of the Book Club Associates hardback edition.</p>
+<p>Welfare, Simon and Fairley, John in their “<a href="{{ '/ufo-history/ufo-personalities/clarke-arthur-c' | relative_url }}">Arthur C Clarke</a>’s Mysterious World” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) (available <a href="http://www.amazon.com/dp/0006363156/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0006363156/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 261 (in Chapter 10) of the Book Club Associates hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

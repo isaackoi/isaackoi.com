@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/cook_nick_1.jpg"}
 ---
 
-![cook_nick_1](/images/stories/ufo_personalities/cook_nick_1.jpg)
+![cook_nick_1]({{ '/images/stories/ufo_personalities/cook_nick_1.jpg' | relative_url }})
 
 *Nick Cook*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/cook-nick">Cook, Nick</a> “<a href="/ufo-history/ufo-books/cook-nick-the-hunt-for-zero-point">The Hunt for Zero Point</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/0767906284/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0767906284/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/cook-nick' | relative_url }}">Cook, Nick</a> “<a href="{{ '/ufo-history/ufo-books/cook-nick-the-hunt-for-zero-point' | relative_url }}">The Hunt for Zero Point</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/0767906284/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0767906284/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>

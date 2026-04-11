@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0932813372.jpg"}
 book: {"identifiers": ["0932813372"], "primary_isbn": "0932813372", "cover_image": "/book-covers/0932813372.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Richard Sauder](/ufo-history/ufo-personalities/sauder-richard)'s book “[Underground Bases and Tunnels](/ufo-history/ufo-books/sauder-richard-underground-bases-and-tunnels)” ([1995](/tags/1995)) (available [on Amazon USA](http://www.amazon.com/dp/0932813372/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0932813372/?&tag=ufot-21))
+Brief review to be added of [Richard Sauder]({{ '/ufo-history/ufo-personalities/sauder-richard' | relative_url }})'s book “[Underground Bases and Tunnels]({{ '/ufo-history/ufo-books/sauder-richard-underground-bases-and-tunnels' | relative_url }})” ([1995]({{ '/tags/1995' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0932813372/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0932813372/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

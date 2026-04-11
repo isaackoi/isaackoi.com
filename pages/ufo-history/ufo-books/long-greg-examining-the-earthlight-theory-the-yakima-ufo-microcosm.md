@@ -14,7 +14,7 @@ header: {"preview_image": "https://covers.openlibrary.org/b/isbn/0929343573-L.jp
 book: {"identifiers": ["0929343573", "1416505210"], "primary_isbn": "0929343573", "cover_image": "https://covers.openlibrary.org/b/isbn/0929343573-L.jpg?default=false", "cover_source": "openlibrary"}
 ---
 
-Brief review to be added of [Greg Long](/ufo-history/ufo-personalities/long-greg)'s book “[Examining the Earthlight Theory: The Yakima UFO Microcosm](/ufo-history/ufo-books/long-greg-examining-the-earthlight-theory-the-yakima-ufo-microcosm)” ([1990](/tags/1990)) (available [on Amazon USA](http://www.amazon.com/dp/0929343573/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0929343573/?&tag=ufot-21))
+Brief review to be added of [Greg Long]({{ '/ufo-history/ufo-personalities/long-greg' | relative_url }})'s book “[Examining the Earthlight Theory: The Yakima UFO Microcosm]({{ '/ufo-history/ufo-books/long-greg-examining-the-earthlight-theory-the-yakima-ufo-microcosm' | relative_url }})” ([1990]({{ '/tags/1990' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0929343573/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0929343573/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion of Greg Long and/or his book see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1988">1988</a></p>
+<p><a href="{{ '/tags/1988' | relative_url }}">1988</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/boyd-robert-d">Boyd, Robert D</a> in his “International Who’s Who in Ufology Directory” (<a href="/tags/1988">1988</a>) at pages 136-137 of the PMT Publishing softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/boyd-robert-d' | relative_url }}">Boyd, Robert D</a> in his “International Who’s Who in Ufology Directory” (<a href="{{ '/tags/1988' | relative_url }}">1988</a>) at pages 136-137 of the PMT Publishing softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -65,10 +65,10 @@ For discussion of Greg Long and/or his book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2005">2005</a></p>
+<p><a href="{{ '/tags/2005' | relative_url }}">2005</a></p>
 </td>
 <td valign="top" width="547">
-<p>Kelleher, Colm and Knapp, George in their “<a href="/ufo-history/ufo-books/kelleher-colm-and-knapp-george-hunt-for-the-skinwalker">Hunt for the Skinwalker</a>” (<a href="/tags/2005">2005</a>) (available <a href="http://www.amazon.com/dp/1416505210/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1416505210/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 173 (in Chapter 22) of the Pocket Books softcover edition.</p>
+<p>Kelleher, Colm and Knapp, George in their “<a href="{{ '/ufo-history/ufo-books/kelleher-colm-and-knapp-george-hunt-for-the-skinwalker' | relative_url }}">Hunt for the Skinwalker</a>” (<a href="{{ '/tags/2005' | relative_url }}">2005</a>) (available <a href="http://www.amazon.com/dp/1416505210/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1416505210/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 173 (in Chapter 22) of the Pocket Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -76,10 +76,10 @@ For discussion of Greg Long and/or his book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/rodeghier-mark">Rodeghier, Mark</a> in Greg Long’s “<a href="/ufo-history/ufo-books/long-greg-examining-the-earthlight-theory-the-yakima-ufo-microcosm">Examining the Earthlight Theory: The Yakima UFO Microcosm</a>” (<a href="/tags/1990">1990</a>) (available <a href="http://www.amazon.com/dp/0929343573/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0929343573/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages ix-x (in the Foreword) of the <a href="/ufo-history/ufo-personalities/cufos">CUFOS</a> softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/rodeghier-mark' | relative_url }}">Rodeghier, Mark</a> in Greg Long’s “<a href="{{ '/ufo-history/ufo-books/long-greg-examining-the-earthlight-theory-the-yakima-ufo-microcosm' | relative_url }}">Examining the Earthlight Theory: The Yakima UFO Microcosm</a>” (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) (available <a href="http://www.amazon.com/dp/0929343573/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0929343573/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages ix-x (in the Foreword) of the <a href="{{ '/ufo-history/ufo-personalities/cufos' | relative_url }}">CUFOS</a> softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -65,10 +65,10 @@ For discussion of the “First Contact” short story see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/dick-steven-j">Dick, Steven J</a> in his “<a href="/ufo-history/ufo-books/dick-steven-j-the-biological-universe">The Biological Universe</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/0521343267/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521343267/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 260 (in Chapter 5) of the Cambridge hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dick-steven-j' | relative_url }}">Dick, Steven J</a> in his “<a href="{{ '/ufo-history/ufo-books/dick-steven-j-the-biological-universe' | relative_url }}">The Biological Universe</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/0521343267/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521343267/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 260 (in Chapter 5) of the Cambridge hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -76,10 +76,10 @@ For discussion of the “First Contact” short story see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="547">
-<p>Guthke, Karl S in his “<a href="/ufo-history/ufo-books/guthke-karl-s-the-last-frontier-imagining-other-worlds-from-the-copernican-revolution-to-modern-science-fiction">The Last Frontier : Imagining Other Worlds From the Copernican Revolution to Modern Science Fiction</a>: Imagining Other Worlds From the Copernican Revolution to Modern Science Fiction” (<a href="/tags/1990">1990</a>) (available <a href="http://www.amazon.com/dp/0801497272/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0801497272/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 29 (in Chapter 1.3) of the Cornell University softcover edition.</p>
+<p>Guthke, Karl S in his “<a href="{{ '/ufo-history/ufo-books/guthke-karl-s-the-last-frontier-imagining-other-worlds-from-the-copernican-revolution-to-modern-science-fiction' | relative_url }}">The Last Frontier : Imagining Other Worlds From the Copernican Revolution to Modern Science Fiction</a>: Imagining Other Worlds From the Copernican Revolution to Modern Science Fiction” (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) (available <a href="http://www.amazon.com/dp/0801497272/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0801497272/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 29 (in Chapter 1.3) of the Cornell University softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -87,10 +87,10 @@ For discussion of the “First Contact” short story see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1987">1987</a></p>
+<p><a href="{{ '/tags/1987' | relative_url }}">1987</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/mcdonough-thomas-r">McDonough, Thomas R</a> in his “The Search for Extraterrestrial Intelligence - Listening for Life in the Cosmos” (<a href="/tags/1987">1987</a>) (available <a href="http://www.amazon.com/dp/0471846848/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0471846848/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 42-43 (in Chapter 3) of the Wiley softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/mcdonough-thomas-r' | relative_url }}">McDonough, Thomas R</a> in his “The Search for Extraterrestrial Intelligence - Listening for Life in the Cosmos” (<a href="{{ '/tags/1987' | relative_url }}">1987</a>) (available <a href="http://www.amazon.com/dp/0471846848/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0471846848/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 42-43 (in Chapter 3) of the Wiley softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -98,10 +98,10 @@ For discussion of the “First Contact” short story see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p>Pickover, Clifford in his “<a href="/ufo-history/ufo-books/pickover-clifford-the-science-of-aliens">The Science of Aliens</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0465073158/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0465073158/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 146 (in Chapter 7) of the Basic Books hardback edition.</p>
+<p>Pickover, Clifford in his “<a href="{{ '/ufo-history/ufo-books/pickover-clifford-the-science-of-aliens' | relative_url }}">The Science of Aliens</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0465073158/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0465073158/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 146 (in Chapter 7) of the Basic Books hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -109,10 +109,10 @@ For discussion of the “First Contact” short story see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p>Rutkowski, Chris in “<a href="/ufo-history/ufo-books/fawcett-bill-ed-making-contact">Making Contact</a>” (<a href="/tags/1997">1997</a>) (edited by Bill Fawcett) (available <a href="http://www.amazon.com/dp/0688144861/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0688144861/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 97 (in Section 2) of the Morrow hardback edition.</p>
+<p>Rutkowski, Chris in “<a href="{{ '/ufo-history/ufo-books/fawcett-bill-ed-making-contact' | relative_url }}">Making Contact</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (edited by Bill Fawcett) (available <a href="http://www.amazon.com/dp/0688144861/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0688144861/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 97 (in Section 2) of the Morrow hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -120,10 +120,10 @@ For discussion of the “First Contact” short story see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1975">1975</a></p>
+<p><a href="{{ '/tags/1975' | relative_url }}">1975</a></p>
 </td>
 <td valign="top" width="547">
-<p>Stern, Donald K in “<a href="/ufo-history/ufo-books/maruyama-magoroh-and-harkins-arthur-editors-cultures-beyond-the-earth-the-role-of-anthropology-in-outer-space">Cultures beyond the Earth : The Role of Anthropology in Outer Space</a>” (<a href="/tags/1975">1975</a>) (edited by Magoroh Maruyama and Arthur Harkins) (available <a href="http://www.amazon.com/dp/B000NVY6YW/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000NVY6YW/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 51 (in Chapter 2) of the Vintage paperback edition.</p>
+<p>Stern, Donald K in “<a href="{{ '/ufo-history/ufo-books/maruyama-magoroh-and-harkins-arthur-editors-cultures-beyond-the-earth-the-role-of-anthropology-in-outer-space' | relative_url }}">Cultures beyond the Earth : The Role of Anthropology in Outer Space</a>” (<a href="{{ '/tags/1975' | relative_url }}">1975</a>) (edited by Magoroh Maruyama and Arthur Harkins) (available <a href="http://www.amazon.com/dp/B000NVY6YW/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000NVY6YW/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 51 (in Chapter 2) of the Vintage paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

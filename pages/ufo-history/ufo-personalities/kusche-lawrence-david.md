@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/kusche_lawrence_david_1.JPG"}
 ---
 
-![kusche_lawrence_david_1](/images/stories/ufo_personalities/kusche_lawrence_david_1.JPG)
+![kusche_lawrence_david_1]({{ '/images/stories/ufo_personalities/kusche_lawrence_david_1.JPG' | relative_url }})
 
 *Lawrence David Kusche*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1975">1975</a></p>
+<p><a href="{{ '/tags/1975' | relative_url }}">1975</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/kusche-lawrence-david">Kusche, Lawrence David</a> “<a href="/ufo-history/ufo-books/kusche-lawrence-david-the-bermuda-triangle-mystery-solved">The Bermuda Triangle Mystery – Solved</a>” (<a href="/tags/1975">1975</a>) (available <a href="http://www.amazon.com/dp/0879759712/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879759712/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/kusche-lawrence-david' | relative_url }}">Kusche, Lawrence David</a> “<a href="{{ '/ufo-history/ufo-books/kusche-lawrence-david-the-bermuda-triangle-mystery-solved' | relative_url }}">The Bermuda Triangle Mystery – Solved</a>” (<a href="{{ '/tags/1975' | relative_url }}">1975</a>) (available <a href="http://www.amazon.com/dp/0879759712/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879759712/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>

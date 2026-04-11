@@ -40,9 +40,9 @@ This video appears to show someone stopping driving a car to film a UFO behind s
 
 Screen shots from the video are included below for ease of identification:
 
-![](/images/stories/ufo_videos/video079_1.JPG)
+![]({{ '/images/stories/ufo_videos/video079_1.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video079_2.JPG)
+![]({{ '/images/stories/ufo_videos/video079_2.JPG' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this video
@@ -53,7 +53,7 @@ The British newspaper "The Telegraph" published [an article about the video on i
 
 "A video, shown on Brazilian TV station G1, shows blurry images of a disc-shaped object hovering in the clouds for a minute or so – before disappearing in a bright flash followed by a trail of colourful bursts. The television station explained the clip originated from two motorists who saw the object as they were driving near the town of Agudos in Sao Paulo state. They hopped out of the car to shoot the video with their hand-held camera".
 
-![](/images/stories/ufo_videos/video079_3.JPG)
+![]({{ '/images/stories/ufo_videos/video079_3.JPG' | relative_url }})
 
 The British newspaper "The Daily Maily" published [an article about the video on its website](http://www.dailymail.co.uk/news/article-1362066/UFO-lights-Brazil-skies-Footage-flying-saucer-hovering-Sao-Paolo.html) on 2 March 2011. That article stated that:
 
@@ -74,27 +74,27 @@ The full advertisement includes the "UFO" over Sao Paulo and also shows the driv
 
 [PizzBoxx's Twitter account](https://twitter.com/pizzbox) refers to Atitude Media Box as its exclusive partner in Brazil.
 
-![](/images/stories/ufo_videos/video079_12.JPG)
+![]({{ '/images/stories/ufo_videos/video079_12.JPG' | relative_url }})
 
 Screen shots of from the full Atitude Media Box advertisement are shown below.
 
-![](/images/stories/ufo_videos/video079_4.JPG)
+![]({{ '/images/stories/ufo_videos/video079_4.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video079_5.JPG)
+![]({{ '/images/stories/ufo_videos/video079_5.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video079_6.JPG)
+![]({{ '/images/stories/ufo_videos/video079_6.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video079_7.JPG)
+![]({{ '/images/stories/ufo_videos/video079_7.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video079_8.JPG)
+![]({{ '/images/stories/ufo_videos/video079_8.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video079_9.JPG)
+![]({{ '/images/stories/ufo_videos/video079_9.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video079_10.JPG)
+![]({{ '/images/stories/ufo_videos/video079_10.JPG' | relative_url }})
 
 A screen-shot from the credits at the end of the full advertisement is included below following.
 
-![](/images/stories/ufo_videos/video079_11.JPG)
+![]({{ '/images/stories/ufo_videos/video079_11.JPG' | relative_url }})
 
 The full advertisement is embedded below.
 
@@ -115,4 +115,4 @@ Relevant discussions on the AboveTopSecret.com forum include the following:
 
 2008 (February) discussion entitled "[UFO over Brazil [HOAX]](http://www.abovetopsecret.com/forum/thread666779/pg1)"
 
-![](/images/stories/ufo_videos/video079_1d.JPG)
+![]({{ '/images/stories/ufo_videos/video079_1d.JPG' | relative_url }})

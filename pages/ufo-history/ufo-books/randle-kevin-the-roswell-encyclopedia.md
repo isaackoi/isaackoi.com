@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0380798530.jpg"}
 book: {"identifiers": ["0380798530"], "primary_isbn": "0380798530", "cover_image": "/book-covers/0380798530.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Kevin Randle](/ufo-history/ufo-personalities/randle-kevin)'s book “[The Roswell Encyclopedia](/ufo-history/ufo-books/randle-kevin-the-roswell-encyclopedia)” ([2000](/tags/2000)) (available [on Amazon USA](http://www.amazon.com/dp/0380798530/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0380798530/?&tag=ufot-21))
+Brief review to be added of [Kevin Randle]({{ '/ufo-history/ufo-personalities/randle-kevin' | relative_url }})'s book “[The Roswell Encyclopedia]({{ '/ufo-history/ufo-books/randle-kevin-the-roswell-encyclopedia' | relative_url }})” ([2000]({{ '/tags/2000' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0380798530/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0380798530/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

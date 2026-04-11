@@ -14,7 +14,7 @@ header: {"preview_image": "https://covers.openlibrary.org/b/isbn/0552990140-L.jp
 book: {"identifiers": ["0552990140", "0922915679"], "primary_isbn": "0552990140", "cover_image": "https://covers.openlibrary.org/b/isbn/0552990140-L.jpg?default=false", "cover_source": "openlibrary"}
 ---
 
-Brief review to be added of T B Pawlicki's book “[How to Build a Flying Saucer](/ufo-history/ufo-books/pawlicki-t-b-how-to-build-a-flying-saucer)” ([1981](/tags/1981)) (available [on Amazon USA](http://www.amazon.com/dp/0552990140/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0552990140/?&tag=ufot-21))
+Brief review to be added of T B Pawlicki's book “[How to Build a Flying Saucer]({{ '/ufo-history/ufo-books/pawlicki-t-b-how-to-build-a-flying-saucer' | relative_url }})” ([1981]({{ '/tags/1981' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0552990140/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0552990140/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p>Kossy, Donna in her “<a href="/ufo-history/ufo-books/kossy-donna-kooks">Kooks</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/0922915679/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0922915679/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 65 (in Part 2, in an unnumbered chapter entitled “Anti-Gravity: Freedom from Physics”) of the Feral House softcover edition.</p>
+<p>Kossy, Donna in her “<a href="{{ '/ufo-history/ufo-books/kossy-donna-kooks' | relative_url }}">Kooks</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/0922915679/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0922915679/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 65 (in Part 2, in an unnumbered chapter entitled “Anti-Gravity: Freedom from Physics”) of the Feral House softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

@@ -42,7 +42,7 @@ This video appears to show a number of unidentified red lights in a night sky. T
 
 A screen shot from this video is included below for ease of identification.
 
-![](/images/stories/ufo_videos/video095_1.JPG)
+![]({{ '/images/stories/ufo_videos/video095_1.JPG' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this video
@@ -101,4 +101,4 @@ Relevant discussions on the AboveTopSecret.com forum include the following:
 
 2009 (July) discussion entitled "[Morris County's UFO hoaxers are back, with a $1 million challenge](http://www.abovetopsecret.com/forum/thread483508/pg1)"
 
-![](/images/stories/ufo_videos/video095_1d.jpg)
+![]({{ '/images/stories/ufo_videos/video095_1d.jpg' | relative_url }})

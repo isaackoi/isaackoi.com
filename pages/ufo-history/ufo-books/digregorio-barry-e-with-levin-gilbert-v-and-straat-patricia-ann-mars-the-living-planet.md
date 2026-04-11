@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/1883319587.jpg"}
 book: {"identifiers": ["1883319587", "0738836125", "0471395366"], "primary_isbn": "1883319587", "cover_image": "/book-covers/1883319587.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of “[Mars: The Living Planet](/ufo-history/ufo-books/digregorio-barry-e-with-levin-gilbert-v-and-straat-patricia-ann-mars-the-living-planet)” ([1997](/tags/1997)) (available [on Amazon USA](http://www.amazon.com/dp/1883319587/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1883319587/?&tag=ufot-21)) by Barry E DiGregorio with [Gilbert V Levin](/ufo-history/ufo-personalities/levin-gilbert-v) and Patricia Ann Straat.
+Brief review to be added of “[Mars: The Living Planet]({{ '/ufo-history/ufo-books/digregorio-barry-e-with-levin-gilbert-v-and-straat-patricia-ann-mars-the-living-planet' | relative_url }})” ([1997]({{ '/tags/1997' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1883319587/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1883319587/?&tag=ufot-21)) by Barry E DiGregorio with [Gilbert V Levin]({{ '/ufo-history/ufo-personalities/levin-gilbert-v' | relative_url }}) and Patricia Ann Straat.
 
 1. [Web Resources](#web)
 
@@ -52,10 +52,10 @@ Many of the tables of references on this website are considerably longer than th
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/hansen-terry">Hansen, Terry</a> in his “<a href="/ufo-history/ufo-books/hansen-terry-the-missing-times-news-media-complicity-in-the-ufo-cover-up">The Missing Times : News Media Complicity in the UFO Cover-Up</a> : News Media Complicity in the UFO Cover -Up” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/0738836125/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0738836125/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 191 (in Chapter 5) of the Xlibris softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hansen-terry' | relative_url }}">Hansen, Terry</a> in his “<a href="{{ '/ufo-history/ufo-books/hansen-terry-the-missing-times-news-media-complicity-in-the-ufo-cover-up' | relative_url }}">The Missing Times : News Media Complicity in the UFO Cover-Up</a> : News Media Complicity in the UFO Cover -Up” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/0738836125/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0738836125/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 191 (in Chapter 5) of the Xlibris softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -63,10 +63,10 @@ Many of the tables of references on this website are considerably longer than th
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Davidson, Keay in his “<a href="/ufo-history/ufo-personalities/sagan-carl">Carl Sagan</a>: A Life” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0471395366/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0471395366/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 444 (in the Notes) of the Wiley softcover edition.</p>
+<p>Davidson, Keay in his “<a href="{{ '/ufo-history/ufo-personalities/sagan-carl' | relative_url }}">Carl Sagan</a>: A Life” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0471395366/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0471395366/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 444 (in the Notes) of the Wiley softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

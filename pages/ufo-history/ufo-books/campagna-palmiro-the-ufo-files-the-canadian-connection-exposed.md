@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0773759735.jpg"}
 book: {"identifiers": ["0773759735"], "primary_isbn": "0773759735", "cover_image": "/book-covers/0773759735.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of Palmiro Campagna's book “[The UFO Files: The Canadian Connection Exposed](/ufo-history/ufo-books/campagna-palmiro-the-ufo-files-the-canadian-connection-exposed)” ([1998](/tags/1998)) (available [on Amazon USA](http://www.amazon.com/dp/0773759735/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0773759735/?&tag=ufot-21))
+Brief review to be added of Palmiro Campagna's book “[The UFO Files: The Canadian Connection Exposed]({{ '/ufo-history/ufo-books/campagna-palmiro-the-ufo-files-the-canadian-connection-exposed' | relative_url }})” ([1998]({{ '/tags/1998' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0773759735/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0773759735/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

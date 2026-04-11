@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/093968098X.jpg"}
 book: {"identifiers": ["093968098X", "1852427728", "0926524429", "1578210615", "1893302563"], "primary_isbn": "093968098X", "cover_image": "/book-covers/093968098X.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Barbara Marciniak](/ufo-history/ufo-personalities/marciniak-barbara)'s book “[Bringers of the Dawn: Teachings from the Pleidians](/ufo-history/ufo-books/marciniak-barbara-bringers-of-the-dawn-teachings-from-the-pleidians)” ([1992](/tags/1992)) (available [on Amazon USA](http://www.amazon.com/dp/093968098X/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/093968098X/?&tag=ufot-21))
+Brief review to be added of [Barbara Marciniak]({{ '/ufo-history/ufo-personalities/marciniak-barbara' | relative_url }})'s book “[Bringers of the Dawn: Teachings from the Pleidians]({{ '/ufo-history/ufo-books/marciniak-barbara-bringers-of-the-dawn-teachings-from-the-pleidians' | relative_url }})” ([1992]({{ '/tags/1992' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/093968098X/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/093968098X/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2004">2004</a></p>
+<p><a href="{{ '/tags/2004' | relative_url }}">2004</a></p>
 </td>
 <td valign="top" width="547">
-<p>Davis, Erik in his “TechGnosis: Myth, Magic and Mysticism in the Age of Information” (<a href="/tags/2004">2004</a>) (available <a href="http://www.amazon.com/dp/1852427728/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1852427728/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 285 (in Chapter 8) of the Serpents Tail softcover edition.</p>
+<p>Davis, Erik in his “TechGnosis: Myth, Magic and Mysticism in the Age of Information” (<a href="{{ '/tags/2004' | relative_url }}">2004</a>) (available <a href="http://www.amazon.com/dp/1852427728/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1852427728/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 285 (in Chapter 8) of the Serpents Tail softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -65,10 +65,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/emmons-charles-f">Emmons, Charles F</a> in his “<a href="/ufo-history/ufo-books/emmons-charles-f-at-the-threshold-ufos-science-and-the-new-age">At The Threshold: UFOs, Science and the New Age</a>” (available <a href="http://www.amazon.com/dp/0926524429/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0926524429/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 183 (in Chapter 9) of the Wild Flower Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/emmons-charles-f' | relative_url }}">Emmons, Charles F</a> in his “<a href="{{ '/ufo-history/ufo-books/emmons-charles-f-at-the-threshold-ufos-science-and-the-new-age' | relative_url }}">At The Threshold: UFOs, Science and the New Age</a>” (available <a href="http://www.amazon.com/dp/0926524429/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0926524429/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 183 (in Chapter 9) of the Wild Flower Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -76,10 +76,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p>Missler, Chuck and Eastman, Mark in their “<a href="/ufo-history/ufo-books/missler-chuck-and-eastman-mark-alien-encounters">Alien Encounters: The Secret behind the UFO Phenomenon</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1578210615/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1578210615/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 147-149 (in Chapter 7), 190, 191 (in Chapter 9) of the Koinonia House softcover edition.</p>
+<p>Missler, Chuck and Eastman, Mark in their “<a href="{{ '/ufo-history/ufo-books/missler-chuck-and-eastman-mark-alien-encounters' | relative_url }}">Alien Encounters: The Secret behind the UFO Phenomenon</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1578210615/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1578210615/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 147-149 (in Chapter 7), 190, 191 (in Chapter 9) of the Koinonia House softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>
@@ -87,10 +87,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2004">2004</a></p>
+<p><a href="{{ '/tags/2004' | relative_url }}">2004</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/salla-michael">Salla, Michael</a> in his “<a href="/ufo-history/ufo-books/salla-michael-exopolitics-political-implications-of-the-extraterrestrial-presence">Exopolitics : Political Implications of the Extraterrestrial Presence</a>” (<a href="/tags/2004">2004</a>) (available <a href="http://www.amazon.com/dp/1893302563/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1893302563/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 18-19, 39-40 (in Chapter 1) of the Dandelion Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/salla-michael' | relative_url }}">Salla, Michael</a> in his “<a href="{{ '/ufo-history/ufo-books/salla-michael-exopolitics-political-implications-of-the-extraterrestrial-presence' | relative_url }}">Exopolitics : Political Implications of the Extraterrestrial Presence</a>” (<a href="{{ '/tags/2004' | relative_url }}">2004</a>) (available <a href="http://www.amazon.com/dp/1893302563/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1893302563/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 18-19, 39-40 (in Chapter 1) of the Dandelion Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -98,10 +98,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="547">
-<p>Thomas, Tera in Barbara Marciniak’s “<a href="/ufo-history/ufo-books/marciniak-barbara-bringers-of-the-dawn-teachings-from-the-pleidians">Bringers of the Dawn : Teachings from the Pleidians</a>” (<a href="/tags/1992">1992</a>) at pages xi-xix (in the Foreword) of the Bear &amp; Co softcover edition.</p>
+<p>Thomas, Tera in Barbara Marciniak’s “<a href="{{ '/ufo-history/ufo-books/marciniak-barbara-bringers-of-the-dawn-teachings-from-the-pleidians' | relative_url }}">Bringers of the Dawn : Teachings from the Pleidians</a>” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) at pages xi-xix (in the Foreword) of the Bear &amp; Co softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>10</p>

@@ -40,18 +40,18 @@ This video appears to show an object burning in a crater.
 
 Screen shots from the video are included below for ease of identification:
 
-![](/images/stories/ufo_videos/video067_1.JPG)
+![]({{ '/images/stories/ufo_videos/video067_1.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video067_2.JPG)
+![]({{ '/images/stories/ufo_videos/video067_2.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video067_3.JPG)
+![]({{ '/images/stories/ufo_videos/video067_3.JPG' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this video
 
 In October 2009, media around the world (including[the BBC](http://news.bbc.co.uk/1/hi/world/europe/8326483.stm) - which was more skeptical than most) reported the fall of a "meteorite" near Mazsalaca in Latvia.
 
-![](/images/stories/ufo_videos/video067_4.JPG)
+![]({{ '/images/stories/ufo_videos/video067_4.JPG' | relative_url }})
 
 Some UFO websites suggested that a "UFO" had crashed into the Latvian countryside.
 
@@ -61,7 +61,7 @@ For example, an article on this incident on the All News Web website (and copied
 
 The Latvian Radiation Centre and the army took measurements of radiation levels at the site of impact and noted radioactivity at slightly higher than normal levels. Speculation over what6 the object might have been is running hot on Latvian internet forums. While many think the object was probably a meteorite the authorities have suggested that it may have been a space junk. Needless to say the possibility of it being a UFO of alien origin has been raised."
 
-![](/images/stories/ufo_videos/video067_4a.JPG)
+![]({{ '/images/stories/ufo_videos/video067_4a.JPG' | relative_url }})
 
 <a id="truth"></a>
 ### 3. The real background to this video
@@ -70,15 +70,15 @@ The Tele2 telecommunications company subsequently admitted that the entire event
 
 [Local press reported](http://www.baltic-course.com/eng/markets_and_companies/?doc=19793) shortly after the hoax in October 2009 that Tele2's marketing director (Janis Sprogis) had admitted the hoax and stated that Tele2's goal had been "to inspire the people of Latvia" and with this hoax "Latvia made the news all over the world, everyone wants to know about Latvia, and this is not because of the crisis, the hard times and so, but because there is something creative and exciting happening here". Sprogis said that he hoax was "a unique achievement and part of our communication". Sprogis also said that Tele2 would compensate all the losses that the state has sustained.
 
-![](/images/stories/ufo_videos/video067_5.JPG)
+![]({{ '/images/stories/ufo_videos/video067_5.JPG' | relative_url }})
 
 The Latvian government was distinctly unamused by the costs it incurred investigating the "crash" and [reportedly indicated](http://en.ria.ru/world/20091027/156605614.html)that it would be fining the telecommunications company for the hoax.
 
-![](/images/stories/ufo_videos/video067_6.JPG)
+![]({{ '/images/stories/ufo_videos/video067_6.JPG' | relative_url }})
 
 The annoyance of the Latvian government appears to have lasted quite a while. [A few months later, in January 2010, the Latvian government announced](http://en.ria.ru/world/20100120/157619130.html) that it would be increasing the level of fines for hoaxed calls to the emergency services, apparently because of the Mazsalaca hoax by Tele2.
 
-![](/images/stories/ufo_videos/video067_7.JPG)
+![]({{ '/images/stories/ufo_videos/video067_7.JPG' | relative_url }})
 
 <a id="forums"></a>
 ### 4. Relevant online discussions
@@ -87,4 +87,4 @@ Relevant discussions on the AboveTopSecret.com forum include the following:
 
 2009 (October) discussion entitled "[Latvia has fallen meteorite](http://www.abovetopsecret.com/forum/thread513736/pg1)"
 
-![](/images/stories/ufo_videos/video067_2d.jpg)
+![]({{ '/images/stories/ufo_videos/video067_2d.jpg' | relative_url }})

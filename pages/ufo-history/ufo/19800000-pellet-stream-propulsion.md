@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -59,10 +59,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1982">1982</a></p>
+<p><a href="{{ '/tags/1982' | relative_url }}">1982</a></p>
 </td>
 <td valign="top" width="547">
-<p>Crawford, Ian A in “<a href="/ufo-history/ufo-books/hart-michael-and-zuckerman-ben-extraterrestrials-where-are-they">Extraterrestrials: Where are they?</a>” (<a href="/tags/1982">1982</a>) (edited by <a href="/ufo-history/ufo-personalities/hart-michael">Michael Hart</a> and <a href="/ufo-history/ufo-personalities/zuckerman-ben">Ben Zuckerman</a>) (available <a href="http://www.amazon.com/dp/0521448034/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521448034/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 60 (in Chapter 8) of the Cambridge softcover second edition. The relevant chapter is a revised and abridged version of an article published under the title “Interstellar Travel: A Review for Astronomers” in Quarterly Journal <em>of the Royal Astronomical Society</em>, Volume 31 (<a href="/tags/1990">1990</a>) at pages 377-400. The text of that article is available free online at: <a href="http://www.star.ucl.ac.uk/~iac/isflight/isflight.html">http://www.star.ucl.ac.uk/~iac/isflight/isflight.html</a></p>
+<p>Crawford, Ian A in “<a href="{{ '/ufo-history/ufo-books/hart-michael-and-zuckerman-ben-extraterrestrials-where-are-they' | relative_url }}">Extraterrestrials: Where are they?</a>” (<a href="{{ '/tags/1982' | relative_url }}">1982</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/hart-michael' | relative_url }}">Michael Hart</a> and <a href="{{ '/ufo-history/ufo-personalities/zuckerman-ben' | relative_url }}">Ben Zuckerman</a>) (available <a href="http://www.amazon.com/dp/0521448034/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521448034/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 60 (in Chapter 8) of the Cambridge softcover second edition. The relevant chapter is a revised and abridged version of an article published under the title “Interstellar Travel: A Review for Astronomers” in Quarterly Journal <em>of the Royal Astronomical Society</em>, Volume 31 (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) at pages 377-400. The text of that article is available free online at: <a href="http://www.star.ucl.ac.uk/~iac/isflight/isflight.html">http://www.star.ucl.ac.uk/~iac/isflight/isflight.html</a></p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -70,10 +70,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1982">1982</a></p>
+<p><a href="{{ '/tags/1982' | relative_url }}">1982</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/dyson-freeman">Dyson, Freeman</a> in “<a href="/ufo-history/ufo-books/hart-michael-and-zuckerman-ben-extraterrestrials-where-are-they">Extraterrestrials: Where are they?</a>” (<a href="/tags/1982">1982</a>) (edited by <a href="/ufo-history/ufo-personalities/hart-michael">Michael Hart</a> and <a href="/ufo-history/ufo-personalities/zuckerman-ben">Ben Zuckerman</a>) (available <a href="http://www.amazon.com/dp/0521448034/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521448034/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 45-46 (in Chapter 7) of the Cambridge softcover second edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dyson-freeman' | relative_url }}">Dyson, Freeman</a> in “<a href="{{ '/ufo-history/ufo-books/hart-michael-and-zuckerman-ben-extraterrestrials-where-are-they' | relative_url }}">Extraterrestrials: Where are they?</a>” (<a href="{{ '/tags/1982' | relative_url }}">1982</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/hart-michael' | relative_url }}">Michael Hart</a> and <a href="{{ '/ufo-history/ufo-personalities/zuckerman-ben' | relative_url }}">Ben Zuckerman</a>) (available <a href="http://www.amazon.com/dp/0521448034/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521448034/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 45-46 (in Chapter 7) of the Cambridge softcover second edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -81,10 +81,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1989">1989</a></p>
+<p><a href="{{ '/tags/1989' | relative_url }}">1989</a></p>
 </td>
 <td valign="top" width="547">
-<p>Mallove, Eugene F and Matloff, Gregory L in their “<a href="/ufo-history/ufo-books/mallove-eugene-and-matloff-gregory-the-starflight-handbook">The Starflight Handbook</a>” (<a href="/tags/1989">1989</a>) (available <a href="http://www.amazon.com/dp/0471619124/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0471619124/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 145-146 (in Chapter 9) of the Wiley hardback edition.</p>
+<p>Mallove, Eugene F and Matloff, Gregory L in their “<a href="{{ '/ufo-history/ufo-books/mallove-eugene-and-matloff-gregory-the-starflight-handbook' | relative_url }}">The Starflight Handbook</a>” (<a href="{{ '/tags/1989' | relative_url }}">1989</a>) (available <a href="http://www.amazon.com/dp/0471619124/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0471619124/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 145-146 (in Chapter 9) of the Wiley hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -92,10 +92,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p>Rood, Robert and Trefil, James in their “<a href="/ufo-history/ufo-books/rood-robert-and-trefil-james-are-we-alone">Are We Alone?</a>“ (<a href="/tags/1980">1980</a>) (available <a href="http://www.amazon.com/dp/B000GR9HP6/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000GR9HP6/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 214-215 (in Chapter 14) of the Scribners hardback edition.</p>
+<p>Rood, Robert and Trefil, James in their “<a href="{{ '/ufo-history/ufo-books/rood-robert-and-trefil-james-are-we-alone' | relative_url }}">Are We Alone?</a>“ (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) (available <a href="http://www.amazon.com/dp/B000GR9HP6/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000GR9HP6/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 214-215 (in Chapter 14) of the Scribners hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -103,10 +103,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1982">1982</a></p>
+<p><a href="{{ '/tags/1982' | relative_url }}">1982</a></p>
 </td>
 <td valign="top" width="547">
-<p>Singer, Cliff in “<a href="/ufo-history/ufo-books/hart-michael-and-zuckerman-ben-extraterrestrials-where-are-they">Extraterrestrials: Where are they?</a>” (<a href="/tags/1982">1982</a>) (edited by <a href="/ufo-history/ufo-personalities/hart-michael">Michael Hart</a> and <a href="/ufo-history/ufo-personalities/zuckerman-ben">Ben Zuckerman</a>) (available <a href="http://www.amazon.com/dp/0521448034/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521448034/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 76-79, 82-83 (in Chapter 9) of the Cambridge softcover second edition.</p>
+<p>Singer, Cliff in “<a href="{{ '/ufo-history/ufo-books/hart-michael-and-zuckerman-ben-extraterrestrials-where-are-they' | relative_url }}">Extraterrestrials: Where are they?</a>” (<a href="{{ '/tags/1982' | relative_url }}">1982</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/hart-michael' | relative_url }}">Michael Hart</a> and <a href="{{ '/ufo-history/ufo-personalities/zuckerman-ben' | relative_url }}">Ben Zuckerman</a>) (available <a href="http://www.amazon.com/dp/0521448034/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521448034/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 76-79, 82-83 (in Chapter 9) of the Cambridge softcover second edition.</p>
 </td>
 <td valign="top" width="52">
 <p>6</p>
@@ -118,6 +118,6 @@ For discussion see the following:
 <a id="other"></a>
 ### Other Material
 
-Singer, C E ([1980](/tags/1980)). “Interstellar propulsion using a pellet stream for momentum transfer.” Journal of British Interplanetary Society, Volume 33 ([1980](/tags/1980)), pages 107-115.
+Singer, C E ([1980]({{ '/tags/1980' | relative_url }})). “Interstellar propulsion using a pellet stream for momentum transfer.” Journal of British Interplanetary Society, Volume 33 ([1980]({{ '/tags/1980' | relative_url }})), pages 107-115.
 
 Please use the comments section below to share references to any particularly interesting relevant articles.

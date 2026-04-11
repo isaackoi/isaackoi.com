@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0967773709.jpg"}
 book: {"identifiers": ["0967773709"], "primary_isbn": "0967773709", "cover_image": "/book-covers/0967773709.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of Eve Lorgen's book “[The Love Bite: Alien Interference in Human Love Relationships](/ufo-history/ufo-books/lorgen-eve-the-love-bite-alien-interference-in-human-love-relationships)” ([1999](/tags/1999)) (available [on Amazon USA](http://www.amazon.com/dp/0967773709/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0967773709/?&tag=ufot-21))
+Brief review to be added of Eve Lorgen's book “[The Love Bite: Alien Interference in Human Love Relationships]({{ '/ufo-history/ufo-books/lorgen-eve-the-love-bite-alien-interference-in-human-love-relationships' | relative_url }})” ([1999]({{ '/tags/1999' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0967773709/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0967773709/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

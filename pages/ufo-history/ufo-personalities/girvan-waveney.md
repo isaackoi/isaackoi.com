@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/girvan_waveney_1.jpg"}
 ---
 
-![girvan_waveney_1](/images/stories/ufo_personalities/girvan_waveney_1.jpg)
+![girvan_waveney_1]({{ '/images/stories/ufo_personalities/girvan_waveney_1.jpg' | relative_url }})
 
 *Waveney Girvan and others*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1955">1955</a></p>
+<p><a href="{{ '/tags/1955' | relative_url }}">1955</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/girvan-waveney">Girvan, Waveney</a> “<a href="/ufo-history/ufo-books/girvan-waveney-flying-saucers-and-common-sense">Flying Saucers and Common Sense</a>” (<a href="/tags/1955">1955</a>) (available <a href="http://www.amazon.com/dp/B0007DXIH2/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0007DXIH2/ref=nosim?tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/girvan-waveney' | relative_url }}">Girvan, Waveney</a> “<a href="{{ '/ufo-history/ufo-books/girvan-waveney-flying-saucers-and-common-sense' | relative_url }}">Flying Saucers and Common Sense</a>” (<a href="{{ '/tags/1955' | relative_url }}">1955</a>) (available <a href="http://www.amazon.com/dp/B0007DXIH2/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0007DXIH2/ref=nosim?tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>
@@ -83,10 +83,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1977">1977</a></p>
+<p><a href="{{ '/tags/1977' | relative_url }}">1977</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/bowen-charles">Bowen, Charles</a> in “Encounter Cases from Flying Saucer Review” (<a href="/tags/1977">1977</a>) (edited by Charles Bowen) (available <a href="http://www.amazon.com/dp/0451079523/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451079523/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages xii-xiii (in the Introduction) of the Signet paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/bowen-charles' | relative_url }}">Bowen, Charles</a> in “Encounter Cases from Flying Saucer Review” (<a href="{{ '/tags/1977' | relative_url }}">1977</a>) (edited by Charles Bowen) (available <a href="http://www.amazon.com/dp/0451079523/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451079523/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages xii-xiii (in the Introduction) of the Signet paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -94,10 +94,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2007">2007</a></p>
+<p><a href="{{ '/tags/2007' | relative_url }}">2007</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clarke-david">Clarke, David</a> and <a href="/ufo-history/ufo-personalities/roberts-andy">Roberts, Andy</a> in their “<a href="/ufo-history/ufo-books/clarke-david-and-roberts-andy-flying-saucerers">Flying Saucerers : A social history of UFOlogy</a>” (<a href="/tags/2007">2007</a>) (available <a href="http://www.amazon.com/dp/1905646003/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1905646003/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 44 (in Chapter 3), 160-161 (in Chapter 10) of the Alternative Albion softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clarke-david' | relative_url }}">Clarke, David</a> and <a href="{{ '/ufo-history/ufo-personalities/roberts-andy' | relative_url }}">Roberts, Andy</a> in their “<a href="{{ '/ufo-history/ufo-books/clarke-david-and-roberts-andy-flying-saucerers' | relative_url }}">Flying Saucerers : A social history of UFOlogy</a>” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (available <a href="http://www.amazon.com/dp/1905646003/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1905646003/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 44 (in Chapter 3), 160-161 (in Chapter 10) of the Alternative Albion softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -105,10 +105,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2008">2008</a></p>
+<p><a href="{{ '/tags/2008' | relative_url }}">2008</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/vallee-jacques">Vallee, Jacques</a> in his “<a href="/ufo-history/ufo-books/vallee-jacques-forbidden-science-volume-2-journals-1970-1979">Forbidden Science : Volume 2 (Journals 1970-1979)</a>” (<a href="/tags/2008">2008</a>) (available <a href="http://www.amazon.com/dp/0615249744/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0615249744/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 22 of the Documatica Research hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/vallee-jacques' | relative_url }}">Vallee, Jacques</a> in his “<a href="{{ '/ufo-history/ufo-books/vallee-jacques-forbidden-science-volume-2-journals-1970-1979' | relative_url }}">Forbidden Science : Volume 2 (Journals 1970-1979)</a>” (<a href="{{ '/tags/2008' | relative_url }}">2008</a>) (available <a href="http://www.amazon.com/dp/0615249744/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0615249744/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 22 of the Documatica Research hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

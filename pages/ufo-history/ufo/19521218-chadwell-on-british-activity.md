@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/cia_1.gif"}
 ---
 
-![cia_1](/images/stories/ufo_tags/cia_1.gif)
+![cia_1]({{ '/images/stories/ufo_tags/cia_1.gif' | relative_url }})
 
 *Chadwell on British activity*
 
@@ -39,13 +39,13 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-Image of memo presented by [Clarke, David](/ufo-history/ufo-personalities/clarke-david) and [Roberts, Andy](/ufo-history/ufo-personalities/roberts-andy) in their “[Out Of The Shadows](file:///C:\Users\homelap\Documents\koi\Notes%20active%20files%20-%20videos%20photos%20etc\v)” ([2002](/tags/2002)) (available [on Amazon USA](http://www.amazon.com/dp/0749922907/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0749922907/ref=nosim?tag=ufot-21)) at page 111 (in Chapter 6) of the Piatkus hardback edition.
+Image of memo presented by [Clarke, David]({{ '/ufo-history/ufo-personalities/clarke-david' | relative_url }}) and [Roberts, Andy]({{ '/ufo-history/ufo-personalities/roberts-andy' | relative_url }}) in their “[Out Of The Shadows](file:///C:\Users\homelap\Documents\koi\Notes%20active%20files%20-%20videos%20photos%20etc\v)” ([2002]({{ '/tags/2002' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0749922907/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0749922907/ref=nosim?tag=ufot-21)) at page 111 (in Chapter 6) of the Piatkus hardback edition.
 
 The table below includes references to relevant discussions in UFO/SETI books noted by Isaac Koi during a review of approximately 963 UFO/SETI books during the period 2003-2006 (with a few later additions). The table can be sorted by author, date and length of discussion by clicking on the relevant word in the top line of the table.
 
 Many of the tables of references on this website are considerably longer than the references to books found on most other UFO websites. Indeed, some are probably the longest that have been collated in relation to some events and personalities. I hope that these tables are found to be a useful contribution to UFOlogy.
 
-Discussed by [Clarke, David](/ufo-history/ufo-personalities/clarke-david) and [Roberts, Andy](/ufo-history/ufo-personalities/roberts-andy) in their “[Out Of The Shadows](file:///C:\Users\homelap\Documents\koi\Notes%20active%20files%20-%20videos%20photos%20etc\v)” ([2002](/tags/2002)) (available [on Amazon USA](http://www.amazon.com/dp/0749922907/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0749922907/ref=nosim?tag=ufot-21)) at pages 110-111 (in Chapter 6) with image of memo at page 111 of the Piatkus hardback edition.
+Discussed by [Clarke, David]({{ '/ufo-history/ufo-personalities/clarke-david' | relative_url }}) and [Roberts, Andy]({{ '/ufo-history/ufo-personalities/roberts-andy' | relative_url }}) in their “[Out Of The Shadows](file:///C:\Users\homelap\Documents\koi\Notes%20active%20files%20-%20videos%20photos%20etc\v)” ([2002]({{ '/tags/2002' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0749922907/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0749922907/ref=nosim?tag=ufot-21)) at pages 110-111 (in Chapter 6) with image of memo at page 111 of the Piatkus hardback edition.
 
 <a id="other"></a>
 ### Other Material

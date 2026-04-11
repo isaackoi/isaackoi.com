@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/brown_courtney_2.jpg"}
 ---
 
-![brown_courtney_2](/images/stories/ufo_personalities/brown_courtney_2.jpg)
+![brown_courtney_2]({{ '/images/stories/ufo_personalities/brown_courtney_2.jpg' | relative_url }})
 
 *Courtney Brown*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/brown-courtney">Brown, Courtney</a> “<a href="/ufo-history/ufo-books/brown-courtney-cosmic-voyage">Cosmic Voyage</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/0451190262/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451190262/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/brown-courtney' | relative_url }}">Brown, Courtney</a> “<a href="{{ '/ufo-history/ufo-books/brown-courtney-cosmic-voyage' | relative_url }}">Cosmic Voyage</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/0451190262/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451190262/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>

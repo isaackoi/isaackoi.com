@@ -13,13 +13,13 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
-On 25 October [1974](/tags/1974), there was an alleged contact incident involving E Carl Higdon while elk-hunting on the north boundary of the Medicine Bow National Forest, Rawlins, Wyoming.
+On 25 October [1974]({{ '/tags/1974' | relative_url }}), there was an alleged contact incident involving E Carl Higdon while elk-hunting on the north boundary of the Medicine Bow National Forest, Rawlins, Wyoming.
 
-This incident is Case 64 in [Isaac Koi's "Top 100" article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases), since it was referred to in 45 of the books covered by that article.
+This incident is Case 64 in [Isaac Koi's "Top 100" article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}), since it was referred to in 45 of the books covered by that article.
 
 Sections below
 
@@ -61,10 +61,10 @@ For discussion of the Carl Higdon encounter see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1988">1988</a></p>
+<p><a href="{{ '/tags/1988' | relative_url }}">1988</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/andrews-ann">Andrews, Ann</a> and Ritchie, Jean in their “Abducted” (<a href="/tags/1988">1988</a>) (available <a href="http://www.amazon.com/dp/0747275165/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0747275165/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 144 (in Chapter 10) of the Headline hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/andrews-ann' | relative_url }}">Andrews, Ann</a> and Ritchie, Jean in their “Abducted” (<a href="{{ '/tags/1988' | relative_url }}">1988</a>) (available <a href="http://www.amazon.com/dp/0747275165/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0747275165/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 144 (in Chapter 10) of the Headline hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -72,10 +72,10 @@ For discussion of the Carl Higdon encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/apro">APRO</a> in “<a href="/ufo-history/ufo-books/story-ronald-editor-and-green-j-richard-consulting-editor-the-encyclopedia-of-ufos">The Encyclopedia of UFOs</a>” (<a href="/tags/1980">1980</a>) edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a> (available <a href="http://www.amazon.com/dp/0385136773/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0385136773/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 171-172 (in an entry entitled “Higdon experience”) of the NEL hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/apro' | relative_url }}">APRO</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-editor-and-green-j-richard-consulting-editor-the-encyclopedia-of-ufos' | relative_url }}">The Encyclopedia of UFOs</a>” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a> (available <a href="http://www.amazon.com/dp/0385136773/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0385136773/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 171-172 (in an entry entitled “Higdon experience”) of the NEL hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -83,10 +83,10 @@ For discussion of the Carl Higdon encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/baker-alan">Baker, Alan</a> in his “<a href="/ufo-history/ufo-books/baker-alan-the-encyclopaedia-of-alien-encounters">The Encyclopaedia of Alien Encounters</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/1852277343/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1852277343/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 200-201 (in an entry entitled “Rawlins, Wyoming, USA”) of the Virgin hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/baker-alan' | relative_url }}">Baker, Alan</a> in his “<a href="{{ '/ufo-history/ufo-books/baker-alan-the-encyclopaedia-of-alien-encounters' | relative_url }}">The Encyclopaedia of Alien Encounters</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/1852277343/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1852277343/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 200-201 (in an entry entitled “Rawlins, Wyoming, USA”) of the Virgin hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -94,10 +94,10 @@ For discussion of the Carl Higdon encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/bartholomew-robert-e">Bartholomew, Robert E</a> and Howard, George S in their “<a href="/ufo-history/ufo-books/bartholomew-robert-e-and-howard-george-s-ufos-and-alien-contact">UFOs and Alien Contact</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/1573922005/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573922005/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 357-358 (in Appendix A, entitled “The UFO Contact Catalogue”) of the Prometheus hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/bartholomew-robert-e' | relative_url }}">Bartholomew, Robert E</a> and Howard, George S in their “<a href="{{ '/ufo-history/ufo-books/bartholomew-robert-e-and-howard-george-s-ufos-and-alien-contact' | relative_url }}">UFOs and Alien Contact</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/1573922005/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573922005/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 357-358 (in Appendix A, entitled “The UFO Contact Catalogue”) of the Prometheus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -105,10 +105,10 @@ For discussion of the Carl Higdon encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/brookesmith-peter">Brookesmith, Peter</a> in his “<a href="/ufo-history/ufo-books/brookesmith-peter-alien-abductions">Alien Abductions</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0760707642/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0760707642/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 21, 25 (in Chapter 1) of the Barnes &amp; Noble hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/brookesmith-peter' | relative_url }}">Brookesmith, Peter</a> in his “<a href="{{ '/ufo-history/ufo-books/brookesmith-peter-alien-abductions' | relative_url }}">Alien Abductions</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0760707642/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0760707642/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 21, 25 (in Chapter 1) of the Barnes &amp; Noble hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -116,10 +116,10 @@ For discussion of the Carl Higdon encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/brookesmith-peter">Brookesmith, Peter</a> in his “<a href="/ufo-history/ufo-books/brookesmith-peter-ufo-the-complete-sightings-catalogue">UFO: The Complete Sightings Catalogue</a>” (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/0713725184/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713725184/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 108 (in Chapter 5) of the BCA hardback edition (with the same page numbering in the Blitz hardback edition, and in the Barnes &amp; Noble hardback edition published under the title “UFO: The Complete Sightings”).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/brookesmith-peter' | relative_url }}">Brookesmith, Peter</a> in his “<a href="{{ '/ufo-history/ufo-books/brookesmith-peter-ufo-the-complete-sightings-catalogue' | relative_url }}">UFO: The Complete Sightings Catalogue</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/0713725184/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713725184/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 108 (in Chapter 5) of the BCA hardback edition (with the same page numbering in the Blitz hardback edition, and in the Barnes &amp; Noble hardback edition published under the title “UFO: The Complete Sightings”).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -127,10 +127,10 @@ For discussion of the Carl Higdon encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/bullard-thomas-e">Bullard, Thomas</a> in “<a href="/ufo-history/ufo-books/hall-richard-the-ufo-evidence-volume-2-a-thirty-year-report">The UFO Evidence: Volume 2 – A Thirty Year Report</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/hall-richard-h">Richard Hall</a>) (available <a href="http://www.amazon.com/dp/0810838818/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0810838818/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 18 (in the unnumbered chapter entitled “Master Chronology”), 540-541 (in Section 13) of the Scareecrow Press hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/bullard-thomas-e' | relative_url }}">Bullard, Thomas</a> in “<a href="{{ '/ufo-history/ufo-books/hall-richard-the-ufo-evidence-volume-2-a-thirty-year-report' | relative_url }}">The UFO Evidence: Volume 2 – A Thirty Year Report</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/hall-richard-h' | relative_url }}">Richard Hall</a>) (available <a href="http://www.amazon.com/dp/0810838818/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0810838818/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 18 (in the unnumbered chapter entitled “Master Chronology”), 540-541 (in Section 13) of the Scareecrow Press hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -138,10 +138,10 @@ For discussion of the Carl Higdon encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/cawthorne-nigel">Cawthorne, Nigel</a> in “<a href="/ufo-history/ufo-books/cawthorne-nigel-the-worlds-greatest-alien-abduction-mysteries">The World’s Greatest Alien Abduction Mysteries</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/0753704250/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0753704250/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 248-249 (in the chapter entitled “Weird and Wacky”) of the Chancellor Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/cawthorne-nigel' | relative_url }}">Cawthorne, Nigel</a> in “<a href="{{ '/ufo-history/ufo-books/cawthorne-nigel-the-worlds-greatest-alien-abduction-mysteries' | relative_url }}">The World’s Greatest Alien Abduction Mysteries</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/0753704250/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0753704250/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 248-249 (in the chapter entitled “Weird and Wacky”) of the Chancellor Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -149,10 +149,10 @@ For discussion of the Carl Higdon encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/cawthorne-nigel">Cawthorne, Nigel</a> in his “<a href="/ufo-history/ufo-books/cawthorne-nigel-the-worlds-greatest-alien-abductions">The World’s Greatest Alien Abductions</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0753700875/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0753700875/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 180-181 (in the chapter entitled “Weird and Wacky”) of the Hamlyn softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/cawthorne-nigel' | relative_url }}">Cawthorne, Nigel</a> in his “<a href="{{ '/ufo-history/ufo-books/cawthorne-nigel-the-worlds-greatest-alien-abductions' | relative_url }}">The World’s Greatest Alien Abductions</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0753700875/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0753700875/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 180-181 (in the chapter entitled “Weird and Wacky”) of the Hamlyn softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -160,10 +160,10 @@ For discussion of the Carl Higdon encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-extraordinary-encounters">Extraordinary Encounters : An Encyclopedia of Extraterrestrials and Otherworldly Beings</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/1576072495/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1576072495/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 35-36 (in an entry entitled “Ausso”) of the ABC-Clio hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-extraordinary-encounters' | relative_url }}">Extraordinary Encounters : An Encyclopedia of Extraterrestrials and Otherworldly Beings</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/1576072495/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1576072495/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 35-36 (in an entry entitled “Ausso”) of the ABC-Clio hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -171,10 +171,10 @@ For discussion of the Carl Higdon encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq">The UFO Encyclopedia: 1st edition</a>: Volume 3 – High Strangeness” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/1558887423/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558887423/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 231-234 (in an entry entitled “Higdon Contact Claim”) of the Omnigraphics hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq' | relative_url }}">The UFO Encyclopedia: 1st edition</a>: Volume 3 – High Strangeness” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/1558887423/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558887423/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 231-234 (in an entry entitled “Higdon Contact Claim”) of the Omnigraphics hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -182,10 +182,10 @@ For discussion of the Carl Higdon encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 487-489 of Volume 1:A-K (in an entry entitled “Higdon Contact Claim”) of the Omnigraphics hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition' | relative_url }}">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 487-489 of Volume 1:A-K (in an entry entitled “Higdon Contact Claim”) of the Omnigraphics hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -193,10 +193,10 @@ For discussion of the Carl Higdon encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/davenport-marc">Davenport, Marc</a> in his “<a href="/ufo-history/ufo-books/davenport-marc-visitors-from-time">Visitors from Time</a>” (<a href="/tags/1992">1992</a>) (available <a href="http://www.amazon.com/dp/1883729025/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1883729025/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 153-154 (in Chapter 11), 167 (in Chapter 12) of the <a href="/tags/1994">1994</a> revised Greenleaf softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/davenport-marc' | relative_url }}">Davenport, Marc</a> in his “<a href="{{ '/ufo-history/ufo-books/davenport-marc-visitors-from-time' | relative_url }}">Visitors from Time</a>” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="http://www.amazon.com/dp/1883729025/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1883729025/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 153-154 (in Chapter 11), 167 (in Chapter 12) of the <a href="{{ '/tags/1994' | relative_url }}">1994</a> revised Greenleaf softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -204,10 +204,10 @@ For discussion of the Carl Higdon encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/dennett-preston">Dennett, Preston</a> E in his “<a href="/ufo-history/ufo-books/dennett-preston-e-ufo-healings">UFO Healings</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/092652433X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/092652433X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 76-77 (in Chapter 7) of the Wild Flower Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dennett-preston' | relative_url }}">Dennett, Preston</a> E in his “<a href="{{ '/ufo-history/ufo-books/dennett-preston-e-ufo-healings' | relative_url }}">UFO Healings</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/092652433X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/092652433X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 76-77 (in Chapter 7) of the Wild Flower Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -215,10 +215,10 @@ For discussion of the Carl Higdon encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1987">1987</a></p>
+<p><a href="{{ '/tags/1987' | relative_url }}">1987</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/evans-hilary">Evans, Hilary</a> and <a href="/ufo-history/ufo-personalities/spencer-john">Spencer, John</a> in “<a href="/ufo-history/ufo-books/evans-hilary-and-spencer-john-ufo-1947-1987">UFO: 1947-1987</a>” (<a href="/tags/1987">1987</a>) (edited by <a href="/ufo-history/ufo-personalities/evans-hilary">Hilary Evans</a> with <a href="/ufo-history/ufo-personalities/spencer-john">John Spencer</a>) (available <a href="http://www.amazon.com/dp/1870021029/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1870021029/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 133 of the Fortean Tomes softcover edition (in Chapter 2.5, entitled “Abductions and Contactees”).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }}">Evans, Hilary</a> and <a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">Spencer, John</a> in “<a href="{{ '/ufo-history/ufo-books/evans-hilary-and-spencer-john-ufo-1947-1987' | relative_url }}">UFO: 1947-1987</a>” (<a href="{{ '/tags/1987' | relative_url }}">1987</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }}">Hilary Evans</a> with <a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">John Spencer</a>) (available <a href="http://www.amazon.com/dp/1870021029/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1870021029/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 133 of the Fortean Tomes softcover edition (in Chapter 2.5, entitled “Abductions and Contactees”).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -226,10 +226,10 @@ For discussion of the Carl Higdon encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fitzgerald-randall">Fitzgerald, Randall</a> in his “<a href="/ufo-history/ufo-books/fitzgerald-randall-the-cosmic-test-tube">The Cosmic Test Tube</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0963916122/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963916122/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 236 (in Section 3) of the Moonlake Media softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }}">Fitzgerald, Randall</a> in his “<a href="{{ '/ufo-history/ufo-books/fitzgerald-randall-the-cosmic-test-tube' | relative_url }}">The Cosmic Test Tube</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0963916122/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963916122/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 236 (in Section 3) of the Moonlake Media softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -237,10 +237,10 @@ For discussion of the Carl Higdon encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1974">1974</a></p>
+<p><a href="{{ '/tags/1974' | relative_url }}">1974</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fowler-raymond-e">Fowler, Raymond E</a> in his “UFOs: Interplanetary Visitors” (<a href="/tags/1974">1974</a>) (available <a href="http://www.amazon.com/dp/0595186947/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0595186947/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 59-60 (in Chapter 6) of the Exposition Banner hardback edition, at pages 57-58 of the Bantam paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fowler-raymond-e' | relative_url }}">Fowler, Raymond E</a> in his “UFOs: Interplanetary Visitors” (<a href="{{ '/tags/1974' | relative_url }}">1974</a>) (available <a href="http://www.amazon.com/dp/0595186947/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0595186947/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 59-60 (in Chapter 6) of the Exposition Banner hardback edition, at pages 57-58 of the Bantam paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -248,10 +248,10 @@ For discussion of the Carl Higdon encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p>Gansberg, Alan and Gansberg, Judith in their “<a href="/ufo-history/ufo-books/gansberg-alan-and-gansberg-judith-direct-encounters-the-personal-histories-of-ufo-abductees">Direct Encounters: The Personal Histories of UFO Abductees</a>” (<a href="/tags/1980">1980</a>) (available <a href="http://www.amazon.com/dp/0802706398/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0802706398/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 10-13 (in Chapter 1) 59-60, 66 (in Chapter 3), 72-73 (in Chapter 4), 93, 94-95 (in Chapter 5), 126-127, 134 (in Chapter 7), 160, 162-163, 168 (in Chapter 9) of the Walker &amp; Co hardback edition.</p>
+<p>Gansberg, Alan and Gansberg, Judith in their “<a href="{{ '/ufo-history/ufo-books/gansberg-alan-and-gansberg-judith-direct-encounters-the-personal-histories-of-ufo-abductees' | relative_url }}">Direct Encounters: The Personal Histories of UFO Abductees</a>” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) (available <a href="http://www.amazon.com/dp/0802706398/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0802706398/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 10-13 (in Chapter 1) 59-60, 66 (in Chapter 3), 72-73 (in Chapter 4), 93, 94-95 (in Chapter 5), 126-127, 134 (in Chapter 7), 160, 162-163, 168 (in Chapter 9) of the Walker &amp; Co hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>19</p>
@@ -259,10 +259,10 @@ For discussion of the Carl Higdon encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1979">1979</a></p>
+<p><a href="{{ '/tags/1979' | relative_url }}">1979</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/haines-richard">Haines, Richard</a> F in “<a href="/ufo-history/ufo-books/haines-richard-ufo-phenomena-and-the-behavioral-scientist">UFO Phenomena and the Behavioral Scientist</a>” (<a href="/tags/1979">1979</a>) (edited by Richard F Haines) (available <a href="http://www.amazon.com/dp/0810812282/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0810812282/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 14-15 (in Chapter 1) of the Scarebrow Press hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/haines-richard' | relative_url }}">Haines, Richard</a> F in “<a href="{{ '/ufo-history/ufo-books/haines-richard-ufo-phenomena-and-the-behavioral-scientist' | relative_url }}">UFO Phenomena and the Behavioral Scientist</a>” (<a href="{{ '/tags/1979' | relative_url }}">1979</a>) (edited by Richard F Haines) (available <a href="http://www.amazon.com/dp/0810812282/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0810812282/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 14-15 (in Chapter 1) of the Scarebrow Press hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -270,10 +270,10 @@ For discussion of the Carl Higdon encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1987">1987</a></p>
+<p><a href="{{ '/tags/1987' | relative_url }}">1987</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/haines-richard">Haines, Richard</a> in his “<a href="/ufo-history/ufo-books/haines-richard-ce-5-close-encounters-of-the-fifth-kind">CE-5 : Close Encounters of the Fifth Kind</a>” (<a href="/tags/1987">1987</a>) (available <a href="http://www.amazon.com/dp/1570714274/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1570714274/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 369-370 (in Chapter 8) of the Sourcebooks softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/haines-richard' | relative_url }}">Haines, Richard</a> in his “<a href="{{ '/ufo-history/ufo-books/haines-richard-ce-5-close-encounters-of-the-fifth-kind' | relative_url }}">CE-5 : Close Encounters of the Fifth Kind</a>” (<a href="{{ '/tags/1987' | relative_url }}">1987</a>) (available <a href="http://www.amazon.com/dp/1570714274/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1570714274/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 369-370 (in Chapter 8) of the Sourcebooks softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -281,10 +281,10 @@ For discussion of the Carl Higdon encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1981">1981</a></p>
+<p><a href="{{ '/tags/1981' | relative_url }}">1981</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/hopkins-budd">Hopkins, Budd</a> in his “<a href="/ufo-history/ufo-books/hopkins-budd-missing-time">Missing Time</a>“ (<a href="/tags/1981">1981</a>) (available <a href="http://www.amazon.com/dp/0345353358/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0345353358/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 214 (in Chapter 9) of the Ballantine Books paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hopkins-budd' | relative_url }}">Hopkins, Budd</a> in his “<a href="{{ '/ufo-history/ufo-books/hopkins-budd-missing-time' | relative_url }}">Missing Time</a>“ (<a href="{{ '/tags/1981' | relative_url }}">1981</a>) (available <a href="http://www.amazon.com/dp/0345353358/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0345353358/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 214 (in Chapter 9) of the Ballantine Books paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -292,10 +292,10 @@ For discussion of the Carl Higdon encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/huyghe-patrick">Huyghe, Patrick</a> in his “<a href="/ufo-history/ufo-books/huyghe-patrick-the-field-guide-to-extraterrestrials">The Field Guide to Extraterrestrials</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/038078128X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/038078128X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 64-65 (in the unnumbered section entitled “Humanoid”) of the Avon softcover edition (with the same page numbering in the NEL softcover edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/huyghe-patrick' | relative_url }}">Huyghe, Patrick</a> in his “<a href="{{ '/ufo-history/ufo-books/huyghe-patrick-the-field-guide-to-extraterrestrials' | relative_url }}">The Field Guide to Extraterrestrials</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/038078128X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/038078128X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 64-65 (in the unnumbered section entitled “Humanoid”) of the Avon softcover edition (with the same page numbering in the NEL softcover edition).</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -303,10 +303,10 @@ For discussion of the Carl Higdon encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1975">1975</a></p>
+<p><a href="{{ '/tags/1975' | relative_url }}">1975</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/keel-john-a">Keel, John A</a> in his “<a href="/ufo-history/ufo-books/keel-john-a-the-cosmic-question">The Cosmic Question</a>” (<a href="/tags/1975">1975</a>) (formerly “The Eighth Tower”) (available <a href="http://www.amazon.com/dp/B000K03IOA/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000K03IOA/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 142-143 (in Chapter 16) of the Panther paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/keel-john-a' | relative_url }}">Keel, John A</a> in his “<a href="{{ '/ufo-history/ufo-books/keel-john-a-the-cosmic-question' | relative_url }}">The Cosmic Question</a>” (<a href="{{ '/tags/1975' | relative_url }}">1975</a>) (formerly “The Eighth Tower”) (available <a href="http://www.amazon.com/dp/B000K03IOA/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000K03IOA/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 142-143 (in Chapter 16) of the Panther paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -314,10 +314,10 @@ For discussion of the Carl Higdon encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/kottmeyer-martin-s">Kottmeyer, Martin S</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 439 (in an entry entitled “Prison Earth theory”) of the New American Library softcover edition, at page 429 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/kottmeyer-martin-s' | relative_url }}">Kottmeyer, Martin S</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 439 (in an entry entitled “Prison Earth theory”) of the New American Library softcover edition, at page 429 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -325,10 +325,10 @@ For discussion of the Carl Higdon encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/kottmeyer-martin-s">Kottmeyer, Martin S</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 528-529 (in an entry entitled “Prison Earth theory”) of the Robinson softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/kottmeyer-martin-s' | relative_url }}">Kottmeyer, Martin S</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 528-529 (in an entry entitled “Prison Earth theory”) of the Robinson softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -336,10 +336,10 @@ For discussion of the Carl Higdon encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1976">1976</a></p>
+<p><a href="{{ '/tags/1976' | relative_url }}">1976</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/lorenzen-coral-e">Lorenzen, Coral</a> and <a href="/ufo-history/ufo-personalities/lorenzen-jim">Lorenzen, Jim</a> in “<a href="/ufo-history/ufo-books/lorenzen-coral-and-lorenzen-jim-encounters-with-ufo-occupants">Encounters with UFO Occupants</a>” (<a href="/tags/1976">1976</a>) (available <a href="http://www.amazon.com/dp/0425030938/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0425030938/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 227-230 (in Chapter 12) of the Berkley paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/lorenzen-coral-e' | relative_url }}">Lorenzen, Coral</a> and <a href="{{ '/ufo-history/ufo-personalities/lorenzen-jim' | relative_url }}">Lorenzen, Jim</a> in “<a href="{{ '/ufo-history/ufo-books/lorenzen-coral-and-lorenzen-jim-encounters-with-ufo-occupants' | relative_url }}">Encounters with UFO Occupants</a>” (<a href="{{ '/tags/1976' | relative_url }}">1976</a>) (available <a href="http://www.amazon.com/dp/0425030938/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0425030938/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 227-230 (in Chapter 12) of the Berkley paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -347,10 +347,10 @@ For discussion of the Carl Higdon encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/lorenzen-coral-e">Lorenzen, Coral</a> and <a href="/ufo-history/ufo-personalities/lorenzen-jim">Lorenzen, Jim</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 241-243 (in an entry entitled “Higdon experience”) of the New American Library softcover edition, at pages 236-238 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/lorenzen-coral-e' | relative_url }}">Lorenzen, Coral</a> and <a href="{{ '/ufo-history/ufo-personalities/lorenzen-jim' | relative_url }}">Lorenzen, Jim</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 241-243 (in an entry entitled “Higdon experience”) of the New American Library softcover edition, at pages 236-238 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -358,10 +358,10 @@ For discussion of the Carl Higdon encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/lorenzen-coral-e">Lorenzen, Coral</a> and <a href="/ufo-history/ufo-personalities/lorenzen-jim">Lorenzen, Jim</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 293-295 (in an entry entitled “Higdon experience”) of the Robinson softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/lorenzen-coral-e' | relative_url }}">Lorenzen, Coral</a> and <a href="{{ '/ufo-history/ufo-personalities/lorenzen-jim' | relative_url }}">Lorenzen, Jim</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 293-295 (in an entry entitled “Higdon experience”) of the Robinson softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -369,10 +369,10 @@ For discussion of the Carl Higdon encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1977">1977</a></p>
+<p><a href="{{ '/tags/1977' | relative_url }}">1977</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/lorenzen-coral-e">Lorenzen, Coral</a> and <a href="/ufo-history/ufo-personalities/lorenzen-jim">Lorenzen, Jim</a> in their “<a href="/ufo-history/ufo-books/lorenzen-coral-and-lorenzen-jim-abducted-confrontations-with-beings-from-outer-space">Abducted! : Confrontations with Beings from Outer Space</a>” (<a href="/tags/1977">1977</a>) (available <a href="http://www.amazon.com/dp/0425035018/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0425035018/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 25-37 (Chapter 3 generally), 154 (in Chapter 11) of the Berkley paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/lorenzen-coral-e' | relative_url }}">Lorenzen, Coral</a> and <a href="{{ '/ufo-history/ufo-personalities/lorenzen-jim' | relative_url }}">Lorenzen, Jim</a> in their “<a href="{{ '/ufo-history/ufo-books/lorenzen-coral-and-lorenzen-jim-abducted-confrontations-with-beings-from-outer-space' | relative_url }}">Abducted! : Confrontations with Beings from Outer Space</a>” (<a href="{{ '/tags/1977' | relative_url }}">1977</a>) (available <a href="http://www.amazon.com/dp/0425035018/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0425035018/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 25-37 (Chapter 3 generally), 154 (in Chapter 11) of the Berkley paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>14</p>
@@ -380,10 +380,10 @@ For discussion of the Carl Higdon encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1987">1987</a></p>
+<p><a href="{{ '/tags/1987' | relative_url }}">1987</a></p>
 </td>
 <td valign="top" width="547">
-<p>Meheust, Bertrand in “<a href="/ufo-history/ufo-books/evans-hilary-and-spencer-john-ufo-1947-1987">UFO: 1947-1987</a>” (<a href="/tags/1987">1987</a>) (edited by <a href="/ufo-history/ufo-personalities/evans-hilary">Hilary Evans</a> with <a href="/ufo-history/ufo-personalities/spencer-john">John Spencer</a>) (available <a href="http://www.amazon.com/dp/1870021029/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1870021029/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 352-353 (in Chapter 5.8, entitled “UFO Abductions as Religious Folklore”) of the Fortean Tomes softcover edition.</p>
+<p>Meheust, Bertrand in “<a href="{{ '/ufo-history/ufo-books/evans-hilary-and-spencer-john-ufo-1947-1987' | relative_url }}">UFO: 1947-1987</a>” (<a href="{{ '/tags/1987' | relative_url }}">1987</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }}">Hilary Evans</a> with <a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">John Spencer</a>) (available <a href="http://www.amazon.com/dp/1870021029/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1870021029/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 352-353 (in Chapter 5.8, entitled “UFO Abductions as Religious Folklore”) of the Fortean Tomes softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -391,10 +391,10 @@ For discussion of the Carl Higdon encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randle-kevin">Randle, Kevin</a> D and <a href="/ufo-history/ufo-personalities/estes-russ">Estes, Russ</a> and Cone, William in their “<a href="/ufo-history/ufo-books/randle-kevin-and-estes-russ-and-cone-william-the-abduction-enigma">The Abduction Enigma</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0312867085/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312867085/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 47-49 (in Chapter 1) of the Forge hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randle-kevin' | relative_url }}">Randle, Kevin</a> D and <a href="{{ '/ufo-history/ufo-personalities/estes-russ' | relative_url }}">Estes, Russ</a> and Cone, William in their “<a href="{{ '/ufo-history/ufo-books/randle-kevin-and-estes-russ-and-cone-william-the-abduction-enigma' | relative_url }}">The Abduction Enigma</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0312867085/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312867085/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 47-49 (in Chapter 1) of the Forge hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -402,10 +402,10 @@ For discussion of the Carl Higdon encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randle-kevin">Randle, Kevin</a> D and <a href="/ufo-history/ufo-personalities/estes-russ">Estes, Russ</a> in their “<a href="/ufo-history/ufo-books/randle-kevin-d-and-estes-russ-faces-of-the-visitors">Faces of the Visitors</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0684839733/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684839733/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 108-112 (in Part 2) of the Fireside softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randle-kevin' | relative_url }}">Randle, Kevin</a> D and <a href="{{ '/ufo-history/ufo-personalities/estes-russ' | relative_url }}">Estes, Russ</a> in their “<a href="{{ '/ufo-history/ufo-books/randle-kevin-d-and-estes-russ-faces-of-the-visitors' | relative_url }}">Faces of the Visitors</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0684839733/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684839733/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 108-112 (in Part 2) of the Fireside softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>
@@ -413,10 +413,10 @@ For discussion of the Carl Higdon encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-alien-contact-the-first-fifty-years">Alien Contact – The First Fifty Years</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0806904763/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806904763/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 103 (in the chapter entitled “<a href="/tags/1983">1983</a>”) of the Collins and Brown hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-alien-contact-the-first-fifty-years' | relative_url }}">Alien Contact – The First Fifty Years</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0806904763/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806904763/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 103 (in the chapter entitled “<a href="{{ '/tags/1983' | relative_url }}">1983</a>”) of the Collins and Brown hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -424,10 +424,10 @@ For discussion of the Carl Higdon encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1993">1993</a></p>
+<p><a href="{{ '/tags/1993' | relative_url }}">1993</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-aliens">Aliens</a>” (<a href="/tags/1993">1993</a>) (available <a href="http://www.amazon.com/dp/0709050259/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0709050259/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 153-155, 156 (in Part 6) of the Hale hardback edition (with the same page numbering in the Sterling softcover edition published under the title “Alien Contacts and Abductions”).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-aliens' | relative_url }}">Aliens</a>” (<a href="{{ '/tags/1993' | relative_url }}">1993</a>) (available <a href="http://www.amazon.com/dp/0709050259/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0709050259/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 153-155, 156 (in Part 6) of the Hale hardback edition (with the same page numbering in the Sterling softcover edition published under the title “Alien Contacts and Abductions”).</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -435,10 +435,10 @@ For discussion of the Carl Higdon encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-star-children">Star Children</a>” (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/0806938560/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806938560/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 95 (in Chapter 6), 106 (in Chapter 7) of the Sterling softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-star-children' | relative_url }}">Star Children</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/0806938560/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806938560/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 95 (in Chapter 6), 106 (in Chapter 7) of the Sterling softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -446,10 +446,10 @@ For discussion of the Carl Higdon encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p>Ritchie, David in his “<a href="/ufo-history/ufo-books/ritchie-david-ufo-the-definitive-guide">UFO : The Definitive Guide</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/1567312004/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1567312004/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 98 (in an entry entitled “Higdon incident, Wyoming, United States”) of the MJF hardback edition.</p>
+<p>Ritchie, David in his “<a href="{{ '/ufo-history/ufo-books/ritchie-david-ufo-the-definitive-guide' | relative_url }}">UFO : The Definitive Guide</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/1567312004/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1567312004/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 98 (in an entry entitled “Higdon incident, Wyoming, United States”) of the MJF hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -457,10 +457,10 @@ For discussion of the Carl Higdon encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/rogo-d-scott">Rogo, D Scott</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 501-503 (in an entry entitled “Rogo hypothesis”) of the New American Library softcover edition, at pages 489-491 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/rogo-d-scott' | relative_url }}">Rogo, D Scott</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 501-503 (in an entry entitled “Rogo hypothesis”) of the New American Library softcover edition, at pages 489-491 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -468,10 +468,10 @@ For discussion of the Carl Higdon encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/rogo-d-scott">Rogo, D Scott</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 602-604 (in an entry entitled “Rogo hypothesis”) of the Robinson softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/rogo-d-scott' | relative_url }}">Rogo, D Scott</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 602-604 (in an entry entitled “Rogo hypothesis”) of the Robinson softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -479,10 +479,10 @@ For discussion of the Carl Higdon encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1976">1976</a></p>
+<p><a href="{{ '/tags/1976' | relative_url }}">1976</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/smith-warren">Smith, Warren</a> in his “<a href="/ufo-history/ufo-books/smith-warren-ufo-trek">UFO Trek</a>” (<a href="/tags/1976">1976</a>) (available <a href="http://www.amazon.com/dp/0890831815/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0890831815/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 8-16, 17 (in Chapter 1) of the Sphere paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/smith-warren' | relative_url }}">Smith, Warren</a> in his “<a href="{{ '/ufo-history/ufo-books/smith-warren-ufo-trek' | relative_url }}">UFO Trek</a>” (<a href="{{ '/tags/1976' | relative_url }}">1976</a>) (available <a href="http://www.amazon.com/dp/0890831815/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0890831815/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 8-16, 17 (in Chapter 1) of the Sphere paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>10</p>
@@ -490,10 +490,10 @@ For discussion of the Carl Higdon encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/spencer-john">Spencer, John</a> and Spencer, Anne in their “<a href="/ufo-history/ufo-books/spencer-john-true-life-encounters-alien-contact">True Life Encounters – Alien Contact</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1575000237/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1575000237/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 159 (in Chapter 10) of the Millenium paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">Spencer, John</a> and Spencer, Anne in their “<a href="{{ '/ufo-history/ufo-books/spencer-john-true-life-encounters-alien-contact' | relative_url }}">True Life Encounters – Alien Contact</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1575000237/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1575000237/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 159 (in Chapter 10) of the Millenium paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -501,10 +501,10 @@ For discussion of the Carl Higdon encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1987">1987</a></p>
+<p><a href="{{ '/tags/1987' | relative_url }}">1987</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/spencer-john">Spencer, John</a> in “<a href="/ufo-history/ufo-books/evans-hilary-and-spencer-john-ufo-1947-1987">UFO: 1947-1987</a>” (<a href="/tags/1987">1987</a>) (edited by <a href="/ufo-history/ufo-personalities/evans-hilary">Hilary Evans</a> with <a href="/ufo-history/ufo-personalities/spencer-john">John Spencer</a>) (available <a href="http://www.amazon.com/dp/1870021029/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1870021029/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 330 of the Fortean Tomes softcover edition (in Chapter 5.3, entitled “UFOs and the Public”).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">Spencer, John</a> in “<a href="{{ '/ufo-history/ufo-books/evans-hilary-and-spencer-john-ufo-1947-1987' | relative_url }}">UFO: 1947-1987</a>” (<a href="{{ '/tags/1987' | relative_url }}">1987</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }}">Hilary Evans</a> with <a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">John Spencer</a>) (available <a href="http://www.amazon.com/dp/1870021029/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1870021029/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 330 of the Fortean Tomes softcover edition (in Chapter 5.3, entitled “UFOs and the Public”).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -512,10 +512,10 @@ For discussion of the Carl Higdon encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/spencer-john">Spencer, John</a> in his “<a href="/ufo-history/ufo-books/spencer-john-the-ufo-encyclopedia">The UFO Encyclopedia</a>” (<a href="/tags/1991">1991</a>) (available <a href="http://www.amazon.com/dp/0380768879/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380768879/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 144 (in an entry entitled “Hidgon, Carl”) of the Guild hardback edition (with the same page numbering in the Avon softcover edition) at page 165 of the Headline paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">Spencer, John</a> in his “<a href="{{ '/ufo-history/ufo-books/spencer-john-the-ufo-encyclopedia' | relative_url }}">The UFO Encyclopedia</a>” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/0380768879/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380768879/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 144 (in an entry entitled “Hidgon, Carl”) of the Guild hardback edition (with the same page numbering in the Avon softcover edition) at page 165 of the Headline paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -523,10 +523,10 @@ For discussion of the Carl Higdon encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/spencer-john">Spencer, John</a> in his “<a href="/ufo-history/ufo-books/spencer-john-ufos-the-definitive-casebook">UFOs: The Definitive Casebook</a>” (<a href="/tags/1991">1991</a>) (available <a href="http://www.amazon.com/dp/B000S52VNG/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000S52VNG/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 63-64 (in the unnumbered section entitled “North America”, in the chapter entitled “Database”) of the Hamlyn hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">Spencer, John</a> in his “<a href="{{ '/ufo-history/ufo-books/spencer-john-ufos-the-definitive-casebook' | relative_url }}">UFOs: The Definitive Casebook</a>” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/B000S52VNG/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000S52VNG/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 63-64 (in the unnumbered section entitled “North America”, in the chapter entitled “Database”) of the Hamlyn hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -534,10 +534,10 @@ For discussion of the Carl Higdon encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1979">1979</a></p>
+<p><a href="{{ '/tags/1979' | relative_url }}">1979</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sprinkle-leo">Sprinkle, R Leo</a> in “<a href="/ufo-history/ufo-books/haines-richard-ufo-phenomena-and-the-behavioral-scientist">UFO Phenomena and the Behavioral Scientist</a>” (<a href="/tags/1979">1979</a>) (edited by Richard F Haines) (available <a href="http://www.amazon.com/dp/0810812282/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0810812282/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 230-352 (in Chapter 11) of the Scarebrow Press hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sprinkle-leo' | relative_url }}">Sprinkle, R Leo</a> in “<a href="{{ '/ufo-history/ufo-books/haines-richard-ufo-phenomena-and-the-behavioral-scientist' | relative_url }}">UFO Phenomena and the Behavioral Scientist</a>” (<a href="{{ '/tags/1979' | relative_url }}">1979</a>) (edited by Richard F Haines) (available <a href="http://www.amazon.com/dp/0810812282/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0810812282/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 230-352 (in Chapter 11) of the Scarebrow Press hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>23</p>
@@ -545,10 +545,10 @@ For discussion of the Carl Higdon encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1988">1988</a></p>
+<p><a href="{{ '/tags/1988' | relative_url }}">1988</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/steiger-brad">Steiger, Brad</a> in his “The UFO Abductors” (<a href="/tags/1988">1988</a>) (available <a href="http://www.amazon.com/dp/0425111652/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0425111652/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 58-61 (in Chapter 3) of the Berkley paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/steiger-brad' | relative_url }}">Steiger, Brad</a> in his “The UFO Abductors” (<a href="{{ '/tags/1988' | relative_url }}">1988</a>) (available <a href="http://www.amazon.com/dp/0425111652/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0425111652/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 58-61 (in Chapter 3) of the Berkley paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -556,10 +556,10 @@ For discussion of the Carl Higdon encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1977">1977</a></p>
+<p><a href="{{ '/tags/1977' | relative_url }}">1977</a></p>
 </td>
 <td valign="top" width="547">
-<p>Strickland, Joshua in his “Extra-terrestrials on Earth” (<a href="/tags/1977">1977</a>) (available <a href="http://www.amazon.com/dp/044821461X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/044821461X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 14-16 (in Chapter 1) of the Granada softcover edition.</p>
+<p>Strickland, Joshua in his “Extra-terrestrials on Earth” (<a href="{{ '/tags/1977' | relative_url }}">1977</a>) (available <a href="http://www.amazon.com/dp/044821461X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/044821461X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 14-16 (in Chapter 1) of the Granada softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>

@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/keith_jim_1.jpg"}
 ---
 
-![keith_jim_1](/images/stories/ufo_personalities/keith_jim_1.jpg)
+![keith_jim_1]({{ '/images/stories/ufo_personalities/keith_jim_1.jpg' | relative_url }})
 
 *Jim Keith*
 
@@ -36,34 +36,34 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/keith-jim">Keith, Jim</a> “<a href="/ufo-history/ufo-books/keith-jim-black-helicopters-over-america">Black Helicopters over America</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/1881532054/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1881532054/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/keith-jim' | relative_url }}">Keith, Jim</a> “<a href="{{ '/ufo-history/ufo-books/keith-jim-black-helicopters-over-america' | relative_url }}">Black Helicopters over America</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/1881532054/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1881532054/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/keith-jim">Keith, Jim</a> “<a href="/ufo-history/ufo-books/keith-jim-casebook-on-alternative-3">Casebook on Alternative 3</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/1931882444/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1931882444/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/keith-jim' | relative_url }}">Keith, Jim</a> “<a href="{{ '/ufo-history/ufo-books/keith-jim-casebook-on-alternative-3' | relative_url }}">Casebook on Alternative 3</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/1931882444/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1931882444/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/keith-jim">Keith, Jim</a> “Black Helicopters II: The Endgame Strategy”</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/keith-jim' | relative_url }}">Keith, Jim</a> “Black Helicopters II: The Endgame Strategy”</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/keith-jim">Keith, Jim</a> “Casebook on the Men in Black”</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/keith-jim' | relative_url }}">Keith, Jim</a> “Casebook on the Men in Black”</p>
 </td>
 </tr>
 </tbody>
@@ -107,10 +107,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2003">2003</a></p>
+<p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/barkun-michael">Barkun, Michael</a> in his “<a href="/ufo-history/ufo-books/barkun-michael-a-culture-of-conspiracy-apocalyptic-visions-in-contemporary-america">A Culture of Conspiracy : Apocalyptic Visions in Contemporary America</a>” (<a href="/tags/2003">2003</a>) (available <a href="http://www.amazon.com/dp/0520248120/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0520248120/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 98, 99-103, 107-108 (in Chapter 6) of the California hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/barkun-michael' | relative_url }}">Barkun, Michael</a> in his “<a href="{{ '/ufo-history/ufo-books/barkun-michael-a-culture-of-conspiracy-apocalyptic-visions-in-contemporary-america' | relative_url }}">A Culture of Conspiracy : Apocalyptic Visions in Contemporary America</a>” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) (available <a href="http://www.amazon.com/dp/0520248120/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0520248120/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 98, 99-103, 107-108 (in Chapter 6) of the California hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>8</p>

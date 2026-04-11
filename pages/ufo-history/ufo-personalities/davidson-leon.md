@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/davidson_leon_1.jpg"}
 ---
 
-![davidson_leon_1](/images/stories/ufo_personalities/davidson_leon_1.jpg)
+![davidson_leon_1]({{ '/images/stories/ufo_personalities/davidson_leon_1.jpg' | relative_url }})
 
 *Leon Davidson*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1966">1966</a>.0700</p>
+<p><a href="{{ '/tags/1966' | relative_url }}">1966</a>.0700</p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/davidson-leon">Davidson, Leon</a> “<a href="/ufo-history/ufo-books/davidson-leon-flying-saucers-an-analysis-of-the-air-force-project-blue-book-special-report-no-14">Flying Saucers : An Analysis of the Air Force Project Blue Book Special Report No. 14</a>” (Third Edition)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/davidson-leon' | relative_url }}">Davidson, Leon</a> “<a href="{{ '/ufo-history/ufo-books/davidson-leon-flying-saucers-an-analysis-of-the-air-force-project-blue-book-special-report-no-14' | relative_url }}">Flying Saucers : An Analysis of the Air Force Project Blue Book Special Report No. 14</a>” (Third Edition)</p>
 </td>
 </tr>
 </tbody>
@@ -85,10 +85,10 @@ For discussion of Leon Davidson see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/brookesmith-peter">Brookesmith, Peter</a> in his “<a href="/ufo-history/ufo-books/brookesmith-peter-ufo-the-government-files">UFO: The Government Files</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/0760702187/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0760702187/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 92 (in Chapter 5), 125 (in Chapter 6) of the Parragon hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/brookesmith-peter' | relative_url }}">Brookesmith, Peter</a> in his “<a href="{{ '/ufo-history/ufo-books/brookesmith-peter-ufo-the-government-files' | relative_url }}">UFO: The Government Files</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/0760702187/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0760702187/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 92 (in Chapter 5), 125 (in Chapter 6) of the Parragon hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -96,10 +96,10 @@ For discussion of Leon Davidson see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1970">1970</a></p>
+<p><a href="{{ '/tags/1970' | relative_url }}">1970</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/keel-john-a">Keel, John A</a> in his “<a href="/ufo-history/ufo-books/keel-john-a-ufos-operation-trojan-horse">UFOs: Operation Trojan Horse</a>” (<a href="/tags/1970">1970</a>) (available <a href="http://www.amazon.com/dp/0962653462/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0962653462/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 42-43 (in Chapter 2) of the Souvenir Press hardback edition (with the same page numbering in the Abacus softcover edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/keel-john-a' | relative_url }}">Keel, John A</a> in his “<a href="{{ '/ufo-history/ufo-books/keel-john-a-ufos-operation-trojan-horse' | relative_url }}">UFOs: Operation Trojan Horse</a>” (<a href="{{ '/tags/1970' | relative_url }}">1970</a>) (available <a href="http://www.amazon.com/dp/0962653462/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0962653462/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 42-43 (in Chapter 2) of the Souvenir Press hardback edition (with the same page numbering in the Abacus softcover edition).</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -107,10 +107,10 @@ For discussion of Leon Davidson see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/peebles-curtis">Peebles, Curtis</a> in his “<a href="/ufo-history/ufo-books/peebles-curtis-watch-the-skies">Watch the Skies!</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/1560983434/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1560983434/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 138-139 (in Chapter 10, “NICAP’s Battle for Congressional Hearings” - in a section entitled “NICAP’s Critics”) of the Smithsonian hardback edition, pages 166-167 of the Berkley paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/peebles-curtis' | relative_url }}">Peebles, Curtis</a> in his “<a href="{{ '/ufo-history/ufo-books/peebles-curtis-watch-the-skies' | relative_url }}">Watch the Skies!</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/1560983434/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1560983434/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 138-139 (in Chapter 10, “NICAP’s Battle for Congressional Hearings” - in a section entitled “NICAP’s Critics”) of the Smithsonian hardback edition, pages 166-167 of the Berkley paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -118,10 +118,10 @@ For discussion of Leon Davidson see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sachs-margaret">Sachs, Margaret</a> in her “<a href="/ufo-history/ufo-books/sachs-margaret-the-ufo-encyclopedia">The UFO Encyclopedia</a>“ (<a href="/tags/1980">1980</a> (available <a href="http://www.amazon.com/dp/0399124217/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0399124217/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 78-79 (in an entry entitled “<a href="/ufo-history/ufo-personalities/davidson-leon">Davidson, Leon</a>”) of the Corgi softback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sachs-margaret' | relative_url }}">Sachs, Margaret</a> in her “<a href="{{ '/ufo-history/ufo-books/sachs-margaret-the-ufo-encyclopedia' | relative_url }}">The UFO Encyclopedia</a>“ (<a href="{{ '/tags/1980' | relative_url }}">1980</a> (available <a href="http://www.amazon.com/dp/0399124217/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0399124217/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 78-79 (in an entry entitled “<a href="{{ '/ufo-history/ufo-personalities/davidson-leon' | relative_url }}">Davidson, Leon</a>”) of the Corgi softback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -129,10 +129,10 @@ For discussion of Leon Davidson see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sheaffer-robert">Sheaffer, Robert</a> in his “<a href="/ufo-history/ufo-books/sheaffer-robert-the-ufo-verdict">The UFO Verdict</a>” (<a href="/tags/1980">1980</a>) (available <a href="http://www.amazon.com/dp/0879753382/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879753382/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 202-203 (in Chapter 20) of the Prometheus softback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sheaffer-robert' | relative_url }}">Sheaffer, Robert</a> in his “<a href="{{ '/ufo-history/ufo-books/sheaffer-robert-the-ufo-verdict' | relative_url }}">The UFO Verdict</a>” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) (available <a href="http://www.amazon.com/dp/0879753382/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879753382/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 202-203 (in Chapter 20) of the Prometheus softback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -140,10 +140,10 @@ For discussion of Leon Davidson see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sheaffer-robert">Sheaffer, Robert</a> in his “<a href="/ufo-history/ufo-books/sheaffer-robert-ufo-sightings-the-evidence">UFO Sightings: The Evidence</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/1573922137/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573922137/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 263 (in Chapter 19) of the Prometheus hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sheaffer-robert' | relative_url }}">Sheaffer, Robert</a> in his “<a href="{{ '/ufo-history/ufo-books/sheaffer-robert-ufo-sightings-the-evidence' | relative_url }}">UFO Sightings: The Evidence</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/1573922137/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573922137/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 263 (in Chapter 19) of the Prometheus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

@@ -14,7 +14,7 @@ header: {"preview_image": null}
 book: {"identifiers": ["B000GRISSS"]}
 ---
 
-Brief review to be added of Milt Machlin's book “[The Total UFO Story](/ufo-history/ufo-books/machlin-milt-the-total-ufo-story)” ([1979](/tags/1979)) (available [on Amazon USA](http://www.amazon.com/dp/B000GRISSS/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B000GRISSS/?&tag=ufot-21))
+Brief review to be added of Milt Machlin's book “[The Total UFO Story]({{ '/ufo-history/ufo-books/machlin-milt-the-total-ufo-story' | relative_url }})” ([1979]({{ '/tags/1979' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/B000GRISSS/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B000GRISSS/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

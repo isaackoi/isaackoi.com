@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/hamilton_william_4.JPG"}
 ---
 
-![Bill Hamilton](/images/stories/ufo_personalities/hamilton_william_4.JPG)
+![Bill Hamilton]({{ '/images/stories/ufo_personalities/hamilton_william_4.JPG' | relative_url }})
 
 *Bill Hamilton*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/hamilton-william-f">Hamilton, William F</a> “Alien Magic: UFO Crashes, Abductions, Underground Bases”</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hamilton-william-f' | relative_url }}">Hamilton, William F</a> “Alien Magic: UFO Crashes, Abductions, Underground Bases”</p>
 </td>
 </tr>
 </tbody>
@@ -85,10 +85,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p>Wright, Susan in her “<a href="/ufo-history/ufo-books/wright-susan-ufo-headquarters">UFO Headquarters</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0312193475/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312193475/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 209-212, 216 (in Chapter 11) of the St Martin’s Press softcover edition.</p>
+<p>Wright, Susan in her “<a href="{{ '/ufo-history/ufo-books/wright-susan-ufo-headquarters' | relative_url }}">UFO Headquarters</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0312193475/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312193475/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 209-212, 216 (in Chapter 11) of the St Martin’s Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>

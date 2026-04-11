@@ -13,7 +13,7 @@ planned_sections: []
 header: {"preview_image": "/images/stories/ufo_personalities/moore_robert_1.JPG"}
 ---
 
-![moore_robert_1](/images/stories/ufo_personalities/moore_robert_1.JPG)
+![moore_robert_1]({{ '/images/stories/ufo_personalities/moore_robert_1.JPG' | relative_url }})
 
 *Robert Moore*
 

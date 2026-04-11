@@ -42,11 +42,11 @@ This video appears to clearly show several craft flying over palm trees.
 
 Screen shots from the video are included below for ease of identification:
 
-![](/images/stories/ufo_videos/video061_1.JPG)
+![]({{ '/images/stories/ufo_videos/video061_1.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video061_2.JPG)
+![]({{ '/images/stories/ufo_videos/video061_2.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video061_3.JPG)
+![]({{ '/images/stories/ufo_videos/video061_3.JPG' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this video
@@ -76,11 +76,11 @@ A [webpage on the Saatchi Art website](http://www.saatchiart.com/BARZOLFF) relat
 
 It therefore appears that the hoax was so successful that the artist changed his working name so as to maximise profit from the recognition of his CGI/artistic skills.
 
-![](/images/stories/ufo_videos/video061_4.JPG)
+![]({{ '/images/stories/ufo_videos/video061_4.JPG' | relative_url }})
 
 Articles about artwork by David Nicolas have referred to his creation of the viral video, such as[a Huffington Post article entitled "French Artist Barzolff on His First US Exhibit"](http://www.huffingtonpost.com/karin-e-baker/french-artist-barzolff-on_b_3717199.html) which notes that he "went on to much-lauded work in the music video and advertising industries (including a music video for Super Furry Animals that won multiple awards, and a more recent one for Boys Noize)":
 
-![](/images/stories/ufo_videos/video061_5.JPG)
+![]({{ '/images/stories/ufo_videos/video061_5.JPG' | relative_url }})
 
 [One article](http://adage.com/article/creativity-news/partizan-s-nicolas-ufo-hoax-architect/120195/) notes that Nicolas says he was surprised at the scale of the reaction: "if I had known there would be so much scrutiny I would have worked harder on it" he laughs.
 
@@ -97,4 +97,4 @@ Relevant discussions on the AboveTopSecret.com forum include the following:
 
 2007 (August) discussion entitled "[(HOAX) Haiti UFO Video - YouTube – (HOAX)](http://www.abovetopsecret.com/forum/thread296021/pg1)"
 
-![](/images/stories/ufo_videos/video061_1d.jpg)
+![]({{ '/images/stories/ufo_videos/video061_1d.jpg' | relative_url }})

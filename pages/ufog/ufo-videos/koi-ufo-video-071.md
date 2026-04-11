@@ -40,9 +40,9 @@ This video of a “grey” alien (entitled “The Captive Gray”) was uploaded 
 
 Screen shots from the video are included below for ease of identification:
 
-![](/images/stories/ufo_videos/video071_1.JPG)
+![]({{ '/images/stories/ufo_videos/video071_1.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video071_2.JPG)
+![]({{ '/images/stories/ufo_videos/video071_2.JPG' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this video
@@ -73,7 +73,7 @@ Philipe Kling David posted a second video on 30 March 2008, entitled "The Captiv
 
 [https://www.youtube.com/watch?v=GsTMjrFSg6I](https://www.youtube.com/watch?v=GsTMjrFSg6I)
 
-![](/images/stories/ufo_videos/video071_3.JPG)
+![]({{ '/images/stories/ufo_videos/video071_3.JPG' | relative_url }})
 
 <a id="truth"></a>
 ### 3. The real background to this video
@@ -84,17 +84,17 @@ On [his website, Philipe Kling David](http://www.philipekling.com/)refers to his
 
 The items showcased on Philipe Kling David's website include the "Captive Grey" from his videos.
 
-![](/images/stories/ufo_videos/koi_video071_5.JPG)
+![]({{ '/images/stories/ufo_videos/koi_video071_5.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/koi_video071_6.JPG)
+![]({{ '/images/stories/ufo_videos/koi_video071_6.JPG' | relative_url }})
 
 Philipe Kling David also writes regularly on [his Mundo Gump blog](http://www.mundogump.com.br/), which includes lots of posts on photography, CGI (Computer Generated Imagery) and UFO hoaxes.
 
 Some photos of Philipe Kling David are shown below:
 
-![](/images/stories/ufo_videos/video071_4.JPG)
+![]({{ '/images/stories/ufo_videos/video071_4.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video071_7.jpg)
+![]({{ '/images/stories/ufo_videos/video071_7.jpg' | relative_url }})
 
 One or two individuals (particularly an individual on the AboveTopSecret.com discussion forum with the username "DocLottaLove") have [suggested that Philipe Kling David was lying about having created the relevant videos](http://www.abovetopsecret.com/forum/thread343464/pg10#pid8257023), an allegation which Philipe Kling David has addressed in some detail in several places - including in [an item on his Mundo Gump blog](http://www.mundogump.com.br/o-desafio-de-juca/) and using his username ["Philipe3d" on the AboveTopsecret.com discussion forum](http://www.abovetopsecret.com/forum/mem/Philipe3d). In the former of those items, Philipe Kling David discusses the fact that he thought his original project files for the "Captive Gray" had been lost after posting that video on Youtube, but he subsequently found those project files. He seems to have been deterred from sharing those original project files by the tone of comments made by "DocLottaLove".
 
@@ -121,4 +121,4 @@ Relevant discussions on the AboveTopSecret.com forum include the following:
 
 2011 (January) discussion entitled "[possibly the best evidence ever? you need to see this video](http://www.abovetopsecret.com/forum/thread646247/pg1)"
 
-![](/images/stories/ufo_videos/video071_1d.jpg)
+![]({{ '/images/stories/ufo_videos/video071_1d.jpg' | relative_url }})

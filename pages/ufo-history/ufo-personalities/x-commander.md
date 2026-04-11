@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/no_avatar.jpg"}
 ---
 
-![](/images/stories/no_avatar.jpg)
+![]({{ '/images/stories/no_avatar.jpg' | relative_url }})
 
 *Image needed*
 
@@ -36,26 +36,26 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/x-commander">X, Commander</a> “The Ultimate Deception”</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/x-commander' | relative_url }}">X, Commander</a> “The Ultimate Deception”</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/x-commander">X, Commander</a> “Underground Alien Bases”</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/x-commander' | relative_url }}">X, Commander</a> “Underground Alien Bases”</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/x-commander">X, Commander</a> “Incredible Technologies of the New World Order”</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/x-commander' | relative_url }}">X, Commander</a> “Incredible Technologies of the New World Order”</p>
 </td>
 </tr>
 </tbody>
@@ -75,7 +75,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-Commander X is discussed by [Baker, Alan](/ufo-history/ufo-personalities/baker-alan) in his “[The Encyclopaedia of Alien Encounters](/ufo-history/ufo-books/baker-alan-the-encyclopaedia-of-alien-encounters)” ([1999](/tags/1999)) (available [on Amazon USA](http://www.amazon.com/dp/1852277343/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1852277343/ref=nosim?tag=ufot-21)) at page 259 (in an entry entitled “[X, Commander](/ufo-history/ufo-personalities/x-commander)”) of the Virgin hardback edition.
+Commander X is discussed by [Baker, Alan]({{ '/ufo-history/ufo-personalities/baker-alan' | relative_url }}) in his “[The Encyclopaedia of Alien Encounters]({{ '/ufo-history/ufo-books/baker-alan-the-encyclopaedia-of-alien-encounters' | relative_url }})” ([1999]({{ '/tags/1999' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1852277343/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1852277343/ref=nosim?tag=ufot-21)) at page 259 (in an entry entitled “[X, Commander]({{ '/ufo-history/ufo-personalities/x-commander' | relative_url }})”) of the Virgin hardback edition.
 
 <a id="other"></a>
 ### Other Material

@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/poll_1.jpg"}
 ---
 
-![poll_1](/images/stories/ufo_tags/poll_1.jpg)
+![poll_1]({{ '/images/stories/ufo_tags/poll_1.jpg' | relative_url }})
 
 *Gallup religion poll*
 
@@ -59,10 +59,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2007">2007</a></p>
+<p><a href="{{ '/tags/2007' | relative_url }}">2007</a></p>
 </td>
 <td valign="top" width="547">
-<p>Strange, James in “Alien Worlds : Social and Religious Dimensions of Extraterrestrial Contact” (<a href="/tags/2007">2007</a>) (edited by Diana Tumminia) (available <a href="http://www.amazon.com/dp/0815608586/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0815608586/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 244-245 (in Chapter 13) of the Syracuse University Press softcover edition.</p>
+<p>Strange, James in “Alien Worlds : Social and Religious Dimensions of Extraterrestrial Contact” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (edited by Diana Tumminia) (available <a href="http://www.amazon.com/dp/0815608586/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0815608586/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 244-245 (in Chapter 13) of the Syracuse University Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/hancock_graham_1.jpg"}
 ---
 
-![hancock_graham_1](/images/stories/ufo_personalities/hancock_graham_1.jpg)
+![hancock_graham_1]({{ '/images/stories/ufo_personalities/hancock_graham_1.jpg' | relative_url }})
 
 *Graham Hancock*
 
@@ -36,18 +36,18 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/hancock-graham">Hancock, Graham</a> “The Fingerprints of the Gods”</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hancock-graham' | relative_url }}">Hancock, Graham</a> “The Fingerprints of the Gods”</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/hancock-graham">Hancock, Graham</a> “<a href="/ufo-history/ufo-books/hancock-graham-the-mars-mystery">The Mars Mystery</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0609600869/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0609600869/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hancock-graham' | relative_url }}">Hancock, Graham</a> “<a href="{{ '/ufo-history/ufo-books/hancock-graham-the-mars-mystery' | relative_url }}">The Mars Mystery</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0609600869/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0609600869/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>

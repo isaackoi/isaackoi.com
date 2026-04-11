@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0760304718.jpg"}
 book: {"identifiers": ["0760304718"], "primary_isbn": "0760304718", "cover_image": "/book-covers/0760304718.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of “[The Roswell File](/ufo-history/ufo-books/shawcross-tim-the-roswell-file)” ([1997](/tags/1997)) (available [on Amazon USA](http://www.amazon.com/dp/0760304718/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0760304718/?&tag=ufot-21)) by Tim Shawcross.
+Brief review to be added of “[The Roswell File]({{ '/ufo-history/ufo-books/shawcross-tim-the-roswell-file' | relative_url }})” ([1997]({{ '/tags/1997' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0760304718/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0760304718/?&tag=ufot-21)) by Tim Shawcross.
 
 1. [Web Resources](#web)
 

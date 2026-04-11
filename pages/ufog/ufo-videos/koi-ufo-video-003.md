@@ -44,13 +44,13 @@ The video has the website address "www.arkadysimkin.pl" plastered prominently on
 
 Screenshots from the video are shown below for ease of identification.
 
-![](/images/stories/ufo_videos/video003_1.JPG)
+![]({{ '/images/stories/ufo_videos/video003_1.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video003_2.JPG)
+![]({{ '/images/stories/ufo_videos/video003_2.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video003_3.JPG)
+![]({{ '/images/stories/ufo_videos/video003_3.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video003_4.JPG)
+![]({{ '/images/stories/ufo_videos/video003_4.JPG' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this video
@@ -80,15 +80,15 @@ The Siberian "UFO" video was first posted on the Giantology blog on 21 October 2
 
 "Arkady Simkin" was another fictional character created as part of the advertising campaign. Arkady Simkin's website suggested that he was a geologist that had supposedly travelled to Siberia on an expedition for oil. He claimed to have found instead was a colossus: a half-frozen ice giant he referred to as "Taurus Major". The Arkady Simkin website included the Siberian "UFO" video and, in a hidden directory accessible by inputting the password "polaricegiant", what looked to be a 3D scan of the corpse, and a picture of a cave painting depicting men hunting the colossus.
 
-![](/images/stories/ufo_videos/video003_9.JPG)
+![]({{ '/images/stories/ufo_videos/video003_9.JPG' | relative_url }})
 
 Various players of the game quickly observed on social media in 2005-2006 that the images on the Arkady Simkin resembled the second colossus in "Shadow of the Colossus", noting the remarkable coincidence that the creators of that game referred to that colossus as " "Taurus Major" (in addition to using the nickname of "Quadratus"). A considerable number of players of the game posted on various discussion forums that they suspected a viral marketing campaign.
 
-![](/images/stories/ufo_videos/video003_8.JPG)
+![]({{ '/images/stories/ufo_videos/video003_8.JPG' | relative_url }})
 
 Relevant early posts included [the following post dated 26 October 2005 on Cryptozoology.com](http://www.cryptozoology.com/forum/topic_view_thread.php?tid=25&pid=297130).
 
-![](/images/stories/ufo_videos/video003_7.JPG)
+![]({{ '/images/stories/ufo_videos/video003_7.JPG' | relative_url }})
 
 As more of the videos were posted on the Giantology blog, an increasing number of people expressing the conclusion on discussion forums, Wikipedia and elsewhere that this was viral marketing campaign increased.
 
@@ -139,4 +139,4 @@ A lengthy discussion in 2005 on the "Unfiction" forum on Alternate Reality Gamin
 
 http://forums.unfiction.com/forums/viewtopic.php?t=12714&sid=2bb7817c0b38fae70997d5c94b54bbc8
 
-![](/images/stories/ufo_videos/video003_3d.jpg)
+![]({{ '/images/stories/ufo_videos/video003_3d.jpg' | relative_url }})

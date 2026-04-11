@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/1931044325.jpg"}
 book: {"identifiers": ["B0007DOAAG", "1931044325", "0505513048", "0789207087", "1575440660"], "primary_isbn": "1931044325", "cover_image": "/book-covers/1931044325.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of “[Flying Saucer Pilgrimmage](/ufo-history/ufo-books/reeve-bryant-and-reeve-helen-flying-saucer-pilgrimmage)” ([1957](/tags/1957)) (available [on Amazon USA](http://www.amazon.com/dp/B0007DOAAG/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B0007DOAAG/?&tag=ufot-21)) by Bryant Reeve and Helen Reeve.
+Brief review to be added of “[Flying Saucer Pilgrimmage]({{ '/ufo-history/ufo-books/reeve-bryant-and-reeve-helen-flying-saucer-pilgrimmage' | relative_url }})” ([1957]({{ '/tags/1957' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/B0007DOAAG/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B0007DOAAG/?&tag=ufot-21)) by Bryant Reeve and Helen Reeve.
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/bennett-colin">Bennett, Colin</a> in his “<a href="/ufo-history/ufo-books/bennett-colin-looking-for-orthon">Looking for Orthon</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/1931044325/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1931044325/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 118 (in Chapter 10), 131, 136 (in Chapter 12) of the Paraview softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/bennett-colin' | relative_url }}">Bennett, Colin</a> in his “<a href="{{ '/ufo-history/ufo-books/bennett-colin-looking-for-orthon' | relative_url }}">Looking for Orthon</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/1931044325/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1931044325/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 118 (in Chapter 10), 131, 136 (in Chapter 12) of the Paraview softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -65,10 +65,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1968">1968</a></p>
+<p><a href="{{ '/tags/1968' | relative_url }}">1968</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/binder-otto">Binder, Otto</a> in his “Flying Saucers Are Watching Us” (<a href="/tags/1968">1968</a>) (available <a href="http://www.amazon.com/dp/0505513048/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0505513048/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 118 (in Chapter 10), 167 (in Chapter 15) of the Belmont paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/binder-otto' | relative_url }}">Binder, Otto</a> in his “Flying Saucers Are Watching Us” (<a href="{{ '/tags/1968' | relative_url }}">1968</a>) (available <a href="http://www.amazon.com/dp/0505513048/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0505513048/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 118 (in Chapter 10), 167 (in Chapter 15) of the Belmont paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -76,10 +76,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1985">1985</a></p>
+<p><a href="{{ '/tags/1985' | relative_url }}">1985</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/curran-douglas">Curran, Douglas</a> in his “<a href="/ufo-history/ufo-books/curran-douglas-in-advance-of-the-landing-folk-concepts-of-outer-space">In Advance of the Landing: Folk Concepts of Outer Space</a>” (<a href="/tags/1985">1985</a>) (available <a href="http://www.amazon.com/dp/0789207087/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0789207087/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 18 (in the unnumbered chapter entitled “Deus Ex Machina”) of the updated <a href="/tags/2001">2001</a> Abbeville Press hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/curran-douglas' | relative_url }}">Curran, Douglas</a> in his “<a href="{{ '/ufo-history/ufo-books/curran-douglas-in-advance-of-the-landing-folk-concepts-of-outer-space' | relative_url }}">In Advance of the Landing: Folk Concepts of Outer Space</a>” (<a href="{{ '/tags/1985' | relative_url }}">1985</a>) (available <a href="http://www.amazon.com/dp/0789207087/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0789207087/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 18 (in the unnumbered chapter entitled “Deus Ex Machina”) of the updated <a href="{{ '/tags/2001' | relative_url }}">2001</a> Abbeville Press hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -87,10 +87,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p>Nesheim, Eric and Nesheim, Leif in their “<a href="/ufo-history/ufo-books/nesheim-eric-and-nesheim-leif-saucer-attack-pop-culture-in-the-golden-age-of-flying-saucers">Saucer Attack! : Pop Culture in the Golden Age of Flying Saucers</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1575440660/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1575440660/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 21, 43 of the General Publishing softcover edition.</p>
+<p>Nesheim, Eric and Nesheim, Leif in their “<a href="{{ '/ufo-history/ufo-books/nesheim-eric-and-nesheim-leif-saucer-attack-pop-culture-in-the-golden-age-of-flying-saucers' | relative_url }}">Saucer Attack! : Pop Culture in the Golden Age of Flying Saucers</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1575440660/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1575440660/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 21, 43 of the General Publishing softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

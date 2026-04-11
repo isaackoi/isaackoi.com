@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/no_avatar.jpg"}
 ---
 
-![](/images/stories/no_avatar.jpg)
+![]({{ '/images/stories/no_avatar.jpg' | relative_url }})
 
 *Image needed*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/thompson-keith">Thompson, Keith</a> “<a href="/ufo-history/ufo-books/thompson-keith-angels-and-aliens-ufos-and-the-mythic-imagination">Angels and Aliens: UFOs and the Mythic Imagination</a>” (<a href="/tags/1991">1991</a>) (available <a href="http://www.amazon.com/dp/0449908372/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0449908372/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/thompson-keith' | relative_url }}">Thompson, Keith</a> “<a href="{{ '/ufo-history/ufo-books/thompson-keith-angels-and-aliens-ufos-and-the-mythic-imagination' | relative_url }}">Angels and Aliens: UFOs and the Mythic Imagination</a>” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/0449908372/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0449908372/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>
@@ -59,7 +59,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-See the references provided in the entry for Thompson's book “[Angels and Aliens: UFOs and the Mythic Imagination](/ufo-history/ufo-books/thompson-keith-angels-and-aliens-ufos-and-the-mythic-imagination)” ([1991](/tags/1991)).
+See the references provided in the entry for Thompson's book “[Angels and Aliens: UFOs and the Mythic Imagination]({{ '/ufo-history/ufo-books/thompson-keith-angels-and-aliens-ufos-and-the-mythic-imagination' | relative_url }})” ([1991]({{ '/tags/1991' | relative_url }})).
 
 <a id="other"></a>
 ### Other Material

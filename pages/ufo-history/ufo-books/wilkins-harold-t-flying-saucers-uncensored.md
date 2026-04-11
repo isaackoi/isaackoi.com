@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0451204247.jpg"}
 book: {"identifiers": ["B000JIJGC6", "0451204247", "1841196134", "0962653462"], "primary_isbn": "0451204247", "cover_image": "/book-covers/0451204247.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of “[Flying Saucers Uncensored](/ufo-history/ufo-books/wilkins-harold-t-flying-saucers-uncensored)” ([1955](/tags/1955)) (available [on Amazon USA](http://www.amazon.com/dp/B000JIJGC6/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B000JIJGC6/?&tag=ufot-21)) by [Harold Wilkins](/ufo-history/ufo-personalities/wilkins-harold).
+Brief review to be added of “[Flying Saucers Uncensored]({{ '/ufo-history/ufo-books/wilkins-harold-t-flying-saucers-uncensored' | relative_url }})” ([1955]({{ '/tags/1955' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/B000JIJGC6/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B000JIJGC6/?&tag=ufot-21)) by [Harold Wilkins]({{ '/ufo-history/ufo-personalities/wilkins-harold' | relative_url }}).
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p>Catoe, Lynn in “<a href="/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 202 (in an entry entitled “<a href="/ufo-history/ufo-books/wilkins-harold-t-flying-saucers-uncensored">Flying Saucers Uncensored</a>”) of the New American Library softcover edition, at page 199 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
+<p>Catoe, Lynn in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 202 (in an entry entitled “<a href="{{ '/ufo-history/ufo-books/wilkins-harold-t-flying-saucers-uncensored' | relative_url }}">Flying Saucers Uncensored</a>”) of the New American Library softcover edition, at page 199 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -65,10 +65,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p>Catoe, Lynn in “<a href="/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 245 (in an entry entitled “<a href="/ufo-history/ufo-books/wilkins-harold-t-flying-saucers-uncensored">Flying Saucers Uncensored</a>”) of the Robinson softcover edition.</p>
+<p>Catoe, Lynn in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 245 (in an entry entitled “<a href="{{ '/ufo-history/ufo-books/wilkins-harold-t-flying-saucers-uncensored' | relative_url }}">Flying Saucers Uncensored</a>”) of the Robinson softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -76,10 +76,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1970">1970</a></p>
+<p><a href="{{ '/tags/1970' | relative_url }}">1970</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/keel-john-a">Keel, John A</a> in his “<a href="/ufo-history/ufo-books/keel-john-a-ufos-operation-trojan-horse">UFOs: Operation Trojan Horse</a>” (<a href="/tags/1970">1970</a>) (available <a href="http://www.amazon.com/dp/0962653462/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0962653462/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 39 (in Chapter 2) of the Souvenir Press hardback edition (with the same page numbering in the Abacus softcover edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/keel-john-a' | relative_url }}">Keel, John A</a> in his “<a href="{{ '/ufo-history/ufo-books/keel-john-a-ufos-operation-trojan-horse' | relative_url }}">UFOs: Operation Trojan Horse</a>” (<a href="{{ '/tags/1970' | relative_url }}">1970</a>) (available <a href="http://www.amazon.com/dp/0962653462/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0962653462/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 39 (in Chapter 2) of the Souvenir Press hardback edition (with the same page numbering in the Abacus softcover edition).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

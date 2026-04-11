@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/movies_1.jpg"}
 ---
 
-![movies_1](/images/stories/ufo_tags/movies_1.jpg)
+![movies_1]({{ '/images/stories/ufo_tags/movies_1.jpg' | relative_url }})
 
 *“Roswell”*
 
@@ -77,10 +77,10 @@ For discussion of the movie “*Roswell*” see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/baker-alan">Baker, Alan</a> in his “<a href="/ufo-history/ufo-books/baker-alan-the-encyclopaedia-of-alien-encounters">The Encyclopaedia of Alien Encounters</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/1852277343/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1852277343/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 213 (in an entry entitled “Roswell: The UFO Cover-UP (Film)”) of the Virgin hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/baker-alan' | relative_url }}">Baker, Alan</a> in his “<a href="{{ '/ufo-history/ufo-books/baker-alan-the-encyclopaedia-of-alien-encounters' | relative_url }}">The Encyclopaedia of Alien Encounters</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/1852277343/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1852277343/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 213 (in an entry entitled “Roswell: The UFO Cover-UP (Film)”) of the Virgin hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -88,10 +88,10 @@ For discussion of the movie “*Roswell*” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-the-ufo-book">The UFO Book</a>: Encyclopedia of the Extraterrestrial” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/1578590299/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1578590299/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 676 of the Visible Ink Press softcover edition in an appendix entitled “UFO Films and Documentaries”.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-the-ufo-book' | relative_url }}">The UFO Book</a>: Encyclopedia of the Extraterrestrial” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/1578590299/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1578590299/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 676 of the Visible Ink Press softcover edition in an appendix entitled “UFO Films and Documentaries”.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -99,10 +99,10 @@ For discussion of the movie “*Roswell*” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p>Emery, C Eugene in “<a href="/ufo-history/ufo-books/frazier-kendrick-and-nickell-joseph-ed-the-ufo-invasion">The UFO Invasion</a>” (<a href="/tags/1997">1997</a>) (edited by <a href="/ufo-history/ufo-personalities/frazier-kendrick">Kendrick Frazier</a>, Barry Karr and <a href="/ufo-history/ufo-personalities/nickell-joe">Joe Nickell</a>) (available <a href="http://www.amazon.com/dp/1573921319/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573921319/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 94-97 of the Prometheus hardback edition (Chapter 10 generally, “Top-Secret Balloon Project Looms over TV Movie on Roswell Incident”). The relevant chapter is a reprint of an article in the <em>Skeptical Inquirer </em>19 (January/February <a href="/tags/1995">1995</a>).</p>
+<p>Emery, C Eugene in “<a href="{{ '/ufo-history/ufo-books/frazier-kendrick-and-nickell-joseph-ed-the-ufo-invasion' | relative_url }}">The UFO Invasion</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/frazier-kendrick' | relative_url }}">Kendrick Frazier</a>, Barry Karr and <a href="{{ '/ufo-history/ufo-personalities/nickell-joe' | relative_url }}">Joe Nickell</a>) (available <a href="http://www.amazon.com/dp/1573921319/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573921319/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 94-97 of the Prometheus hardback edition (Chapter 10 generally, “Top-Secret Balloon Project Looms over TV Movie on Roswell Incident”). The relevant chapter is a reprint of an article in the <em>Skeptical Inquirer </em>19 (January/February <a href="{{ '/tags/1995' | relative_url }}">1995</a>).</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -110,10 +110,10 @@ For discussion of the movie “*Roswell*” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/hesemann-michael">Hesemann, Michael</a> and <a href="/ufo-history/ufo-personalities/mantle-philip">Mantle, Philip</a> in their “<a href="/ufo-history/ufo-books/hesemann-michael-and-mantle-philip-beyond-roswell">Beyond Roswell</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1569247811/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1569247811/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 178 (in Chapter 12) of the Michael O’Mara hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hesemann-michael' | relative_url }}">Hesemann, Michael</a> and <a href="{{ '/ufo-history/ufo-personalities/mantle-philip' | relative_url }}">Mantle, Philip</a> in their “<a href="{{ '/ufo-history/ufo-books/hesemann-michael-and-mantle-philip-beyond-roswell' | relative_url }}">Beyond Roswell</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1569247811/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1569247811/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 178 (in Chapter 12) of the Michael O’Mara hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -121,10 +121,10 @@ For discussion of the movie “*Roswell*” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/korff-kal-k">Korff, Kal K</a> in his “<a href="/ufo-history/ufo-books/korff-kal-k-the-roswell-ufo-crash-what-they-dont-want-you-to-know">The Roswell UFO Crash: What They Don’t Want You to Know</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0440236134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0440236134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 73 (in Chapter 3), 180-181 (in Chapter 6) of the Dell paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/korff-kal-k' | relative_url }}">Korff, Kal K</a> in his “<a href="{{ '/ufo-history/ufo-books/korff-kal-k-the-roswell-ufo-crash-what-they-dont-want-you-to-know' | relative_url }}">The Roswell UFO Crash: What They Don’t Want You to Know</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0440236134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0440236134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 73 (in Chapter 3), 180-181 (in Chapter 6) of the Dell paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -132,10 +132,10 @@ For discussion of the movie “*Roswell*” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p>Lyne, William P in his “<a href="/ufo-history/ufo-books/lyne-william-p-space-aliens-from-the-pentagon">Space Aliens from the Pentagon</a>” (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/0963746715/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963746715/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 113 (in Chapter 3) of the Creatopia Productions softcover edition.</p>
+<p>Lyne, William P in his “<a href="{{ '/ufo-history/ufo-books/lyne-william-p-space-aliens-from-the-pentagon' | relative_url }}">Space Aliens from the Pentagon</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/0963746715/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963746715/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 113 (in Chapter 3) of the Creatopia Productions softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -143,10 +143,10 @@ For discussion of the movie “*Roswell*” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2002">2002</a></p>
+<p><a href="{{ '/tags/2002' | relative_url }}">2002</a></p>
 </td>
 <td valign="top" width="547">
-<p>Nixon, Neil in his “<a href="/ufo-history/ufo-books/nixon-neil-pocket-essentials-ufos">Pocket Essentials : UFOs</a>” (<a href="/tags/2002">2002</a>) (available <a href="http://www.amazon.com/dp/1903047889/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1903047889/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 58 (in Chapter 4) of the Pocket Essentials softcover edition.</p>
+<p>Nixon, Neil in his “<a href="{{ '/ufo-history/ufo-books/nixon-neil-pocket-essentials-ufos' | relative_url }}">Pocket Essentials : UFOs</a>” (<a href="{{ '/tags/2002' | relative_url }}">2002</a>) (available <a href="http://www.amazon.com/dp/1903047889/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1903047889/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 58 (in Chapter 4) of the Pocket Essentials softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -154,10 +154,10 @@ For discussion of the movie “*Roswell*” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p>Patton, Phil in his “<a href="/ufo-history/ufo-books/patton-phil-travels-in-dreamland">Travels in Dreamland</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0679456511/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0679456511/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 151 (in Chapter 10) of the Orion Media hardback edition.</p>
+<p>Patton, Phil in his “<a href="{{ '/ufo-history/ufo-books/patton-phil-travels-in-dreamland' | relative_url }}">Travels in Dreamland</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0679456511/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0679456511/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 151 (in Chapter 10) of the Orion Media hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -165,10 +165,10 @@ For discussion of the movie “*Roswell*” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/pope-nick">Pope, Nick</a> in his “<a href="/ufo-history/ufo-books/pope-nick-open-skies-closed-minds">Open Skies, Closed Minds</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/0684816644/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684816644/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 183 (in Chapter 10) of the Simon and Schuster hardback edition, with the same page numbering in the Pocket Books paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/pope-nick' | relative_url }}">Pope, Nick</a> in his “<a href="{{ '/ufo-history/ufo-books/pope-nick-open-skies-closed-minds' | relative_url }}">Open Skies, Closed Minds</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/0684816644/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684816644/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 183 (in Chapter 10) of the Simon and Schuster hardback edition, with the same page numbering in the Pocket Books paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -176,10 +176,10 @@ For discussion of the movie “*Roswell*” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randle-kevin">Randle, Kevin</a> in his “<a href="/ufo-history/ufo-books/randle-kevin-the-roswell-encyclopedia">The Roswell Encyclopedia</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/0380798530/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380798530/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 262, 263 (in an entry entitled “The<em> Penthouse </em>Alien Photograph”) of the Quill softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randle-kevin' | relative_url }}">Randle, Kevin</a> in his “<a href="{{ '/ufo-history/ufo-books/randle-kevin-the-roswell-encyclopedia' | relative_url }}">The Roswell Encyclopedia</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/0380798530/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380798530/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 262, 263 (in an entry entitled “The<em> Penthouse </em>Alien Photograph”) of the Quill softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -187,10 +187,10 @@ For discussion of the movie “*Roswell*” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-alien-contact-the-first-fifty-years">Alien Contact – The First Fifty Years</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0806904763/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806904763/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 133 (in the chapter entitled “<a href="/tags/1995">1995</a>”) of the Collins and Brown hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-alien-contact-the-first-fifty-years' | relative_url }}">Alien Contact – The First Fifty Years</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0806904763/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806904763/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 133 (in the chapter entitled “<a href="{{ '/tags/1995' | relative_url }}">1995</a>”) of the Collins and Brown hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -198,10 +198,10 @@ For discussion of the movie “*Roswell*” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-the-little-giant-encyclopedia-of-ufos">The Little Giant Encyclopedia of UFOs</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/0806918918/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806918918/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 128-129 (in Part 1, “A UFO Timeline”) of the Sterling softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-the-little-giant-encyclopedia-of-ufos' | relative_url }}">The Little Giant Encyclopedia of UFOs</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/0806918918/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806918918/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 128-129 (in Part 1, “A UFO Timeline”) of the Sterling softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -209,10 +209,10 @@ For discussion of the movie “*Roswell*” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-ufo-retrievals">UFO Retrievals</a>” (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/0713724935/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713724935/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 54 (in Chapter 2) of the Blandford softback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-ufo-retrievals' | relative_url }}">UFO Retrievals</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/0713724935/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713724935/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 54 (in Chapter 2) of the Blandford softback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -220,10 +220,10 @@ For discussion of the movie “*Roswell*” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/rux-bruce">Rux, Bruce</a> in his “<a href="/ufo-history/ufo-books/rux-bruce-hollywood-vs-the-aliens">Hollywood Vs. the Aliens</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1883319617/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1883319617/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 552-553 (in Chapter 11) of the Frog softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/rux-bruce' | relative_url }}">Rux, Bruce</a> in his “<a href="{{ '/ufo-history/ufo-books/rux-bruce-hollywood-vs-the-aliens' | relative_url }}">Hollywood Vs. the Aliens</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1883319617/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1883319617/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 552-553 (in Chapter 11) of the Frog softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

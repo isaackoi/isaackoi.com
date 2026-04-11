@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/kraspedon_dino_1.jpg"}
 ---
 
-![kraspedon_dino_1](/images/stories/ufo_personalities/kraspedon_dino_1.jpg)
+![kraspedon_dino_1]({{ '/images/stories/ufo_personalities/kraspedon_dino_1.jpg' | relative_url }})
 
 *Dino Kraspedon*
 
@@ -38,10 +38,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1959">1959</a></p>
+<p><a href="{{ '/tags/1959' | relative_url }}">1959</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/kraspedon-dino">Kraspedon, Dino</a> (whose real name was Aladino Felix) “<a href="/ufo-history/ufo-books/kraspedon-dino-whose-real-name-was-aladino-felix-my-contact-with-ufos-formerly-my-contact-with-flying-saucers">My Contact With UFOs</a>” (<a href="/tags/1959">1959</a>) (available <a href="http://www.amazon.com/dp/0722153317/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0722153317/ref=nosim?tag=ufot-21">on Amazon UK</a>) (Formerly “My contact with Flying Saucers”)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/kraspedon-dino' | relative_url }}">Kraspedon, Dino</a> (whose real name was Aladino Felix) “<a href="{{ '/ufo-history/ufo-books/kraspedon-dino-whose-real-name-was-aladino-felix-my-contact-with-ufos-formerly-my-contact-with-flying-saucers' | relative_url }}">My Contact With UFOs</a>” (<a href="{{ '/tags/1959' | relative_url }}">1959</a>) (available <a href="http://www.amazon.com/dp/0722153317/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0722153317/ref=nosim?tag=ufot-21">on Amazon UK</a>) (Formerly “My contact with Flying Saucers”)</p>
 </td>
 </tr>
 </tbody>
@@ -61,7 +61,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-See the references provided in the entry for Kraspdeon's book “[My Contact With UFOs](/ufo-history/ufo-books/kraspedon-dino-whose-real-name-was-aladino-felix-my-contact-with-ufos-formerly-my-contact-with-flying-saucers)” ([1959](/tags/1959)).
+See the references provided in the entry for Kraspdeon's book “[My Contact With UFOs]({{ '/ufo-history/ufo-books/kraspedon-dino-whose-real-name-was-aladino-felix-my-contact-with-ufos-formerly-my-contact-with-flying-saucers' | relative_url }})” ([1959]({{ '/tags/1959' | relative_url }})).
 
 <a id="other"></a>
 ### Other Material

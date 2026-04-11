@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/cia_1.gif"}
 ---
 
-![cia_1](/images/stories/ufo_tags/cia_1.gif)
+![cia_1]({{ '/images/stories/ufo_tags/cia_1.gif' | relative_url }})
 
 *Gerald Haines on “CIA's role”*
 
@@ -40,7 +40,7 @@ Sections below
 
 The text of the study is available online on various websites, including the CIA’s website: [http://www.cia.gov/csi/studies/97unclass/ufo.html](http://www.cia.gov/csi/studies/97unclass/ufo.html)
 
-In relation to footnote 44 of Gerald Haines’ article (“44. See Gregory W. Pedlow and Donald E. Welzenbach, *The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs,*[1954](/tags/1954)*-*[1974](/tags/1974)(Washington, DC: CIA History Staff, [1992](/tags/1992)), pp. 72-73” also referred to in footnote 45 of the article by Gerald Haines), the relevant book is available online at:
+In relation to footnote 44 of Gerald Haines’ article (“44. See Gregory W. Pedlow and Donald E. Welzenbach, *The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs,*[1954]({{ '/tags/1954' | relative_url }})*-*[1974]({{ '/tags/1974' | relative_url }})(Washington, DC: CIA History Staff, [1992]({{ '/tags/1992' | relative_url }})), pp. 72-73” also referred to in footnote 45 of the article by Gerald Haines), the relevant book is available online at:
 
 http://www.odci.gov/csi/books/U2/u2.pdf
 
@@ -73,10 +73,10 @@ For discussion of this study by Gerald Haines see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Achenbach, Joel in his “<a href="/ufo-history/ufo-books/achenbach-joel-captured-by-aliens">Captured by Aliens</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0684848562/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684848562/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 385 (in the Notes) of the Simon and Schuster hardback edition.</p>
+<p>Achenbach, Joel in his “<a href="{{ '/ufo-history/ufo-books/achenbach-joel-captured-by-aliens' | relative_url }}">Captured by Aliens</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0684848562/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684848562/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 385 (in the Notes) of the Simon and Schuster hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -84,10 +84,10 @@ For discussion of this study by Gerald Haines see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/baker-alan">Baker, Alan</a> in his “<a href="/ufo-history/ufo-books/baker-alan-the-encyclopaedia-of-alien-encounters">The Encyclopaedia of Alien Encounters</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/1852277343/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1852277343/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 45 (in an entry entitled “Central Intelligence Agency”) of the Virgin hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/baker-alan' | relative_url }}">Baker, Alan</a> in his “<a href="{{ '/ufo-history/ufo-books/baker-alan-the-encyclopaedia-of-alien-encounters' | relative_url }}">The Encyclopaedia of Alien Encounters</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/1852277343/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1852277343/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 45 (in an entry entitled “Central Intelligence Agency”) of the Virgin hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -95,10 +95,10 @@ For discussion of this study by Gerald Haines see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2004">2004</a></p>
+<p><a href="{{ '/tags/2004' | relative_url }}">2004</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/birnes-william">Birnes, William</a> in his “<a href="/ufo-history/ufo-books/birnes-william-the-ufo-magazine-ufo-encyclopedia">The UFO Magazine UFO Encyclopedia</a>” (<a href="/tags/2004">2004</a>) (available <a href="http://www.amazon.com/dp/0743466748/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743466748/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 64-68 (in an entry entitled “Central Intelligence Agency, History of UFOs”) of the Pocket Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/birnes-william' | relative_url }}">Birnes, William</a> in his “<a href="{{ '/ufo-history/ufo-books/birnes-william-the-ufo-magazine-ufo-encyclopedia' | relative_url }}">The UFO Magazine UFO Encyclopedia</a>” (<a href="{{ '/tags/2004' | relative_url }}">2004</a>) (available <a href="http://www.amazon.com/dp/0743466748/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743466748/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 64-68 (in an entry entitled “Central Intelligence Agency, History of UFOs”) of the Pocket Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>
@@ -106,10 +106,10 @@ For discussion of this study by Gerald Haines see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p>Campagna, Palmiro in his “<a href="/ufo-history/ufo-books/campagna-palmiro-the-ufo-files-the-canadian-connection-exposed">The UFO Files: The Canadian Connection Exposed</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0773759735/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0773759735/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 162 (in the Postscript) of the Stoddart softcover edition.</p>
+<p>Campagna, Palmiro in his “<a href="{{ '/ufo-history/ufo-books/campagna-palmiro-the-ufo-files-the-canadian-connection-exposed' | relative_url }}">The UFO Files: The Canadian Connection Exposed</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0773759735/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0773759735/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 162 (in the Postscript) of the Stoddart softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -117,10 +117,10 @@ For discussion of this study by Gerald Haines see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) in Volume 2:L-Z at page 740 (forming part of the entry entitled “Project Blue Book” at pages 730-742) of the Omnigraphics hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition' | relative_url }}">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) in Volume 2:L-Z at page 740 (forming part of the entry entitled “Project Blue Book” at pages 730-742) of the Omnigraphics hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -128,10 +128,10 @@ For discussion of this study by Gerald Haines see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2002">2002</a></p>
+<p><a href="{{ '/tags/2002' | relative_url }}">2002</a></p>
 </td>
 <td valign="top" width="547">
-<p>Clark, Mark in “Lights in the Sky and Little Green Men” (<a href="/tags/2002">2002</a>) (edited by Ross, Hugh and Samples, Kenneth and Clark, Mark) (available <a href="http://www.amazon.com/dp/1576832082/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1576832082/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 79-80 (in Chapter 7) of the Navpress softcover edition.</p>
+<p>Clark, Mark in “Lights in the Sky and Little Green Men” (<a href="{{ '/tags/2002' | relative_url }}">2002</a>) (edited by Ross, Hugh and Samples, Kenneth and Clark, Mark) (available <a href="http://www.amazon.com/dp/1576832082/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1576832082/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 79-80 (in Chapter 7) of the Navpress softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -139,10 +139,10 @@ For discussion of this study by Gerald Haines see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2002">2002</a></p>
+<p><a href="{{ '/tags/2002' | relative_url }}">2002</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clarke-david">Clarke, David</a> and <a href="/ufo-history/ufo-personalities/roberts-andy">Roberts, Andy</a> in their “<a href="file:///C:/Users/homelap/Documents/koi/Notes%20active%20files%20-%20videos%20photos%20etc/v">Out Of The Shadows</a>” (<a href="/tags/2002">2002</a>) (available <a href="http://www.amazon.com/dp/0749922907/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0749922907/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 244 (in Chapter 13) of the Piatkus hardback edition, and mentioned on various other pages.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clarke-david' | relative_url }}">Clarke, David</a> and <a href="{{ '/ufo-history/ufo-personalities/roberts-andy' | relative_url }}">Roberts, Andy</a> in their “<a href="file:///C:/Users/homelap/Documents/koi/Notes%20active%20files%20-%20videos%20photos%20etc/v">Out Of The Shadows</a>” (<a href="{{ '/tags/2002' | relative_url }}">2002</a>) (available <a href="http://www.amazon.com/dp/0749922907/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0749922907/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 244 (in Chapter 13) of the Piatkus hardback edition, and mentioned on various other pages.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -150,10 +150,10 @@ For discussion of this study by Gerald Haines see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/cook-nick">Cook, Nick</a> in his “<a href="/ufo-history/ufo-books/cook-nick-the-hunt-for-zero-point">The Hunt for Zero Point</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/0767906284/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0767906284/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 149-150 (in Chapter 14) of the Century hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/cook-nick' | relative_url }}">Cook, Nick</a> in his “<a href="{{ '/ufo-history/ufo-books/cook-nick-the-hunt-for-zero-point' | relative_url }}">The Hunt for Zero Point</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/0767906284/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0767906284/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 149-150 (in Chapter 14) of the Century hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -161,10 +161,10 @@ For discussion of this study by Gerald Haines see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/dean-jodi">Dean, Jodi</a> in her “<a href="/ufo-history/ufo-books/dean-jodi-aliens-in-america">Aliens in America</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0801484685/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0801484685/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 190-191 (in the Postscript) of the Cornell University softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dean-jodi' | relative_url }}">Dean, Jodi</a> in her “<a href="{{ '/ufo-history/ufo-books/dean-jodi-aliens-in-america' | relative_url }}">Aliens in America</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0801484685/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0801484685/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 190-191 (in the Postscript) of the Cornell University softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -172,10 +172,10 @@ For discussion of this study by Gerald Haines see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fitzgerald-randall">Fitzgerald, Randall</a> in his “<a href="/ufo-history/ufo-books/fitzgerald-randall-the-cosmic-test-tube">The Cosmic Test Tube</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0963916122/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963916122/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 70-71 (in Section 2) of the Moonlake Media softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }}">Fitzgerald, Randall</a> in his “<a href="{{ '/ufo-history/ufo-books/fitzgerald-randall-the-cosmic-test-tube' | relative_url }}">The Cosmic Test Tube</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0963916122/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963916122/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 70-71 (in Section 2) of the Moonlake Media softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -183,10 +183,10 @@ For discussion of this study by Gerald Haines see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/good-timothy">Good, Timothy</a> in his “<a href="/ufo-history/ufo-books/good-timothy-alien-base">Alien Base</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0712678123/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0712678123/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 5 (in the Introduction) of the Century hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/good-timothy' | relative_url }}">Good, Timothy</a> in his “<a href="{{ '/ufo-history/ufo-books/good-timothy-alien-base' | relative_url }}">Alien Base</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0712678123/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0712678123/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 5 (in the Introduction) of the Century hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -194,10 +194,10 @@ For discussion of this study by Gerald Haines see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p>Hansen, George P in his “The Trickster and the Paranormal” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/1401000827/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1401000827/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 222-223 of the Xlibris softcover edition.</p>
+<p>Hansen, George P in his “The Trickster and the Paranormal” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/1401000827/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1401000827/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 222-223 of the Xlibris softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -205,10 +205,10 @@ For discussion of this study by Gerald Haines see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/hansen-terry">Hansen, Terry</a> in his “<a href="/ufo-history/ufo-books/hansen-terry-the-missing-times-news-media-complicity-in-the-ufo-cover-up">The Missing Times : News Media Complicity in the UFO Cover-Up</a> : News Media Complicity in the UFO Cover -Up” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/0738836125/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0738836125/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 240-242 (in Chapter 6) of the Xlibris softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hansen-terry' | relative_url }}">Hansen, Terry</a> in his “<a href="{{ '/ufo-history/ufo-books/hansen-terry-the-missing-times-news-media-complicity-in-the-ufo-cover-up' | relative_url }}">The Missing Times : News Media Complicity in the UFO Cover-Up</a> : News Media Complicity in the UFO Cover -Up” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/0738836125/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0738836125/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 240-242 (in Chapter 6) of the Xlibris softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -219,7 +219,7 @@ For discussion of this study by Gerald Haines see the following:
 <p> </p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/maccabee-bruce">Maccabee, Bruce</a> in an article entitled “CIA's UFO Explanation Is Preposterous”, which focuses on the material at footnotes 44 and 45 of Gerald Haines’ article. Article by <a href="/ufo-history/ufo-personalities/maccabee-bruce">Bruce Maccabee</a> available online on his website at: <a href="http://brumac.8k.com/cia_explaination.html">http://brumac.8k.com/cia_explaination.html</a></p>
+<p><a href="{{ '/ufo-history/ufo-personalities/maccabee-bruce' | relative_url }}">Maccabee, Bruce</a> in an article entitled “CIA's UFO Explanation Is Preposterous”, which focuses on the material at footnotes 44 and 45 of Gerald Haines’ article. Article by <a href="{{ '/ufo-history/ufo-personalities/maccabee-bruce' | relative_url }}">Bruce Maccabee</a> available online on his website at: <a href="http://brumac.8k.com/cia_explaination.html">http://brumac.8k.com/cia_explaination.html</a></p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -227,10 +227,10 @@ For discussion of this study by Gerald Haines see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/maccabee-bruce">Maccabee, Bruce</a> in his “<a href="/ufo-history/ufo-books/maccabee-bruce-ufo-fbi-connection">UFO-FBI Connection</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/1567184936/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1567184936/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 257-258 (in Chapter 21) of the Llewellyn softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/maccabee-bruce' | relative_url }}">Maccabee, Bruce</a> in his “<a href="{{ '/ufo-history/ufo-books/maccabee-bruce-ufo-fbi-connection' | relative_url }}">UFO-FBI Connection</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/1567184936/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1567184936/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 257-258 (in Chapter 21) of the Llewellyn softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -238,10 +238,10 @@ For discussion of this study by Gerald Haines see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/matthews-tim">Matthews, Tim</a> in his “<a href="/ufo-history/ufo-books/matthews-tim-ufo-revelation">UFO Revelation</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0713727330/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713727330/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 52 (in Chapter 4) , 71-73 (in Chapter 6) of the Blandford softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/matthews-tim' | relative_url }}">Matthews, Tim</a> in his “<a href="{{ '/ufo-history/ufo-books/matthews-tim-ufo-revelation' | relative_url }}">UFO Revelation</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0713727330/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713727330/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 52 (in Chapter 4) , 71-73 (in Chapter 6) of the Blandford softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -249,10 +249,10 @@ For discussion of this study by Gerald Haines see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/park-robert">Park, Robert</a> in his “<a href="/ufo-history/ufo-books/park-robert-voodoo-science">Voodoo Science</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/0195147103/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0195147103/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 179-180 (in Chapter 9) of the Oxford University Press hardcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/park-robert' | relative_url }}">Park, Robert</a> in his “<a href="{{ '/ufo-history/ufo-books/park-robert-voodoo-science' | relative_url }}">Voodoo Science</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/0195147103/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0195147103/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 179-180 (in Chapter 9) of the Oxford University Press hardcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -260,10 +260,10 @@ For discussion of this study by Gerald Haines see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “UFO Crash Landing? Friend or Foe?” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0713726555/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713726555/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 146 (in Chapter 12) of the Blandford softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “UFO Crash Landing? Friend or Foe?” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0713726555/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713726555/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 146 (in Chapter 12) of the Blandford softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -271,10 +271,10 @@ For discussion of this study by Gerald Haines see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p>Rhodes, Ron in his “<a href="/ufo-history/ufo-books/rhodes-ron-alien-obsession">Alien Obsession: What Lies Behind Abductions, Sightings and the Attraction to the Paranormal</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/1565078497/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1565078497/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 69-70 (in Chapter 4) of the Harvest House softcover edition.</p>
+<p>Rhodes, Ron in his “<a href="{{ '/ufo-history/ufo-books/rhodes-ron-alien-obsession' | relative_url }}">Alien Obsession: What Lies Behind Abductions, Sightings and the Attraction to the Paranormal</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/1565078497/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1565078497/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 69-70 (in Chapter 4) of the Harvest House softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -282,10 +282,10 @@ For discussion of this study by Gerald Haines see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sheaffer-robert">Sheaffer, Robert</a> in his “<a href="/ufo-history/ufo-books/sheaffer-robert-ufo-sightings-the-evidence">UFO Sightings: The Evidence</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/1573922137/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573922137/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 270-271 (in Chapter 19) of the Prometheus hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sheaffer-robert' | relative_url }}">Sheaffer, Robert</a> in his “<a href="{{ '/ufo-history/ufo-books/sheaffer-robert-ufo-sightings-the-evidence' | relative_url }}">UFO Sightings: The Evidence</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/1573922137/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573922137/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 270-271 (in Chapter 19) of the Prometheus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -293,10 +293,10 @@ For discussion of this study by Gerald Haines see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p>Wright, Susan in her “<a href="/ufo-history/ufo-books/wright-susan-ufo-headquarters">UFO Headquarters</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0312193475/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312193475/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 93 (in Chapter 5) of the St Martin’s Press softcover edition.</p>
+<p>Wright, Susan in her “<a href="{{ '/ufo-history/ufo-books/wright-susan-ufo-headquarters' | relative_url }}">UFO Headquarters</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0312193475/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312193475/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 93 (in Chapter 5) of the St Martin’s Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -308,6 +308,6 @@ For discussion of this study by Gerald Haines see the following:
 <a id="other"></a>
 ### Other Material
 
-Haines, Gerald K “A Die-Hard Issue: CIA's Role in the Study of UFOs, [1947](/tags/1947)-90”, "Studies in Intelligence", Issue [1997](/tags/1997) Vol. 1, No. 1
+Haines, Gerald K “A Die-Hard Issue: CIA's Role in the Study of UFOs, [1947]({{ '/tags/1947' | relative_url }})-90”, "Studies in Intelligence", Issue [1997]({{ '/tags/1997' | relative_url }}) Vol. 1, No. 1
 
 Please use the comments section below to share references to any particularly interesting relevant articles.

@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/mcmoneagle_joe_2.jpg"}
 ---
 
-![mcmoneagle_joe_2](/images/stories/ufo_personalities/mcmoneagle_joe_2.jpg)
+![mcmoneagle_joe_2]({{ '/images/stories/ufo_personalities/mcmoneagle_joe_2.jpg' | relative_url }})
 
 *Joe McMoneagle*
 
@@ -57,10 +57,10 @@ For discussion of Joe McMoneagle see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2003">2003</a></p>
+<p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/alexander-john">Alexander, John</a> in his “<a href="/ufo-history/ufo-books/alexander-john-winning-the-war-advanced-weapons-strategies-and-concepts-for-the-post-911-world">Winning the War: Advanced Weapons, Strategies, and Concepts for the Post 9/11 World</a>” (<a href="/tags/2003">2003</a>) (available <a href="http://www.amazon.com/dp/0312306768/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312306768/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 239, 240-241 (in Chapter 14) of the Thomas Dunne softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/alexander-john' | relative_url }}">Alexander, John</a> in his “<a href="{{ '/ufo-history/ufo-books/alexander-john-winning-the-war-advanced-weapons-strategies-and-concepts-for-the-post-911-world' | relative_url }}">Winning the War: Advanced Weapons, Strategies, and Concepts for the Post 9/11 World</a>” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) (available <a href="http://www.amazon.com/dp/0312306768/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312306768/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 239, 240-241 (in Chapter 14) of the Thomas Dunne softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -68,10 +68,10 @@ For discussion of Joe McMoneagle see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2003">2003</a></p>
+<p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/buchanan-lyn">Buchanan, Lyn</a> in his “<a href="/ufo-history/ufo-books/buchanan-lyn-the-seventh-sense-the-secrets-of-remote-viewing-as-told-by-a-psychic-spy-for-the-us-military">The Seventh Sense: The Secrets of Remote Viewing as Told by a Psychic Spy for the US Military</a>” (<a href="/tags/2003">2003</a>) (available <a href="http://www.amazon.com/dp/0743462688/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743462688/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 10-11 (in Chapter 1), 18-19 (in Chapter 2), 37 (in Chapter 4) , 204 (in the unnumbered concluding chapter entitled “A Word of Thanks”) of the Paraview Pocket Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/buchanan-lyn' | relative_url }}">Buchanan, Lyn</a> in his “<a href="{{ '/ufo-history/ufo-books/buchanan-lyn-the-seventh-sense-the-secrets-of-remote-viewing-as-told-by-a-psychic-spy-for-the-us-military' | relative_url }}">The Seventh Sense: The Secrets of Remote Viewing as Told by a Psychic Spy for the US Military</a>” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) (available <a href="http://www.amazon.com/dp/0743462688/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743462688/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 10-11 (in Chapter 1), 18-19 (in Chapter 2), 37 (in Chapter 4) , 204 (in the unnumbered concluding chapter entitled “A Word of Thanks”) of the Paraview Pocket Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>6</p>
@@ -79,10 +79,10 @@ For discussion of Joe McMoneagle see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2007">2007</a></p>
+<p><a href="{{ '/tags/2007' | relative_url }}">2007</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/marrs-jim">Marrs, Jim</a> in his “<a href="/ufo-history/ufo-books/marrs-jim-psi-spies-the-true-story-of-americas-psychic-warfare-program">PSI Spies: The True Story of America’s Psychic Warfare Program</a>” (<a href="/tags/2007">2007</a>) (available <a href="http://www.amazon.com/dp/1564149609/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1564149609/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 132, 133 (in Chapter 5), 205, 208 (in Chapter 7), 251 (in Chapter 9), 277 (in the Epilogue), 293 (in the Appendix : Images) of the New Page Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/marrs-jim' | relative_url }}">Marrs, Jim</a> in his “<a href="{{ '/ufo-history/ufo-books/marrs-jim-psi-spies-the-true-story-of-americas-psychic-warfare-program' | relative_url }}">PSI Spies: The True Story of America’s Psychic Warfare Program</a>” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (available <a href="http://www.amazon.com/dp/1564149609/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1564149609/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 132, 133 (in Chapter 5), 205, 208 (in Chapter 7), 251 (in Chapter 9), 277 (in the Epilogue), 293 (in the Appendix : Images) of the New Page Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>7</p>
@@ -90,10 +90,10 @@ For discussion of Joe McMoneagle see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2004">2004</a></p>
+<p><a href="{{ '/tags/2004' | relative_url }}">2004</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/ronson-jon">Ronson, Jon</a> in his “<a href="/ufo-history/ufo-books/ronson-jon-the-men-who-stare-at-goats">The Men Who Stare at Goats</a>” (<a href="/tags/2004">2004</a>) (available <a href="http://www.amazon.com/dp/0330375482/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0330375482/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 80-81 (in Chapter 5) of the Picador paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/ronson-jon' | relative_url }}">Ronson, Jon</a> in his “<a href="{{ '/ufo-history/ufo-books/ronson-jon-the-men-who-stare-at-goats' | relative_url }}">The Men Who Stare at Goats</a>” (<a href="{{ '/tags/2004' | relative_url }}">2004</a>) (available <a href="http://www.amazon.com/dp/0330375482/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0330375482/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 80-81 (in Chapter 5) of the Picador paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -101,10 +101,10 @@ For discussion of Joe McMoneagle see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/schnabel-jim">Schnabel, Jim</a> in his “<a href="/ufo-history/ufo-books/schnabel-jim-dark-white">Remote</a> Viewers : The Secret History of America’s Psychic Spies” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0440614058/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0440614058/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 18, 20, 22, 25-26 (in Chapter 2), 31-33, 35-39, 41, 46-47, 49-52 (in Chapter 3), 56, 58-72 (in Chapter 4), 80-81 (in Chapter 5), 220, 223 (in Chapter 15), 231, 233, 252 (in Chapter 16), 270, 281-282, 285, 287-289 (in Chapter 18), 296, 299-300 (in Chapter 19), 323-326 (in Chapter 20), 339 (in Chapter 21), 358-359, 361 (in Chapter 22), 380, 387 (in the Epilogue) of the Dell paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/schnabel-jim' | relative_url }}">Schnabel, Jim</a> in his “<a href="{{ '/ufo-history/ufo-books/schnabel-jim-dark-white' | relative_url }}">Remote</a> Viewers : The Secret History of America’s Psychic Spies” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0440614058/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0440614058/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 18, 20, 22, 25-26 (in Chapter 2), 31-33, 35-39, 41, 46-47, 49-52 (in Chapter 3), 56, 58-72 (in Chapter 4), 80-81 (in Chapter 5), 220, 223 (in Chapter 15), 231, 233, 252 (in Chapter 16), 270, 281-282, 285, 287-289 (in Chapter 18), 296, 299-300 (in Chapter 19), 323-326 (in Chapter 20), 339 (in Chapter 21), 358-359, 361 (in Chapter 22), 380, 387 (in the Epilogue) of the Dell paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>63</p>
@@ -112,10 +112,10 @@ For discussion of Joe McMoneagle see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2005">2005</a></p>
+<p><a href="{{ '/tags/2005' | relative_url }}">2005</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/smith-paul">Smith, Paul</a> in his “<a href="/ufo-history/ufo-books/smith-paul-reading-the-enemys-mind">Reading the Enemy’s Mind</a>” (<a href="/tags/2005">2005</a>) (available <a href="http://www.amazon.com/dp/0312875150/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312875150/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 97, 110, 121, 126, 127-133, 149, 216-217, 267-268, 446, 455 of the Forge hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/smith-paul' | relative_url }}">Smith, Paul</a> in his “<a href="{{ '/ufo-history/ufo-books/smith-paul-reading-the-enemys-mind' | relative_url }}">Reading the Enemy’s Mind</a>” (<a href="{{ '/tags/2005' | relative_url }}">2005</a>) (available <a href="http://www.amazon.com/dp/0312875150/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312875150/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 97, 110, 121, 126, 127-133, 149, 216-217, 267-268, 446, 455 of the Forge hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>18</p>

@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/britain_1.gif"}
 ---
 
-![britain_1](/images/stories/ufo_tags/britain_1.gif)
+![britain_1]({{ '/images/stories/ufo_tags/britain_1.gif' | relative_url }})
 
 *Silpho Moor article*
 
@@ -63,10 +63,10 @@ For discussion of the Silpho Moor incident see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clarke-david">Clarke, David</a> in “<a href="/ufo-history/ufo-books/randles-jenny-and-clarke-david-and-roberts-andy-the-ufos-that-never-were">The UFOs that never were</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/1902809351/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1902809351/ref=nosim?tag=ufot-21">on Amazon UK</a>) by <a href="/ufo-history/ufo-personalities/randles-jenny">Jenny Randles</a>, <a href="/ufo-history/ufo-personalities/roberts-andy">Andy Roberts</a> and <a href="/ufo-history/ufo-personalities/clarke-david">David Clarke</a> at pages 78 (in Chapter 4, by <a href="/ufo-history/ufo-personalities/clarke-david">David Clarke</a>) of the London House hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clarke-david' | relative_url }}">Clarke, David</a> in “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-clarke-david-and-roberts-andy-the-ufos-that-never-were' | relative_url }}">The UFOs that never were</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/1902809351/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1902809351/ref=nosim?tag=ufot-21">on Amazon UK</a>) by <a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Jenny Randles</a>, <a href="{{ '/ufo-history/ufo-personalities/roberts-andy' | relative_url }}">Andy Roberts</a> and <a href="{{ '/ufo-history/ufo-personalities/clarke-david' | relative_url }}">David Clarke</a> at pages 78 (in Chapter 4, by <a href="{{ '/ufo-history/ufo-personalities/clarke-david' | relative_url }}">David Clarke</a>) of the London House hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -74,10 +74,10 @@ For discussion of the Silpho Moor incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/cramp-leonard-g">Cramp, Leonard G</a> in his “The Cosmic Matrix : Piece for a Jig-Saw Part 2” (<a href="/tags/1999">1999</a>) at pages 25, 26 (in the Introduction) of the AUP softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/cramp-leonard-g' | relative_url }}">Cramp, Leonard G</a> in his “The Cosmic Matrix : Piece for a Jig-Saw Part 2” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) at pages 25, 26 (in the Introduction) of the AUP softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -85,10 +85,10 @@ For discussion of the Silpho Moor incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p>Grantham, Paul in his article entitled “The mystery of the Silpho flying saucer” in the 1 February <a href="/tags/1997">1997</a> edition of <em>Haunted Scotland</em>. The relevant article is available online at: <a href="http://www.grantham.karoo.net/paul/silpho.html">http://www.grantham.karoo.net/paul/silpho.html</a></p>
+<p>Grantham, Paul in his article entitled “The mystery of the Silpho flying saucer” in the 1 February <a href="{{ '/tags/1997' | relative_url }}">1997</a> edition of <em>Haunted Scotland</em>. The relevant article is available online at: <a href="http://www.grantham.karoo.net/paul/silpho.html">http://www.grantham.karoo.net/paul/silpho.html</a></p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -96,10 +96,10 @@ For discussion of the Silpho Moor incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p>Price, Robert in his “<a href="/ufo-history/ufo-books/price-robert-ufos-over-hampshire-and-the-isle-of-wight">UFOs Over Hampshire and the Isle of Wight</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/1854550373/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1854550373/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 96-97 (in File 9) of the Halsgrove softcover edition.</p>
+<p>Price, Robert in his “<a href="{{ '/ufo-history/ufo-books/price-robert-ufos-over-hampshire-and-the-isle-of-wight' | relative_url }}">UFOs Over Hampshire and the Isle of Wight</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/1854550373/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1854550373/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 96-97 (in File 9) of the Halsgrove softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -107,10 +107,10 @@ For discussion of the Silpho Moor incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-ufo-retrievals">UFO Retrievals</a>” (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/0713724935/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713724935/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 77-82 (in Chapter 4) of the Blandford softback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-ufo-retrievals' | relative_url }}">UFO Retrievals</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/0713724935/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713724935/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 77-82 (in Chapter 4) of the Blandford softback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>6</p>
@@ -118,10 +118,10 @@ For discussion of the Silpho Moor incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1977">1977</a></p>
+<p><a href="{{ '/tags/1977' | relative_url }}">1977</a></p>
 </td>
 <td valign="top" width="547">
-<p>Tansley, David in his “Omens of Awareness” (<a href="/tags/1977">1977</a>) (available <a href="http://www.amazon.com/dp/0854351345/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0854351345/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 249-258 (in Chapter 13) of the Abacus paperback edition.</p>
+<p>Tansley, David in his “Omens of Awareness” (<a href="{{ '/tags/1977' | relative_url }}">1977</a>) (available <a href="http://www.amazon.com/dp/0854351345/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0854351345/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 249-258 (in Chapter 13) of the Abacus paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>10</p>
@@ -129,10 +129,10 @@ For discussion of the Silpho Moor incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/watts-alan">Watts, Alan</a> in his “<a href="/ufo-history/ufo-books/watts-alan-ufo-quest">UFO Quest</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/0713724498/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713724498/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 7 (in the Introduction), 46-48 (in Chapter 5) of the Blandford softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/watts-alan' | relative_url }}">Watts, Alan</a> in his “<a href="{{ '/ufo-history/ufo-books/watts-alan-ufo-quest' | relative_url }}">UFO Quest</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/0713724498/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713724498/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 7 (in the Introduction), 46-48 (in Chapter 5) of the Blandford softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -144,6 +144,6 @@ For discussion of the Silpho Moor incident see the following:
 <a id="other"></a>
 ### Other Material
 
-Discussed by Paul Grantham in his article entitled “The mystery of the Silpho flying saucer” in the 1 February [1997](/tags/1997) edition of *Haunted Scotland*. The relevant article is available online at: [http://www.grantham.karoo.net/paul/silpho.html](http://www.grantham.karoo.net/paul/silpho.html)
+Discussed by Paul Grantham in his article entitled “The mystery of the Silpho flying saucer” in the 1 February [1997]({{ '/tags/1997' | relative_url }}) edition of *Haunted Scotland*. The relevant article is available online at: [http://www.grantham.karoo.net/paul/silpho.html](http://www.grantham.karoo.net/paul/silpho.html)
 
 Please use the comments section below to share references to any particularly interesting relevant articles.

@@ -46,17 +46,17 @@ This video shows astronauts planting the US flag on the moon when an alien monst
 
 Screen-shots from the relevant video are included below for ease of identification.
 
-![](/images/stories/ufo_videos/video108_1.JPG)
+![]({{ '/images/stories/ufo_videos/video108_1.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video108_2.JPG)
+![]({{ '/images/stories/ufo_videos/video108_2.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video108_3.JPG)
+![]({{ '/images/stories/ufo_videos/video108_3.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video108_4.JPG)
+![]({{ '/images/stories/ufo_videos/video108_4.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video108_5.JPG)
+![]({{ '/images/stories/ufo_videos/video108_5.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video108_7.JPG)
+![]({{ '/images/stories/ufo_videos/video108_7.JPG' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this video
@@ -67,7 +67,7 @@ Most copies of the video online have titles such as "Haynes Baked Beans Astronau
 
 The original copy of the video has received over 13.4 million views as at November 2015. Multiple other copies on Youtube also have numerous views.
 
-![](/images/stories/ufo_videos/video108_6.JPG)
+![]({{ '/images/stories/ufo_videos/video108_6.JPG' | relative_url }})
 
 <a id="truth"></a>
 ### 3. The real background to this video
@@ -80,7 +80,7 @@ In fact, this video was uploaded to Youtube by a visual effects and animation co
 
 [Cinesite website](http://www.cinesite.com/visualeffects/) indicates that it has worked on "visual effects for a wide range of films", including the Harry Potter series, World War Z, Iron Man 3 and Skyfall.
 
-![](/images/stories/ufo_videos/video108_8.JPG)
+![]({{ '/images/stories/ufo_videos/video108_8.JPG' | relative_url }})
 
 That website also includes several pages devoted to their video "Beans", [including an introductory page](http://www.cinesite.com/beans/)which includes the following:
 
@@ -94,7 +94,7 @@ Alvise: “Working in visual effects, it’s usually other people’s visions an
 
 Eamonn: “Our team of animators, texturers, modellers, TDs and VFX artists are some of the best in the world and BEANS was a fantastic opportunity for us to show off the quality of their work.”"
 
-![](/images/stories/ufo_videos/video108_9.JPG)
+![]({{ '/images/stories/ufo_videos/video108_9.JPG' | relative_url }})
 
 [Another page on the Cinesite website](http://www.cinesite.com/fxguidebeans/) contains more details of the effects used to create the "Beans" video which includes the following:
 
@@ -110,13 +110,13 @@ Cinesite also posted a video on their Youtube channel showing how the "Beans" vi
 
 Some screen-shots from "The Making of Beans" video are included below for ease of reference.
 
-![](/images/stories/ufo_videos/video108_10.JPG)
+![]({{ '/images/stories/ufo_videos/video108_10.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video108_11.JPG)
+![]({{ '/images/stories/ufo_videos/video108_11.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video108_12.JPG)
+![]({{ '/images/stories/ufo_videos/video108_12.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video108_13.JPG)
+![]({{ '/images/stories/ufo_videos/video108_13.JPG' | relative_url }})
 
 I found it amusing that we have now reached that stage than instead of merely having adverts which include fake images of aliens, we now have fake adverts with fake images of aliens.
 
@@ -129,4 +129,4 @@ Welcome to the world of post-modern viral advertising.:)
 
 The video is regularly posted on Facebook in UFO discussion groups and elsewhere.
 
-![](/images/stories/ufo_videos/video108_5d.JPG)
+![]({{ '/images/stories/ufo_videos/video108_5d.JPG' | relative_url }})

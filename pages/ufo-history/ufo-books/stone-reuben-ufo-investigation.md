@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/1856051285.jpg"}
 book: {"identifiers": ["1856051285"], "primary_isbn": "1856051285", "cover_image": "/book-covers/1856051285.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of Reuben Stone's book “[UFO Investigation](/ufo-history/ufo-books/stone-reuben-ufo-investigation)” ([1993](/tags/1993)) (available [on Amazon USA](http://www.amazon.com/dp/1856051285/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1856051285/?&tag=ufot-21))
+Brief review to be added of Reuben Stone's book “[UFO Investigation]({{ '/ufo-history/ufo-books/stone-reuben-ufo-investigation' | relative_url }})” ([1993]({{ '/tags/1993' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1856051285/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1856051285/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

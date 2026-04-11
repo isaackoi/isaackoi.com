@@ -46,19 +46,19 @@ The man in the video introduces himself in the middle of the footage as "Scott P
 
 Relevant screen shots are included below for ease of identification of this video.
 
-![](/images/stories/ufo_videos/video58_1.JPG)
+![]({{ '/images/stories/ufo_videos/video58_1.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video58_2.JPG)
+![]({{ '/images/stories/ufo_videos/video58_2.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video58_3.JPG)
+![]({{ '/images/stories/ufo_videos/video58_3.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video58_4.JPG)
+![]({{ '/images/stories/ufo_videos/video58_4.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video58_5.JPG)
+![]({{ '/images/stories/ufo_videos/video58_5.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video58_6.JPG)
+![]({{ '/images/stories/ufo_videos/video58_6.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video58_7.JPG)
+![]({{ '/images/stories/ufo_videos/video58_7.JPG' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this video
@@ -78,11 +78,11 @@ The woman in the video that was introduced "Jennifer Fox" was in fact actress Ka
 
 The producers of the video were Kyle Rankin and Efram Potelle.
 
-![](/images/stories/ufo_videos/video58_9.JPG)
+![]({{ '/images/stories/ufo_videos/video58_9.JPG' | relative_url }})
 
 The [IMDB page for Kyle Rankin](http://www.imdb.com/name/nm0710272/) states that "Kyle Rankin is a director and actor, known for Infestation (2009), Pennyweight (1999) and They Came to Attack Us (2001)".
 
-![](/images/stories/ufo_videos/video58_10.JPG)
+![]({{ '/images/stories/ufo_videos/video58_10.JPG' | relative_url }})
 
 The IMDB page for the [movie "Infestation" (2009)](http://www.imdb.com/title/tt1020543/)lists Kyle Rankin as its director and its writer. A trailer for the movie "Infestation" is embedded below:
 
@@ -90,7 +90,7 @@ The IMDB page for the [movie "Infestation" (2009)](http://www.imdb.com/title/tt1
 
 The producers of the "Case Tape 347" footage used to have [a website entitled "Newborn Pictures" which can still be found using the Internet Archive's Wayback Machine](https://web.archive.org/web/20070414152039/http://www.newbornpix.com/), which included an entry for "Case Tape 347".and included some background on those producers.
 
-![](/images/stories/ufo_videos/video58_8.JPG)
+![]({{ '/images/stories/ufo_videos/video58_8.JPG' | relative_url }})
 
 <a id="forums"></a>
 ### 4. Relevant online forum discussions
@@ -107,4 +107,4 @@ Discussions on other websites include:
 
 2007 (September) discussion on the Godlike Productions Forum entitled "[Missing Hikers..Attacked by Alien..Real case......](http://www.godlikeproductions.com/forum1/message443346/pg1)"
 
-![](/images/stories/ufo_videos/video58_5d.jpg)
+![]({{ '/images/stories/ufo_videos/video58_5d.jpg' | relative_url }})

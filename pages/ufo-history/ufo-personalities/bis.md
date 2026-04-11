@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/no_avatar.jpg"}
 ---
 
-![](/images/stories/no_avatar.jpg)
+![]({{ '/images/stories/no_avatar.jpg' | relative_url }})
 
 *Image needed*
 
@@ -63,10 +63,10 @@ For discussion of the BIS see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1993">1993</a></p>
+<p><a href="{{ '/tags/1993' | relative_url }}">1993</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clarke-arthur-c">Clarke, Arthur C</a> in his “By Space Possessed” (<a href="/tags/1993">1993</a>) (available <a href="http://www.amazon.com/dp/0575055960/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0575055960/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 11-20 (in Chapter 1) of the Victor Gollancz hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clarke-arthur-c' | relative_url }}">Clarke, Arthur C</a> in his “By Space Possessed” (<a href="{{ '/tags/1993' | relative_url }}">1993</a>) (available <a href="http://www.amazon.com/dp/0575055960/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0575055960/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 11-20 (in Chapter 1) of the Victor Gollancz hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>10</p>
@@ -74,10 +74,10 @@ For discussion of the BIS see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/darling-david">Darling, David</a> in his “<a href="/ufo-history/ufo-books/darling-david-the-extraterrestrial-encyclopedia">The Extraterrestrial Encyclopedia</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/081293248X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/081293248X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 54 (in the entry entitled “British Interplanetary Society (BIS)”) of the Three Rivers softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/darling-david' | relative_url }}">Darling, David</a> in his “<a href="{{ '/ufo-history/ufo-books/darling-david-the-extraterrestrial-encyclopedia' | relative_url }}">The Extraterrestrial Encyclopedia</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/081293248X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/081293248X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 54 (in the entry entitled “British Interplanetary Society (BIS)”) of the Three Rivers softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -85,10 +85,10 @@ For discussion of the BIS see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2003">2003</a></p>
+<p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/darling-david">Darling, David</a> in his online encyclopedia, “The Encyclopedia of Astrobiology, Astronomy and Spaceflight” (<a href="/tags/2003">2003</a>) in the entry entitled “British Interplanetary Society (BIS)”. The relevant entry is available online at:</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/darling-david' | relative_url }}">Darling, David</a> in his online encyclopedia, “The Encyclopedia of Astrobiology, Astronomy and Spaceflight” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) in the entry entitled “British Interplanetary Society (BIS)”. The relevant entry is available online at:</p>
 <p><a href="http://www.daviddarling.info/encyclopedia/B/BIS.html">http://www.daviddarling.info/encyclopedia/B/BIS.html</a></p>
 </td>
 <td valign="top" width="52">
@@ -97,10 +97,10 @@ For discussion of the BIS see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Davidson, Keay in his “<a href="/ufo-history/ufo-personalities/sagan-carl">Carl Sagan</a>: A Life” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0471395366/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0471395366/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 178 (in Chapter 7) of the Wiley softcover edition.</p>
+<p>Davidson, Keay in his “<a href="{{ '/ufo-history/ufo-personalities/sagan-carl' | relative_url }}">Carl Sagan</a>: A Life” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0471395366/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0471395366/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 178 (in Chapter 7) of the Wiley softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -108,10 +108,10 @@ For discussion of the BIS see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1985">1985</a></p>
+<p><a href="{{ '/tags/1985' | relative_url }}">1985</a></p>
 </td>
 <td valign="top" width="547">
-<p>Haining, Peter in his “Eyewitness to the Galaxy: Britain's contribution to research in space” (<a href="/tags/1985">1985</a>) (available <a href="http://www.amazon.com/dp/0491036108/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0491036108/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 61-65 (in the unnumbered chapter entitled “A Dream of Spacewalking”) of the WH Allen hardback edition.</p>
+<p>Haining, Peter in his “Eyewitness to the Galaxy: Britain's contribution to research in space” (<a href="{{ '/tags/1985' | relative_url }}">1985</a>) (available <a href="http://www.amazon.com/dp/0491036108/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0491036108/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 61-65 (in the unnumbered chapter entitled “A Dream of Spacewalking”) of the WH Allen hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>
@@ -119,10 +119,10 @@ For discussion of the BIS see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Hennessey, Roger in his “<a href="/ufo-history/ufo-books/hennessey-roger-a-s-worlds-without-end-the-historic-search-for-extraterrestrial-life">Worlds Without End : The Historic Search for Extraterrestrial Life</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/075241450X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/075241450X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 102 (in Chapter 10) of the Tempus hardback edition.</p>
+<p>Hennessey, Roger in his “<a href="{{ '/ufo-history/ufo-books/hennessey-roger-a-s-worlds-without-end-the-historic-search-for-extraterrestrial-life' | relative_url }}">Worlds Without End : The Historic Search for Extraterrestrial Life</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/075241450X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/075241450X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 102 (in Chapter 10) of the Tempus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -130,10 +130,10 @@ For discussion of the BIS see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1989">1989</a></p>
+<p><a href="{{ '/tags/1989' | relative_url }}">1989</a></p>
 </td>
 <td valign="top" width="547">
-<p>Mallove, Eugene F and Matloff, Gregory L in their “<a href="/ufo-history/ufo-books/mallove-eugene-and-matloff-gregory-the-starflight-handbook">The Starflight Handbook</a>” (<a href="/tags/1989">1989</a>) (available <a href="http://www.amazon.com/dp/0471619124/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0471619124/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 242 (in Appendix 4) of the Wiley hardback edition.</p>
+<p>Mallove, Eugene F and Matloff, Gregory L in their “<a href="{{ '/ufo-history/ufo-books/mallove-eugene-and-matloff-gregory-the-starflight-handbook' | relative_url }}">The Starflight Handbook</a>” (<a href="{{ '/tags/1989' | relative_url }}">1989</a>) (available <a href="http://www.amazon.com/dp/0471619124/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0471619124/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 242 (in Appendix 4) of the Wiley hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

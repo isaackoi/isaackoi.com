@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/034543529X.jpg"}
 book: {"identifiers": ["034543529X", "0091879272", "081293248X", "0521620120", "0521343267", "038530532X", "0688036422", "0201569493", "0465073158"], "primary_isbn": "034543529X", "cover_image": "/book-covers/034543529X.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Robert Forward](/ufo-history/ufo-personalities/forward-robert)'s novel “[Dragon’s Egg](/ufo-history/ufo-books/forward-robert-dragons-egg)” ([1980](/tags/1980)) (available [on Amazon USA](http://www.amazon.com/dp/034543529X/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/034543529X/?&tag=ufot-21)).
+Brief review to be added of [Robert Forward]({{ '/ufo-history/ufo-personalities/forward-robert' | relative_url }})'s novel “[Dragon’s Egg]({{ '/ufo-history/ufo-books/forward-robert-dragons-egg' | relative_url }})” ([1980]({{ '/tags/1980' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/034543529X/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/034543529X/?&tag=ufot-21)).
 
 Considers the implications of evolution of intelligent life on the surface of a neutron star.
 
@@ -56,10 +56,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2002">2002</a></p>
+<p><a href="{{ '/tags/2002' | relative_url }}">2002</a></p>
 </td>
 <td valign="top" width="547">
-<p>Cohen, Jack and Stewart, Ian in their “<a href="/ufo-history/ufo-books/cohen-jack-and-stewart-ian-evolving-the-alien">Evolving the Alien</a>” (<a href="/tags/2002">2002</a>) (available <a href="http://www.amazon.com/dp/0091879272/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0091879272/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 98-99 (in Chapter 5), 236 (in Chapter 10) of the Ebury Press hardback edition.</p>
+<p>Cohen, Jack and Stewart, Ian in their “<a href="{{ '/ufo-history/ufo-books/cohen-jack-and-stewart-ian-evolving-the-alien' | relative_url }}">Evolving the Alien</a>” (<a href="{{ '/tags/2002' | relative_url }}">2002</a>) (available <a href="http://www.amazon.com/dp/0091879272/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0091879272/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 98-99 (in Chapter 5), 236 (in Chapter 10) of the Ebury Press hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -67,10 +67,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/darling-david">Darling, David</a> in his “<a href="/ufo-history/ufo-books/darling-david-the-extraterrestrial-encyclopedia">The Extraterrestrial Encyclopedia</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/081293248X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/081293248X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 108-109 (in the entry entitled “Dragon’s Egg”) of the Three Rivers softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/darling-david' | relative_url }}">Darling, David</a> in his “<a href="{{ '/ufo-history/ufo-books/darling-david-the-extraterrestrial-encyclopedia' | relative_url }}">The Extraterrestrial Encyclopedia</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/081293248X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/081293248X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 108-109 (in the entry entitled “Dragon’s Egg”) of the Three Rivers softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -78,10 +78,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2003">2003</a></p>
+<p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/darling-david">Darling, David</a> in his online encyclopedia, “The Encyclopedia of Astrobiology, Astronomy and Spaceflight” (<a href="/tags/2003">2003</a>) in the entry entitled “Dragon’s Egg”. The relevant entry is available online at:</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/darling-david' | relative_url }}">Darling, David</a> in his online encyclopedia, “The Encyclopedia of Astrobiology, Astronomy and Spaceflight” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) in the entry entitled “Dragon’s Egg”. The relevant entry is available online at:</p>
 <p><a href="http://www.daviddarling.info/encyclopedia/D/Dragons.html">http://www.daviddarling.info/encyclopedia/D/Dragons.html</a></p>
 </td>
 <td valign="top" width="52">
@@ -90,10 +90,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/dick-steven-j">Dick, Steven J</a> in his “<a href="/ufo-history/ufo-books/dick-steven-j-life-on-other-worlds">Life on Other Worlds</a>“ (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0521620120/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521620120/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 132 (in Chapter 4) of the Cambridge hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dick-steven-j' | relative_url }}">Dick, Steven J</a> in his “<a href="{{ '/ufo-history/ufo-books/dick-steven-j-life-on-other-worlds' | relative_url }}">Life on Other Worlds</a>“ (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0521620120/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521620120/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 132 (in Chapter 4) of the Cambridge hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -101,10 +101,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/dick-steven-j">Dick, Steven J</a> in his “<a href="/ufo-history/ufo-books/dick-steven-j-the-biological-universe">The Biological Universe</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/0521343267/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521343267/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 260 (in Chapter 5) of the Cambridge hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dick-steven-j' | relative_url }}">Dick, Steven J</a> in his “<a href="{{ '/ufo-history/ufo-books/dick-steven-j-the-biological-universe' | relative_url }}">The Biological Universe</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/0521343267/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521343267/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 260 (in Chapter 5) of the Cambridge hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -112,10 +112,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/drake-frank">Drake, Frank</a> and Dava Sobel in their “<a href="/ufo-history/ufo-books/drake-frank-and-sobel-dava-is-anyone-out-there">Is Anyone Out There?</a>“ (<a href="/tags/1991">1991</a>) (available <a href="http://www.amazon.com/dp/038530532X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/038530532X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 173-174 (in Chapter 8) of the Pocket Books paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/drake-frank' | relative_url }}">Drake, Frank</a> and Dava Sobel in their “<a href="{{ '/ufo-history/ufo-books/drake-frank-and-sobel-dava-is-anyone-out-there' | relative_url }}">Is Anyone Out There?</a>“ (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/038530532X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/038530532X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 173-174 (in Chapter 8) of the Pocket Books paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -123,10 +123,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p>Feinberg, Gerald and <a href="/ufo-history/ufo-personalities/shapiro-robert">Shapiro, Robert</a> in their “Life Beyond Earth” (<a href="/tags/1980">1980</a>) (available <a href="http://www.amazon.com/dp/0688036422/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0688036422/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 373, 375, 377 (in Chapter 11) of the Morrow hardback edition.</p>
+<p>Feinberg, Gerald and <a href="{{ '/ufo-history/ufo-personalities/shapiro-robert' | relative_url }}">Shapiro, Robert</a> in their “Life Beyond Earth” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) (available <a href="http://www.amazon.com/dp/0688036422/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0688036422/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 373, 375, 377 (in Chapter 11) of the Morrow hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -134,10 +134,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/goldsmith-donald">Goldsmith, Donald</a> and Owen, Tobias in their “<a href="/ufo-history/ufo-books/goldsmith-donald-and-owen-tobias-the-search-for-life-in-the-universe">The Search for Life in the Universe</a>” (<a href="/tags/1980">1980</a>) (available <a href="http://www.amazon.com/dp/0201569493/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0201569493/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 219-221(in Chapter 11) of the Benjamin Cummings softcover edition, at pages 242-244 (in Chapter 10) of the <a href="/tags/1992">1992</a> Addison Wesley softcover revised second edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/goldsmith-donald' | relative_url }}">Goldsmith, Donald</a> and Owen, Tobias in their “<a href="{{ '/ufo-history/ufo-books/goldsmith-donald-and-owen-tobias-the-search-for-life-in-the-universe' | relative_url }}">The Search for Life in the Universe</a>” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) (available <a href="http://www.amazon.com/dp/0201569493/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0201569493/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 219-221(in Chapter 11) of the Benjamin Cummings softcover edition, at pages 242-244 (in Chapter 10) of the <a href="{{ '/tags/1992' | relative_url }}">1992</a> Addison Wesley softcover revised second edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -145,10 +145,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p>Pickover, Clifford in his “<a href="/ufo-history/ufo-books/pickover-clifford-the-science-of-aliens">The Science of Aliens</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0465073158/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0465073158/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 90-92 (in Chapter 4), 152 (in Chapter 7) of the Basic Books hardback edition.</p>
+<p>Pickover, Clifford in his “<a href="{{ '/ufo-history/ufo-books/pickover-clifford-the-science-of-aliens' | relative_url }}">The Science of Aliens</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0465073158/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0465073158/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 90-92 (in Chapter 4), 152 (in Chapter 7) of the Basic Books hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>

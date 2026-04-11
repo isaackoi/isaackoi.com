@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0345270754.jpg"}
 book: {"identifiers": ["0345270754", "1558883010", "0451204247", "1841196134", "0963916122", "0964491702", "B000RATSR4", "0253190061", "1573929905", "B000NLQNZC", "0815970005", "B000ILEK2A", "0345345258", "0449908372"], "primary_isbn": "0345270754", "cover_image": "/book-covers/0345270754.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Jacques Vallee](/ufo-history/ufo-personalities/vallee-jacques)'s book “[Anatomy of a Phenomenon: UFOs in Space](/ufo-history/ufo-books/vallee-jacques-anatomy-of-a-phenomenon-ufos-in-space)” ([1965](/tags/1965)) (available [on Amazon USA](http://www.amazon.com/dp/0345270754/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0345270754/?&tag=ufot-21))
+Brief review to be added of [Jacques Vallee]({{ '/ufo-history/ufo-personalities/vallee-jacques' | relative_url }})'s book “[Anatomy of a Phenomenon: UFOs in Space]({{ '/ufo-history/ufo-books/vallee-jacques-anatomy-of-a-phenomenon-ufos-in-space' | relative_url }})” ([1965]({{ '/tags/1965' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0345270754/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0345270754/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -34,7 +34,7 @@ The table below includes references to relevant discussions in UFO/SETI books no
 
 Many of the tables of references on this website are considerably longer than the references to books found on most other UFO websites. Indeed, some are probably the longest that have been collated in relation to some events and personalities. I hope that these tables are found to be a useful contribution to UFOlogy.
 
-For discussion of “[Anatomy of a Phenomenon](/ufo-history/ufo-books/vallee-jacques-anatomy-of-a-phenomenon-ufos-in-space)” see the following:
+For discussion of “[Anatomy of a Phenomenon]({{ '/ufo-history/ufo-books/vallee-jacques-anatomy-of-a-phenomenon-ufos-in-space' | relative_url }})” see the following:
 
 <table border="1" cellpadding="0" cellspacing="0" class="sortable" data-sortable="true" id="sortabletable">
 <thead>
@@ -54,10 +54,10 @@ For discussion of “[Anatomy of a Phenomenon](/ufo-history/ufo-books/vallee-jac
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq">The UFO Encyclopedia: 1st edition</a>: Volume 1 – UFOs in the <a href="/tags/1980">1980</a>s” (<a href="/tags/1990">1990</a>) (available <a href="http://www.amazon.com/dp/1558883010/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558883010/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 213 (in an entry entitled “<a href="/ufo-history/ufo-personalities/vallee-jacques">Vallee, Jacques</a> Francis (1939- )”) of the Apogee hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq' | relative_url }}">The UFO Encyclopedia: 1st edition</a>: Volume 1 – UFOs in the <a href="{{ '/tags/1980' | relative_url }}">1980</a>s” (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) (available <a href="http://www.amazon.com/dp/1558883010/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558883010/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 213 (in an entry entitled “<a href="{{ '/ufo-history/ufo-personalities/vallee-jacques' | relative_url }}">Vallee, Jacques</a> Francis (1939- )”) of the Apogee hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -65,10 +65,10 @@ For discussion of “[Anatomy of a Phenomenon](/ufo-history/ufo-books/vallee-jac
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fitzgerald-randall">Fitzgerald, Randall</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 56 (in an entry entitled “<a href="/ufo-history/ufo-books/vallee-jacques-anatomy-of-a-phenomenon-ufos-in-space">Anatomy of a Phenomenon</a>”) of the New American Library softcover edition, at page 55 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }}">Fitzgerald, Randall</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 56 (in an entry entitled “<a href="{{ '/ufo-history/ufo-books/vallee-jacques-anatomy-of-a-phenomenon-ufos-in-space' | relative_url }}">Anatomy of a Phenomenon</a>”) of the New American Library softcover edition, at page 55 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -76,10 +76,10 @@ For discussion of “[Anatomy of a Phenomenon](/ufo-history/ufo-books/vallee-jac
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fitzgerald-randall">Fitzgerald, Randall</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 61 (in an entry entitled “<a href="/ufo-history/ufo-books/vallee-jacques-anatomy-of-a-phenomenon-ufos-in-space">Anatomy of a Phenomenon</a>”) of the Robinson softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }}">Fitzgerald, Randall</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 61 (in an entry entitled “<a href="{{ '/ufo-history/ufo-books/vallee-jacques-anatomy-of-a-phenomenon-ufos-in-space' | relative_url }}">Anatomy of a Phenomenon</a>”) of the Robinson softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -87,10 +87,10 @@ For discussion of “[Anatomy of a Phenomenon](/ufo-history/ufo-books/vallee-jac
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fitzgerald-randall">Fitzgerald, Randall</a> in his “<a href="/ufo-history/ufo-books/fitzgerald-randall-the-cosmic-test-tube">The Cosmic Test Tube</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0963916122/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963916122/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 116-117 (in Section 2) with a one sentence summary at page 370 (in the Guide To Books) of the Moonlake Media softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }}">Fitzgerald, Randall</a> in his “<a href="{{ '/ufo-history/ufo-books/fitzgerald-randall-the-cosmic-test-tube' | relative_url }}">The Cosmic Test Tube</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0963916122/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963916122/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 116-117 (in Section 2) with a one sentence summary at page 370 (in the Guide To Books) of the Moonlake Media softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -98,10 +98,10 @@ For discussion of “[Anatomy of a Phenomenon](/ufo-history/ufo-books/vallee-jac
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/harder-james-a">Harder, James A</a> in “<a href="/ufo-history/ufo-books/pritchard-andrea-et-al-editors-alien-discussions-abduction-study-conference-held-at-m-i-t">Alien Discussions: Abduction Study Conference Held at M. I. T.</a>” (<a href="/tags/1994">1994</a>) (edited by Andrea Pritchard et al.) (available <a href="http://www.amazon.com/dp/0964491702/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0964491702/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 26-27 (in Chapter 1, unnumbered sub-chapter entitled “Sampling Bias in Close Encounter Investigations”) of the North Cambridge Press hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/harder-james-a' | relative_url }}">Harder, James A</a> in “<a href="{{ '/ufo-history/ufo-books/pritchard-andrea-et-al-editors-alien-discussions-abduction-study-conference-held-at-m-i-t' | relative_url }}">Alien Discussions: Abduction Study Conference Held at M. I. T.</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (edited by Andrea Pritchard et al.) (available <a href="http://www.amazon.com/dp/0964491702/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0964491702/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 26-27 (in Chapter 1, unnumbered sub-chapter entitled “Sampling Bias in Close Encounter Investigations”) of the North Cambridge Press hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -109,10 +109,10 @@ For discussion of “[Anatomy of a Phenomenon](/ufo-history/ufo-books/vallee-jac
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1975">1975</a></p>
+<p><a href="{{ '/tags/1975' | relative_url }}">1975</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/hynek-j-allen">Hynek, J Allen</a> and <a href="/ufo-history/ufo-personalities/vallee-jacques">Vallee, Jacques</a> in their “<a href="/ufo-history/ufo-books/hynek-allen-and-vallee-jacques-the-edge-of-reality">The Edge of Reality</a>” (<a href="/tags/1975">1975</a>) (available <a href="http://www.amazon.com/dp/B000RATSR4/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000RATSR4/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 219-220 (in Chapter 8) of the Henry Regnery hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hynek-j-allen' | relative_url }}">Hynek, J Allen</a> and <a href="{{ '/ufo-history/ufo-personalities/vallee-jacques' | relative_url }}">Vallee, Jacques</a> in their “<a href="{{ '/ufo-history/ufo-books/hynek-allen-and-vallee-jacques-the-edge-of-reality' | relative_url }}">The Edge of Reality</a>” (<a href="{{ '/tags/1975' | relative_url }}">1975</a>) (available <a href="http://www.amazon.com/dp/B000RATSR4/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000RATSR4/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 219-220 (in Chapter 8) of the Henry Regnery hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -120,10 +120,10 @@ For discussion of “[Anatomy of a Phenomenon](/ufo-history/ufo-books/vallee-jac
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1975">1975</a></p>
+<p><a href="{{ '/tags/1975' | relative_url }}">1975</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/jacobs-david-michael">Jacobs, David Michael</a> in his “<a href="/ufo-history/ufo-books/jacobs-david-michael-the-ufo-controversy-in-america">The UFO Controversy in America</a>” (<a href="/tags/1975">1975</a>) (available <a href="http://www.amazon.com/dp/0253190061/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0253190061/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 223-224 (in Chapter 8) of the Indiana hardback edition, page 198 of the Signet paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/jacobs-david-michael' | relative_url }}">Jacobs, David Michael</a> in his “<a href="{{ '/ufo-history/ufo-books/jacobs-david-michael-the-ufo-controversy-in-america' | relative_url }}">The UFO Controversy in America</a>” (<a href="{{ '/tags/1975' | relative_url }}">1975</a>) (available <a href="http://www.amazon.com/dp/0253190061/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0253190061/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 223-224 (in Chapter 8) of the Indiana hardback edition, page 198 of the Signet paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -131,10 +131,10 @@ For discussion of “[Anatomy of a Phenomenon](/ufo-history/ufo-books/vallee-jac
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2003">2003</a></p>
+<p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/moffitt-john">Moffitt, John</a> in his “<a href="/ufo-history/ufo-books/moffitt-john-picturing-extraterrestrials-alien-images-in-modern-mass-culture">Picturing Extraterrestrials : Alien Images in Modern Mass Culture</a>” (<a href="/tags/2003">2003</a>) (available <a href="http://www.amazon.com/dp/1573929905/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573929905/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 333 of the Prometheus hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/moffitt-john' | relative_url }}">Moffitt, John</a> in his “<a href="{{ '/ufo-history/ufo-books/moffitt-john-picturing-extraterrestrials-alien-images-in-modern-mass-culture' | relative_url }}">Picturing Extraterrestrials : Alien Images in Modern Mass Culture</a>” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) (available <a href="http://www.amazon.com/dp/1573929905/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573929905/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 333 of the Prometheus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -142,10 +142,10 @@ For discussion of “[Anatomy of a Phenomenon](/ufo-history/ufo-books/vallee-jac
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> and <a href="/ufo-history/ufo-personalities/hough-peter">Hough, Peter</a> in their “<a href="/ufo-history/ufo-books/randles-jenny-and-hough-peter-50-years-of-ufo-encounters">50 Years of UFO Encounters</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/B000NLQNZC/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000NLQNZC/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 45 (in unnumbered section entitled “<a href="/tags/1965">1965</a>: The Turning Point”) of the Encounters Magazine softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> and <a href="{{ '/ufo-history/ufo-personalities/hough-peter' | relative_url }}">Hough, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-hough-peter-50-years-of-ufo-encounters' | relative_url }}">50 Years of UFO Encounters</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/B000NLQNZC/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000NLQNZC/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 45 (in unnumbered section entitled “<a href="{{ '/tags/1965' | relative_url }}">1965</a>: The Turning Point”) of the Encounters Magazine softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -153,10 +153,10 @@ For discussion of “[Anatomy of a Phenomenon](/ufo-history/ufo-books/vallee-jac
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1974">1974</a></p>
+<p><a href="{{ '/tags/1974' | relative_url }}">1974</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/salisbury-frank">Salisbury, Frank</a> in his “The Utah UFO Display: A Biologist’s Report” (<a href="/tags/1974">1974</a>) (available <a href="http://www.amazon.com/dp/0815970005/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0815970005/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 226 (in the Appendix entitled “The Literature of Ufology”) of the Devin Adair hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/salisbury-frank' | relative_url }}">Salisbury, Frank</a> in his “The Utah UFO Display: A Biologist’s Report” (<a href="{{ '/tags/1974' | relative_url }}">1974</a>) (available <a href="http://www.amazon.com/dp/0815970005/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0815970005/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 226 (in the Appendix entitled “The Literature of Ufology”) of the Devin Adair hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -164,10 +164,10 @@ For discussion of “[Anatomy of a Phenomenon](/ufo-history/ufo-books/vallee-jac
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1966">1966</a></p>
+<p><a href="{{ '/tags/1966' | relative_url }}">1966</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/stanton-l-jerome">Stanton, L Jerome</a> in his “<a href="/ufo-history/ufo-books/stanton-l-jerome-flying-saucers-hoax-or-reality">Flying Saucers : Hoax or Reality?</a>” (<a href="/tags/1966">1966</a>) (available <a href="http://www.amazon.com/dp/B000ILEK2A/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000ILEK2A/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 101-102 (in Chapter 6) of the Belmont paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/stanton-l-jerome' | relative_url }}">Stanton, L Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/stanton-l-jerome-flying-saucers-hoax-or-reality' | relative_url }}">Flying Saucers : Hoax or Reality?</a>” (<a href="{{ '/tags/1966' | relative_url }}">1966</a>) (available <a href="http://www.amazon.com/dp/B000ILEK2A/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000ILEK2A/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 101-102 (in Chapter 6) of the Belmont paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -175,10 +175,10 @@ For discussion of “[Anatomy of a Phenomenon](/ufo-history/ufo-books/vallee-jac
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1976">1976</a></p>
+<p><a href="{{ '/tags/1976' | relative_url }}">1976</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/steiger-brad">Steiger, Brad</a> in his “<a href="/ufo-history/ufo-books/steiger-brad-project-blue-book">Project Blue Book</a>“ (<a href="/tags/1976">1976</a>) (available <a href="http://www.amazon.com/dp/0345345258/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0345345258/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 337 (forming part of Chapter 13) of the Ballantine Books paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/steiger-brad' | relative_url }}">Steiger, Brad</a> in his “<a href="{{ '/ufo-history/ufo-books/steiger-brad-project-blue-book' | relative_url }}">Project Blue Book</a>“ (<a href="{{ '/tags/1976' | relative_url }}">1976</a>) (available <a href="http://www.amazon.com/dp/0345345258/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0345345258/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 337 (forming part of Chapter 13) of the Ballantine Books paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -186,10 +186,10 @@ For discussion of “[Anatomy of a Phenomenon](/ufo-history/ufo-books/vallee-jac
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/thompson-keith">Thompson, Keith</a> in his “<a href="/ufo-history/ufo-books/thompson-keith-angels-and-aliens-ufos-and-the-mythic-imagination">Angels and Aliens: UFOs and the Mythic Imagination</a>” (<a href="/tags/1991">1991</a>) (available <a href="http://www.amazon.com/dp/0449908372/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0449908372/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 99-100 (in Chapter 9) of the Fawcett softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/thompson-keith' | relative_url }}">Thompson, Keith</a> in his “<a href="{{ '/ufo-history/ufo-books/thompson-keith-angels-and-aliens-ufos-and-the-mythic-imagination' | relative_url }}">Angels and Aliens: UFOs and the Mythic Imagination</a>” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/0449908372/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0449908372/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 99-100 (in Chapter 9) of the Fawcett softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

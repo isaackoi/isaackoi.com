@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/britain_1.gif"}
 ---
 
-![britain_1](/images/stories/ufo_tags/britain_1.gif)
+![britain_1]({{ '/images/stories/ufo_tags/britain_1.gif' | relative_url }})
 
 *Livingston Incident*
 
@@ -23,7 +23,7 @@ On 9 November
 
 , the Livingston, Scotland incident involving foreman forester Robert Taylor (“Bob Taylor”) occurred, allegedly involving a close encounter and balls attached themselves to Mr Taylor’s trousers, tearing them. (Commonly referred to as “the Livingston Incident”).
 
-This incident is Case 86 in [Isaac Koi's "Top 100" article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases), since it was referred to in 33 of the books covered by that article.
+This incident is Case 86 in [Isaac Koi's "Top 100" article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}), since it was referred to in 33 of the books covered by that article.
 
 This incident has also featured in a list of cases produced jointly by British ufologists Dave Clarke and Andy Roberts for
 
@@ -74,10 +74,10 @@ For discussion of the Livingston, Scotland incident see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/baker-alan">Baker, Alan</a> in his “<a href="/ufo-history/ufo-books/baker-alan-the-encyclopaedia-of-alien-encounters">The Encyclopaedia of Alien Encounters</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/1852277343/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1852277343/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 163-164 (in an entry entitled “ ‘Mines’ (Aliens”) of the Virgin hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/baker-alan' | relative_url }}">Baker, Alan</a> in his “<a href="{{ '/ufo-history/ufo-books/baker-alan-the-encyclopaedia-of-alien-encounters' | relative_url }}">The Encyclopaedia of Alien Encounters</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/1852277343/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1852277343/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 163-164 (in an entry entitled “ ‘Mines’ (Aliens”) of the Virgin hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -85,10 +85,10 @@ For discussion of the Livingston, Scotland incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p>Blundell, Nigel and Boar, Roger in “<a href="/ufo-history/ufo-books/cawthorne-nigel-the-worlds-greatest-alien-abduction-mysteries">The World’s Greatest Alien Abduction Mysteries</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/0753704250/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0753704250/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 313-314 (in the chapter entitled “Encounters of the Closest Kind”) of the Chancellor Press softcover edition.</p>
+<p>Blundell, Nigel and Boar, Roger in “<a href="{{ '/ufo-history/ufo-books/cawthorne-nigel-the-worlds-greatest-alien-abduction-mysteries' | relative_url }}">The World’s Greatest Alien Abduction Mysteries</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/0753704250/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0753704250/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 313-314 (in the chapter entitled “Encounters of the Closest Kind”) of the Chancellor Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -96,10 +96,10 @@ For discussion of the Livingston, Scotland incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1986">1986</a></p>
+<p><a href="{{ '/tags/1986' | relative_url }}">1986</a></p>
 </td>
 <td valign="top" width="547">
-<p>Blundell, Nigel and Boar, Roger in their “<a href="/ufo-history/ufo-books/blundell-nigel-and-boar-roger-the-worlds-greatest-ufo-mysteries">The World’s Greatest UFO Mysteries</a>” (<a href="/tags/1986">1986</a>) (available <a href="http://www.amazon.com/dp/0600572293/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0600572293/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 73 (in the chapter entitled “Encounters of the Closest Kind”) of the Octopus hardback edition (with the same page numbering in the Hamlyn softcover edition).</p>
+<p>Blundell, Nigel and Boar, Roger in their “<a href="{{ '/ufo-history/ufo-books/blundell-nigel-and-boar-roger-the-worlds-greatest-ufo-mysteries' | relative_url }}">The World’s Greatest UFO Mysteries</a>” (<a href="{{ '/tags/1986' | relative_url }}">1986</a>) (available <a href="http://www.amazon.com/dp/0600572293/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0600572293/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 73 (in the chapter entitled “Encounters of the Closest Kind”) of the Octopus hardback edition (with the same page numbering in the Hamlyn softcover edition).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -107,10 +107,10 @@ For discussion of the Livingston, Scotland incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p>Blundell, Nigel in his “<a href="/ufo-history/ufo-books/blundell-nigel-worlds-most-amazing-ufo-visits">World’s Most Amazing UFO Visits</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/1857781589/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1857781589/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 162 of the Select softcover edition.</p>
+<p>Blundell, Nigel in his “<a href="{{ '/ufo-history/ufo-books/blundell-nigel-worlds-most-amazing-ufo-visits' | relative_url }}">World’s Most Amazing UFO Visits</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/1857781589/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1857781589/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 162 of the Select softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -118,10 +118,10 @@ For discussion of the Livingston, Scotland incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/campbell-steuart">Campbell, Steuart</a> in his “<a href="/ufo-history/ufo-books/campbell-steuart-the-ufo-mystery-solved">The UFO Mystery Solved</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/0952151200/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0952151200/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 143-158 (Chapter 9 generally) of the Explicit Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/campbell-steuart' | relative_url }}">Campbell, Steuart</a> in his “<a href="{{ '/ufo-history/ufo-books/campbell-steuart-the-ufo-mystery-solved' | relative_url }}">The UFO Mystery Solved</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/0952151200/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0952151200/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 143-158 (Chapter 9 generally) of the Explicit Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>16</p>
@@ -129,10 +129,10 @@ For discussion of the Livingston, Scotland incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p>Cassirer, Manfred in his “<a href="/ufo-history/ufo-books/cassirer-manfred-dimensions-of-enchantment">Dimensions of Enchantment</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/0947533893/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0947533893/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 8-9 (in Chapter 1), 147 (in Chapter 10), 178 (in Chapter 12) of the Breese Books softcover edition.</p>
+<p>Cassirer, Manfred in his “<a href="{{ '/ufo-history/ufo-books/cassirer-manfred-dimensions-of-enchantment' | relative_url }}">Dimensions of Enchantment</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/0947533893/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0947533893/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 8-9 (in Chapter 1), 147 (in Chapter 10), 178 (in Chapter 12) of the Breese Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -140,10 +140,10 @@ For discussion of the Livingston, Scotland incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1987">1987</a></p>
+<p><a href="{{ '/tags/1987' | relative_url }}">1987</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/chalker-bill">Chalker, Bill</a> in “<a href="/ufo-history/ufo-books/evans-hilary-and-spencer-john-ufo-1947-1987">UFO: 1947-1987</a>” (<a href="/tags/1987">1987</a>) (edited by <a href="/ufo-history/ufo-personalities/evans-hilary">Hilary Evans</a> with <a href="/ufo-history/ufo-personalities/spencer-john">John Spencer</a>) (available <a href="http://www.amazon.com/dp/1870021029/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1870021029/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 187 of the Fortean Tomes softcover edition (in Chapter 3.4.1, entitled “Physical Traces”).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/chalker-bill' | relative_url }}">Chalker, Bill</a> in “<a href="{{ '/ufo-history/ufo-books/evans-hilary-and-spencer-john-ufo-1947-1987' | relative_url }}">UFO: 1947-1987</a>” (<a href="{{ '/tags/1987' | relative_url }}">1987</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }}">Hilary Evans</a> with <a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">John Spencer</a>) (available <a href="http://www.amazon.com/dp/1870021029/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1870021029/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 187 of the Fortean Tomes softcover edition (in Chapter 3.4.1, entitled “Physical Traces”).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -151,10 +151,10 @@ For discussion of the Livingston, Scotland incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clarke-david">Clarke, David</a> and <a href="/ufo-history/ufo-personalities/roberts-andy">Roberts, Andy</a> in their “<a href="/ufo-history/ufo-books/clarke-david-and-roberts-andy-phantoms-of-the-sky">Phantoms of the Sky</a>: UFOs – A Modern Myth?” (<a href="/tags/1990">1990</a>) (available <a href="http://www.amazon.com/dp/0709040865/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0709040865/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 137-138 (in Chapter 7) of the Hale hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clarke-david' | relative_url }}">Clarke, David</a> and <a href="{{ '/ufo-history/ufo-personalities/roberts-andy' | relative_url }}">Roberts, Andy</a> in their “<a href="{{ '/ufo-history/ufo-books/clarke-david-and-roberts-andy-phantoms-of-the-sky' | relative_url }}">Phantoms of the Sky</a>: UFOs – A Modern Myth?” (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) (available <a href="http://www.amazon.com/dp/0709040865/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0709040865/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 137-138 (in Chapter 7) of the Hale hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -162,10 +162,10 @@ For discussion of the Livingston, Scotland incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/davenport-marc">Davenport, Marc</a> in his “<a href="/ufo-history/ufo-books/davenport-marc-visitors-from-time">Visitors from Time</a>” (<a href="/tags/1992">1992</a>) (available <a href="http://www.amazon.com/dp/1883729025/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1883729025/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 118-119 (in Chapter 9) of the <a href="/tags/1994">1994</a> revised Greenleaf softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/davenport-marc' | relative_url }}">Davenport, Marc</a> in his “<a href="{{ '/ufo-history/ufo-books/davenport-marc-visitors-from-time' | relative_url }}">Visitors from Time</a>” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="http://www.amazon.com/dp/1883729025/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1883729025/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 118-119 (in Chapter 9) of the <a href="{{ '/tags/1994' | relative_url }}">1994</a> revised Greenleaf softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -173,10 +173,10 @@ For discussion of the Livingston, Scotland incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1982">1982</a></p>
+<p><a href="{{ '/tags/1982' | relative_url }}">1982</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/devereux-paul">Devereux, Paul</a> in his “<a href="/ufo-history/ufo-books/devereux-paul-earth-lights">Earth Lights</a>“ (<a href="/tags/1982">1982</a>) (available <a href="http://www.amazon.com/dp/0855001232/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0855001232/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 38-39 (in Chapter 2) of the Turnstone Press hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/devereux-paul' | relative_url }}">Devereux, Paul</a> in his “<a href="{{ '/ufo-history/ufo-books/devereux-paul-earth-lights' | relative_url }}">Earth Lights</a>“ (<a href="{{ '/tags/1982' | relative_url }}">1982</a>) (available <a href="http://www.amazon.com/dp/0855001232/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0855001232/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 38-39 (in Chapter 2) of the Turnstone Press hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -184,10 +184,10 @@ For discussion of the Livingston, Scotland incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1983">1983</a></p>
+<p><a href="{{ '/tags/1983' | relative_url }}">1983</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/evans-hilary">Evans, Hilary</a> in his “<a href="/ufo-history/ufo-books/evans-hilary-the-evidence-for-ufos">The Evidence for UFOs</a>” (<a href="/tags/1983">1983</a>) (available <a href="http://www.amazon.com/dp/0850303508/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0850303508/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 20-21, 30 (in Chapter 1, Case 4), 58 (in Chapter 3), 77 (in Chapter 4) of the Aquarian softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }}">Evans, Hilary</a> in his “<a href="{{ '/ufo-history/ufo-books/evans-hilary-the-evidence-for-ufos' | relative_url }}">The Evidence for UFOs</a>” (<a href="{{ '/tags/1983' | relative_url }}">1983</a>) (available <a href="http://www.amazon.com/dp/0850303508/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0850303508/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 20-21, 30 (in Chapter 1, Case 4), 58 (in Chapter 3), 77 (in Chapter 4) of the Aquarian softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>
@@ -195,10 +195,10 @@ For discussion of the Livingston, Scotland incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Glenday, Craig in his “<a href="/ufo-history/ufo-books/glenday-craig-the-ufo-investigators-handbook">The UFO Investigator’s Handbook</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0762406194/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0762406194/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 39 (in Chapter 1) of the Running Press softcover edition.</p>
+<p>Glenday, Craig in his “<a href="{{ '/ufo-history/ufo-books/glenday-craig-the-ufo-investigators-handbook' | relative_url }}">The UFO Investigator’s Handbook</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0762406194/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0762406194/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 39 (in Chapter 1) of the Running Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -206,10 +206,10 @@ For discussion of the Livingston, Scotland incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/halliday-ron">Halliday, Ron</a> in his “<a href="/ufo-history/ufo-books/halliday-ron-mcx-scotlands-x-files">McX : Scotland's X-Files</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1873631774/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1873631774/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page xii-xiii (in the Introduction), 3, 5-9 (in Chapter 1) of the B&amp;W softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/halliday-ron' | relative_url }}">Halliday, Ron</a> in his “<a href="{{ '/ufo-history/ufo-books/halliday-ron-mcx-scotlands-x-files' | relative_url }}">McX : Scotland's X-Files</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1873631774/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1873631774/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page xii-xiii (in the Introduction), 3, 5-9 (in Chapter 1) of the B&amp;W softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>8</p>
@@ -217,10 +217,10 @@ For discussion of the Livingston, Scotland incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/halliday-ron">Halliday, Ron</a> in his “UFO Scotland” (<a href="/tags/1998">1998</a>) at pages viii, ix (in the Introduction), 2-12, 16-19 (in Chapter 1), 206 (in Chapter 6), 276, 278 (in Chapter 8), 301-302, 303, 305, 308 (in Chapter 9) of the B&amp;W softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/halliday-ron' | relative_url }}">Halliday, Ron</a> in his “UFO Scotland” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) at pages viii, ix (in the Introduction), 2-12, 16-19 (in Chapter 1), 206 (in Chapter 6), 276, 278 (in Chapter 8), 301-302, 303, 305, 308 (in Chapter 9) of the B&amp;W softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>25</p>
@@ -228,10 +228,10 @@ For discussion of the Livingston, Scotland incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/huyghe-patrick">Huyghe, Patrick</a> in his “<a href="/ufo-history/ufo-books/huyghe-patrick-the-field-guide-to-extraterrestrials">The Field Guide to Extraterrestrials</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/038078128X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/038078128X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 98-99 (in the unnumbered section entitled “Robotic”) of the Avon softcover edition (with the same page numbering in the NEL softcover edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/huyghe-patrick' | relative_url }}">Huyghe, Patrick</a> in his “<a href="{{ '/ufo-history/ufo-books/huyghe-patrick-the-field-guide-to-extraterrestrials' | relative_url }}">The Field Guide to Extraterrestrials</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/038078128X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/038078128X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 98-99 (in the unnumbered section entitled “Robotic”) of the Avon softcover edition (with the same page numbering in the NEL softcover edition).</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -239,10 +239,10 @@ For discussion of the Livingston, Scotland incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/mantle-philip">Mantle, Philip</a> and Nagaitis, Carl in their “<a href="/ufo-history/ufo-books/mantle-philip-and-nagaitis-carl-without-consent">Without Consent</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/156924720X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/156924720X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 53-59 (in the unnumbered chapter entitled “Official Recognition”, sub-section entitled “Robert Taylor”) of the Ringpull hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/mantle-philip' | relative_url }}">Mantle, Philip</a> and Nagaitis, Carl in their “<a href="{{ '/ufo-history/ufo-books/mantle-philip-and-nagaitis-carl-without-consent' | relative_url }}">Without Consent</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/156924720X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/156924720X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 53-59 (in the unnumbered chapter entitled “Official Recognition”, sub-section entitled “Robert Taylor”) of the Ringpull hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>7</p>
@@ -250,10 +250,10 @@ For discussion of the Livingston, Scotland incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p>Marvels and Mysteries (Editors Of) in “<a href="/ufo-history/ufo-books/marvels-and-mysteries-editors-of-marvels-and-mysteries-ufos">Marvels and Mysteries: UFOs</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0752512277/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0752512277/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 7-11 of the Parrallel softcover edition.</p>
+<p>Marvels and Mysteries (Editors Of) in “<a href="{{ '/ufo-history/ufo-books/marvels-and-mysteries-editors-of-marvels-and-mysteries-ufos' | relative_url }}">Marvels and Mysteries: UFOs</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0752512277/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0752512277/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 7-11 of the Parrallel softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>
@@ -261,10 +261,10 @@ For discussion of the Livingston, Scotland incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1985">1985</a></p>
+<p><a href="{{ '/tags/1985' | relative_url }}">1985</a></p>
 </td>
 <td valign="top" width="547">
-<p>National Enquirer (Editors of) in “UFO Report” (<a href="/tags/1985">1985</a>) at pages 16-18 (in Chapter 1) of the Pocket paperback edition.</p>
+<p>National Enquirer (Editors of) in “UFO Report” (<a href="{{ '/tags/1985' | relative_url }}">1985</a>) at pages 16-18 (in Chapter 1) of the Pocket paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -272,10 +272,10 @@ For discussion of the Livingston, Scotland incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2002">2002</a></p>
+<p><a href="{{ '/tags/2002' | relative_url }}">2002</a></p>
 </td>
 <td valign="top" width="547">
-<p>Nixon, Neil in his “<a href="/ufo-history/ufo-books/nixon-neil-pocket-essentials-ufos">Pocket Essentials : UFOs</a>” (<a href="/tags/2002">2002</a>) (available <a href="http://www.amazon.com/dp/1903047889/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1903047889/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 36-37, 39 (in Chapter 2) of the Pocket Essentials softcover edition.</p>
+<p>Nixon, Neil in his “<a href="{{ '/ufo-history/ufo-books/nixon-neil-pocket-essentials-ufos' | relative_url }}">Pocket Essentials : UFOs</a>” (<a href="{{ '/tags/2002' | relative_url }}">2002</a>) (available <a href="http://www.amazon.com/dp/1903047889/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1903047889/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 36-37, 39 (in Chapter 2) of the Pocket Essentials softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -283,10 +283,10 @@ For discussion of the Livingston, Scotland incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p>Picknett, Lynn in her “<a href="/ufo-history/ufo-books/picknett-lynn-the-mammoth-book-of-ufos">The Mammoth Book of UFOs</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/078670800X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/078670800X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 127-128 (in Chapter 2) of the Robinson softcover edition.</p>
+<p>Picknett, Lynn in her “<a href="{{ '/ufo-history/ufo-books/picknett-lynn-the-mammoth-book-of-ufos' | relative_url }}">The Mammoth Book of UFOs</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/078670800X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/078670800X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 127-128 (in Chapter 2) of the Robinson softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -294,10 +294,10 @@ For discussion of the Livingston, Scotland incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/pope-nick">Pope, Nick</a> in his “<a href="/ufo-history/ufo-books/pope-nick-the-uninvited">The Uninvited</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0879518782/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879518782/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 85 (in Chapter 5) of the Simon and Schuster hardback edition, with the same page numbering in the Pocket Books paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/pope-nick' | relative_url }}">Pope, Nick</a> in his “<a href="{{ '/ufo-history/ufo-books/pope-nick-the-uninvited' | relative_url }}">The Uninvited</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0879518782/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879518782/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 85 (in Chapter 5) of the Simon and Schuster hardback edition, with the same page numbering in the Pocket Books paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -305,10 +305,10 @@ For discussion of the Livingston, Scotland incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> and <a href="/ufo-history/ufo-personalities/hough-peter">Hough, Peter</a> in their “<a href="/ufo-history/ufo-books/randles-jenny-and-hough-peter-50-years-of-ufo-encounters">50 Years of UFO Encounters</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/B000NLQNZC/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000NLQNZC/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 71-72 (in unnumbered section entitled “<a href="/tags/1979">1979</a>: Livingston – An Offical Investigation”) of the Encounters Magazine softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> and <a href="{{ '/ufo-history/ufo-personalities/hough-peter' | relative_url }}">Hough, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-hough-peter-50-years-of-ufo-encounters' | relative_url }}">50 Years of UFO Encounters</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/B000NLQNZC/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000NLQNZC/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 71-72 (in unnumbered section entitled “<a href="{{ '/tags/1979' | relative_url }}">1979</a>: Livingston – An Offical Investigation”) of the Encounters Magazine softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -316,10 +316,10 @@ For discussion of the Livingston, Scotland incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1993">1993</a></p>
+<p><a href="{{ '/tags/1993' | relative_url }}">1993</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-aliens">Aliens</a>” (<a href="/tags/1993">1993</a>) (available <a href="http://www.amazon.com/dp/0709050259/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0709050259/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 60-63 (in Part 2) of the Hale hardback edition (with the same page numbering in the Sterling softcover edition published under the title “Alien Contacts and Abductions”).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-aliens' | relative_url }}">Aliens</a>” (<a href="{{ '/tags/1993' | relative_url }}">1993</a>) (available <a href="http://www.amazon.com/dp/0709050259/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0709050259/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 60-63 (in Part 2) of the Hale hardback edition (with the same page numbering in the Sterling softcover edition published under the title “Alien Contacts and Abductions”).</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -327,10 +327,10 @@ For discussion of the Livingston, Scotland incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-the-little-giant-encyclopedia-of-ufos">The Little Giant Encyclopedia of UFOs</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/0806918918/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806918918/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 93-94 (in Part 1, “A UFO Timeline”) of the Sterling softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-the-little-giant-encyclopedia-of-ufos' | relative_url }}">The Little Giant Encyclopedia of UFOs</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/0806918918/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806918918/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 93-94 (in Part 1, “A UFO Timeline”) of the Sterling softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -338,10 +338,10 @@ For discussion of the Livingston, Scotland incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “UFO Crash Landing? Friend or Foe?” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0713726555/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713726555/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 86 (in Chapter 7) of the Blandford softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “UFO Crash Landing? Friend or Foe?” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0713726555/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713726555/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 86 (in Chapter 7) of the Blandford softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -349,10 +349,10 @@ For discussion of the Livingston, Scotland incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1981">1981</a></p>
+<p><a href="{{ '/tags/1981' | relative_url }}">1981</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-ufo-study">UFO Study</a>” (<a href="/tags/1981">1981</a>) (available <a href="http://www.amazon.com/dp/0709188641/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0709188641/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 153-157 (in Chapter 12) of the Hale hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-ufo-study' | relative_url }}">UFO Study</a>” (<a href="{{ '/tags/1981' | relative_url }}">1981</a>) (available <a href="http://www.amazon.com/dp/0709188641/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0709188641/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 153-157 (in Chapter 12) of the Hale hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>
@@ -360,10 +360,10 @@ For discussion of the Livingston, Scotland incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-ufos-and-how-to-see-them">UFOs and How to See Them</a>” (<a href="/tags/1992">1992</a>) (available <a href="http://www.amazon.com/dp/0760705496/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0760705496/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 100-101 (in Chapter 4) of the Brockhampton Press hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-ufos-and-how-to-see-them' | relative_url }}">UFOs and How to See Them</a>” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="http://www.amazon.com/dp/0760705496/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0760705496/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 100-101 (in Chapter 4) of the Brockhampton Press hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -371,10 +371,10 @@ For discussion of the Livingston, Scotland incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p>Ritchie, David in his “<a href="/ufo-history/ufo-books/ritchie-david-ufo-the-definitive-guide">UFO : The Definitive Guide</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/1567312004/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1567312004/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 126 (in an entry entitled “Lothian, Scotland, United Kingdom”) of the MJF hardback edition.</p>
+<p>Ritchie, David in his “<a href="{{ '/ufo-history/ufo-books/ritchie-david-ufo-the-definitive-guide' | relative_url }}">UFO : The Definitive Guide</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/1567312004/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1567312004/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 126 (in an entry entitled “Lothian, Scotland, United Kingdom”) of the MJF hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -382,10 +382,10 @@ For discussion of the Livingston, Scotland incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/rux-bruce">Rux, Bruce</a> in his “<a href="/ufo-history/ufo-books/rux-bruce-architects-of-the-underworld">Architects of the Underworld</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/1883319463/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1883319463/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 162-163, 178 (in Chapter 5) of the Frog softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/rux-bruce' | relative_url }}">Rux, Bruce</a> in his “<a href="{{ '/ufo-history/ufo-books/rux-bruce-architects-of-the-underworld' | relative_url }}">Architects of the Underworld</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/1883319463/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1883319463/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 162-163, 178 (in Chapter 5) of the Frog softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -393,10 +393,10 @@ For discussion of the Livingston, Scotland incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/spencer-john">Spencer, John</a> and Spencer, Anne in their “<a href="/ufo-history/ufo-books/spencer-john-fifty-years-of-ufos">Fifty Years of UFOs</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1852839244/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1852839244/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 115-116 (in the unnumbered chapter entitled “<a href="/tags/1977">1977</a>-<a href="/tags/1987">1987</a>”) of the Boxtree hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">Spencer, John</a> and Spencer, Anne in their “<a href="{{ '/ufo-history/ufo-books/spencer-john-fifty-years-of-ufos' | relative_url }}">Fifty Years of UFOs</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1852839244/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1852839244/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 115-116 (in the unnumbered chapter entitled “<a href="{{ '/tags/1977' | relative_url }}">1977</a>-<a href="{{ '/tags/1987' | relative_url }}">1987</a>”) of the Boxtree hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -404,10 +404,10 @@ For discussion of the Livingston, Scotland incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/spencer-john">Spencer, John</a> in his “<a href="/ufo-history/ufo-books/spencer-john-the-ufo-encyclopedia">The UFO Encyclopedia</a>” (<a href="/tags/1991">1991</a>) (available <a href="http://www.amazon.com/dp/0380768879/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380768879/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 189-190 (in an entry entitled “Livingston, Scotland”) of the Guild hardback edition (with the same page numbering in the Avon softcover edition) at pages 219-221 of the Headline paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">Spencer, John</a> in his “<a href="{{ '/ufo-history/ufo-books/spencer-john-the-ufo-encyclopedia' | relative_url }}">The UFO Encyclopedia</a>” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/0380768879/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380768879/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 189-190 (in an entry entitled “Livingston, Scotland”) of the Guild hardback edition (with the same page numbering in the Avon softcover edition) at pages 219-221 of the Headline paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -415,10 +415,10 @@ For discussion of the Livingston, Scotland incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/spencer-john">Spencer, John</a> in his “<a href="/ufo-history/ufo-books/spencer-john-ufos-the-definitive-casebook">UFOs: The Definitive Casebook</a>” (<a href="/tags/1991">1991</a>) (available <a href="http://www.amazon.com/dp/B000S52VNG/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000S52VNG/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 110-113 (in the unnumbered section entitled “Europe”, in the chapter entitled “Database”) of the Hamlyn hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">Spencer, John</a> in his “<a href="{{ '/ufo-history/ufo-books/spencer-john-ufos-the-definitive-casebook' | relative_url }}">UFOs: The Definitive Casebook</a>” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/B000S52VNG/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000S52VNG/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 110-113 (in the unnumbered section entitled “Europe”, in the chapter entitled “Database”) of the Hamlyn hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -426,10 +426,10 @@ For discussion of the Livingston, Scotland incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p>Welfare, Simon and Fairley, John in their “<a href="/ufo-history/ufo-personalities/clarke-arthur-c">Arthur C Clarke</a>’s Mysterious World” (<a href="/tags/1980">1980</a>) (available <a href="http://www.amazon.com/dp/0006363156/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0006363156/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 255-256 (in Chapter 10) of the Book Club Associates hardback edition.</p>
+<p>Welfare, Simon and Fairley, John in their “<a href="{{ '/ufo-history/ufo-personalities/clarke-arthur-c' | relative_url }}">Arthur C Clarke</a>’s Mysterious World” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) (available <a href="http://www.amazon.com/dp/0006363156/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0006363156/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 255-256 (in Chapter 10) of the Book Club Associates hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

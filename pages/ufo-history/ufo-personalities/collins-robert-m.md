@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/collins_robert_1.jpg"}
 ---
 
-![collins_robert_1](/images/stories/ufo_personalities/collins_robert_1.jpg)
+![collins_robert_1]({{ '/images/stories/ufo_personalities/collins_robert_1.jpg' | relative_url }})
 
 *Robert Collins*
 
@@ -38,10 +38,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/2006">2006</a></p>
+<p><a href="{{ '/tags/2006' | relative_url }}">2006</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/collins-robert-m">Collins, Robert M</a> (with <a href="/ufo-history/ufo-personalities/doty-richard">Doty, Richard C</a> and <a href="/ufo-history/ufo-personalities/cooper-timothy-s">Cooper, Timothy S</a>) “<a href="/ufo-history/ufo-books/collins-robert-m-with-doty-richard-c-and-cooper-timothy-s-exempt-from-disclosure">Exempt From Disclosure</a>” (<a href="/tags/2006">2006</a>) (available <a href="http://www.amazon.com/dp/0976642638/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0976642638/?&amp;tag=ufot-21">on Amazon UK</a>).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/collins-robert-m' | relative_url }}">Collins, Robert M</a> (with <a href="{{ '/ufo-history/ufo-personalities/doty-richard' | relative_url }}">Doty, Richard C</a> and <a href="{{ '/ufo-history/ufo-personalities/cooper-timothy-s' | relative_url }}">Cooper, Timothy S</a>) “<a href="{{ '/ufo-history/ufo-books/collins-robert-m-with-doty-richard-c-and-cooper-timothy-s-exempt-from-disclosure' | relative_url }}">Exempt From Disclosure</a>” (<a href="{{ '/tags/2006' | relative_url }}">2006</a>) (available <a href="http://www.amazon.com/dp/0976642638/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0976642638/?&amp;tag=ufot-21">on Amazon UK</a>).</p>
 </td>
 </tr>
 </tbody>
@@ -87,10 +87,10 @@ For discussion of Robert Collins see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2005">2005</a></p>
+<p><a href="{{ '/tags/2005' | relative_url }}">2005</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/bishop-greg">Bishop, Greg</a> in his “<a href="/ufo-history/ufo-books/bishop-greg-project-beta">Project BETA : The Story of Paul Bennewitz, National Security, and the Creation of a Modern UFO Myth</a>” (<a href="/tags/2005">2005</a>) (available <a href="http://www.amazon.com/dp/0743470923/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743470923/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 212 (in Chapter 24) of the Paraview Pocket Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/bishop-greg' | relative_url }}">Bishop, Greg</a> in his “<a href="{{ '/ufo-history/ufo-books/bishop-greg-project-beta' | relative_url }}">Project BETA : The Story of Paul Bennewitz, National Security, and the Creation of a Modern UFO Myth</a>” (<a href="{{ '/tags/2005' | relative_url }}">2005</a>) (available <a href="http://www.amazon.com/dp/0743470923/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743470923/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 212 (in Chapter 24) of the Paraview Pocket Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -98,10 +98,10 @@ For discussion of Robert Collins see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-the-ufo-book">The UFO Book</a>: Encyclopedia of the Extraterrestrial” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/1578590299/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1578590299/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 163 (forming part of the entry entitled “Dark Side”) of the Visible Ink Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-the-ufo-book' | relative_url }}">The UFO Book</a>: Encyclopedia of the Extraterrestrial” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/1578590299/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1578590299/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 163 (forming part of the entry entitled “Dark Side”) of the Visible Ink Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -109,10 +109,10 @@ For discussion of Robert Collins see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition">The UFO Encyclopedia: The Phenomenon from the Beginning - 2nd edition</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 310, 315 of Volume 1:A-K (forming part of an entry entitled “Dark Side” at pages 301-319) of the Omnigraphics hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition' | relative_url }}">The UFO Encyclopedia: The Phenomenon from the Beginning - 2nd edition</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 310, 315 of Volume 1:A-K (forming part of an entry entitled “Dark Side” at pages 301-319) of the Omnigraphics hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -120,10 +120,10 @@ For discussion of Robert Collins see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2006">2006</a></p>
+<p><a href="{{ '/tags/2006' | relative_url }}">2006</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/good-timothy">Good, Timothy</a> in his “<a href="/ufo-history/ufo-books/good-timothy-need-to-know-ufos-the-military-and-intelligence">Need To Know : UFOs, the Military and Intelligence</a>” (<a href="/tags/2006">2006</a>) (available <a href="http://www.amazon.com/dp/028307034X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/028307034X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 336 (in Chapter 22) of the Sidgwick &amp; Jackson hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/good-timothy' | relative_url }}">Good, Timothy</a> in his “<a href="{{ '/ufo-history/ufo-books/good-timothy-need-to-know-ufos-the-military-and-intelligence' | relative_url }}">Need To Know : UFOs, the Military and Intelligence</a>” (<a href="{{ '/tags/2006' | relative_url }}">2006</a>) (available <a href="http://www.amazon.com/dp/028307034X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/028307034X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 336 (in Chapter 22) of the Sidgwick &amp; Jackson hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -131,10 +131,10 @@ For discussion of Robert Collins see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p>Hansen, George P in his “The Trickster and the Paranormal” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/1401000827/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1401000827/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 230, 233, 236, 237 of the Xlibris softcover edition.</p>
+<p>Hansen, George P in his “The Trickster and the Paranormal” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/1401000827/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1401000827/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 230, 233, 236, 237 of the Xlibris softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -142,10 +142,10 @@ For discussion of Robert Collins see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/vallee-jacques">Vallee, Jacques</a> in his “<a href="/ufo-history/ufo-books/vallee-jacques-revelations-alien-contact-and-human-deception">Revelations: Alien Contact and Human Deception</a>” (<a href="/tags/1991">1991</a>) (available <a href="http://www.amazon.com/dp/1933665300/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1933665300/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 45, 47 of the Ballantine Books paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/vallee-jacques' | relative_url }}">Vallee, Jacques</a> in his “<a href="{{ '/ufo-history/ufo-books/vallee-jacques-revelations-alien-contact-and-human-deception' | relative_url }}">Revelations: Alien Contact and Human Deception</a>” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/1933665300/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1933665300/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 45, 47 of the Ballantine Books paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

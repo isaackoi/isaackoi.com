@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/rockefeller_laurance_3.jpg"}
 ---
 
-![rockefeller_laurance_3](/images/stories/ufo_personalities/rockefeller_laurance_3.jpg)
+![rockefeller_laurance_3]({{ '/images/stories/ufo_personalities/rockefeller_laurance_3.jpg' | relative_url }})
 
 *Laurance Rockefeller*
 
@@ -37,7 +37,7 @@ The table below includes references to relevant discussions in UFO/SETI books no
 
 Many of the tables of references on this website are considerably longer than the references to books found on most other UFO websites. Indeed, some are probably the longest that have been collated in relation to some events and personalities. I hope that these tables are found to be a useful contribution to UFOlogy.
 
-For discussion of [Laurance Rockefeller](/ufo-history/ufo-personalities/rockefeller-laurance) see the following:
+For discussion of [Laurance Rockefeller]({{ '/ufo-history/ufo-personalities/rockefeller-laurance' | relative_url }}) see the following:
 
 <table border="1" cellpadding="0" cellspacing="0" class="sortable" data-sortable="true" id="sortabletable">
 <thead>
@@ -57,10 +57,10 @@ For discussion of [Laurance Rockefeller](/ufo-history/ufo-personalities/rockefel
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/denzler-brenda">Denzler, Brenda</a> in her “<a href="/ufo-history/ufo-books/denzler-brenda-the-lure-of-the-edge">The Lure of the Edge</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/0520224329/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0520224329/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 26 (in Chapter 1) of the California hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/denzler-brenda' | relative_url }}">Denzler, Brenda</a> in her “<a href="{{ '/ufo-history/ufo-books/denzler-brenda-the-lure-of-the-edge' | relative_url }}">The Lure of the Edge</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/0520224329/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0520224329/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 26 (in Chapter 1) of the California hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -68,10 +68,10 @@ For discussion of [Laurance Rockefeller](/ufo-history/ufo-personalities/rockefel
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2006">2006</a></p>
+<p><a href="{{ '/tags/2006' | relative_url }}">2006</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/greer-steven">Greer, Steven</a> in his “<a href="/ufo-history/ufo-books/greer-steven-hidden-truth-forbidden-knowledge">Hidden Truth – Forbidden Knowledge</a>” (<a href="/tags/2006">2006</a>) (available <a href="http://www.amazon.com/dp/0967323827/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0967323827/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 97, 98 (in Chapter 13), 101-103 (in Chapter 14), 116 (in Chapter 16) of the Crossing Point softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/greer-steven' | relative_url }}">Greer, Steven</a> in his “<a href="{{ '/ufo-history/ufo-books/greer-steven-hidden-truth-forbidden-knowledge' | relative_url }}">Hidden Truth – Forbidden Knowledge</a>” (<a href="{{ '/tags/2006' | relative_url }}">2006</a>) (available <a href="http://www.amazon.com/dp/0967323827/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0967323827/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 97, 98 (in Chapter 13), 101-103 (in Chapter 14), 116 (in Chapter 16) of the Crossing Point softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>6</p>
@@ -79,10 +79,10 @@ For discussion of [Laurance Rockefeller](/ufo-history/ufo-personalities/rockefel
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/kanon-gregory-m">Kanon, Gregory M</a> in his “The Great UFO Hoax” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1880090414/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1880090414/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 111-112, 113 (in Chapter 7) of the Galde Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/kanon-gregory-m' | relative_url }}">Kanon, Gregory M</a> in his “The Great UFO Hoax” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1880090414/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1880090414/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 111-112, 113 (in Chapter 7) of the Galde Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -90,10 +90,10 @@ For discussion of [Laurance Rockefeller](/ufo-history/ufo-personalities/rockefel
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2007">2007</a></p>
+<p><a href="{{ '/tags/2007' | relative_url }}">2007</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/marrs-jim">Marrs, Jim</a> in his “<a href="/ufo-history/ufo-books/marrs-jim-psi-spies-the-true-story-of-americas-psychic-warfare-program">PSI Spies: The True Story of America’s Psychic Warfare Program</a>” (<a href="/tags/2007">2007</a>) (available <a href="http://www.amazon.com/dp/1564149609/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1564149609/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 253 (in Chapter 9) of the New Page Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/marrs-jim' | relative_url }}">Marrs, Jim</a> in his “<a href="{{ '/ufo-history/ufo-books/marrs-jim-psi-spies-the-true-story-of-americas-psychic-warfare-program' | relative_url }}">PSI Spies: The True Story of America’s Psychic Warfare Program</a>” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (available <a href="http://www.amazon.com/dp/1564149609/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1564149609/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 253 (in Chapter 9) of the New Page Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -101,10 +101,10 @@ For discussion of [Laurance Rockefeller](/ufo-history/ufo-personalities/rockefel
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sheaffer-robert">Sheaffer, Robert</a> in his “<a href="/ufo-history/ufo-books/sheaffer-robert-ufo-sightings-the-evidence">UFO Sightings: The Evidence</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/1573922137/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573922137/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 41 (in Chapter 3) of the Prometheus hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sheaffer-robert' | relative_url }}">Sheaffer, Robert</a> in his “<a href="{{ '/ufo-history/ufo-books/sheaffer-robert-ufo-sightings-the-evidence' | relative_url }}">UFO Sightings: The Evidence</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/1573922137/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573922137/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 41 (in Chapter 3) of the Prometheus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -112,10 +112,10 @@ For discussion of [Laurance Rockefeller](/ufo-history/ufo-personalities/rockefel
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p>Teets, Bob in his “<a href="/ufo-history/ufo-books/teets-bob-ufos-and-mental-health">UFOs and Mental Health</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0929915216/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0929915216/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 19 (in Chapter 1) of the Headline Books softcover edition.</p>
+<p>Teets, Bob in his “<a href="{{ '/ufo-history/ufo-books/teets-bob-ufos-and-mental-health' | relative_url }}">UFOs and Mental Health</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0929915216/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0929915216/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 19 (in Chapter 1) of the Headline Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

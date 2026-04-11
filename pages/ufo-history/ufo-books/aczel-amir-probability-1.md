@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0151003769.jpg"}
 book: {"identifiers": ["0151003769", "074348293X", "0387955011"], "primary_isbn": "0151003769", "cover_image": "/book-covers/0151003769.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of Amir Aczel's book “[Probability 1](/ufo-history/ufo-books/aczel-amir-probability-1)” ([1998](/tags/1998)) (available [on Amazon USA](http://www.amazon.com/dp/0151003769/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0151003769/?&tag=ufot-21)) about [SETI](/tags/seti).
+Brief review to be added of Amir Aczel's book “[Probability 1]({{ '/ufo-history/ufo-books/aczel-amir-probability-1' | relative_url }})” ([1998]({{ '/tags/1998' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0151003769/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0151003769/?&tag=ufot-21)) about [SETI]({{ '/tags/seti' | relative_url }}).
 
 1. [Web Resources](#web)
 
@@ -52,10 +52,10 @@ Many of the tables of references on this website are considerably longer than th
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2004">2004</a></p>
+<p><a href="{{ '/tags/2004' | relative_url }}">2004</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/tonnies-mac">Tonnies, Mac</a> in his “<a href="/ufo-history/ufo-books/tonnies-mac-after-the-martian-apocalypse">After the Martian Apocalypse</a>” (<a href="/tags/2004">2004</a>) (available <a href="http://www.amazon.com/dp/074348293X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/074348293X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 255 (in Chapter 11) of the Paraview Pocket Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/tonnies-mac' | relative_url }}">Tonnies, Mac</a> in his “<a href="{{ '/ufo-history/ufo-books/tonnies-mac-after-the-martian-apocalypse' | relative_url }}">After the Martian Apocalypse</a>” (<a href="{{ '/tags/2004' | relative_url }}">2004</a>) (available <a href="http://www.amazon.com/dp/074348293X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/074348293X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 255 (in Chapter 11) of the Paraview Pocket Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -63,10 +63,10 @@ Many of the tables of references on this website are considerably longer than th
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2002">2002</a></p>
+<p><a href="{{ '/tags/2002' | relative_url }}">2002</a></p>
 </td>
 <td valign="top" width="547">
-<p>Webb, Stephen in his “<a href="/ufo-history/ufo-books/webb-stephen-where-is-everybody-fifty-solutions-to-the-fermi-paradox">Where is Everybody?: Fifty Solutions to the Fermi Paradox</a>” (<a href="/tags/2002">2002</a>) (available <a href="http://www.amazon.com/dp/0387955011/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0387955011/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 24 (in Chapter 2) of the Copernicus hardback edition.</p>
+<p>Webb, Stephen in his “<a href="{{ '/ufo-history/ufo-books/webb-stephen-where-is-everybody-fifty-solutions-to-the-fermi-paradox' | relative_url }}">Where is Everybody?: Fifty Solutions to the Fermi Paradox</a>” (<a href="{{ '/tags/2002' | relative_url }}">2002</a>) (available <a href="http://www.amazon.com/dp/0387955011/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0387955011/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 24 (in Chapter 2) of the Copernicus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

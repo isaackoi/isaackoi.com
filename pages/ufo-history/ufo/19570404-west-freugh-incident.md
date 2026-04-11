@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/britain_1.gif"}
 ---
 
-![britain_1](/images/stories/ufo_tags/britain_1.gif)
+![britain_1]({{ '/images/stories/ufo_tags/britain_1.gif' | relative_url }})
 
 *West Freugh incident*
 
@@ -63,10 +63,10 @@ For discussion of the West Freugh radar incident see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2002">2002</a></p>
+<p><a href="{{ '/tags/2002' | relative_url }}">2002</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clarke-david">Clarke, David</a> and <a href="/ufo-history/ufo-personalities/roberts-andy">Roberts, Andy</a> in their “<a href="file:///C:/Users/homelap/Documents/koi/Notes%20active%20files%20-%20videos%20photos%20etc/v">Out Of The Shadows</a>” (<a href="/tags/2002">2002</a>) (available <a href="http://www.amazon.com/dp/0749922907/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0749922907/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 150-155 (in Chapter 7) of the Piatkus hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clarke-david' | relative_url }}">Clarke, David</a> and <a href="{{ '/ufo-history/ufo-personalities/roberts-andy' | relative_url }}">Roberts, Andy</a> in their “<a href="file:///C:/Users/homelap/Documents/koi/Notes%20active%20files%20-%20videos%20photos%20etc/v">Out Of The Shadows</a>” (<a href="{{ '/tags/2002' | relative_url }}">2002</a>) (available <a href="http://www.amazon.com/dp/0749922907/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0749922907/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 150-155 (in Chapter 7) of the Piatkus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>6</p>
@@ -74,10 +74,10 @@ For discussion of the West Freugh radar incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clarke-david">Clarke, David</a> and <a href="/ufo-history/ufo-personalities/roberts-andy">Roberts, Andy</a> in their “<a href="/ufo-history/ufo-books/clarke-david-and-roberts-andy-phantoms-of-the-sky">Phantoms of the Sky</a>: UFOs – A Modern Myth?” (<a href="/tags/1990">1990</a>) (available <a href="http://www.amazon.com/dp/0709040865/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0709040865/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 116-117 (in Chapter 6) of the Hale hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clarke-david' | relative_url }}">Clarke, David</a> and <a href="{{ '/ufo-history/ufo-personalities/roberts-andy' | relative_url }}">Roberts, Andy</a> in their “<a href="{{ '/ufo-history/ufo-books/clarke-david-and-roberts-andy-phantoms-of-the-sky' | relative_url }}">Phantoms of the Sky</a>: UFOs – A Modern Myth?” (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) (available <a href="http://www.amazon.com/dp/0709040865/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0709040865/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 116-117 (in Chapter 6) of the Hale hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -85,10 +85,10 @@ For discussion of the West Freugh radar incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2009">2009</a></p>
+<p><a href="{{ '/tags/2009' | relative_url }}">2009</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clarke-david">Clarke, David</a> in his “<a href="/ufo-history/ufo-books/clarke-david-the-ufo-files-the-inside-story-of-real-life-sightings">The UFO Files : The Inside Story of Real-Life Sightings</a>” (<a href="/tags/2009">2009</a>) (available <a href="http://www.amazon.com/dp/1905615507/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1905615507/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 53-55 (in Chapter 2) of the National Archives softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clarke-david' | relative_url }}">Clarke, David</a> in his “<a href="{{ '/ufo-history/ufo-books/clarke-david-the-ufo-files-the-inside-story-of-real-life-sightings' | relative_url }}">The UFO Files : The Inside Story of Real-Life Sightings</a>” (<a href="{{ '/tags/2009' | relative_url }}">2009</a>) (available <a href="http://www.amazon.com/dp/1905615507/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1905615507/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 53-55 (in Chapter 2) of the National Archives softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -96,10 +96,10 @@ For discussion of the West Freugh radar incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Coomer, David in his “<a href="/ufo-history/ufo-books/coomer-david-the-ufo-investigators-guide">The UFO Investigator’s Guide</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0713727829/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713727829/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 172-176 (in Chapter 12) of the Blandford softback edition.</p>
+<p>Coomer, David in his “<a href="{{ '/ufo-history/ufo-books/coomer-david-the-ufo-investigators-guide' | relative_url }}">The UFO Investigator’s Guide</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0713727829/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713727829/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 172-176 (in Chapter 12) of the Blandford softback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>
@@ -107,10 +107,10 @@ For discussion of the West Freugh radar incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1987">1987</a></p>
+<p><a href="{{ '/tags/1987' | relative_url }}">1987</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/good-timothy">Good, Timothy</a> in his “<a href="/ufo-history/ufo-books/good-timothy-above-top-secret">Above Top Secret</a>” (<a href="/tags/1987">1987</a>) (available <a href="http://www.amazon.com/dp/0688092020/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0688092020/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 47-48 (in Chapter 2) of the Sidgwick &amp; Jackson hardback edition (with the same page numbering in the Guild Publishing hardback edition and the Grafton paperback edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/good-timothy' | relative_url }}">Good, Timothy</a> in his “<a href="{{ '/ufo-history/ufo-books/good-timothy-above-top-secret' | relative_url }}">Above Top Secret</a>” (<a href="{{ '/tags/1987' | relative_url }}">1987</a>) (available <a href="http://www.amazon.com/dp/0688092020/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0688092020/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 47-48 (in Chapter 2) of the Sidgwick &amp; Jackson hardback edition (with the same page numbering in the Guild Publishing hardback edition and the Grafton paperback edition).</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -118,10 +118,10 @@ For discussion of the West Freugh radar incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/good-timothy">Good, Timothy</a> in his “<a href="/ufo-history/ufo-books/good-timothy-beyond-top-secret">Beyond Top Secret</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/0283062452/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0283062452/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 24 (in Chapter 2) of the Sidgwick &amp; Jackson hardback edition (with the same page numbering in the Pan paperback edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/good-timothy' | relative_url }}">Good, Timothy</a> in his “<a href="{{ '/ufo-history/ufo-books/good-timothy-beyond-top-secret' | relative_url }}">Beyond Top Secret</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/0283062452/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0283062452/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 24 (in Chapter 2) of the Sidgwick &amp; Jackson hardback edition (with the same page numbering in the Pan paperback edition).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -129,10 +129,10 @@ For discussion of the West Freugh radar incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/greer-steven">Greer, Steven</a> in his “<a href="/ufo-history/ufo-books/greer-steven-disclosure-military-and-government-witnesses-reveal-the-greatest-secrets-in-modern-history">Disclosure : Military and Government Witnesses Reveal the Greatest Secrets in Modern History</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/0967323819/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0967323819/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 299-300 (in Section 4) of the Crossing Point softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/greer-steven' | relative_url }}">Greer, Steven</a> in his “<a href="{{ '/ufo-history/ufo-books/greer-steven-disclosure-military-and-government-witnesses-reveal-the-greatest-secrets-in-modern-history' | relative_url }}">Disclosure : Military and Government Witnesses Reveal the Greatest Secrets in Modern History</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/0967323819/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0967323819/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 299-300 (in Section 4) of the Crossing Point softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -140,10 +140,10 @@ For discussion of the West Freugh radar incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/halliday-ron">Halliday, Ron</a> in his “UFO Scotland” (<a href="/tags/1998">1998</a>) at pages 243-244 (in Chapter 7) of the B&amp;W softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/halliday-ron' | relative_url }}">Halliday, Ron</a> in his “UFO Scotland” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) at pages 243-244 (in Chapter 7) of the B&amp;W softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -151,10 +151,10 @@ For discussion of the West Freugh radar incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> and <a href="/ufo-history/ufo-personalities/hough-peter">Hough, Peter</a> in their “<a href="/ufo-history/ufo-books/randles-jenny-and-hough-peter-the-complete-book-of-ufos">The Complete Book of UFOs</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/0806981326/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806981326/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 158-159 (in Chapter 12) of the Piatkus softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> and <a href="{{ '/ufo-history/ufo-personalities/hough-peter' | relative_url }}">Hough, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-hough-peter-the-complete-book-of-ufos' | relative_url }}">The Complete Book of UFOs</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/0806981326/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806981326/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 158-159 (in Chapter 12) of the Piatkus softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -162,10 +162,10 @@ For discussion of the West Freugh radar incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 139 (in an entry entitled “British Government Interest in UFOs”) of the Robinson softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 139 (in an entry entitled “British Government Interest in UFOs”) of the Robinson softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -173,10 +173,10 @@ For discussion of the West Freugh radar incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-something-in-the-air">Something in the Air</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0709059744/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0709059744/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 68-69, 70 (in Chapter 5) of the Hale hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-something-in-the-air' | relative_url }}">Something in the Air</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0709059744/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0709059744/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 68-69, 70 (in Chapter 5) of the Hale hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -184,10 +184,10 @@ For discussion of the West Freugh radar incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-the-little-giant-encyclopedia-of-ufos">The Little Giant Encyclopedia of UFOs</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/0806918918/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806918918/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 51 (in Part 1, “A UFO Timeline”), 368-369 (in Part 3, “UFOs Worldwide”) of the Sterling softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-the-little-giant-encyclopedia-of-ufos' | relative_url }}">The Little Giant Encyclopedia of UFOs</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/0806918918/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806918918/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 51 (in Part 1, “A UFO Timeline”), 368-369 (in Part 3, “UFOs Worldwide”) of the Sterling softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -195,10 +195,10 @@ For discussion of the West Freugh radar incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “UFO Crash Landing? Friend or Foe?” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0713726555/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713726555/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 155 (in Chapter 13) of the Blandford softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “UFO Crash Landing? Friend or Foe?” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0713726555/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713726555/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 155 (in Chapter 13) of the Blandford softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -206,10 +206,10 @@ For discussion of the West Freugh radar incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-ufos-and-how-to-see-them">UFOs and How to See Them</a>” (<a href="/tags/1992">1992</a>) (available <a href="http://www.amazon.com/dp/0760705496/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0760705496/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 100 (in Chapter 4) of the Brockhampton Press hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-ufos-and-how-to-see-them' | relative_url }}">UFOs and How to See Them</a>” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="http://www.amazon.com/dp/0760705496/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0760705496/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 100 (in Chapter 4) of the Brockhampton Press hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -217,10 +217,10 @@ For discussion of the West Freugh radar incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/redfern-nicholas">Redfern, Nicholas</a> in his “<a href="/ufo-history/ufo-books/redfern-nicholas-a-covert-agenda">A Covert Agenda</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0671005324/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0671005324/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 63-66 (in Chapter 6) of the Simon &amp; Schuster hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/redfern-nicholas' | relative_url }}">Redfern, Nicholas</a> in his “<a href="{{ '/ufo-history/ufo-books/redfern-nicholas-a-covert-agenda' | relative_url }}">A Covert Agenda</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0671005324/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0671005324/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 63-66 (in Chapter 6) of the Simon &amp; Schuster hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -228,10 +228,10 @@ For discussion of the West Freugh radar incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p>Ritchie, David in his “<a href="/ufo-history/ufo-books/ritchie-david-ufo-the-definitive-guide">UFO : The Definitive Guide</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/1567312004/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1567312004/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 235-236 (in an entry entitled “West Freugh incident, United Kingdom”) of the MJF hardback edition.</p>
+<p>Ritchie, David in his “<a href="{{ '/ufo-history/ufo-books/ritchie-david-ufo-the-definitive-guide' | relative_url }}">UFO : The Definitive Guide</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/1567312004/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1567312004/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 235-236 (in an entry entitled “West Freugh incident, United Kingdom”) of the MJF hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -243,7 +243,7 @@ For discussion of the West Freugh radar incident see the following:
 <a id="other"></a>
 ### Other Material
 
-Listed as Project Blue Book Case Number 4713 on the redacted US National Archives and Records Administration (“NARA”) microfilm records of Project Blue Book, released to the National Archives in [1975](/tags/1975) – see National Archives Microfilm Publication T1206 roll number 1. An image of the relevant index page has been given the unique Page ID (“PID”) of NARA-PBB1-164 (page 164 of 1014) at the link below.
+Listed as Project Blue Book Case Number 4713 on the redacted US National Archives and Records Administration (“NARA”) microfilm records of Project Blue Book, released to the National Archives in [1975]({{ '/tags/1975' | relative_url }}) – see National Archives Microfilm Publication T1206 roll number 1. An image of the relevant index page has been given the unique Page ID (“PID”) of NARA-PBB1-164 (page 164 of 1014) at the link below.
 
 Listed (without a Project Blue Book Case Number) on the unredacted Maxwell Air Force Base (“Maxwell”) microfilm records of Project Blue Book – see Maxwell microfilm roll number 30,363. An image of the relevant index page has been given the unique Page ID (“PID”) of MAXW-PBB2-397 (page 397 of 1352) at the link below.
 

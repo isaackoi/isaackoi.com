@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0940829029.jpg"}
 book: {"identifiers": ["0940829029"], "primary_isbn": "0940829029", "cover_image": "/book-covers/0940829029.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of Gregory Little's book “[People of the Web](/ufo-history/ufo-books/little-gregory-people-of-the-web)” ([1990](/tags/1990)) (available [on Amazon USA](http://www.amazon.com/dp/0940829029/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0940829029/?&tag=ufot-21))
+Brief review to be added of Gregory Little's book “[People of the Web]({{ '/ufo-history/ufo-books/little-gregory-people-of-the-web' | relative_url }})” ([1990]({{ '/tags/1990' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0940829029/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0940829029/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="547">
-<p>Raynes, Brent in Gregory Little’s “<a href="/ufo-history/ufo-books/little-gregory-people-of-the-web">People of the Web</a>” (<a href="/tags/1990">1990</a>) (available <a href="http://www.amazon.com/dp/0940829029/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0940829029/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 1-2 (in the Foreword), 203 (in the Afterword) of the White Buffalo softcover edition.</p>
+<p>Raynes, Brent in Gregory Little’s “<a href="{{ '/ufo-history/ufo-books/little-gregory-people-of-the-web' | relative_url }}">People of the Web</a>” (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) (available <a href="http://www.amazon.com/dp/0940829029/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0940829029/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 1-2 (in the Foreword), 203 (in the Afterword) of the White Buffalo softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -65,10 +65,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/schwarz-berthold-e">Schwarz, Berthold E</a> in Gregory Little’s “<a href="/ufo-history/ufo-books/little-gregory-people-of-the-web">People of the Web</a>” (<a href="/tags/1990">1990</a>) (available <a href="http://www.amazon.com/dp/0940829029/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0940829029/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 3-20 (in the Introduction) of the White Buffalo softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/schwarz-berthold-e' | relative_url }}">Schwarz, Berthold E</a> in Gregory Little’s “<a href="{{ '/ufo-history/ufo-books/little-gregory-people-of-the-web' | relative_url }}">People of the Web</a>” (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) (available <a href="http://www.amazon.com/dp/0940829029/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0940829029/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 3-20 (in the Introduction) of the White Buffalo softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>18</p>

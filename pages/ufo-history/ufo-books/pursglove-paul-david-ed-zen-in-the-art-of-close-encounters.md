@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0963869108.jpg"}
 book: {"identifiers": ["0963869108"], "primary_isbn": "0963869108", "cover_image": "/book-covers/0963869108.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of "[Zen in the Art of Close Encounters](/ufo-history/ufo-books/pursglove-paul-david-ed-zen-in-the-art-of-close-encounters)” ([1995](/tags/1995)) (available [on Amazon USA](http://www.amazon.com/dp/0963869108/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0963869108/?&tag=ufot-21)) edited by Paul David Pursglove.
+Brief review to be added of "[Zen in the Art of Close Encounters]({{ '/ufo-history/ufo-books/pursglove-paul-david-ed-zen-in-the-art-of-close-encounters' | relative_url }})” ([1995]({{ '/tags/1995' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0963869108/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0963869108/?&tag=ufot-21)) edited by Paul David Pursglove.
 
 1. [Web Resources](#web)
 

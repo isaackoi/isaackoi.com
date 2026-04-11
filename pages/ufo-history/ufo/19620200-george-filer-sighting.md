@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/britain_1.gif"}
 ---
 
-![britain_1](/images/stories/ufo_tags/britain_1.gif)
+![britain_1]({{ '/images/stories/ufo_tags/britain_1.gif' | relative_url }})
 
 *George Filer sighting*
 
@@ -27,7 +27,7 @@ George Filer
 
 claims to have seen (visually and on radar) a UFO over England whilst in a KB-50 J tanker aircraft.
 
-See main entry on [George Filer](/ufo-history/ufo-personalities/filer-george).
+See main entry on [George Filer]({{ '/ufo-history/ufo-personalities/filer-george' | relative_url }}).
 
 Sections below
 
@@ -45,7 +45,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-See main entry on [George Filer](/ufo-history/ufo-personalities/filer-george).
+See main entry on [George Filer]({{ '/ufo-history/ufo-personalities/filer-george' | relative_url }}).
 
 <a id="other"></a>
 ### Other Material

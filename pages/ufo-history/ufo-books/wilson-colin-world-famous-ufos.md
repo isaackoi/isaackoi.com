@@ -14,7 +14,7 @@ header: {"preview_image": "https://covers.openlibrary.org/b/isbn/0752517856-L.jp
 book: {"identifiers": ["0752517856"], "primary_isbn": "0752517856", "cover_image": "https://covers.openlibrary.org/b/isbn/0752517856-L.jpg?default=false", "cover_source": "openlibrary"}
 ---
 
-Brief review to be added of [Colin Wilson](/ufo-history/ufo-personalities/wilson-colin)'s book “[World Famous UFOs](/ufo-history/ufo-books/wilson-colin-world-famous-ufos)” ([1996](/tags/1996)) (available [on Amazon USA](http://www.amazon.com/dp/0752517856/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0752517856/?&tag=ufot-21))
+Brief review to be added of [Colin Wilson]({{ '/ufo-history/ufo-personalities/wilson-colin' | relative_url }})'s book “[World Famous UFOs]({{ '/ufo-history/ufo-books/wilson-colin-world-famous-ufos' | relative_url }})” ([1996]({{ '/tags/1996' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0752517856/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0752517856/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

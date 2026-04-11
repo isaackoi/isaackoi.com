@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0971394237.jpg"}
 book: {"identifiers": ["0971394237"], "primary_isbn": "0971394237", "cover_image": "/book-covers/0971394237.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of Gary Valentine Lachman's book “[Turn Off Your Mind](/ufo-history/ufo-books/lachman-gary-valentine-turn-off-your-mind)” ([2001](/tags/2001)) (available [on Amazon USA](http://www.amazon.com/dp/0971394237/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0971394237/?&tag=ufot-21))
+Brief review to be added of Gary Valentine Lachman's book “[Turn Off Your Mind]({{ '/ufo-history/ufo-books/lachman-gary-valentine-turn-off-your-mind' | relative_url }})” ([2001]({{ '/tags/2001' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0971394237/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0971394237/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

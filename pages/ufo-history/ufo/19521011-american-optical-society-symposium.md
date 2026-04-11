@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -71,10 +71,10 @@ For discussion of the relevant symposium see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/denzler-brenda">Denzler, Brenda</a> in her “<a href="/ufo-history/ufo-books/denzler-brenda-the-lure-of-the-edge">The Lure of the Edge</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/0520224329/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0520224329/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 73 (in Chapter 3) of the California hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/denzler-brenda' | relative_url }}">Denzler, Brenda</a> in her “<a href="{{ '/ufo-history/ufo-books/denzler-brenda-the-lure-of-the-edge' | relative_url }}">The Lure of the Edge</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/0520224329/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0520224329/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 73 (in Chapter 3) of the California hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -82,10 +82,10 @@ For discussion of the relevant symposium see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1975">1975</a></p>
+<p><a href="{{ '/tags/1975' | relative_url }}">1975</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/jacobs-david-michael">Jacobs, David Michael</a> in his “<a href="/ufo-history/ufo-books/jacobs-david-michael-the-ufo-controversy-in-america">The UFO Controversy in America</a>” (<a href="/tags/1975">1975</a>) (available <a href="http://www.amazon.com/dp/0253190061/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0253190061/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 85-86 (in Chapter 3) of the Indiana hardback edition, pages 74-75 of the Signet paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/jacobs-david-michael' | relative_url }}">Jacobs, David Michael</a> in his “<a href="{{ '/ufo-history/ufo-books/jacobs-david-michael-the-ufo-controversy-in-america' | relative_url }}">The UFO Controversy in America</a>” (<a href="{{ '/tags/1975' | relative_url }}">1975</a>) (available <a href="http://www.amazon.com/dp/0253190061/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0253190061/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 85-86 (in Chapter 3) of the Indiana hardback edition, pages 74-75 of the Signet paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -93,10 +93,10 @@ For discussion of the relevant symposium see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1953">1953</a></p>
+<p><a href="{{ '/tags/1953' | relative_url }}">1953</a></p>
 </td>
 <td valign="top" width="547">
-<p>Project Blue Book Status Report Number 9 (<a href="/tags/1953">1953</a>.0131) at pages 3-4 (in Section 1.F3). Complete images of relevant report included on the redacted National Archives Microfilm Publication T1206 roll number 85 (“Administrative Files: Box 1”), at the link below from the page with the unique Page ID (“PID”) of NARA-PBB85-714 (page 714 of 915) to the page with the PID of NARA-PBB85-761 (page 761 of 915). Complete images of relevant report included on the unredacted Maxwell Air Force Base microfilm roll number 30,362, at the link below from the page with the PID of MAXW-PBB1-687 (page 687 of 1537) to the page with the PID of MAXW-PBB1-734 (page 734 of 1537). Images of complete text of relevant report available free online as a downloadable pdf file from the download section of the website at the link below.</p>
+<p>Project Blue Book Status Report Number 9 (<a href="{{ '/tags/1953' | relative_url }}">1953</a>.0131) at pages 3-4 (in Section 1.F3). Complete images of relevant report included on the redacted National Archives Microfilm Publication T1206 roll number 85 (“Administrative Files: Box 1”), at the link below from the page with the unique Page ID (“PID”) of NARA-PBB85-714 (page 714 of 915) to the page with the PID of NARA-PBB85-761 (page 761 of 915). Complete images of relevant report included on the unredacted Maxwell Air Force Base microfilm roll number 30,362, at the link below from the page with the PID of MAXW-PBB1-687 (page 687 of 1537) to the page with the PID of MAXW-PBB1-734 (page 734 of 1537). Images of complete text of relevant report available free online as a downloadable pdf file from the download section of the website at the link below.</p>
 <p><a href="http://www.bluebookarchive.org">http://www.bluebookarchive.org</a></p>
 </td>
 <td valign="top" width="52">

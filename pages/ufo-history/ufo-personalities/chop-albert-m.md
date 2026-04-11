@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/chop_al_2.jpg"}
 ---
 
-![chop_al_2](/images/stories/ufo_personalities/chop_al_2.jpg)
+![chop_al_2]({{ '/images/stories/ufo_personalities/chop_al_2.jpg' | relative_url }})
 
 *Al Chop*
 
@@ -59,10 +59,10 @@ For discussion of Chop see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1967">1967</a></p>
+<p><a href="{{ '/tags/1967' | relative_url }}">1967</a></p>
 </td>
 <td valign="top" width="547">
-<p>Chambers, Howard in his “<a href="/ufo-history/ufo-books/chambers-howard-ufos-for-the-millions">UFOs for the millions</a>” (<a href="/tags/1967">1967</a>) (available <a href="http://www.amazon.com/dp/054838844X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/054838844X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 109-110 (in Chapter 8) of the Bell hardcover edition.</p>
+<p>Chambers, Howard in his “<a href="{{ '/ufo-history/ufo-books/chambers-howard-ufos-for-the-millions' | relative_url }}">UFOs for the millions</a>” (<a href="{{ '/tags/1967' | relative_url }}">1967</a>) (available <a href="http://www.amazon.com/dp/054838844X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/054838844X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 109-110 (in Chapter 8) of the Bell hardcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -70,10 +70,10 @@ For discussion of Chop see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1976">1976</a></p>
+<p><a href="{{ '/tags/1976' | relative_url }}">1976</a></p>
 </td>
 <td valign="top" width="547">
-<p>Flammonde, Paris in his “<a href="/ufo-history/ufo-books/flammonde-paris-ufo-exist">Ufo Exist!</a>” (<a href="/tags/1976">1976</a>) (available <a href="http://www.amazon.com/dp/0345339517/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0345339517/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 150 (in Chapter 8) of the Ballantine Books paperback edition.</p>
+<p>Flammonde, Paris in his “<a href="{{ '/ufo-history/ufo-books/flammonde-paris-ufo-exist' | relative_url }}">Ufo Exist!</a>” (<a href="{{ '/tags/1976' | relative_url }}">1976</a>) (available <a href="http://www.amazon.com/dp/0345339517/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0345339517/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 150 (in Chapter 8) of the Ballantine Books paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -81,10 +81,10 @@ For discussion of Chop see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/hall-michael-david">Hall, Michael David</a> and <a href="/ufo-history/ufo-personalities/connors-wendy-ann">Connors, Wendy Ann</a> in their “<a href="/ufo-history/ufo-books/hall-michael-david-and-connors-wendy-ann-captain-edward-j-ruppelt">Captain Edward J Ruppelt : Summer of the Saucers - 1952</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/0970505507/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0970505507/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 161-162 (in Chapter 5), 171-172, 173 (in Chapter 6), 217, 228-229 (in the Conclusion) of the Rose Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hall-michael-david' | relative_url }}">Hall, Michael David</a> and <a href="{{ '/ufo-history/ufo-personalities/connors-wendy-ann' | relative_url }}">Connors, Wendy Ann</a> in their “<a href="{{ '/ufo-history/ufo-books/hall-michael-david-and-connors-wendy-ann-captain-edward-j-ruppelt' | relative_url }}">Captain Edward J Ruppelt : Summer of the Saucers - 1952</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/0970505507/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0970505507/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 161-162 (in Chapter 5), 171-172, 173 (in Chapter 6), 217, 228-229 (in the Conclusion) of the Rose Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>8</p>
@@ -92,10 +92,10 @@ For discussion of Chop see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/hall-michael-david">Hall, Michael David</a> in his “<a href="/ufo-history/ufo-books/hall-michael-david-ufos-a-century-of-sightings">UFOs : A Century of Sightings</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/1880090627/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1880090627/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 191-193 (in Chapter 4) of the Galde Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hall-michael-david' | relative_url }}">Hall, Michael David</a> in his “<a href="{{ '/ufo-history/ufo-books/hall-michael-david-ufos-a-century-of-sightings' | relative_url }}">UFOs : A Century of Sightings</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/1880090627/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1880090627/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 191-193 (in Chapter 4) of the Galde Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -103,10 +103,10 @@ For discussion of Chop see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1970">1970</a></p>
+<p><a href="{{ '/tags/1970' | relative_url }}">1970</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/keel-john-a">Keel, John A</a> in his “<a href="/ufo-history/ufo-books/keel-john-a-ufos-operation-trojan-horse">UFOs: Operation Trojan Horse</a>” (<a href="/tags/1970">1970</a>) (available <a href="http://www.amazon.com/dp/0962653462/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0962653462/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 43 (in Chapter 2) of the Souvenir Press hardback edition (with the same page numbering in the Abacus softcover edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/keel-john-a' | relative_url }}">Keel, John A</a> in his “<a href="{{ '/ufo-history/ufo-books/keel-john-a-ufos-operation-trojan-horse' | relative_url }}">UFOs: Operation Trojan Horse</a>” (<a href="{{ '/tags/1970' | relative_url }}">1970</a>) (available <a href="http://www.amazon.com/dp/0962653462/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0962653462/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 43 (in Chapter 2) of the Souvenir Press hardback edition (with the same page numbering in the Abacus softcover edition).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -114,10 +114,10 @@ For discussion of Chop see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1953">1953</a></p>
+<p><a href="{{ '/tags/1953' | relative_url }}">1953</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/keyhoe-donald-e">Keyhoe, Donald E</a> in his “<a href="/ufo-history/ufo-books/keyhoe-donald-e-flying-saucers-from-outer-space">Flying Saucers from Outer Space</a>” (<a href="/tags/1953">1953</a>), particularly at pages 247, 248 (in Chapter 14) of the Henry Holt hardback edition, pages 243, 245 of the Tandem paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/keyhoe-donald-e' | relative_url }}">Keyhoe, Donald E</a> in his “<a href="{{ '/ufo-history/ufo-books/keyhoe-donald-e-flying-saucers-from-outer-space' | relative_url }}">Flying Saucers from Outer Space</a>” (<a href="{{ '/tags/1953' | relative_url }}">1953</a>), particularly at pages 247, 248 (in Chapter 14) of the Henry Holt hardback edition, pages 243, 245 of the Tandem paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -125,10 +125,10 @@ For discussion of Chop see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p>Michaels, Susan in her “<a href="/ufo-history/ufo-books/michaels-susan-sightings-ufos">Sightings: UFOs</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0684836300/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684836300/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 20-21 (in the unnumbered chapter entitled “Saucers over Washington”) of the Fireside softcover edition.</p>
+<p>Michaels, Susan in her “<a href="{{ '/ufo-history/ufo-books/michaels-susan-sightings-ufos' | relative_url }}">Sightings: UFOs</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0684836300/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684836300/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 20-21 (in the unnumbered chapter entitled “Saucers over Washington”) of the Fireside softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -136,10 +136,10 @@ For discussion of Chop see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2002">2002</a></p>
+<p><a href="{{ '/tags/2002' | relative_url }}">2002</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/moseley-james">Moseley, James</a> and <a href="/ufo-history/ufo-personalities/pflock-karl-t">Pflock, Karl</a> in their “<a href="/ufo-history/ufo-books/moseley-james-and-pflock-karl-shockingly-close-to-the-truth">Shockingly Close to the Truth!</a>” (<a href="/tags/2002">2002</a>) (available <a href="http://www.amazon.com/dp/1573929913/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573929913/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 80, 81, 82-83, 84 (in Chapter 3) of the Prometheus hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/moseley-james' | relative_url }}">Moseley, James</a> and <a href="{{ '/ufo-history/ufo-personalities/pflock-karl-t' | relative_url }}">Pflock, Karl</a> in their “<a href="{{ '/ufo-history/ufo-books/moseley-james-and-pflock-karl-shockingly-close-to-the-truth' | relative_url }}">Shockingly Close to the Truth!</a>” (<a href="{{ '/tags/2002' | relative_url }}">2002</a>) (available <a href="http://www.amazon.com/dp/1573929913/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573929913/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 80, 81, 82-83, 84 (in Chapter 3) of the Prometheus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>
@@ -147,10 +147,10 @@ For discussion of Chop see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sachs-margaret">Sachs, Margaret</a> in her “<a href="/ufo-history/ufo-books/sachs-margaret-the-ufo-encyclopedia">The UFO Encyclopedia</a>“ (<a href="/tags/1980">1980</a> (available <a href="http://www.amazon.com/dp/0399124217/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0399124217/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 61-62 (in an entry entitled “<a href="/ufo-history/ufo-personalities/chop-albert-m">Chop, Albert M</a>”) of the Corgi softback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sachs-margaret' | relative_url }}">Sachs, Margaret</a> in her “<a href="{{ '/ufo-history/ufo-books/sachs-margaret-the-ufo-encyclopedia' | relative_url }}">The UFO Encyclopedia</a>“ (<a href="{{ '/tags/1980' | relative_url }}">1980</a> (available <a href="http://www.amazon.com/dp/0399124217/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0399124217/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 61-62 (in an entry entitled “<a href="{{ '/ufo-history/ufo-personalities/chop-albert-m' | relative_url }}">Chop, Albert M</a>”) of the Corgi softback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

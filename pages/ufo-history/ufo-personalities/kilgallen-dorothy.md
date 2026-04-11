@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/kilgallen_dorothy_1.jpg"}
 ---
 
-![kilgallen_dorothy_1](/images/stories/ufo_personalities/kilgallen_dorothy_1.jpg)
+![kilgallen_dorothy_1]({{ '/images/stories/ufo_personalities/kilgallen_dorothy_1.jpg' | relative_url }})
 
 *Dorothy Kilgallen*
 

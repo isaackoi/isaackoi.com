@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0749922907.jpg"}
 book: {"identifiers": ["0749922907"], "primary_isbn": "0749922907", "cover_image": "/book-covers/0749922907.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [David Clarke](/ufo-history/ufo-personalities/clarke-david) and [Andy Roberts](/ufo-history/ufo-personalities/roberts-andy)' book “[Out Of The Shadows](file://helios/users/thomas/personal/ufo/Notes%20active%20files%20-%20videos%20photos%20etc/v)” ([2002](/tags/2002)) (available [on Amazon USA](http://www.amazon.com/dp/0749922907/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0749922907/?&tag=ufot-21))
+Brief review to be added of [David Clarke]({{ '/ufo-history/ufo-personalities/clarke-david' | relative_url }}) and [Andy Roberts]({{ '/ufo-history/ufo-personalities/roberts-andy' | relative_url }})' book “[Out Of The Shadows](file://helios/users/thomas/personal/ufo/Notes%20active%20files%20-%20videos%20photos%20etc/v)” ([2002]({{ '/tags/2002' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0749922907/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0749922907/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

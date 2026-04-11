@@ -40,7 +40,7 @@ This video appears to show a very large stereotypical flying saucer lifting off 
 
 Screen shots from the video are included below for ease of identification:
 
-![](/images/stories/ufo_videos/video078_1.JPG)
+![]({{ '/images/stories/ufo_videos/video078_1.JPG' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this video
@@ -71,4 +71,4 @@ TimelessDimensions has also uploaded various other joke videos, including videos
 
 This video has been posted on Facebook, including [on the "FUFON (Fun UFO Network") page](https://www.facebook.com/video.php?v=776148372457236), and shared extensively. Most (but not all...) people appear to recognise it as a simple joke.
 
-![](/images/stories/ufo_videos/video078_1d.jpg)
+![]({{ '/images/stories/ufo_videos/video078_1d.jpg' | relative_url }})

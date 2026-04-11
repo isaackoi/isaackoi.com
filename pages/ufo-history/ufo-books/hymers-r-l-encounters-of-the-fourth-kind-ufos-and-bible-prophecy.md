@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/075251217X.jpg"}
 book: {"identifiers": ["B00071GWAY", "075251217X"], "primary_isbn": "075251217X", "cover_image": "/book-covers/075251217X.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of “[Encounters of the Fourth Kind: UFOs and Bible Prophecy](/ufo-history/ufo-books/hymers-r-l-encounters-of-the-fourth-kind-ufos-and-bible-prophecy)” ([1976](/tags/1976)) (available [on Amazon USA](http://www.amazon.com/dp/B00071GWAY/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B00071GWAY/?&tag=ufot-21)) by R L Hymers.
+Brief review to be added of “[Encounters of the Fourth Kind: UFOs and Bible Prophecy]({{ '/ufo-history/ufo-books/hymers-r-l-encounters-of-the-fourth-kind-ufos-and-bible-prophecy' | relative_url }})” ([1976]({{ '/tags/1976' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/B00071GWAY/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B00071GWAY/?&tag=ufot-21)) by R L Hymers.
 
 Formerly entitled “UFOs and Bible Prophecy”.
 
@@ -56,10 +56,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p>Marvels and Mysteries (Editors Of) in “Marvels and Mysteries: Aliens” (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/075251217X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/075251217X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 92-93 of the Parrallel softcover edition.</p>
+<p>Marvels and Mysteries (Editors Of) in “Marvels and Mysteries: Aliens” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/075251217X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/075251217X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 92-93 of the Parrallel softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

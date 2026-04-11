@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/britain_1.gif"}
 ---
 
-![britain_1](/images/stories/ufo_tags/britain_1.gif)
+![britain_1]({{ '/images/stories/ufo_tags/britain_1.gif' | relative_url }})
 
 *Stephen Pratt photos*
 
@@ -63,10 +63,10 @@ For discussion of Stephen Pratt see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1986">1986</a></p>
+<p><a href="{{ '/tags/1986' | relative_url }}">1986</a></p>
 </td>
 <td valign="top" width="547">
-<p>Blundell, Nigel and Boar, Roger in their “<a href="/ufo-history/ufo-books/blundell-nigel-and-boar-roger-the-worlds-greatest-ufo-mysteries">The World’s Greatest UFO Mysteries</a>” (<a href="/tags/1986">1986</a>) (available <a href="http://www.amazon.com/dp/0600572293/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0600572293/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 33 (in the chapter entitled “Encounters of the Worlwide Kind”) of the Octopus hardback edition (with the same page numbering in the Hamlyn softcover edition).</p>
+<p>Blundell, Nigel and Boar, Roger in their “<a href="{{ '/ufo-history/ufo-books/blundell-nigel-and-boar-roger-the-worlds-greatest-ufo-mysteries' | relative_url }}">The World’s Greatest UFO Mysteries</a>” (<a href="{{ '/tags/1986' | relative_url }}">1986</a>) (available <a href="http://www.amazon.com/dp/0600572293/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0600572293/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 33 (in the chapter entitled “Encounters of the Worlwide Kind”) of the Octopus hardback edition (with the same page numbering in the Hamlyn softcover edition).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -74,10 +74,10 @@ For discussion of Stephen Pratt see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1969">1969</a></p>
+<p><a href="{{ '/tags/1969' | relative_url }}">1969</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/chapman-robert">Chapman, Robert</a> in his “<a href="/ufo-history/ufo-books/chapman-robert-ufo-flying-saucers-over-britain">UFO : Flying Saucers Over Britain?</a>” (<a href="/tags/1969">1969</a>) (also published as “Unidentified Flying Objects”) (available <a href="http://www.amazon.com/dp/B000C0L3W2/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000C0L3W2/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 90-91 (in Chapter 7) of the Mayflower paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/chapman-robert' | relative_url }}">Chapman, Robert</a> in his “<a href="{{ '/ufo-history/ufo-books/chapman-robert-ufo-flying-saucers-over-britain' | relative_url }}">UFO : Flying Saucers Over Britain?</a>” (<a href="{{ '/tags/1969' | relative_url }}">1969</a>) (also published as “Unidentified Flying Objects”) (available <a href="http://www.amazon.com/dp/B000C0L3W2/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000C0L3W2/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 90-91 (in Chapter 7) of the Mayflower paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -85,10 +85,10 @@ For discussion of Stephen Pratt see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encounters">UFO Encounters</a>” (<a href="/tags/1992">1992</a>) (available <a href="http://www.amazon.com/dp/1561736058/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1561736058/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 102 (in the unnumbered chapter entitled “Into the Wild Blue”) of the Publications International hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encounters' | relative_url }}">UFO Encounters</a>” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="http://www.amazon.com/dp/1561736058/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1561736058/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 102 (in the unnumbered chapter entitled “Into the Wild Blue”) of the Publications International hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -96,10 +96,10 @@ For discussion of Stephen Pratt see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p>Hoggart, Simon &amp; Hutchinson, Mike in their “<a href="/ufo-history/ufo-books/hoggart-simon-and-hutchinson-mike-bizarre-beliefs">Bizarre Beliefs</a>” (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/1860660223/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1860660223/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 16-17 (in the Introduction) of the Richard Cohen Books softcover edition.</p>
+<p>Hoggart, Simon &amp; Hutchinson, Mike in their “<a href="{{ '/ufo-history/ufo-books/hoggart-simon-and-hutchinson-mike-bizarre-beliefs' | relative_url }}">Bizarre Beliefs</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/1860660223/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1860660223/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 16-17 (in the Introduction) of the Richard Cohen Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -107,10 +107,10 @@ For discussion of Stephen Pratt see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1979">1979</a></p>
+<p><a href="{{ '/tags/1979' | relative_url }}">1979</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> and <a href="/ufo-history/ufo-personalities/warrington-peter">Warrington, Peter</a> in their “<a href="/ufo-history/ufo-books/randles-jenny-and-warrington-peter-ufos-a-british-viewpoint">UFOs : A British Viewpoint</a>” (<a href="/tags/1979">1979</a>) (available <a href="http://www.amazon.com/dp/0709174667/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0709174667/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 90-91 (in Chapter 6) of the Book Club Associates hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> and <a href="{{ '/ufo-history/ufo-personalities/warrington-peter' | relative_url }}">Warrington, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-warrington-peter-ufos-a-british-viewpoint' | relative_url }}">UFOs : A British Viewpoint</a>” (<a href="{{ '/tags/1979' | relative_url }}">1979</a>) (available <a href="http://www.amazon.com/dp/0709174667/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0709174667/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 90-91 (in Chapter 6) of the Book Club Associates hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -118,10 +118,10 @@ For discussion of Stephen Pratt see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1976">1976</a></p>
+<p><a href="{{ '/tags/1976' | relative_url }}">1976</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/shuttlewood-arthur">Shuttlewood, Arthur</a> in his “The Flying Saucerers” (<a href="/tags/1976">1976</a>) (available <a href="http://www.amazon.com/dp/0722178077/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0722178077/ref=nosim?tag=ufot-21">on Amazon UK</a>) at photographic plate number 5 (in the photographic section) of the Sphere paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/shuttlewood-arthur' | relative_url }}">Shuttlewood, Arthur</a> in his “The Flying Saucerers” (<a href="{{ '/tags/1976' | relative_url }}">1976</a>) (available <a href="http://www.amazon.com/dp/0722178077/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0722178077/ref=nosim?tag=ufot-21">on Amazon UK</a>) at photographic plate number 5 (in the photographic section) of the Sphere paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -129,10 +129,10 @@ For discussion of Stephen Pratt see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1979">1979</a></p>
+<p><a href="{{ '/tags/1979' | relative_url }}">1979</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/shuttlewood-arthur">Shuttlewood, Arthur</a> in his “UFO Magic in Motion” (<a href="/tags/1979">1979</a>) (available <a href="http://www.amazon.com/dp/0722178085/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0722178085/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 187-189 (in Chapter 9) of the Sphere paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/shuttlewood-arthur' | relative_url }}">Shuttlewood, Arthur</a> in his “UFO Magic in Motion” (<a href="{{ '/tags/1979' | relative_url }}">1979</a>) (available <a href="http://www.amazon.com/dp/0722178085/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0722178085/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 187-189 (in Chapter 9) of the Sphere paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -140,10 +140,10 @@ For discussion of Stephen Pratt see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/watts-alan">Watts, Alan</a> in his “<a href="/ufo-history/ufo-books/watts-alan-ufo-quest">UFO Quest</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/0713724498/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713724498/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 94-95, 96 (in Chapter 9) of the Blandford softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/watts-alan' | relative_url }}">Watts, Alan</a> in his “<a href="{{ '/ufo-history/ufo-books/watts-alan-ufo-quest' | relative_url }}">UFO Quest</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/0713724498/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713724498/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 94-95, 96 (in Chapter 9) of the Blandford softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>

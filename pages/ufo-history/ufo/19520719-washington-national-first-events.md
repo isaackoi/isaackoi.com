@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_timeline/19520700_washington_1.jpg"}
 ---
 
-![19520700_washington_1](/images/stories/ufo_timeline/19520700_washington_1.jpg)
+![19520700_washington_1]({{ '/images/stories/ufo_timeline/19520700_washington_1.jpg' | relative_url }})
 
 *Washington National first events*
 
@@ -47,13 +47,13 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-Image, and text, of relevant SPOT Intelligence Report dated [1952](/tags/1952).0723 included by [Hall, Richard](/ufo-history/ufo-personalities/hall-richard-h) in his “[Uninvited Guests](/ufo-history/ufo-books/hall-richard-uninvited-guests)” ([1988](/tags/1988)) (available [on Amazon USA](http://www.amazon.com/dp/0943358329/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0943358329/ref=nosim?tag=ufot-21)) at pages 331-335 (in Appendix B) of the Aurora Press paperback edition.
+Image, and text, of relevant SPOT Intelligence Report dated [1952]({{ '/tags/1952' | relative_url }}).0723 included by [Hall, Richard]({{ '/ufo-history/ufo-personalities/hall-richard-h' | relative_url }}) in his “[Uninvited Guests]({{ '/ufo-history/ufo-books/hall-richard-uninvited-guests' | relative_url }})” ([1988]({{ '/tags/1988' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0943358329/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0943358329/ref=nosim?tag=ufot-21)) at pages 331-335 (in Appendix B) of the Aurora Press paperback edition.
 
 The table below includes references to relevant discussions in UFO/SETI books noted by Isaac Koi during a review of approximately 963 UFO/SETI books during the period 2003-2006 (with a few later additions). The table can be sorted by author, date and length of discussion by clicking on the relevant word in the top line of the table.
 
 Many of the tables of references on this website are considerably longer than the references to books found on most other UFO websites. Indeed, some are probably the longest that have been collated in relation to some events and personalities. I hope that these tables are found to be a useful contribution to UFOlogy.
 
-For discussion of the Washington Nationals sightings generally, see the [relevant main entry](/ufo-history/ufo/19520700-washington-national-sightings).
+For discussion of the Washington Nationals sightings generally, see the [relevant main entry]({{ '/ufo-history/ufo/19520700-washington-national-sightings' | relative_url }}).
 
 For discussion of the Washington sightings of 19<sup>th</sup>/20<sup>th</sup> July see the following:
 
@@ -75,10 +75,10 @@ For discussion of the Washington sightings of 19<sup>th</sup>/20<sup>th</sup> Ju
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2005">2005</a></p>
+<p><a href="{{ '/tags/2005' | relative_url }}">2005</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/bennett-colin">Bennett, Colin</a> in his “<a href="/ufo-history/ufo-books/bennett-colin-an-american-demonology-captain-edward-j-ruppelt-and-the-official-ufo-investigation-of-the-united-states-air-force">An American Demonology : Captain Edward J Ruppelt and the official UFO investigation of the United States Air Force</a>” (<a href="/tags/2005">2005</a>) (available <a href="http://www.amazon.com/dp/1900486466/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1900486466/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 116-124 (in the unnumbered chapter entitled “A Dance”) of the Headpress softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/bennett-colin' | relative_url }}">Bennett, Colin</a> in his “<a href="{{ '/ufo-history/ufo-books/bennett-colin-an-american-demonology-captain-edward-j-ruppelt-and-the-official-ufo-investigation-of-the-united-states-air-force' | relative_url }}">An American Demonology : Captain Edward J Ruppelt and the official UFO investigation of the United States Air Force</a>” (<a href="{{ '/tags/2005' | relative_url }}">2005</a>) (available <a href="http://www.amazon.com/dp/1900486466/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1900486466/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 116-124 (in the unnumbered chapter entitled “A Dance”) of the Headpress softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>9</p>
@@ -86,10 +86,10 @@ For discussion of the Washington sightings of 19<sup>th</sup>/20<sup>th</sup> Ju
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) in Volume 2:L-Z at pages 998-1000 (forming part of the entry entitled “Washington National Radar/Visual Case” at pages 998-1004) of the Omnigraphics hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition' | relative_url }}">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) in Volume 2:L-Z at pages 998-1000 (forming part of the entry entitled “Washington National Radar/Visual Case” at pages 998-1004) of the Omnigraphics hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -97,10 +97,10 @@ For discussion of the Washington sightings of 19<sup>th</sup>/20<sup>th</sup> Ju
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-the-ufo-book">The UFO Book</a>: Encyclopedia of the Extraterrestrial” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/1578590299/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1578590299/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 653-658 (in an entry entitled “Washington National Radar/Visual Sightings”) of the Visible Ink Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-the-ufo-book' | relative_url }}">The UFO Book</a>: Encyclopedia of the Extraterrestrial” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/1578590299/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1578590299/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 653-658 (in an entry entitled “Washington National Radar/Visual Sightings”) of the Visible Ink Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>6</p>
@@ -108,10 +108,10 @@ For discussion of the Washington sightings of 19<sup>th</sup>/20<sup>th</sup> Ju
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq">The UFO Encyclopedia: 1st edition</a>: Volume 2 – Emergence of a Phenomenon” (<a href="/tags/1992">1992</a>) (available <a href="http://www.amazon.com/dp/1558887415/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558887415/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 396-399 (forming part of an entry entitled “Washington National Radar/Visual Sightings) of the Omnigraphics hardback edition”.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq' | relative_url }}">The UFO Encyclopedia: 1st edition</a>: Volume 2 – Emergence of a Phenomenon” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="http://www.amazon.com/dp/1558887415/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558887415/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 396-399 (forming part of an entry entitled “Washington National Radar/Visual Sightings) of the Omnigraphics hardback edition”.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -119,10 +119,10 @@ For discussion of the Washington sightings of 19<sup>th</sup>/20<sup>th</sup> Ju
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/peebles-curtis">Peebles, Curtis</a> in his “<a href="/ufo-history/ufo-books/peebles-curtis-watch-the-skies">Watch the Skies!</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/1560983434/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1560983434/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 61-63 (Chapter 5, “The <a href="/tags/1952">1952</a> Flap” – in part of the section entitled “The Invasion of Washington”) of the Smithsonian hardback edition, pages 73-75 of the Berkley paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/peebles-curtis' | relative_url }}">Peebles, Curtis</a> in his “<a href="{{ '/ufo-history/ufo-books/peebles-curtis-watch-the-skies' | relative_url }}">Watch the Skies!</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/1560983434/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1560983434/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 61-63 (Chapter 5, “The <a href="{{ '/tags/1952' | relative_url }}">1952</a> Flap” – in part of the section entitled “The Invasion of Washington”) of the Smithsonian hardback edition, pages 73-75 of the Berkley paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -130,10 +130,10 @@ For discussion of the Washington sightings of 19<sup>th</sup>/20<sup>th</sup> Ju
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1956">1956</a></p>
+<p><a href="{{ '/tags/1956' | relative_url }}">1956</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/ruppelt-edward">Ruppelt, Edward</a> J in his “<a href="/ufo-history/ufo-books/ruppelt-edward-the-report-on-unidentified-flying-objects">The Report on Unidentified Flying Objects</a>” (<a href="/tags/1956">1956</a>) (available <a href="http://www.amazon.com/dp/B0007FIFVE/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0007FIFVE/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 158-163 (in Chapter 12) of the original 17 chapter Doubleday hardback edition, at pages 211-217 of the Gollancz hardback edition, at pages 209-215 of the Ace paperback edition, at pages 158-163 of the <a href="/tags/1959">1959</a> revised Doubleday 20 chapter hardback edition, at pages 112-115 of the reprinted Source Books softcover edition. The first of these editions (i.e. the original 17 chapter hardback edition) has the same page numbering as the version available free online at: <a href="http://www.nicap.org/rufo/contents2.htm">http://www.nicap.org/rufo/contents2.htm</a></p>
+<p><a href="{{ '/ufo-history/ufo-personalities/ruppelt-edward' | relative_url }}">Ruppelt, Edward</a> J in his “<a href="{{ '/ufo-history/ufo-books/ruppelt-edward-the-report-on-unidentified-flying-objects' | relative_url }}">The Report on Unidentified Flying Objects</a>” (<a href="{{ '/tags/1956' | relative_url }}">1956</a>) (available <a href="http://www.amazon.com/dp/B0007FIFVE/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0007FIFVE/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 158-163 (in Chapter 12) of the original 17 chapter Doubleday hardback edition, at pages 211-217 of the Gollancz hardback edition, at pages 209-215 of the Ace paperback edition, at pages 158-163 of the <a href="{{ '/tags/1959' | relative_url }}">1959</a> revised Doubleday 20 chapter hardback edition, at pages 112-115 of the reprinted Source Books softcover edition. The first of these editions (i.e. the original 17 chapter hardback edition) has the same page numbering as the version available free online at: <a href="http://www.nicap.org/rufo/contents2.htm">http://www.nicap.org/rufo/contents2.htm</a></p>
 </td>
 <td valign="top" width="52">
 <p>6</p>
@@ -141,10 +141,10 @@ For discussion of the Washington sightings of 19<sup>th</sup>/20<sup>th</sup> Ju
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2003">2003</a></p>
+<p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sparks-brad">Sparks, Brad</a> in version 1.7 of his “Comprehensive Catalog of 1,500 Project BLUE BOOK UFO Unknowns” (<a href="/tags/2003">2003</a>) as Case Number 523 on pages 81-82 of the PDF edition (with the same page numbering in the Microsoft Word edition). Both editions are available online, respectively at the following links:</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sparks-brad' | relative_url }}">Sparks, Brad</a> in version 1.7 of his “Comprehensive Catalog of 1,500 Project BLUE BOOK UFO Unknowns” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) as Case Number 523 on pages 81-82 of the PDF edition (with the same page numbering in the Microsoft Word edition). Both editions are available online, respectively at the following links:</p>
 <p><a href="http://www.cufos.org/BB_Unknowns_1_7.pdf">http://www.cufos.org/BB_Unknowns_1_7.pdf</a></p>
 <p><a href="http://www.nicap.org/bluebook/CufosBBUnknowns.doc">http://www.nicap.org/bluebook/CufosBBUnknowns.doc</a></p>
 </td>
@@ -154,10 +154,10 @@ For discussion of the Washington sightings of 19<sup>th</sup>/20<sup>th</sup> Ju
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1981">1981</a></p>
+<p><a href="{{ '/tags/1981' | relative_url }}">1981</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/story-ronald">Story, Ronald</a> in his “<a href="/ufo-history/ufo-books/story-ronald-ufos-and-the-limits-of-science">UFOs and the Limits of Science</a>” (<a href="/tags/1981">1981</a>) (available <a href="http://www.amazon.com/dp/0688001572/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0688001572/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 56-57 (in Chapter 2) of the NEL Hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Story, Ronald</a> in his “<a href="{{ '/ufo-history/ufo-books/story-ronald-ufos-and-the-limits-of-science' | relative_url }}">UFOs and the Limits of Science</a>” (<a href="{{ '/tags/1981' | relative_url }}">1981</a>) (available <a href="http://www.amazon.com/dp/0688001572/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0688001572/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 56-57 (in Chapter 2) of the NEL Hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -169,7 +169,7 @@ For discussion of the Washington sightings of 19<sup>th</sup>/20<sup>th</sup> Ju
 <a id="other"></a>
 ### Other Material
 
-Listed as Project Blue Book Case Number 1649 on the redacted US National Archives and Records Administration (“NARA”) microfilm records of Project Blue Book, released to the National Archives in [1975](/tags/1975) – see National Archives Microfilm Publication T1206 roll number 1. An image of the relevant index page has been given the unique Page ID (“PID”) of NARA-PBB1-67 (page 67 of 1014) at the link below.
+Listed as Project Blue Book Case Number 1649 on the redacted US National Archives and Records Administration (“NARA”) microfilm records of Project Blue Book, released to the National Archives in [1975]({{ '/tags/1975' | relative_url }}) – see National Archives Microfilm Publication T1206 roll number 1. An image of the relevant index page has been given the unique Page ID (“PID”) of NARA-PBB1-67 (page 67 of 1014) at the link below.
 
 Listed (without a Project Blue Book Case Number) on the unredacted Maxwell Air Force Base (“Maxwell”) microfilm records of Project Blue Book – see Maxwell microfilm roll number 30,363. An image of the relevant index page has been given the unique Page ID (“PID”) of MAXW-PBB2-290 (page 290 of 1352) at the link below. The relevant case file is included on Maxwell microfilm roll number 30,372 – at the link below from the page with the PID of MAXW-PBB11-915 (page 915 of 1558) to the page with the PID of MAXW-PBB11-1342 (page 1342 of 1558).
 

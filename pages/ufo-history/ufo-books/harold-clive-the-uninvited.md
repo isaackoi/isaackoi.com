@@ -14,7 +14,7 @@ header: {"preview_image": "https://covers.openlibrary.org/b/isbn/0352303506-L.jp
 book: {"identifiers": ["0352303506", "1905646003", "B000OVBWKC", "0312965214"], "primary_isbn": "0352303506", "cover_image": "https://covers.openlibrary.org/b/isbn/0352303506-L.jpg?default=false", "cover_source": "openlibrary"}
 ---
 
-Brief review to be added of Clive Harold's book “[The Uninvited](/ufo-history/ufo-books/harold-clive-the-uninvited)” ([1979](/tags/1979)) (available [on Amazon USA](http://www.amazon.com/dp/0352303506/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0352303506/?&tag=ufot-21))
+Brief review to be added of Clive Harold's book “[The Uninvited]({{ '/ufo-history/ufo-books/harold-clive-the-uninvited' | relative_url }})” ([1979]({{ '/tags/1979' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0352303506/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0352303506/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2007">2007</a></p>
+<p><a href="{{ '/tags/2007' | relative_url }}">2007</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clarke-david">Clarke, David</a> and <a href="/ufo-history/ufo-personalities/roberts-andy">Roberts, Andy</a> in their “<a href="/ufo-history/ufo-books/clarke-david-and-roberts-andy-flying-saucerers">Flying Saucerers : A social history of UFOlogy</a>” (<a href="/tags/2007">2007</a>) (available <a href="http://www.amazon.com/dp/1905646003/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1905646003/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 199 (in Chapter 12) of the Alternative Albion softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clarke-david' | relative_url }}">Clarke, David</a> and <a href="{{ '/ufo-history/ufo-personalities/roberts-andy' | relative_url }}">Roberts, Andy</a> in their “<a href="{{ '/ufo-history/ufo-books/clarke-david-and-roberts-andy-flying-saucerers' | relative_url }}">Flying Saucerers : A social history of UFOlogy</a>” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (available <a href="http://www.amazon.com/dp/1905646003/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1905646003/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 199 (in Chapter 12) of the Alternative Albion softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -65,10 +65,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1979">1979</a></p>
+<p><a href="{{ '/tags/1979' | relative_url }}">1979</a></p>
 </td>
 <td valign="top" width="547">
-<p>Harold, Clive in his “<a href="/ufo-history/ufo-books/harold-clive-the-uninvited">The Uninvited</a>“ (<a href="/tags/1979">1979</a>) at pages 162-167 (in the Epilogue) of the Star paperback edition.</p>
+<p>Harold, Clive in his “<a href="{{ '/ufo-history/ufo-books/harold-clive-the-uninvited' | relative_url }}">The Uninvited</a>“ (<a href="{{ '/tags/1979' | relative_url }}">1979</a>) at pages 162-167 (in the Epilogue) of the Star paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>6</p>
@@ -76,10 +76,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1984">1984</a></p>
+<p><a href="{{ '/tags/1984' | relative_url }}">1984</a></p>
 </td>
 <td valign="top" width="547">
-<p>Taylor, Frank in his “The Uninvited 2” (<a href="/tags/1984">1984</a>) at pages 1 (in the Prologue), 169 (in the Author’s note) of the Star paperback edition.</p>
+<p>Taylor, Frank in his “The Uninvited 2” (<a href="{{ '/tags/1984' | relative_url }}">1984</a>) at pages 1 (in the Prologue), 169 (in the Author’s note) of the Star paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -87,10 +87,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1981">1981</a></p>
+<p><a href="{{ '/tags/1981' | relative_url }}">1981</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> and <a href="/ufo-history/ufo-personalities/whetnall-paul">Whetnall, Paul</a> in their “<a href="/ufo-history/ufo-books/randles-jenny-and-whetnall-paul-alien-contact-window-on-another-world">Alien Contact: Window on Another World</a>” (<a href="/tags/1981">1981</a>) (available <a href="http://www.amazon.com/dp/B000OVBWKC/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000OVBWKC/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 152-153 (in the unnumbered chapter entitled “Correlations”) of the Coronet paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> and <a href="{{ '/ufo-history/ufo-personalities/whetnall-paul' | relative_url }}">Whetnall, Paul</a> in their “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-whetnall-paul-alien-contact-window-on-another-world' | relative_url }}">Alien Contact: Window on Another World</a>” (<a href="{{ '/tags/1981' | relative_url }}">1981</a>) (available <a href="http://www.amazon.com/dp/B000OVBWKC/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000OVBWKC/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 152-153 (in the unnumbered chapter entitled “Correlations”) of the Coronet paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -98,10 +98,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-investigating-the-truth-behind-mib">Investigating the Truth Behind MIB</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0312965214/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312965214/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 117, 119 (in Chapter 9) of the Piatkus softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-investigating-the-truth-behind-mib' | relative_url }}">Investigating the Truth Behind MIB</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0312965214/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312965214/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 117, 119 (in Chapter 9) of the Piatkus softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -110,7 +110,7 @@ For discussion see the following:
 </tbody>
 </table>
 
-See also references cited in relation to the entry for “[The Dyfed Enigma](/ufo-history/ufo-books/pugh-randall-jones-and-holiday-f-w-the-dyfed-enigma)” ([1979](/tags/1979)).
+See also references cited in relation to the entry for “[The Dyfed Enigma]({{ '/ufo-history/ufo-books/pugh-randall-jones-and-holiday-f-w-the-dyfed-enigma' | relative_url }})” ([1979]({{ '/tags/1979' | relative_url }})).
 
 <a id="other"></a>
 ### Other Material

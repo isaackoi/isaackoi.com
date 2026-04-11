@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/no_avatar.jpg"}
 ---
 
-![](/images/stories/no_avatar.jpg)
+![]({{ '/images/stories/no_avatar.jpg' | relative_url }})
 
 *Image needed*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1961">1961</a></p>
+<p><a href="{{ '/tags/1961' | relative_url }}">1961</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/maney-charles-a">Maney, Charles A</a> and <a href="/ufo-history/ufo-personalities/hall-richard-h">Hall, Richard</a> “<a href="/ufo-history/ufo-books/maney-charles-a-and-hall-richard-the-challenge-of-unidentified-flying-objects">The Challenge of Unidentified Flying Objects</a>” (<a href="/tags/1961">1961</a>) (available <a href="http://www.amazon.com/dp/B00117X9ZO/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B00117X9ZO/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/maney-charles-a' | relative_url }}">Maney, Charles A</a> and <a href="{{ '/ufo-history/ufo-personalities/hall-richard-h' | relative_url }}">Hall, Richard</a> “<a href="{{ '/ufo-history/ufo-books/maney-charles-a-and-hall-richard-the-challenge-of-unidentified-flying-objects' | relative_url }}">The Challenge of Unidentified Flying Objects</a>” (<a href="{{ '/tags/1961' | relative_url }}">1961</a>) (available <a href="http://www.amazon.com/dp/B00117X9ZO/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B00117X9ZO/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>

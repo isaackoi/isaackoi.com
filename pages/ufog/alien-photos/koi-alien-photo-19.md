@@ -13,7 +13,7 @@ planned_sections: ["1. The relevant image", "2. Stories and claims relating to t
 header: {"preview_image": "/images/stories/alien_photos/koi_ap_19_b.jpg"}
 ---
 
-![](/images/stories/alien_photos/koi_ap_19_b.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_19_b.jpg' | relative_url }})
 
 *Koi Alien Photo 19*
 
@@ -42,11 +42,11 @@ Sections below:
 <a id="image"></a>
 ### 1. The relevant image
 
-![](/images/stories/alien_photos/koi_ap_19_a.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_19_a.jpg' | relative_url }})
 
-![](/images/stories/alien_photos/koi_ap_19_b.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_19_b.jpg' | relative_url }})
 
-![](/images/stories/alien_photos/koi_ap_19_c.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_19_c.jpg' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this image
@@ -62,13 +62,13 @@ In fact, it was first published in the Weekly World News - a satirical newspaper
 
 The relevant front cover of the issue of the Weekly World News, dated 9 May 2000,is shown below (labelled "koi_ap_19_k"):
 
-![](/images/stories/alien_photos/koi_ap_19_k.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_19_k.jpg' | relative_url }})
 
 Photos of the relevant story inside the edition are shown below (labelled "koi_ap_19_l" and "koi_ap_19_m", beings pages 8 and 9 of that edition respectively).
 
-![](/images/stories/alien_photos/koi_ap_19_l.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_19_l.jpg' | relative_url }})
 
-![](/images/stories/alien_photos/koi_ap_19_m.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_19_m.jpg' | relative_url }})
 
 The article was apparently written by "Mike Foster" and purportedly based on information provided by "UFO investigator Dennis Baleri".
 
@@ -126,23 +126,23 @@ The Gore campaign has as yet issued no formal reaction to the endorsement, but t
 
 A photo purportedly showing the source of the story, "UFO investigator Dennis Baleri", appeared in the article (shown below with the label "koi_ap_19_n):
 
-![](/images/stories/alien_photos/koi_ap_19_n.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_19_n.jpg' | relative_url }})
 
 George W Bush appeared to have a sense of humour about this article and posed with the relevant copy of the World Weekly News:
 
-![](/images/stories/alien_photos/koi_ap_19_d.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_19_d.jpg' | relative_url }})
 
 The Weekly World News had previously run similar stories in relation to the same alien backing President Clinton (see Koi Alien Photo 24, relating to the 11 August 1992 issue of Weekly World News) and, indeed, had also run a front cover article (in the 14 May 1991 edition) about President George W Bush's father, President H W Bush, having met with a space alien at Camp David (accompanied by photographs of an "alien" in an equally bad costume, which was also also used by the Weekly World News in Koi Alien Photo 64).
 
 The front cover of the Weekly World News issue dated 14 May 1991 regarding President H W Bush is shown below (labelled "koi_ap_19_e").
 
-![](/images/stories/alien_photos/koi_ap_19_e.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_19_e.jpg' | relative_url }})
 
 Photos of the article about President H W Bush inside that issue are shown below (labelled "koi_ap_19_f" and "koi_ap_19_g"):
 
-![](/images/stories/alien_photos/koi_ap_19_f.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_19_f.jpg' | relative_url }})
 
-![](/images/stories/alien_photos/koi_ap_19_g.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_19_g.jpg' | relative_url }})
 
 Greg Sandow, a researcher that participates in discussion on the UFO UpDates email discussion list, had some knowledge of the relevant "alien", which he wrote about in [a post on that list on 22 May 1997](http://ufoupdateslist.com/1997/may/m22-005.shtml)::
 
@@ -168,7 +168,7 @@ I could write a lot more about this, but I think you get the idea. These stories
 
 The article about "a girl who could read two books at the same time, because she had two brains" mentioned by Greg Sandow appeared in the 21 January 1997 edition of the Weekly World News (at page 6) and a copy appears below to illustrate the points made by Greg Sandow (labelled "koi_ap_19o").
 
-![](/images/stories/alien_photos/koi_ap_19_o.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_19_o.jpg' | relative_url }})
 
 <a id="forums"></a>
 ### 4. Relevant online forum discussions
@@ -183,4 +183,4 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 
 Please use the comments section below to share references to any particularly interesting relevant articles.
 
-![](/images/stories/alien_photos/koi_ap_19_o.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_19_o.jpg' | relative_url }})

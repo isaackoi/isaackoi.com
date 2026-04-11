@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0387952896.jpg"}
 book: {"identifiers": ["0387952896", "0091879272", "0596000375", "0451204247", "1841196134", "0387955011"], "primary_isbn": "0387952896", "cover_image": "/book-covers/0387952896.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of “[Rare Earth](/ufo-history/ufo-books/ward-peter-and-brownlee-don-rare-earth)” ([2000](/tags/2000)) (available [on Amazon USA](http://www.amazon.com/dp/0387952896/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0387952896/?&tag=ufot-21)) by Peter Ward and Don Brownlee.
+Brief review to be added of “[Rare Earth]({{ '/ufo-history/ufo-books/ward-peter-and-brownlee-don-rare-earth' | relative_url }})” ([2000]({{ '/tags/2000' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0387952896/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0387952896/?&tag=ufot-21)) by Peter Ward and Don Brownlee.
 
 1. [Web Resources](#web)
 
@@ -34,7 +34,7 @@ The table below includes references to relevant discussions in UFO/SETI books no
 
 Many of the tables of references on this website are considerably longer than the references to books found on most other UFO websites. Indeed, some are probably the longest that have been collated in relation to some events and personalities. I hope that these tables are found to be a useful contribution to UFOlogy.
 
-For discussion of “[Rare Earth](/ufo-history/ufo-books/ward-peter-and-brownlee-don-rare-earth)” the following:
+For discussion of “[Rare Earth]({{ '/ufo-history/ufo-books/ward-peter-and-brownlee-don-rare-earth' | relative_url }})” the following:
 
 <table border="1" cellpadding="0" cellspacing="0" class="sortable" data-sortable="true" id="sortabletable">
 <thead>
@@ -54,10 +54,10 @@ For discussion of “[Rare Earth](/ufo-history/ufo-books/ward-peter-and-brownlee
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2002">2002</a></p>
+<p><a href="{{ '/tags/2002' | relative_url }}">2002</a></p>
 </td>
 <td valign="top" width="547">
-<p>Cohen, Jack and Stewart, Ian in their “<a href="/ufo-history/ufo-books/cohen-jack-and-stewart-ian-evolving-the-alien">Evolving the Alien</a>” (<a href="/tags/2002">2002</a>) (available <a href="http://www.amazon.com/dp/0091879272/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0091879272/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 128-142 (in Chapter 6), 203 (in Chapter 9), 229 (in Chapter 10) of the Ebury Press hardback edition.</p>
+<p>Cohen, Jack and Stewart, Ian in their “<a href="{{ '/ufo-history/ufo-books/cohen-jack-and-stewart-ian-evolving-the-alien' | relative_url }}">Evolving the Alien</a>” (<a href="{{ '/tags/2002' | relative_url }}">2002</a>) (available <a href="http://www.amazon.com/dp/0091879272/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0091879272/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 128-142 (in Chapter 6), 203 (in Chapter 9), 229 (in Chapter 10) of the Ebury Press hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>17</p>
@@ -65,10 +65,10 @@ For discussion of “[Rare Earth](/ufo-history/ufo-books/ward-peter-and-brownlee
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p>McConnell, Brian in his “<a href="/ufo-history/ufo-books/mcdonnell-brian-beyond-contact-a-guide-to-seti-and-communicating-with-alien-civilizations">Beyond Contact : A Guide to SETI and Communicating with Alien Civilizations</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/0596000375/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0596000375/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 47-48, 50 (in Chapter 4) of the O’Reilly hardback edition.</p>
+<p>McConnell, Brian in his “<a href="{{ '/ufo-history/ufo-books/mcdonnell-brian-beyond-contact-a-guide-to-seti-and-communicating-with-alien-civilizations' | relative_url }}">Beyond Contact : A Guide to SETI and Communicating with Alien Civilizations</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/0596000375/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0596000375/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 47-48, 50 (in Chapter 4) of the O’Reilly hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -76,10 +76,10 @@ For discussion of “[Rare Earth](/ufo-history/ufo-books/ward-peter-and-brownlee
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sheaffer-robert">Sheaffer, Robert</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 532 (in an entry entitled “Search for Extraterrestrial Intelligence, The (SETI)”) of the New American Library softcover edition, at page 521 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sheaffer-robert' | relative_url }}">Sheaffer, Robert</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 532 (in an entry entitled “Search for Extraterrestrial Intelligence, The (SETI)”) of the New American Library softcover edition, at page 521 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -87,10 +87,10 @@ For discussion of “[Rare Earth](/ufo-history/ufo-books/ward-peter-and-brownlee
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sheaffer-robert">Sheaffer, Robert</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 639 (in an entry entitled “Search for Extraterrestrial Intelligence, The (SETI)”) of the Robinson softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sheaffer-robert' | relative_url }}">Sheaffer, Robert</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 639 (in an entry entitled “Search for Extraterrestrial Intelligence, The (SETI)”) of the Robinson softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -98,10 +98,10 @@ For discussion of “[Rare Earth](/ufo-history/ufo-books/ward-peter-and-brownlee
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2002">2002</a></p>
+<p><a href="{{ '/tags/2002' | relative_url }}">2002</a></p>
 </td>
 <td valign="top" width="547">
-<p>Webb, Stephen in his “<a href="/ufo-history/ufo-books/webb-stephen-where-is-everybody-fifty-solutions-to-the-fermi-paradox">Where is Everybody?: Fifty Solutions to the Fermi Paradox</a>” (<a href="/tags/2002">2002</a>) (available <a href="http://www.amazon.com/dp/0387955011/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0387955011/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 141 (in Chapter 5), 266 (in the Notes and Further Reading) of the Copernicus hardback edition.</p>
+<p>Webb, Stephen in his “<a href="{{ '/ufo-history/ufo-books/webb-stephen-where-is-everybody-fifty-solutions-to-the-fermi-paradox' | relative_url }}">Where is Everybody?: Fifty Solutions to the Fermi Paradox</a>” (<a href="{{ '/tags/2002' | relative_url }}">2002</a>) (available <a href="http://www.amazon.com/dp/0387955011/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0387955011/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 141 (in Chapter 5), 266 (in the Notes and Further Reading) of the Copernicus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

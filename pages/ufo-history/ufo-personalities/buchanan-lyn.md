@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/buchanan_lyn_2.jpg"}
 ---
 
-![buchanan_lyn_2](/images/stories/ufo_personalities/buchanan_lyn_2.jpg)
+![buchanan_lyn_2]({{ '/images/stories/ufo_personalities/buchanan_lyn_2.jpg' | relative_url }})
 
 *Lyn Buchanan*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/2003">2003</a></p>
+<p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/buchanan-lyn">Buchanan, Lyn</a> “<a href="/ufo-history/ufo-books/buchanan-lyn-the-seventh-sense-the-secrets-of-remote-viewing-as-told-by-a-psychic-spy-for-the-us-military">The Seventh Sense: The Secrets of Remote Viewing as Told by a Psychic Spy for the US Military</a>” (<a href="/tags/2003">2003</a>) (available <a href="http://www.amazon.com/dp/0743462688/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743462688/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/buchanan-lyn' | relative_url }}">Buchanan, Lyn</a> “<a href="{{ '/ufo-history/ufo-books/buchanan-lyn-the-seventh-sense-the-secrets-of-remote-viewing-as-told-by-a-psychic-spy-for-the-us-military' | relative_url }}">The Seventh Sense: The Secrets of Remote Viewing as Told by a Psychic Spy for the US Military</a>” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) (available <a href="http://www.amazon.com/dp/0743462688/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743462688/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>
@@ -65,7 +65,7 @@ The table below includes references to relevant discussions in UFO/SETI books no
 
 Many of the tables of references on this website are considerably longer than the references to books found on most other UFO websites. Indeed, some are probably the longest that have been collated in relation to some events and personalities. I hope that these tables are found to be a useful contribution to UFOlogy.
 
-For discussion of [Lyn Buchanan](/ufo-history/ufo-personalities/buchanan-lyn) see the following:
+For discussion of [Lyn Buchanan]({{ '/ufo-history/ufo-personalities/buchanan-lyn' | relative_url }}) see the following:
 
 <table border="1" cellpadding="0" cellspacing="0" class="sortable" data-sortable="true" id="sortabletable">
 <thead>
@@ -85,10 +85,10 @@ For discussion of [Lyn Buchanan](/ufo-history/ufo-personalities/buchanan-lyn) se
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2007">2007</a></p>
+<p><a href="{{ '/tags/2007' | relative_url }}">2007</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/marrs-jim">Marrs, Jim</a> in his “<a href="/ufo-history/ufo-books/marrs-jim-psi-spies-the-true-story-of-americas-psychic-warfare-program">PSI Spies: The True Story of America’s Psychic Warfare Program</a>” (<a href="/tags/2007">2007</a>) (available <a href="http://www.amazon.com/dp/1564149609/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1564149609/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 33 (in Chapter 1), 143-146 (in Chapter 5), 150-151, 154-157, 172-175 (in Chapter 6), 208-213 (in Chapter 7), 250, 260-265 (in Chapter 9), 281-282, 283, 284-285 (in the Epilogue), 293 (in the Appendix : Images) of the New Page Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/marrs-jim' | relative_url }}">Marrs, Jim</a> in his “<a href="{{ '/ufo-history/ufo-books/marrs-jim-psi-spies-the-true-story-of-americas-psychic-warfare-program' | relative_url }}">PSI Spies: The True Story of America’s Psychic Warfare Program</a>” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (available <a href="http://www.amazon.com/dp/1564149609/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1564149609/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 33 (in Chapter 1), 143-146 (in Chapter 5), 150-151, 154-157, 172-175 (in Chapter 6), 208-213 (in Chapter 7), 250, 260-265 (in Chapter 9), 281-282, 283, 284-285 (in the Epilogue), 293 (in the Appendix : Images) of the New Page Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>36</p>
@@ -96,10 +96,10 @@ For discussion of [Lyn Buchanan](/ufo-history/ufo-personalities/buchanan-lyn) se
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2003">2003</a></p>
+<p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/marrs-jim">Marrs, Jim</a> in <a href="/ufo-history/ufo-personalities/buchanan-lyn">Buchanan, Lyn</a>’s “<a href="/ufo-history/ufo-books/buchanan-lyn-the-seventh-sense-the-secrets-of-remote-viewing-as-told-by-a-psychic-spy-for-the-us-military">The Seventh Sense: The Secrets of Remote Viewing as Told by a Psychic Spy for the US Military</a>” (<a href="/tags/2003">2003</a>) (available <a href="http://www.amazon.com/dp/0743462688/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743462688/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page xi (in the Foreword) of the Paraview Pocket Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/marrs-jim' | relative_url }}">Marrs, Jim</a> in <a href="{{ '/ufo-history/ufo-personalities/buchanan-lyn' | relative_url }}">Buchanan, Lyn</a>’s “<a href="{{ '/ufo-history/ufo-books/buchanan-lyn-the-seventh-sense-the-secrets-of-remote-viewing-as-told-by-a-psychic-spy-for-the-us-military' | relative_url }}">The Seventh Sense: The Secrets of Remote Viewing as Told by a Psychic Spy for the US Military</a>” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) (available <a href="http://www.amazon.com/dp/0743462688/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743462688/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page xi (in the Foreword) of the Paraview Pocket Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -107,10 +107,10 @@ For discussion of [Lyn Buchanan](/ufo-history/ufo-personalities/buchanan-lyn) se
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2004">2004</a></p>
+<p><a href="{{ '/tags/2004' | relative_url }}">2004</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/ronson-jon">Ronson, Jon</a> in his “<a href="/ufo-history/ufo-books/ronson-jon-the-men-who-stare-at-goats">The Men Who Stare at Goats</a>” (<a href="/tags/2004">2004</a>) (available <a href="http://www.amazon.com/dp/0330375482/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0330375482/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 12, 13 (in Chapter 2), 80, 81-82, 87-88 (in Chapter 5), 262, 263 (in Chapter 16) of the Picador paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/ronson-jon' | relative_url }}">Ronson, Jon</a> in his “<a href="{{ '/ufo-history/ufo-books/ronson-jon-the-men-who-stare-at-goats' | relative_url }}">The Men Who Stare at Goats</a>” (<a href="{{ '/tags/2004' | relative_url }}">2004</a>) (available <a href="http://www.amazon.com/dp/0330375482/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0330375482/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 12, 13 (in Chapter 2), 80, 81-82, 87-88 (in Chapter 5), 262, 263 (in Chapter 16) of the Picador paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>8</p>
@@ -118,10 +118,10 @@ For discussion of [Lyn Buchanan](/ufo-history/ufo-personalities/buchanan-lyn) se
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/schnabel-jim">Schnabel, Jim</a> in his “<a href="/ufo-history/ufo-books/schnabel-jim-remote-viewers-the-secret-history-of-americas-psychic-spies">Remote Viewers : The Secret History of America’s Psychic Spies</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0440614058/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0440614058/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 267-270, 289 (in Chapter 18), 297 (in Chapter 19), 312-313 (in Chapter 20), 337, 340-341, 344-345 (in Chapter 21), 350, 365 (in Chapter 22), 376, 380-381 (in the Epilogue) of the Dell paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/schnabel-jim' | relative_url }}">Schnabel, Jim</a> in his “<a href="{{ '/ufo-history/ufo-books/schnabel-jim-remote-viewers-the-secret-history-of-americas-psychic-spies' | relative_url }}">Remote Viewers : The Secret History of America’s Psychic Spies</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0440614058/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0440614058/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 267-270, 289 (in Chapter 18), 297 (in Chapter 19), 312-313 (in Chapter 20), 337, 340-341, 344-345 (in Chapter 21), 350, 365 (in Chapter 22), 376, 380-381 (in the Epilogue) of the Dell paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>18</p>
@@ -129,10 +129,10 @@ For discussion of [Lyn Buchanan](/ufo-history/ufo-personalities/buchanan-lyn) se
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2005">2005</a></p>
+<p><a href="{{ '/tags/2005' | relative_url }}">2005</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/smith-paul">Smith, Paul</a> in his “<a href="/ufo-history/ufo-books/smith-paul-reading-the-enemys-mind">Reading the Enemy’s Mind</a>” (<a href="/tags/2005">2005</a>) (available <a href="http://www.amazon.com/dp/0312875150/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312875150/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 204-205, 215, 216, 259, 279-280, 357, 430 of the Forge hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/smith-paul' | relative_url }}">Smith, Paul</a> in his “<a href="{{ '/ufo-history/ufo-books/smith-paul-reading-the-enemys-mind' | relative_url }}">Reading the Enemy’s Mind</a>” (<a href="{{ '/tags/2005' | relative_url }}">2005</a>) (available <a href="http://www.amazon.com/dp/0312875150/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312875150/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 204-205, 215, 216, 259, 279-280, 357, 430 of the Forge hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>9</p>

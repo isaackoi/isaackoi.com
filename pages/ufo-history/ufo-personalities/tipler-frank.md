@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/tipler_frank_1.jpg"}
 ---
 
-![tipler_frank_1](/images/stories/ufo_personalities/tipler_frank_1.jpg)
+![tipler_frank_1]({{ '/images/stories/ufo_personalities/tipler_frank_1.jpg' | relative_url }})
 
 *Frank Tipler*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1986">1986</a></p>
+<p><a href="{{ '/tags/1986' | relative_url }}">1986</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/tipler-frank">Tipler, Frank</a> and Barrow, John “<a href="/ufo-history/ufo-books/tipler-frank-and-barrow-john-the-anthropic-cosmological-principle">The Anthropic Cosmological Principle</a>” (<a href="/tags/1986">1986</a>) (available <a href="http://www.amazon.com/dp/0192821474/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0192821474/?&amp;tag=ufot-21">on Amazon UK</a>) (<a href="/tags/seti">SETI</a>:)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/tipler-frank' | relative_url }}">Tipler, Frank</a> and Barrow, John “<a href="{{ '/ufo-history/ufo-books/tipler-frank-and-barrow-john-the-anthropic-cosmological-principle' | relative_url }}">The Anthropic Cosmological Principle</a>” (<a href="{{ '/tags/1986' | relative_url }}">1986</a>) (available <a href="http://www.amazon.com/dp/0192821474/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0192821474/?&amp;tag=ufot-21">on Amazon UK</a>) (<a href="{{ '/tags/seti' | relative_url }}">SETI</a>:)</p>
 </td>
 </tr>
 </tbody>

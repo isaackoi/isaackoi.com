@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0679734465.jpg"}
 book: {"identifiers": ["0679734465", "0312962878", "1855859491", "0850305977", "0747236038", "1425994024", "0451204247", "1841196134", "1416516778", "1883319617"], "primary_isbn": "0679734465", "cover_image": "/book-covers/0679734465.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of Philip K Dick's [novel](/tags/novel) "[VALIS](/ufo-history/ufo-books/dick-philip-k-valis)" ([1981](/tags/1981)) (available [on Amazon USA](http://www.amazon.com/dp/0679734465/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0679734465/?&tag=ufot-21)).
+Brief review to be added of Philip K Dick's [novel]({{ '/tags/novel' | relative_url }}) "[VALIS]({{ '/ufo-history/ufo-books/dick-philip-k-valis' | relative_url }})" ([1981]({{ '/tags/1981' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0679734465/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0679734465/?&tag=ufot-21)).
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion of Philip K Dick and/or his novel “VALIS” see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p>Craft, Michael in his “<a href="/ufo-history/ufo-books/craft-michael-alien-impact">Alien Impact</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/0312962878/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312962878/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 243-244 (in Chapter 12) of the St Martin’s Paperbacks paperback edition.</p>
+<p>Craft, Michael in his “<a href="{{ '/ufo-history/ufo-books/craft-michael-alien-impact' | relative_url }}">Alien Impact</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/0312962878/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312962878/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 243-244 (in Chapter 12) of the St Martin’s Paperbacks paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -65,10 +65,10 @@ For discussion of Philip K Dick and/or his novel “VALIS” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p>di Fate, Vincent in his “The Science Fiction Art of Vincent Di Fate” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/1855859491/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1855859491/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 20 (in the unnumbered chapter entitled “Gadget Man”) of the Paper Tiger hardback edition.</p>
+<p>di Fate, Vincent in his “The Science Fiction Art of Vincent Di Fate” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/1855859491/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1855859491/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 20 (in the unnumbered chapter entitled “Gadget Man”) of the Paper Tiger hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -76,10 +76,10 @@ For discussion of Philip K Dick and/or his novel “VALIS” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1987">1987</a></p>
+<p><a href="{{ '/tags/1987' | relative_url }}">1987</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/evans-hilary">Evans, Hilary</a> in his “<a href="/ufo-history/ufo-books/evans-hilary-gods-spirits-cosmic-guardians">Gods, Spirits, Cosmic Guardians</a>” (<a href="/tags/1987">1987</a>) (available <a href="http://www.amazon.com/dp/0850305977/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0850305977/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 214-215 (in Chapter 6.1) of the Aquarian softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }}">Evans, Hilary</a> in his “<a href="{{ '/ufo-history/ufo-books/evans-hilary-gods-spirits-cosmic-guardians' | relative_url }}">Gods, Spirits, Cosmic Guardians</a>” (<a href="{{ '/tags/1987' | relative_url }}">1987</a>) (available <a href="http://www.amazon.com/dp/0850305977/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0850305977/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 214-215 (in Chapter 6.1) of the Aquarian softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -87,10 +87,10 @@ For discussion of Philip K Dick and/or his novel “VALIS” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="547">
-<p>Gordon, Stuart in his “<a href="/ufo-history/ufo-books/gordon-stuart-the-paranormal-an-illustrated-encyclopedia">The Paranormal - An Illustrated Encyclopedia</a>” (<a href="/tags/1992">1992</a>) (available <a href="http://www.amazon.com/dp/0747236038/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0747236038/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 171-172 (in the entry entitled “Dick, Philip K”) of the Headline softcover edition.</p>
+<p>Gordon, Stuart in his “<a href="{{ '/ufo-history/ufo-books/gordon-stuart-the-paranormal-an-illustrated-encyclopedia' | relative_url }}">The Paranormal - An Illustrated Encyclopedia</a>” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="http://www.amazon.com/dp/0747236038/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0747236038/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 171-172 (in the entry entitled “Dick, Philip K”) of the Headline softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -98,10 +98,10 @@ For discussion of Philip K Dick and/or his novel “VALIS” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2007">2007</a></p>
+<p><a href="{{ '/tags/2007' | relative_url }}">2007</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/harris-paola">Harris, Paola</a> in her “<a href="/ufo-history/ufo-books/harris-paola-how-does-one-speak-to-a-ball-of-light">How does one speak to a ball of light?</a>” (<a href="/tags/2007">2007</a>) (available <a href="http://www.amazon.com/dp/1425994024/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1425994024/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 89-90, 221 (in Section 2) of the Author House softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/harris-paola' | relative_url }}">Harris, Paola</a> in her “<a href="{{ '/ufo-history/ufo-books/harris-paola-how-does-one-speak-to-a-ball-of-light' | relative_url }}">How does one speak to a ball of light?</a>” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (available <a href="http://www.amazon.com/dp/1425994024/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1425994024/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 89-90, 221 (in Section 2) of the Author House softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -109,10 +109,10 @@ For discussion of Philip K Dick and/or his novel “VALIS” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/kottmeyer-martin-s">Kottmeyer, Martin S</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 353 (in an entry entitled “Mind Control By Aliens”) of the New American Library softcover edition, at page 345 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/kottmeyer-martin-s' | relative_url }}">Kottmeyer, Martin S</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 353 (in an entry entitled “Mind Control By Aliens”) of the New American Library softcover edition, at page 345 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -120,10 +120,10 @@ For discussion of Philip K Dick and/or his novel “VALIS” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/kottmeyer-martin-s">Kottmeyer, Martin S</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 428 (in an entry entitled “Mind Control By Aliens”) of the Robinson softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/kottmeyer-martin-s' | relative_url }}">Kottmeyer, Martin S</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 428 (in an entry entitled “Mind Control By Aliens”) of the Robinson softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -131,10 +131,10 @@ For discussion of Philip K Dick and/or his novel “VALIS” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2006">2006</a></p>
+<p><a href="{{ '/tags/2006' | relative_url }}">2006</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/radin-dean">Radin, Dean</a> in his “<a href="/ufo-history/ufo-books/radin-dean-entangled-minds-extrasensory-experiences-in-a-quantum-reality">Entangled Minds : Extrasensory Experiences in a Quantum Reality</a>” (<a href="/tags/2006">2006</a>) (available <a href="http://www.amazon.com/dp/1416516778/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1416516778/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 24-25 (in Chapter 2) of the Paraview Pocket Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/radin-dean' | relative_url }}">Radin, Dean</a> in his “<a href="{{ '/ufo-history/ufo-books/radin-dean-entangled-minds-extrasensory-experiences-in-a-quantum-reality' | relative_url }}">Entangled Minds : Extrasensory Experiences in a Quantum Reality</a>” (<a href="{{ '/tags/2006' | relative_url }}">2006</a>) (available <a href="http://www.amazon.com/dp/1416516778/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1416516778/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 24-25 (in Chapter 2) of the Paraview Pocket Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -142,10 +142,10 @@ For discussion of Philip K Dick and/or his novel “VALIS” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/rux-bruce">Rux, Bruce</a> in his “<a href="/ufo-history/ufo-books/rux-bruce-hollywood-vs-the-aliens">Hollywood Vs. the Aliens</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1883319617/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1883319617/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 445-448 (in Chapter 9) of the Frog softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/rux-bruce' | relative_url }}">Rux, Bruce</a> in his “<a href="{{ '/ufo-history/ufo-books/rux-bruce-hollywood-vs-the-aliens' | relative_url }}">Hollywood Vs. the Aliens</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1883319617/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1883319617/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 445-448 (in Chapter 9) of the Frog softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -153,10 +153,10 @@ For discussion of Philip K Dick and/or his novel “VALIS” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/vallee-jacques">Vallee, Jacques</a> in his “<a href="/ufo-history/ufo-books/vallee-jacques-revelations-alien-contact-and-human-deception">Revelations: Alien Contact and Human Deception</a>“ (<a href="/tags/1991">1991</a>) at pages 293-294, 296 (in Appendix 2) of the Ballantine Books paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/vallee-jacques' | relative_url }}">Vallee, Jacques</a> in his “<a href="{{ '/ufo-history/ufo-books/vallee-jacques-revelations-alien-contact-and-human-deception' | relative_url }}">Revelations: Alien Contact and Human Deception</a>“ (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) at pages 293-294, 296 (in Appendix 2) of the Ballantine Books paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

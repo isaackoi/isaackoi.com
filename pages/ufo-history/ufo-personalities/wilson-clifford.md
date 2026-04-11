@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/wilson_clifford_1.jpg"}
 ---
 
-![wilson_clifford_1](/images/stories/ufo_personalities/wilson_clifford_1.jpg)
+![wilson_clifford_1]({{ '/images/stories/ufo_personalities/wilson_clifford_1.jpg' | relative_url }})
 
 *Clifford Wilson*
 
@@ -36,26 +36,26 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1972">1972</a></p>
+<p><a href="{{ '/tags/1972' | relative_url }}">1972</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/wilson-clifford">Wilson, Clifford</a> “<a href="/ufo-history/ufo-books/wilson-clifford-crash-go-the-chariots">Crash Go The Chariots</a>” (<a href="/tags/1972">1972</a>) (available <a href="http://www.amazon.com/dp/B000FI1A88/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000FI1A88/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/wilson-clifford' | relative_url }}">Wilson, Clifford</a> “<a href="{{ '/ufo-history/ufo-books/wilson-clifford-crash-go-the-chariots' | relative_url }}">Crash Go The Chariots</a>” (<a href="{{ '/tags/1972' | relative_url }}">1972</a>) (available <a href="http://www.amazon.com/dp/B000FI1A88/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000FI1A88/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1974">1974</a></p>
+<p><a href="{{ '/tags/1974' | relative_url }}">1974</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/wilson-clifford">Wilson, Clifford</a> “<a href="/ufo-history/ufo-books/wilson-clifford-ufos-and-their-mission-impossible">UFOs and Their Mission Impossible</a>” (<a href="/tags/1974">1974</a>) (available <a href="http://www.amazon.com/dp/0451064240/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451064240/?&amp;tag=ufot-21">on Amazon UK</a>). Later revised as “<a href="/ufo-history/ufo-books/wilson-clifford-the-alien-agenda">The Alien Agenda</a>”.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/wilson-clifford' | relative_url }}">Wilson, Clifford</a> “<a href="{{ '/ufo-history/ufo-books/wilson-clifford-ufos-and-their-mission-impossible' | relative_url }}">UFOs and Their Mission Impossible</a>” (<a href="{{ '/tags/1974' | relative_url }}">1974</a>) (available <a href="http://www.amazon.com/dp/0451064240/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451064240/?&amp;tag=ufot-21">on Amazon UK</a>). Later revised as “<a href="{{ '/ufo-history/ufo-books/wilson-clifford-the-alien-agenda' | relative_url }}">The Alien Agenda</a>”.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1988">1988</a></p>
+<p><a href="{{ '/tags/1988' | relative_url }}">1988</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/wilson-clifford">Wilson, Clifford</a> “<a href="/ufo-history/ufo-books/wilson-clifford-the-alien-agenda">The Alien Agenda</a>” (<a href="/tags/1988">1988</a>) (available <a href="http://www.amazon.com/dp/0451157060/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451157060/?&amp;tag=ufot-21">on Amazon UK</a>). Updated version of “<a href="/ufo-history/ufo-books/wilson-clifford-ufos-and-their-mission-impossible">UFOs and Their Mission Impossible</a>”.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/wilson-clifford' | relative_url }}">Wilson, Clifford</a> “<a href="{{ '/ufo-history/ufo-books/wilson-clifford-the-alien-agenda' | relative_url }}">The Alien Agenda</a>” (<a href="{{ '/tags/1988' | relative_url }}">1988</a>) (available <a href="http://www.amazon.com/dp/0451157060/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451157060/?&amp;tag=ufot-21">on Amazon UK</a>). Updated version of “<a href="{{ '/ufo-history/ufo-books/wilson-clifford-ufos-and-their-mission-impossible' | relative_url }}">UFOs and Their Mission Impossible</a>”.</p>
 </td>
 </tr>
 </tbody>

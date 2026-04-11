@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/cia_1.gif"}
 ---
 
-![cia_1](/images/stories/ufo_tags/cia_1.gif)
+![cia_1]({{ '/images/stories/ufo_tags/cia_1.gif' | relative_url }})
 
 *CIA concerns*
 
@@ -61,10 +61,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clarke-david">Clarke, David</a> and <a href="/ufo-history/ufo-personalities/roberts-andy">Roberts, Andy</a> in their “<a href="/ufo-history/ufo-books/clarke-david-and-roberts-andy-phantoms-of-the-sky">Phantoms of the Sky</a>: UFOs – A Modern Myth?” (<a href="/tags/1990">1990</a>) (available <a href="http://www.amazon.com/dp/0709040865/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0709040865/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 128 (in Chapter 6) of the Hale hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clarke-david' | relative_url }}">Clarke, David</a> and <a href="{{ '/ufo-history/ufo-personalities/roberts-andy' | relative_url }}">Roberts, Andy</a> in their “<a href="{{ '/ufo-history/ufo-books/clarke-david-and-roberts-andy-phantoms-of-the-sky' | relative_url }}">Phantoms of the Sky</a>: UFOs – A Modern Myth?” (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) (available <a href="http://www.amazon.com/dp/0709040865/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0709040865/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 128 (in Chapter 6) of the Hale hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -72,10 +72,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td>
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td>
-<p>Haines, Gerhald H (National Reconnaissance Office historian) at footnote 18 of his article entitled “A Die-Hard Issue : CIA's Role in the Study of UFOs, <a href="/tags/1947">1947</a>-90” (<a href="/tags/1997">1997</a>) in “Studies in Intelligence”, Issue <a href="/tags/1997">1997</a> Vol. 1, No. 1 (the text of the study is available online on various websites, including the CIA’s</p>
+<p>Haines, Gerhald H (National Reconnaissance Office historian) at footnote 18 of his article entitled “A Die-Hard Issue : CIA's Role in the Study of UFOs, <a href="{{ '/tags/1947' | relative_url }}">1947</a>-90” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) in “Studies in Intelligence”, Issue <a href="{{ '/tags/1997' | relative_url }}">1997</a> Vol. 1, No. 1 (the text of the study is available online on various websites, including the CIA’s</p>
 <p><a href="http://www.cia.gov/csi/studies/97unclass/ufo.html#ft18">http://www.cia.gov/csi/studies/97unclass/ufo.html#ft18</a></p>
 </td>
 <td>1</td>
@@ -86,6 +86,6 @@ For discussion see the following:
 <a id="other"></a>
 ### Other Material
 
-Deputy Chief, Requirements Staff, FI, memorandum for Deputy Director, Plans, “Flying Saucers” 20 August [1952](/tags/1952), Directorate of Operations Records, Information Management Staff, Job 86-00538R, Box 1.
+Deputy Chief, Requirements Staff, FI, memorandum for Deputy Director, Plans, “Flying Saucers” 20 August [1952]({{ '/tags/1952' | relative_url }}), Directorate of Operations Records, Information Management Staff, Job 86-00538R, Box 1.
 
 Please use the comments section below to share references to any particularly interesting relevant articles.

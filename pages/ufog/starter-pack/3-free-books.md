@@ -48,7 +48,7 @@ While the books listed above represent some of the most significant UFO books wh
 
 James M McCampbell’s book [“Ufology”](http://www.nicap.org/ufology/ufology.htm) (1973) attempts to analyze the reported characteristics of UFOs, e.g. their colour and the sounds they generate, and also of UFO occupants.
 
-Morris K Jessup’s [“The Case for the UFO”](www.cassiopaea.org/cass/Varo-Jessup.PdF)(1955).This version is a transcription of the annotated Varo edition, which is one of the most expensive UFO books to obtain (which, I have to say, should not be taken as any indication that its contents are particularly worth studying).
+Morris K Jessup’s [“The Case for the UFO”]({{ '/www.cassiopaea.org/cass/Varo-Jessup.PdF' | relative_url }})(1955).This version is a transcription of the annotated Varo edition, which is one of the most expensive UFO books to obtain (which, I have to say, should not be taken as any indication that its contents are particularly worth studying).
 
 Les G Howarth’s book (2000) [“If In Doubt, Blame The Aliens”](http://books.iuniverse.com/viewbooks.asp?isbn=0595156932&page=fm9) is one of various more recent books which are available online to “browse before you buy”.
 

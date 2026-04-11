@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/seti_1.jpg"}
 ---
 
-![seti_1](/images/stories/ufo_tags/seti_1.jpg)
+![seti_1]({{ '/images/stories/ufo_tags/seti_1.jpg' | relative_url }})
 
 *Bracewell probe article*
 
@@ -43,15 +43,15 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-Complete text of article reprinted in “The Quest For Extraterrestrial Life: A Book of Readings” ([1980](/tags/1980)) (edited by Donald Goldsmith) (available [on Amazon USA](http://www.amazon.com/dp/0935702083/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0935702083/ref=nosim?tag=ufot-21)) at pages 105-107 (in Chapter 21) of the University Science Books hardback edition.
+Complete text of article reprinted in “The Quest For Extraterrestrial Life: A Book of Readings” ([1980]({{ '/tags/1980' | relative_url }})) (edited by Donald Goldsmith) (available [on Amazon USA](http://www.amazon.com/dp/0935702083/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0935702083/ref=nosim?tag=ufot-21)) at pages 105-107 (in Chapter 21) of the University Science Books hardback edition.
 
-Discussed by [Bracewell, Ronald](/ufo-history/ufo-personalities/bracewell-ronald) in “The Quest For Extraterrestrial Life: A Book of Readings” ([1980](/tags/1980)) (edited by Donald Goldsmith) (available [on Amazon USA](http://www.amazon.com/dp/0935702083/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0935702083/ref=nosim?tag=ufot-21)) at pages 105-107 (in Chapter 21) of the University Science Books hardback edition.
+Discussed by [Bracewell, Ronald]({{ '/ufo-history/ufo-personalities/bracewell-ronald' | relative_url }}) in “The Quest For Extraterrestrial Life: A Book of Readings” ([1980]({{ '/tags/1980' | relative_url }})) (edited by Donald Goldsmith) (available [on Amazon USA](http://www.amazon.com/dp/0935702083/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0935702083/ref=nosim?tag=ufot-21)) at pages 105-107 (in Chapter 21) of the University Science Books hardback edition.
 
-See also references provided in relation to the entry for Ronald Bracewell’s book “[The Galactic Club](/ufo-history/ufo-books/bracewell-ronald-the-galactic-club)” ([1974](/tags/1974)).
+See also references provided in relation to the entry for Ronald Bracewell’s book “[The Galactic Club]({{ '/ufo-history/ufo-books/bracewell-ronald-the-galactic-club' | relative_url }})” ([1974]({{ '/tags/1974' | relative_url }})).
 
 <a id="other"></a>
 ### Other Material
 
-Nature, Volume 186 ([1960](/tags/1960)), 670
+Nature, Volume 186 ([1960]({{ '/tags/1960' | relative_url }})), 670
 
 Please use the comments section below to share references to any particularly interesting relevant articles.

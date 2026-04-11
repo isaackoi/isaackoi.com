@@ -13,7 +13,7 @@ planned_sections: ["1. The relevant image", "2. Stories and claims relating to t
 header: {"preview_image": "/images/stories/alien_photos/koi_ap_40_a.jpg"}
 ---
 
-![](/images/stories/alien_photos/koi_ap_40_a.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_40_a.jpg' | relative_url }})
 
 *Koi Alien Photo 40*
 
@@ -42,19 +42,19 @@ Sections below:
 <a id="image"></a>
 ### 1. The relevant image
 
-![](/images/stories/alien_photos/koi_ap_40_a.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_40_a.jpg' | relative_url }})
 
-![](/images/stories/alien_photos/koi_ap_40_b.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_40_b.jpg' | relative_url }})
 
-![](/images/stories/alien_photos/koi_ap_40_c.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_40_c.jpg' | relative_url }})
 
-![](/images/stories/alien_photos/koi_ap_40_d.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_40_d.jpg' | relative_url }})
 
-![](/images/stories/alien_photos/koi_ap_40_e.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_40_e.jpg' | relative_url }})
 
-![](/images/stories/alien_photos/koi_ap_40_f.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_40_f.jpg' | relative_url }})
 
-![](/images/stories/alien_photos/koi_ap_40_g.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_40_g.jpg' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this image
@@ -86,7 +86,7 @@ In his informative comments, Mr Winslow drew to my attention a tableau of dessic
 
 Notice the similarities to the "alien" in "Koi Alien Photo 40"?
 
-![koi_ap_54_j](/images/stories/alien_photos/koi_ap_54_j.jpg)
+![koi_ap_54_j]({{ '/images/stories/alien_photos/koi_ap_54_j.jpg' | relative_url }})
 
 <a id="forums"></a>
 ### 4. Relevant online forum discussions

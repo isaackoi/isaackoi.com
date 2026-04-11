@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -63,10 +63,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p>Haines, Gerald K (National Reconnaissance Office historian) at footnote 75 in his study entitled “A Die-Hard Issue : CIA's Role in the Study of UFOs, <a href="/tags/1947">1947</a>-90” in “Studies in Intelligence”, Issue <a href="/tags/1997">1997</a> Vol. 1, No. 1 (the text of the study is available online on various websites, including the CIA’s:</p>
+<p>Haines, Gerald K (National Reconnaissance Office historian) at footnote 75 in his study entitled “A Die-Hard Issue : CIA's Role in the Study of UFOs, <a href="{{ '/tags/1947' | relative_url }}">1947</a>-90” in “Studies in Intelligence”, Issue <a href="{{ '/tags/1997' | relative_url }}">1997</a> Vol. 1, No. 1 (the text of the study is available online on various websites, including the CIA’s:</p>
 <p><a href="http://www.cia.gov/csi/studies/97unclass/ufo.html#ft75">http://www.cia.gov/csi/studies/97unclass/ufo.html#ft75</a> )</p>
 </td>
 <td valign="top" width="52">
@@ -75,10 +75,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1975">1975</a></p>
+<p><a href="{{ '/tags/1975' | relative_url }}">1975</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/jacobs-david-michael">Jacobs, David Michael</a> in his “<a href="/ufo-history/ufo-books/jacobs-david-michael-the-ufo-controversy-in-america">The UFO Controversy in America</a>” (<a href="/tags/1975">1975</a>) (available <a href="http://www.amazon.com/dp/0253190061/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0253190061/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 207 (in Chapter 8) of the Indiana hardback edition, page 183 of the Signet paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/jacobs-david-michael' | relative_url }}">Jacobs, David Michael</a> in his “<a href="{{ '/ufo-history/ufo-books/jacobs-david-michael-the-ufo-controversy-in-america' | relative_url }}">The UFO Controversy in America</a>” (<a href="{{ '/tags/1975' | relative_url }}">1975</a>) (available <a href="http://www.amazon.com/dp/0253190061/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0253190061/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 207 (in Chapter 8) of the Indiana hardback edition, page 183 of the Signet paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -86,10 +86,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1968">1968</a></p>
+<p><a href="{{ '/tags/1968' | relative_url }}">1968</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/lore-gordon">Lore, Gordon</a> and <a href="/ufo-history/ufo-personalities/deneault-harold">Deneault, Harold</a> in their “<a href="/ufo-history/ufo-books/lore-gordon-and-deneault-harold-mysteries-of-the-skies">Mysteries of the Skies</a>” (<a href="/tags/1968">1968</a>) (available <a href="http://www.amazon.com/dp/B000IYEI9C/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000IYEI9C/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 184 (in the Epilogue) of the Prentice-Hall hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/lore-gordon' | relative_url }}">Lore, Gordon</a> and <a href="{{ '/ufo-history/ufo-personalities/deneault-harold' | relative_url }}">Deneault, Harold</a> in their “<a href="{{ '/ufo-history/ufo-books/lore-gordon-and-deneault-harold-mysteries-of-the-skies' | relative_url }}">Mysteries of the Skies</a>” (<a href="{{ '/tags/1968' | relative_url }}">1968</a>) (available <a href="http://www.amazon.com/dp/B000IYEI9C/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000IYEI9C/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 184 (in the Epilogue) of the Prentice-Hall hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -97,10 +97,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1967">1967</a></p>
+<p><a href="{{ '/tags/1967' | relative_url }}">1967</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sullivan-walter">Sullivan, Walter</a> in a New York Times article reprinted by <a href="/ufo-history/ufo-personalities/greenfield-irving-a">Greenfield, Irving A</a> in his “The UFO Report” (<a href="/tags/1967">1967</a>) at pages 109-112 (in Chapter 13) of the Lancer paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sullivan-walter' | relative_url }}">Sullivan, Walter</a> in a New York Times article reprinted by <a href="{{ '/ufo-history/ufo-personalities/greenfield-irving-a' | relative_url }}">Greenfield, Irving A</a> in his “The UFO Report” (<a href="{{ '/tags/1967' | relative_url }}">1967</a>) at pages 109-112 (in Chapter 13) of the Lancer paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>

@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -63,10 +63,10 @@ For discussion of President Dwight Eisenhower comments see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1955">1955</a></p>
+<p><a href="{{ '/tags/1955' | relative_url }}">1955</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/keyhoe-donald-e">Keyhoe, Donald E</a> in his “<a href="/ufo-history/ufo-books/keyhoe-donald-e-the-flying-saucer-conspiracy">The Flying Saucer Conspiracy</a>” (<a href="/tags/1955">1955</a>) (available <a href="http://www.amazon.com/dp/B000NPBT9S/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000NPBT9S/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 189-190 (in Chapter 16) of the Hutchinson hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/keyhoe-donald-e' | relative_url }}">Keyhoe, Donald E</a> in his “<a href="{{ '/ufo-history/ufo-books/keyhoe-donald-e-the-flying-saucer-conspiracy' | relative_url }}">The Flying Saucer Conspiracy</a>” (<a href="{{ '/tags/1955' | relative_url }}">1955</a>) (available <a href="http://www.amazon.com/dp/B000NPBT9S/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000NPBT9S/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 189-190 (in Chapter 16) of the Hutchinson hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -74,10 +74,10 @@ For discussion of President Dwight Eisenhower comments see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1962">1962</a></p>
+<p><a href="{{ '/tags/1962' | relative_url }}">1962</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/lorenzen-coral-e">Lorenzen, Coral E</a> in her “<a href="/ufo-history/ufo-books/lorenzen-coral-e-the-great-flying-saucer-hoax">The Great Flying Saucer Hoax</a>” (<a href="/tags/1962">1962</a>) (available <a href="http://www.amazon.com/dp/B0007EF5K4/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0007EF5K4/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 50 (in Chapter 6) of the <a href="/ufo-history/ufo-personalities/apro">APRO</a> hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/lorenzen-coral-e' | relative_url }}">Lorenzen, Coral E</a> in her “<a href="{{ '/ufo-history/ufo-books/lorenzen-coral-e-the-great-flying-saucer-hoax' | relative_url }}">The Great Flying Saucer Hoax</a>” (<a href="{{ '/tags/1962' | relative_url }}">1962</a>) (available <a href="http://www.amazon.com/dp/B0007EF5K4/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0007EF5K4/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 50 (in Chapter 6) of the <a href="{{ '/ufo-history/ufo-personalities/apro' | relative_url }}">APRO</a> hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -85,10 +85,10 @@ For discussion of President Dwight Eisenhower comments see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1966">1966</a></p>
+<p><a href="{{ '/tags/1966' | relative_url }}">1966</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/lorenzen-coral-e">Lorenzen, Coral</a> in “<a href="/ufo-history/ufo-books/lorenzen-coral-e-flying-saucers-the-startling-evidence-of-the-invasion-from-outer-space">Flying Saucers : the Startling Evidence of the Invasion from Outer Space</a>” (<a href="/tags/1966">1966</a>) (an enlarged version of her “<a href="/ufo-history/ufo-books/lorenzen-coral-e-the-great-flying-saucer-hoax">The Great Flying Saucer Hoax</a>” (<a href="/tags/1962">1962</a>)) (available <a href="http://www.amazon.com/dp/B000BD1A2I/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000BD1A2I/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 55 (in Chapter 6) of the Signet paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/lorenzen-coral-e' | relative_url }}">Lorenzen, Coral</a> in “<a href="{{ '/ufo-history/ufo-books/lorenzen-coral-e-flying-saucers-the-startling-evidence-of-the-invasion-from-outer-space' | relative_url }}">Flying Saucers : the Startling Evidence of the Invasion from Outer Space</a>” (<a href="{{ '/tags/1966' | relative_url }}">1966</a>) (an enlarged version of her “<a href="{{ '/ufo-history/ufo-books/lorenzen-coral-e-the-great-flying-saucer-hoax' | relative_url }}">The Great Flying Saucer Hoax</a>” (<a href="{{ '/tags/1962' | relative_url }}">1962</a>)) (available <a href="http://www.amazon.com/dp/B000BD1A2I/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000BD1A2I/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 55 (in Chapter 6) of the Signet paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -96,10 +96,10 @@ For discussion of President Dwight Eisenhower comments see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-the-little-giant-encyclopedia-of-ufos">The Little Giant Encyclopedia of UFOs</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/0806918918/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806918918/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 48 (in Part 1, “A UFO Timeline”) of the Sterling softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-the-little-giant-encyclopedia-of-ufos' | relative_url }}">The Little Giant Encyclopedia of UFOs</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/0806918918/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806918918/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 48 (in Part 1, “A UFO Timeline”) of the Sterling softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -107,10 +107,10 @@ For discussion of President Dwight Eisenhower comments see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1957">1957</a></p>
+<p><a href="{{ '/tags/1957' | relative_url }}">1957</a></p>
 </td>
 <td valign="top" width="547">
-<p>Reeves, Bryant and Reeves, Helen in their “<a href="/ufo-history/ufo-books/reeve-bryant-and-reeve-helen-flying-saucer-pilgrimmage">Flying Saucer Pilgrimmage</a>” (<a href="/tags/1957">1957</a>) (available <a href="http://www.amazon.com/dp/B0007DOAAG/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0007DOAAG/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 44-46 (in Chapter 7) of the Amherst Press hardback edition (with the same page numbering in the Amherst Press softcover edition).</p>
+<p>Reeves, Bryant and Reeves, Helen in their “<a href="{{ '/ufo-history/ufo-books/reeve-bryant-and-reeve-helen-flying-saucer-pilgrimmage' | relative_url }}">Flying Saucer Pilgrimmage</a>” (<a href="{{ '/tags/1957' | relative_url }}">1957</a>) (available <a href="http://www.amazon.com/dp/B0007DOAAG/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0007DOAAG/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 44-46 (in Chapter 7) of the Amherst Press hardback edition (with the same page numbering in the Amherst Press softcover edition).</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -118,10 +118,10 @@ For discussion of President Dwight Eisenhower comments see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/von-buttlar-johannes">Von Buttlar, Johannes</a> in his “<a href="/ufo-history/ufo-books/von-buttlar-johannes-the-ufo-phenomenon">The UFO Phenomenon</a>” (<a href="/tags/1980">1980</a>) (available <a href="http://www.amazon.com/dp/0352306823/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0352306823/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 193-194 (in unnumbered final chapter entitled “High-Level Attitudes”) of the Book Club Associates hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/von-buttlar-johannes' | relative_url }}">Von Buttlar, Johannes</a> in his “<a href="{{ '/ufo-history/ufo-books/von-buttlar-johannes-the-ufo-phenomenon' | relative_url }}">The UFO Phenomenon</a>” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) (available <a href="http://www.amazon.com/dp/0352306823/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0352306823/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 193-194 (in unnumbered final chapter entitled “High-Level Attitudes”) of the Book Club Associates hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

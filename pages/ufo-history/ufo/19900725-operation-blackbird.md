@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -67,10 +67,10 @@ For discussion of “Operation Blackbird” and related events see the following
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2003">2003</a></p>
+<p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/andrews-colin">Andrews, Colin</a> with Spignesi, Stephen J in their “<a href="/ufo-history/ufo-books/andrews-colin-with-spignesi-stephen-j-crop-circles-signs-of-contact">Crop Circles: Signs of Contact</a>” (<a href="/tags/2003">2003</a>) at pages 131-135, 137 (in Chapter 14) of the New Page softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/andrews-colin' | relative_url }}">Andrews, Colin</a> with Spignesi, Stephen J in their “<a href="{{ '/ufo-history/ufo-books/andrews-colin-with-spignesi-stephen-j-crop-circles-signs-of-contact' | relative_url }}">Crop Circles: Signs of Contact</a>” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) at pages 131-135, 137 (in Chapter 14) of the New Page softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>6</p>
@@ -78,10 +78,10 @@ For discussion of “Operation Blackbird” and related events see the following
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="547">
-<p>Collins, Andrew in his “The Circlemakers: A Revolutionary New Vision” (<a href="/tags/1992">1992</a>) (available <a href="http://www.amazon.com/dp/095080245X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/095080245X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 50 (in Chapter 6) of the ABC softcover edition.</p>
+<p>Collins, Andrew in his “The Circlemakers: A Revolutionary New Vision” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="http://www.amazon.com/dp/095080245X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/095080245X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 50 (in Chapter 6) of the ABC softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -89,10 +89,10 @@ For discussion of “Operation Blackbird” and related events see the following
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p>Craft, Michael in his “<a href="/ufo-history/ufo-books/craft-michael-alien-impact">Alien Impact</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/0312962878/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312962878/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 182-183 (in Chapter 9) of the St Martin’s Paperbacks paperback edition.</p>
+<p>Craft, Michael in his “<a href="{{ '/ufo-history/ufo-books/craft-michael-alien-impact' | relative_url }}">Alien Impact</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/0312962878/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312962878/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 182-183 (in Chapter 9) of the St Martin’s Paperbacks paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -100,10 +100,10 @@ For discussion of “Operation Blackbird” and related events see the following
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/hesemann-michael">Hesemann, Michael</a> in his “<a href="/ufo-history/ufo-books/sagan-carl-the-cosmic-connection">The Cosmic Connection</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/1858600170/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1858600170/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 26-27 (in Chapter 2), 28-30, 33 (in Chapter 3) of the Gateway Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hesemann-michael' | relative_url }}">Hesemann, Michael</a> in his “<a href="{{ '/ufo-history/ufo-books/sagan-carl-the-cosmic-connection' | relative_url }}">The Cosmic Connection</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/1858600170/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1858600170/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 26-27 (in Chapter 2), 28-30, 33 (in Chapter 3) of the Gateway Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>6</p>
@@ -111,10 +111,10 @@ For discussion of “Operation Blackbird” and related events see the following
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="Search.html?ordering=0&amp;searchphrase=all&amp;searchword=king">King, Jon</a> in his “<a href="/ufo-history/ufo-books/king-jon-cosmic-top-secret">Cosmic Top Secret</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0340708220/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0340708220/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 223-241 (in the chapter entitled “Document 06”, “File 25”), 273-275, 278 (in the chapter entitled “Document 07”, “File 28”) of the NEL paperback edition.</p>
+<p><a href="Search.html?ordering=0&amp;searchphrase=all&amp;searchword=king">King, Jon</a> in his “<a href="{{ '/ufo-history/ufo-books/king-jon-cosmic-top-secret' | relative_url }}">Cosmic Top Secret</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0340708220/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0340708220/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 223-241 (in the chapter entitled “Document 06”, “File 25”), 273-275, 278 (in the chapter entitled “Document 07”, “File 28”) of the NEL paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>23</p>
@@ -122,10 +122,10 @@ For discussion of “Operation Blackbird” and related events see the following
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/nickell-joe">Nickell, Joe</a> and Fischer, John F in their “<a href="/ufo-history/ufo-books/nickell-joe-and-fischer-john-f-mysterious-realms">Mysterious Realms</a>” (<a href="/tags/1992">1992</a>) (available <a href="http://www.amazon.com/dp/0879757655/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879757655/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 194-195 (in Chapter 11) of the Prometheus hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/nickell-joe' | relative_url }}">Nickell, Joe</a> and Fischer, John F in their “<a href="{{ '/ufo-history/ufo-books/nickell-joe-and-fischer-john-f-mysterious-realms' | relative_url }}">Mysterious Realms</a>” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="http://www.amazon.com/dp/0879757655/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879757655/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 194-195 (in Chapter 11) of the Prometheus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -133,10 +133,10 @@ For discussion of “Operation Blackbird” and related events see the following
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/noyes-ralph">Noyes, Ralph</a> in “The <a href="/ufo-history/ufo-books/noyes-ralph-editor-crop-circle-enigma">Crop Circle Enigma</a>” (<a href="/tags/1990">1990</a>) (available <a href="http://www.amazon.com/dp/0946551669/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0946551669/ref=nosim?tag=ufot-21">on Amazon UK</a>) (edited by <a href="/ufo-history/ufo-personalities/noyes-ralph">Ralph Noyes</a>) at page 29 (in the Introduction) of the revised Gateway softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/noyes-ralph' | relative_url }}">Noyes, Ralph</a> in “The <a href="{{ '/ufo-history/ufo-books/noyes-ralph-editor-crop-circle-enigma' | relative_url }}">Crop Circle Enigma</a>” (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) (available <a href="http://www.amazon.com/dp/0946551669/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0946551669/ref=nosim?tag=ufot-21">on Amazon UK</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/noyes-ralph' | relative_url }}">Ralph Noyes</a>) at page 29 (in the Introduction) of the revised Gateway softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -144,10 +144,10 @@ For discussion of “Operation Blackbird” and related events see the following
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> and <a href="/ufo-history/ufo-personalities/hough-peter">Hough, Peter</a> in their “<a href="/ufo-history/ufo-books/randles-jenny-and-hough-peter-encyclopedia-of-the-unexplained">Encyclopedia of the Unexplained</a>” (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/1860194095/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1860194095/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 26-27 (in the unnumbered chapter entitled “The Supernatural Earth”) of the Brockhampton hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> and <a href="{{ '/ufo-history/ufo-personalities/hough-peter' | relative_url }}">Hough, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-hough-peter-encyclopedia-of-the-unexplained' | relative_url }}">Encyclopedia of the Unexplained</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/1860194095/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1860194095/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 26-27 (in the unnumbered chapter entitled “The Supernatural Earth”) of the Brockhampton hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -155,10 +155,10 @@ For discussion of “Operation Blackbird” and related events see the following
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1993">1993</a></p>
+<p><a href="{{ '/tags/1993' | relative_url }}">1993</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/schnabel-jim">Schnabel, Jim</a> in his “<a href="/ufo-history/ufo-books/schnabel-jim-round-in-circles">Round in Circles</a>” (<a href="/tags/1993">1993</a>) (available <a href="http://www.amazon.com/dp/1591021103/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1591021103/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 164-169 (Chapter 17 generally), 170-174 (in Chapter 18) of the Hamish Hamilton hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/schnabel-jim' | relative_url }}">Schnabel, Jim</a> in his “<a href="{{ '/ufo-history/ufo-books/schnabel-jim-round-in-circles' | relative_url }}">Round in Circles</a>” (<a href="{{ '/tags/1993' | relative_url }}">1993</a>) (available <a href="http://www.amazon.com/dp/1591021103/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1591021103/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 164-169 (Chapter 17 generally), 170-174 (in Chapter 18) of the Hamish Hamilton hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>11</p>
@@ -166,10 +166,10 @@ For discussion of “Operation Blackbird” and related events see the following
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/wingfield-george">Wingfield, George</a> in “The <a href="/ufo-history/ufo-books/noyes-ralph-editor-crop-circle-enigma">Crop Circle Enigma</a>” (<a href="/tags/1990">1990</a>) (available <a href="http://www.amazon.com/dp/0946551669/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0946551669/ref=nosim?tag=ufot-21">on Amazon UK</a>) (edited by <a href="/ufo-history/ufo-personalities/noyes-ralph">Ralph Noyes</a>) at page 100 (in Part 2, unnumbered chapter entitled “Beyond the Current Paradigms”) of the revised Gateway softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/wingfield-george' | relative_url }}">Wingfield, George</a> in “The <a href="{{ '/ufo-history/ufo-books/noyes-ralph-editor-crop-circle-enigma' | relative_url }}">Crop Circle Enigma</a>” (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) (available <a href="http://www.amazon.com/dp/0946551669/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0946551669/ref=nosim?tag=ufot-21">on Amazon UK</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/noyes-ralph' | relative_url }}">Ralph Noyes</a>) at page 100 (in Part 2, unnumbered chapter entitled “Beyond the Current Paradigms”) of the revised Gateway softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -177,10 +177,10 @@ For discussion of “Operation Blackbird” and related events see the following
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/wingfield-george">Wingfield, George</a> in “The <a href="/ufo-history/ufo-books/noyes-ralph-editor-crop-circle-enigma">Crop Circle Enigma</a>” (<a href="/tags/1990">1990</a>) (available <a href="http://www.amazon.com/dp/0946551669/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0946551669/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 188 (in Part 4, unnumbered chapter entitled “Epilogue: What Happened in <a href="/tags/1990">1990</a>”) of the revised Gateway softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/wingfield-george' | relative_url }}">Wingfield, George</a> in “The <a href="{{ '/ufo-history/ufo-books/noyes-ralph-editor-crop-circle-enigma' | relative_url }}">Crop Circle Enigma</a>” (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) (available <a href="http://www.amazon.com/dp/0946551669/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0946551669/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 188 (in Part 4, unnumbered chapter entitled “Epilogue: What Happened in <a href="{{ '/tags/1990' | relative_url }}">1990</a>”) of the revised Gateway softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -188,10 +188,10 @@ For discussion of “Operation Blackbird” and related events see the following
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/wingfield-george">Wingfield, George</a> in “<a href="/ufo-history/ufo-books/good-timothy-editor-the-ufo-report-1992">The UFO Report 1992</a>” (<a href="/tags/1991">1991</a>) (edited by <a href="/ufo-history/ufo-personalities/good-timothy">Timothy Good</a>) (available <a href="http://www.amazon.com/dp/0380713241/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380713241/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 6-14 (in Chapter 1) of the Sidgwick &amp; Jackson softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/wingfield-george' | relative_url }}">Wingfield, George</a> in “<a href="{{ '/ufo-history/ufo-books/good-timothy-editor-the-ufo-report-1992' | relative_url }}">The UFO Report 1992</a>” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/good-timothy' | relative_url }}">Timothy Good</a>) (available <a href="http://www.amazon.com/dp/0380713241/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380713241/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 6-14 (in Chapter 1) of the Sidgwick &amp; Jackson softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>9</p>

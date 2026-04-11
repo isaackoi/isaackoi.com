@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/britain_1.gif"}
 ---
 
-![britain_1](/images/stories/ufo_tags/britain_1.gif)
+![britain_1]({{ '/images/stories/ufo_tags/britain_1.gif' | relative_url }})
 
 *Mince pie Martians*
 
@@ -63,10 +63,10 @@ For discussion of the Jean Hingley encounter see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/baker-alan">Baker, Alan</a> in his “<a href="/ufo-history/ufo-books/baker-alan-the-encyclopaedia-of-alien-encounters">The Encyclopaedia of Alien Encounters</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/1852277343/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1852277343/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 77-78 (in an entry entitled “Fairies (Aliens)”) of the Virgin hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/baker-alan' | relative_url }}">Baker, Alan</a> in his “<a href="{{ '/ufo-history/ufo-books/baker-alan-the-encyclopaedia-of-alien-encounters' | relative_url }}">The Encyclopaedia of Alien Encounters</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/1852277343/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1852277343/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 77-78 (in an entry entitled “Fairies (Aliens)”) of the Virgin hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -74,10 +74,10 @@ For discussion of the Jean Hingley encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/bartholomew-robert-e">Bartholomew, Robert E</a> and Howard, George S in their “<a href="/ufo-history/ufo-books/bartholomew-robert-e-and-howard-george-s-ufos-and-alien-contact">UFOs and Alien Contact</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/1573922005/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573922005/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 378-379 (in Appendix A, entitled “The UFO Contact Catalogue”) of the Prometheus hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/bartholomew-robert-e' | relative_url }}">Bartholomew, Robert E</a> and Howard, George S in their “<a href="{{ '/ufo-history/ufo-books/bartholomew-robert-e-and-howard-george-s-ufos-and-alien-contact' | relative_url }}">UFOs and Alien Contact</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/1573922005/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573922005/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 378-379 (in Appendix A, entitled “The UFO Contact Catalogue”) of the Prometheus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -85,10 +85,10 @@ For discussion of the Jean Hingley encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/budden-albert">Budden, Albert</a> in his “<a href="/ufo-history/ufo-books/budden-albert-electric-ufos">Electric UFOs: Fireballs, Electromagnetics and Abnormal States</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0713726857/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713726857/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 169 (in Chapter 5) of the Blandford hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/budden-albert' | relative_url }}">Budden, Albert</a> in his “<a href="{{ '/ufo-history/ufo-books/budden-albert-electric-ufos' | relative_url }}">Electric UFOs: Fireballs, Electromagnetics and Abnormal States</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0713726857/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713726857/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 169 (in Chapter 5) of the Blandford hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -96,10 +96,10 @@ For discussion of the Jean Hingley encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/budden-albert">Budden, Albert</a> in his “<a href="/ufo-history/ufo-books/budden-albert-ufos-psychic-close-encounters">UFOs : Psychic Close Encounters</a> : The Electromagnetic Indictment” (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/0713724218/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713724218/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 230-236 (in Chapter 7) of the Blandford softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/budden-albert' | relative_url }}">Budden, Albert</a> in his “<a href="{{ '/ufo-history/ufo-books/budden-albert-ufos-psychic-close-encounters' | relative_url }}">UFOs : Psychic Close Encounters</a> : The Electromagnetic Indictment” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/0713724218/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713724218/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 230-236 (in Chapter 7) of the Blandford softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>7</p>
@@ -107,10 +107,10 @@ For discussion of the Jean Hingley encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p>Cassirer, Manfred in his “<a href="/ufo-history/ufo-books/cassirer-manfred-dimensions-of-enchantment">Dimensions of Enchantment</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/0947533893/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0947533893/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 68-72 (in Chapter 5), 119 (in Chapter 9), 149 (in Chapter 10) of the Breese Books softcover edition.</p>
+<p>Cassirer, Manfred in his “<a href="{{ '/ufo-history/ufo-books/cassirer-manfred-dimensions-of-enchantment' | relative_url }}">Dimensions of Enchantment</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/0947533893/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0947533893/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 68-72 (in Chapter 5), 119 (in Chapter 9), 149 (in Chapter 10) of the Breese Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>7</p>
@@ -118,10 +118,10 @@ For discussion of the Jean Hingley encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-extraordinary-encounters">Extraordinary Encounters : An Encyclopedia of Extraterrestrials and Otherworldly Beings</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/1576072495/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1576072495/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 175-177 (in an entry entitled “Mince-Pie Martians”) of the ABC-Clio hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-extraordinary-encounters' | relative_url }}">Extraordinary Encounters : An Encyclopedia of Extraterrestrials and Otherworldly Beings</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/1576072495/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1576072495/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 175-177 (in an entry entitled “Mince-Pie Martians”) of the ABC-Clio hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -129,10 +129,10 @@ For discussion of the Jean Hingley encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p>Dash, Mike in his “Borderlands” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0879517247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879517247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 159-160 (in Chapter 4) of the Arrow paperback edition.</p>
+<p>Dash, Mike in his “Borderlands” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0879517247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879517247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 159-160 (in Chapter 4) of the Arrow paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -140,10 +140,10 @@ For discussion of the Jean Hingley encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p>Marvels and Mysteries (Editors Of) in “Marvels and Mysteries: Aliens” (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/075251217X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/075251217X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 90-91 of the Parrallel softcover edition.</p>
+<p>Marvels and Mysteries (Editors Of) in “Marvels and Mysteries: Aliens” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/075251217X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/075251217X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 90-91 of the Parrallel softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -151,10 +151,10 @@ For discussion of the Jean Hingley encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1988">1988</a></p>
+<p><a href="{{ '/tags/1988' | relative_url }}">1988</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-abduction">Abduction</a>“ (<a href="/tags/1988">1988</a>) (available <a href="http://www.amazon.com/dp/0709032765/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0709032765/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 73-74 (in Chapter 5) of the Hale hardback edition (with the same page numbering in the Headline paperback edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-abduction' | relative_url }}">Abduction</a>“ (<a href="{{ '/tags/1988' | relative_url }}">1988</a>) (available <a href="http://www.amazon.com/dp/0709032765/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0709032765/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 73-74 (in Chapter 5) of the Hale hardback edition (with the same page numbering in the Headline paperback edition).</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -162,10 +162,10 @@ For discussion of the Jean Hingley encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-alien-contact-the-first-fifty-years">Alien Contact – The First Fifty Years</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0806904763/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806904763/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 92 (in the chapter entitled “<a href="/tags/1979">1979</a>”) of the Collins and Brown hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-alien-contact-the-first-fifty-years' | relative_url }}">Alien Contact – The First Fifty Years</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0806904763/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806904763/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 92 (in the chapter entitled “<a href="{{ '/tags/1979' | relative_url }}">1979</a>”) of the Collins and Brown hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -173,10 +173,10 @@ For discussion of the Jean Hingley encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-the-little-giant-encyclopedia-of-ufos">The Little Giant Encyclopedia of UFOs</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/0806918918/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806918918/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 93 (in Part 1, “A UFO Timeline”) of the Sterling softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-the-little-giant-encyclopedia-of-ufos' | relative_url }}">The Little Giant Encyclopedia of UFOs</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/0806918918/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806918918/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 93 (in Part 1, “A UFO Timeline”) of the Sterling softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -184,10 +184,10 @@ For discussion of the Jean Hingley encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1981">1981</a></p>
+<p><a href="{{ '/tags/1981' | relative_url }}">1981</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-ufo-study">UFO Study</a>” (<a href="/tags/1981">1981</a>) (available <a href="http://www.amazon.com/dp/0709188641/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0709188641/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 159-160, 162, 163 (in Chapter 13) of the Hale hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-ufo-study' | relative_url }}">UFO Study</a>” (<a href="{{ '/tags/1981' | relative_url }}">1981</a>) (available <a href="http://www.amazon.com/dp/0709188641/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0709188641/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 159-160, 162, 163 (in Chapter 13) of the Hale hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -195,10 +195,10 @@ For discussion of the Jean Hingley encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/spencer-john">Spencer, John</a> in his “<a href="/ufo-history/ufo-books/spencer-john-the-ufo-encyclopedia">The UFO Encyclopedia</a>” (<a href="/tags/1991">1991</a>) (available <a href="http://www.amazon.com/dp/0380768879/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380768879/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 260-261 (in an entry entitled “Rowley Regis”) of the Guild hardback edition (with the same page numbering in the Avon softcover edition), at pages 305-306 of the Headline paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">Spencer, John</a> in his “<a href="{{ '/ufo-history/ufo-books/spencer-john-the-ufo-encyclopedia' | relative_url }}">The UFO Encyclopedia</a>” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/0380768879/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380768879/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 260-261 (in an entry entitled “Rowley Regis”) of the Guild hardback edition (with the same page numbering in the Avon softcover edition), at pages 305-306 of the Headline paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

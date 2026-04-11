@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -67,10 +67,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1982">1982</a></p>
+<p><a href="{{ '/tags/1982' | relative_url }}">1982</a></p>
 </td>
 <td valign="top" width="547">
-<p>Crawford, Ian A in “<a href="/ufo-history/ufo-books/hart-michael-and-zuckerman-ben-extraterrestrials-where-are-they">Extraterrestrials: Where are they?</a>” (<a href="/tags/1982">1982</a>) (edited by <a href="/ufo-history/ufo-personalities/hart-michael">Michael Hart</a> and <a href="/ufo-history/ufo-personalities/zuckerman-ben">Ben Zuckerman</a>) (available <a href="http://www.amazon.com/dp/0521448034/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521448034/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 50 (in Chapter 8) of the Cambridge softcover second edition. The relevant chapter is a revised and abridged version of an article published under the title “Interstellar Travel: A Review for Astronomers” in Quarterly Journal <em>of the Royal Astronomical Society</em>, Volume 31 (<a href="/tags/1990">1990</a>) at pages 377-400. The text of that article is available free online at: <a href="http://www.star.ucl.ac.uk/~iac/isflight/isflight.html">http://www.star.ucl.ac.uk/~iac/isflight/isflight.html</a></p>
+<p>Crawford, Ian A in “<a href="{{ '/ufo-history/ufo-books/hart-michael-and-zuckerman-ben-extraterrestrials-where-are-they' | relative_url }}">Extraterrestrials: Where are they?</a>” (<a href="{{ '/tags/1982' | relative_url }}">1982</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/hart-michael' | relative_url }}">Michael Hart</a> and <a href="{{ '/ufo-history/ufo-personalities/zuckerman-ben' | relative_url }}">Ben Zuckerman</a>) (available <a href="http://www.amazon.com/dp/0521448034/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521448034/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 50 (in Chapter 8) of the Cambridge softcover second edition. The relevant chapter is a revised and abridged version of an article published under the title “Interstellar Travel: A Review for Astronomers” in Quarterly Journal <em>of the Royal Astronomical Society</em>, Volume 31 (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) at pages 377-400. The text of that article is available free online at: <a href="http://www.star.ucl.ac.uk/~iac/isflight/isflight.html">http://www.star.ucl.ac.uk/~iac/isflight/isflight.html</a></p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -78,10 +78,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1982">1982</a></p>
+<p><a href="{{ '/tags/1982' | relative_url }}">1982</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/dyson-freeman">Dyson, Freeman</a> in “<a href="/ufo-history/ufo-books/hart-michael-and-zuckerman-ben-extraterrestrials-where-are-they">Extraterrestrials: Where are they?</a>” (<a href="/tags/1982">1982</a>) (edited by <a href="/ufo-history/ufo-personalities/hart-michael">Michael Hart</a> and <a href="/ufo-history/ufo-personalities/zuckerman-ben">Ben Zuckerman</a>) (available <a href="http://www.amazon.com/dp/0521448034/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521448034/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 46 (in Chapter 7) of the Cambridge softcover second edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dyson-freeman' | relative_url }}">Dyson, Freeman</a> in “<a href="{{ '/ufo-history/ufo-books/hart-michael-and-zuckerman-ben-extraterrestrials-where-are-they' | relative_url }}">Extraterrestrials: Where are they?</a>” (<a href="{{ '/tags/1982' | relative_url }}">1982</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/hart-michael' | relative_url }}">Michael Hart</a> and <a href="{{ '/ufo-history/ufo-personalities/zuckerman-ben' | relative_url }}">Ben Zuckerman</a>) (available <a href="http://www.amazon.com/dp/0521448034/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521448034/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 46 (in Chapter 7) of the Cambridge softcover second edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -89,10 +89,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1982">1982</a></p>
+<p><a href="{{ '/tags/1982' | relative_url }}">1982</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/hart-michael">Hart, Michael</a> in “<a href="/ufo-history/ufo-books/hart-michael-and-zuckerman-ben-extraterrestrials-where-are-they">Extraterrestrials: Where are they?</a>” (<a href="/tags/1982">1982</a>) (edited by <a href="/ufo-history/ufo-personalities/hart-michael">Michael Hart</a> and <a href="/ufo-history/ufo-personalities/zuckerman-ben">Ben Zuckerman</a>) (available <a href="http://www.amazon.com/dp/0521448034/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521448034/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 4 (in Chapter 1) of the Cambridge softcover second edition. (The relevant chapter is a reprint of <a href="/ufo-history/ufo-personalities/hart-michael">Hart, Michael</a> “An Explanation for the Absence of Extraterrestrials on Earth”, Quarterly Journal of the Royal Astronomical Society, volume 16 (<a href="/tags/1975">1975</a>), pages 128-135).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hart-michael' | relative_url }}">Hart, Michael</a> in “<a href="{{ '/ufo-history/ufo-books/hart-michael-and-zuckerman-ben-extraterrestrials-where-are-they' | relative_url }}">Extraterrestrials: Where are they?</a>” (<a href="{{ '/tags/1982' | relative_url }}">1982</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/hart-michael' | relative_url }}">Michael Hart</a> and <a href="{{ '/ufo-history/ufo-personalities/zuckerman-ben' | relative_url }}">Ben Zuckerman</a>) (available <a href="http://www.amazon.com/dp/0521448034/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521448034/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 4 (in Chapter 1) of the Cambridge softcover second edition. (The relevant chapter is a reprint of <a href="{{ '/ufo-history/ufo-personalities/hart-michael' | relative_url }}">Hart, Michael</a> “An Explanation for the Absence of Extraterrestrials on Earth”, Quarterly Journal of the Royal Astronomical Society, volume 16 (<a href="{{ '/tags/1975' | relative_url }}">1975</a>), pages 128-135).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -100,10 +100,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1989">1989</a></p>
+<p><a href="{{ '/tags/1989' | relative_url }}">1989</a></p>
 </td>
 <td valign="top" width="547">
-<p>Mallove, Eugene F and Matloff, Gregory L in their “<a href="/ufo-history/ufo-books/mallove-eugene-and-matloff-gregory-the-starflight-handbook">The Starflight Handbook</a>” (<a href="/tags/1989">1989</a>) (available <a href="http://www.amazon.com/dp/0471619124/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0471619124/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 242-243 (in Appendix 4) of the Wiley hardback edition.</p>
+<p>Mallove, Eugene F and Matloff, Gregory L in their “<a href="{{ '/ufo-history/ufo-books/mallove-eugene-and-matloff-gregory-the-starflight-handbook' | relative_url }}">The Starflight Handbook</a>” (<a href="{{ '/tags/1989' | relative_url }}">1989</a>) (available <a href="http://www.amazon.com/dp/0471619124/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0471619124/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 242-243 (in Appendix 4) of the Wiley hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -115,20 +115,20 @@ For discussion see the following:
 <a id="other"></a>
 ### Other Material
 
-Mallove, Eugene F, and Robert L Forward. "Bibliography of Interstellar Travel and Communication – 1", *Journal of the British Interplanetary Society*, Volume 27, Number 12 (December [1974](/tags/1974)), pp. 921-943
+Mallove, Eugene F, and Robert L Forward. "Bibliography of Interstellar Travel and Communication – 1", *Journal of the British Interplanetary Society*, Volume 27, Number 12 (December [1974]({{ '/tags/1974' | relative_url }})), pp. 921-943
 
-Mallove, Eugene F., and Robert L. Forward. "Bibliography of Interstellar Travel and Communication – 2", *Journal of the British Interplanetary Society*, Volume 28, Number 3 (March [1975](/tags/1975)), pp. 191-219
+Mallove, Eugene F., and Robert L. Forward. "Bibliography of Interstellar Travel and Communication – 2", *Journal of the British Interplanetary Society*, Volume 28, Number 3 (March [1975]({{ '/tags/1975' | relative_url }})), pp. 191-219
 
-Mallove, Eugene F., and Robert L. Forward. "Bibliography of Interstellar Travel and Communication – 3", *Journal of the British Interplanetary Society*, Volume 28, Number 6 (June [1975](/tags/1975)), pp. 405-434
+Mallove, Eugene F., and Robert L. Forward. "Bibliography of Interstellar Travel and Communication – 3", *Journal of the British Interplanetary Society*, Volume 28, Number 6 (June [1975]({{ '/tags/1975' | relative_url }})), pp. 405-434
 
-Mallove, Eugene F., Robert L. Forward, and Zbigniew Paprotny. "Bibliography of Interstellar Travel and Communication – August [1975](/tags/1975) Update", *Journal of the British Interplanetary Society*, Volume 29, Numbers 7-8 (July-August [1976](/tags/1976)), pp. 494-517.
+Mallove, Eugene F., Robert L. Forward, and Zbigniew Paprotny. "Bibliography of Interstellar Travel and Communication – August [1975]({{ '/tags/1975' | relative_url }}) Update", *Journal of the British Interplanetary Society*, Volume 29, Numbers 7-8 (July-August [1976]({{ '/tags/1976' | relative_url }})), pp. 494-517.
 
-Mallove, Eugene F., Robert L. Forward, and J. Lehmann. "Interstellar Travel and Communication: A Bibliography", *Journal of the British Interplanetary Society*, Volume 33 (June [1980](/tags/1980)), pp. 201-248
+Mallove, Eugene F., Robert L. Forward, and J. Lehmann. "Interstellar Travel and Communication: A Bibliography", *Journal of the British Interplanetary Society*, Volume 33 (June [1980]({{ '/tags/1980' | relative_url }})), pp. 201-248
 
-Paprotny, Z and Lehmann, J ([1983](/tags/1983)) “Interstellar travel and communication bibliography: [1982](/tags/1982) update.” *Journal of the British Interplanetary Society*, Volume 36, pages 311-329
+Paprotny, Z and Lehmann, J ([1983]({{ '/tags/1983' | relative_url }})) “Interstellar travel and communication bibliography: [1982]({{ '/tags/1982' | relative_url }}) update.” *Journal of the British Interplanetary Society*, Volume 36, pages 311-329
 
-Paprotny, Z, Lehmann, J, and Prytz, J ([1984](/tags/1984)). “Interstellar travel and communication bibliography: [1984](/tags/1984) update” *Journal of the British Interplanetary Society*, Volume 37, 502-512
+Paprotny, Z, Lehmann, J, and Prytz, J ([1984]({{ '/tags/1984' | relative_url }})). “Interstellar travel and communication bibliography: [1984]({{ '/tags/1984' | relative_url }}) update” *Journal of the British Interplanetary Society*, Volume 37, 502-512
 
-Paprotny, Z, Lehmann, J, and Prytz, J ([1985](/tags/1985)). “Interstellar travel and communication bibliography: [1985](/tags/1985) update.” *Journal of the British Interplanetary Society*, Volume 39, 127-136
+Paprotny, Z, Lehmann, J, and Prytz, J ([1985]({{ '/tags/1985' | relative_url }})). “Interstellar travel and communication bibliography: [1985]({{ '/tags/1985' | relative_url }}) update.” *Journal of the British Interplanetary Society*, Volume 39, 127-136
 
 Please use the comments section below to share references to any particularly interesting relevant articles.

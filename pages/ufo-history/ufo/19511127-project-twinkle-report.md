@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/documents_1.gif"}
 ---
 
-![documents_1](/images/stories/ufo_tags/documents_1.gif)
+![documents_1]({{ '/images/stories/ufo_tags/documents_1.gif' | relative_url }})
 
 *Project Twinkle report*
 
@@ -41,9 +41,9 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-Image of Project Twinkle final report presented by [Stone, Clifford E](/ufo-history/ufo-personalities/stone-clifford-e) in his “[UFOs are Real](/ufo-history/ufo-books/stone-clifford-e-ufos-are-real)“ ([1997](/tags/1997)) as Document 1-7a to 1-7p on the unnumbered pages after page 10 (in Chapter 1) of the SPI softcover edition.
+Image of Project Twinkle final report presented by [Stone, Clifford E]({{ '/ufo-history/ufo-personalities/stone-clifford-e' | relative_url }}) in his “[UFOs are Real]({{ '/ufo-history/ufo-books/stone-clifford-e-ufos-are-real' | relative_url }})“ ([1997]({{ '/tags/1997' | relative_url }})) as Document 1-7a to 1-7p on the unnumbered pages after page 10 (in Chapter 1) of the SPI softcover edition.
 
-Relatively lengthy extract of Project Twinkle report presented by [Steiger, Brad](/ufo-history/ufo-personalities/steiger-brad) in his “[Project Blue Book](/ufo-history/ufo-books/steiger-brad-project-blue-book)“ ([1976](/tags/1976)) (available [on Amazon USA](http://www.amazon.com/dp/0345345258/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0345345258/ref=nosim?tag=ufot-21)) at pages 251-259 of the Ballantine Books paperback edition under the heading (forming part of “Chapter Nine: A Summary of Project Grudge”).
+Relatively lengthy extract of Project Twinkle report presented by [Steiger, Brad]({{ '/ufo-history/ufo-personalities/steiger-brad' | relative_url }}) in his “[Project Blue Book]({{ '/ufo-history/ufo-books/steiger-brad-project-blue-book' | relative_url }})“ ([1976]({{ '/tags/1976' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0345345258/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0345345258/ref=nosim?tag=ufot-21)) at pages 251-259 of the Ballantine Books paperback edition under the heading (forming part of “Chapter Nine: A Summary of Project Grudge”).
 
 The table below includes references to relevant discussions in UFO/SETI books noted by Isaac Koi during a review of approximately 963 UFO/SETI books during the period 2003-2006 (with a few later additions). The table can be sorted by author, date and length of discussion by clicking on the relevant word in the top line of the table.
 
@@ -69,10 +69,10 @@ For discussion of Project Twinkle’s final report see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a> : Volume 1:A-K” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 460 (forming part of the entry entitled “Green Fireballs and Other Southwestern Lights” at pages 454-461) of the Omnigraphics hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition' | relative_url }}">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a> : Volume 1:A-K” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 460 (forming part of the entry entitled “Green Fireballs and Other Southwestern Lights” at pages 454-461) of the Omnigraphics hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -80,10 +80,10 @@ For discussion of Project Twinkle’s final report see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-the-ufo-book">The UFO Book</a>: Encyclopedia of the Extraterrestrial” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/1578590299/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1578590299/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 261-263 (in an entry entitled “Green Fireballs and Other Southwestern Lights”) of the Visible Ink Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-the-ufo-book' | relative_url }}">The UFO Book</a>: Encyclopedia of the Extraterrestrial” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/1578590299/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1578590299/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 261-263 (in an entry entitled “Green Fireballs and Other Southwestern Lights”) of the Visible Ink Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -91,10 +91,10 @@ For discussion of Project Twinkle’s final report see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq">The UFO Encyclopedia: 1st edition</a>: Volume 2 – Emergence of a Phenomenon” (<a href="/tags/1992">1992</a>) (available <a href="http://www.amazon.com/dp/1558887415/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558887415/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 189-190 (in an entry entitled “Green Fireballs and Other Southwestern Lights”) of the Omnigraphics hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq' | relative_url }}">The UFO Encyclopedia: 1st edition</a>: Volume 2 – Emergence of a Phenomenon” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="http://www.amazon.com/dp/1558887415/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558887415/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 189-190 (in an entry entitled “Green Fireballs and Other Southwestern Lights”) of the Omnigraphics hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -102,10 +102,10 @@ For discussion of Project Twinkle’s final report see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1976">1976</a></p>
+<p><a href="{{ '/tags/1976' | relative_url }}">1976</a></p>
 </td>
 <td valign="top" width="547">
-<p>Flammonde, Paris in his “<a href="/ufo-history/ufo-books/flammonde-paris-ufo-exist">Ufo Exist!</a>” (<a href="/tags/1976">1976</a>) (available <a href="http://www.amazon.com/dp/0345339517/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0345339517/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 393 (in Chapter 20) of the Ballantine Books paperback edition.</p>
+<p>Flammonde, Paris in his “<a href="{{ '/ufo-history/ufo-books/flammonde-paris-ufo-exist' | relative_url }}">Ufo Exist!</a>” (<a href="{{ '/tags/1976' | relative_url }}">1976</a>) (available <a href="http://www.amazon.com/dp/0345339517/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0345339517/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 393 (in Chapter 20) of the Ballantine Books paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -113,10 +113,10 @@ For discussion of Project Twinkle’s final report see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/maccabee-bruce">Maccabee, Bruce</a> in his “<a href="/ufo-history/ufo-books/maccabee-bruce-ufo-fbi-connection">UFO-FBI Connection</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/1567184936/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1567184936/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 150-153 (in Chapter 15) of the Llewellyn softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/maccabee-bruce' | relative_url }}">Maccabee, Bruce</a> in his “<a href="{{ '/ufo-history/ufo-books/maccabee-bruce-ufo-fbi-connection' | relative_url }}">UFO-FBI Connection</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/1567184936/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1567184936/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 150-153 (in Chapter 15) of the Llewellyn softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -124,10 +124,10 @@ For discussion of Project Twinkle’s final report see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sachs-margaret">Sachs, Margaret</a> in her “<a href="/ufo-history/ufo-books/sachs-margaret-the-ufo-encyclopedia">The UFO Encyclopedia</a>“ (<a href="/tags/1980">1980</a> (available <a href="http://www.amazon.com/dp/0399124217/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0399124217/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 261 of the Corgi softback edition in an entry entitled “Project Twinkle”.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sachs-margaret' | relative_url }}">Sachs, Margaret</a> in her “<a href="{{ '/ufo-history/ufo-books/sachs-margaret-the-ufo-encyclopedia' | relative_url }}">The UFO Encyclopedia</a>“ (<a href="{{ '/tags/1980' | relative_url }}">1980</a> (available <a href="http://www.amazon.com/dp/0399124217/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0399124217/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 261 of the Corgi softback edition in an entry entitled “Project Twinkle”.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -141,7 +141,7 @@ For discussion of Project Twinkle’s final report see the following:
 
 See also the references provided in relation to the entry for Project Twinkle.
 
-Complete images of the Project Twinkle Report included on the redacted US National Archives and Records Administration (“NARA”) microfilm records of Project Blue Book, released to the National Archives in [1975](/tags/1975) – see National Archives Microfilm Publication T1206 roll number 85 (“Administrative Files: Box 1”). Images of the relevant pages are at the link below from the page with the unique Page ID (“PID”) of NARA-PBB85-491 (page 491 of 915) to the page with the PID of NARA-PBB85-503 (page 503 of 1014).
+Complete images of the Project Twinkle Report included on the redacted US National Archives and Records Administration (“NARA”) microfilm records of Project Blue Book, released to the National Archives in [1975]({{ '/tags/1975' | relative_url }}) – see National Archives Microfilm Publication T1206 roll number 85 (“Administrative Files: Box 1”). Images of the relevant pages are at the link below from the page with the unique Page ID (“PID”) of NARA-PBB85-491 (page 491 of 915) to the page with the PID of NARA-PBB85-503 (page 503 of 1014).
 
 Complete images of the Project Twinkle Report included on the unredacted Maxwell Air Force Base (“Maxwell”) microfilm records of Project Blue Book – see Maxwell microfilm roll number 30,362. Images of the document are at the link below from the page with the PID of MAXW-PBB1-888 (page 888 of 1537) to the page with the PID of MAXW-PBB1-903 (page 903 of 1537).
 

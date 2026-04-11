@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -63,10 +63,10 @@ For discussion of “the MIT Conference” see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/boylan-richard-j">Boylan, Richard</a> and Lee Boylan in their “<a href="/ufo-history/ufo-books/boylan-richard-j-and-boylan-lee-k-close-extraterrestrial-encounters-positive-experiences-with-mysteries-visitors">Close Extraterrestrial Encounters: Positive Experiences With Mysteries Visitors</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/0926524267/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0926524267/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 9-10 (in the Introduction) of the Wild Flower Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/boylan-richard-j' | relative_url }}">Boylan, Richard</a> and Lee Boylan in their “<a href="{{ '/ufo-history/ufo-books/boylan-richard-j-and-boylan-lee-k-close-extraterrestrial-encounters-positive-experiences-with-mysteries-visitors' | relative_url }}">Close Extraterrestrial Encounters: Positive Experiences With Mysteries Visitors</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/0926524267/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0926524267/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 9-10 (in the Introduction) of the Wild Flower Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -74,10 +74,10 @@ For discussion of “the MIT Conference” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/boylan-richard-j">Boylan, Richard</a> in his “Project Epiphany” (<a href="/tags/1996">1996</a>) at page 6 (in Chapter 1) of the The Book Tree softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/boylan-richard-j' | relative_url }}">Boylan, Richard</a> in his “Project Epiphany” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) at page 6 (in Chapter 1) of the The Book Tree softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -85,10 +85,10 @@ For discussion of “the MIT Conference” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/bryan-c-d-b">Bryan, C D B</a> in his “<a href="/ufo-history/ufo-books/bryan-c-d-b-close-encounters-of-the-fourth-kind">Close Encounters of the Fourth Kind</a>: Alien Abduction, UFOs, and the Conference at MIT” (<a href="/tags/1995">1995</a>) generally, particularly at pages 3-200 (Chapters 1 to 6) of the Weidenfeld &amp; Nicolson hardback edition (with the same page numbering in the Knopf hardback edition and the Penguin Arkana softcover edition) at pages 1-269 of the Orion paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/bryan-c-d-b' | relative_url }}">Bryan, C D B</a> in his “<a href="{{ '/ufo-history/ufo-books/bryan-c-d-b-close-encounters-of-the-fourth-kind' | relative_url }}">Close Encounters of the Fourth Kind</a>: Alien Abduction, UFOs, and the Conference at MIT” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) generally, particularly at pages 3-200 (Chapters 1 to 6) of the Weidenfeld &amp; Nicolson hardback edition (with the same page numbering in the Knopf hardback edition and the Penguin Arkana softcover edition) at pages 1-269 of the Orion paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>198</p>
@@ -96,10 +96,10 @@ For discussion of “the MIT Conference” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p>David E Pritchard in “<a href="/ufo-history/ufo-books/pritchard-andrea-et-al-editors-alien-discussions-abduction-study-conference-held-at-m-i-t">Alien Discussions: Abduction Study Conference Held at M. I. T.</a>” (<a href="/tags/1994">1994</a>) (edited by Andrea Pritchard et al.) (available <a href="http://www.amazon.com/dp/0964491702/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0964491702/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 20-21 (in Chapter 1, unnumbered sub-chapter entitled “Introductory Remarks at the Conference”) of the North Cambridge Press hardback edition.</p>
+<p>David E Pritchard in “<a href="{{ '/ufo-history/ufo-books/pritchard-andrea-et-al-editors-alien-discussions-abduction-study-conference-held-at-m-i-t' | relative_url }}">Alien Discussions: Abduction Study Conference Held at M. I. T.</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (edited by Andrea Pritchard et al.) (available <a href="http://www.amazon.com/dp/0964491702/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0964491702/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 20-21 (in Chapter 1, unnumbered sub-chapter entitled “Introductory Remarks at the Conference”) of the North Cambridge Press hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -107,10 +107,10 @@ For discussion of “the MIT Conference” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/dean-jodi">Dean, Jodi</a> in her “<a href="/ufo-history/ufo-books/dean-jodi-aliens-in-america">Aliens in America</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0801484685/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0801484685/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 1 (in the Introduction), 56 (in Chapter 1) of the Cornell University softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dean-jodi' | relative_url }}">Dean, Jodi</a> in her “<a href="{{ '/ufo-history/ufo-books/dean-jodi-aliens-in-america' | relative_url }}">Aliens in America</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0801484685/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0801484685/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 1 (in the Introduction), 56 (in Chapter 1) of the Cornell University softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -118,10 +118,10 @@ For discussion of “the MIT Conference” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/emmons-charles-f">Emmons, Charles F</a> in his “<a href="/ufo-history/ufo-books/emmons-charles-f-at-the-threshold-ufos-science-and-the-new-age">At The Threshold: UFOs, Science and the New Age</a>” (available <a href="http://www.amazon.com/dp/0926524429/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0926524429/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 193 (in Chapter 10) of the Wild Flower Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/emmons-charles-f' | relative_url }}">Emmons, Charles F</a> in his “<a href="{{ '/ufo-history/ufo-books/emmons-charles-f-at-the-threshold-ufos-science-and-the-new-age' | relative_url }}">At The Threshold: UFOs, Science and the New Age</a>” (available <a href="http://www.amazon.com/dp/0926524429/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0926524429/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 193 (in Chapter 10) of the Wild Flower Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -129,10 +129,10 @@ For discussion of “the MIT Conference” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/hopkins-budd">Hopkins, Budd</a> in his “<a href="/ufo-history/ufo-books/hopkins-budd-witnessed">Witnessed</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/0747533229/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0747533229/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 385-386 (in Appendix 1) of the Bloomsbury hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hopkins-budd' | relative_url }}">Hopkins, Budd</a> in his “<a href="{{ '/ufo-history/ufo-books/hopkins-budd-witnessed' | relative_url }}">Witnessed</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/0747533229/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0747533229/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 385-386 (in Appendix 1) of the Bloomsbury hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -140,10 +140,10 @@ For discussion of “the MIT Conference” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/mack-john-e">Mack, John E</a> in his “<a href="/ufo-history/ufo-books/mack-john-e-passport-to-the-cosmos">Passport to the Cosmos</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/1601641613/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1601641613/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 27 (in Chapter 2) of the Thorsons softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/mack-john-e' | relative_url }}">Mack, John E</a> in his “<a href="{{ '/ufo-history/ufo-books/mack-john-e-passport-to-the-cosmos' | relative_url }}">Passport to the Cosmos</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/1601641613/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1601641613/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 27 (in Chapter 2) of the Thorsons softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -151,10 +151,10 @@ For discussion of “the MIT Conference” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/mack-john-e">Mack, John E</a> in “<a href="/ufo-history/ufo-books/pritchard-andrea-et-al-editors-alien-discussions-abduction-study-conference-held-at-m-i-t">Alien Discussions: Abduction Study Conference Held at M. I. T.</a>” (<a href="/tags/1994">1994</a>) (edited by Andrea Pritchard et al.) (available <a href="http://www.amazon.com/dp/0964491702/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0964491702/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 19 (in Chapter 1, unnumbered sub-chapter entitled “Introduction to the Conference: Welcome”) of the North Cambridge Press hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/mack-john-e' | relative_url }}">Mack, John E</a> in “<a href="{{ '/ufo-history/ufo-books/pritchard-andrea-et-al-editors-alien-discussions-abduction-study-conference-held-at-m-i-t' | relative_url }}">Alien Discussions: Abduction Study Conference Held at M. I. T.</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (edited by Andrea Pritchard et al.) (available <a href="http://www.amazon.com/dp/0964491702/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0964491702/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 19 (in Chapter 1, unnumbered sub-chapter entitled “Introduction to the Conference: Welcome”) of the North Cambridge Press hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -162,10 +162,10 @@ For discussion of “the MIT Conference” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p>Missler, Chuck and Eastman, Mark in their “<a href="/ufo-history/ufo-books/missler-chuck-and-eastman-mark-alien-encounters">Alien Encounters: The Secret behind the UFO Phenomenon</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1578210615/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1578210615/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 99-100 (in Chapter 5) of the Koinonia House softcover edition.</p>
+<p>Missler, Chuck and Eastman, Mark in their “<a href="{{ '/ufo-history/ufo-books/missler-chuck-and-eastman-mark-alien-encounters' | relative_url }}">Alien Encounters: The Secret behind the UFO Phenomenon</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1578210615/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1578210615/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 99-100 (in Chapter 5) of the Koinonia House softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -173,10 +173,10 @@ For discussion of “the MIT Conference” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2002">2002</a></p>
+<p><a href="{{ '/tags/2002' | relative_url }}">2002</a></p>
 </td>
 <td valign="top" width="547">
-<p>Nixon, Neil in his “<a href="/ufo-history/ufo-books/nixon-neil-pocket-essentials-ufos">Pocket Essentials : UFOs</a>” (<a href="/tags/2002">2002</a>) (available <a href="http://www.amazon.com/dp/1903047889/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1903047889/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 37 (in Chapter 2), 79 (in Chapter 6) of the Pocket Essentials softcover edition.</p>
+<p>Nixon, Neil in his “<a href="{{ '/ufo-history/ufo-books/nixon-neil-pocket-essentials-ufos' | relative_url }}">Pocket Essentials : UFOs</a>” (<a href="{{ '/tags/2002' | relative_url }}">2002</a>) (available <a href="http://www.amazon.com/dp/1903047889/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1903047889/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 37 (in Chapter 2), 79 (in Chapter 6) of the Pocket Essentials softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -184,10 +184,10 @@ For discussion of “the MIT Conference” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/park-robert">Park, Robert</a> in his “<a href="/ufo-history/ufo-books/park-robert-voodoo-science">Voodoo Science</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/0195147103/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0195147103/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 174-175 (in Chapter 9) of the Oxford University Press hardcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/park-robert' | relative_url }}">Park, Robert</a> in his “<a href="{{ '/ufo-history/ufo-books/park-robert-voodoo-science' | relative_url }}">Voodoo Science</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/0195147103/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0195147103/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 174-175 (in Chapter 9) of the Oxford University Press hardcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -195,10 +195,10 @@ For discussion of “the MIT Conference” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p>Parker, Barry in his “Alien Life” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0306457954/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0306457954/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 222-223 (in Chapter 13) of the Plenum Trade hardback edition.</p>
+<p>Parker, Barry in his “Alien Life” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0306457954/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0306457954/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 222-223 (in Chapter 13) of the Plenum Trade hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -206,10 +206,10 @@ For discussion of “the MIT Conference” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/pope-nick">Pope, Nick</a> in his “<a href="/ufo-history/ufo-books/pope-nick-the-uninvited">The Uninvited</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0879518782/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879518782/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 133-135 (in Chapter 7) of the Simon and Schuster hardback edition, with the same page numbering in the Pocket Books paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/pope-nick' | relative_url }}">Pope, Nick</a> in his “<a href="{{ '/ufo-history/ufo-books/pope-nick-the-uninvited' | relative_url }}">The Uninvited</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0879518782/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879518782/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 133-135 (in Chapter 7) of the Simon and Schuster hardback edition, with the same page numbering in the Pocket Books paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -217,10 +217,10 @@ For discussion of “the MIT Conference” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randle-kevin">Randle, Kevin</a> D and <a href="/ufo-history/ufo-personalities/estes-russ">Estes, Russ</a> and Cone, William in their “<a href="/ufo-history/ufo-books/randle-kevin-and-estes-russ-and-cone-william-the-abduction-enigma">The Abduction Enigma</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0312867085/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312867085/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 356 (in Chapter 24) of the Forge hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randle-kevin' | relative_url }}">Randle, Kevin</a> D and <a href="{{ '/ufo-history/ufo-personalities/estes-russ' | relative_url }}">Estes, Russ</a> and Cone, William in their “<a href="{{ '/ufo-history/ufo-books/randle-kevin-and-estes-russ-and-cone-william-the-abduction-enigma' | relative_url }}">The Abduction Enigma</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0312867085/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312867085/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 356 (in Chapter 24) of the Forge hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -228,10 +228,10 @@ For discussion of “the MIT Conference” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> and <a href="/ufo-history/ufo-personalities/hough-peter">Hough, Peter</a> in their “<a href="/ufo-history/ufo-books/randles-jenny-and-hough-peter-50-years-of-ufo-encounters">50 Years of UFO Encounters</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/B000NLQNZC/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000NLQNZC/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 90-91 (in unnumbered section entitled “<a href="/tags/1992">1992</a>: UFOs at MIT”) of the Encounters Magazine softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> and <a href="{{ '/ufo-history/ufo-personalities/hough-peter' | relative_url }}">Hough, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-hough-peter-50-years-of-ufo-encounters' | relative_url }}">50 Years of UFO Encounters</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/B000NLQNZC/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000NLQNZC/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 90-91 (in unnumbered section entitled “<a href="{{ '/tags/1992' | relative_url }}">1992</a>: UFOs at MIT”) of the Encounters Magazine softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -239,10 +239,10 @@ For discussion of “the MIT Conference” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> and <a href="/ufo-history/ufo-personalities/hough-peter">Hough, Peter</a> in their “<a href="/ufo-history/ufo-books/randles-jenny-and-hough-peter-encyclopedia-of-the-unexplained">Encyclopedia of the Unexplained</a>” (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/1860194095/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1860194095/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 67 (in the unnumbered chapter entitled “Space Invaders”) of the Brockhampton hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> and <a href="{{ '/ufo-history/ufo-personalities/hough-peter' | relative_url }}">Hough, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-hough-peter-encyclopedia-of-the-unexplained' | relative_url }}">Encyclopedia of the Unexplained</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/1860194095/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1860194095/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 67 (in the unnumbered chapter entitled “Space Invaders”) of the Brockhampton hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -250,10 +250,10 @@ For discussion of “the MIT Conference” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> and <a href="/ufo-history/ufo-personalities/hough-peter">Hough, Peter</a> in their “<a href="/ufo-history/ufo-books/randles-jenny-and-hough-peter-the-complete-book-of-ufos">The Complete Book of UFOs</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/0806981326/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806981326/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 370 (in Chapter 36) of the Piatkus softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> and <a href="{{ '/ufo-history/ufo-personalities/hough-peter' | relative_url }}">Hough, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-hough-peter-the-complete-book-of-ufos' | relative_url }}">The Complete Book of UFOs</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/0806981326/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806981326/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 370 (in Chapter 36) of the Piatkus softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -261,10 +261,10 @@ For discussion of “the MIT Conference” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-alien-contact-the-first-fifty-years">Alien Contact – The First Fifty Years</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0806904763/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806904763/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 124 (in the chapter entitled “<a href="/tags/1992">1992</a>”) of the Collins and Brown hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-alien-contact-the-first-fifty-years' | relative_url }}">Alien Contact – The First Fifty Years</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0806904763/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806904763/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 124 (in the chapter entitled “<a href="{{ '/tags/1992' | relative_url }}">1992</a>”) of the Collins and Brown hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -272,10 +272,10 @@ For discussion of “the MIT Conference” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-star-children">Star Children</a>” (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/0806938560/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806938560/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 24 (in Chapter 2) of the Sterling softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-star-children' | relative_url }}">Star Children</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/0806938560/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806938560/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 24 (in Chapter 2) of the Sterling softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -283,10 +283,10 @@ For discussion of “the MIT Conference” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-the-complete-book-of-aliens-and-abductions">The Complete Book of Aliens and Abductions</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0749921005/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0749921005/ref=nosim?tag=ufot-21">on Amazon UK</a>) a pages 49, 51 (in Part 1) of the Piatkus hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-the-complete-book-of-aliens-and-abductions' | relative_url }}">The Complete Book of Aliens and Abductions</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0749921005/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0749921005/ref=nosim?tag=ufot-21">on Amazon UK</a>) a pages 49, 51 (in Part 1) of the Piatkus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -294,10 +294,10 @@ For discussion of “the MIT Conference” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-the-little-giant-encyclopedia-of-ufos">The Little Giant Encyclopedia of UFOs</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/0806918918/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806918918/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 121 (in Part 1, “A UFO Timeline”) of the Sterling softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-the-little-giant-encyclopedia-of-ufos' | relative_url }}">The Little Giant Encyclopedia of UFOs</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/0806918918/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806918918/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 121 (in Part 1, “A UFO Timeline”) of the Sterling softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -305,10 +305,10 @@ For discussion of “the MIT Conference” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-the-paranormal-source-book">The Paranormal Source Book</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/0749914114/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0749914114/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 10, 14 (in the unnumbered, but alphabetically arranged, chapter entitled “Alien Abductions”) of the Piatkus hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-the-paranormal-source-book' | relative_url }}">The Paranormal Source Book</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/0749914114/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0749914114/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 10, 14 (in the unnumbered, but alphabetically arranged, chapter entitled “Alien Abductions”) of the Piatkus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -316,10 +316,10 @@ For discussion of “the MIT Conference” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-the-unexplained-great-mysteries-of-the-20th-century">The Unexplained: Great Mysteries of the 20th Century</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/1860192009/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1860192009/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 133 (in the unnumbered chapter entitled “The <a href="/tags/1990">1990</a>s”) of the Index hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-the-unexplained-great-mysteries-of-the-20th-century' | relative_url }}">The Unexplained: Great Mysteries of the 20th Century</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/1860192009/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1860192009/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 133 (in the unnumbered chapter entitled “The <a href="{{ '/tags/1990' | relative_url }}">1990</a>s”) of the Index hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -327,10 +327,10 @@ For discussion of “the MIT Conference” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/schnabel-jim">Schnabel, Jim</a> in his “<a href="/ufo-history/ufo-books/schnabel-jim-dark-white">Dark White</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/0140179534/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0140179534/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 195 (in Chapter 9), 253 (in Chapter 12) of the Hamish Hamilton softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/schnabel-jim' | relative_url }}">Schnabel, Jim</a> in his “<a href="{{ '/ufo-history/ufo-books/schnabel-jim-dark-white' | relative_url }}">Dark White</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/0140179534/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0140179534/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 195 (in Chapter 9), 253 (in Chapter 12) of the Hamish Hamilton softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

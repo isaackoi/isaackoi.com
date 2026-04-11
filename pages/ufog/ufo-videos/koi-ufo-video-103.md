@@ -42,9 +42,9 @@ This video appears to show a list of numbers being written in the sky.
 
 Screen shots from this video are included below for ease of identification.
 
-![](/images/stories/ufo_videos/video103_1.JPG)
+![]({{ '/images/stories/ufo_videos/video103_1.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video103_2.JPG)
+![]({{ '/images/stories/ufo_videos/video103_2.JPG' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this video
@@ -80,15 +80,15 @@ The "Pi in the Sky" event had [an official Facebook page](https://www.facebook.c
 
 [https://www.youtube.com/watch?v=3lsT2LB2gvw](https://www.youtube.com/watch?v=3lsT2LB2gvw)
 
-![](/images/stories/ufo_videos/video103_4.JPG)
+![]({{ '/images/stories/ufo_videos/video103_4.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video103_3.JPG)
+![]({{ '/images/stories/ufo_videos/video103_3.JPG' | relative_url }})
 
 Airsign USA has [a website](http://www.airsign.com/)offering various forms of aerial advertising, [including skywriting](http://www.airsign.com/skywriting.php).
 
-![](/images/stories/ufo_videos/video103_5.JPG)
+![]({{ '/images/stories/ufo_videos/video103_5.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video103_6.JPG)
+![]({{ '/images/stories/ufo_videos/video103_6.JPG' | relative_url }})
 
 Incidentally, several of the Youtube pages for relevant videos include comments from eyewitnesses that said that they were able to see the airplanes from the ground. For example, the video below has a comment posted by GregFernandezJr includes the following:
 
@@ -103,4 +103,4 @@ Relevant discussions on the AboveTopSecret.com forum include the following:
 
 2012 (December) discussion entitled "[Skywriters "Pi in the Sky" work now being described online as showing "UFO" writing](http://www.abovetopsecret.com/forum/thread913034/pg1)"
 
-![](/images/stories/ufo_videos/video103_2d.jpg)
+![]({{ '/images/stories/ufo_videos/video103_2d.jpg' | relative_url }})

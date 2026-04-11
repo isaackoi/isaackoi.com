@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0397317808.jpg"}
 book: {"identifiers": ["0397317808"], "primary_isbn": "0397317808", "cover_image": "/book-covers/0397317808.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Daniel Cohen](/ufo-history/ufo-personalities/cohen-daniel)'s book “[The World of UFOs](/ufo-history/ufo-books/cohen-daniel-the-world-of-ufos)” ([1978](/tags/1978)) (available [on Amazon USA](http://www.amazon.com/dp/0397317808/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0397317808/?&tag=ufot-21))
+Brief review to be added of [Daniel Cohen]({{ '/ufo-history/ufo-personalities/cohen-daniel' | relative_url }})'s book “[The World of UFOs]({{ '/ufo-history/ufo-books/cohen-daniel-the-world-of-ufos' | relative_url }})” ([1978]({{ '/tags/1978' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0397317808/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0397317808/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

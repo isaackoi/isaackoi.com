@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -63,10 +63,10 @@ For discussion of World Contact Day see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1967">1967</a></p>
+<p><a href="{{ '/tags/1967' | relative_url }}">1967</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/bender-albert-k">Bender, Albert K</a> in “<a href="/ufo-history/ufo-books/david-jay-the-flying-saucer-reader">The Flying Saucer Reader</a>” (<a href="/tags/1967">1967</a>) (edited by <a href="/ufo-history/ufo-personalities/david-jay">Jay David</a>) (available <a href="http://www.amazon.com/dp/B000OO1DYY/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000OO1DYY/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 89-92 (in the unnumbered chapter entitled “… By Mental Telepathy”) of the Signet paperback edition. The relevant chapter is reprinted from “<a href="/ufo-history/ufo-books/bender-albert-k-flying-saucers-and-the-three-men">Flying Saucers and the Three Men</a>” by <a href="/ufo-history/ufo-personalities/bender-albert-k">Albert K Bender</a>.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/bender-albert-k' | relative_url }}">Bender, Albert K</a> in “<a href="{{ '/ufo-history/ufo-books/david-jay-the-flying-saucer-reader' | relative_url }}">The Flying Saucer Reader</a>” (<a href="{{ '/tags/1967' | relative_url }}">1967</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/david-jay' | relative_url }}">Jay David</a>) (available <a href="http://www.amazon.com/dp/B000OO1DYY/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000OO1DYY/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 89-92 (in the unnumbered chapter entitled “… By Mental Telepathy”) of the Signet paperback edition. The relevant chapter is reprinted from “<a href="{{ '/ufo-history/ufo-books/bender-albert-k-flying-saucers-and-the-three-men' | relative_url }}">Flying Saucers and the Three Men</a>” by <a href="{{ '/ufo-history/ufo-personalities/bender-albert-k' | relative_url }}">Albert K Bender</a>.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -74,10 +74,10 @@ For discussion of World Contact Day see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1962">1962</a></p>
+<p><a href="{{ '/tags/1962' | relative_url }}">1962</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/bender-albert-k">Bender, Albert K</a> in his “<a href="/ufo-history/ufo-books/bender-albert-k-flying-saucers-and-the-three-men">Flying Saucers and the Three Men</a>” (<a href="/tags/1962">1962</a>) (available <a href="http://www.amazon.com/dp/B0007DK7U8/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0007DK7U8/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 82-86 (in Chapter 9 generally), 87-89 (in Chapter 10) of the Neville Spearman hardback edition, at pages 67-71, 71-73 of the Paperback Library paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/bender-albert-k' | relative_url }}">Bender, Albert K</a> in his “<a href="{{ '/ufo-history/ufo-books/bender-albert-k-flying-saucers-and-the-three-men' | relative_url }}">Flying Saucers and the Three Men</a>” (<a href="{{ '/tags/1962' | relative_url }}">1962</a>) (available <a href="http://www.amazon.com/dp/B0007DK7U8/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0007DK7U8/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 82-86 (in Chapter 9 generally), 87-89 (in Chapter 10) of the Neville Spearman hardback edition, at pages 67-71, 71-73 of the Paperback Library paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>8</p>
@@ -85,10 +85,10 @@ For discussion of World Contact Day see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p>Christopher, Paul in his “<a href="/ufo-history/ufo-books/christopher-paul-alien-intervention">Alien Intervention: The Spiritual Mission of UFOs</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/1563841487/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1563841487/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 29-30 (in Chapter 2) of the Huntington House softcover edition.</p>
+<p>Christopher, Paul in his “<a href="{{ '/ufo-history/ufo-books/christopher-paul-alien-intervention' | relative_url }}">Alien Intervention: The Spiritual Mission of UFOs</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/1563841487/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1563841487/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 29-30 (in Chapter 2) of the Huntington House softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -96,10 +96,10 @@ For discussion of World Contact Day see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1977">1977</a></p>
+<p><a href="{{ '/tags/1977' | relative_url }}">1977</a></p>
 </td>
 <td valign="top" width="547">
-<p>Ortzen, Len in his “<a href="/ufo-history/ufo-books/ortzen-len-strange-stories-of-ufos">Strange Stories of UFOs</a>” (<a href="/tags/1977">1977</a>) (available <a href="http://www.amazon.com/dp/0340242639/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0340242639/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 8-9 (in Chapter 1) of the Coronet paperback edition.</p>
+<p>Ortzen, Len in his “<a href="{{ '/ufo-history/ufo-books/ortzen-len-strange-stories-of-ufos' | relative_url }}">Strange Stories of UFOs</a>” (<a href="{{ '/tags/1977' | relative_url }}">1977</a>) (available <a href="http://www.amazon.com/dp/0340242639/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0340242639/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 8-9 (in Chapter 1) of the Coronet paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -107,10 +107,10 @@ For discussion of World Contact Day see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p>Ritchie, David in his “<a href="/ufo-history/ufo-books/ritchie-david-ufo-the-definitive-guide">UFO : The Definitive Guide</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/1567312004/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1567312004/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 238 (in an entry entitled “World Contact Day”) of the MJF hardback edition.</p>
+<p>Ritchie, David in his “<a href="{{ '/ufo-history/ufo-books/ritchie-david-ufo-the-definitive-guide' | relative_url }}">UFO : The Definitive Guide</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/1567312004/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1567312004/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 238 (in an entry entitled “World Contact Day”) of the MJF hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -118,10 +118,10 @@ For discussion of World Contact Day see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1978">1978</a></p>
+<p><a href="{{ '/tags/1978' | relative_url }}">1978</a></p>
 </td>
 <td valign="top" width="547">
-<p>Stemman, Roy in his “Mysteries of the Universe: Great Mysteries” (<a href="/tags/1978">1978</a>) (available <a href="http://www.amazon.com/dp/1854710559/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1854710559/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 214 (in Chapter 11) of the Book Club Associates hardback edition.</p>
+<p>Stemman, Roy in his “Mysteries of the Universe: Great Mysteries” (<a href="{{ '/tags/1978' | relative_url }}">1978</a>) (available <a href="http://www.amazon.com/dp/1854710559/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1854710559/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 214 (in Chapter 11) of the Book Club Associates hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

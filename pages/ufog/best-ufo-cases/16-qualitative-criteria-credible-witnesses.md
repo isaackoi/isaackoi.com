@@ -19,7 +19,7 @@ Best UFO Cases
 
 ” by Isaac Koi
 
-[PART 16: Qualitative criteria: Credible witnesses](/ufog/best-ufo-cases/16-qualitative-criteria-credible-witnesses)
+[PART 16: Qualitative criteria: Credible witnesses]({{ '/ufog/best-ufo-cases/16-qualitative-criteria-credible-witnesses' | relative_url }})
 
 Reports from eye-witnesses play a very important role in relation to UFO reports. Indeed, it is common for there to be only a report from an eye-witness, with no other material being available. How much weight is to be given to such testimony? Who are the most reliable witnesses?
 

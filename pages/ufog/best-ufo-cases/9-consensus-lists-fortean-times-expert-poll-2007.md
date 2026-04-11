@@ -13,9 +13,9 @@ planned_sections: []
 header: {"preview_image": null}
 ---
 
-“[Best UFO Cases](/ufog/best-ufo-cases)” by Isaac Koi
+“[Best UFO Cases]({{ '/ufog/best-ufo-cases' | relative_url }})” by Isaac Koi
 
-[PART 9: Consensus lists: Fortean Times expert poll (2007)](/ufog/best-ufo-cases/9-consensus-lists-fortean-times-expert-poll-2007)
+[PART 9: Consensus lists: Fortean Times expert poll (2007)]({{ '/ufog/best-ufo-cases/9-consensus-lists-fortean-times-expert-poll-2007' | relative_url }})
 
 Earlier Parts of this article have considered several earlier polls of ufologist to determine any consensus as to the “best” UFO cases. In particular, I have discussed a poll by Jacques Vallee in 1965 (see PART 5), by Ronald Story in 1979 (see PART 6), a “Vox Populi” poll by Paul Kimball in 2006 (see PART 7) and a poll of experts by Paul Kimball in 2005/2006 (see PART 8). This Part considers a poll of ufologists by “The Fortean Times” Magazine in 2007.
 
@@ -33,23 +33,23 @@ I note in passing that, in fact, the views of 18 (not 16) researchers are includ
 
 The article “Ufology at 60: The Fortean Times Panel” featured views on this question from the following researchers (in alphabetical order), who discussed the following cases. I summarise their relevant discussions in more detail later in this Part. As detailed in that discussion, it is important to note that many of the references to specific cases were not in fact direct responses to the question above but were instead relevant to various different issues and/or subject to various caveats.
 
-1. Greg Bishop: [RB-47](/ufo-history/ufo/19570717-rb-47-incident); [Father Gill](/ufo-history/ufo/19590626-father-gill-sightings).
-2. Peter Brookesmith: [Kenneth Arnold](/ufo-history/ufo/19470624-kenneth-arnold-sighting); [Betty and Barney Hill](/ufo-history/ufo/19610919-hill-abduction).
+1. Greg Bishop: [RB-47]({{ '/ufo-history/ufo/19570717-rb-47-incident' | relative_url }}); [Father Gill]({{ '/ufo-history/ufo/19590626-father-gill-sightings' | relative_url }}).
+2. Peter Brookesmith: [Kenneth Arnold]({{ '/ufo-history/ufo/19470624-kenneth-arnold-sighting' | relative_url }}); [Betty and Barney Hill]({{ '/ufo-history/ufo/19610919-hill-abduction' | relative_url }}).
 3. Thomas E Bullard: Minot, South Dakota on 24 October 1968.
 4. Bill Chalker: Sea Fury case, 31 August 1954.
-5. Jerome Clark: [RB-47](/ufo-history/ufo/19570717-rb-47-incident) radar/visual case of 17 July 1957.
-6. David Clarke: [Livingston, Scotland](/ufo-history/ufo/19791109-livingston-incident) case; [RAF Topcliffe case](/ufo-history/ufo/19520919-topcliffe-sighting).
+5. Jerome Clark: [RB-47]({{ '/ufo-history/ufo/19570717-rb-47-incident' | relative_url }}) radar/visual case of 17 July 1957.
+6. David Clarke: [Livingston, Scotland]({{ '/ufo-history/ufo/19791109-livingston-incident' | relative_url }}) case; [RAF Topcliffe case]({{ '/ufo-history/ufo/19520919-topcliffe-sighting' | relative_url }}).
 7. Hilary Evans: Manchester, 14 November 1977.
-8. Stanton Friedman: [Betty and Barney Hill](/ufo-history/ufo/19610919-hill-abduction) abduction.
+8. Stanton Friedman: [Betty and Barney Hill]({{ '/ufo-history/ufo/19610919-hill-abduction' | relative_url }}) abduction.
 9. Gary Heseltine: STS 75 “Tether” incident.
-10. Pierre Lagrange: green fireballs sightings; [Hessdalen lights](/ufo-history/ufo/19850105-project-hessdalen-report).
+10. Pierre Lagrange: green fireballs sightings; [Hessdalen lights]({{ '/ufo-history/ufo/19850105-project-hessdalen-report' | relative_url }}).
 11. Luis R Gonzalez Manso: Galdar incident, Spain.
-12. Nick Pope: [Rendlesham Forest](/ufo-history/ufo/19801227-rendlesham-forest-incident).
+12. Nick Pope: [Rendlesham Forest]({{ '/ufo-history/ufo/19801227-rendlesham-forest-incident' | relative_url }}).
 13. Jenny Randles: Newmill, Cornwall, 17 September 1977.
 14. Nick Redfern: RAF West Freugh, Scotland.
-15. Andy Roberts: [Livingston, Scotland](/ufo-history/ufo/19791109-livingston-incident) case; [RAF Topcliffe case](/ufo-history/ufo/19520919-topcliffe-sighting).
-16. Robert Rosamond (of BUFORA): [Frederick Valentich](/ufo-history/ufo/19781021-valentich-disappearance), 1978.
-17. John Spencer (of BUFORA): [Frederick Valentich](/ufo-history/ufo/19781021-valentich-disappearance), 1978.
+15. Andy Roberts: [Livingston, Scotland]({{ '/ufo-history/ufo/19791109-livingston-incident' | relative_url }}) case; [RAF Topcliffe case]({{ '/ufo-history/ufo/19520919-topcliffe-sighting' | relative_url }}).
+16. Robert Rosamond (of BUFORA): [Frederick Valentich]({{ '/ufo-history/ufo/19781021-valentich-disappearance' | relative_url }}), 1978.
+17. John Spencer (of BUFORA): [Frederick Valentich]({{ '/ufo-history/ufo/19781021-valentich-disappearance' | relative_url }}), 1978.
 18. Bruce Lanier Wright: Cash-Landrum incident.
 
 In addition to the question above about the “most evidential” single case, the Fortean Times poll asked researchers to nominate the ten cases from 1947 onwards that interested them the most. The answers to this question were not included in the relevant issue of the Fortean Times, but the answers from various researchers were made available on the Fortean Times website at the link below (see Footnote 9.02) and are summarised later in this Part:
@@ -124,20 +124,20 @@ Greg Bishop’s contribution to the relevant section of the Fortean Times websit
 
 The 10 cases put forward by Greg Bishop were stated in chronological order, as follows (Footnote 9.05):
 
-1. [Flatwoods Monster – West Virginia, USA, 1952](/ufo-history/ufo/19520912-flatwoods-monster) (Case 38 in [Isaac Koi’s “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases)).
-2. [Kelly-Hopkinsville – Kentucky, USA, 1955](/ufo-history/ufo/19550821-kelly-hopkinsville-creatures) (Case 14 in [Isaac Koi’s “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases)).
-3. [Antonio Villas-Boas case – Brazil, 1957](/ufo-history/ufo/19571016-villas-boas-abduction) (Case 7 in [Isaac Koi’s “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases)).
+1. [Flatwoods Monster – West Virginia, USA, 1952]({{ '/ufo-history/ufo/19520912-flatwoods-monster' | relative_url }}) (Case 38 in [Isaac Koi’s “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }})).
+2. [Kelly-Hopkinsville – Kentucky, USA, 1955]({{ '/ufo-history/ufo/19550821-kelly-hopkinsville-creatures' | relative_url }}) (Case 14 in [Isaac Koi’s “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }})).
+3. [Antonio Villas-Boas case – Brazil, 1957]({{ '/ufo-history/ufo/19571016-villas-boas-abduction' | relative_url }}) (Case 7 in [Isaac Koi’s “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }})).
 4. Along Pan-American highway, Chile, 1950s.
-5. [Rex Heflin sighting and photos – Santa Ana, CA, USA, 1965](/ufo-history/ufo/19650803-rex-heflin-photos) (Case 62 in [Isaac Koi’s “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases)).
+5. [Rex Heflin sighting and photos – Santa Ana, CA, USA, 1965]({{ '/ufo-history/ufo/19650803-rex-heflin-photos' | relative_url }}) (Case 62 in [Isaac Koi’s “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }})).
 6. Mothman Sightings – West Virginia, USA, 1966.
-7. [Herbert Schirmer – Ashland, NB, USA, 1967](/ufo-history/ufo/19671203-patrolman-schirmer-abduction) (Case 20 in [Isaac Koi’s “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases)).
-8. [Pascagoula Abduction – Mississippi, USA, 1973](/ufo-history/ufo/19731011-pascagoula-abduction) (Case 9 in [Isaac Koi’s “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases)).
+7. [Herbert Schirmer – Ashland, NB, USA, 1967]({{ '/ufo-history/ufo/19671203-patrolman-schirmer-abduction' | relative_url }}) (Case 20 in [Isaac Koi’s “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }})).
+8. [Pascagoula Abduction – Mississippi, USA, 1973]({{ '/ufo-history/ufo/19731011-pascagoula-abduction' | relative_url }}) (Case 9 in [Isaac Koi’s “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }})).
 9. Scary Night – Thousand Oaks, CA, USA, 1975.
-10. [Cash-Landrum Incident – Texas, USA, 1980](/ufo-history/ufo/19801229-cashlandrum-incident) (Case 30 in [Isaac Koi’s “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases)).
+10. [Cash-Landrum Incident – Texas, USA, 1980]({{ '/ufo-history/ufo/19801229-cashlandrum-incident' | relative_url }}) (Case 30 in [Isaac Koi’s “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }})).
 
 1. Peter Brookesmith
 
-In response to the question about “the most evidential” UFO case, Peter Brookesmith indicated that he considered the most interesting cases to be “those that have had the greatest cultural effect” (rather than any cases that are “evidential of anything extraterrestrial – or interdimensional, or geological, or biological, or anything else physically strange”). Thus, his answer to the question may be considered to be non-responsive. The case that he considered to have had “the greatest cultural effect” was Kenneth Arnold’s first sighting, in June 1947, with [Betty and Barney Hill](/ufo-history/ufo/19610919-hill-abduction)’s alleged abduction in 1961 “sitting next to” Arnold’s sighting (Footnote 9.06).
+In response to the question about “the most evidential” UFO case, Peter Brookesmith indicated that he considered the most interesting cases to be “those that have had the greatest cultural effect” (rather than any cases that are “evidential of anything extraterrestrial – or interdimensional, or geological, or biological, or anything else physically strange”). Thus, his answer to the question may be considered to be non-responsive. The case that he considered to have had “the greatest cultural effect” was Kenneth Arnold’s first sighting, in June 1947, with [Betty and Barney Hill]({{ '/ufo-history/ufo/19610919-hill-abduction' | relative_url }})’s alleged abduction in 1961 “sitting next to” Arnold’s sighting (Footnote 9.06).
 
 The relevant section of the Fortean Times website does not refer to Peter Brookesmith’s response (if any) to nominate the top ten UFO cases.
 
@@ -147,9 +147,9 @@ Thomas E Bullard nominated the radar-visual case near Minot, South Dakota on 24 
 
 In the section of the Fortean Times website that supplements the Fortean Times article about the views of members of the relevant Panel, Thomas E Bullard indicates that he would add the following five cases that he has “studied at some length” that “seem worthy to me – the strange, well-supported, tried-and-tested survivors” (Footnote 9.08):
 
-1) [The Father Gill case](/ufo-history/ufo/19590626-father-gill-sightings) from 1959 (Case 15 in [Isaac Koi’s “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
-2) [Barney and Betty Hill, 1961](/ufo-history/ufo/19610919-hill-abduction) (Case 2 in [Isaac Koi’s “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
-3) [Exeter, New Hampshire, 1965](/ufo-history/ufo/19650903-exeter-incidents) (Case 29 in [Isaac Koi’s “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases)).
+1) [The Father Gill case]({{ '/ufo-history/ufo/19590626-father-gill-sightings' | relative_url }}) from 1959 (Case 15 in [Isaac Koi’s “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
+2) [Barney and Betty Hill, 1961]({{ '/ufo-history/ufo/19610919-hill-abduction' | relative_url }}) (Case 2 in [Isaac Koi’s “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
+3) [Exeter, New Hampshire, 1965]({{ '/ufo-history/ufo/19650903-exeter-incidents' | relative_url }}) (Case 29 in [Isaac Koi’s “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }})).
 4) The January, 2000, southern Illinois police chase case.
 5) Robozero Marvel (1663 AD)
 
@@ -163,10 +163,10 @@ Bill Chalker’s contribution to the relevant section of the Fortean Times websi
 
 1. 31 August 1954: Sea Fury case, near Goulbourn, NSW, Australia
 2. 23 July 1992: Peter Khoury “Hair of Alien” DNA case, Sydney, Australia
-3. 27 June 1959: [Father Gill sighting](/ufo-history/ufo/19590626-father-gill-sightings) (Case 15 in [Isaac Koi’s “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
+3. 27 June 1959: [Father Gill sighting]({{ '/ufo-history/ufo/19590626-father-gill-sightings' | relative_url }}) (Case 15 in [Isaac Koi’s “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
 4. 30 September 1980: George Blackwell, Rosedale, Victoria, Australia
-5. [8 August 1993: Kelly Cahill’s abduction experience](/ufo-history/ufo/19940808-kelly-cahill-abduction)
-6. [19 January 1966: George Pedley’s UFO nest encounter](/ufo-history/ufo/19660119-tully-saucer-nest) (Case 99 in [Isaac Koi’s “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
+5. [8 August 1993: Kelly Cahill’s abduction experience]({{ '/ufo-history/ufo/19940808-kelly-cahill-abduction' | relative_url }})
+6. [19 January 1966: George Pedley’s UFO nest encounter]({{ '/ufo-history/ufo/19660119-tully-saucer-nest' | relative_url }}) (Case 99 in [Isaac Koi’s “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
 7. 14 April 1966: Ron Sullivan’s “bent headlight beam” experience
 8. 6 April 1966: Westall school daylight UFO landing encounter.
 9. 1977–78: Gisborne UFO abduction milieu
@@ -188,15 +188,15 @@ The relevant section of the Fortean Times website does not refer to Jerome Clark
 
 The joint contribution by David Clarke and Andy Roberts to the relevant section of the Fortean Times website refers to the following 10 cases, with an indication that the list represents their “Top Ten list of ‘classic’ unresolved UFO cases, incorporating our two ‘best’ cases, and reflecting our bias towards UK incidents that we have personally investigated or researched” (Footnote 9.13):
 
-1. [RAF Lakenheath-Bentwaters](/ufo-history/ufo/19560813-lakenheath-incident) (see FT213:28-32) (Case 21 in [Isaac Koi’s “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases)).
+1. [RAF Lakenheath-Bentwaters]({{ '/ufo-history/ufo/19560813-lakenheath-incident' | relative_url }}) (see FT213:28-32) (Case 21 in [Isaac Koi’s “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }})).
 2. RAF Farnborough, Hampshire (see FT164:43).
-3. [Livingston incident, Scotland, 1979](/ufo-history/ufo/19791109-livingston-incident) (Case 86 in [Isaac Koi’s “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
-4. [Exercise Mainbrace sightings](/ufo-history/ufo/19520919-operation-mainbrace-sightings), September and October 1952 (Case 90 in [Isaac Koi’s “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases)).
-5. [Rendlesham Forest](/ufo-history/ufo/19801227-rendlesham-forest-incident) (see FT204:32–39) (Case 18 in [Isaac Koi’s “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases)).
-6. [PC Alan Godfrey’s encounter, Todmorden, 28 November 1980](/ufo-history/ufo/19801129-alan-godfrey-encounter) (Case 56 in [Isaac Koi’s “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases)).
-7. [Cynthia Appleton “contactee” story, Birmingham, 1957-58](/ufo-history/ufo/19571118-cynthia-appleton-encounters). (see FT191:32-38)
-8. [Ilkley alien photo, West Yorkshire, 1 December 1987](/ufo-history/ufo/19871201-ilkley-moor-photo).
-9. [Stephen Darbishire photo, Coniston, Cumbria, February 1954](/ufo-history/ufo/19540215-stephen-darbishire-photo) (Case 91 in [Isaac Koi’s “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases)).
+3. [Livingston incident, Scotland, 1979]({{ '/ufo-history/ufo/19791109-livingston-incident' | relative_url }}) (Case 86 in [Isaac Koi’s “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
+4. [Exercise Mainbrace sightings]({{ '/ufo-history/ufo/19520919-operation-mainbrace-sightings' | relative_url }}), September and October 1952 (Case 90 in [Isaac Koi’s “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }})).
+5. [Rendlesham Forest]({{ '/ufo-history/ufo/19801227-rendlesham-forest-incident' | relative_url }}) (see FT204:32–39) (Case 18 in [Isaac Koi’s “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }})).
+6. [PC Alan Godfrey’s encounter, Todmorden, 28 November 1980]({{ '/ufo-history/ufo/19801129-alan-godfrey-encounter' | relative_url }}) (Case 56 in [Isaac Koi’s “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }})).
+7. [Cynthia Appleton “contactee” story, Birmingham, 1957-58]({{ '/ufo-history/ufo/19571118-cynthia-appleton-encounters' | relative_url }}). (see FT191:32-38)
+8. [Ilkley alien photo, West Yorkshire, 1 December 1987]({{ '/ufo-history/ufo/19871201-ilkley-moor-photo' | relative_url }}).
+9. [Stephen Darbishire photo, Coniston, Cumbria, February 1954]({{ '/ufo-history/ufo/19540215-stephen-darbishire-photo' | relative_url }}) (Case 91 in [Isaac Koi’s “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }})).
 10. Alitalia UFO, 21 April 1991. (See FT194:23).
 
 They also refer to Roswell. However, the reference to Roswell was not in the context of one of the “best” cases. Instead, they state that Roswell wins their special category of “Most over-hyped UFO Case”.
@@ -207,29 +207,29 @@ They also refer to Roswell. However, the reference to Roswell was not in the con
 
 The contribution by Hilary Evans to the relevant section of the Fortean Times website includes the following: “As for the ten ‘best cases’, this is, of course, an impossible request. … really, there’s hardly a case in the files that doesn’t have its own dimension of speculation and wonder!” (Footnote 9.15). Despite that response, he did go on to discuss a limited number of specific cases. Those cases were:
 
-1. [Hessdalen lights](/ufo-history/ufo/19850105-project-hessdalen-report)
+1. [Hessdalen lights]({{ '/ufo-history/ufo/19850105-project-hessdalen-report' | relative_url }})
 2. 1980 Piedmont, Missouri, observations by Harley Rutledge.
 3. 1974 report ‘The Utah UFO display’.
-4. [1959 Boinai Father Gill sightings](/ufo-history/ufo/19590626-father-gill-sightings) (Case 15 in [Isaac Koi’s “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
+4. [1959 Boinai Father Gill sightings]({{ '/ufo-history/ufo/19590626-father-gill-sightings' | relative_url }}) (Case 15 in [Isaac Koi’s “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
 5. Crop Circles enigma,
-6. [Betty and Barney Hill](/ufo-history/ufo/19610919-hill-abduction) (Case 2 in [Isaac Koi’s “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
+6. [Betty and Barney Hill]({{ '/ufo-history/ufo/19610919-hill-abduction' | relative_url }}) (Case 2 in [Isaac Koi’s “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
 
 1. [Stanton Friedman](http://www.forteantimes.com/strangedays/ufofiles/517/stanton_friedmans_ufo_top_ten.html)
 
-*The*answer given by Stanton Friedman to the question about “the most evidential” UFO case from the period 1947-2007 refers to the [Betty and Barney Hill](/ufo-history/ufo/19610919-hill-abduction) abduction case and states that “this is my ‘top case’”. However, he comments on the difficulty of selecting the best case from the “enormous variety of excellent cases”, stating that “it’s hard to compare the taste of watermelons and shrimp” (Footnote 9.16).
+*The*answer given by Stanton Friedman to the question about “the most evidential” UFO case from the period 1947-2007 refers to the [Betty and Barney Hill]({{ '/ufo-history/ufo/19610919-hill-abduction' | relative_url }}) abduction case and states that “this is my ‘top case’”. However, he comments on the difficulty of selecting the best case from the “enormous variety of excellent cases”, stating that “it’s hard to compare the taste of watermelons and shrimp” (Footnote 9.16).
 
 The contribution by Stanton Friedman to the relevant section of the Fortean Times website begins by stating that he doesn’t “like top-10 lists”. However, he went on to state that “here is a fast pass...” and listed the following ten cases (Footnote 9.17):
 
-1. The [Betty and Barney Hill case](/ufo-history/ufo/19610919-hill-abduction) (Case 2 in [Isaac Koi’s “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
-2. [Roswell](/ufo-history/ufo/19470708-roswell-story) (Case 4 in [Isaac Koi’s “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
+1. The [Betty and Barney Hill case]({{ '/ufo-history/ufo/19610919-hill-abduction' | relative_url }}) (Case 2 in [Isaac Koi’s “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
+2. [Roswell]({{ '/ufo-history/ufo/19470708-roswell-story' | relative_url }}) (Case 4 in [Isaac Koi’s “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
 3. The Yukon mother ship case
-4. The [RB 47 case](/ufo-history/ufo/19570717-rb-47-incident) (Case 63 in [Isaac Koi’s “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases)).
-5. [Rendlesham, 1980](/ufo-history/ufo/19801227-rendlesham-forest-incident) (Case 18 in [Isaac Koi’s “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases)).
-6. [Iran, 1976](/ufo-history/ufo/19760919-tehran-jet-chase-incident) (Case 47 in [Isaac Koi’s “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases)).
-7. [McMinnville, Oregon, 1950](/ufo-history/ufo/19500511-mcminnville-photographs) (Case 17 in [Isaac Koi’s “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases)).
-8. [The Travis Walton case, Arizona](/ufo-history/ufo/19751105-travis-walton-abduction) (Case 11 in [Isaac Koi’s “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases)).
+4. The [RB 47 case]({{ '/ufo-history/ufo/19570717-rb-47-incident' | relative_url }}) (Case 63 in [Isaac Koi’s “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }})).
+5. [Rendlesham, 1980]({{ '/ufo-history/ufo/19801227-rendlesham-forest-incident' | relative_url }}) (Case 18 in [Isaac Koi’s “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }})).
+6. [Iran, 1976]({{ '/ufo-history/ufo/19760919-tehran-jet-chase-incident' | relative_url }}) (Case 47 in [Isaac Koi’s “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }})).
+7. [McMinnville, Oregon, 1950]({{ '/ufo-history/ufo/19500511-mcminnville-photographs' | relative_url }}) (Case 17 in [Isaac Koi’s “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }})).
+8. [The Travis Walton case, Arizona]({{ '/ufo-history/ufo/19751105-travis-walton-abduction' | relative_url }}) (Case 11 in [Isaac Koi’s “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }})).
 9. Malmstrom Air Force Base.
-10. [Delphos, Kansas](/ufo-history/ufo/19711102-delphos-ring-incident) (Case 60 in [Isaac Koi’s “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases)).
+10. [Delphos, Kansas]({{ '/ufo-history/ufo/19711102-delphos-ring-incident' | relative_url }}) (Case 60 in [Isaac Koi’s “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }})).
 
 1. [Gary Heseltine](http://www.forteantimes.com/strangedays/ufofiles/518/gary_heseltines_ufo_top_ten.html)
 
@@ -238,19 +238,19 @@ The contribution by Stanton Friedman to the relevant section of the Fortean Time
 The contribution by Gary Heseltine to the relevant section of the Fortean Times website lists the following cases, with an indication that they are his “top ten, in chronological order” (Footnote 9.19):
 
 1. On 11 August 1944, whilst over France, a Lancaster bomber crew.
-2. [The Great Falls, Montana, cine footage from August 1950](/ufo-history/ufo/19500815-great-falls-film)(Case 41 in [Isaac Koi’s “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases)).
-3. [The RAF Lakenheath radar-visual sighting of August 13–14, 1956](/ufo-history/ufo/19560813-lakenheath-incident) (Case 21 in [Isaac Koi’s “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases)).
-4[. Colonel Gordon Cooper, UFO landing](/ufo-history/ufo/19630516-gordon-cooper-sighting) at Edwards Air Force Base in 1957 (Case 79 in [Isaac Koi’s “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases)).
-5. [Tehran, Iran, Jet Chase, early hours of 19 September 1976](/ufo-history/ufo/19760919-tehran-jet-chase-incident) (Case 47 in [Isaac Koi’s “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases)).
-6. [Rendlesham Forest, 26-28 December 1980](/ufo-history/ufo/19801227-rendlesham-forest-incident) (Case 18 in [Isaac Koi’s “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
-7. [Japan Airlines, 17 November 1986](/ufo-history/ufo/19861117-jal-flight-1628) (Case 89 in [Isaac Koi’s “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases)).
-8. [Belgium, night of 30–31 March 1990](/ufo-history/ufo/19891129-belgium-radarvisuals) (Case 40 in [Isaac Koi’s “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases)).
+2. [The Great Falls, Montana, cine footage from August 1950]({{ '/ufo-history/ufo/19500815-great-falls-film' | relative_url }})(Case 41 in [Isaac Koi’s “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }})).
+3. [The RAF Lakenheath radar-visual sighting of August 13–14, 1956]({{ '/ufo-history/ufo/19560813-lakenheath-incident' | relative_url }}) (Case 21 in [Isaac Koi’s “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }})).
+4[. Colonel Gordon Cooper, UFO landing]({{ '/ufo-history/ufo/19630516-gordon-cooper-sighting' | relative_url }}) at Edwards Air Force Base in 1957 (Case 79 in [Isaac Koi’s “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }})).
+5. [Tehran, Iran, Jet Chase, early hours of 19 September 1976]({{ '/ufo-history/ufo/19760919-tehran-jet-chase-incident' | relative_url }}) (Case 47 in [Isaac Koi’s “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }})).
+6. [Rendlesham Forest, 26-28 December 1980]({{ '/ufo-history/ufo/19801227-rendlesham-forest-incident' | relative_url }}) (Case 18 in [Isaac Koi’s “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
+7. [Japan Airlines, 17 November 1986]({{ '/ufo-history/ufo/19861117-jal-flight-1628' | relative_url }}) (Case 89 in [Isaac Koi’s “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }})).
+8. [Belgium, night of 30–31 March 1990]({{ '/ufo-history/ufo/19891129-belgium-radarvisuals' | relative_url }}) (Case 40 in [Isaac Koi’s “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }})).
 9. The Tether Incident, STS 75, 1997.
 10. Campeche region of Mexico, March 2004.
 
 1. Pierre Lagrange
 
-Pierre Lagrange’s answer to the question about “the most evidential” UFO case from the period 1947-2007 discusses two series of UFO sighting, firstly the green fireballs in 1948-1949 and secondly the [Hessdalen lights](/ufo-history/ufo/19850105-project-hessdalen-report) (Footnote 9.20).
+Pierre Lagrange’s answer to the question about “the most evidential” UFO case from the period 1947-2007 discusses two series of UFO sighting, firstly the green fireballs in 1948-1949 and secondly the [Hessdalen lights]({{ '/ufo-history/ufo/19850105-project-hessdalen-report' | relative_url }}) (Footnote 9.20).
 
 The relevant section of the Fortean Times website does not refer to Pierre Lagrange’s response (if any) to the request to nominate the top ten UFO cases.
 
@@ -266,14 +266,14 @@ Nick Pope’s answer to the question about “the most evidential” UFO case fr
 
 The contribution by Nick Pope to the relevant section of the Fortean Times website lists the following cases as being his top ten. Since the list is not in chronological order, and begins with the case that he viewed as most valuable, it is possible that the order reflect Nick Pope’s respective ranking of these cases (Footnote 9.23):
 
-1. [Rendlesham Forest Incident, December 1980](/ufo-history/ufo/19801227-rendlesham-forest-incident) (Case 18 in [Isaac Koi’s “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases)).
-2. [The Belgian Wave, March 1990](/ufo-history/ufo/19891129-belgium-radarvisuals) (Case 40 in [Isaac Koi’s “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases)).
+1. [Rendlesham Forest Incident, December 1980]({{ '/ufo-history/ufo/19801227-rendlesham-forest-incident' | relative_url }}) (Case 18 in [Isaac Koi’s “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }})).
+2. [The Belgian Wave, March 1990]({{ '/ufo-history/ufo/19891129-belgium-radarvisuals' | relative_url }}) (Case 40 in [Isaac Koi’s “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }})).
 3. The Cosford Incident, March 1993.
-4. [RAF Lakenheath/RAF Bentwaters, August 1956](/ufo-history/ufo/19560813-lakenheath-incident) (Case 21 in [Isaac Koi’s “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases)).
+4. [RAF Lakenheath/RAF Bentwaters, August 1956]({{ '/ufo-history/ufo/19560813-lakenheath-incident' | relative_url }}) (Case 21 in [Isaac Koi’s “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }})).
 5. Manchester Airport, 1995.
 6. Captain Zaghetti’s Sighting, 1991.
 7. Pitlochry Photograph, 1990.
-8. [Iranian Intercept, 1976](/ufo-history/ufo/19760919-tehran-jet-chase-incident) (Case 47 in [Isaac Koi’s “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases)).
+8. [Iranian Intercept, 1976]({{ '/ufo-history/ufo/19760919-tehran-jet-chase-incident' | relative_url }}) (Case 47 in [Isaac Koi’s “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }})).
 9. North Sea Overtake, 1990.
 10. Captain Graham Sheppard, 1967.
 
@@ -285,14 +285,14 @@ In the contribution by Jenny Randles to the relevant section of the Fortean Time
 
 1. Sept/Oct 1947, Himalayan Foothills, Tibet
 2. 24 May 1964, Burgh Marsh, Cumbria.
-3. [1 July 1965, Valensole, France](/ufo-history/ufo/19650701-valensole-encounter) (Case 22 in [Isaac Koi’s “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
+3. [1 July 1965, Valensole, France]({{ '/ufo-history/ufo/19650701-valensole-encounter' | relative_url }}) (Case 22 in [Isaac Koi’s “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
 4. 2 Nov 1968, SE France
-5. [19 September 1976, Tehran, Iran](/ufo-history/ufo/19760919-tehran-jet-chase-incident) (Case 47 in [Isaac Koi’s “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
+5. [19 September 1976, Tehran, Iran]({{ '/ufo-history/ufo/19760919-tehran-jet-chase-incident' | relative_url }}) (Case 47 in [Isaac Koi’s “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
 6. 9 March 1977, Nelson, Lancashire
 7. 6 June 1977, Barnard Castle, Durham
 8. 17 September 1977, Newmill, Cornwall
 9. 13 Mar 1980, Haselor, Warwickshire.
-10. [26 December 1980, Rendlesham Forest, Suffolk](/ufo-history/ufo/19801227-rendlesham-forest-incident) (Case 18 in [Isaac Koi’s “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
+10. [26 December 1980, Rendlesham Forest, Suffolk]({{ '/ufo-history/ufo/19801227-rendlesham-forest-incident' | relative_url }}) (Case 18 in [Isaac Koi’s “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
 
 1. Nick Redfern
 
@@ -310,22 +310,22 @@ The relevant section of the Fortean Times website does not refer to Nick Redfern
 
 The joint contribution by David Clarke and Andy Roberts to the relevant section of the Fortean Times website refers to the following 10 cases, with an indication that the list represents their “Top Ten list of ‘classic’ unresolved UFO cases, incorporating our two ‘best’ cases, and reflecting our bias towards UK incidents that we have personally investigated or researched” (Footnote 9.13):
 
-1. [RAF Lakenheath-Bentwaters](/ufo-history/ufo/19560813-lakenheath-incident) (see FT213:28-32) (Case 21 in [Isaac Koi’s “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases)).
+1. [RAF Lakenheath-Bentwaters]({{ '/ufo-history/ufo/19560813-lakenheath-incident' | relative_url }}) (see FT213:28-32) (Case 21 in [Isaac Koi’s “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }})).
 2. RAF Farnborough, Hampshire (see FT164:43).
-3. [Livingston incident, Scotland, 1979](/ufo-history/ufo/19791109-livingston-incident) (Case 86 in [Isaac Koi’s “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
-4. [Exercise Mainbrace sightings](/ufo-history/ufo/19520919-operation-mainbrace-sightings), September and October 1952 (Case 90 in [Isaac Koi’s “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases)).
-5. [Rendlesham Forest](/ufo-history/ufo/19801227-rendlesham-forest-incident) (see FT204:32–39) (Case 18 in [Isaac Koi’s “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases)).
-6. [PC Alan Godfrey’s encounter, Todmorden, 28 November 1980](/ufo-history/ufo/19801129-alan-godfrey-encounter) (Case 56 in [Isaac Koi’s “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases)).
-7. [Cynthia Appleton “contactee” story, Birmingham, 1957-58](/ufo-history/ufo/19571118-cynthia-appleton-encounters). (see FT191:32-38)
-8. [Ilkley alien photo, West Yorkshire, 1 December 1987](/ufo-history/ufo/19871201-ilkley-moor-photo).
-9. [Stephen Darbishire photo, Coniston, Cumbria, February 1954](/ufo-history/ufo/19540215-stephen-darbishire-photo) (Case 91 in [Isaac Koi’s “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases)).
+3. [Livingston incident, Scotland, 1979]({{ '/ufo-history/ufo/19791109-livingston-incident' | relative_url }}) (Case 86 in [Isaac Koi’s “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
+4. [Exercise Mainbrace sightings]({{ '/ufo-history/ufo/19520919-operation-mainbrace-sightings' | relative_url }}), September and October 1952 (Case 90 in [Isaac Koi’s “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }})).
+5. [Rendlesham Forest]({{ '/ufo-history/ufo/19801227-rendlesham-forest-incident' | relative_url }}) (see FT204:32–39) (Case 18 in [Isaac Koi’s “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }})).
+6. [PC Alan Godfrey’s encounter, Todmorden, 28 November 1980]({{ '/ufo-history/ufo/19801129-alan-godfrey-encounter' | relative_url }}) (Case 56 in [Isaac Koi’s “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }})).
+7. [Cynthia Appleton “contactee” story, Birmingham, 1957-58]({{ '/ufo-history/ufo/19571118-cynthia-appleton-encounters' | relative_url }}). (see FT191:32-38)
+8. [Ilkley alien photo, West Yorkshire, 1 December 1987]({{ '/ufo-history/ufo/19871201-ilkley-moor-photo' | relative_url }}).
+9. [Stephen Darbishire photo, Coniston, Cumbria, February 1954]({{ '/ufo-history/ufo/19540215-stephen-darbishire-photo' | relative_url }}) (Case 91 in [Isaac Koi’s “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }})).
 10. Alitalia UFO, 21 April 1991. (See FT194:23).
 
 They also refer to Roswell. However, the reference to Roswell was not in the context of one of the “best” cases. Instead, they state that Roswell wins their special category of “Most over-hyped UFO Case”.
 
 1. Robert RosamOnd (of BUFORA)
 
-Robert Rosamond and John Spencer (both of BUFORA) gave a joint answer. Their answer to the question about “the most evidential” UFO case from the period 1947-2007 discusses [Frederick Valentich’s disappearance](/ufo-history/ufo/19781021-valentich-disappearance) on 21 October 1978 (Footnote 9.27).
+Robert Rosamond and John Spencer (both of BUFORA) gave a joint answer. Their answer to the question about “the most evidential” UFO case from the period 1947-2007 discusses [Frederick Valentich’s disappearance]({{ '/ufo-history/ufo/19781021-valentich-disappearance' | relative_url }}) on 21 October 1978 (Footnote 9.27).
 
 The relevant section of the Fortean Times website does not refer to Robert Rosamond’s response (if any) to the request to nominate the top ten UFO cases.
 

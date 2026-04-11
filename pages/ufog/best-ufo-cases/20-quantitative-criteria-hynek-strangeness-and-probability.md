@@ -13,9 +13,9 @@ planned_sections: []
 header: {"preview_image": null}
 ---
 
-“[Best UFO Cases](/ufog/best-ufo-cases)” by Isaac Koi
+“[Best UFO Cases]({{ '/ufog/best-ufo-cases' | relative_url }})” by Isaac Koi
 
-[PART 20: Quantitative criteria: Hynek – Strangeness and Probability](/ufog/best-ufo-cases/20-quantitative-criteria-hynek-strangeness-and-probability)
+[PART 20: Quantitative criteria: Hynek – Strangeness and Probability]({{ '/ufog/best-ufo-cases/20-quantitative-criteria-hynek-strangeness-and-probability' | relative_url }})
 
 **Some Relevant Definitions**
 
@@ -37,11 +37,11 @@ The close-range sightings were divided by Hynek into:
 
 (3) Close Encounter of the Third Kind – “the presence of ‘occupants’ in or about the UFO is reported”.
 
-In addition to the above definitions, J Allen Hynek proposed the use of a Probability Rating and a Strangeness Rating. Those ratings are probably the best known suggested quantitative criteria for evaluating UFO cases. However, as with the other criteria outlined in [PART 19: Quantitative criteria: Introduction](/ufog/best-ufo-cases/19-quantitative-criteria-introduction), their actual application has been very limited.
+In addition to the above definitions, J Allen Hynek proposed the use of a Probability Rating and a Strangeness Rating. Those ratings are probably the best known suggested quantitative criteria for evaluating UFO cases. However, as with the other criteria outlined in [PART 19: Quantitative criteria: Introduction]({{ '/ufog/best-ufo-cases/19-quantitative-criteria-introduction' | relative_url }}), their actual application has been very limited.
 
 This webpage examines Hynek’s proposed Probability Rating and a Strangeness Ratings, rather than the above definitions. However, I note in passing that those definitions (while very widely adopted) are acknowledged by quite a few UFO researchers as giving rise to various difficulties. For example, Jenny Randles has concisely identified three main difficulties: “Firstly, there is a clear overlap where it can often by very hard to determine which category a case fits into. This is particularly so between the Daylight Disc, CEI and CEII cases. Secondly, it is not very acceptable to distinguish between close encounter and non-close encounter on the basis of distance. An arbitrary boundary may well be set (e.g. 100 metres) where anything closer than this becomes labelled a close encounter, but it is well known that witness estimates of distance are, to say the least, inaccurate. Thirdly, there seems to be not enough distinction between the higher strangeness types of reports – the very reports we ought to be the most interested in” (see Footnote 20.13).
 
-Similarly, this is not the place to explore suggested refinement of (additions to) Hynek’s classification. I simply note in passing that various suggestions have been made. Of the various classification systems which have sought to develop Hynek’s definitions, particularly noteworthy are those put forward by Jenny Randles in several publications (see Footnote 20.11 to Footnote 20.16 and the discussion in [PART 22: Quantitative criteria: BUFORA’s case priority](/ufog/best-ufo-cases/22-quantitative-criteria-buforas-case-priority)
+Similarly, this is not the place to explore suggested refinement of (additions to) Hynek’s classification. I simply note in passing that various suggestions have been made. Of the various classification systems which have sought to develop Hynek’s definitions, particularly noteworthy are those put forward by Jenny Randles in several publications (see Footnote 20.11 to Footnote 20.16 and the discussion in [PART 22: Quantitative criteria: BUFORA’s case priority]({{ '/ufog/best-ufo-cases/22-quantitative-criteria-buforas-case-priority' | relative_url }})
 
 Many researchers have, for example, suggested adding a “Close Encounters of the Fourth Kind” category (usually, but not always, to deal with alleged alien abductions). However, there is no universal acceptance of any of the proposed variations to Hynek’s classifications. Indeed, there is very considerably variation in the proposed additional classes of reports – even within books by the same authors. For example, in their book “UFOs: A British Viewpoint” (1979) Jenny Randles and Peter Warrington referred to CEIV as being “encounters with psychic effects (including “all reports of a psychic (here defined as ‘apparently non-physical’) nature take place. This often means abduction claims, where there are time-lapses and other ‘non-real’) elements” (see Footnote 20.14). However, in a subsequent book entitled “Science and the UFOs” (1985) Jenny Randles and Peter Warrington gave the following definitions: “A CE3 case involves observation of an animate alien entity in association with a UFO. A CE4 goes one step beyond and includes contact between that entity and the witness” (see Footnote 20.15). The definition in their later book is closer to the commonest usage of CE4 that has emerged in subsequent decades.
 
@@ -129,27 +129,27 @@ Don Berliner’s “Credibility Scale”:
 
 Don Berliner sought to illustrate the application of the Strangeness Scale and the Credibility Scale (and his “sighting coefficient) to several of the best known UFO cases. He gave scores to 11 well-known sightings, the highest score of those 11 sightings being a score of 27 for Zamora's sighting at Socorro as follows:
 
-[1947 Kenneth Arnold](/ufo-history/ufo/19470624-kenneth-arnold-sighting). Sighting Coefficient “3*3=9”
+[1947 Kenneth Arnold]({{ '/ufo-history/ufo/19470624-kenneth-arnold-sighting' | relative_url }}). Sighting Coefficient “3*3=9”
 
-[1948 Thomas Mantell](/ufo-history/ufo/19480107-captain-mantell-incident). Sighting Coefficient “3*4=12”
+[1948 Thomas Mantell]({{ '/ufo-history/ufo/19480107-captain-mantell-incident' | relative_url }}). Sighting Coefficient “3*4=12”
 
-[1950 Trent photos](/ufo-history/ufo/19500511-mcminnville-photographs). Sighting Coefficient “3*6=18”
+[1950 Trent photos]({{ '/ufo-history/ufo/19500511-mcminnville-photographs' | relative_url }}). Sighting Coefficient “3*6=18”
 
-[1952 Washington Nationals](/ufo-history/ufo/19520700-washington-national-sightings). Sighting Coefficient “1*5=5”
+[1952 Washington Nationals]({{ '/ufo-history/ufo/19520700-washington-national-sightings' | relative_url }}). Sighting Coefficient “1*5=5”
 
-[1952 Nash/Fortenberry sighting](/ufo-history/ufo/19520714-nash-fortenberry-sighting). Sighting Coefficient “2*4=8”
+[1952 Nash/Fortenberry sighting]({{ '/ufo-history/ufo/19520714-nash-fortenberry-sighting' | relative_url }}). Sighting Coefficient “2*4=8”
 
-[1957 Levelland](/ufo-history/ufo/19571102-levelland-texas-incident). Sighting Coefficient “2*7=14”
+[1957 Levelland]({{ '/ufo-history/ufo/19571102-levelland-texas-incident' | relative_url }}). Sighting Coefficient “2*7=14”
 
-[1964 Socorro](/ufo-history/ufo/19640424-lonnie-zamora-sighting). Sighting Coefficient “9*3=27”
+[1964 Socorro]({{ '/ufo-history/ufo/19640424-lonnie-zamora-sighting' | relative_url }}). Sighting Coefficient “9*3=27”
 
-[1966 “Swamp gas”, Dexter](/ufo-history/ufo/19660320-dexter-michigan-sightings). Sighting Coefficient “6*2=12”
+[1966 “Swamp gas”, Dexter]({{ '/ufo-history/ufo/19660320-dexter-michigan-sightings' | relative_url }}). Sighting Coefficient “6*2=12”
 
-[1973 Coyne helicopter](/ufo-history/ufo/19731018-coyne-helicopter-incident). Sighting Coefficient “4*4=16”
+[1973 Coyne helicopter]({{ '/ufo-history/ufo/19731018-coyne-helicopter-incident' | relative_url }}). Sighting Coefficient “4*4=16”
 
-[1979 New Zealand film](/ufo-history/ufo/19781231-wellingtonkaikoura-film). Sighting Coefficient “1*9=9”
+[1979 New Zealand film]({{ '/ufo-history/ufo/19781231-wellingtonkaikoura-film' | relative_url }}). Sighting Coefficient “1*9=9”
 
-[1980 Cash/Landrum incident](/ufo-history/ufo/19801229-cashlandrum-incident). Sighting Coefficient “7*2=14”
+[1980 Cash/Landrum incident]({{ '/ufo-history/ufo/19801229-cashlandrum-incident' | relative_url }}). Sighting Coefficient “7*2=14”
 
 Berliner’s personal conclusion from the fact that the highest score he assigned to the cases in his sample was 27 (out of a potential score of 100) was that this “seems to make it clear that there is a severe lack of reports which could be used to convince scientists, legislators and the general public that we are dealing with something so unusual that it deserves immediate attention”.
 
@@ -163,7 +163,7 @@ It is notable that J Allen Hynek’s own (subjective?) values for various cases 
 
 (4) 14 Close Encounters of the First Kind. In this list, the highest Berliner “Sighting Coefficient” based on the Strangeness-Probability ratings assigned by Hynek is 36 points (Strangeness-Probability of 4-9) – 10 October 1966 Newton, Ill.
 
-(5) 23 Close Encounters of the Second Kind. In this list, the highest Berliner “Sighting Coefficient” based on the Strangeness-Probability ratings assigned by Hynek is 40 points (Strangeness-Probability of 5-8) – [2 November 1957 Levelland, Texas](/ufo-history/ufo/19571102-levelland-texas-incident)
+(5) 23 Close Encounters of the Second Kind. In this list, the highest Berliner “Sighting Coefficient” based on the Strangeness-Probability ratings assigned by Hynek is 40 points (Strangeness-Probability of 5-8) – [2 November 1957 Levelland, Texas]({{ '/ufo-history/ufo/19571102-levelland-texas-incident' | relative_url }})
 
 (6) 5 Close Encounters of the Third Kind. In this list, the highest Berliner “Sighting Coefficient” based on the Strangeness-Probability ratings assigned by Hynek is 40 points (Strangeness-Probability of 5-8) – 26 June 1958 Boianai, New Guinea
 
@@ -225,27 +225,27 @@ In my view, it is doubtful that Speiser’s suggestions meaningfully limit the s
 
 Jim Speiser included some illustrations of the values that he would assign to several high-profile cases, duplicating the list used by Don Berliner in his article:
 
-[1947 Kenneth Arnold](/ufo-history/ufo/19470624-kenneth-arnold-sighting). S4/P3
+[1947 Kenneth Arnold]({{ '/ufo-history/ufo/19470624-kenneth-arnold-sighting' | relative_url }}). S4/P3
 
-[1948 Thomas Mantell](/ufo-history/ufo/19480107-captain-mantell-incident). S2/P5
+[1948 Thomas Mantell]({{ '/ufo-history/ufo/19480107-captain-mantell-incident' | relative_url }}). S2/P5
 
-[1950 Trent photos](/ufo-history/ufo/19500511-mcminnville-photographs). S5/P4
+[1950 Trent photos]({{ '/ufo-history/ufo/19500511-mcminnville-photographs' | relative_url }}). S5/P4
 
-[1952 Washington Nationals](/ufo-history/ufo/19520700-washington-national-sightings). S5/P5
+[1952 Washington Nationals]({{ '/ufo-history/ufo/19520700-washington-national-sightings' | relative_url }}). S5/P5
 
-[1952 Nash/Fortenberry sighting](/ufo-history/ufo/19520714-nash-fortenberry-sighting). S5/P5
+[1952 Nash/Fortenberry sighting]({{ '/ufo-history/ufo/19520714-nash-fortenberry-sighting' | relative_url }}). S5/P5
 
-[1957 Levelland](/ufo-history/ufo/19571102-levelland-texas-incident). S5/P5
+[1957 Levelland]({{ '/ufo-history/ufo/19571102-levelland-texas-incident' | relative_url }}). S5/P5
 
-[1964 Socorro](/ufo-history/ufo/19640424-lonnie-zamora-sighting). S5/P3
+[1964 Socorro]({{ '/ufo-history/ufo/19640424-lonnie-zamora-sighting' | relative_url }}). S5/P3
 
-[1966 “Swamp gas”, Dexter](/ufo-history/ufo/19660320-dexter-michigan-sightings). S3/P5
+[1966 “Swamp gas”, Dexter]({{ '/ufo-history/ufo/19660320-dexter-michigan-sightings' | relative_url }}). S3/P5
 
-[1973 Coyne helicopter](/ufo-history/ufo/19731018-coyne-helicopter-incident). S5/P5
+[1973 Coyne helicopter]({{ '/ufo-history/ufo/19731018-coyne-helicopter-incident' | relative_url }}). S5/P5
 
-[1979 New Zealand film](/ufo-history/ufo/19781231-wellingtonkaikoura-film). S3/P3
+[1979 New Zealand film]({{ '/ufo-history/ufo/19781231-wellingtonkaikoura-film' | relative_url }}). S3/P3
 
-[1980 Cash/Landrum incident](/ufo-history/ufo/19801229-cashlandrum-incident). S5/P4
+[1980 Cash/Landrum incident]({{ '/ufo-history/ufo/19801229-cashlandrum-incident' | relative_url }}). S5/P4
 
 Since Jim Speiser was only using a scale of 1 to 5, these values are (relative to those assigned by J Allen Hynek and Don Berliner) relatively high. Given the significant difference in the level of ratings, it is difficult to completely ignore Menzel’s suggestion that study of Hynek’s indexes of ‘credibility’ and ‘strangeness’ “may throw some light on Dr Hynek but they are unlikely to contribute much to the UFO problem” (see Footnote 20.01).
 
@@ -337,7 +337,7 @@ Poher’s system involved assigning a Strangeness criterion as follow:
 4 = very strange, landing with traces.
 5 = particularly strange, landing with observation of occupants.
 
-While Poher’s system superficially looks very detailed and scientific, the actual basis for the relative values is far from clear. For example, in relation to credibility, why should a UFO report from a pilot have more than twice the value of a report from a farmer – particularly in the light of the consideration of the data in [PART 16: Qualitative criteria: Credible witnesses](/ufog/best-ufo-cases/16-qualitative-criteria-credible-witnesses)?
+While Poher’s system superficially looks very detailed and scientific, the actual basis for the relative values is far from clear. For example, in relation to credibility, why should a UFO report from a pilot have more than twice the value of a report from a farmer – particularly in the light of the consideration of the data in [PART 16: Qualitative criteria: Credible witnesses]({{ '/ufog/best-ufo-cases/16-qualitative-criteria-credible-witnesses' | relative_url }})?
 
 Does Poher’s system merely result in spurious accuracy and the codification of biases? The answers are far from clear.
 
@@ -369,7 +369,7 @@ Robert Moore has suggested that the propsals made by Jenny Randles and Peter War
 
 **Suggestions made by David Saunders**
 
-In 1981, Vicente-Juan Ballester-Olmos published a book entitled “Los OVNIS y la Ciencia” (UFOs and Science) with physicist Miguel Guasp. Chapter V was called “Methodology and Organization” and it started with a section entitled “Standards in the Evaluation of UFO Reports” where they reviewed the various systems to that date and proposed their own system, the one later one adopted by MUFON (see [PART 23: Quantitative criteria: Ballester/MUFON index](/ufog/best-ufo-cases/23-quantitative-criteria-ballestermufon-index)). In that book (at page 122, 3rd paragraph, and page 123, 1st paragraph), they refer to an article entitled “How Colorado classes UFOs” (see Footnote 20.21). It appears from the summary provided by Vicente-Juan Ballester-Olmos that the article described a matrix created by Dr. David Saunders to preliminarily classify UFO sightings.
+In 1981, Vicente-Juan Ballester-Olmos published a book entitled “Los OVNIS y la Ciencia” (UFOs and Science) with physicist Miguel Guasp. Chapter V was called “Methodology and Organization” and it started with a section entitled “Standards in the Evaluation of UFO Reports” where they reviewed the various systems to that date and proposed their own system, the one later one adopted by MUFON (see [PART 23: Quantitative criteria: Ballester/MUFON index]({{ '/ufog/best-ufo-cases/23-quantitative-criteria-ballestermufon-index' | relative_url }})). In that book (at page 122, 3rd paragraph, and page 123, 1st paragraph), they refer to an article entitled “How Colorado classes UFOs” (see Footnote 20.21). It appears from the summary provided by Vicente-Juan Ballester-Olmos that the article described a matrix created by Dr. David Saunders to preliminarily classify UFO sightings.
 
 The relevant matrix was published on page 124 of the book by Vicente-Juan Ballester-Olmos, with a caption stating “Matrix used by the Colorado University’s UFO Commission for the classification of cases, based on their potential value.”
 
@@ -457,7 +457,7 @@ However, there has in fact been very limited application of them.
 
 The reasons for the limited application are unclear.
 
-The Hynek Strangeness and Probability Ratings do not appear to be used in the huge UFO database (UFOCAT) sold by the organisation Hynek founded, CUFOS. UFOCAT entries do, however, include numbers in relation to Vallee’s SVP criteria discussed in [PART 21: Quantitative criteria: Vallee’s SVP ratings](/ufog/best-ufo-cases/21-quantitative-criteria-vallees-svp-ratings). I have contacted the researcher that has managed the UFOCAT project since about 1990 (Donald Johnson) and understand from him that the Hynek Strangeness and Probability Ratings were was never “formally adopted” by UFOCAT. Before 1990, and after David Saunders and Fred Merritt stopped working on UFOCAT, it went through a period when it was “out of favour with Hynek, presumably because of Willy Smith's efforts to invent UNICAT as a replacement. The UFOCAT record layout therefore “remained stagnant and no new fields were added” until Donald Johnson started work on UFOCAT around 1990. He began working on re-creating UFOCAT “by first adding many pages of case coding that had been done by CUFOS staff in the early 1980s” and noticed that “no one had attempted to add the strangeness and probability ratings” and so “that probably influenced me to be as expedient as possible and not add the Hynek ratings when I expanded the number of fields”. From an article published in the MUFON Journal in 1976, it appears that at least some of those that worked on UFOCAT had envisaged that Hynek's Strangeness and Probability Ratings would be added (see Footnote 20.22). That article indicates that at that time columns 133-136 of UFOCAT's records related to "Credibility (to be computed)" while columns 137-140 relate to "Strangeness (to be computed)". Another MUFON publication a couple of years later contains some analysis of some of various fields within the UFOCAT records and notes that the columns above column 120 (i.e. including the columns designated for Strangeness and Credibility Ratings) "are devoted to detail coding, and are not in active use at this time" (see Footnote 20.23).
+The Hynek Strangeness and Probability Ratings do not appear to be used in the huge UFO database (UFOCAT) sold by the organisation Hynek founded, CUFOS. UFOCAT entries do, however, include numbers in relation to Vallee’s SVP criteria discussed in [PART 21: Quantitative criteria: Vallee’s SVP ratings]({{ '/ufog/best-ufo-cases/21-quantitative-criteria-vallees-svp-ratings' | relative_url }}). I have contacted the researcher that has managed the UFOCAT project since about 1990 (Donald Johnson) and understand from him that the Hynek Strangeness and Probability Ratings were was never “formally adopted” by UFOCAT. Before 1990, and after David Saunders and Fred Merritt stopped working on UFOCAT, it went through a period when it was “out of favour with Hynek, presumably because of Willy Smith's efforts to invent UNICAT as a replacement. The UFOCAT record layout therefore “remained stagnant and no new fields were added” until Donald Johnson started work on UFOCAT around 1990. He began working on re-creating UFOCAT “by first adding many pages of case coding that had been done by CUFOS staff in the early 1980s” and noticed that “no one had attempted to add the strangeness and probability ratings” and so “that probably influenced me to be as expedient as possible and not add the Hynek ratings when I expanded the number of fields”. From an article published in the MUFON Journal in 1976, it appears that at least some of those that worked on UFOCAT had envisaged that Hynek's Strangeness and Probability Ratings would be added (see Footnote 20.22). That article indicates that at that time columns 133-136 of UFOCAT's records related to "Credibility (to be computed)" while columns 137-140 relate to "Strangeness (to be computed)". Another MUFON publication a couple of years later contains some analysis of some of various fields within the UFOCAT records and notes that the columns above column 120 (i.e. including the columns designated for Strangeness and Credibility Ratings) "are devoted to detail coding, and are not in active use at this time" (see Footnote 20.23).
 
 Donald Johnson’s view, having managed the largest existing UFO database for about two decades, is that “applying probability ratings is not that difficult, but I have never seen a written codification of the process to apply the strangeness ratings”. He decided that “without sufficient guidance and because I could not go back and ask Hynek about it, as he had died in 1985” that he would decided not to include either of these ratings.
 
@@ -467,11 +467,11 @@ Another database (Willy Smith's UNICAT) also included Strangeness Ratings. Accor
 
 (I do not know how many hundreds of hours were spent by Larry Hatch and Willy Smith creating and maintaining their respective databases, but I note in passing that the above couple of paragraphs should provide some sobering facts for the next generation of UFO researchers that are currently planning and creating new UFO databases).
 
-As noted above, Jenny Randles appears, at least to some degree, adopted Hynek’s rating scheme. I have not seen the NUFON database she mentioned. It seems that BUFORA and/or its investigators may also have adopted Hynek’s rating scheme. I have been told by one of BUFORA’s ex-Chairmen (Tony Eccles) that BUFORA “adopted systems developed by Hynek (and Vallee)” (see Footnote 20.20). I am not sure what form that adoption took – neither Hynek’s Strangeness/Probability nor Vallee’s SVP ratings appear to be included in the standard BUFORA case investigation report forms contained within the BUFORA (see [PART 22: Quantitative criteria: BUFORA’s case priority](/ufog/best-ufo-cases/22-quantitative-criteria-buforas-case-priority)).
+As noted above, Jenny Randles appears, at least to some degree, adopted Hynek’s rating scheme. I have not seen the NUFON database she mentioned. It seems that BUFORA and/or its investigators may also have adopted Hynek’s rating scheme. I have been told by one of BUFORA’s ex-Chairmen (Tony Eccles) that BUFORA “adopted systems developed by Hynek (and Vallee)” (see Footnote 20.20). I am not sure what form that adoption took – neither Hynek’s Strangeness/Probability nor Vallee’s SVP ratings appear to be included in the standard BUFORA case investigation report forms contained within the BUFORA (see [PART 22: Quantitative criteria: BUFORA’s case priority]({{ '/ufog/best-ufo-cases/22-quantitative-criteria-buforas-case-priority' | relative_url }})).
 
 Jim Speiser has written an article (see Footnote 20.10) which refers to “each UFO Sighting Report in the CUFON database” having a rating at the bottom in the form S#/P#. As at June 2010, the website of the Computer UFO Network ([www.cufon.org](http://www.cufon.org/)) focuses on UFO documents rather than sightings. The few sightings it addresses do not appear to have any ratings at the bottom, whether in the format S#/P# or otherwise. Some material apparently produced by “CUFON Computer UFO Network” in 1987, i.e. during the same year as Speiser’s article, available online (see Footnote 20.11) do contain a fairly small number of UFO reports which include such ratings. It is not clear how long the system was persisted with, nor why it appears to have been abandoned.
 
-I have been informed by Fran Ridge that he believes that the Berliner number system (and, by implication, presumably also Hynek’s Strangeness and Probability Ratings) were used by Willy Smith and also by MUFON in their evaluations of submitted cases. However, I have not been able to confirm this. In relation to the latter, I note that MUFON has, since 1992, appeared to enforce the quantitative criteria considered in [PART 23: Quantitative criteria: Ballester/MUFON index](/ufog/best-ufo-cases/23-quantitative-criteria-ballestermufon-index).
+I have been informed by Fran Ridge that he believes that the Berliner number system (and, by implication, presumably also Hynek’s Strangeness and Probability Ratings) were used by Willy Smith and also by MUFON in their evaluations of submitted cases. However, I have not been able to confirm this. In relation to the latter, I note that MUFON has, since 1992, appeared to enforce the quantitative criteria considered in [PART 23: Quantitative criteria: Ballester/MUFON index]({{ '/ufog/best-ufo-cases/23-quantitative-criteria-ballestermufon-index' | relative_url }}).
 
 **FOOTNOTES**
 

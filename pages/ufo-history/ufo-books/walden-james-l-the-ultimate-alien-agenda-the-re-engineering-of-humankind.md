@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/156718779X.jpg"}
 book: {"identifiers": ["156718779X", "0967773709"], "primary_isbn": "156718779X", "cover_image": "/book-covers/156718779X.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of James L Walden's book “[The Ultimate Alien Agenda: The Re-Engineering of Humankind](/ufo-history/ufo-books/walden-james-l-the-ultimate-alien-agenda-the-re-engineering-of-humankind)” ([1998](/tags/1998)) (available [on Amazon USA](http://www.amazon.com/dp/156718779X/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/156718779X/?&tag=ufot-21))
+Brief review to be added of James L Walden's book “[The Ultimate Alien Agenda: The Re-Engineering of Humankind]({{ '/ufo-history/ufo-books/walden-james-l-the-ultimate-alien-agenda-the-re-engineering-of-humankind' | relative_url }})” ([1998]({{ '/tags/1998' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/156718779X/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/156718779X/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Lorgen, Eve in her “<a href="/ufo-history/ufo-books/lorgen-eve-the-love-bite-alien-interference-in-human-love-relationships">The Love Bite : Alien Interference in Human Love Relationships</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0967773709/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0967773709/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 169 (in the unnumbered chapter entitled “Theraputic Modalities”), 193 (in the unnumbered chapter entitled “Occult History”) of the Elogos &amp; HHC softcover edition.</p>
+<p>Lorgen, Eve in her “<a href="{{ '/ufo-history/ufo-books/lorgen-eve-the-love-bite-alien-interference-in-human-love-relationships' | relative_url }}">The Love Bite : Alien Interference in Human Love Relationships</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0967773709/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0967773709/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 169 (in the unnumbered chapter entitled “Theraputic Modalities”), 193 (in the unnumbered chapter entitled “Occult History”) of the Elogos &amp; HHC softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -65,10 +65,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p>Bartholic, Barbara in James Walden’s “<a href="/ufo-history/ufo-books/walden-james-l-the-ultimate-alien-agenda-the-re-engineering-of-humankind">The Ultimate Alien Agenda: The Re-Engineering of Humankind</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/156718779X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/156718779X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages ix-xii (in the Foreword) of the Llewellyn softcover edition.</p>
+<p>Bartholic, Barbara in James Walden’s “<a href="{{ '/ufo-history/ufo-books/walden-james-l-the-ultimate-alien-agenda-the-re-engineering-of-humankind' | relative_url }}">The Ultimate Alien Agenda: The Re-Engineering of Humankind</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/156718779X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/156718779X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages ix-xii (in the Foreword) of the Llewellyn softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>

@@ -14,7 +14,7 @@ header: {"preview_image": "https://covers.openlibrary.org/b/isbn/0385041276-L.jp
 book: {"identifiers": ["0385041276", "0880642262", "1880090163", "0586049118", "0393063364"], "primary_isbn": "0385041276", "cover_image": "https://covers.openlibrary.org/b/isbn/0385041276-L.jpg?default=false", "cover_source": "openlibrary"}
 ---
 
-Brief review to be added of [Gerald Hawkins](/ufo-history/ufo-personalities/hawkins-gerald)'s book “[Stonehenge decoded](/ufo-history/ufo-books/hawkins-gerald-stonehenge-decoded)” ([1965](/tags/1965)) (available [on Amazon USA](http://www.amazon.com/dp/0385041276/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0385041276/?&tag=ufot-21))
+Brief review to be added of [Gerald Hawkins]({{ '/ufo-history/ufo-personalities/hawkins-gerald' | relative_url }})'s book “[Stonehenge decoded]({{ '/ufo-history/ufo-books/hawkins-gerald-stonehenge-decoded' | relative_url }})” ([1965]({{ '/tags/1965' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0385041276/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0385041276/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -34,7 +34,7 @@ The table below includes references to relevant discussions in UFO/SETI books no
 
 Many of the tables of references on this website are considerably longer than the references to books found on most other UFO websites. Indeed, some are probably the longest that have been collated in relation to some events and personalities. I hope that these tables are found to be a useful contribution to UFOlogy.
 
-For discussion of “[Stonehenge decoded](/ufo-history/ufo-books/hawkins-gerald-stonehenge-decoded)” see the following:
+For discussion of “[Stonehenge decoded]({{ '/ufo-history/ufo-books/hawkins-gerald-stonehenge-decoded' | relative_url }})” see the following:
 
 <table border="1" cellpadding="0" cellspacing="0" class="sortable" data-sortable="true" id="sortabletable">
 <thead>
@@ -54,10 +54,10 @@ For discussion of “[Stonehenge decoded](/ufo-history/ufo-books/hawkins-gerald-
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/wilson-colin">Wilson, Colin</a> in his “<a href="/ufo-history/ufo-books/wilson-colin-alien-dawn">Alien Dawn</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0880642262/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0880642262/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 40-41, 54 (in Chapter 2) of the Virgin softcover edition (with the same page numbering in the Virgin paperback edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/wilson-colin' | relative_url }}">Wilson, Colin</a> in his “<a href="{{ '/ufo-history/ufo-books/wilson-colin-alien-dawn' | relative_url }}">Alien Dawn</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0880642262/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0880642262/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 40-41, 54 (in Chapter 2) of the Virgin softcover edition (with the same page numbering in the Virgin paperback edition).</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -65,10 +65,10 @@ For discussion of “[Stonehenge decoded](/ufo-history/ufo-books/hawkins-gerald-
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1971">1971</a></p>
+<p><a href="{{ '/tags/1971' | relative_url }}">1971</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/keel-john-a">Keel, John A</a> in his “<a href="/ufo-history/ufo-books/keel-john-our-haunted-planet">Our Haunted Planet</a>” (<a href="/tags/1971">1971</a>) (available <a href="http://www.amazon.com/dp/1880090163/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1880090163/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 51, 53-54 (in Chapter 5) of the Fawcett paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/keel-john-a' | relative_url }}">Keel, John A</a> in his “<a href="{{ '/ufo-history/ufo-books/keel-john-our-haunted-planet' | relative_url }}">Our Haunted Planet</a>” (<a href="{{ '/tags/1971' | relative_url }}">1971</a>) (available <a href="http://www.amazon.com/dp/1880090163/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1880090163/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 51, 53-54 (in Chapter 5) of the Fawcett paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -76,10 +76,10 @@ For discussion of “[Stonehenge decoded](/ufo-history/ufo-books/hawkins-gerald-
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1979">1979</a></p>
+<p><a href="{{ '/tags/1979' | relative_url }}">1979</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/paget-peter">Paget, Peter</a> in his “<a href="/ufo-history/ufo-books/paget-peter-the-welsh-triangle">The Welsh Triangle</a>” (<a href="/tags/1979">1979</a>) (available <a href="http://www.amazon.com/dp/0586049118/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0586049118/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 92 (in Chapter 4) of the Grafton paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/paget-peter' | relative_url }}">Paget, Peter</a> in his “<a href="{{ '/ufo-history/ufo-books/paget-peter-the-welsh-triangle' | relative_url }}">The Welsh Triangle</a>” (<a href="{{ '/tags/1979' | relative_url }}">1979</a>) (available <a href="http://www.amazon.com/dp/0586049118/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0586049118/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 92 (in Chapter 4) of the Grafton paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -87,10 +87,10 @@ For discussion of “[Stonehenge decoded](/ufo-history/ufo-books/hawkins-gerald-
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1973">1973</a></p>
+<p><a href="{{ '/tags/1973' | relative_url }}">1973</a></p>
 </td>
 <td valign="top" width="547">
-<p>Holiday, F W in his “<a href="/ufo-history/ufo-books/holiday-f-w-ted-the-dragon-and-the-disc">The Dragon and the Disc</a>” (<a href="/tags/1973">1973</a>) (available <a href="http://www.amazon.com/dp/0393063364/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0393063364/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 120 (in Chapter 9) of the Futura paperback edition.</p>
+<p>Holiday, F W in his “<a href="{{ '/ufo-history/ufo-books/holiday-f-w-ted-the-dragon-and-the-disc' | relative_url }}">The Dragon and the Disc</a>” (<a href="{{ '/tags/1973' | relative_url }}">1973</a>) (available <a href="http://www.amazon.com/dp/0393063364/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0393063364/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 120 (in Chapter 9) of the Futura paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

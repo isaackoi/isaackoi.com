@@ -14,7 +14,7 @@ header: {"preview_image": "https://covers.openlibrary.org/b/isbn/0901684600-L.jp
 book: {"identifiers": ["0901684600"], "primary_isbn": "0901684600", "cover_image": "https://covers.openlibrary.org/b/isbn/0901684600-L.jpg?default=false", "cover_source": "openlibrary"}
 ---
 
-Brief review to be added of [Berry, Adrian](/ufo-history/ufo-personalities/berry-adrian) “[From Apes to Astronauts](/ufo-history/ufo-books/berry-adrian-from-apes-to-astronauts)” ([1980](/tags/1980)) (available [on Amazon USA](http://www.amazon.com/dp/0901684600/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0901684600/?&tag=ufot-21))
+Brief review to be added of [Berry, Adrian]({{ '/ufo-history/ufo-personalities/berry-adrian' | relative_url }}) “[From Apes to Astronauts]({{ '/ufo-history/ufo-books/berry-adrian-from-apes-to-astronauts' | relative_url }})” ([1980]({{ '/tags/1980' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0901684600/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0901684600/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -52,10 +52,10 @@ Many of the tables of references on this website are considerably longer than th
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/asimov-isaac">Asimov, Isaac</a> in Adrian Berry’s “<a href="/ufo-history/ufo-books/berry-adrian-from-apes-to-astronauts">From Apes to Astronauts</a>” (<a href="/tags/1980">1980</a>) at page viii (in the Foreword entitled “The Science Writer”) of the Daily Telegraph paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/asimov-isaac' | relative_url }}">Asimov, Isaac</a> in Adrian Berry’s “<a href="{{ '/ufo-history/ufo-books/berry-adrian-from-apes-to-astronauts' | relative_url }}">From Apes to Astronauts</a>” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) at page viii (in the Foreword entitled “The Science Writer”) of the Daily Telegraph paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

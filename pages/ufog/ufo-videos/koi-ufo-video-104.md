@@ -42,13 +42,13 @@ This video appears to show a UFO causing a large explosion in front of a number 
 
 Screen shots from this video are included below for ease of identification.
 
-![](/images/stories/ufo_videos/video104_1.JPG)
+![]({{ '/images/stories/ufo_videos/video104_1.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video104_2.JPG)
+![]({{ '/images/stories/ufo_videos/video104_2.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video104_3.JPG)
+![]({{ '/images/stories/ufo_videos/video104_3.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video104_4.JPG)
+![]({{ '/images/stories/ufo_videos/video104_4.JPG' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this video
@@ -70,27 +70,27 @@ Various videos can be found online of the relevant tanker explosion. Those video
 
 The relevant tanker explosion was reported at the time on numerous websites, including in [an article on the website of The Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/china/9594009/Tanker-explosion-kills-five-in-China.html) (a British newspaper) and in [an article on the BBC's website](http://www.bbc.co.uk/news/world-asia-19868055). Screen-shots of some of the relevant news items are included below for ease of reference.
 
-![](/images/stories/ufo_videos/video104_5.JPG)
+![]({{ '/images/stories/ufo_videos/video104_5.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video104_8.JPG)
+![]({{ '/images/stories/ufo_videos/video104_8.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video104_7.JPG)
+![]({{ '/images/stories/ufo_videos/video104_7.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video104_6.JPG)
+![]({{ '/images/stories/ufo_videos/video104_6.JPG' | relative_url }})
 
 The logo in the UFO video refers to "Section 51", a name which commonly appears on lists of known/probable hoaxers of UFO videos - such as [a black list on the amusing "UFO Theater" website](http://ufotheater.com/ufo-channel-reviews/ufo-black-list/):
 
-![](/images/stories/ufo_videos/video085_11.JPG)
+![]({{ '/images/stories/ufo_videos/video085_11.JPG' | relative_url }})
 
 As I've repeatedly tried to communicate to the UFO community, behind the Youtube username that uploaded this "UFO" video (i.e. Section 51) is a in fact [a small team that has described THEMSELVES as "Internet-video creators specialized in dreaming up sci-fi, action YouTube videos, jam-packed with stunning VFX](https://web.archive.org/web/20141020050148/http://www.patreon.com/Section51)". They offer various incentives for those prepared to provide funding for their science-fiction projects (which include planned movies). The incentives include offering, for a small fee, to take the video of your choice and "we insert an original UFO on it".
 
 So now you know what present to get for the ufologist that has everything!
 
-![](/images/stories/ufo_videos/video085_13.JPG)
+![]({{ '/images/stories/ufo_videos/video085_13.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video085_12.JPG)
+![]({{ '/images/stories/ufo_videos/video085_12.JPG' | relative_url }})
 
-The various other "UFO" videos created by "Section 51" include [Koi UFO Video 085](/ufog/ufo-videos/koi-ufo-video-085). That appears to show a triangular craft causing a large explosion, with a tank in the foreground. It was uploaded to Youtube in May 2014 with a caption stating that it US marines had filmed a mysterious UFO attacking a Taliban cam in the Asadabad District of Afghanistan in March 2014. Many of the early comments on the video speculated that it should a TR-3B (a secret flying triangle aircraft operated by the US Air Force). One copy of the video on Youtube has approximately 2.5 million views as at October 2014. The video was the subject of an article by a popular British newspaper, The Daily Maill. In fact, the "triangular craft" was CGI (Computer Generated Imagery) inserted into footage of an explosion which had been online since 2007, i.e. for about 7 years before the "UFO" event supposedly occurred.
+The various other "UFO" videos created by "Section 51" include [Koi UFO Video 085]({{ '/ufog/ufo-videos/koi-ufo-video-085' | relative_url }}). That appears to show a triangular craft causing a large explosion, with a tank in the foreground. It was uploaded to Youtube in May 2014 with a caption stating that it US marines had filmed a mysterious UFO attacking a Taliban cam in the Asadabad District of Afghanistan in March 2014. Many of the early comments on the video speculated that it should a TR-3B (a secret flying triangle aircraft operated by the US Air Force). One copy of the video on Youtube has approximately 2.5 million views as at October 2014. The video was the subject of an article by a popular British newspaper, The Daily Maill. In fact, the "triangular craft" was CGI (Computer Generated Imagery) inserted into footage of an explosion which had been online since 2007, i.e. for about 7 years before the "UFO" event supposedly occurred.
 
 [https://www.youtube.com/watch?t=3&v=AA1yiOehuy8](https://www.youtube.com/watch?t=3&v=AA1yiOehuy8)
 
@@ -101,4 +101,4 @@ Relevant online discussions include the following:
 
 2014 (June) posts by "UFO of Interest" on [his Facebook page](https://www.facebook.com/ufoofinterest/posts/1485639881653509).
 
-![](/images/stories/ufo_videos/video104_3d.JPG)
+![]({{ '/images/stories/ufo_videos/video104_3d.JPG' | relative_url }})

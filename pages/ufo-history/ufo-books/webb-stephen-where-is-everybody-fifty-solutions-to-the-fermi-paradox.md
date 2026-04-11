@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0387955011.jpg"}
 book: {"identifiers": ["0387955011"], "primary_isbn": "0387955011", "cover_image": "/book-covers/0387955011.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of Stephen Webb's book “[Where is Everybody?: Fifty Solutions to the Fermi Paradox](/ufo-history/ufo-books/webb-stephen-where-is-everybody-fifty-solutions-to-the-fermi-paradox)” ([2002](/tags/2002)) (available [on Amazon USA](http://www.amazon.com/dp/0387955011/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0387955011/?&tag=ufot-21))
+Brief review to be added of Stephen Webb's book “[Where is Everybody?: Fifty Solutions to the Fermi Paradox]({{ '/ufo-history/ufo-books/webb-stephen-where-is-everybody-fifty-solutions-to-the-fermi-paradox' | relative_url }})” ([2002]({{ '/tags/2002' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0387955011/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0387955011/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

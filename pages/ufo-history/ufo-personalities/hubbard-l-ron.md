@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/hubbard_l_ron_1.jpg"}
 ---
 
-![hubbard_l_ron_1](/images/stories/ufo_personalities/hubbard_l_ron_1.jpg)
+![hubbard_l_ron_1]({{ '/images/stories/ufo_personalities/hubbard_l_ron_1.jpg' | relative_url }})
 
 *L Ron Hubbard*
 
@@ -59,10 +59,10 @@ For discussion of L Ron Hubbard see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1973">1973</a></p>
+<p><a href="{{ '/tags/1973' | relative_url }}">1973</a></p>
 </td>
 <td valign="top" width="547">
-<p>Aldiss, Brian in his “Billion Year Spree” (<a href="/tags/1973">1973</a>) (available <a href="http://www.amazon.com/dp/0805204504/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0805204504/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 274 (in Chapter 10) of the Weidenfeld &amp; Nicolson hardback edition.</p>
+<p>Aldiss, Brian in his “Billion Year Spree” (<a href="{{ '/tags/1973' | relative_url }}">1973</a>) (available <a href="http://www.amazon.com/dp/0805204504/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0805204504/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 274 (in Chapter 10) of the Weidenfeld &amp; Nicolson hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -70,10 +70,10 @@ For discussion of L Ron Hubbard see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2004">2004</a></p>
+<p><a href="{{ '/tags/2004' | relative_url }}">2004</a></p>
 </td>
 <td valign="top" width="547">
-<p>Davis, Erik in his “TechGnosis: Myth, Magic and Mysticism in the Age of Information” (<a href="/tags/2004">2004</a>) (available <a href="http://www.amazon.com/dp/1852427728/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1852427728/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 165-172 (in Chapter 5) of the Serpents Tail softcover edition.</p>
+<p>Davis, Erik in his “TechGnosis: Myth, Magic and Mysticism in the Age of Information” (<a href="{{ '/tags/2004' | relative_url }}">2004</a>) (available <a href="http://www.amazon.com/dp/1852427728/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1852427728/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 165-172 (in Chapter 5) of the Serpents Tail softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>8</p>
@@ -81,10 +81,10 @@ For discussion of L Ron Hubbard see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1957">1957</a></p>
+<p><a href="{{ '/tags/1957' | relative_url }}">1957</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/gardner-martin">Gardner, Martin</a> in his “<a href="/ufo-history/ufo-books/gardner-martin-fads-and-fallacies-in-the-name-of-science">Fads and Fallacies in the Name of Science</a>” (<a href="/tags/1957">1957</a>) (available <a href="http://www.amazon.com/dp/0486203948/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0486203948/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 263-280 (Chapter 22 generally) of the Dover softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/gardner-martin' | relative_url }}">Gardner, Martin</a> in his “<a href="{{ '/ufo-history/ufo-books/gardner-martin-fads-and-fallacies-in-the-name-of-science' | relative_url }}">Fads and Fallacies in the Name of Science</a>” (<a href="{{ '/tags/1957' | relative_url }}">1957</a>) (available <a href="http://www.amazon.com/dp/0486203948/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0486203948/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 263-280 (Chapter 22 generally) of the Dover softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>18</p>
@@ -92,10 +92,10 @@ For discussion of L Ron Hubbard see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1988">1988</a></p>
+<p><a href="{{ '/tags/1988' | relative_url }}">1988</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/gardner-martin">Gardner, Martin</a> in his “The New Age – Notes of a Fringe Watcher” (<a href="/tags/1988">1988</a>) (available <a href="http://www.amazon.com/dp/0879756446/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879756446/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 246-251 (Chapter 32 generally) of the Prometheus softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/gardner-martin' | relative_url }}">Gardner, Martin</a> in his “The New Age – Notes of a Fringe Watcher” (<a href="{{ '/tags/1988' | relative_url }}">1988</a>) (available <a href="http://www.amazon.com/dp/0879756446/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879756446/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 246-251 (Chapter 32 generally) of the Prometheus softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>6</p>
@@ -103,10 +103,10 @@ For discussion of L Ron Hubbard see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="547">
-<p>Gordon, Stuart in his “<a href="/ufo-history/ufo-books/gordon-stuart-the-paranormal-an-illustrated-encyclopedia">The Paranormal - An Illustrated Encyclopedia</a>” (<a href="/tags/1992">1992</a>) (available <a href="http://www.amazon.com/dp/0747236038/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0747236038/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 319-322 (in the entry entitled “<a href="/ufo-history/ufo-personalities/hubbard-l-ron">Hubbard, L Ron</a>”) of the Headline softcover edition.</p>
+<p>Gordon, Stuart in his “<a href="{{ '/ufo-history/ufo-books/gordon-stuart-the-paranormal-an-illustrated-encyclopedia' | relative_url }}">The Paranormal - An Illustrated Encyclopedia</a>” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="http://www.amazon.com/dp/0747236038/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0747236038/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 319-322 (in the entry entitled “<a href="{{ '/ufo-history/ufo-personalities/hubbard-l-ron' | relative_url }}">Hubbard, L Ron</a>”) of the Headline softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -114,10 +114,10 @@ For discussion of L Ron Hubbard see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/keith-jim">Keith, Jim</a> in his “<a href="/ufo-history/ufo-books/keith-jim-casebook-on-alternative-3">Casebook on Alternative 3</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/1931882444/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1931882444/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 69 (in Chapter 8) of the I-Net softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/keith-jim' | relative_url }}">Keith, Jim</a> in his “<a href="{{ '/ufo-history/ufo-books/keith-jim-casebook-on-alternative-3' | relative_url }}">Casebook on Alternative 3</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/1931882444/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1931882444/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 69 (in Chapter 8) of the I-Net softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -125,10 +125,10 @@ For discussion of L Ron Hubbard see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p>Lachman, Gary Valentine in his “<a href="/ufo-history/ufo-books/lachman-gary-valentine-turn-off-your-mind">Turn Off Your Mind</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/0971394237/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0971394237/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 217, 218-221, 224, 225, 228, 230, 231, 233 (in Chapter 9), 274 (in Chapter 10) of the Sidgwick &amp; Jackson softcover edition.</p>
+<p>Lachman, Gary Valentine in his “<a href="{{ '/ufo-history/ufo-books/lachman-gary-valentine-turn-off-your-mind' | relative_url }}">Turn Off Your Mind</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/0971394237/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0971394237/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 217, 218-221, 224, 225, 228, 230, 231, 233 (in Chapter 9), 274 (in Chapter 10) of the Sidgwick &amp; Jackson softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>12</p>
@@ -136,10 +136,10 @@ For discussion of L Ron Hubbard see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2007">2007</a></p>
+<p><a href="{{ '/tags/2007' | relative_url }}">2007</a></p>
 </td>
 <td valign="top" width="547">
-<p>Rothstein, Mikael in “Alien Worlds : Social and Religious Dimensions of Extraterrestrial Contact” (<a href="/tags/2007">2007</a>) (edited by Diana Tumminia) (available <a href="http://www.amazon.com/dp/0815608586/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0815608586/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 3-4 (in Chapter 1) of the Syracuse University Press softcover edition.</p>
+<p>Rothstein, Mikael in “Alien Worlds : Social and Religious Dimensions of Extraterrestrial Contact” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (edited by Diana Tumminia) (available <a href="http://www.amazon.com/dp/0815608586/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0815608586/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 3-4 (in Chapter 1) of the Syracuse University Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -147,10 +147,10 @@ For discussion of L Ron Hubbard see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2008">2008</a></p>
+<p><a href="{{ '/tags/2008' | relative_url }}">2008</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/vallee-jacques">Vallee, Jacques</a> in his “<a href="/ufo-history/ufo-books/vallee-jacques-forbidden-science-volume-2-journals-1970-1979">Forbidden Science : Volume 2 (Journals 1970-1979)</a>” (<a href="/tags/2008">2008</a>) (available <a href="http://www.amazon.com/dp/0615249744/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0615249744/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 44-45, 495 of the Documatica Research hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/vallee-jacques' | relative_url }}">Vallee, Jacques</a> in his “<a href="{{ '/ufo-history/ufo-books/vallee-jacques-forbidden-science-volume-2-journals-1970-1979' | relative_url }}">Forbidden Science : Volume 2 (Journals 1970-1979)</a>” (<a href="{{ '/tags/2008' | relative_url }}">2008</a>) (available <a href="http://www.amazon.com/dp/0615249744/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0615249744/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 44-45, 495 of the Documatica Research hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>

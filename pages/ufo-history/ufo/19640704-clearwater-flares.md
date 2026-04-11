@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -75,10 +75,10 @@ For discussion of the Clearwater incident see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fitzgerald-randall">Fitzgerald, Randall</a> in his “<a href="/ufo-history/ufo-books/fitzgerald-randall-the-cosmic-test-tube">The Cosmic Test Tube</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0963916122/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963916122/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 142-143 (in Section 2) of the Moonlake Media softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }}">Fitzgerald, Randall</a> in his “<a href="{{ '/ufo-history/ufo-books/fitzgerald-randall-the-cosmic-test-tube' | relative_url }}">The Cosmic Test Tube</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0963916122/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963916122/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 142-143 (in Section 2) of the Moonlake Media softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -86,10 +86,10 @@ For discussion of the Clearwater incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1975">1975</a></p>
+<p><a href="{{ '/tags/1975' | relative_url }}">1975</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/hynek-j-allen">Hynek, J Allen</a> and <a href="/ufo-history/ufo-personalities/vallee-jacques">Vallee, Jacques</a> in their “<a href="/ufo-history/ufo-books/hynek-allen-and-vallee-jacques-the-edge-of-reality">The Edge of Reality</a>” (<a href="/tags/1975">1975</a>) (available <a href="http://www.amazon.com/dp/B000RATSR4/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000RATSR4/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 167-171 (in Chapter 6) of the Henry Regnery hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hynek-j-allen' | relative_url }}">Hynek, J Allen</a> and <a href="{{ '/ufo-history/ufo-personalities/vallee-jacques' | relative_url }}">Vallee, Jacques</a> in their “<a href="{{ '/ufo-history/ufo-books/hynek-allen-and-vallee-jacques-the-edge-of-reality' | relative_url }}">The Edge of Reality</a>” (<a href="{{ '/tags/1975' | relative_url }}">1975</a>) (available <a href="http://www.amazon.com/dp/B000RATSR4/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000RATSR4/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 167-171 (in Chapter 6) of the Henry Regnery hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>
@@ -97,10 +97,10 @@ For discussion of the Clearwater incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/keith-jim">Keith, Jim</a> in his “Casebook on the Men in Black” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1881532119/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1881532119/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 115 (in Chapter 8) of the I-Net softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/keith-jim' | relative_url }}">Keith, Jim</a> in his “Casebook on the Men in Black” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1881532119/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1881532119/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 115 (in Chapter 8) of the I-Net softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -108,10 +108,10 @@ For discussion of the Clearwater incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1972">1972</a></p>
+<p><a href="{{ '/tags/1972' | relative_url }}">1972</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/menzel-donald-h">Menzel, Donald H</a> in “<a href="/ufo-history/ufo-books/sagan-carl-and-page-thornton-editors-ufos-a-scientific-debate">UFO's: A Scientific Debate</a>” (<a href="/tags/1972">1972</a>) (edited by <a href="/ufo-history/ufo-personalities/sagan-carl">Carl Sagan</a> and <a href="/ufo-history/ufo-personalities/page-thornton">Thornton Page</a>) (available <a href="http://www.amazon.com/dp/0393007391/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0393007391/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 153-155 (in Chapter 6, Appendix 2) of the Barnes and Noble hardback edition (with the same page numbering in the Norton paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/menzel-donald-h' | relative_url }}">Menzel, Donald H</a> in “<a href="{{ '/ufo-history/ufo-books/sagan-carl-and-page-thornton-editors-ufos-a-scientific-debate' | relative_url }}">UFO's: A Scientific Debate</a>” (<a href="{{ '/tags/1972' | relative_url }}">1972</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/sagan-carl' | relative_url }}">Carl Sagan</a> and <a href="{{ '/ufo-history/ufo-personalities/page-thornton' | relative_url }}">Thornton Page</a>) (available <a href="http://www.amazon.com/dp/0393007391/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0393007391/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 153-155 (in Chapter 6, Appendix 2) of the Barnes and Noble hardback edition (with the same page numbering in the Norton paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>

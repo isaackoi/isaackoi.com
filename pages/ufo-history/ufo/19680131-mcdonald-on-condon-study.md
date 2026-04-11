@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -47,7 +47,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-Complete text of letter presented at pages 244-252 (in Appendix B) of [Saunders, David R](/ufo-history/ufo-personalities/saunders-david-r) and Harkins, R Roger’ “[UFOs? Yes!](/ufo-history/ufo-books/saunders-david-r-and-harkins-r-roger-ufos-yes)” ([1968](/tags/1968)), and discussed at 185-187 (in Chapter 19), 188-189 (Chapter 20), of the Signet paperback edition.
+Complete text of letter presented at pages 244-252 (in Appendix B) of [Saunders, David R]({{ '/ufo-history/ufo-personalities/saunders-david-r' | relative_url }}) and Harkins, R Roger’ “[UFOs? Yes!]({{ '/ufo-history/ufo-books/saunders-david-r-and-harkins-r-roger-ufos-yes' | relative_url }})” ([1968]({{ '/tags/1968' | relative_url }})), and discussed at 185-187 (in Chapter 19), 188-189 (Chapter 20), of the Signet paperback edition.
 
 The table below includes references to relevant discussions in UFO/SETI books noted by Isaac Koi during a review of approximately 963 UFO/SETI books during the period 2003-2006 (with a few later additions). The table can be sorted by author, date and length of discussion by clicking on the relevant word in the top line of the table.
 
@@ -73,10 +73,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/dolan-richard">Dolan, Richard</a> M in his “<a href="/ufo-history/ufo-books/dolan-richard-ufos-and-the-national-security-state-volume-1-1941-1973">UFOs and the National Security State: Volume 1: 1941-1973</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/1571743170/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1571743170/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 438-440 (in Chapter 8) of the Keyhole softcover edition, at pages 342-344 of the <a href="/tags/2002">2002</a> revised Hampton Road softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dolan-richard' | relative_url }}">Dolan, Richard</a> M in his “<a href="{{ '/ufo-history/ufo-books/dolan-richard-ufos-and-the-national-security-state-volume-1-1941-1973' | relative_url }}">UFOs and the National Security State: Volume 1: 1941-1973</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/1571743170/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1571743170/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 438-440 (in Chapter 8) of the Keyhole softcover edition, at pages 342-344 of the <a href="{{ '/tags/2002' | relative_url }}">2002</a> revised Hampton Road softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -84,10 +84,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2003">2003</a></p>
+<p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/druffel-ann">Druffel, Ann</a> in her “<a href="/ufo-history/ufo-books/druffel-ann-firestorm-dr-james-e-mcdonalds-fight-for-ufo-science">Firestorm : Dr James E McDonald's Fight for UFO Science</a>” (<a href="/tags/2003">2003</a>) (available <a href="http://www.amazon.com/dp/0926524585/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0926524585/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 272 (in Chapter 11) of the Wild Flower Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/druffel-ann' | relative_url }}">Druffel, Ann</a> in her “<a href="{{ '/ufo-history/ufo-books/druffel-ann-firestorm-dr-james-e-mcdonalds-fight-for-ufo-science' | relative_url }}">Firestorm : Dr James E McDonald's Fight for UFO Science</a>” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) (available <a href="http://www.amazon.com/dp/0926524585/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0926524585/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 272 (in Chapter 11) of the Wild Flower Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -95,10 +95,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1985">1985</a></p>
+<p><a href="{{ '/tags/1985' | relative_url }}">1985</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> and <a href="/ufo-history/ufo-personalities/warrington-peter">Warrington, Peter</a> in their “<a href="/ufo-history/ufo-books/randles-jenny-and-warrington-peter-science-and-the-ufos">Science and the UFOs</a> " (<a href="/tags/1985">1985</a>) (available <a href="http://www.amazon.com/dp/0631135634/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0631135634/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 54-55 (in Chapter 4) of the Blackwell hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> and <a href="{{ '/ufo-history/ufo-personalities/warrington-peter' | relative_url }}">Warrington, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-warrington-peter-science-and-the-ufos' | relative_url }}">Science and the UFOs</a> " (<a href="{{ '/tags/1985' | relative_url }}">1985</a>) (available <a href="http://www.amazon.com/dp/0631135634/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0631135634/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 54-55 (in Chapter 4) of the Blackwell hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -106,10 +106,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1968">1968</a></p>
+<p><a href="{{ '/tags/1968' | relative_url }}">1968</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/saunders-david-r">Saunders, David R</a> and Harkins, R Roger’ “<a href="/ufo-history/ufo-books/saunders-david-r-and-harkins-r-roger-ufos-yes">UFOs? Yes!</a>” (<a href="/tags/1968">1968</a>) (available <a href="http://www.amazon.com/dp/B000LBSNHU/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000LBSNHU/ref=nosim?tag=ufot-21">on Amazon UK</a>) at 185-187 (in Chapter 19), 188-189 (Chapter 20), with complete text of letter presented at pages 244-252 (in Appendix B) of the Signet paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/saunders-david-r' | relative_url }}">Saunders, David R</a> and Harkins, R Roger’ “<a href="{{ '/ufo-history/ufo-books/saunders-david-r-and-harkins-r-roger-ufos-yes' | relative_url }}">UFOs? Yes!</a>” (<a href="{{ '/tags/1968' | relative_url }}">1968</a>) (available <a href="http://www.amazon.com/dp/B000LBSNHU/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000LBSNHU/ref=nosim?tag=ufot-21">on Amazon UK</a>) at 185-187 (in Chapter 19), 188-189 (Chapter 20), with complete text of letter presented at pages 244-252 (in Appendix B) of the Signet paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>14</p>
@@ -118,7 +118,7 @@ For discussion see the following:
 </tbody>
 </table>
 
-See also references provided in relation to the main entry for the [Condon Report](/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects).
+See also references provided in relation to the main entry for the [Condon Report]({{ '/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects' | relative_url }}).
 
 <a id="other"></a>
 ### Other Material

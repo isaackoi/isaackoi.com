@@ -40,11 +40,11 @@ Koi UFO Video 080 appears to show someone driving on a road through a desert whe
 
 Screen shots from the video are included below for ease of identification:
 
-![](/images/stories/ufo_videos/video080_1.JPG)
+![]({{ '/images/stories/ufo_videos/video080_1.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video080_2.JPG)
+![]({{ '/images/stories/ufo_videos/video080_2.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video080_3.JPG)
+![]({{ '/images/stories/ufo_videos/video080_3.JPG' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this video
@@ -68,7 +68,7 @@ All the elements of the video are CGI ("Computer Generated Imagery"), including 
 
 Meni Tsirbas' [entry on the IMDB website i](http://www.imdb.com/name/nm0875056/)ndicates that he acted as a digital artist on Star Trek: Deep Space Nine, Star Trek: Voyager, Star Trek: Enterprise, various movies (including Hellboy and Titanic) and other projects.
 
-![](/images/stories/ufo_videos/video080_4.JPG)
+![]({{ '/images/stories/ufo_videos/video080_4.JPG' | relative_url }})
 
 On 17 February 2013, Meni Tsirbas uploaded a further video to Youtube. This video was entitled "UFO Over Santa Clarita VFX Breakdown" and had a caption which stated "A behind-the-scenes look at the viral video "UFO Over Santa Clarita". While most assumed that the UFO's must CGI while everything else was live action footage, in reality everything is computer generated". This video showed the 3d models used for the various elements of the "UFO" video and included extensive credits listing those involved in the creation of the Santa Claritia UFO video.
 
@@ -76,15 +76,15 @@ On 17 February 2013, Meni Tsirbas uploaded a further video to Youtube. This vide
 
 A few screen-shots from the "breakdown" video published by Meni Tsirbas are included below.
 
-![](/images/stories/ufo_videos/video080_5.JPG)
+![]({{ '/images/stories/ufo_videos/video080_5.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video080_6.JPG)
+![]({{ '/images/stories/ufo_videos/video080_6.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video080_7.JPG)
+![]({{ '/images/stories/ufo_videos/video080_7.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video080_8.JPG)
+![]({{ '/images/stories/ufo_videos/video080_8.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video080_9.JPG)
+![]({{ '/images/stories/ufo_videos/video080_9.JPG' | relative_url }})
 
 The [WPTV website published an article in February 2013](http://www.wptv.com/news/local-news/water-cooler/ufo-hoax-video-youtube-ufo-over-santa-clarita-video-from-aristomenis-tsirbas-goes-viral)which reported that Meni Tsirbas had admitted that the viral video was a fake.
 
@@ -103,4 +103,4 @@ The most extensive relevant discussions online are in the comments sections for 
 
 Amusingly, most of the comments on the video explaining how the hoax was created simply give the comment "fake" without showing any recognition that the video they are commenting upon was about how the original video was faked. Some of the comments (seriously or othewise) maintain that the original video was genuine.
 
-![](/images/stories/ufo_videos/video080_1d.JPG)
+![]({{ '/images/stories/ufo_videos/video080_1d.JPG' | relative_url }})

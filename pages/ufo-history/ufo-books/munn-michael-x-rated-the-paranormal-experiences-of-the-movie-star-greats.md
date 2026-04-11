@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/1861050178.jpg"}
 book: {"identifiers": ["1861050178"], "primary_isbn": "1861050178", "cover_image": "/book-covers/1861050178.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of Michael Munn's “[X-Rated: The Paranormal Experiences of the Movie Star Greats](/ufo-history/ufo-books/munn-michael-x-rated-the-paranormal-experiences-of-the-movie-star-greats)” ([1996](/tags/1996)) (available [on Amazon USA](http://www.amazon.com/dp/1861050178/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1861050178/?&tag=ufot-21))
+Brief review to be added of Michael Munn's “[X-Rated: The Paranormal Experiences of the Movie Star Greats]({{ '/ufo-history/ufo-books/munn-michael-x-rated-the-paranormal-experiences-of-the-movie-star-greats' | relative_url }})” ([1996]({{ '/tags/1996' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1861050178/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1861050178/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

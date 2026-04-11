@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/cocconi_giuseppe_2.gif"}
 ---
 
-![cocconi_giuseppe_2](/images/stories/ufo_personalities/cocconi_giuseppe_2.gif)
+![cocconi_giuseppe_2]({{ '/images/stories/ufo_personalities/cocconi_giuseppe_2.gif' | relative_url }})
 
 *Giuseppe Cocconi*
 
@@ -59,10 +59,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/darling-david">Darling, David</a> in his “<a href="/ufo-history/ufo-books/darling-david-the-extraterrestrial-encyclopedia">The Extraterrestrial Encyclopedia</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/081293248X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/081293248X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 79 (in the entry entitled “<a href="/ufo-history/ufo-personalities/cocconi-giuseppe">Cocconi, Giuseppe</a> (1914- )”) of the Three Rivers softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/darling-david' | relative_url }}">Darling, David</a> in his “<a href="{{ '/ufo-history/ufo-books/darling-david-the-extraterrestrial-encyclopedia' | relative_url }}">The Extraterrestrial Encyclopedia</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/081293248X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/081293248X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 79 (in the entry entitled “<a href="{{ '/ufo-history/ufo-personalities/cocconi-giuseppe' | relative_url }}">Cocconi, Giuseppe</a> (1914- )”) of the Three Rivers softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -70,10 +70,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2003">2003</a></p>
+<p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/darling-david">Darling, David</a> in his online encyclopedia, “The Encyclopedia of Astrobiology, Astronomy and Spaceflight” (<a href="/tags/2003">2003</a>) in the entry entitled “Cocconi, Guiseppe (1914- )”. The relevant entry is available online at: <a href="http://www.daviddarling.info/encyclopedia/C/Cocconi.html">http://www.daviddarling.info/encyclopedia/C/Cocconi.html</a></p>
+<p><a href="{{ '/ufo-history/ufo-personalities/darling-david' | relative_url }}">Darling, David</a> in his online encyclopedia, “The Encyclopedia of Astrobiology, Astronomy and Spaceflight” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) in the entry entitled “Cocconi, Guiseppe (1914- )”. The relevant entry is available online at: <a href="http://www.daviddarling.info/encyclopedia/C/Cocconi.html">http://www.daviddarling.info/encyclopedia/C/Cocconi.html</a></p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -81,10 +81,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/drake-frank">Drake, Frank</a> and Dava Sobel in their “<a href="/ufo-history/ufo-books/drake-frank-and-sobel-dava-is-anyone-out-there">Is Anyone Out There?</a>“ (<a href="/tags/1991">1991</a>) (available <a href="http://www.amazon.com/dp/038530532X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/038530532X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 53 (in Chapter 3) of the Pocket Books paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/drake-frank' | relative_url }}">Drake, Frank</a> and Dava Sobel in their “<a href="{{ '/ufo-history/ufo-books/drake-frank-and-sobel-dava-is-anyone-out-there' | relative_url }}">Is Anyone Out There?</a>“ (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/038530532X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/038530532X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 53 (in Chapter 3) of the Pocket Books paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -92,10 +92,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/drake-frank">Drake, Frank</a> D in an interview in David W Swift’s “<a href="/ufo-history/ufo-books/swift-david-w-seti-pioneers-scientists-talk-about-their-search-for-extraterrestrial-intelligence">SETI Pioneers : Scientists Talk About Their Search for Extraterrestrial Intelligence</a>” (<a href="/tags/1990">1990</a>) (available <a href="http://www.amazon.com/dp/0816511195/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0816511195/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 60 (in the unnumbered chapter entitled “Frank D Drake”) of the Arizona hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/drake-frank' | relative_url }}">Drake, Frank</a> D in an interview in David W Swift’s “<a href="{{ '/ufo-history/ufo-books/swift-david-w-seti-pioneers-scientists-talk-about-their-search-for-extraterrestrial-intelligence' | relative_url }}">SETI Pioneers : Scientists Talk About Their Search for Extraterrestrial Intelligence</a>” (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) (available <a href="http://www.amazon.com/dp/0816511195/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0816511195/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 60 (in the unnumbered chapter entitled “Frank D Drake”) of the Arizona hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -103,10 +103,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/morrison-philip">Morrison, Philip</a> in an interview in David W Swift’s “<a href="/ufo-history/ufo-books/swift-david-w-seti-pioneers-scientists-talk-about-their-search-for-extraterrestrial-intelligence">SETI Pioneers : Scientists Talk About Their Search for Extraterrestrial Intelligence</a>” (<a href="/tags/1990">1990</a>) (available <a href="http://www.amazon.com/dp/0816511195/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0816511195/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 44 (in the unnumbered chapter entitled “<a href="/ufo-history/ufo-personalities/morrison-philip">Philip Morrison</a>”) of the Arizona hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/morrison-philip' | relative_url }}">Morrison, Philip</a> in an interview in David W Swift’s “<a href="{{ '/ufo-history/ufo-books/swift-david-w-seti-pioneers-scientists-talk-about-their-search-for-extraterrestrial-intelligence' | relative_url }}">SETI Pioneers : Scientists Talk About Their Search for Extraterrestrial Intelligence</a>” (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) (available <a href="http://www.amazon.com/dp/0816511195/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0816511195/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 44 (in the unnumbered chapter entitled “<a href="{{ '/ufo-history/ufo-personalities/morrison-philip' | relative_url }}">Philip Morrison</a>”) of the Arizona hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -114,10 +114,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="547">
-<p>Swift, David W in his “<a href="/ufo-history/ufo-books/swift-david-w-seti-pioneers-scientists-talk-about-their-search-for-extraterrestrial-intelligence">SETI Pioneers : Scientists Talk About Their Search for Extraterrestrial Intelligence</a>” (<a href="/tags/1990">1990</a>) (available <a href="http://www.amazon.com/dp/0816511195/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0816511195/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 49-53 (in the unnumbered chapter entitled “Giuseppe Cocconi”) of the Arizona hardback edition.</p>
+<p>Swift, David W in his “<a href="{{ '/ufo-history/ufo-books/swift-david-w-seti-pioneers-scientists-talk-about-their-search-for-extraterrestrial-intelligence' | relative_url }}">SETI Pioneers : Scientists Talk About Their Search for Extraterrestrial Intelligence</a>” (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) (available <a href="http://www.amazon.com/dp/0816511195/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0816511195/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 49-53 (in the unnumbered chapter entitled “Giuseppe Cocconi”) of the Arizona hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>

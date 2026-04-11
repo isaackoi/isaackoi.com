@@ -14,7 +14,7 @@ header: {"preview_image": "https://covers.openlibrary.org/b/isbn/1558887415-L.jp
 book: {"identifiers": ["B0014N3XLK", "1558887415", "0385136773"], "primary_isbn": "1558887415", "cover_image": "https://covers.openlibrary.org/b/isbn/1558887415-L.jpg?default=false", "cover_source": "openlibrary"}
 ---
 
-Brief review to be added of [Morris K Jessup](/ufo-history/ufo-personalities/jessup-morris-k)'s book “[The Expanding Case for the UFO](/ufo-history/ufo-books/jessup-morris-k-the-expanding-case-for-the-ufo)” ([1957](/tags/1957)) (available [on Amazon USA](http://www.amazon.com/dp/B0014N3XLK/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B0014N3XLK/?&tag=ufot-21))
+Brief review to be added of [Morris K Jessup]({{ '/ufo-history/ufo-personalities/jessup-morris-k' | relative_url }})'s book “[The Expanding Case for the UFO]({{ '/ufo-history/ufo-books/jessup-morris-k-the-expanding-case-for-the-ufo' | relative_url }})” ([1957]({{ '/tags/1957' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/B0014N3XLK/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B0014N3XLK/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq">The UFO Encyclopedia: 1st edition</a>: Volume 2 – Emergence of a Phenomenon” (<a href="/tags/1992">1992</a>) (available <a href="http://www.amazon.com/dp/1558887415/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558887415/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 209 of the Omnigraphics hardback edition in an entry entitled “<a href="/ufo-history/ufo-personalities/jessup-morris-k">Jessup, Morris K</a>etchum (<a href="/tags/1900">1900</a>-<a href="/tags/1959">1959</a>)”.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq' | relative_url }}">The UFO Encyclopedia: 1st edition</a>: Volume 2 – Emergence of a Phenomenon” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="http://www.amazon.com/dp/1558887415/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558887415/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 209 of the Omnigraphics hardback edition in an entry entitled “<a href="{{ '/ufo-history/ufo-personalities/jessup-morris-k' | relative_url }}">Jessup, Morris K</a>etchum (<a href="{{ '/tags/1900' | relative_url }}">1900</a>-<a href="{{ '/tags/1959' | relative_url }}">1959</a>)”.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -65,10 +65,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randle-kevin">Randle, Kevin</a> D in “<a href="/ufo-history/ufo-books/story-ronald-editor-and-green-j-richard-consulting-editor-the-encyclopedia-of-ufos">The Encyclopedia of UFOs</a>” (<a href="/tags/1980">1980</a>) edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a> (available <a href="http://www.amazon.com/dp/0385136773/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0385136773/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 11-13 (in an entry entitled “Allende letters”) of the NEL hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randle-kevin' | relative_url }}">Randle, Kevin</a> D in “<a href="{{ '/ufo-history/ufo-books/story-ronald-editor-and-green-j-richard-consulting-editor-the-encyclopedia-of-ufos' | relative_url }}">The Encyclopedia of UFOs</a>” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a> (available <a href="http://www.amazon.com/dp/0385136773/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0385136773/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 11-13 (in an entry entitled “Allende letters”) of the NEL hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>

@@ -40,11 +40,11 @@ Koi UFO Video 111 appears to show some sort of aerial vortex sucking in clouds a
 
 Screen shots from the video are included below for ease of identification:
 
-![](/images/stories/ufo_videos/video111_1.JPG)
+![]({{ '/images/stories/ufo_videos/video111_1.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video111_2.JPG)
+![]({{ '/images/stories/ufo_videos/video111_2.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video111_3.JPG)
+![]({{ '/images/stories/ufo_videos/video111_3.JPG' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this video
@@ -55,13 +55,13 @@ The original copy of the video on Youtube had approximately 1.3 million views wi
 
 [An article by a popular British newspaper, The Daily Mail](http://www.dailymail.co.uk/news/article-3388097/What-going-Large-Hadron-Collider-tourists-claim-filmed-mysterious-vortex-clouds-UFO-orb-light-flying-Swiss-facility.html), about the video article was entitled "What IS going on over the Large Hadron Collider? US tourists claim to have filmed mysterious vortex of clouds and UFO orb of light flying into it above Swiss facility". That article included in the following: "This is the bizarre moment a purported UFO zoomed towards a swirling vortex of clouds and vanished into thin air. The eerie footage was captured in the sky above the Large Hadron Collider - a complex particle collider based at the European particle physics laboratory CERN near Geneva, Switzerland. The video was posted on YouTube by the Section 51 2.0 channel alongside the description that it was captured by two American tourists".
 
-![](/images/stories/ufo_videos/video111_4.JPG)
+![]({{ '/images/stories/ufo_videos/video111_4.JPG' | relative_url }})
 
 The video gained further publicity from [an article by another large circulation British tabloid newspaper, The Mirror](http://www.mirror.co.uk/news/weird-news/amazing-video-show-ufo-flying-7129788), entitled "Does amazing video show UFO flying into swirling VORTEX above the Large Hadron Collider?".
 
 That article included the following: "This is the eerie moment a UFO seems to disappears into a swirling vortex above a complex of nuclear research tunnels. The amazing clip, taken near Geneva, Switzerland, shows something very odd happening in the sky over the Large Hadron Collider. The clouds begin to swirl together, as if drawn by some immense unseen force. As the spin around each other, like water draining down a plug hole, a speck of light appears in the bottom of the shot. It shoots up towards the vortex, faster than any earthly craft can travel, before suddenly disappearing - possibly to another dimension.".
 
-![](/images/stories/ufo_videos/video111_5.JPG)
+![]({{ '/images/stories/ufo_videos/video111_5.JPG' | relative_url }})
 
 <a id="truth"></a>
 ### 3. The real background to this video
@@ -70,21 +70,21 @@ In fact, video prominently features the logo of "Section 51".
 
 Sectrion 51 commonly appears on lists of known/probable hoaxers of UFO videos - such as [a black list on the amusing "UFO Theater" website](http://ufotheater.com/ufo-channel-reviews/ufo-black-list/).
 
-![](/images/stories/ufo_videos/video085_11.JPG)
+![]({{ '/images/stories/ufo_videos/video085_11.JPG' | relative_url }})
 
 As I've repeatedly tried to communicate to the UFO community, behind the Youtube username that uploaded this "UFO" video (i.e. Section 51) is a in fact [a small team that has described THEMSELVES as "Internet-video creators specialized in dreaming up sci-fi, action YouTube videos, jam-packed with stunning VFX](https://web.archive.org/web/20141020050148/http://www.patreon.com/Section51)". They offer various incentives for those prepared to provide funding for their science-fiction projects (which include planned movies). The incentives include offering, for a small fee, to take the video of your choice and "we insert an original UFO on it".
 
 So now you know what present to get for the ufologist that has everything!
 
-![](/images/stories/ufo_videos/video085_13.JPG)
+![]({{ '/images/stories/ufo_videos/video085_13.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video085_12.JPG)
+![]({{ '/images/stories/ufo_videos/video085_12.JPG' | relative_url }})
 
-Other "UFO" videos created by "Section 51" (in relation to which I have previously posted the original footage into which a "UFO" was composited by Section 51...) include [Koi UFO Video 085](/ufog/ufo-videos/koi-ufo-video-085), which supposedly shows a UFO attacking a Taliban camp - but in fact is edited footage from 2007:
+Other "UFO" videos created by "Section 51" (in relation to which I have previously posted the original footage into which a "UFO" was composited by Section 51...) include [Koi UFO Video 085]({{ '/ufog/ufo-videos/koi-ufo-video-085' | relative_url }}), which supposedly shows a UFO attacking a Taliban camp - but in fact is edited footage from 2007:
 
 # [https://www.youtube.com/watch?v=AA1yiOehuy8](https://www.youtube.com/watch?v=ST6X0Ra7zOQ)
 
-Other "UFO" videos created by "Section 51" (in relation to which I have previously posted the original footage into which a "UFO" was composited by Section 51...) include [Koi UFO Video 104](/ufog/ufo-videos/koi-ufo-video-104), which supposedly shows a UFO attacking China - but in fact is edited footage of a tanker explosion:
+Other "UFO" videos created by "Section 51" (in relation to which I have previously posted the original footage into which a "UFO" was composited by Section 51...) include [Koi UFO Video 104]({{ '/ufog/ufo-videos/koi-ufo-video-104' | relative_url }}), which supposedly shows a UFO attacking China - but in fact is edited footage of a tanker explosion:
 
 # [https://www.youtube.com/watch?v=Qi-SZLtcZ2o](https://www.youtube.com/watch?v=Qi-SZLtcZ2o)
 
@@ -97,4 +97,4 @@ Relevant discussions on the AboveTopSecret.com forum include the following:
 
 2016 (January) discussion entitled "[US tourist films vortex and UFO over Large Hadron Collider](http://www.abovetopsecret.com/forum/thread1100147/pg1)"
 
-![](/images/stories/ufo_videos/video111_3d.JPG)
+![]({{ '/images/stories/ufo_videos/video111_3d.JPG' | relative_url }})

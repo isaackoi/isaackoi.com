@@ -13,7 +13,7 @@ planned_sections: ["1. The relevant image", "2. Stories and claims relating to t
 header: {"preview_image": "/images/stories/alien_photos/koi_ap_47_a.jpg"}
 ---
 
-![](/images/stories/alien_photos/koi_ap_47_a.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_47_a.jpg' | relative_url }})
 
 *Koi Alien Photo 47*
 
@@ -62,11 +62,11 @@ Sections below:
 
 Koi Alien Photo 47 has appeared on various websites in various sizes and resolutions:
 
-![](/images/stories/alien_photos/koi_ap_47_a.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_47_a.jpg' | relative_url }})
 
-![](/images/stories/alien_photos/koi_ap_47_b.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_47_b.jpg' | relative_url }})
 
-![](/images/stories/alien_photos/koi_ap_47_c.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_47_c.jpg' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this image
@@ -76,17 +76,17 @@ Many UFO websites publish photographs of "aliens" with little, if any, accompany
 <a id="truth"></a>
 ### 3. The real background to this image
 
-When I first sawKoi Alien Photo 47 a few years ago, I thought I recognised the alien from the movie "[Men in Black](/ufo-history/ufo/19970000-movie-men-in-black)".
+When I first sawKoi Alien Photo 47 a few years ago, I thought I recognised the alien from the movie "[Men in Black]({{ '/ufo-history/ufo/19970000-movie-men-in-black' | relative_url }})".
 
-However, after comparing Koi Alien Photo 47 with stills from "[Men in Black](/ufo-history/ufo/19970000-movie-men-in-black)" I decided that it was not the same alien.
+However, after comparing Koi Alien Photo 47 with stills from "[Men in Black]({{ '/ufo-history/ufo/19970000-movie-men-in-black' | relative_url }})" I decided that it was not the same alien.
 
-Below are some stills of the alien that I originally from "[Men in Black](/ufo-history/ufo/19970000-movie-men-in-black)" had in mind (labelled "koi_ap_47_d", "koi_ap_47_f" and "koi_ap_47_g").
+Below are some stills of the alien that I originally from "[Men in Black]({{ '/ufo-history/ufo/19970000-movie-men-in-black' | relative_url }})" had in mind (labelled "koi_ap_47_d", "koi_ap_47_f" and "koi_ap_47_g").
 
-![](/images/stories/alien_photos/koi_ap_47_d.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_47_d.jpg' | relative_url }})
 
-![](/images/stories/alien_photos/koi_ap_47_f.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_47_f.jpg' | relative_url }})
 
-![](/images/stories/alien_photos/koi_ap_47_g.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_47_g.jpg' | relative_url }})
 
 After comparing these photos in some detail, I dismissed my original thoughts regarding the "Men in Black" movie and looked into the image further.
 
@@ -106,25 +106,25 @@ I found out that Koi Alien Photo 47 is in fact a still from a video tape apparen
 
 Further stills of the "alien corpse" from that video tape are shown below.
 
-![](/images/stories/alien_photos/koi_ap_47_h.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_47_h.jpg' | relative_url }})
 
-![](/images/stories/alien_photos/koi_ap_47_i.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_47_i.jpg' | relative_url }})
 
-![](/images/stories/alien_photos/koi_ap_47_l.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_47_l.jpg' | relative_url }})
 
-![](/images/stories/alien_photos/koi_ap_47_n.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_47_n.jpg' | relative_url }})
 
 The segment of the "Strange Universe" show on the video of this "alien corpse" gave the names of two individuals (Jeff Thomas and Robert Yensch, shown on the right and left respectively in the photo below labelled "koi_ap_47_m") that had purportedly received the video tape in the mail. Those two individuals were described in that show as running a video company called Rainstorm Productions in Monroe (Michigan, USA), shooting weddings and Bar Mitzvahs. The narrator of that show commented that "They are not big time TV or movie producers and they are not in the drama business".
 
-![](/images/stories/alien_photos/koi_ap_47_m.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_47_m.jpg' | relative_url }})
 
 The video tape was alleged received in the envelope shown below (labelled "koi_ap_47_j"):
 
-![](/images/stories/alien_photos/koi_ap_47_j.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_47_j.jpg' | relative_url }})
 
 The envelope allegedly enclosed a type-written letter (see photo below labelled "koi_ap_47_k") in addition to the video tape of the "alien corpse".
 
-![](/images/stories/alien_photos/koi_ap_47_k.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_47_k.jpg' | relative_url }})
 
 A special effects expert and alien abductee, [Steve Neill](http://sneillfx.com/), was interviewed for the "Strange Universe" segment on Koi Alien Photo 47 and commented that the alien was "obviously sculpted" and "not even finished off". He suggested that the hoaxers would have to work a lot harder to fool investigators.
 

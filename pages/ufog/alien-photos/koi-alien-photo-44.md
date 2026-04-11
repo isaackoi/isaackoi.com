@@ -13,7 +13,7 @@ planned_sections: ["1. The relevant image", "2. Stories and claims relating to t
 header: {"preview_image": "/images/stories/alien_photos/koi_ap_44_a.jpg"}
 ---
 
-![](/images/stories/alien_photos/koi_ap_44_a.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_44_a.jpg' | relative_url }})
 
 *Koi Alien Photo 44*
 
@@ -44,7 +44,7 @@ Sections below:
 <a id="image"></a>
 ### 1. The relevant image
 
-![](/images/stories/alien_photos/koi_ap_44_a.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_44_a.jpg' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this image
@@ -94,7 +94,7 @@ A graphic designer commented in [a discussion on the AboveTopSecret.com discussi
 
 An article written in 2006 by Luis Ruiz Noguez entitled "Calaveras y Esqueletos Extraterrestres" (i.e. "Alien Skulls and Skeletons") states that "In reality it is a modern digital fraud a real picture of the Vietnam War. In the original photo shows the soldier with a skull, but not an alien, but a Vietcong soldier". Unfortunately, the relevant article does not cite any source for the original image nor any source for the information provided about that original image.
 
-![](/images/stories/alien_photos/koi_ap_44_b.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_44_b.jpg' | relative_url }})
 
 <a id="forums"></a>
 ### 4. Relevant online forum discussions

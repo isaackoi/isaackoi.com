@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/movies_1.jpg"}
 ---
 
-![movies_1](/images/stories/ufo_tags/movies_1.jpg)
+![movies_1]({{ '/images/stories/ufo_tags/movies_1.jpg' | relative_url }})
 
 *“Communion”*
 
@@ -49,7 +49,7 @@ The table below includes references to relevant discussions in UFO/SETI books no
 
 Many of the tables of references on this website are considerably longer than the references to books found on most other UFO websites. Indeed, some are probably the longest that have been collated in relation to some events and personalities. I hope that these tables are found to be a useful contribution to UFOlogy.
 
-For discussion of the movie “[Communion](/ufo-history/ufo-books/strieber-whitley-communion)“ see the following:
+For discussion of the movie “[Communion]({{ '/ufo-history/ufo-books/strieber-whitley-communion' | relative_url }})“ see the following:
 
 <table border="1" cellpadding="0" cellspacing="0" class="sortable" data-sortable="true" id="sortabletable">
 <thead>
@@ -69,10 +69,10 @@ For discussion of the movie “[Communion](/ufo-history/ufo-books/strieber-whitl
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/baker-alan">Baker, Alan</a> in his “<a href="/ufo-history/ufo-books/baker-alan-the-encyclopaedia-of-alien-encounters">The Encyclopaedia of Alien Encounters</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/1852277343/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1852277343/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 53 (in an entry entitled “Communion (Film)”) of the Virgin hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/baker-alan' | relative_url }}">Baker, Alan</a> in his “<a href="{{ '/ufo-history/ufo-books/baker-alan-the-encyclopaedia-of-alien-encounters' | relative_url }}">The Encyclopaedia of Alien Encounters</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/1852277343/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1852277343/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 53 (in an entry entitled “Communion (Film)”) of the Virgin hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -80,10 +80,10 @@ For discussion of the movie “[Communion](/ufo-history/ufo-books/strieber-whitl
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-the-ufo-book">The UFO Book</a>: Encyclopedia of the Extraterrestrial” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/1578590299/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1578590299/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 669-670 (in an appendix entitled “UFO Films and Documentaries”) of the Visible Ink Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-the-ufo-book' | relative_url }}">The UFO Book</a>: Encyclopedia of the Extraterrestrial” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/1578590299/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1578590299/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 669-670 (in an appendix entitled “UFO Films and Documentaries”) of the Visible Ink Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -91,10 +91,10 @@ For discussion of the movie “[Communion](/ufo-history/ufo-books/strieber-whitl
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1989">1989</a></p>
+<p><a href="{{ '/tags/1989' | relative_url }}">1989</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/conroy-ed">Conroy, Ed</a> in his “<a href="/ufo-history/ufo-books/conroy-ed-report-on-communion">Report on Communion</a>” (<a href="/tags/1989">1989</a>) (available <a href="http://www.amazon.com/dp/0688088643/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0688088643/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 180-192, 196 (in Chapter 5) of the Avon paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/conroy-ed' | relative_url }}">Conroy, Ed</a> in his “<a href="{{ '/ufo-history/ufo-books/conroy-ed-report-on-communion' | relative_url }}">Report on Communion</a>” (<a href="{{ '/tags/1989' | relative_url }}">1989</a>) (available <a href="http://www.amazon.com/dp/0688088643/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0688088643/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 180-192, 196 (in Chapter 5) of the Avon paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>14</p>
@@ -102,10 +102,10 @@ For discussion of the movie “[Communion](/ufo-history/ufo-books/strieber-whitl
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p>Craft, Michael in his “<a href="/ufo-history/ufo-books/craft-michael-alien-impact">Alien Impact</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/0312962878/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312962878/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 35 (in Chapter 2) of the St Martin’s Paperbacks paperback edition.</p>
+<p>Craft, Michael in his “<a href="{{ '/ufo-history/ufo-books/craft-michael-alien-impact' | relative_url }}">Alien Impact</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/0312962878/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312962878/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 35 (in Chapter 2) of the St Martin’s Paperbacks paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -113,10 +113,10 @@ For discussion of the movie “[Communion](/ufo-history/ufo-books/strieber-whitl
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="547">
-<p>Little, Gregory in his “<a href="/ufo-history/ufo-books/little-gregory-people-of-the-web">People of the Web</a>” (<a href="/tags/1990">1990</a>) (available <a href="http://www.amazon.com/dp/0940829029/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0940829029/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 40-41 (in Chapter 1) of the White Buffalo softcover edition.</p>
+<p>Little, Gregory in his “<a href="{{ '/ufo-history/ufo-books/little-gregory-people-of-the-web' | relative_url }}">People of the Web</a>” (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) (available <a href="http://www.amazon.com/dp/0940829029/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0940829029/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 40-41 (in Chapter 1) of the White Buffalo softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -124,10 +124,10 @@ For discussion of the movie “[Communion](/ufo-history/ufo-books/strieber-whitl
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/marrs-jim">Marrs, Jim</a> in his “<a href="/ufo-history/ufo-books/marrs-jim-alien-agenda">Alien Agenda</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0060186429/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0060186429/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 231 (in Chapter 8) of the Harper Collins paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/marrs-jim' | relative_url }}">Marrs, Jim</a> in his “<a href="{{ '/ufo-history/ufo-books/marrs-jim-alien-agenda' | relative_url }}">Alien Agenda</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0060186429/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0060186429/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 231 (in Chapter 8) of the Harper Collins paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -135,10 +135,10 @@ For discussion of the movie “[Communion](/ufo-history/ufo-books/strieber-whitl
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p>Miller, David and Gatiss, Mark in their “<a href="/ufo-history/ufo-books/miller-david-and-gatiss-mark-they-came-from-outer-space-alien-encounters-in-the-movies">They Came From Outer Space : Alien Encounters in the Movies</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/1901018008/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1901018008/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 128-129 of the Visual Imagination softcover edition.</p>
+<p>Miller, David and Gatiss, Mark in their “<a href="{{ '/ufo-history/ufo-books/miller-david-and-gatiss-mark-they-came-from-outer-space-alien-encounters-in-the-movies' | relative_url }}">They Came From Outer Space : Alien Encounters in the Movies</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/1901018008/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1901018008/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 128-129 of the Visual Imagination softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -146,10 +146,10 @@ For discussion of the movie “[Communion](/ufo-history/ufo-books/strieber-whitl
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/pope-nick">Pope, Nick</a> in his “<a href="/ufo-history/ufo-books/pope-nick-open-skies-closed-minds">Open Skies, Closed Minds</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/0684816644/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684816644/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 52 (in Chapter 3) of the Simon and Schuster hardback edition, with the same page numbering in the Pocket Books paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/pope-nick' | relative_url }}">Pope, Nick</a> in his “<a href="{{ '/ufo-history/ufo-books/pope-nick-open-skies-closed-minds' | relative_url }}">Open Skies, Closed Minds</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/0684816644/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684816644/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 52 (in Chapter 3) of the Simon and Schuster hardback edition, with the same page numbering in the Pocket Books paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -157,10 +157,10 @@ For discussion of the movie “[Communion](/ufo-history/ufo-books/strieber-whitl
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-the-complete-book-of-aliens-and-abductions">The Complete Book of Aliens and Abductions</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0749921005/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0749921005/ref=nosim?tag=ufot-21">on Amazon UK</a>) a page 130 (in Part 4) of the Piatkus hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-the-complete-book-of-aliens-and-abductions' | relative_url }}">The Complete Book of Aliens and Abductions</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0749921005/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0749921005/ref=nosim?tag=ufot-21">on Amazon UK</a>) a page 130 (in Part 4) of the Piatkus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -168,10 +168,10 @@ For discussion of the movie “[Communion](/ufo-history/ufo-books/strieber-whitl
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-ufos-and-how-to-see-them">UFOs and How to See Them</a>” (<a href="/tags/1992">1992</a>) (available <a href="http://www.amazon.com/dp/0760705496/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0760705496/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 32 (in Chapter 1) of the Brockhampton Press hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-ufos-and-how-to-see-them' | relative_url }}">UFOs and How to See Them</a>” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="http://www.amazon.com/dp/0760705496/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0760705496/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 32 (in Chapter 1) of the Brockhampton Press hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -179,10 +179,10 @@ For discussion of the movie “[Communion](/ufo-history/ufo-books/strieber-whitl
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/watson-nigel">Watson, Nigel</a> in “<a href="/ufo-history/ufo-books/devereux-paul-and-brookesmith-peter-ufos-and-ufology-the-first-50-years">UFOs and Ufology – the first 50 years</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0816038007/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0816038007/ref=nosim?tag=ufot-21">on Amazon UK</a>) by Paul Devereux and <a href="/ufo-history/ufo-personalities/brookesmith-peter">Peter Brookesmith</a> at page 42 (in Chapter 3) of the Blandford softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/watson-nigel' | relative_url }}">Watson, Nigel</a> in “<a href="{{ '/ufo-history/ufo-books/devereux-paul-and-brookesmith-peter-ufos-and-ufology-the-first-50-years' | relative_url }}">UFOs and Ufology – the first 50 years</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0816038007/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0816038007/ref=nosim?tag=ufot-21">on Amazon UK</a>) by Paul Devereux and <a href="{{ '/ufo-history/ufo-personalities/brookesmith-peter' | relative_url }}">Peter Brookesmith</a> at page 42 (in Chapter 3) of the Blandford softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -190,10 +190,10 @@ For discussion of the movie “[Communion](/ufo-history/ufo-books/strieber-whitl
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1993">1993</a></p>
+<p><a href="{{ '/tags/1993' | relative_url }}">1993</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/wilson-k">Wilson, Katharina</a> in her “The Alien Jigsaw” (<a href="/tags/1993">1993</a>) at page 103 (in Chapter 7) of the Puzzle softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/wilson-k' | relative_url }}">Wilson, Katharina</a> in her “The Alien Jigsaw” (<a href="{{ '/tags/1993' | relative_url }}">1993</a>) at page 103 (in Chapter 7) of the Puzzle softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

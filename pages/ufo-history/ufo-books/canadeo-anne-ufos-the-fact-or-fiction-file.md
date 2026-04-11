@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0802769276.jpg"}
 book: {"identifiers": ["0802769276"], "primary_isbn": "0802769276", "cover_image": "/book-covers/0802769276.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of Anne Canadeo's book “[UFO’s: The Fact or Fiction File](/ufo-history/ufo-books/canadeo-anne-ufos-the-fact-or-fiction-file)” ([1990](/tags/1990)) (available [on Amazon USA](http://www.amazon.com/dp/0802769276/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0802769276/?&tag=ufot-21))
+Brief review to be added of Anne Canadeo's book “[UFO’s: The Fact or Fiction File]({{ '/ufo-history/ufo-books/canadeo-anne-ufos-the-fact-or-fiction-file' | relative_url }})” ([1990]({{ '/tags/1990' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0802769276/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0802769276/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

@@ -13,13 +13,13 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/baker_robert_1.jpg"}
 ---
 
-![baker_robert_1](/images/stories/ufo_personalities/baker_robert_1.jpg)
+![baker_robert_1]({{ '/images/stories/ufo_personalities/baker_robert_1.jpg' | relative_url }})
 
 *Robert M L Baker*
 
 Brief comments to be added on this individual.
 
-Gave oral evidence to the “Symposium on Unidentified Flying Objects” held by the U.S. House of Representatives Committee on Science and Astronautics in July 1968, chaired by Congressman J Edward Roush.(Commonly referred to as “[the Roush Hearing](/ufo-history/ufo/19680729-congressman-roush-hearing)”).
+Gave oral evidence to the “Symposium on Unidentified Flying Objects” held by the U.S. House of Representatives Committee on Science and Astronautics in July 1968, chaired by Congressman J Edward Roush.(Commonly referred to as “[the Roush Hearing]({{ '/ufo-history/ufo/19680729-congressman-roush-hearing' | relative_url }})”).
 
 Sections below:
 
@@ -61,10 +61,10 @@ For discussion of Dr Robert Baker see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/berliner-don">Berliner, Don</a> with <a href="/ufo-history/ufo-personalities/galbraith-marie">Galbraith, Marie</a> and <a href="/ufo-history/ufo-personalities/huneeus-antonio">Huneeus, Antonio</a> in their “<a href="/ufo-history/ufo-books/berliner-don-with-galbraith-marie-and-huneeus-antonio-ufo-briefing-document-the-best-available-evidence">UFO Briefing Document : The Best Available Evidence</a>“ (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/044023638X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/044023638X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 192-193 of the Dell paperback edition (Part 3:Quotations, section entitled “Scientists”).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/berliner-don' | relative_url }}">Berliner, Don</a> with <a href="{{ '/ufo-history/ufo-personalities/galbraith-marie' | relative_url }}">Galbraith, Marie</a> and <a href="{{ '/ufo-history/ufo-personalities/huneeus-antonio' | relative_url }}">Huneeus, Antonio</a> in their “<a href="{{ '/ufo-history/ufo-books/berliner-don-with-galbraith-marie-and-huneeus-antonio-ufo-briefing-document-the-best-available-evidence' | relative_url }}">UFO Briefing Document : The Best Available Evidence</a>“ (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/044023638X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/044023638X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 192-193 of the Dell paperback edition (Part 3:Quotations, section entitled “Scientists”).</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -72,10 +72,10 @@ For discussion of Dr Robert Baker see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2003">2003</a></p>
+<p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/druffel-ann">Druffel, Ann</a> in her “<a href="/ufo-history/ufo-books/druffel-ann-firestorm-dr-james-e-mcdonalds-fight-for-ufo-science">Firestorm : Dr James E McDonald's Fight for UFO Science</a>” (<a href="/tags/2003">2003</a>) (available <a href="http://www.amazon.com/dp/0926524585/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0926524585/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 237, 243 (in Chapter 9), 356-357 (in Chapter 13) of the Wild Flower Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/druffel-ann' | relative_url }}">Druffel, Ann</a> in her “<a href="{{ '/ufo-history/ufo-books/druffel-ann-firestorm-dr-james-e-mcdonalds-fight-for-ufo-science' | relative_url }}">Firestorm : Dr James E McDonald's Fight for UFO Science</a>” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) (available <a href="http://www.amazon.com/dp/0926524585/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0926524585/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 237, 243 (in Chapter 9), 356-357 (in Chapter 13) of the Wild Flower Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -83,10 +83,10 @@ For discussion of Dr Robert Baker see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1969">1969</a></p>
+<p><a href="{{ '/tags/1969' | relative_url }}">1969</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fuller-john-g">Fuller, John</a> in his “<a href="/ufo-history/ufo-books/fuller-john-aliens-in-the-skies">Aliens in the Skies</a>” (<a href="/tags/1969">1969</a>) (available <a href="http://www.amazon.com/dp/B000HLWN6Q/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000HLWN6Q/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 147-148 (in Chapter 6) of the Putnam hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fuller-john-g' | relative_url }}">Fuller, John</a> in his “<a href="{{ '/ufo-history/ufo-books/fuller-john-aliens-in-the-skies' | relative_url }}">Aliens in the Skies</a>” (<a href="{{ '/tags/1969' | relative_url }}">1969</a>) (available <a href="http://www.amazon.com/dp/B000HLWN6Q/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000HLWN6Q/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 147-148 (in Chapter 6) of the Putnam hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -94,10 +94,10 @@ For discussion of Dr Robert Baker see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1975">1975</a></p>
+<p><a href="{{ '/tags/1975' | relative_url }}">1975</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/jacobs-david-michael">Jacobs, David Michael</a> in his “<a href="/ufo-history/ufo-books/jacobs-david-michael-the-ufo-controversy-in-america">The UFO Controversy in America</a>” (<a href="/tags/1975">1975</a>) (available <a href="http://www.amazon.com/dp/0253190061/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0253190061/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 236-237, 247 (in Chapter 9) of the Indiana hardback edition, at pages 210, 220 of the Signet paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/jacobs-david-michael' | relative_url }}">Jacobs, David Michael</a> in his “<a href="{{ '/ufo-history/ufo-books/jacobs-david-michael-the-ufo-controversy-in-america' | relative_url }}">The UFO Controversy in America</a>” (<a href="{{ '/tags/1975' | relative_url }}">1975</a>) (available <a href="http://www.amazon.com/dp/0253190061/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0253190061/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 236-237, 247 (in Chapter 9) of the Indiana hardback edition, at pages 210, 220 of the Signet paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -105,10 +105,10 @@ For discussion of Dr Robert Baker see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sachs-margaret">Sachs, Margaret</a> in her “<a href="/ufo-history/ufo-books/sachs-margaret-the-ufo-encyclopedia">The UFO Encyclopedia</a>“ (<a href="/tags/1980">1980</a> (available <a href="http://www.amazon.com/dp/0399124217/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0399124217/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 27-28 (in an entry entitled “<a href="/ufo-history/ufo-personalities/baker-robert-m-l">Baker, Robert M L</a>”) of the Corgi softback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sachs-margaret' | relative_url }}">Sachs, Margaret</a> in her “<a href="{{ '/ufo-history/ufo-books/sachs-margaret-the-ufo-encyclopedia' | relative_url }}">The UFO Encyclopedia</a>“ (<a href="{{ '/tags/1980' | relative_url }}">1980</a> (available <a href="http://www.amazon.com/dp/0399124217/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0399124217/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 27-28 (in an entry entitled “<a href="{{ '/ufo-history/ufo-personalities/baker-robert-m-l' | relative_url }}">Baker, Robert M L</a>”) of the Corgi softback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

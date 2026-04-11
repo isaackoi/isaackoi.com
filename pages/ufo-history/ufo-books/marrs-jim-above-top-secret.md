@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/1934708097.jpg"}
 book: {"identifiers": ["1934708097"], "primary_isbn": "1934708097", "cover_image": "/book-covers/1934708097.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Jim Marrs](/ufo-history/ufo-personalities/marrs-jim)' book “[Above Top Secret: Uncover the Mysteries of the Digital Age](/ufo-history/ufo-books/marrs-jim-above-top-secret)” ([2008](/tags/2008)) (available [on Amazon USA](http://www.amazon.com/dp/1934708097/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1934708097/?&tag=ufot-21))
+Brief review to be added of [Jim Marrs]({{ '/ufo-history/ufo-personalities/marrs-jim' | relative_url }})' book “[Above Top Secret: Uncover the Mysteries of the Digital Age]({{ '/ufo-history/ufo-books/marrs-jim-above-top-secret' | relative_url }})” ([2008]({{ '/tags/2008' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1934708097/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1934708097/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/seti_1.jpg"}
 ---
 
-![seti_1](/images/stories/ufo_tags/seti_1.jpg)
+![seti_1]({{ '/images/stories/ufo_tags/seti_1.jpg' | relative_url }})
 
 *SETI panel discussion*
 
@@ -67,10 +67,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1967">1967</a></p>
+<p><a href="{{ '/tags/1967' | relative_url }}">1967</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/greenfield-irving-a">Greenfield, Irving A</a> in his “The UFO Report” (<a href="/tags/1967">1967</a>) at pages 55-57 (in Chapter 6) of the Lancer paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/greenfield-irving-a' | relative_url }}">Greenfield, Irving A</a> in his “The UFO Report” (<a href="{{ '/tags/1967' | relative_url }}">1967</a>) at pages 55-57 (in Chapter 6) of the Lancer paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>

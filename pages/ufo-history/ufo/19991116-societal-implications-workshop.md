@@ -13,11 +13,11 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/seti_1.jpg"}
 ---
 
-![seti_1](/images/stories/ufo_tags/seti_1.jpg)
+![seti_1]({{ '/images/stories/ufo_tags/seti_1.jpg' | relative_url }})
 
 *Societal implications workshop*
 
-A meeting of the [NASA](/ufo-history/ufo-personalities/nasa) Workshop on the Societal Implications of Astrobiology was convened at the Ames Research Center on 16-17 November [1999](/tags/1999)
+A meeting of the [NASA]({{ '/ufo-history/ufo-personalities/nasa' | relative_url }}) Workshop on the Societal Implications of Astrobiology was convened at the Ames Research Center on 16-17 November [1999]({{ '/tags/1999' | relative_url }})
 
 Sections below
 

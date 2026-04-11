@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -63,10 +63,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1969">1969</a></p>
+<p><a href="{{ '/tags/1969' | relative_url }}">1969</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects">Condon Report</a> (“<a href="/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects">Scientific Study of Unidentified Flying Objects</a>”, Edward U Condon (Director) and Daniel S Gillmor (Editor) (<a href="/tags/1969">1969</a>)) as Condon Case 56 at pages 112, 122 (in Section 3, Chapter 2 “Analysis of UFO Photographic Evidence”, by William K Hartmann), 698-701 and plates 48-51 (in Section 4, “Case Studies”, Chapter 3, “Photographic Case Studies”) of the uncorrected version submitted to the Air Force (with the same page numbering in the 3 volume paperbound edition distributed by the National Technical Information Service, US Department of Commerce) at pages 78, 83-84, 455-457 of the Vision hardback edition (with the same page numbering in the Bantam paperback edition). The first of these editions has the same page numbering as the edition available free online at the following links:</p>
+<p><a href="{{ '/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects' | relative_url }}">Condon Report</a> (“<a href="{{ '/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects' | relative_url }}">Scientific Study of Unidentified Flying Objects</a>”, Edward U Condon (Director) and Daniel S Gillmor (Editor) (<a href="{{ '/tags/1969' | relative_url }}">1969</a>)) as Condon Case 56 at pages 112, 122 (in Section 3, Chapter 2 “Analysis of UFO Photographic Evidence”, by William K Hartmann), 698-701 and plates 48-51 (in Section 4, “Case Studies”, Chapter 3, “Photographic Case Studies”) of the uncorrected version submitted to the Air Force (with the same page numbering in the 3 volume paperbound edition distributed by the National Technical Information Service, US Department of Commerce) at pages 78, 83-84, 455-457 of the Vision hardback edition (with the same page numbering in the Bantam paperback edition). The first of these editions has the same page numbering as the edition available free online at the following links:</p>
 <p><a href="http://www.project1947.com/shg/condon/contents.html">http://www.project1947.com/shg/condon/contents.html</a></p>
 </td>
 <td valign="top" width="52">
@@ -75,10 +75,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1968">1968</a></p>
+<p><a href="{{ '/tags/1968' | relative_url }}">1968</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/klass-philip-j">Klass, Philip J</a> in his “<a href="/ufo-history/ufo-books/klass-philip-j-ufos-identified">UFOs – Identified</a>” (<a href="/tags/1968">1968</a>) by at page 18 (in Chapter 2), photographic plate 1 (in Chapter 3), pages 70-71 (in Chapter 8), 144-146 (in Chapter 14) of the Random House hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/klass-philip-j' | relative_url }}">Klass, Philip J</a> in his “<a href="{{ '/ufo-history/ufo-books/klass-philip-j-ufos-identified' | relative_url }}">UFOs – Identified</a>” (<a href="{{ '/tags/1968' | relative_url }}">1968</a>) by at page 18 (in Chapter 2), photographic plate 1 (in Chapter 3), pages 70-71 (in Chapter 8), 144-146 (in Chapter 14) of the Random House hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>7</p>
@@ -86,10 +86,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1974">1974</a></p>
+<p><a href="{{ '/tags/1974' | relative_url }}">1974</a></p>
 </td>
 <td valign="top" width="547">
-<p>Rehn, K Gosta in his “UFOs Here and Now” (<a href="/tags/1974">1974</a>) (available <a href="http://www.amazon.com/dp/020072195X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/020072195X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 33-35 (in the unnumbered chapter entitled “The Condon-Colorado Report”) of the Abelard-Schuman hardback edition.</p>
+<p>Rehn, K Gosta in his “UFOs Here and Now” (<a href="{{ '/tags/1974' | relative_url }}">1974</a>) (available <a href="http://www.amazon.com/dp/020072195X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/020072195X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 33-35 (in the unnumbered chapter entitled “The Condon-Colorado Report”) of the Abelard-Schuman hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -97,10 +97,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1968">1968</a></p>
+<p><a href="{{ '/tags/1968' | relative_url }}">1968</a></p>
 </td>
 <td valign="top" width="547">
-<p>White, Dale in his “<a href="/ufo-history/ufo-books/white-dale-is-something-up-there">Is Something Up There?</a>” (<a href="/tags/1968">1968</a>) (available <a href="http://www.amazon.com/dp/B000J5A9OI/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000J5A9OI/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 115-116 (in Chapter 10) of the Scholastic Book Services paperback edition.</p>
+<p>White, Dale in his “<a href="{{ '/ufo-history/ufo-books/white-dale-is-something-up-there' | relative_url }}">Is Something Up There?</a>” (<a href="{{ '/tags/1968' | relative_url }}">1968</a>) (available <a href="http://www.amazon.com/dp/B000J5A9OI/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000J5A9OI/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 115-116 (in Chapter 10) of the Scholastic Book Services paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

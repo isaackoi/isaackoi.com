@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/jung_carl_2.jpg"}
 ---
 
-![jung_carl_2](/images/stories/ufo_personalities/jung_carl_2.jpg)
+![jung_carl_2]({{ '/images/stories/ufo_personalities/jung_carl_2.jpg' | relative_url }})
 
 *Carl G Jung*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1959">1959</a></p>
+<p><a href="{{ '/tags/1959' | relative_url }}">1959</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/jung-carl-g">Jung, Carl G</a> “<a href="/ufo-history/ufo-books/jung-carl-g-flying-saucers-a-modern-myth-of-things-seen-in-the-sky">Flying Saucers, A Modern Myth of Things Seen in the Sky</a>” (<a href="/tags/1959">1959</a>) (available <a href="http://www.amazon.com/dp/B000XN99E2/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000XN99E2/ref=nosim?tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/jung-carl-g' | relative_url }}">Jung, Carl G</a> “<a href="{{ '/ufo-history/ufo-books/jung-carl-g-flying-saucers-a-modern-myth-of-things-seen-in-the-sky' | relative_url }}">Flying Saucers, A Modern Myth of Things Seen in the Sky</a>” (<a href="{{ '/tags/1959' | relative_url }}">1959</a>) (available <a href="http://www.amazon.com/dp/B000XN99E2/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000XN99E2/ref=nosim?tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>
@@ -61,7 +61,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-See the references provided in the entry for Jung's book “[Flying Saucers, A Modern Myth of Things Seen in the Sky](/ufo-history/ufo-books/jung-carl-g-flying-saucers-a-modern-myth-of-things-seen-in-the-sky)” ([1959](/tags/1959)).
+See the references provided in the entry for Jung's book “[Flying Saucers, A Modern Myth of Things Seen in the Sky]({{ '/ufo-history/ufo-books/jung-carl-g-flying-saucers-a-modern-myth-of-things-seen-in-the-sky' | relative_url }})” ([1959]({{ '/tags/1959' | relative_url }})).
 
 <a id="other"></a>
 ### Other Material

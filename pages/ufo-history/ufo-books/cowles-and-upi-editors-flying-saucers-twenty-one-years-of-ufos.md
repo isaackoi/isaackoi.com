@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": null}
 ---
 
-Brief review to be added of “[Flying Saucers: Twenty-One Years of UFOs](/ufo-history/ufo-books/cowles-and-upi-editors-flying-saucers-twenty-one-years-of-ufos)” ([1968](/tags/1968)), published by the editors of Cowles and UPI
+Brief review to be added of “[Flying Saucers: Twenty-One Years of UFOs]({{ '/ufo-history/ufo-books/cowles-and-upi-editors-flying-saucers-twenty-one-years-of-ufos' | relative_url }})” ([1968]({{ '/tags/1968' | relative_url }})), published by the editors of Cowles and UPI
 
 1. [Web Resources](#web)
 

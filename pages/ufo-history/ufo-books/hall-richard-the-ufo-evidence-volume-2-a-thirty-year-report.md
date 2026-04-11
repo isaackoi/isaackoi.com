@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0810838818.jpg"}
 book: {"identifiers": ["0810838818", "1601630115"], "primary_isbn": "0810838818", "cover_image": "/book-covers/0810838818.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Richard Hall](/ufo-history/ufo-personalities/hall-richard-h)'s book “[The UFO Evidence: Volume 2 – A Thirty Year Report](/ufo-history/ufo-books/hall-richard-the-ufo-evidence-volume-2-a-thirty-year-report)” ([2001](/tags/2001)) (available [on Amazon USA](http://www.amazon.com/dp/0810838818/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0810838818/?&tag=ufot-21))
+Brief review to be added of [Richard Hall]({{ '/ufo-history/ufo-personalities/hall-richard-h' | relative_url }})'s book “[The UFO Evidence: Volume 2 – A Thirty Year Report]({{ '/ufo-history/ufo-books/hall-richard-the-ufo-evidence-volume-2-a-thirty-year-report' | relative_url }})” ([2001]({{ '/tags/2001' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0810838818/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0810838818/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2008">2008</a></p>
+<p><a href="{{ '/tags/2008' | relative_url }}">2008</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/friedman-stanton">Friedman, Stanton</a> in his “Flying Saucers and Science : A Scientist Investigates the Mysteries of UFOs” (<a href="/tags/2008">2008</a>) (available <a href="http://www.amazon.com/dp/1601630115/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1601630115/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 49-50 (in Chapter 1) of the New Page softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/friedman-stanton' | relative_url }}">Friedman, Stanton</a> in his “Flying Saucers and Science : A Scientist Investigates the Mysteries of UFOs” (<a href="{{ '/tags/2008' | relative_url }}">2008</a>) (available <a href="http://www.amazon.com/dp/1601630115/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1601630115/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 49-50 (in Chapter 1) of the New Page softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

@@ -13,9 +13,9 @@ planned_sections: []
 header: {"preview_image": null}
 ---
 
-“[Best UFO Cases](/ufog/best-ufo-cases)” by Isaac Koi
+“[Best UFO Cases]({{ '/ufog/best-ufo-cases' | relative_url }})” by Isaac Koi
 
-[PART 2: Challenges to produce lists of top cases](/ufog/best-ufo-cases/2-challenges-to-produce-lists-of-top-cases)
+[PART 2: Challenges to produce lists of top cases]({{ '/ufog/best-ufo-cases/2-challenges-to-produce-lists-of-top-cases' | relative_url }})
 
 If UFO proponents wish to persuade scientists to examine the evidence for the alleged objective reality of UFOs, then it is not unreasonable to expect those UFO proponents to make serious efforts to identify the material which the scientists should focus upon.
 

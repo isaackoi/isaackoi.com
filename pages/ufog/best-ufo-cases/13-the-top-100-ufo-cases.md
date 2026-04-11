@@ -13,11 +13,11 @@ planned_sections: []
 header: {"preview_image": null}
 ---
 
-“[Best UFO Cases](/ufog/best-ufo-cases)” by Isaac Koi
+“[Best UFO Cases]({{ '/ufog/best-ufo-cases' | relative_url }})” by Isaac Koi
 
-[PART 13: The Top 100 UFO cases](/ufog/best-ufo-cases/13-the-top-100-ufo-cases)
+[PART 13: The Top 100 UFO cases]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }})
 
-Given the problems with the various lists covered in [Parts 3 to 12](/ufog/best-ufo-cases/1-introduction), I thought that it might be interesting to find out which UFO cases are most frequently discussed in books about ufos and SETI.
+Given the problems with the various lists covered in [Parts 3 to 12]({{ '/ufog/best-ufo-cases/1-introduction' | relative_url }}), I thought that it might be interesting to find out which UFO cases are most frequently discussed in books about ufos and SETI.
 
 If ufologists wrote books solely with the objective of presenting the best available evidence, then the most frequently discussed cases would be the ones that the most authors regarded as the best cases.
 
@@ -31,117 +31,117 @@ Clearly this method of compiling a list of the “top” cases is biased in favo
 
 In decreasing order of the numbers of references, the Top 100 UFO cases were:
 
-1. [Kenneth Arnold's first sighting](/ufo-history/ufo/19470624-kenneth-arnold-sighting) (1947) 359 references
-2. [Betty and Barney Hill abduction](/ufo-history/ufo/19610919-hill-abduction) (1961) 292 references
-3. [George Adamski encounters](/ufo-history/ufo-personalities/adamski-george) (1953) 231 references
-4. [Roswell](/ufo-history/ufo/19470708-roswell-story) (1947) 228 references
-5. [Socorro sighting by Lonnie Zamora](/ufo-history/ufo/19640424-lonnie-zamora-sighting) (1964) 180 references
-6. [Thomas F Mantell incident](/ufo-history/ufo/19480107-captain-mantell-incident) (1948) 179 references
-7. [Antonio Villas-Boas abduction](/ufo-history/ufo/19571016-villas-boas-abduction) (1957) 174 references
-8. [Washington National sightings](/ufo-history/ufo/19520700-washington-national-sightings) (1952) 171 references
-9. [Pascagoula abduction](/ufo-history/ufo/19731011-pascagoula-abduction) (1973) 142 references
-10. [Chiles and Whitted sighting](/ufo-history/ufo/19480724-chiles-whitted-sighting) (1948) 115 references
+1. [Kenneth Arnold's first sighting]({{ '/ufo-history/ufo/19470624-kenneth-arnold-sighting' | relative_url }}) (1947) 359 references
+2. [Betty and Barney Hill abduction]({{ '/ufo-history/ufo/19610919-hill-abduction' | relative_url }}) (1961) 292 references
+3. [George Adamski encounters]({{ '/ufo-history/ufo-personalities/adamski-george' | relative_url }}) (1953) 231 references
+4. [Roswell]({{ '/ufo-history/ufo/19470708-roswell-story' | relative_url }}) (1947) 228 references
+5. [Socorro sighting by Lonnie Zamora]({{ '/ufo-history/ufo/19640424-lonnie-zamora-sighting' | relative_url }}) (1964) 180 references
+6. [Thomas F Mantell incident]({{ '/ufo-history/ufo/19480107-captain-mantell-incident' | relative_url }}) (1948) 179 references
+7. [Antonio Villas-Boas abduction]({{ '/ufo-history/ufo/19571016-villas-boas-abduction' | relative_url }}) (1957) 174 references
+8. [Washington National sightings]({{ '/ufo-history/ufo/19520700-washington-national-sightings' | relative_url }}) (1952) 171 references
+9. [Pascagoula abduction]({{ '/ufo-history/ufo/19731011-pascagoula-abduction' | relative_url }}) (1973) 142 references
+10. [Chiles and Whitted sighting]({{ '/ufo-history/ufo/19480724-chiles-whitted-sighting' | relative_url }}) (1948) 115 references
 
-11. [Travis Walton abduction](/ufo-history/ufo/19751105-travis-walton-abduction) (1975) 114 references
-12. [Maury Island incident](/ufo-history/ufo/19470621-maury-island-incident) (1947) 99 references
-13. [Tunguska event](/ufo-history/ufo/19080630-tunguska-event) (1908) 95 references
-14. [Kelly-Hopkinsville incident](/ufo-history/ufo/19550821-kelly-hopkinsville-creatures) (1955) 92 references
-15. [Reverend W B Gill sightings](/ufo-history/ufo/19590626-father-gill-sightings) (1959) 92 references
-16. [Levelland, Texas incident](/ufo-history/ufo/19571102-levelland-texas-incident) (1957) 91 references
-17. [McMinnville photographs](/ufo-history/ufo/19500511-mcminnville-photographs) (1950) 90 references
-18. [Rendlesham Forest incident](/ufo-history/ufo/19801227-rendlesham-forest-incident) (1980) 89 references
-19. [Andreasson abduction](/ufo-history/ufo/19670125-betty-andreasson-abduction) (1967) 87 references
-20. [Herbert Schirmer abduction](/ufo-history/ufo/19671203-patrolman-schirmer-abduction) (1967) 87 references
+11. [Travis Walton abduction]({{ '/ufo-history/ufo/19751105-travis-walton-abduction' | relative_url }}) (1975) 114 references
+12. [Maury Island incident]({{ '/ufo-history/ufo/19470621-maury-island-incident' | relative_url }}) (1947) 99 references
+13. [Tunguska event]({{ '/ufo-history/ufo/19080630-tunguska-event' | relative_url }}) (1908) 95 references
+14. [Kelly-Hopkinsville incident]({{ '/ufo-history/ufo/19550821-kelly-hopkinsville-creatures' | relative_url }}) (1955) 92 references
+15. [Reverend W B Gill sightings]({{ '/ufo-history/ufo/19590626-father-gill-sightings' | relative_url }}) (1959) 92 references
+16. [Levelland, Texas incident]({{ '/ufo-history/ufo/19571102-levelland-texas-incident' | relative_url }}) (1957) 91 references
+17. [McMinnville photographs]({{ '/ufo-history/ufo/19500511-mcminnville-photographs' | relative_url }}) (1950) 90 references
+18. [Rendlesham Forest incident]({{ '/ufo-history/ufo/19801227-rendlesham-forest-incident' | relative_url }}) (1980) 89 references
+19. [Andreasson abduction]({{ '/ufo-history/ufo/19670125-betty-andreasson-abduction' | relative_url }}) (1967) 87 references
+20. [Herbert Schirmer abduction]({{ '/ufo-history/ufo/19671203-patrolman-schirmer-abduction' | relative_url }}) (1967) 87 references
 
-21. [Lakenheath episode](/ufo-history/ufo/19560813-lakenheath-incident) (1956) 83 references
-22. [Valensole incident](/ufo-history/ufo/19650701-valensole-encounter) (1965) 76 references
-23. [Gulf Breeze encounter](/ufo-history/ufo/19871111-gulf-breeze-encounter) (1987) 76 references
-24. [Alexander Hamilton airship](/ufo-history/ufo/18970419-hamilton-calf-napping) (1897) 74 references
-25. [Coyne helicopter sighting](/ufo-history/ufo/19731018-coyne-helicopter-incident) (1973) 73 references
-26. [Trindade Island photographs](/ufo-history/ufo/19580116-trindade-island-photos) (1958) 72 references
-27. [Gemini 4 sighting](/ufo-history/ufo/19650604-gemini-4-sighting) (1965) 71 references
-28. [Ubatuba incident](/ufo-history/ufo/19570914-ubatuba-fragments-article) (1957) 69 references
-29. [Incident at Exeter](/ufo-history/ufo/19650903-exeter-incidents) (1965) 68 references
-30. [Cash/Landrum incident](/ufo-history/ufo/19801229-cashlandrum-incident) (1980) 68 references
+21. [Lakenheath episode]({{ '/ufo-history/ufo/19560813-lakenheath-incident' | relative_url }}) (1956) 83 references
+22. [Valensole incident]({{ '/ufo-history/ufo/19650701-valensole-encounter' | relative_url }}) (1965) 76 references
+23. [Gulf Breeze encounter]({{ '/ufo-history/ufo/19871111-gulf-breeze-encounter' | relative_url }}) (1987) 76 references
+24. [Alexander Hamilton airship]({{ '/ufo-history/ufo/18970419-hamilton-calf-napping' | relative_url }}) (1897) 74 references
+25. [Coyne helicopter sighting]({{ '/ufo-history/ufo/19731018-coyne-helicopter-incident' | relative_url }}) (1973) 73 references
+26. [Trindade Island photographs]({{ '/ufo-history/ufo/19580116-trindade-island-photos' | relative_url }}) (1958) 72 references
+27. [Gemini 4 sighting]({{ '/ufo-history/ufo/19650604-gemini-4-sighting' | relative_url }}) (1965) 71 references
+28. [Ubatuba incident]({{ '/ufo-history/ufo/19570914-ubatuba-fragments-article' | relative_url }}) (1957) 69 references
+29. [Incident at Exeter]({{ '/ufo-history/ufo/19650903-exeter-incidents' | relative_url }}) (1965) 68 references
+30. [Cash/Landrum incident]({{ '/ufo-history/ufo/19801229-cashlandrum-incident' | relative_url }}) (1980) 68 references
 
-31. [Lubbock Lights sightings](/ufo-history/ufo/19510825-lubbock-lights-sightings) (1951) 66 references
-32. [Jimmy Carter sighting](/ufo-history/ufo/19690106-jimmy-carters-ufo-sighting) (1969) 65 references
-33. [Gorman "dogfight" near Fargo](/ufo-history/ufo/19481001-gorman-dogfight-incident) (1948) 64 references
-34. [Tremonton, Utah film](/ufo-history/ufo/19520702-tremonton-film) (1952) 64 references
-35. [Valentich disappearance](/ufo-history/ufo/19781021-valentich-disappearance) (1978) 62 references
-36. [Truman Bethurum contact](/ufo-history/ufo-personalities/bethurum-truman) (1954) 62 references
-37. [Fatima apparition](/ufo-history/ufo/19171013-fatima-apparition) (1917) 61 references
-38. [Flatwoods incident](/ufo-history/ufo/19520912-flatwoods-monster) (1952) 61 references
+31. [Lubbock Lights sightings]({{ '/ufo-history/ufo/19510825-lubbock-lights-sightings' | relative_url }}) (1951) 66 references
+32. [Jimmy Carter sighting]({{ '/ufo-history/ufo/19690106-jimmy-carters-ufo-sighting' | relative_url }}) (1969) 65 references
+33. [Gorman "dogfight" near Fargo]({{ '/ufo-history/ufo/19481001-gorman-dogfight-incident' | relative_url }}) (1948) 64 references
+34. [Tremonton, Utah film]({{ '/ufo-history/ufo/19520702-tremonton-film' | relative_url }}) (1952) 64 references
+35. [Valentich disappearance]({{ '/ufo-history/ufo/19781021-valentich-disappearance' | relative_url }}) (1978) 62 references
+36. [Truman Bethurum contact]({{ '/ufo-history/ufo-personalities/bethurum-truman' | relative_url }}) (1954) 62 references
+37. [Fatima apparition]({{ '/ufo-history/ufo/19171013-fatima-apparition' | relative_url }}) (1917) 61 references
+38. [Flatwoods incident]({{ '/ufo-history/ufo/19520912-flatwoods-monster' | relative_url }}) (1952) 61 references
 
-39. [Desvergers (scoutmaster) sighting](/ufo-history/ufo/19520819-florida-scoutmaster-incident) (1952) 59 references
-40. [Belgium radar/visual sightings](/ufo-history/ufo/19891129-belgium-radarvisuals) (1989) 59 references
+39. [Desvergers (scoutmaster) sighting]({{ '/ufo-history/ufo/19520819-florida-scoutmaster-incident' | relative_url }}) (1952) 59 references
+40. [Belgium radar/visual sightings]({{ '/ufo-history/ufo/19891129-belgium-radarvisuals' | relative_url }}) (1989) 59 references
 
-41. [Great Falls, Montana film](/ufo-history/ufo/19500815-great-falls-film) (1950) 58 references
-42. [Day family abduction](/ufo-history/ufo/19741027-day-family-abduction) (1974) 58 references
-43. [Clyde Tombaugh sighting](/ufo-history/ufo/19490820-clyde-tombaugh-sighting) (1949) 57 references
-44. [Nash and Fortenberry sighting](/ufo-history/ufo/19520714-nash-fortenberry-sighting) (1952) 57 references
-45. [Eagle River encounter](/ufo-history/ufo/19610418-eagle-river-pancake) (1961) 57 references
-46. [BOAC stratocruiser sighting](/ufo-history/ufo/19540629-boac-stratocruiser-sighting) (1954) 55 references
-47. [Jet chase near Tehran, Iran](/ufo-history/ufo/19760919-tehran-jet-chase-incident) (1976) 55 references
-48. [Flight 19 incident](/ufo-history/ufo/19451205-flight-19-incident) (1945) 54 references
-49. ["Lady" animal mutilation](/ufo-history/ufo/19660909-lady-found-dead) (1966) 54 references
-50. [Steven Michalak encounter](/ufo-history/ufo/19670520-falcon-lake-encounter) (1967) 54 references
+41. [Great Falls, Montana film]({{ '/ufo-history/ufo/19500815-great-falls-film' | relative_url }}) (1950) 58 references
+42. [Day family abduction]({{ '/ufo-history/ufo/19741027-day-family-abduction' | relative_url }}) (1974) 58 references
+43. [Clyde Tombaugh sighting]({{ '/ufo-history/ufo/19490820-clyde-tombaugh-sighting' | relative_url }}) (1949) 57 references
+44. [Nash and Fortenberry sighting]({{ '/ufo-history/ufo/19520714-nash-fortenberry-sighting' | relative_url }}) (1952) 57 references
+45. [Eagle River encounter]({{ '/ufo-history/ufo/19610418-eagle-river-pancake' | relative_url }}) (1961) 57 references
+46. [BOAC stratocruiser sighting]({{ '/ufo-history/ufo/19540629-boac-stratocruiser-sighting' | relative_url }}) (1954) 55 references
+47. [Jet chase near Tehran, Iran]({{ '/ufo-history/ufo/19760919-tehran-jet-chase-incident' | relative_url }}) (1976) 55 references
+48. [Flight 19 incident]({{ '/ufo-history/ufo/19451205-flight-19-incident' | relative_url }}) (1945) 54 references
+49. ["Lady" animal mutilation]({{ '/ufo-history/ufo/19660909-lady-found-dead' | relative_url }}) (1966) 54 references
+50. [Steven Michalak encounter]({{ '/ufo-history/ufo/19670520-falcon-lake-encounter' | relative_url }}) (1967) 54 references
 
-51. [Aurora, Texas airship crash](/ufo-history/ufo/18970417-crash-at-aurora) (1897) 53 references
-52. [Greenhaw encounter](/ufo-history/ufo/19731017-falkville-alabama-photos) (1973) 53 references
-53. ["Linda Cortile" abduction](/ufo-history/ufo/19891130-linda-cortile-abduction) (1989) 53 references
-54. [Kinross incident](/ufo-history/ufo/19531123-felix-moncla-qdisappearanceq) (1953) 52 references
-55. [Apollo 11 sightings](/ufo-history/ufo/19690720-apollo-11-landing) (1969) 52 references
-56. [Alan Godfrey encounter](/ufo-history/ufo/19801129-alan-godfrey-encounter) (1980) 51 references
-57. [Wellington/Kaikoura incident](/ufo-history/ufo/19781231-wellingtonkaikoura-film) (1978) 50 references
-58. [John Martin sighting](/ufo-history/ufo/18780124-john-martin-sighting) (1878) 49 references
-59. [Orfeo Angelucci encounter](/ufo-history/ufo-personalities/angelucci-orfeo) (1955) 49 references
-60. [Delphos Ring incident](/ufo-history/ufo/19711102-delphos-ring-incident) (1971) 49 references
+51. [Aurora, Texas airship crash]({{ '/ufo-history/ufo/18970417-crash-at-aurora' | relative_url }}) (1897) 53 references
+52. [Greenhaw encounter]({{ '/ufo-history/ufo/19731017-falkville-alabama-photos' | relative_url }}) (1973) 53 references
+53. ["Linda Cortile" abduction]({{ '/ufo-history/ufo/19891130-linda-cortile-abduction' | relative_url }}) (1989) 53 references
+54. [Kinross incident]({{ '/ufo-history/ufo/19531123-felix-moncla-qdisappearanceq' | relative_url }}) (1953) 52 references
+55. [Apollo 11 sightings]({{ '/ufo-history/ufo/19690720-apollo-11-landing' | relative_url }}) (1969) 52 references
+56. [Alan Godfrey encounter]({{ '/ufo-history/ufo/19801129-alan-godfrey-encounter' | relative_url }}) (1980) 51 references
+57. [Wellington/Kaikoura incident]({{ '/ufo-history/ufo/19781231-wellingtonkaikoura-film' | relative_url }}) (1978) 50 references
+58. [John Martin sighting]({{ '/ufo-history/ufo/18780124-john-martin-sighting' | relative_url }}) (1878) 49 references
+59. [Orfeo Angelucci encounter]({{ '/ufo-history/ufo-personalities/angelucci-orfeo' | relative_url }}) (1955) 49 references
+60. [Delphos Ring incident]({{ '/ufo-history/ufo/19711102-delphos-ring-incident' | relative_url }}) (1971) 49 references
 
-61. [The Northeast Blackout](/ufo-history/ufo/19651109-northeast-blackout)(1965) 47 references
-62. [Rex Heflin photographs](/ufo-history/ufo/19650803-rex-heflin-photos) (1965) 46 references
-63. [RB-47 radar/visual incident](/ufo-history/ufo/19570717-rb-47-incident) (1957) 45 references
-64. [Carl Higdon contact](/ufo-history/ufo/19741025-higdon-elk-hunting-incident) (1974) 45 references
-65. [Trans-en-Provence encounter](/ufo-history/ufo/19810108-trans-en-provence-qlandingq) (1981) 45 references
-66. [Charles B Moore sighting](/ufo-history/ufo/19490424-white-sands-sighting) (1949) 44 references
-67. [E J Smith sighting](/ufo-history/ufo/19470704-united-airlines-sighting) (1947) 43 references
-68. [Stanford, Kentucky abduction](/ufo-history/ufo/19760106-kentucky-multiple-abduction) (1976) 43 references
-69. [Fred M Johnson sighting](/ufo-history/ufo/19470624-fred-johnson-sighting) (1947) 41 references
-70. [Fort Itaipu, Brazil sighting](/ufo-history/ufo/19571104-fort-itaipu-brazil-incident) (1957) 40 references
+61. [The Northeast Blackout]({{ '/ufo-history/ufo/19651109-northeast-blackout' | relative_url }})(1965) 47 references
+62. [Rex Heflin photographs]({{ '/ufo-history/ufo/19650803-rex-heflin-photos' | relative_url }}) (1965) 46 references
+63. [RB-47 radar/visual incident]({{ '/ufo-history/ufo/19570717-rb-47-incident' | relative_url }}) (1957) 45 references
+64. [Carl Higdon contact]({{ '/ufo-history/ufo/19741025-higdon-elk-hunting-incident' | relative_url }}) (1974) 45 references
+65. [Trans-en-Provence encounter]({{ '/ufo-history/ufo/19810108-trans-en-provence-qlandingq' | relative_url }}) (1981) 45 references
+66. [Charles B Moore sighting]({{ '/ufo-history/ufo/19490424-white-sands-sighting' | relative_url }}) (1949) 44 references
+67. [E J Smith sighting]({{ '/ufo-history/ufo/19470704-united-airlines-sighting' | relative_url }}) (1947) 43 references
+68. [Stanford, Kentucky abduction]({{ '/ufo-history/ufo/19760106-kentucky-multiple-abduction' | relative_url }}) (1976) 43 references
+69. [Fred M Johnson sighting]({{ '/ufo-history/ufo/19470624-fred-johnson-sighting' | relative_url }}) (1947) 41 references
+70. [Fort Itaipu, Brazil sighting]({{ '/ufo-history/ufo/19571104-fort-itaipu-brazil-incident' | relative_url }}) (1957) 40 references
 
-71. [Muroc Field sightings](/ufo-history/ufo/19470708-muroc-field-sightings) (1947) 39 references
-72. [Gary Wilcox encounter](/ufo-history/ufo/19640424-gary-wilcox-encounter) (1964) 39 references
-73. [Spaur/Neff Ravenna sighting](/ufo-history/ufo/19660417-ravenna-police-sighting) (1966) 39 references
-74. [Cedric Allingham encounter](/ufo-history/ufo-books/allingham-cedric-flying-saucers-from-mars) (1954) 39 references
-75. [Salem, Massachusetts photograph](/ufo-history/ufo/19520716-salem-photo) (1952) 38 references
-76. [Reinhold Schmidt encounter](/ufo-history/ufo/19571105-reinhold-schmidt-encounter) (1957) 38 references
-77. ["Doctor X" UFO encounter](/ufo-history/ufo/19681102-qdr-xq-healing-encounter) (1968) 38 references
-78. [Maureen Puddy encounter](/ufo-history/ufo/19730222-maureen-puddy-qabductionq) (1973) 38 references
-79. [Gordon Cooper sightings](/ufo-history/ufo/19630516-gordon-cooper-sighting) (1963) 35 references
-80. [Cisco Grove incident](/ufo-history/ufo/19640904-cisco-grove-incident) (1964) 35 references
+71. [Muroc Field sightings]({{ '/ufo-history/ufo/19470708-muroc-field-sightings' | relative_url }}) (1947) 39 references
+72. [Gary Wilcox encounter]({{ '/ufo-history/ufo/19640424-gary-wilcox-encounter' | relative_url }}) (1964) 39 references
+73. [Spaur/Neff Ravenna sighting]({{ '/ufo-history/ufo/19660417-ravenna-police-sighting' | relative_url }}) (1966) 39 references
+74. [Cedric Allingham encounter]({{ '/ufo-history/ufo-books/allingham-cedric-flying-saucers-from-mars' | relative_url }}) (1954) 39 references
+75. [Salem, Massachusetts photograph]({{ '/ufo-history/ufo/19520716-salem-photo' | relative_url }}) (1952) 38 references
+76. [Reinhold Schmidt encounter]({{ '/ufo-history/ufo/19571105-reinhold-schmidt-encounter' | relative_url }}) (1957) 38 references
+77. ["Doctor X" UFO encounter]({{ '/ufo-history/ufo/19681102-qdr-xq-healing-encounter' | relative_url }}) (1968) 38 references
+78. [Maureen Puddy encounter]({{ '/ufo-history/ufo/19730222-maureen-puddy-qabductionq' | relative_url }}) (1973) 38 references
+79. [Gordon Cooper sightings]({{ '/ufo-history/ufo/19630516-gordon-cooper-sighting' | relative_url }}) (1963) 35 references
+80. [Cisco Grove incident]({{ '/ufo-history/ufo/19640904-cisco-grove-incident' | relative_url }}) (1964) 35 references
 
-81. [Topcliffe incident](/ufo-history/ufo/19520919-topcliffe-sighting) (1952) 34 references
-82. [Gemini 7 sighting](/ufo-history/ufo/19651204-gemini-7-sighting) (1965) 34 references
-83. [Voronezh, Russia landing](/ufo-history/ufo/19890927-voronezh-russia-landing) (1989) 34 references
-84. [Cynthia Appleton encounter](/ufo-history/ufo/19571118-cynthia-appleton-encounters) (1957) 33 references
-85. [Claude Vorilhon contact](/ufo-history/ufo/19731213-vorilhon-raelians-encounter) (1973) 33 references
-86. [Livingston incident](/ufo-history/ufo/19791109-livingston-incident) (1979) 33 references
-87. [Jose A y Bonilla photograph](/ufo-history/ufo/18830812-bonilla-photos) (1883) 32 references
-88. [Ummo photographs](/ufo-history/ufo/19670601-ummo-photos) (1967) 32 references
-89. [JAL 1628 sighting over Alaska](/ufo-history/ufo/19861117-jal-flight-1628) (1986) 32 references
-90. [Operation Mainbrace sightings](/ufo-history/ufo/19520919-operation-mainbrace-sightings) (1952) 31 references
+81. [Topcliffe incident]({{ '/ufo-history/ufo/19520919-topcliffe-sighting' | relative_url }}) (1952) 34 references
+82. [Gemini 7 sighting]({{ '/ufo-history/ufo/19651204-gemini-7-sighting' | relative_url }}) (1965) 34 references
+83. [Voronezh, Russia landing]({{ '/ufo-history/ufo/19890927-voronezh-russia-landing' | relative_url }}) (1989) 34 references
+84. [Cynthia Appleton encounter]({{ '/ufo-history/ufo/19571118-cynthia-appleton-encounters' | relative_url }}) (1957) 33 references
+85. [Claude Vorilhon contact]({{ '/ufo-history/ufo/19731213-vorilhon-raelians-encounter' | relative_url }}) (1973) 33 references
+86. [Livingston incident]({{ '/ufo-history/ufo/19791109-livingston-incident' | relative_url }}) (1979) 33 references
+87. [Jose A y Bonilla photograph]({{ '/ufo-history/ufo/18830812-bonilla-photos' | relative_url }}) (1883) 32 references
+88. [Ummo photographs]({{ '/ufo-history/ufo/19670601-ummo-photos' | relative_url }}) (1967) 32 references
+89. [JAL 1628 sighting over Alaska]({{ '/ufo-history/ufo/19861117-jal-flight-1628' | relative_url }}) (1986) 32 references
+90. [Operation Mainbrace sightings]({{ '/ufo-history/ufo/19520919-operation-mainbrace-sightings' | relative_url }}) (1952) 31 references
 
-91. [Stephen Darbishire photograph](/ufo-history/ufo/19540215-stephen-darbishire-photo) (1954) 31 references
-92. [Walesville Incident](/ufo-history/ufo/19540702-walesville-incident) (1954) 30 references
-93. [Red Bluff sighting](/ufo-history/ufo/19600813-red-bluff-sighting) (1960) 30 references
-94. [Charles L Moody abduction](/ufo-history/ufo/19750813-charles-moody-abduction) (1975) 30 references
-95. ["Battle of Los Angeles"](/ufo-history/ufo/19420225-qbattle-of-los-angelesq) (1942) 29 references
-96. [Larson abduction near Fargo](/ufo-history/ufo/19750826-larson-abduction) (1975) 29 references
+91. [Stephen Darbishire photograph]({{ '/ufo-history/ufo/19540215-stephen-darbishire-photo' | relative_url }}) (1954) 31 references
+92. [Walesville Incident]({{ '/ufo-history/ufo/19540702-walesville-incident' | relative_url }}) (1954) 30 references
+93. [Red Bluff sighting]({{ '/ufo-history/ufo/19600813-red-bluff-sighting' | relative_url }}) (1960) 30 references
+94. [Charles L Moody abduction]({{ '/ufo-history/ufo/19750813-charles-moody-abduction' | relative_url }}) (1975) 30 references
+95. ["Battle of Los Angeles"]({{ '/ufo-history/ufo/19420225-qbattle-of-los-angelesq' | relative_url }}) (1942) 29 references
+96. [Larson abduction near Fargo]({{ '/ufo-history/ufo/19750826-larson-abduction' | relative_url }}) (1975) 29 references
 
-97. [Farmington sightings](/ufo-history/ufo/19500317-farmington-qarmadaq-incident) (1950) 28 references
-98. [Oloron “Angel Hair” incident](/ufo-history/ufo/19521017-oloron-qangel-hairq-incident) (1952) 28 references
-99. [Tully “saucer nest” incident](/ufo-history/ufo/19660119-tully-saucer-nest) (1966) 28 references
-100. [Loch Raven Dam incident](/ufo-history/ufo/19581026-loch-raven-dam-incident) (1958) 27 references
+97. [Farmington sightings]({{ '/ufo-history/ufo/19500317-farmington-qarmadaq-incident' | relative_url }}) (1950) 28 references
+98. [Oloron “Angel Hair” incident]({{ '/ufo-history/ufo/19521017-oloron-qangel-hairq-incident' | relative_url }}) (1952) 28 references
+99. [Tully “saucer nest” incident]({{ '/ufo-history/ufo/19660119-tully-saucer-nest' | relative_url }}) (1966) 28 references
+100. [Loch Raven Dam incident]({{ '/ufo-history/ufo/19581026-loch-raven-dam-incident' | relative_url }}) (1958) 27 references
 
 It should be noted that I am not suggesting that UFO books are in fact written solely with the objective of presenting the best available evidence.
 

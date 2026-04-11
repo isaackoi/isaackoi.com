@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/craig_roy_2.jpg"}
 ---
 
-![craig_roy_2](/images/stories/ufo_personalities/craig_roy_2.jpg)
+![craig_roy_2]({{ '/images/stories/ufo_personalities/craig_roy_2.jpg' | relative_url }})
 
 *Roy Craig*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/craig-roy">Craig, Roy</a> “<a href="/ufo-history/ufo-books/craig-roy-ufos-an-insiders-view">UFOs – An Insider’s View</a>” (<a href="/tags/1995">1995</a>)(available <a href="http://www.amazon.com/dp/0929398947/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0929398947/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/craig-roy' | relative_url }}">Craig, Roy</a> “<a href="{{ '/ufo-history/ufo-books/craig-roy-ufos-an-insiders-view' | relative_url }}">UFOs – An Insider’s View</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>)(available <a href="http://www.amazon.com/dp/0929398947/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0929398947/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>
@@ -61,7 +61,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-See the references provided in the entry for Roy Craig's book “[UFOs – An Insider’s View](/ufo-history/ufo-books/craig-roy-ufos-an-insiders-view)” ([1995](/tags/1995)).
+See the references provided in the entry for Roy Craig's book “[UFOs – An Insider’s View]({{ '/ufo-history/ufo-books/craig-roy-ufos-an-insiders-view' | relative_url }})” ([1995]({{ '/tags/1995' | relative_url }})).
 
 <a id="other"></a>
 ### Other Material

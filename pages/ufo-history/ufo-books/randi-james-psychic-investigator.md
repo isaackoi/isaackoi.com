@@ -14,7 +14,7 @@ header: {"preview_image": "https://covers.openlibrary.org/b/isbn/1852831448-L.jp
 book: {"identifiers": ["1852831448", "1860197949"], "primary_isbn": "1852831448", "cover_image": "https://covers.openlibrary.org/b/isbn/1852831448-L.jpg?default=false", "cover_source": "openlibrary"}
 ---
 
-Brief review to be added of [James Randi](/ufo-history/ufo-personalities/randi-james)'s book “[Psychic Investigator](/ufo-history/ufo-books/randi-james-psychic-investigator)” ([1991](/tags/1991)) (available [on Amazon USA](http://www.amazon.com/dp/1852831448/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1852831448/?&tag=ufot-21))
+Brief review to be added of [James Randi]({{ '/ufo-history/ufo-personalities/randi-james' | relative_url }})'s book “[Psychic Investigator]({{ '/ufo-history/ufo-books/randi-james-psychic-investigator' | relative_url }})” ([1991]({{ '/tags/1991' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1852831448/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1852831448/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clarke-arthur-c">Clarke, Arthur C</a> in James Randi’s “<a href="/ufo-history/ufo-books/randi-james-the-supernatural-a-z-the-truth-and-the-lies">The Supernatural A-Z: The Truth and the Lies</a>” (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/1860197949/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1860197949/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages x-xii (in the Foreword) of the Brockhampton Press hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clarke-arthur-c' | relative_url }}">Clarke, Arthur C</a> in James Randi’s “<a href="{{ '/ufo-history/ufo-books/randi-james-the-supernatural-a-z-the-truth-and-the-lies' | relative_url }}">The Supernatural A-Z: The Truth and the Lies</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/1860197949/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1860197949/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages x-xii (in the Foreword) of the Brockhampton Press hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>

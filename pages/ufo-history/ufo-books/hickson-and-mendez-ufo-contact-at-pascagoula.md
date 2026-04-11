@@ -14,7 +14,7 @@ header: {"preview_image": "https://covers.openlibrary.org/b/isbn/0960855866-L.jp
 book: {"identifiers": ["0960855866", "1558887423"], "primary_isbn": "0960855866", "cover_image": "https://covers.openlibrary.org/b/isbn/0960855866-L.jpg?default=false", "cover_source": "openlibrary"}
 ---
 
-Brief review to be added of [Charles Hickson](/ufo-history/ufo-personalities/hickson-charles) and William Mendez “[UFO Contact at Pascagoula](/ufo-history/ufo-books/hickson-and-mendez-ufo-contact-at-pascagoula)” ([1983](/tags/1983)) (available [on Amazon USA](http://www.amazon.com/dp/0960855866/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0960855866/?&tag=ufot-21))
+Brief review to be added of [Charles Hickson]({{ '/ufo-history/ufo-personalities/hickson-charles' | relative_url }}) and William Mendez “[UFO Contact at Pascagoula]({{ '/ufo-history/ufo-books/hickson-and-mendez-ufo-contact-at-pascagoula' | relative_url }})” ([1983]({{ '/tags/1983' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0960855866/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0960855866/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -56,10 +56,10 @@ For discussion ofthis particular book see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq">The UFO Encyclopedia: 1st edition</a>: Volume 3 – High Strangeness” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/1558887423/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558887423/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 394-395 (in an entry entitled “Pascagoula Abduction Case”) of the Omnigraphics hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq' | relative_url }}">The UFO Encyclopedia: 1st edition</a>: Volume 3 – High Strangeness” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/1558887423/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558887423/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 394-395 (in an entry entitled “Pascagoula Abduction Case”) of the Omnigraphics hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

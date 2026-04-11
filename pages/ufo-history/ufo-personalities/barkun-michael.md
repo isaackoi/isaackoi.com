@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/barkun_michael_1.jpg"}
 ---
 
-![barkun_michael_1](/images/stories/ufo_personalities/barkun_michael_1.jpg)
+![barkun_michael_1]({{ '/images/stories/ufo_personalities/barkun_michael_1.jpg' | relative_url }})
 
 *Michael Barkun*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/2003">2003</a></p>
+<p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/barkun-michael">Barkun, Michael</a> “<a href="/ufo-history/ufo-books/barkun-michael-a-culture-of-conspiracy-apocalyptic-visions-in-contemporary-america">A Culture of Conspiracy : Apocalyptic Visions in Contemporary America</a>” (<a href="/tags/2003">2003</a>) (available <a href="http://www.amazon.com/dp/0520248120/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0520248120/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/barkun-michael' | relative_url }}">Barkun, Michael</a> “<a href="{{ '/ufo-history/ufo-books/barkun-michael-a-culture-of-conspiracy-apocalyptic-visions-in-contemporary-america' | relative_url }}">A Culture of Conspiracy : Apocalyptic Visions in Contemporary America</a>” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) (available <a href="http://www.amazon.com/dp/0520248120/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0520248120/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>

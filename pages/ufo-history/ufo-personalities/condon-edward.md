@@ -13,13 +13,13 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/condon_edward_3.jpg"}
 ---
 
-![condon_edward_3](/images/stories/ufo_personalities/condon_edward_3.jpg)
+![condon_edward_3]({{ '/images/stories/ufo_personalities/condon_edward_3.jpg' | relative_url }})
 
 *Edward Condon*
 
 Brief comments to be added on this individual.
 
-See also [the entry for the Condon report](/ufo-history/ufo/19690109-condon-report-released).
+See also [the entry for the Condon report]({{ '/ufo-history/ufo/19690109-condon-report-released' | relative_url }}).
 
 Books by this person include:
 
@@ -38,10 +38,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1968">1968</a></p>
+<p><a href="{{ '/tags/1968' | relative_url }}">1968</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/condon-edward">Condon, Edward</a> “<a href="/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects">Scientific Study of Unidentified Flying Objects</a>” (<a href="/tags/1969">1969</a>) (available <a href="http://www.amazon.com/dp/B000EZY1RO/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000EZY1RO/?&amp;tag=ufot-21">on Amazon UK</a>).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/condon-edward' | relative_url }}">Condon, Edward</a> “<a href="{{ '/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects' | relative_url }}">Scientific Study of Unidentified Flying Objects</a>” (<a href="{{ '/tags/1969' | relative_url }}">1969</a>) (available <a href="http://www.amazon.com/dp/B000EZY1RO/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000EZY1RO/?&amp;tag=ufot-21">on Amazon UK</a>).</p>
 </td>
 </tr>
 </tbody>
@@ -87,10 +87,10 @@ For discussion of Condon see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2003">2003</a></p>
+<p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/darling-david">Darling, David</a> in his online encyclopedia, “The Encyclopedia of Astrobiology, Astronomy and Spaceflight” (<a href="/tags/2003">2003</a>) in the entry entitled “<a href="/ufo-history/ufo-personalities/condon-edward">Condon, Edward</a> Uhler (<a href="/tags/1902">1902</a>-<a href="/tags/1974">1974</a>)”. The relevant entry is available online at: “<a href="http://www.daviddarling.info/encyclopedia/C/CondonE.html">http://www.daviddarling.info/encyclopedia/C/CondonE.html</a></p>
+<p><a href="{{ '/ufo-history/ufo-personalities/darling-david' | relative_url }}">Darling, David</a> in his online encyclopedia, “The Encyclopedia of Astrobiology, Astronomy and Spaceflight” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) in the entry entitled “<a href="{{ '/ufo-history/ufo-personalities/condon-edward' | relative_url }}">Condon, Edward</a> Uhler (<a href="{{ '/tags/1902' | relative_url }}">1902</a>-<a href="{{ '/tags/1974' | relative_url }}">1974</a>)”. The relevant entry is available online at: “<a href="http://www.daviddarling.info/encyclopedia/C/CondonE.html">http://www.daviddarling.info/encyclopedia/C/CondonE.html</a></p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -98,10 +98,10 @@ For discussion of Condon see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/greenwell-j-richard">Greenwell, J Richard</a> in “<a href="/ufo-history/ufo-books/story-ronald-editor-and-green-j-richard-consulting-editor-the-encyclopedia-of-ufos">The Encyclopedia of UFOs</a>” (<a href="/tags/1980">1980</a>) edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a> (available <a href="http://www.amazon.com/dp/0385136773/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0385136773/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 80-81 (in an entry entitled “<a href="/ufo-history/ufo-personalities/condon-edward">Condon, Edward</a> U[hler]”) of the NEL hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/greenwell-j-richard' | relative_url }}">Greenwell, J Richard</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-editor-and-green-j-richard-consulting-editor-the-encyclopedia-of-ufos' | relative_url }}">The Encyclopedia of UFOs</a>” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a> (available <a href="http://www.amazon.com/dp/0385136773/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0385136773/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 80-81 (in an entry entitled “<a href="{{ '/ufo-history/ufo-personalities/condon-edward' | relative_url }}">Condon, Edward</a> U[hler]”) of the NEL hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -109,10 +109,10 @@ For discussion of Condon see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p>Hoyt, Diana Palmer in her Masters thesis entitled “UFOcritique : UFOs, Social Intelligence, and the Condon Report” (<a href="/tags/2000">2000</a>.0420) in Chapter 2 at pages 36-44. Complete text of the Masters thesis available online at:</p>
+<p>Hoyt, Diana Palmer in her Masters thesis entitled “UFOcritique : UFOs, Social Intelligence, and the Condon Report” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>.0420) in Chapter 2 at pages 36-44. Complete text of the Masters thesis available online at:</p>
 <p><a href="http://scholar.lib.vt.edu/theses/available/etd-05082000-09580026/unrestricted/UFOCRITIQUE.pdf">http://scholar.lib.vt.edu/theses/available/etd-05082000-09580026/unrestricted/UFOCRITIQUE.pdf</a></p>
 </td>
 <td valign="top" width="52">
@@ -121,10 +121,10 @@ For discussion of Condon see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1975">1975</a></p>
+<p><a href="{{ '/tags/1975' | relative_url }}">1975</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/jacobs-david-michael">Jacobs, David Michael</a> in his “<a href="/ufo-history/ufo-books/jacobs-david-michael-the-ufo-controversy-in-america">The UFO Controversy in America</a>” (<a href="/tags/1975">1975</a>) (available <a href="http://www.amazon.com/dp/0253190061/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0253190061/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 208-209 (in Chapter 8) of the Indiana hardback edition, pages 184-185 of the Signet paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/jacobs-david-michael' | relative_url }}">Jacobs, David Michael</a> in his “<a href="{{ '/ufo-history/ufo-books/jacobs-david-michael-the-ufo-controversy-in-america' | relative_url }}">The UFO Controversy in America</a>” (<a href="{{ '/tags/1975' | relative_url }}">1975</a>) (available <a href="http://www.amazon.com/dp/0253190061/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0253190061/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 208-209 (in Chapter 8) of the Indiana hardback edition, pages 184-185 of the Signet paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -132,10 +132,10 @@ For discussion of Condon see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1968">1968</a></p>
+<p><a href="{{ '/tags/1968' | relative_url }}">1968</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/klass-philip-j">Klass, Philip J</a> in his “<a href="/ufo-history/ufo-books/klass-philip-j-ufos-identified">UFOs – Identified</a>” (<a href="/tags/1968">1968</a>) (available <a href="http://www.amazon.com/dp/0394450035/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0394450035/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 173 (in Chapter 15) of the Random House hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/klass-philip-j' | relative_url }}">Klass, Philip J</a> in his “<a href="{{ '/ufo-history/ufo-books/klass-philip-j-ufos-identified' | relative_url }}">UFOs – Identified</a>” (<a href="{{ '/tags/1968' | relative_url }}">1968</a>) (available <a href="http://www.amazon.com/dp/0394450035/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0394450035/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 173 (in Chapter 15) of the Random House hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -143,10 +143,10 @@ For discussion of Condon see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1977">1977</a></p>
+<p><a href="{{ '/tags/1977' | relative_url }}">1977</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/menzel-donald-h">Menzel, Donald</a> and Taves, Ernest “<a href="/ufo-history/ufo-books/menzel-donald-h-and-taves-ernest-the-ufo-enigma">The UFO Enigma</a>“ (<a href="/tags/1977">1977</a>) (available <a href="http://www.amazon.com/dp/0385035969/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0385035969/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 82, 86 (in Chapter 7) of the Doubleday hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/menzel-donald-h' | relative_url }}">Menzel, Donald</a> and Taves, Ernest “<a href="{{ '/ufo-history/ufo-books/menzel-donald-h-and-taves-ernest-the-ufo-enigma' | relative_url }}">The UFO Enigma</a>“ (<a href="{{ '/tags/1977' | relative_url }}">1977</a>) (available <a href="http://www.amazon.com/dp/0385035969/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0385035969/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 82, 86 (in Chapter 7) of the Doubleday hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -155,7 +155,7 @@ For discussion of Condon see the following:
 </tbody>
 </table>
 
-See also [the entry for the Condon report](/ufo-history/ufo/19690109-condon-report-released).
+See also [the entry for the Condon report]({{ '/ufo-history/ufo/19690109-condon-report-released' | relative_url }}).
 
 <a id="other"></a>
 ### Other Material

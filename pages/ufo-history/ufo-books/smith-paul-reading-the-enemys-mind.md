@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0312875150.jpg"}
 book: {"identifiers": ["0312875150"], "primary_isbn": "0312875150", "cover_image": "/book-covers/0312875150.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Paul Smith](/ufo-history/ufo-personalities/smith-paul)'s book “[Reading the Enemy’s Mind](/ufo-history/ufo-books/smith-paul-reading-the-enemys-mind)” ([2005](/tags/2005)) (available [on Amazon USA](http://www.amazon.com/dp/0312875150/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0312875150/?&tag=ufot-21)).
+Brief review to be added of [Paul Smith]({{ '/ufo-history/ufo-personalities/smith-paul' | relative_url }})'s book “[Reading the Enemy’s Mind]({{ '/ufo-history/ufo-books/smith-paul-reading-the-enemys-mind' | relative_url }})” ([2005]({{ '/tags/2005' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0312875150/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0312875150/?&tag=ufot-21)).
 
 1. [Web Resources](#web)
 
@@ -32,7 +32,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 
 Please use the comments section at the bottom of this page to share any relevant book references or other useful resources.
 
-See the book references provided in relation to [Paul Smith](/ufo-history/ufo-personalities/smith-paul).
+See the book references provided in relation to [Paul Smith]({{ '/ufo-history/ufo-personalities/smith-paul' | relative_url }}).
 
 <a id="other"></a>
 ### Other Material

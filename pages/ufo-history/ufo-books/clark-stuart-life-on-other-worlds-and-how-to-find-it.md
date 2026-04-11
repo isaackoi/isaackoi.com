@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/185233097X.jpg"}
 book: {"identifiers": ["185233097X"], "primary_isbn": "185233097X", "cover_image": "/book-covers/185233097X.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of Stuart Clark's book “[Life on Other Worlds and How to Find It](/ufo-history/ufo-books/clark-stuart-life-on-other-worlds-and-how-to-find-it)” ([2000](/tags/2000)) (available [on Amazon USA](http://www.amazon.com/dp/185233097X/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/185233097X/?&tag=ufot-21))
+Brief review to be added of Stuart Clark's book “[Life on Other Worlds and How to Find It]({{ '/ufo-history/ufo-books/clark-stuart-life-on-other-worlds-and-how-to-find-it' | relative_url }})” ([2000]({{ '/tags/2000' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/185233097X/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/185233097X/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

@@ -13,11 +13,11 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/documents_1.gif"}
 ---
 
-![documents_1](/images/stories/ufo_tags/documents_1.gif)
+![documents_1]({{ '/images/stories/ufo_tags/documents_1.gif' | relative_url }})
 
 *Lipp report*
 
-On 13 December [1948](/tags/1948), Dr James E Lipp of the Rand Corporation provides a report addressed to Brigadier General Putt (US Air Force Director of Research and Development).
+On 13 December [1948]({{ '/tags/1948' | relative_url }}), Dr James E Lipp of the Rand Corporation provides a report addressed to Brigadier General Putt (US Air Force Director of Research and Development).
 
 This report subsequently appeared as Appendix D to the Project Sign Report.
 
@@ -37,7 +37,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-Complete text of letter presented in the [Condon Report](/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects) (“[Scientific Study of Unidentified Flying Objects](/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects)”, Edward U Condon (Director) and Daniel S Gillmor (Editor) ([1969](/tags/1969))) (available [on Amazon USA](http://www.amazon.com/dp/B000EZY1RO/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B000EZY1RO/ref=nosim?tag=ufot-21)) at pages 1316-1325 (in Appendix D) of the uncorrected version submitted to the Air Force (with the same page numbering in the 3 volume paperbound edition distributed by the National Technical Information Service, US Department of Commerce) at pages 844-852 of the Vision hardback edition (with the same page numbering in the Bantam paperback edition). The first of these editions has the same page numbering as the edition available free online at the following links:
+Complete text of letter presented in the [Condon Report]({{ '/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects' | relative_url }}) (“[Scientific Study of Unidentified Flying Objects]({{ '/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects' | relative_url }})”, Edward U Condon (Director) and Daniel S Gillmor (Editor) ([1969]({{ '/tags/1969' | relative_url }}))) (available [on Amazon USA](http://www.amazon.com/dp/B000EZY1RO/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B000EZY1RO/ref=nosim?tag=ufot-21)) at pages 1316-1325 (in Appendix D) of the uncorrected version submitted to the Air Force (with the same page numbering in the 3 volume paperbound edition distributed by the National Technical Information Service, US Department of Commerce) at pages 844-852 of the Vision hardback edition (with the same page numbering in the Bantam paperback edition). The first of these editions has the same page numbering as the edition available free online at the following links:
 
 http://www.project1947.com/shg/condon/contents.html
 
@@ -65,10 +65,10 @@ For discussion of Lipp’s report see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1976">1976</a></p>
+<p><a href="{{ '/tags/1976' | relative_url }}">1976</a></p>
 </td>
 <td valign="top" width="547">
-<p>Flammonde, Paris in his “<a href="/ufo-history/ufo-books/flammonde-paris-ufo-exist">Ufo Exist!</a>” (<a href="/tags/1976">1976</a>) (available <a href="http://www.amazon.com/dp/0345339517/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0345339517/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 387-389 (in Chapter 20) of the Ballantine Books paperback edition.</p>
+<p>Flammonde, Paris in his “<a href="{{ '/ufo-history/ufo-books/flammonde-paris-ufo-exist' | relative_url }}">Ufo Exist!</a>” (<a href="{{ '/tags/1976' | relative_url }}">1976</a>) (available <a href="http://www.amazon.com/dp/0345339517/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0345339517/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 387-389 (in Chapter 20) of the Ballantine Books paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -76,10 +76,10 @@ For discussion of Lipp’s report see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/kottmeyer-martin-s">Kottmeyer, Martin S</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 462 (in an entry entitled “Reconnaissance Theory of UFOs”) of the New American Library softcover edition, at page 452 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/kottmeyer-martin-s' | relative_url }}">Kottmeyer, Martin S</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 462 (in an entry entitled “Reconnaissance Theory of UFOs”) of the New American Library softcover edition, at page 452 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -87,10 +87,10 @@ For discussion of Lipp’s report see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/kottmeyer-martin-s">Kottmeyer, Martin S</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 555-556 (in an entry entitled “Reconnaissance Theory of UFOs”) of the Robinson softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/kottmeyer-martin-s' | relative_url }}">Kottmeyer, Martin S</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 555-556 (in an entry entitled “Reconnaissance Theory of UFOs”) of the Robinson softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -98,10 +98,10 @@ For discussion of Lipp’s report see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1965">1965</a></p>
+<p><a href="{{ '/tags/1965' | relative_url }}">1965</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/vallee-jacques">Vallee, Jacques</a> in his “<a href="/ufo-history/ufo-books/vallee-jacques-anatomy-of-a-phenomenon-ufos-in-space">Anatomy of a Phenomenon</a>” (<a href="/tags/1965">1965</a>) (available <a href="http://www.amazon.com/dp/0345270754/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0345270754/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 36-37 (in Chapter 2) of the Henry Regnery hardback edition (with the same page numbering in the Tandem paperback edition), page 39-41 of the Ballantine Books paperback edition, pages 71-73 of the <a href="/tags/1966">1966</a> revised and enlarged Ace Star paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/vallee-jacques' | relative_url }}">Vallee, Jacques</a> in his “<a href="{{ '/ufo-history/ufo-books/vallee-jacques-anatomy-of-a-phenomenon-ufos-in-space' | relative_url }}">Anatomy of a Phenomenon</a>” (<a href="{{ '/tags/1965' | relative_url }}">1965</a>) (available <a href="http://www.amazon.com/dp/0345270754/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0345270754/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 36-37 (in Chapter 2) of the Henry Regnery hardback edition (with the same page numbering in the Tandem paperback edition), page 39-41 of the Ballantine Books paperback edition, pages 71-73 of the <a href="{{ '/tags/1966' | relative_url }}">1966</a> revised and enlarged Ace Star paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

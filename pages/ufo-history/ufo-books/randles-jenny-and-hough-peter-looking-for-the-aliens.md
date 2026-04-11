@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0760704406.jpg"}
 book: {"identifiers": ["0760704406"], "primary_isbn": "0760704406", "cover_image": "/book-covers/0760704406.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of “[Looking for the Aliens](/ufo-history/ufo-books/randles-jenny-and-hough-peter-looking-for-the-aliens)” ([1991](/tags/1991)) (available [on Amazon USA](http://www.amazon.com/dp/0760704406/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0760704406/?&tag=ufot-21)) by [Jenny Randles](/ufo-history/ufo-personalities/randles-jenny) and [Peter Hough](/ufo-history/ufo-personalities/hough-peter).
+Brief review to be added of “[Looking for the Aliens]({{ '/ufo-history/ufo-books/randles-jenny-and-hough-peter-looking-for-the-aliens' | relative_url }})” ([1991]({{ '/tags/1991' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0760704406/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0760704406/?&tag=ufot-21)) by [Jenny Randles]({{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}) and [Peter Hough]({{ '/ufo-history/ufo-personalities/hough-peter' | relative_url }}).
 
 1. [Web Resources](#web)
 

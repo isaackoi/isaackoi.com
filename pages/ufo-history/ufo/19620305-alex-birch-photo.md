@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/britain_1.gif"}
 ---
 
-![britain_1](/images/stories/ufo_tags/britain_1.gif)
+![britain_1]({{ '/images/stories/ufo_tags/britain_1.gif' | relative_url }})
 
 *Alex Birch photo*
 
@@ -63,10 +63,10 @@ For discussion of the Alex Birch photograph see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/campbell-steuart">Campbell, Steuart</a> in his “<a href="/ufo-history/ufo-books/campbell-steuart-the-ufo-mystery-solved">The UFO Mystery Solved</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/0952151200/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0952151200/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 46 (in Chapter 3) of the Explicit Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/campbell-steuart' | relative_url }}">Campbell, Steuart</a> in his “<a href="{{ '/ufo-history/ufo-books/campbell-steuart-the-ufo-mystery-solved' | relative_url }}">The UFO Mystery Solved</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/0952151200/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0952151200/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 46 (in Chapter 3) of the Explicit Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -74,10 +74,10 @@ For discussion of the Alex Birch photograph see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1969">1969</a></p>
+<p><a href="{{ '/tags/1969' | relative_url }}">1969</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/chapman-robert">Chapman, Robert</a> in his “<a href="/ufo-history/ufo-books/chapman-robert-ufo-flying-saucers-over-britain">UFO : Flying Saucers Over Britain?</a>” (<a href="/tags/1969">1969</a>) (also published as “Unidentified Flying Objects”) (available <a href="http://www.amazon.com/dp/B000C0L3W2/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000C0L3W2/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 91 (in Chapter 7) of the Mayflower paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/chapman-robert' | relative_url }}">Chapman, Robert</a> in his “<a href="{{ '/ufo-history/ufo-books/chapman-robert-ufo-flying-saucers-over-britain' | relative_url }}">UFO : Flying Saucers Over Britain?</a>” (<a href="{{ '/tags/1969' | relative_url }}">1969</a>) (also published as “Unidentified Flying Objects”) (available <a href="http://www.amazon.com/dp/B000C0L3W2/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000C0L3W2/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 91 (in Chapter 7) of the Mayflower paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -85,10 +85,10 @@ For discussion of the Alex Birch photograph see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq">The UFO Encyclopedia: 1st edition</a>: Volume 3 – High Strangeness” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/1558887423/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558887423/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 258-259 (forming part of an entry entitled “Hoaxes, <a href="/tags/1960">1960</a>-<a href="/tags/1979">1979</a>”) of the Omnigraphics hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq' | relative_url }}">The UFO Encyclopedia: 1st edition</a>: Volume 3 – High Strangeness” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/1558887423/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558887423/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 258-259 (forming part of an entry entitled “Hoaxes, <a href="{{ '/tags/1960' | relative_url }}">1960</a>-<a href="{{ '/tags/1979' | relative_url }}">1979</a>”) of the Omnigraphics hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -96,10 +96,10 @@ For discussion of the Alex Birch photograph see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition">The UFO Encyclopedia: The Phenomenon from the Beginning - 2nd edition</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 514 of Volume 1:A-K (forming part of the entry entitled “Hoaxes” at pages 504-519) of the Omnigraphics hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition' | relative_url }}">The UFO Encyclopedia: The Phenomenon from the Beginning - 2nd edition</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 514 of Volume 1:A-K (forming part of the entry entitled “Hoaxes” at pages 504-519) of the Omnigraphics hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -107,10 +107,10 @@ For discussion of the Alex Birch photograph see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clarke-david">Clarke, David</a> and <a href="/ufo-history/ufo-personalities/roberts-andy">Roberts, Andy</a> in “<a href="/ufo-history/ufo-books/randles-jenny-and-clarke-david-and-roberts-andy-the-ufos-that-never-were">The UFOs that never were</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/1902809351/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1902809351/ref=nosim?tag=ufot-21">on Amazon UK</a>) by <a href="/ufo-history/ufo-personalities/randles-jenny">Jenny Randles</a>, <a href="/ufo-history/ufo-personalities/roberts-andy">Andy Roberts</a> and <a href="/ufo-history/ufo-personalities/clarke-david">David Clarke</a> at pages 128-143 (in Chapter 7, “Flash, Bang, Wallop – Wot A Picture : The Alex Birch photograph!” by <a href="/ufo-history/ufo-personalities/clarke-david">David Clarke</a> and <a href="/ufo-history/ufo-personalities/roberts-andy">Andy Roberts</a>) of the London House hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clarke-david' | relative_url }}">Clarke, David</a> and <a href="{{ '/ufo-history/ufo-personalities/roberts-andy' | relative_url }}">Roberts, Andy</a> in “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-clarke-david-and-roberts-andy-the-ufos-that-never-were' | relative_url }}">The UFOs that never were</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/1902809351/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1902809351/ref=nosim?tag=ufot-21">on Amazon UK</a>) by <a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Jenny Randles</a>, <a href="{{ '/ufo-history/ufo-personalities/roberts-andy' | relative_url }}">Andy Roberts</a> and <a href="{{ '/ufo-history/ufo-personalities/clarke-david' | relative_url }}">David Clarke</a> at pages 128-143 (in Chapter 7, “Flash, Bang, Wallop – Wot A Picture : The Alex Birch photograph!” by <a href="{{ '/ufo-history/ufo-personalities/clarke-david' | relative_url }}">David Clarke</a> and <a href="{{ '/ufo-history/ufo-personalities/roberts-andy' | relative_url }}">Andy Roberts</a>) of the London House hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>16</p>
@@ -118,10 +118,10 @@ For discussion of the Alex Birch photograph see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2002">2002</a></p>
+<p><a href="{{ '/tags/2002' | relative_url }}">2002</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clarke-david">Clarke, David</a> and <a href="/ufo-history/ufo-personalities/roberts-andy">Roberts, Andy</a> in their “<a href="file:///C:/Users/homelap/Documents/koi/Notes%20active%20files%20-%20videos%20photos%20etc/v">Out Of The Shadows</a>” (<a href="/tags/2002">2002</a>) (available <a href="http://www.amazon.com/dp/0749922907/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0749922907/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 161-163 (in Chapter 8) of the Piatkus hardback edition. Copy of photograph at page 162.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clarke-david' | relative_url }}">Clarke, David</a> and <a href="{{ '/ufo-history/ufo-personalities/roberts-andy' | relative_url }}">Roberts, Andy</a> in their “<a href="file:///C:/Users/homelap/Documents/koi/Notes%20active%20files%20-%20videos%20photos%20etc/v">Out Of The Shadows</a>” (<a href="{{ '/tags/2002' | relative_url }}">2002</a>) (available <a href="http://www.amazon.com/dp/0749922907/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0749922907/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 161-163 (in Chapter 8) of the Piatkus hardback edition. Copy of photograph at page 162.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -129,10 +129,10 @@ For discussion of the Alex Birch photograph see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2009">2009</a></p>
+<p><a href="{{ '/tags/2009' | relative_url }}">2009</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clarke-david">Clarke, David</a> in his “<a href="/ufo-history/ufo-books/clarke-david-the-ufo-files-the-inside-story-of-real-life-sightings">The UFO Files : The Inside Story of Real-Life Sightings</a>” (<a href="/tags/2009">2009</a>) (available <a href="http://www.amazon.com/dp/1905615507/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1905615507/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 70, 71 (in Chapter 3) of the National Archives softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clarke-david' | relative_url }}">Clarke, David</a> in his “<a href="{{ '/ufo-history/ufo-books/clarke-david-the-ufo-files-the-inside-story-of-real-life-sightings' | relative_url }}">The UFO Files : The Inside Story of Real-Life Sightings</a>” (<a href="{{ '/tags/2009' | relative_url }}">2009</a>) (available <a href="http://www.amazon.com/dp/1905615507/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1905615507/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 70, 71 (in Chapter 3) of the National Archives softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -140,10 +140,10 @@ For discussion of the Alex Birch photograph see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1966">1966</a></p>
+<p><a href="{{ '/tags/1966' | relative_url }}">1966</a></p>
 </td>
 <td valign="top" width="547">
-<p>Cramp, Leonard in his “<a href="/ufo-history/ufo-books/cramp-leonard-g-piece-for-a-jig-saw">Piece for a Jig-Saw</a>” (<a href="/tags/1966">1966</a>) (available <a href="http://www.amazon.com/dp/0932813437/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0932813437/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 139-140 (in Chapter 9) of the Somerton hardback edition.</p>
+<p>Cramp, Leonard in his “<a href="{{ '/ufo-history/ufo-books/cramp-leonard-g-piece-for-a-jig-saw' | relative_url }}">Piece for a Jig-Saw</a>” (<a href="{{ '/tags/1966' | relative_url }}">1966</a>) (available <a href="http://www.amazon.com/dp/0932813437/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0932813437/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 139-140 (in Chapter 9) of the Somerton hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -151,10 +151,10 @@ For discussion of the Alex Birch photograph see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Glenday, Craig in his “<a href="/ufo-history/ufo-books/glenday-craig-the-ufo-investigators-handbook">The UFO Investigator’s Handbook</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0762406194/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0762406194/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 92 (in Chapter 4) of the Running Press softcover edition.</p>
+<p>Glenday, Craig in his “<a href="{{ '/ufo-history/ufo-books/glenday-craig-the-ufo-investigators-handbook' | relative_url }}">The UFO Investigator’s Handbook</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0762406194/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0762406194/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 92 (in Chapter 4) of the Running Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -162,10 +162,10 @@ For discussion of the Alex Birch photograph see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1979">1979</a></p>
+<p><a href="{{ '/tags/1979' | relative_url }}">1979</a></p>
 </td>
 <td valign="top" width="547">
-<p>Knight, David C in his “UFOs: A pictorial history from antiquity to the present” (<a href="/tags/1979">1979</a>) (available <a href="http://www.amazon.com/dp/0070351031/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0070351031/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 108 (in Part 4) of the McGraw Hill hardback edition.</p>
+<p>Knight, David C in his “UFOs: A pictorial history from antiquity to the present” (<a href="{{ '/tags/1979' | relative_url }}">1979</a>) (available <a href="http://www.amazon.com/dp/0070351031/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0070351031/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 108 (in Part 4) of the McGraw Hill hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -173,10 +173,10 @@ For discussion of the Alex Birch photograph see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p>Picknett, Lynn in her “<a href="/ufo-history/ufo-books/picknett-lynn-the-mammoth-book-of-ufos">The Mammoth Book of UFOs</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/078670800X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/078670800X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 72-77 (in Chapter 2), 456, 457-458 (in Chapter 8) of the Robinson softcover edition.</p>
+<p>Picknett, Lynn in her “<a href="{{ '/ufo-history/ufo-books/picknett-lynn-the-mammoth-book-of-ufos' | relative_url }}">The Mammoth Book of UFOs</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/078670800X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/078670800X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 72-77 (in Chapter 2), 456, 457-458 (in Chapter 8) of the Robinson softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>9</p>
@@ -184,10 +184,10 @@ For discussion of the Alex Birch photograph see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> and <a href="/ufo-history/ufo-personalities/hough-peter">Hough, Peter</a> in their “<a href="/ufo-history/ufo-books/randles-jenny-and-hough-peter-50-years-of-ufo-encounters">50 Years of UFO Encounters</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/B000NLQNZC/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000NLQNZC/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 40-41 (in unnumbered section entitled “<a href="/tags/1962">1962</a>: Eyes On Space”) of the Encounters Magazine softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> and <a href="{{ '/ufo-history/ufo-personalities/hough-peter' | relative_url }}">Hough, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-hough-peter-50-years-of-ufo-encounters' | relative_url }}">50 Years of UFO Encounters</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/B000NLQNZC/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000NLQNZC/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 40-41 (in unnumbered section entitled “<a href="{{ '/tags/1962' | relative_url }}">1962</a>: Eyes On Space”) of the Encounters Magazine softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -195,10 +195,10 @@ For discussion of the Alex Birch photograph see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1979">1979</a></p>
+<p><a href="{{ '/tags/1979' | relative_url }}">1979</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> and <a href="/ufo-history/ufo-personalities/warrington-peter">Warrington, Peter</a> in their “<a href="/ufo-history/ufo-books/randles-jenny-and-warrington-peter-ufos-a-british-viewpoint">UFOs : A British Viewpoint</a>” (<a href="/tags/1979">1979</a>) (available <a href="http://www.amazon.com/dp/0709174667/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0709174667/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 93 (in Chapter 6) of the Book Club Associates hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> and <a href="{{ '/ufo-history/ufo-personalities/warrington-peter' | relative_url }}">Warrington, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-warrington-peter-ufos-a-british-viewpoint' | relative_url }}">UFOs : A British Viewpoint</a>” (<a href="{{ '/tags/1979' | relative_url }}">1979</a>) (available <a href="http://www.amazon.com/dp/0709174667/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0709174667/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 93 (in Chapter 6) of the Book Club Associates hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -206,10 +206,10 @@ For discussion of the Alex Birch photograph see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-ufos-and-how-to-see-them">UFOs and How to See Them</a>” (<a href="/tags/1992">1992</a>) (available <a href="http://www.amazon.com/dp/0760705496/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0760705496/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 123, 124 (in Chapter 6) of the Brockhampton Press hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-ufos-and-how-to-see-them' | relative_url }}">UFOs and How to See Them</a>” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="http://www.amazon.com/dp/0760705496/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0760705496/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 123, 124 (in Chapter 6) of the Brockhampton Press hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -217,10 +217,10 @@ For discussion of the Alex Birch photograph see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1988">1988</a></p>
+<p><a href="{{ '/tags/1988' | relative_url }}">1988</a></p>
 </td>
 <td valign="top" width="547">
-<p>Shaw, John in “<a href="/ufo-history/ufo-books/spencer-john-and-evans-hilary-phenomenon">Phenomenon</a>“ (<a href="/tags/1988">1988</a>) (edited by <a href="/ufo-history/ufo-personalities/spencer-john">John Spencer</a> and <a href="/ufo-history/ufo-personalities/evans-hilary">Hilary Evans</a>) (available <a href="http://www.amazon.com/dp/0380706547/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380706547/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 218 (Part 3, in the unnumbered chapter entitled “Is a Picture Worth a Thousand Words”) of the MacDonald hardback edition.</p>
+<p>Shaw, John in “<a href="{{ '/ufo-history/ufo-books/spencer-john-and-evans-hilary-phenomenon' | relative_url }}">Phenomenon</a>“ (<a href="{{ '/tags/1988' | relative_url }}">1988</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">John Spencer</a> and <a href="{{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }}">Hilary Evans</a>) (available <a href="http://www.amazon.com/dp/0380706547/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380706547/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 218 (Part 3, in the unnumbered chapter entitled “Is a Picture Worth a Thousand Words”) of the MacDonald hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -228,10 +228,10 @@ For discussion of the Alex Birch photograph see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/spencer-john">Spencer, John</a> in his “<a href="/ufo-history/ufo-books/spencer-john-the-ufo-encyclopedia">The UFO Encyclopedia</a>” (<a href="/tags/1991">1991</a>) (available <a href="http://www.amazon.com/dp/0380768879/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380768879/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 43 (in an entry entitled “Birch, Alex”) of the Guild hardback edition (with the same page numbering in the Avon softcover edition) at page 51 of the Headline paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">Spencer, John</a> in his “<a href="{{ '/ufo-history/ufo-books/spencer-john-the-ufo-encyclopedia' | relative_url }}">The UFO Encyclopedia</a>” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/0380768879/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380768879/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 43 (in an entry entitled “Birch, Alex”) of the Guild hardback edition (with the same page numbering in the Avon softcover edition) at page 51 of the Headline paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -239,10 +239,10 @@ For discussion of the Alex Birch photograph see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/spencer-john">Spencer, John</a> in his “<a href="/ufo-history/ufo-books/spencer-john-ufos-the-definitive-casebook">UFOs: The Definitive Casebook</a>” (<a href="/tags/1991">1991</a>) (available <a href="http://www.amazon.com/dp/B000S52VNG/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000S52VNG/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 93 (in the unnumbered section entitled “Europe”, in the chapter entitled “Database”) of the Hamlyn hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">Spencer, John</a> in his “<a href="{{ '/ufo-history/ufo-books/spencer-john-ufos-the-definitive-casebook' | relative_url }}">UFOs: The Definitive Casebook</a>” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/B000S52VNG/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000S52VNG/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 93 (in the unnumbered section entitled “Europe”, in the chapter entitled “Database”) of the Hamlyn hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -250,10 +250,10 @@ For discussion of the Alex Birch photograph see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/vesco-renato">Vesco, Renato</a> and <a href="/ufo-history/ufo-personalities/childress-david-hatcher">Childress, David Hatcher</a> in their “<a href="/ufo-history/ufo-books/vesco-renato-and-childress-david-hatcher-man-made-ufos-1944-1994-50-years-of-suppression">Man Made UFOs 1944-1994 – 50 Years of Suppression</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/0932813232/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0932813232/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 341 (in Chapter 10) of the AUP softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/vesco-renato' | relative_url }}">Vesco, Renato</a> and <a href="{{ '/ufo-history/ufo-personalities/childress-david-hatcher' | relative_url }}">Childress, David Hatcher</a> in their “<a href="{{ '/ufo-history/ufo-books/vesco-renato-and-childress-david-hatcher-man-made-ufos-1944-1994-50-years-of-suppression' | relative_url }}">Man Made UFOs 1944-1994 – 50 Years of Suppression</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/0932813232/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0932813232/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 341 (in Chapter 10) of the AUP softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -261,10 +261,10 @@ For discussion of the Alex Birch photograph see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/watts-alan">Watts, Alan</a> in his “<a href="/ufo-history/ufo-books/watts-alan-ufo-quest">UFO Quest</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/0713724498/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713724498/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 92-95, 96 (in Chapter 9) of the Blandford softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/watts-alan' | relative_url }}">Watts, Alan</a> in his “<a href="{{ '/ufo-history/ufo-books/watts-alan-ufo-quest' | relative_url }}">UFO Quest</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/0713724498/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713724498/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 92-95, 96 (in Chapter 9) of the Blandford softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>
@@ -272,10 +272,10 @@ For discussion of the Alex Birch photograph see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p>Welfare, Simon and Fairley, John in their “<a href="/ufo-history/ufo-personalities/clarke-arthur-c">Arthur C Clarke</a>’s Mysterious World” (<a href="/tags/1980">1980</a>) (available <a href="http://www.amazon.com/dp/0006363156/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0006363156/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 260 (in Chapter 10) of the Book Club Associates hardback edition.</p>
+<p>Welfare, Simon and Fairley, John in their “<a href="{{ '/ufo-history/ufo-personalities/clarke-arthur-c' | relative_url }}">Arthur C Clarke</a>’s Mysterious World” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) (available <a href="http://www.amazon.com/dp/0006363156/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0006363156/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 260 (in Chapter 10) of the Book Club Associates hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

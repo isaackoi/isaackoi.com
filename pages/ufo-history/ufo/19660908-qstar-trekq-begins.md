@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -67,10 +67,10 @@ For discussion of “Star Trek” see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Achenbach, Joel in his “<a href="/ufo-history/ufo-books/achenbach-joel-captured-by-aliens">Captured by Aliens</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0684848562/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684848562/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 67, 69 (in Chapter 6) of the Simon and Schuster hardback edition.</p>
+<p>Achenbach, Joel in his “<a href="{{ '/ufo-history/ufo-books/achenbach-joel-captured-by-aliens' | relative_url }}">Captured by Aliens</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0684848562/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684848562/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 67, 69 (in Chapter 6) of the Simon and Schuster hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -78,10 +78,10 @@ For discussion of “Star Trek” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/alnor-william-m">Alnor, William M</a> in his “<a href="/ufo-history/ufo-books/alnor-william-m-ufo-in-the-new-age">UFO in the New Age</a>” (<a href="/tags/1992">1992</a>) (available <a href="http://www.amazon.com/dp/0801002265/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0801002265/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 127-130 (in Chapter 7) of the Baker softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/alnor-william-m' | relative_url }}">Alnor, William M</a> in his “<a href="{{ '/ufo-history/ufo-books/alnor-william-m-ufo-in-the-new-age' | relative_url }}">UFO in the New Age</a>” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="http://www.amazon.com/dp/0801002265/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0801002265/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 127-130 (in Chapter 7) of the Baker softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -89,10 +89,10 @@ For discussion of “Star Trek” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1970">1970</a></p>
+<p><a href="{{ '/tags/1970' | relative_url }}">1970</a></p>
 </td>
 <td valign="top" width="547">
-<p>Baxter, John in his “Science Fiction in the Cinema” (<a href="/tags/1970">1970</a>) (available <a href="http://www.amazon.com/dp/0498074161/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0498074161/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 189-191 (in Chapter 15) of the Zwemmer softcover edition.</p>
+<p>Baxter, John in his “Science Fiction in the Cinema” (<a href="{{ '/tags/1970' | relative_url }}">1970</a>) (available <a href="http://www.amazon.com/dp/0498074161/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0498074161/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 189-191 (in Chapter 15) of the Zwemmer softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p> </p>
@@ -100,10 +100,10 @@ For discussion of “Star Trek” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p>Bergreen, Laurence in his “<a href="/ufo-history/ufo-books/bergreen-laurence-the-quest-for-mars">The Quest For Mars</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/0002570300/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0002570300/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 97 (in Chapter 4) of the Harper hardback edition.</p>
+<p>Bergreen, Laurence in his “<a href="{{ '/ufo-history/ufo-books/bergreen-laurence-the-quest-for-mars' | relative_url }}">The Quest For Mars</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/0002570300/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0002570300/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 97 (in Chapter 4) of the Harper hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -111,10 +111,10 @@ For discussion of “Star Trek” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/berry-adrian">Berry, Adrian</a> in his “The Giant Leap” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0312877854/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312877854/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 25 (in Chapter 2) of the revised Headline softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/berry-adrian' | relative_url }}">Berry, Adrian</a> in his “The Giant Leap” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0312877854/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312877854/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 25 (in Chapter 2) of the revised Headline softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -122,10 +122,10 @@ For discussion of “Star Trek” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2004">2004</a></p>
+<p><a href="{{ '/tags/2004' | relative_url }}">2004</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/birnes-william">Birnes, William</a> in his “<a href="/ufo-history/ufo-books/birnes-william-the-ufo-magazine-ufo-encyclopedia">The UFO Magazine UFO Encyclopedia</a>” (<a href="/tags/2004">2004</a>) (available <a href="http://www.amazon.com/dp/0743466748/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743466748/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 295 (in an entry entitled “ ‘Star Trek’ ”) of the Pocket Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/birnes-william' | relative_url }}">Birnes, William</a> in his “<a href="{{ '/ufo-history/ufo-books/birnes-william-the-ufo-magazine-ufo-encyclopedia' | relative_url }}">The UFO Magazine UFO Encyclopedia</a>” (<a href="{{ '/tags/2004' | relative_url }}">2004</a>) (available <a href="http://www.amazon.com/dp/0743466748/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743466748/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 295 (in an entry entitled “ ‘Star Trek’ ”) of the Pocket Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -133,10 +133,10 @@ For discussion of “Star Trek” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1981">1981</a></p>
+<p><a href="{{ '/tags/1981' | relative_url }}">1981</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/bova-ben">Bova, Ben</a> in his “<a href="/ufo-history/ufo-books/bova-ben-the-high-road">The High Road</a>” (<a href="/tags/1981">1981</a>) (available <a href="http://www.amazon.com/dp/0395312884/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0395312884/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 230 (in Chapter 27) of the Houghton Mifflin hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/bova-ben' | relative_url }}">Bova, Ben</a> in his “<a href="{{ '/ufo-history/ufo-books/bova-ben-the-high-road' | relative_url }}">The High Road</a>” (<a href="{{ '/tags/1981' | relative_url }}">1981</a>) (available <a href="http://www.amazon.com/dp/0395312884/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0395312884/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 230 (in Chapter 27) of the Houghton Mifflin hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -144,10 +144,10 @@ For discussion of “Star Trek” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/brookesmith-peter">Brookesmith, Peter</a> in his “<a href="/ufo-history/ufo-books/brookesmith-peter-alien-abductions">Alien Abductions</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0760707642/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0760707642/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 97 (in Chapter 3) of the Barnes &amp; Noble hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/brookesmith-peter' | relative_url }}">Brookesmith, Peter</a> in his “<a href="{{ '/ufo-history/ufo-books/brookesmith-peter-alien-abductions' | relative_url }}">Alien Abductions</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0760707642/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0760707642/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 97 (in Chapter 3) of the Barnes &amp; Noble hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -155,10 +155,10 @@ For discussion of “Star Trek” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/brown-courtney">Brown, Courtney</a> in his “<a href="/ufo-history/ufo-books/brown-courtney-cosmic-voyage">Cosmic Voyage</a>” (<a href="/tags/1996">1996</a>) at pages 138-139, 142-143, 145-146 (in Chapter 17) of the Dutton hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/brown-courtney' | relative_url }}">Brown, Courtney</a> in his “<a href="{{ '/ufo-history/ufo-books/brown-courtney-cosmic-voyage' | relative_url }}">Cosmic Voyage</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) at pages 138-139, 142-143, 145-146 (in Chapter 17) of the Dutton hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>6</p>
@@ -166,10 +166,10 @@ For discussion of “Star Trek” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2002">2002</a></p>
+<p><a href="{{ '/tags/2002' | relative_url }}">2002</a></p>
 </td>
 <td valign="top" width="547">
-<p>Cohen, Jack and Stewart, Ian in their “<a href="/ufo-history/ufo-books/cohen-jack-and-stewart-ian-evolving-the-alien">Evolving the Alien</a>” (<a href="/tags/2002">2002</a>) (available <a href="http://www.amazon.com/dp/0091879272/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0091879272/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 50, 53-54 (in Chapter 3) of the Ebury Press hardback edition.</p>
+<p>Cohen, Jack and Stewart, Ian in their “<a href="{{ '/ufo-history/ufo-books/cohen-jack-and-stewart-ian-evolving-the-alien' | relative_url }}">Evolving the Alien</a>” (<a href="{{ '/tags/2002' | relative_url }}">2002</a>) (available <a href="http://www.amazon.com/dp/0091879272/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0091879272/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 50, 53-54 (in Chapter 3) of the Ebury Press hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -177,10 +177,10 @@ For discussion of “Star Trek” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p>Cousineau, Phil in his “<a href="/ufo-history/ufo-books/cousineau-phil-ufos-a-manual-for-the-millenium">UFOs: A Manual for the Millenium</a>” (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/0062586386/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0062586386/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 208-209 (in Chapter 8) of the Harper Collins paperback edition.</p>
+<p>Cousineau, Phil in his “<a href="{{ '/ufo-history/ufo-books/cousineau-phil-ufos-a-manual-for-the-millenium' | relative_url }}">UFOs: A Manual for the Millenium</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/0062586386/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0062586386/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 208-209 (in Chapter 8) of the Harper Collins paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -188,10 +188,10 @@ For discussion of “Star Trek” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2008">2008</a></p>
+<p><a href="{{ '/tags/2008' | relative_url }}">2008</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/danelek-j-allan">Danelek, J Allan</a> in his “<a href="/ufo-history/ufo-books/danelek-j-allan-ufos-the-great-debate">UFOs : The Great Debate</a>” (<a href="/tags/2008">2008</a>) (available <a href="http://www.amazon.com/dp/073871383X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/073871383X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 158 of the Llewellyn softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/danelek-j-allan' | relative_url }}">Danelek, J Allan</a> in his “<a href="{{ '/ufo-history/ufo-books/danelek-j-allan-ufos-the-great-debate' | relative_url }}">UFOs : The Great Debate</a>” (<a href="{{ '/tags/2008' | relative_url }}">2008</a>) (available <a href="http://www.amazon.com/dp/073871383X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/073871383X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 158 of the Llewellyn softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -199,10 +199,10 @@ For discussion of “Star Trek” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/darling-david">Darling, David</a> in his “<a href="/ufo-history/ufo-books/darling-david-the-extraterrestrial-encyclopedia">The Extraterrestrial Encyclopedia</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/081293248X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/081293248X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 402-403 (in the entry entitled “Star Trek”) of the Three Rivers softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/darling-david' | relative_url }}">Darling, David</a> in his “<a href="{{ '/ufo-history/ufo-books/darling-david-the-extraterrestrial-encyclopedia' | relative_url }}">The Extraterrestrial Encyclopedia</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/081293248X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/081293248X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 402-403 (in the entry entitled “Star Trek”) of the Three Rivers softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -210,10 +210,10 @@ For discussion of “Star Trek” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2003">2003</a></p>
+<p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/darling-david">Darling, David</a> in his online encyclopedia, “The Encyclopedia of Astrobiology, Astronomy and Spaceflight” (<a href="/tags/2003">2003</a>) in the entry entitled “Star Trek”. The relevant entry is available online at:</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/darling-david' | relative_url }}">Darling, David</a> in his online encyclopedia, “The Encyclopedia of Astrobiology, Astronomy and Spaceflight” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) in the entry entitled “Star Trek”. The relevant entry is available online at:</p>
 <p><a href="http://www.daviddarling.info/encyclopedia/S/StarTrek.html">http://www.daviddarling.info/encyclopedia/S/StarTrek.html</a></p>
 </td>
 <td valign="top" width="52">
@@ -222,10 +222,10 @@ For discussion of “Star Trek” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/devereux-paul">Devereux, Paul</a> and <a href="/ufo-history/ufo-personalities/brookesmith-peter">Brookesmith, Peter</a> in their “<a href="/ufo-history/ufo-books/devereux-paul-and-brookesmith-peter-ufos-and-ufology-the-first-50-years">UFOs and Ufology – the first 50 years</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0816038007/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0816038007/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 37 (in Chapter 3) of the Blandford softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/devereux-paul' | relative_url }}">Devereux, Paul</a> and <a href="{{ '/ufo-history/ufo-personalities/brookesmith-peter' | relative_url }}">Brookesmith, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/devereux-paul-and-brookesmith-peter-ufos-and-ufology-the-first-50-years' | relative_url }}">UFOs and Ufology – the first 50 years</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0816038007/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0816038007/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 37 (in Chapter 3) of the Blandford softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -233,10 +233,10 @@ For discussion of “Star Trek” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/dick-steven-j">Dick, Steven J</a> in his “<a href="/ufo-history/ufo-books/dick-steven-j-life-on-other-worlds">Life on Other Worlds</a>“ (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0521620120/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521620120/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 133 (in Chapter 4) of the Cambridge hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dick-steven-j' | relative_url }}">Dick, Steven J</a> in his “<a href="{{ '/ufo-history/ufo-books/dick-steven-j-life-on-other-worlds' | relative_url }}">Life on Other Worlds</a>“ (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0521620120/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521620120/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 133 (in Chapter 4) of the Cambridge hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -244,10 +244,10 @@ For discussion of “Star Trek” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/dick-steven-j">Dick, Steven J</a> in his “<a href="/ufo-history/ufo-books/dick-steven-j-the-biological-universe">The Biological Universe</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/0521343267/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521343267/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 263 (in Chapter 5) of the Cambridge hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dick-steven-j' | relative_url }}">Dick, Steven J</a> in his “<a href="{{ '/ufo-history/ufo-books/dick-steven-j-the-biological-universe' | relative_url }}">The Biological Universe</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/0521343267/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521343267/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 263 (in Chapter 5) of the Cambridge hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -255,10 +255,10 @@ For discussion of “Star Trek” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fowler-raymond-e">Fowler, Raymond E</a> in his “The Watchers II” (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/0926524305/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0926524305/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 185 (in Chapter 11) of the Wild Flower Press hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fowler-raymond-e' | relative_url }}">Fowler, Raymond E</a> in his “The Watchers II” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/0926524305/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0926524305/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 185 (in Chapter 11) of the Wild Flower Press hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -266,10 +266,10 @@ For discussion of “Star Trek” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2007">2007</a></p>
+<p><a href="{{ '/tags/2007' | relative_url }}">2007</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/harris-paola">Harris, Paola</a> in her “<a href="/ufo-history/ufo-books/harris-paola-how-does-one-speak-to-a-ball-of-light">How does one speak to a ball of light?</a>” (<a href="/tags/2007">2007</a>) (available <a href="http://www.amazon.com/dp/1425994024/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1425994024/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 87, 221 (in Section 2) of the Author House softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/harris-paola' | relative_url }}">Harris, Paola</a> in her “<a href="{{ '/ufo-history/ufo-books/harris-paola-how-does-one-speak-to-a-ball-of-light' | relative_url }}">How does one speak to a ball of light?</a>” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (available <a href="http://www.amazon.com/dp/1425994024/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1425994024/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 87, 221 (in Section 2) of the Author House softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -277,10 +277,10 @@ For discussion of “Star Trek” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/jacobs-david-michael">Jacobs, David Michael</a> in his “<a href="/ufo-history/ufo-books/jacobs-david-m-secret-life">Secret Life</a>” (<a href="/tags/1992">1992</a>) (available <a href="http://www.amazon.com/dp/0671748572/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0671748572/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 298 (in Chapter 11) of the Simon &amp; Schuster hardback edition (with the same page numbering in the Fourth Estate hardback edition and in the Virgin paperback edition published under the title “Alien Encounters”).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/jacobs-david-michael' | relative_url }}">Jacobs, David Michael</a> in his “<a href="{{ '/ufo-history/ufo-books/jacobs-david-m-secret-life' | relative_url }}">Secret Life</a>” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="http://www.amazon.com/dp/0671748572/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0671748572/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 298 (in Chapter 11) of the Simon &amp; Schuster hardback edition (with the same page numbering in the Fourth Estate hardback edition and in the Virgin paperback edition published under the title “Alien Encounters”).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -288,10 +288,10 @@ For discussion of “Star Trek” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/jacobs-david-michael">Jacobs, David Michael</a> in his “<a href="/ufo-history/ufo-books/jacobs-david-m-the-threat">The Threat</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0684814846/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684814846/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 41 (in Chapter 2) of the Simon &amp; Schuster hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/jacobs-david-michael' | relative_url }}">Jacobs, David Michael</a> in his “<a href="{{ '/ufo-history/ufo-books/jacobs-david-m-the-threat' | relative_url }}">The Threat</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0684814846/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684814846/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 41 (in Chapter 2) of the Simon &amp; Schuster hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -299,10 +299,10 @@ For discussion of “Star Trek” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Kurland, Michael in his “<a href="/ufo-history/ufo-books/kurland-michael-the-complete-idiots-guide-to-extraterrestrial-intelligence">The Complete Idiot's Guide to Extraterrestrial Intelligence</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0028623878/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0028623878/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 282-283 (in Chapter 27), 297 (in Chapter 28) of the Alpha Books softcover edition.</p>
+<p>Kurland, Michael in his “<a href="{{ '/ufo-history/ufo-books/kurland-michael-the-complete-idiots-guide-to-extraterrestrial-intelligence' | relative_url }}">The Complete Idiot's Guide to Extraterrestrial Intelligence</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0028623878/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0028623878/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 282-283 (in Chapter 27), 297 (in Chapter 28) of the Alpha Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -310,10 +310,10 @@ For discussion of “Star Trek” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p>Mannion, Michael in his “<a href="/ufo-history/ufo-books/mannion-michael-project-mindshift">Project Mindshift</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0871318563/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0871318563/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 200-203 (in Chapter 7) of the Evans hardback edition.</p>
+<p>Mannion, Michael in his “<a href="{{ '/ufo-history/ufo-books/mannion-michael-project-mindshift' | relative_url }}">Project Mindshift</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0871318563/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0871318563/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 200-203 (in Chapter 7) of the Evans hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -321,10 +321,10 @@ For discussion of “Star Trek” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1987">1987</a></p>
+<p><a href="{{ '/tags/1987' | relative_url }}">1987</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/mcdonough-thomas-r">McDonough, Thomas R</a> in his “The Search for Extraterrestrial Intelligence - Listening for Life in the Cosmos” (<a href="/tags/1987">1987</a>) (available <a href="http://www.amazon.com/dp/0471846848/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0471846848/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 47-48 (in Chapter 3) of the Wiley softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/mcdonough-thomas-r' | relative_url }}">McDonough, Thomas R</a> in his “The Search for Extraterrestrial Intelligence - Listening for Life in the Cosmos” (<a href="{{ '/tags/1987' | relative_url }}">1987</a>) (available <a href="http://www.amazon.com/dp/0471846848/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0471846848/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 47-48 (in Chapter 3) of the Wiley softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -332,10 +332,10 @@ For discussion of “Star Trek” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p>Miller, David and Gatiss, Mark in their “<a href="/ufo-history/ufo-books/miller-david-and-gatiss-mark-they-came-from-outer-space-alien-encounters-in-the-movies">They Came From Outer Space : Alien Encounters in the Movies</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/1901018008/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1901018008/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 94-97 of the Visual Imagination softcover edition.</p>
+<p>Miller, David and Gatiss, Mark in their “<a href="{{ '/ufo-history/ufo-books/miller-david-and-gatiss-mark-they-came-from-outer-space-alien-encounters-in-the-movies' | relative_url }}">They Came From Outer Space : Alien Encounters in the Movies</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/1901018008/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1901018008/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 94-97 of the Visual Imagination softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -343,10 +343,10 @@ For discussion of “Star Trek” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2003">2003</a></p>
+<p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/moffitt-john">Moffitt, John</a> in his “<a href="/ufo-history/ufo-books/moffitt-john-picturing-extraterrestrials-alien-images-in-modern-mass-culture">Picturing Extraterrestrials : Alien Images in Modern Mass Culture</a>” (<a href="/tags/2003">2003</a>) (available <a href="http://www.amazon.com/dp/1573929905/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573929905/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 332 of the Prometheus hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/moffitt-john' | relative_url }}">Moffitt, John</a> in his “<a href="{{ '/ufo-history/ufo-books/moffitt-john-picturing-extraterrestrials-alien-images-in-modern-mass-culture' | relative_url }}">Picturing Extraterrestrials : Alien Images in Modern Mass Culture</a>” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) (available <a href="http://www.amazon.com/dp/1573929905/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573929905/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 332 of the Prometheus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -354,10 +354,10 @@ For discussion of “Star Trek” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1977">1977</a></p>
+<p><a href="{{ '/tags/1977' | relative_url }}">1977</a></p>
 </td>
 <td valign="top" width="547">
-<p>Naha, Ed in his “Science Fiction Aliens - Starlog Photo Guidebook” (<a href="/tags/1977">1977</a>) (available <a href="http://www.amazon.com/dp/0931064015/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0931064015/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 78-79, 88-91 (in the unnumbered section entitled “Television Shows”) of the Starlog softcover edition.</p>
+<p>Naha, Ed in his “Science Fiction Aliens - Starlog Photo Guidebook” (<a href="{{ '/tags/1977' | relative_url }}">1977</a>) (available <a href="http://www.amazon.com/dp/0931064015/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0931064015/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 78-79, 88-91 (in the unnumbered section entitled “Television Shows”) of the Starlog softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>6</p>
@@ -365,10 +365,10 @@ For discussion of “Star Trek” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1976">1976</a></p>
+<p><a href="{{ '/tags/1976' | relative_url }}">1976</a></p>
 </td>
 <td valign="top" width="547">
-<p>Nimoy, Leonard in “<a href="/ufo-history/ufo-books/christian-james-l-editor-extra-terrestrial-intelligence-the-first-encounter">Extra-Terrestrial Intelligence : The First Encounter</a>” (<a href="/tags/1976">1976</a>) (edited by James L Christian) (available <a href="http://www.amazon.com/dp/0879750642/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879750642/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 89-93 (in the unnumbered chapter entitled “Conversations with Mr Spock”) of the Prometheus Books softcover edition.</p>
+<p>Nimoy, Leonard in “<a href="{{ '/ufo-history/ufo-books/christian-james-l-editor-extra-terrestrial-intelligence-the-first-encounter' | relative_url }}">Extra-Terrestrial Intelligence : The First Encounter</a>” (<a href="{{ '/tags/1976' | relative_url }}">1976</a>) (edited by James L Christian) (available <a href="http://www.amazon.com/dp/0879750642/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879750642/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 89-93 (in the unnumbered chapter entitled “Conversations with Mr Spock”) of the Prometheus Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>
@@ -376,10 +376,10 @@ For discussion of “Star Trek” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p>Parker, Barry in his “Alien Life” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0306457954/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0306457954/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 49, 51 (in Chapter 4) of the Plenum Trade hardback edition.</p>
+<p>Parker, Barry in his “Alien Life” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0306457954/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0306457954/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 49, 51 (in Chapter 4) of the Plenum Trade hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -387,10 +387,10 @@ For discussion of “Star Trek” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2007">2007</a></p>
+<p><a href="{{ '/tags/2007' | relative_url }}">2007</a></p>
 </td>
 <td valign="top" width="547">
-<p>Porter, Jennifer in “Alien Worlds : Social and Religious Dimensions of Extraterrestrial Contact” (<a href="/tags/2007">2007</a>) (edited by Diana Tumminia) (available <a href="http://www.amazon.com/dp/0815608586/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0815608586/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 217-236 (in Chapter 12) of the Syracuse University Press softcover edition.</p>
+<p>Porter, Jennifer in “Alien Worlds : Social and Religious Dimensions of Extraterrestrial Contact” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (edited by Diana Tumminia) (available <a href="http://www.amazon.com/dp/0815608586/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0815608586/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 217-236 (in Chapter 12) of the Syracuse University Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>20</p>
@@ -398,10 +398,10 @@ For discussion of “Star Trek” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randle-kevin">Randle, Kevin</a> D and <a href="/ufo-history/ufo-personalities/estes-russ">Estes, Russ</a> in their “<a href="/ufo-history/ufo-books/randle-kevin-d-and-estes-russ-faces-of-the-visitors">Faces of the Visitors</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0684839733/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684839733/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 2 (in the Introduction) of the Fireside softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randle-kevin' | relative_url }}">Randle, Kevin</a> D and <a href="{{ '/ufo-history/ufo-personalities/estes-russ' | relative_url }}">Estes, Russ</a> in their “<a href="{{ '/ufo-history/ufo-books/randle-kevin-d-and-estes-russ-faces-of-the-visitors' | relative_url }}">Faces of the Visitors</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0684839733/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684839733/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 2 (in the Introduction) of the Fireside softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -409,10 +409,10 @@ For discussion of “Star Trek” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1988">1988</a></p>
+<p><a href="{{ '/tags/1988' | relative_url }}">1988</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-abduction">Abduction</a>“ (<a href="/tags/1988">1988</a>) (available <a href="http://www.amazon.com/dp/0709032765/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0709032765/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 44-45 (in Chapter 3) of the Hale hardback edition (with the same page numbering in the Headline paperback edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-abduction' | relative_url }}">Abduction</a>“ (<a href="{{ '/tags/1988' | relative_url }}">1988</a>) (available <a href="http://www.amazon.com/dp/0709032765/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0709032765/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 44-45 (in Chapter 3) of the Hale hardback edition (with the same page numbering in the Headline paperback edition).</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -420,10 +420,10 @@ For discussion of “Star Trek” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/rux-bruce">Rux, Bruce</a> in his “<a href="/ufo-history/ufo-books/rux-bruce-hollywood-vs-the-aliens">Hollywood Vs. the Aliens</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1883319617/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1883319617/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 301, 308-323 (in Chapter 6) of the Frog softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/rux-bruce' | relative_url }}">Rux, Bruce</a> in his “<a href="{{ '/ufo-history/ufo-books/rux-bruce-hollywood-vs-the-aliens' | relative_url }}">Hollywood Vs. the Aliens</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1883319617/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1883319617/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 301, 308-323 (in Chapter 6) of the Frog softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>17</p>
@@ -431,10 +431,10 @@ For discussion of “Star Trek” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1979">1979</a></p>
+<p><a href="{{ '/tags/1979' | relative_url }}">1979</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sagan-carl">Sagan, Carl</a> in his “<a href="/ufo-history/ufo-books/sagan-carl-brocas-brain">Broca’s Brain</a>” (<a href="/tags/1979">1979</a>) (available <a href="http://www.amazon.com/dp/0345336895/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0345336895/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 174-175 (in Chapter 9) of the Coronet paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sagan-carl' | relative_url }}">Sagan, Carl</a> in his “<a href="{{ '/ufo-history/ufo-books/sagan-carl-brocas-brain' | relative_url }}">Broca’s Brain</a>” (<a href="{{ '/tags/1979' | relative_url }}">1979</a>) (available <a href="http://www.amazon.com/dp/0345336895/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0345336895/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 174-175 (in Chapter 9) of the Coronet paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -442,10 +442,10 @@ For discussion of “Star Trek” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2004">2004</a></p>
+<p><a href="{{ '/tags/2004' | relative_url }}">2004</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/salla-michael">Salla, Michael</a> in his “<a href="/ufo-history/ufo-books/salla-michael-exopolitics-political-implications-of-the-extraterrestrial-presence">Exopolitics : Political Implications of the Extraterrestrial Presence</a>” (<a href="/tags/2004">2004</a>) (available <a href="http://www.amazon.com/dp/1893302563/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1893302563/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 261 (in Chapter 7) of the Dandelion Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/salla-michael' | relative_url }}">Salla, Michael</a> in his “<a href="{{ '/ufo-history/ufo-books/salla-michael-exopolitics-political-implications-of-the-extraterrestrial-presence' | relative_url }}">Exopolitics : Political Implications of the Extraterrestrial Presence</a>” (<a href="{{ '/tags/2004' | relative_url }}">2004</a>) (available <a href="http://www.amazon.com/dp/1893302563/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1893302563/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 261 (in Chapter 7) of the Dandelion Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -453,10 +453,10 @@ For discussion of “Star Trek” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2005">2005</a></p>
+<p><a href="{{ '/tags/2005' | relative_url }}">2005</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/shermer-michael">Shermer, Michael</a> in his “<a href="/ufo-history/ufo-books/shermer-michael-science-friction-where-the-known-meets-the-unknown">Science Friction : Where the known meets the unknown</a>” (<a href="/tags/2005">2005</a>) (available <a href="http://www.amazon.com/dp/0805077081/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0805077081/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 229-240 (in Chapter 13) of the Times Books hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/shermer-michael' | relative_url }}">Shermer, Michael</a> in his “<a href="{{ '/ufo-history/ufo-books/shermer-michael-science-friction-where-the-known-meets-the-unknown' | relative_url }}">Science Friction : Where the known meets the unknown</a>” (<a href="{{ '/tags/2005' | relative_url }}">2005</a>) (available <a href="http://www.amazon.com/dp/0805077081/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0805077081/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 229-240 (in Chapter 13) of the Times Books hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>12</p>
@@ -464,10 +464,10 @@ For discussion of “Star Trek” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1978">1978</a></p>
+<p><a href="{{ '/tags/1978' | relative_url }}">1978</a></p>
 </td>
 <td valign="top" width="547">
-<p>Siegel, Richard and Suares, Jean-Claude in their “<a href="/ufo-history/ufo-books/siegel-richard-and-suares-jean-claude-alien-creatures">Alien Creatures</a>” (<a href="/tags/1978">1978</a>) (available <a href="http://www.amazon.com/dp/0891695214/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0891695214/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 120, 121, 125 (in Chapter 4), 136, 153 (in Chapter 5) of the Reed softcover edition.</p>
+<p>Siegel, Richard and Suares, Jean-Claude in their “<a href="{{ '/ufo-history/ufo-books/siegel-richard-and-suares-jean-claude-alien-creatures' | relative_url }}">Alien Creatures</a>” (<a href="{{ '/tags/1978' | relative_url }}">1978</a>) (available <a href="http://www.amazon.com/dp/0891695214/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0891695214/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 120, 121, 125 (in Chapter 4), 136, 153 (in Chapter 5) of the Reed softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>
@@ -475,10 +475,10 @@ For discussion of “Star Trek” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/spencer-john">Spencer, John</a> and Spencer, Anne in their “<a href="/ufo-history/ufo-books/spencer-john-fifty-years-of-ufos">Fifty Years of UFOs</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1852839244/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1852839244/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 69 (in the unnumbered chapter entitled “<a href="/tags/1957">1957</a>-<a href="/tags/1967">1967</a>”), 137 (in the unnumbered chapter entitled “<a href="/tags/1987">1987</a>-<a href="/tags/1997">1997</a>”) of the Boxtree hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">Spencer, John</a> and Spencer, Anne in their “<a href="{{ '/ufo-history/ufo-books/spencer-john-fifty-years-of-ufos' | relative_url }}">Fifty Years of UFOs</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1852839244/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1852839244/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 69 (in the unnumbered chapter entitled “<a href="{{ '/tags/1957' | relative_url }}">1957</a>-<a href="{{ '/tags/1967' | relative_url }}">1967</a>”), 137 (in the unnumbered chapter entitled “<a href="{{ '/tags/1987' | relative_url }}">1987</a>-<a href="{{ '/tags/1997' | relative_url }}">1997</a>”) of the Boxtree hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -486,10 +486,10 @@ For discussion of “Star Trek” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/spencer-john">Spencer, John</a> and Spencer, Anne in their “<a href="/ufo-history/ufo-books/spencer-john-true-life-encounters-alien-contact">True Life Encounters – Alien Contact</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1575000237/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1575000237/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 243, 244 (in Chapter 14) of the Millenium paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">Spencer, John</a> and Spencer, Anne in their “<a href="{{ '/ufo-history/ufo-books/spencer-john-true-life-encounters-alien-contact' | relative_url }}">True Life Encounters – Alien Contact</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1575000237/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1575000237/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 243, 244 (in Chapter 14) of the Millenium paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -497,10 +497,10 @@ For discussion of “Star Trek” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1976">1976</a></p>
+<p><a href="{{ '/tags/1976' | relative_url }}">1976</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/steiger-brad">Steiger, Brad</a> in his “<a href="/ufo-history/ufo-books/steiger-brad-gods-of-aquarius">Gods of Aquarius</a>” (<a href="/tags/1976">1976</a>) (available <a href="http://www.amazon.com/dp/015136415X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/015136415X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 164, 168, 171-172 (in Chapter 7) of the Granada paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/steiger-brad' | relative_url }}">Steiger, Brad</a> in his “<a href="{{ '/ufo-history/ufo-books/steiger-brad-gods-of-aquarius' | relative_url }}">Gods of Aquarius</a>” (<a href="{{ '/tags/1976' | relative_url }}">1976</a>) (available <a href="http://www.amazon.com/dp/015136415X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/015136415X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 164, 168, 171-172 (in Chapter 7) of the Granada paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -508,10 +508,10 @@ For discussion of “Star Trek” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2007">2007</a></p>
+<p><a href="{{ '/tags/2007' | relative_url }}">2007</a></p>
 </td>
 <td valign="top" width="547">
-<p>Tumminia, Diana in “Alien Worlds : Social and Religious Dimensions of Extraterrestrial Contact” (<a href="/tags/2007">2007</a>) (edited by Diana Tumminia) (available <a href="http://www.amazon.com/dp/0815608586/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0815608586/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages xxxvii-xxxviii (in the Introduction) of the Syracuse University Press softcover edition.</p>
+<p>Tumminia, Diana in “Alien Worlds : Social and Religious Dimensions of Extraterrestrial Contact” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (edited by Diana Tumminia) (available <a href="http://www.amazon.com/dp/0815608586/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0815608586/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages xxxvii-xxxviii (in the Introduction) of the Syracuse University Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -519,10 +519,10 @@ For discussion of “Star Trek” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p>Wilkinson, David in his “<a href="/ufo-history/ufo-books/wilkinson-david-alone-in-the-universe">Alone in the Universe?</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/083081938X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/083081938X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 22-23 (in Chapter 1), 143, 144 (in Chapter 9) of the Monarch softcover edition.</p>
+<p>Wilkinson, David in his “<a href="{{ '/ufo-history/ufo-books/wilkinson-david-alone-in-the-universe' | relative_url }}">Alone in the Universe?</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/083081938X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/083081938X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 22-23 (in Chapter 1), 143, 144 (in Chapter 9) of the Monarch softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>

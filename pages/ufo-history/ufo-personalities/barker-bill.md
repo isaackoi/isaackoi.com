@@ -13,13 +13,13 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/barker_bill_1.jpg"}
 ---
 
-![barker_bill_1](/images/stories/ufo_personalities/barker_bill_1.jpg)
+![barker_bill_1]({{ '/images/stories/ufo_personalities/barker_bill_1.jpg' | relative_url }})
 
 *Bill Barker*
 
 Brief comments to be added on this individual.
 
-Established the [Schwa Corporation](/ufo-history/ufo-personalities/schwa-corporation) in [1992](/tags/1992).
+Established the [Schwa Corporation]({{ '/ufo-history/ufo-personalities/schwa-corporation' | relative_url }}) in [1992]({{ '/tags/1992' | relative_url }}).
 
 Sections below:
 
@@ -37,7 +37,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-See the entry for the [Schwa Corporation](/ufo-history/ufo-personalities/schwa-corporation).
+See the entry for the [Schwa Corporation]({{ '/ufo-history/ufo-personalities/schwa-corporation' | relative_url }}).
 
 <a id="other"></a>
 ### Other Material

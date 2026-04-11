@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0449908372.jpg"}
 book: {"identifiers": ["0449908372", "0684848562", "0760707642", "0964491702", "0801484685", "0451204247", "1841196134", "0963916122", "1573922447", "0791423301"], "primary_isbn": "0449908372", "cover_image": "/book-covers/0449908372.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Keith Thompson](/ufo-history/ufo-personalities/thompson-keith)'s book “[Angels and Aliens: UFOs and the Mythic Imagination](/ufo-history/ufo-books/thompson-keith-angels-and-aliens-ufos-and-the-mythic-imagination)” ([1991](/tags/1991)) (available [on Amazon USA](http://www.amazon.com/dp/0449908372/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0449908372/?&tag=ufot-21))
+Brief review to be added of [Keith Thompson]({{ '/ufo-history/ufo-personalities/thompson-keith' | relative_url }})'s book “[Angels and Aliens: UFOs and the Mythic Imagination]({{ '/ufo-history/ufo-books/thompson-keith-angels-and-aliens-ufos-and-the-mythic-imagination' | relative_url }})” ([1991]({{ '/tags/1991' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0449908372/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0449908372/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Achenbach, Joel in his “<a href="/ufo-history/ufo-books/achenbach-joel-captured-by-aliens">Captured by Aliens</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0684848562/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684848562/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 386 (in the Notes) of the Simon and Schuster hardback edition.</p>
+<p>Achenbach, Joel in his “<a href="{{ '/ufo-history/ufo-books/achenbach-joel-captured-by-aliens' | relative_url }}">Captured by Aliens</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0684848562/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684848562/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 386 (in the Notes) of the Simon and Schuster hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -65,10 +65,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/brookesmith-peter">Brookesmith, Peter</a> in his “<a href="/ufo-history/ufo-books/brookesmith-peter-alien-abductions">Alien Abductions</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0760707642/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0760707642/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 99 (in Chapter 3) of the Barnes &amp; Noble hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/brookesmith-peter' | relative_url }}">Brookesmith, Peter</a> in his “<a href="{{ '/ufo-history/ufo-books/brookesmith-peter-alien-abductions' | relative_url }}">Alien Abductions</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0760707642/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0760707642/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 99 (in Chapter 3) of the Barnes &amp; Noble hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -76,10 +76,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/bryan-c-d-b">Bryan, C D B</a> in his “<a href="/ufo-history/ufo-books/bryan-c-d-b-close-encounters-of-the-fourth-kind">Close Encounters of the Fourth Kind</a>: Alien Abduction, UFOs, and the Conference at MIT” (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/0964491702/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0964491702/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 416, 420 (in Chapter 20) of the Weidenfeld &amp; Nicolson hardback edition (with the same page numbering in the Knopf hardback edition and the Penguin Arkana softcover edition) at pages 562, 567 of the Orion paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/bryan-c-d-b' | relative_url }}">Bryan, C D B</a> in his “<a href="{{ '/ufo-history/ufo-books/bryan-c-d-b-close-encounters-of-the-fourth-kind' | relative_url }}">Close Encounters of the Fourth Kind</a>: Alien Abduction, UFOs, and the Conference at MIT” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/0964491702/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0964491702/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 416, 420 (in Chapter 20) of the Weidenfeld &amp; Nicolson hardback edition (with the same page numbering in the Knopf hardback edition and the Penguin Arkana softcover edition) at pages 562, 567 of the Orion paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -87,10 +87,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/dean-jodi">Dean, Jodi</a> in her “<a href="/ufo-history/ufo-books/dean-jodi-aliens-in-america">Aliens in America</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0801484685/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0801484685/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 208 (in the Notes) of the Cornell University softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dean-jodi' | relative_url }}">Dean, Jodi</a> in her “<a href="{{ '/ufo-history/ufo-books/dean-jodi-aliens-in-america' | relative_url }}">Aliens in America</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0801484685/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0801484685/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 208 (in the Notes) of the Cornell University softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -98,10 +98,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fitzgerald-randall">Fitzgerald, Randall</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 72 (in an entry entitled “Angels and Aliens”) of the New American Library softcover edition, at page 71 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }}">Fitzgerald, Randall</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 72 (in an entry entitled “Angels and Aliens”) of the New American Library softcover edition, at page 71 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -109,10 +109,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fitzgerald-randall">Fitzgerald, Randall</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 79-80 (in an entry entitled “Angels and Aliens”) of the Robinson softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }}">Fitzgerald, Randall</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 79-80 (in an entry entitled “Angels and Aliens”) of the Robinson softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -120,10 +120,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fitzgerald-randall">Fitzgerald, Randall</a> in his “<a href="/ufo-history/ufo-books/fitzgerald-randall-the-cosmic-test-tube">The Cosmic Test Tube</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0963916122/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963916122/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 175-176 (in Section 2) with a one sentence summary at page 373 (in the Guide To Books) of the Moonlake Media softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }}">Fitzgerald, Randall</a> in his “<a href="{{ '/ufo-history/ufo-books/fitzgerald-randall-the-cosmic-test-tube' | relative_url }}">The Cosmic Test Tube</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0963916122/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963916122/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 175-176 (in Section 2) with a one sentence summary at page 373 (in the Guide To Books) of the Moonlake Media softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -131,10 +131,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/matheson-terry">Matheson, Terry</a> in his “<a href="/ufo-history/ufo-books/matheson-terry-alien-abductions-creating-a-modern-phenomenon">Alien Abductions : Creating a Modern Phenomenon</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/1573922447/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573922447/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 280-282 of the Prometheus hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/matheson-terry' | relative_url }}">Matheson, Terry</a> in his “<a href="{{ '/ufo-history/ufo-books/matheson-terry-alien-abductions-creating-a-modern-phenomenon' | relative_url }}">Alien Abductions : Creating a Modern Phenomenon</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/1573922447/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573922447/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 280-282 of the Prometheus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -142,10 +142,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p>Saliba, John A in “<a href="/ufo-history/ufo-books/lewis-james-ed-the-gods-have-landed-new-religions-from-other-worlds">The Gods Have Landed – New Religions from Other Worlds</a>” (<a href="/tags/1995">1995</a>) (edited by James Lewis) (available <a href="http://www.amazon.com/dp/0791423301/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0791423301/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 211-212 (in Chapter 9) of the Suny softcover edition.</p>
+<p>Saliba, John A in “<a href="{{ '/ufo-history/ufo-books/lewis-james-ed-the-gods-have-landed-new-religions-from-other-worlds' | relative_url }}">The Gods Have Landed – New Religions from Other Worlds</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (edited by James Lewis) (available <a href="http://www.amazon.com/dp/0791423301/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0791423301/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 211-212 (in Chapter 9) of the Suny softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

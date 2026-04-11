@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/thouless_robert_1.gif"}
 ---
 
-![thouless_robert_1](/images/stories/ufo_personalities/thouless_robert_1.gif)
+![thouless_robert_1]({{ '/images/stories/ufo_personalities/thouless_robert_1.gif' | relative_url }})
 
 *Robert H Thouless*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1963">1963</a></p>
+<p><a href="{{ '/tags/1963' | relative_url }}">1963</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/thouless-robert-h">Thouless, Robert H</a> “Experimental Psychical Research”</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/thouless-robert-h' | relative_url }}">Thouless, Robert H</a> “Experimental Psychical Research”</p>
 </td>
 </tr>
 </tbody>
@@ -59,7 +59,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-Discussed by [Randi, James](/ufo-history/ufo-personalities/randi-james) in his “[The Supernatural A-Z: The Truth and the Lies](/ufo-history/ufo-books/randi-james-the-supernatural-a-z-the-truth-and-the-lies)” ([1995](/tags/1995)) (available [on Amazon USA](http://www.amazon.com/dp/1860197949/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1860197949/ref=nosim?tag=ufot-21)) at pages 309-311 (in the entry entitled “[Thouless, Robert H](/ufo-history/ufo-personalities/thouless-robert-h)enry”) of the Brockhampton Press hardback edition.
+Discussed by [Randi, James]({{ '/ufo-history/ufo-personalities/randi-james' | relative_url }}) in his “[The Supernatural A-Z: The Truth and the Lies]({{ '/ufo-history/ufo-books/randi-james-the-supernatural-a-z-the-truth-and-the-lies' | relative_url }})” ([1995]({{ '/tags/1995' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1860197949/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1860197949/ref=nosim?tag=ufot-21)) at pages 309-311 (in the entry entitled “[Thouless, Robert H]({{ '/ufo-history/ufo-personalities/thouless-robert-h' | relative_url }})enry”) of the Brockhampton Press hardback edition.
 
 <a id="other"></a>
 ### Other Material

@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/mantle_philip_2.jpg"}
 ---
 
-![mantle_philip_2](/images/stories/ufo_personalities/mantle_philip_2.jpg)
+![mantle_philip_2]({{ '/images/stories/ufo_personalities/mantle_philip_2.jpg' | relative_url }})
 
 *Philip Mantle*
 
@@ -36,18 +36,18 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/mantle-philip">Mantle, Philip</a> and Nagaitis, Carl “<a href="/ufo-history/ufo-books/mantle-philip-and-nagaitis-carl-without-consent">Without Consent</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/156924720X/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/156924720X/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/mantle-philip' | relative_url }}">Mantle, Philip</a> and Nagaitis, Carl “<a href="{{ '/ufo-history/ufo-books/mantle-philip-and-nagaitis-carl-without-consent' | relative_url }}">Without Consent</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/156924720X/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/156924720X/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/hesemann-michael">Hesemann, Michael</a> and <a href="/ufo-history/ufo-personalities/mantle-philip">Mantle, Philip</a> “<a href="/ufo-history/ufo-books/hesemann-michael-and-mantle-philip-beyond-roswell">Beyond Roswell</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1569247811/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1569247811/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hesemann-michael' | relative_url }}">Hesemann, Michael</a> and <a href="{{ '/ufo-history/ufo-personalities/mantle-philip' | relative_url }}">Mantle, Philip</a> “<a href="{{ '/ufo-history/ufo-books/hesemann-michael-and-mantle-philip-beyond-roswell' | relative_url }}">Beyond Roswell</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1569247811/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1569247811/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>

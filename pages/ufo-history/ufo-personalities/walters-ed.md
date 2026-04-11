@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/walters_ed_1.gif"}
 ---
 
-![walters_ed_1](/images/stories/ufo_personalities/walters_ed_1.gif)
+![walters_ed_1]({{ '/images/stories/ufo_personalities/walters_ed_1.gif' | relative_url }})
 
 *Ed Walters*
 
@@ -36,18 +36,18 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/walters-ed">Walters, Ed</a> and Walters, Francis “The Gulf Breeze Sightings”</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/walters-ed' | relative_url }}">Walters, Ed</a> and Walters, Francis “The Gulf Breeze Sightings”</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/walters-ed">Walters, Ed</a> and <a href="/ufo-history/ufo-personalities/maccabee-bruce">Maccabee, Bruce</a> “UFOs are Real – Here’s the proof”</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/walters-ed' | relative_url }}">Walters, Ed</a> and <a href="{{ '/ufo-history/ufo-personalities/maccabee-bruce' | relative_url }}">Maccabee, Bruce</a> “UFOs are Real – Here’s the proof”</p>
 </td>
 </tr>
 </tbody>
@@ -67,7 +67,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-See the references provided in [the entry on the Gulf Breeze sightings](/ufo-history/ufo/19871111-gulf-breeze-encounter).
+See the references provided in [the entry on the Gulf Breeze sightings]({{ '/ufo-history/ufo/19871111-gulf-breeze-encounter' | relative_url }}).
 
 <a id="other"></a>
 ### Other Material

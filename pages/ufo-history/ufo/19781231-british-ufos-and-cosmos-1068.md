@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/britain_1.gif"}
 ---
 
-![britain_1](/images/stories/ufo_tags/britain_1.gif)
+![britain_1]({{ '/images/stories/ufo_tags/britain_1.gif' | relative_url }})
 
 *British UFOs and Cosmos 1068*
 
@@ -63,10 +63,10 @@ For discussion of the UFO sightings on this night see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p>Blundell, Nigel and Boar, Roger in “<a href="/ufo-history/ufo-books/cawthorne-nigel-the-worlds-greatest-alien-abduction-mysteries">The World’s Greatest Alien Abduction Mysteries</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/0753704250/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0753704250/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 286 (in the chapter entitled “Encounters of the Worlwide Kind”) of the Chancellor Press softcover edition.</p>
+<p>Blundell, Nigel and Boar, Roger in “<a href="{{ '/ufo-history/ufo-books/cawthorne-nigel-the-worlds-greatest-alien-abduction-mysteries' | relative_url }}">The World’s Greatest Alien Abduction Mysteries</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/0753704250/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0753704250/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 286 (in the chapter entitled “Encounters of the Worlwide Kind”) of the Chancellor Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -74,10 +74,10 @@ For discussion of the UFO sightings on this night see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1986">1986</a></p>
+<p><a href="{{ '/tags/1986' | relative_url }}">1986</a></p>
 </td>
 <td valign="top" width="547">
-<p>Blundell, Nigel and Boar, Roger in their “<a href="/ufo-history/ufo-books/blundell-nigel-and-boar-roger-the-worlds-greatest-ufo-mysteries">The World’s Greatest UFO Mysteries</a>” (<a href="/tags/1986">1986</a>) (available <a href="http://www.amazon.com/dp/0600572293/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0600572293/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 35 (in the chapter entitled “Encounters of the Worlwide Kind”) of the Octopus hardback edition (with the same page numbering in the Hamlyn softcover edition).</p>
+<p>Blundell, Nigel and Boar, Roger in their “<a href="{{ '/ufo-history/ufo-books/blundell-nigel-and-boar-roger-the-worlds-greatest-ufo-mysteries' | relative_url }}">The World’s Greatest UFO Mysteries</a>” (<a href="{{ '/tags/1986' | relative_url }}">1986</a>) (available <a href="http://www.amazon.com/dp/0600572293/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0600572293/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 35 (in the chapter entitled “Encounters of the Worlwide Kind”) of the Octopus hardback edition (with the same page numbering in the Hamlyn softcover edition).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -85,10 +85,10 @@ For discussion of the UFO sightings on this night see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2007">2007</a></p>
+<p><a href="{{ '/tags/2007' | relative_url }}">2007</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clarke-david">Clarke, David</a> and <a href="/ufo-history/ufo-personalities/roberts-andy">Roberts, Andy</a> in their “<a href="/ufo-history/ufo-books/clarke-david-and-roberts-andy-flying-saucerers">Flying Saucerers : A social history of UFOlogy</a>” (<a href="/tags/2007">2007</a>) (available <a href="http://www.amazon.com/dp/1905646003/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1905646003/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 205 (in Chapter 12) of the Alternative Albion softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clarke-david' | relative_url }}">Clarke, David</a> and <a href="{{ '/ufo-history/ufo-personalities/roberts-andy' | relative_url }}">Roberts, Andy</a> in their “<a href="{{ '/ufo-history/ufo-books/clarke-david-and-roberts-andy-flying-saucerers' | relative_url }}">Flying Saucerers : A social history of UFOlogy</a>” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (available <a href="http://www.amazon.com/dp/1905646003/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1905646003/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 205 (in Chapter 12) of the Alternative Albion softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -96,10 +96,10 @@ For discussion of the UFO sightings on this night see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2009">2009</a></p>
+<p><a href="{{ '/tags/2009' | relative_url }}">2009</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clarke-david">Clarke, David</a> in his “<a href="/ufo-history/ufo-books/clarke-david-the-ufo-files-the-inside-story-of-real-life-sightings">The UFO Files : The Inside Story of Real-Life Sightings</a>” (<a href="/tags/2009">2009</a>) (available <a href="http://www.amazon.com/dp/1905615507/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1905615507/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 95-96 (in Chapter 4) of the National Archives softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clarke-david' | relative_url }}">Clarke, David</a> in his “<a href="{{ '/ufo-history/ufo-books/clarke-david-the-ufo-files-the-inside-story-of-real-life-sightings' | relative_url }}">The UFO Files : The Inside Story of Real-Life Sightings</a>” (<a href="{{ '/tags/2009' | relative_url }}">2009</a>) (available <a href="http://www.amazon.com/dp/1905615507/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1905615507/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 95-96 (in Chapter 4) of the National Archives softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -107,10 +107,10 @@ For discussion of the UFO sightings on this night see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fuller-paul">Fuller, Paul</a> and <a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in “Circles From The Sky” (<a href="/tags/1991">1991</a>) (edited by Terence Meaden) (available <a href="http://www.amazon.com/dp/0285630369/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0285630369/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 100 (in the unnumbered chapter entitled “<a href="http://isaackoi.com/tags/crop-circles.html">Crop Circles:</a> A scientific answer to the UFO mystery”) of the Greenhaven Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fuller-paul' | relative_url }}">Fuller, Paul</a> and <a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in “Circles From The Sky” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (edited by Terence Meaden) (available <a href="http://www.amazon.com/dp/0285630369/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0285630369/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 100 (in the unnumbered chapter entitled “<a href="http://isaackoi.com/tags/crop-circles.html">Crop Circles:</a> A scientific answer to the UFO mystery”) of the Greenhaven Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -118,10 +118,10 @@ For discussion of the UFO sightings on this night see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1979">1979</a></p>
+<p><a href="{{ '/tags/1979' | relative_url }}">1979</a></p>
 </td>
 <td valign="top" width="547">
-<p>Gaindford, Lord in <a href="/ufo-history/ufo-books/michell-john-the-house-of-lords-ufo-debate">The House of Lords UFO Debate</a> (<a href="/tags/1979">1979</a>.0118) at column 1287 in Hansard, House of Lords Fifth Series, Volume 397, debate section. Complete text of debate presented in “UFOs in the House of Lords – <a href="/tags/1979">1979</a>” (<a href="/tags/2000">2000</a>) (series editor Tim Coates) (available <a href="http://www.amazon.com/dp/0117024139/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0117024139/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 1-128 of the TSO Publishing paperback edition, with the relevant text appearing at pages 78-79. Complete text of debate, with notes, presented by <a href="/ufo-history/ufo-personalities/michell-john">Michell, John</a> in his “House of Lords UFO Debate” (<a href="/tags/1979">1979</a>) at pages 11-115 of the Pentacle softcover edition, with the relevant text appearing at pages 74-75.</p>
+<p>Gaindford, Lord in <a href="{{ '/ufo-history/ufo-books/michell-john-the-house-of-lords-ufo-debate' | relative_url }}">The House of Lords UFO Debate</a> (<a href="{{ '/tags/1979' | relative_url }}">1979</a>.0118) at column 1287 in Hansard, House of Lords Fifth Series, Volume 397, debate section. Complete text of debate presented in “UFOs in the House of Lords – <a href="{{ '/tags/1979' | relative_url }}">1979</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (series editor Tim Coates) (available <a href="http://www.amazon.com/dp/0117024139/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0117024139/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 1-128 of the TSO Publishing paperback edition, with the relevant text appearing at pages 78-79. Complete text of debate, with notes, presented by <a href="{{ '/ufo-history/ufo-personalities/michell-john' | relative_url }}">Michell, John</a> in his “House of Lords UFO Debate” (<a href="{{ '/tags/1979' | relative_url }}">1979</a>) at pages 11-115 of the Pentacle softcover edition, with the relevant text appearing at pages 74-75.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -129,10 +129,10 @@ For discussion of the UFO sightings on this night see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1985">1985</a></p>
+<p><a href="{{ '/tags/1985' | relative_url }}">1985</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> and <a href="/ufo-history/ufo-personalities/warrington-peter">Warrington, Peter</a> in their “<a href="/ufo-history/ufo-books/randles-jenny-and-warrington-peter-science-and-the-ufos">Science and the UFOs</a> " (<a href="/tags/1985">1985</a>) (available <a href="http://www.amazon.com/dp/0631135634/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0631135634/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 17 (in Chapter 2) of the Blackwell hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> and <a href="{{ '/ufo-history/ufo-personalities/warrington-peter' | relative_url }}">Warrington, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-warrington-peter-science-and-the-ufos' | relative_url }}">Science and the UFOs</a> " (<a href="{{ '/tags/1985' | relative_url }}">1985</a>) (available <a href="http://www.amazon.com/dp/0631135634/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0631135634/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 17 (in Chapter 2) of the Blackwell hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -140,10 +140,10 @@ For discussion of the UFO sightings on this night see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-something-in-the-air">Something in the Air</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0709059744/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0709059744/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 15 (in Chapter 1) of the Hale hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-something-in-the-air' | relative_url }}">Something in the Air</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0709059744/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0709059744/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 15 (in Chapter 1) of the Hale hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -151,10 +151,10 @@ For discussion of the UFO sightings on this night see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1981">1981</a></p>
+<p><a href="{{ '/tags/1981' | relative_url }}">1981</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-ufo-study">UFO Study</a>” (<a href="/tags/1981">1981</a>) (available <a href="http://www.amazon.com/dp/0709188641/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0709188641/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 78, 80 (in Chapter 6) of the Hale hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-ufo-study' | relative_url }}">UFO Study</a>” (<a href="{{ '/tags/1981' | relative_url }}">1981</a>) (available <a href="http://www.amazon.com/dp/0709188641/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0709188641/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 78, 80 (in Chapter 6) of the Hale hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -162,10 +162,10 @@ For discussion of the UFO sightings on this night see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1979">1979</a></p>
+<p><a href="{{ '/tags/1979' | relative_url }}">1979</a></p>
 </td>
 <td valign="top" width="547">
-<p>Strabolgi, Lord in <a href="/ufo-history/ufo-books/michell-john-the-house-of-lords-ufo-debate">The House of Lords UFO Debate</a> (<a href="/tags/1979">1979</a>.0118) at column 1311 in Hansard, House of Lords Fifth Series, Volume 397, debate section. Complete text of debate presented in “UFOs in the House of Lords – <a href="/tags/1979">1979</a>” (<a href="/tags/2000">2000</a>) (series editor Tim Coates) (available <a href="http://www.amazon.com/dp/0117024139/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0117024139/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 1-128 of the TSO Publishing paperback edition, with the relevant text appearing at page 121. Complete text of debate, with notes, presented by <a href="/ufo-history/ufo-personalities/michell-john">Michell, John</a> in his “House of Lords UFO Debate” (<a href="/tags/1979">1979</a>) at pages 11-115 of the Pentacle softcover edition, with the relevant text appearing at page 109.</p>
+<p>Strabolgi, Lord in <a href="{{ '/ufo-history/ufo-books/michell-john-the-house-of-lords-ufo-debate' | relative_url }}">The House of Lords UFO Debate</a> (<a href="{{ '/tags/1979' | relative_url }}">1979</a>.0118) at column 1311 in Hansard, House of Lords Fifth Series, Volume 397, debate section. Complete text of debate presented in “UFOs in the House of Lords – <a href="{{ '/tags/1979' | relative_url }}">1979</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (series editor Tim Coates) (available <a href="http://www.amazon.com/dp/0117024139/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0117024139/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 1-128 of the TSO Publishing paperback edition, with the relevant text appearing at page 121. Complete text of debate, with notes, presented by <a href="{{ '/ufo-history/ufo-personalities/michell-john' | relative_url }}">Michell, John</a> in his “House of Lords UFO Debate” (<a href="{{ '/tags/1979' | relative_url }}">1979</a>) at pages 11-115 of the Pentacle softcover edition, with the relevant text appearing at page 109.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -173,10 +173,10 @@ For discussion of the UFO sightings on this night see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p>Welfare, Simon and Fairley, John in their “<a href="/ufo-history/ufo-personalities/clarke-arthur-c">Arthur C Clarke</a>’s Mysterious World” (<a href="/tags/1980">1980</a>) (available <a href="http://www.amazon.com/dp/0006363156/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0006363156/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 261 (in Chapter 10) of the Book Club Associates hardback edition.</p>
+<p>Welfare, Simon and Fairley, John in their “<a href="{{ '/ufo-history/ufo-personalities/clarke-arthur-c' | relative_url }}">Arthur C Clarke</a>’s Mysterious World” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) (available <a href="http://www.amazon.com/dp/0006363156/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0006363156/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 261 (in Chapter 10) of the Book Club Associates hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

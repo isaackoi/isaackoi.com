@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/nasa_1.jpg"}
 ---
 
-![nasa_1](/images/stories/ufo_tags/nasa_1.jpg)
+![nasa_1]({{ '/images/stories/ufo_tags/nasa_1.jpg' | relative_url }})
 
 *Extra-Terrestrial Exposure Law*
 
@@ -79,10 +79,10 @@ For discussion of the so-called “ET exposure law” see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1993">1993</a></p>
+<p><a href="{{ '/tags/1993' | relative_url }}">1993</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/andrews-george-c">Andrews, George C</a> in his “Extra-Terrestrial Friends and Foes” (<a href="/tags/1993">1993</a>) (available <a href="http://www.amazon.com/dp/0962653489/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0962653489/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 254-255 (in Chapter 11) of the Illuminet Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/andrews-george-c' | relative_url }}">Andrews, George C</a> in his “Extra-Terrestrial Friends and Foes” (<a href="{{ '/tags/1993' | relative_url }}">1993</a>) (available <a href="http://www.amazon.com/dp/0962653489/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0962653489/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 254-255 (in Chapter 11) of the Illuminet Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -90,10 +90,10 @@ For discussion of the so-called “ET exposure law” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1986">1986</a></p>
+<p><a href="{{ '/tags/1986' | relative_url }}">1986</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/andrews-george-c">Andrews, George C</a> in his “<a href="/ufo-history/ufo-books/andrews-george-c-extra-terrestrials-among-us">Extra-Terrestrials Among Us</a>” (<a href="/tags/1986">1986</a>) (available <a href="http://www.amazon.com/dp/087542001X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/087542001X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 24-32 (in Chapter 1) of the Llewellyn softcover edition, at pages 28-37 of the Llewellyn paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/andrews-george-c' | relative_url }}">Andrews, George C</a> in his “<a href="{{ '/ufo-history/ufo-books/andrews-george-c-extra-terrestrials-among-us' | relative_url }}">Extra-Terrestrials Among Us</a>” (<a href="{{ '/tags/1986' | relative_url }}">1986</a>) (available <a href="http://www.amazon.com/dp/087542001X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/087542001X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 24-32 (in Chapter 1) of the Llewellyn softcover edition, at pages 28-37 of the Llewellyn paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>9</p>
@@ -101,10 +101,10 @@ For discussion of the so-called “ET exposure law” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/baker-alan">Baker, Alan</a> in his “Destination Earth” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0713727195/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713727195/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 180-183 (in Chapter 9) of the Blandford softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/baker-alan' | relative_url }}">Baker, Alan</a> in his “Destination Earth” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0713727195/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713727195/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 180-183 (in Chapter 9) of the Blandford softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -112,10 +112,10 @@ For discussion of the so-called “ET exposure law” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/baker-alan">Baker, Alan</a> in his “Sci-Fi Channel: True Life Encounters: UFO Sightings” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1575000229/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1575000229/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 166-171 (in Chapter 5) of the Orion softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/baker-alan' | relative_url }}">Baker, Alan</a> in his “Sci-Fi Channel: True Life Encounters: UFO Sightings” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1575000229/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1575000229/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 166-171 (in Chapter 5) of the Orion softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>6</p>
@@ -123,10 +123,10 @@ For discussion of the so-called “ET exposure law” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2004">2004</a></p>
+<p><a href="{{ '/tags/2004' | relative_url }}">2004</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/birnes-william">Birnes, William</a> in his “<a href="/ufo-history/ufo-books/birnes-william-the-ufo-magazine-ufo-encyclopedia">The UFO Magazine UFO Encyclopedia</a>” (<a href="/tags/2004">2004</a>) (available <a href="http://www.amazon.com/dp/0743466748/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743466748/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 123 (in an entry entitled “ ‘ET Exposure Law’ ”) of the Pocket Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/birnes-william' | relative_url }}">Birnes, William</a> in his “<a href="{{ '/ufo-history/ufo-books/birnes-william-the-ufo-magazine-ufo-encyclopedia' | relative_url }}">The UFO Magazine UFO Encyclopedia</a>” (<a href="{{ '/tags/2004' | relative_url }}">2004</a>) (available <a href="http://www.amazon.com/dp/0743466748/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743466748/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 123 (in an entry entitled “ ‘ET Exposure Law’ ”) of the Pocket Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -134,10 +134,10 @@ For discussion of the so-called “ET exposure law” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Coomer, David in his “<a href="/ufo-history/ufo-books/coomer-david-the-ufo-investigators-guide">The UFO Investigator’s Guide</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0713727829/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713727829/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 87-89 (in Chapter 6) of the Blandford softback edition.</p>
+<p>Coomer, David in his “<a href="{{ '/ufo-history/ufo-books/coomer-david-the-ufo-investigators-guide' | relative_url }}">The UFO Investigator’s Guide</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0713727829/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713727829/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 87-89 (in Chapter 6) of the Blandford softback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -145,10 +145,10 @@ For discussion of the so-called “ET exposure law” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fawcett-george">Fawcett, George</a> and <a href="/ufo-history/ufo-personalities/greenwood-barry">Greenwood, Barry</a> in their “<a href="/ufo-history/ufo-books/fawcett-george-and-greenwood-barry-clear-intent">Clear Intent</a>” (<a href="/tags/1984">1984</a>) (available <a href="http://www.amazon.com/dp/0131366491/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0131366491/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 214 (in Chapter 14) of the Spectrum softcover edition (with the same page numbering in the Fireside softcover edition published under the title “The UFO Cover-Up”).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fawcett-george' | relative_url }}">Fawcett, George</a> and <a href="{{ '/ufo-history/ufo-personalities/greenwood-barry' | relative_url }}">Greenwood, Barry</a> in their “<a href="{{ '/ufo-history/ufo-books/fawcett-george-and-greenwood-barry-clear-intent' | relative_url }}">Clear Intent</a>” (<a href="{{ '/tags/1984' | relative_url }}">1984</a>) (available <a href="http://www.amazon.com/dp/0131366491/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0131366491/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 214 (in Chapter 14) of the Spectrum softcover edition (with the same page numbering in the Fireside softcover edition published under the title “The UFO Cover-Up”).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -156,10 +156,10 @@ For discussion of the so-called “ET exposure law” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/hansen-terry">Hansen, Terry</a> in his “<a href="/ufo-history/ufo-books/hansen-terry-the-missing-times-news-media-complicity-in-the-ufo-cover-up">The Missing Times : News Media Complicity in the UFO Cover-Up</a> : News Media Complicity in the UFO Cover -Up” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/0738836125/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0738836125/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 204 (in Chapter 5) of the Xlibris softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hansen-terry' | relative_url }}">Hansen, Terry</a> in his “<a href="{{ '/ufo-history/ufo-books/hansen-terry-the-missing-times-news-media-complicity-in-the-ufo-cover-up' | relative_url }}">The Missing Times : News Media Complicity in the UFO Cover-Up</a> : News Media Complicity in the UFO Cover -Up” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/0738836125/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0738836125/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 204 (in Chapter 5) of the Xlibris softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -167,10 +167,10 @@ For discussion of the so-called “ET exposure law” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p>Kerner, Nigel in his “The Song of the Greys” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/034069582X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/034069582X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 18-19 (in Chapter 1) of the NEL paperback edition.</p>
+<p>Kerner, Nigel in his “The Song of the Greys” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/034069582X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/034069582X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 18-19 (in Chapter 1) of the NEL paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -178,10 +178,10 @@ For discussion of the so-called “ET exposure law” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Morris, Peter J in his “Aliens Amongst Us: A Beginner’s Guide” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0340758333/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0340758333/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 1 (in the Introduction) of the Hodder &amp; Stoughton softcover edition.</p>
+<p>Morris, Peter J in his “Aliens Amongst Us: A Beginner’s Guide” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0340758333/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0340758333/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 1 (in the Introduction) of the Hodder &amp; Stoughton softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -189,10 +189,10 @@ For discussion of the so-called “ET exposure law” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p>Ritchie, David in his “<a href="/ufo-history/ufo-books/ritchie-david-ufo-the-definitive-guide">UFO : The Definitive Guide</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/1567312004/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1567312004/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 71-72 (in an entry entitled “E.T. law”) of the MJF hardback edition.</p>
+<p>Ritchie, David in his “<a href="{{ '/ufo-history/ufo-books/ritchie-david-ufo-the-definitive-guide' | relative_url }}">UFO : The Definitive Guide</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/1567312004/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1567312004/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 71-72 (in an entry entitled “E.T. law”) of the MJF hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -200,10 +200,10 @@ For discussion of the so-called “ET exposure law” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1989">1989</a></p>
+<p><a href="{{ '/tags/1989' | relative_url }}">1989</a></p>
 </td>
 <td valign="top" width="547">
-<p>Schellhorn, G Cope in his “<a href="/ufo-history/ufo-books/schellhorn-g-cope-extraterrestrials-in-biblical-prophecy">Extraterrestrials in Biblical Prophecy</a>” (<a href="/tags/1989">1989</a>) (available <a href="http://www.amazon.com/dp/1881852024/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1881852024/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 351-352 (in Chapter 17) of the Horus softcover edition.</p>
+<p>Schellhorn, G Cope in his “<a href="{{ '/ufo-history/ufo-books/schellhorn-g-cope-extraterrestrials-in-biblical-prophecy' | relative_url }}">Extraterrestrials in Biblical Prophecy</a>” (<a href="{{ '/tags/1989' | relative_url }}">1989</a>) (available <a href="http://www.amazon.com/dp/1881852024/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1881852024/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 351-352 (in Chapter 17) of the Horus softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -211,10 +211,10 @@ For discussion of the so-called “ET exposure law” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p>Smith, Angela Thompson in her “Diary Of An Abduction” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/1571742018/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1571742018/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 232-233 (in Chapter 13), 316 (in Chapter 17) of the Hampton Roads softcover edition.</p>
+<p>Smith, Angela Thompson in her “Diary Of An Abduction” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/1571742018/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1571742018/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 232-233 (in Chapter 13), 316 (in Chapter 17) of the Hampton Roads softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -222,10 +222,10 @@ For discussion of the so-called “ET exposure law” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/spencer-john">Spencer, John</a> and Spencer, Anne in their “<a href="/ufo-history/ufo-books/spencer-john-true-life-encounters-alien-contact">True Life Encounters – Alien Contact</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1575000237/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1575000237/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 296-297 (in the Conclusion) of the Millenium paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">Spencer, John</a> and Spencer, Anne in their “<a href="{{ '/ufo-history/ufo-books/spencer-john-true-life-encounters-alien-contact' | relative_url }}">True Life Encounters – Alien Contact</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1575000237/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1575000237/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 296-297 (in the Conclusion) of the Millenium paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -233,10 +233,10 @@ For discussion of the so-called “ET exposure law” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p>Wright, Susan in her “<a href="/ufo-history/ufo-books/wright-susan-ufo-headquarters">UFO Headquarters</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0312193475/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312193475/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 58-60 (in Chapter 3) of the St Martin’s Press softcover edition.</p>
+<p>Wright, Susan in her “<a href="{{ '/ufo-history/ufo-books/wright-susan-ufo-headquarters' | relative_url }}">UFO Headquarters</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0312193475/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312193475/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 58-60 (in Chapter 3) of the St Martin’s Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>

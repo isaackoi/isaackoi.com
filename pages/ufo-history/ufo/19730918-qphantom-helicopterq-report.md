@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/britain_1.gif"}
 ---
 
-![britain_1](/images/stories/ufo_tags/britain_1.gif)
+![britain_1]({{ '/images/stories/ufo_tags/britain_1.gif' | relative_url }})
 
 *"Phantom helicopter" report*
 
@@ -71,10 +71,10 @@ For discussion of the Harpur Hill phantom helicopter see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clarke-david">Clarke, David</a> and <a href="/ufo-history/ufo-personalities/roberts-andy">Roberts, Andy</a> in their “<a href="/ufo-history/ufo-books/clarke-david-and-roberts-andy-phantoms-of-the-sky">Phantoms of the Sky</a>: UFOs – A Modern Myth?” (<a href="/tags/1990">1990</a>) (available <a href="http://www.amazon.com/dp/0709040865/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0709040865/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 55-64 (in Chapter 2) of the Hale hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clarke-david' | relative_url }}">Clarke, David</a> and <a href="{{ '/ufo-history/ufo-personalities/roberts-andy' | relative_url }}">Roberts, Andy</a> in their “<a href="{{ '/ufo-history/ufo-books/clarke-david-and-roberts-andy-phantoms-of-the-sky' | relative_url }}">Phantoms of the Sky</a>: UFOs – A Modern Myth?” (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) (available <a href="http://www.amazon.com/dp/0709040865/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0709040865/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 55-64 (in Chapter 2) of the Hale hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>10</p>
@@ -82,10 +82,10 @@ For discussion of the Harpur Hill phantom helicopter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1979">1979</a></p>
+<p><a href="{{ '/tags/1979' | relative_url }}">1979</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> and <a href="/ufo-history/ufo-personalities/warrington-peter">Warrington, Peter</a> in their “<a href="/ufo-history/ufo-books/randles-jenny-and-warrington-peter-ufos-a-british-viewpoint">UFOs : A British Viewpoint</a>” (<a href="/tags/1979">1979</a>) (available <a href="http://www.amazon.com/dp/0709174667/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0709174667/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 64-66 (in Chapter 3) of the Book Club Associates hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> and <a href="{{ '/ufo-history/ufo-personalities/warrington-peter' | relative_url }}">Warrington, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-warrington-peter-ufos-a-british-viewpoint' | relative_url }}">UFOs : A British Viewpoint</a>” (<a href="{{ '/tags/1979' | relative_url }}">1979</a>) (available <a href="http://www.amazon.com/dp/0709174667/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0709174667/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 64-66 (in Chapter 3) of the Book Club Associates hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -93,10 +93,10 @@ For discussion of the Harpur Hill phantom helicopter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/redfern-nicholas">Redfern, Nicholas</a> in his “<a href="/ufo-history/ufo-books/redfern-nicholas-a-covert-agenda">A Covert Agenda</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0671005324/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0671005324/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 115 (in Chapter 9) of the Simon &amp; Schuster hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/redfern-nicholas' | relative_url }}">Redfern, Nicholas</a> in his “<a href="{{ '/ufo-history/ufo-books/redfern-nicholas-a-covert-agenda' | relative_url }}">A Covert Agenda</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0671005324/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0671005324/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 115 (in Chapter 9) of the Simon &amp; Schuster hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -128,10 +128,10 @@ For discussion of reports of black helicopters in England during this period see
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2003">2003</a></p>
+<p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/bartholomew-robert-e">Bartholomew, Robert E</a>. and Radford, Benjamin with <a href="/ufo-history/ufo-personalities/clarke-david">Clarke, David</a> in “<a href="/ufo-history/ufo-books/bartholomew-robert-e-and-radford-benjamin-hoaxes-myths-and-manias-why-we-need-critical-thinking">Hoaxes, Myths and Manias: Why We Need Critical Thinking</a>” (<a href="/tags/2003">2003</a>) (by Robert E. Bartholomew and Benjamin Radford) at pages 185-201 (in Chapter 13 generally, entitled “England’s Black Helicopters”) of the Prometheus softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/bartholomew-robert-e' | relative_url }}">Bartholomew, Robert E</a>. and Radford, Benjamin with <a href="{{ '/ufo-history/ufo-personalities/clarke-david' | relative_url }}">Clarke, David</a> in “<a href="{{ '/ufo-history/ufo-books/bartholomew-robert-e-and-radford-benjamin-hoaxes-myths-and-manias-why-we-need-critical-thinking' | relative_url }}">Hoaxes, Myths and Manias: Why We Need Critical Thinking</a>” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) (by Robert E. Bartholomew and Benjamin Radford) at pages 185-201 (in Chapter 13 generally, entitled “England’s Black Helicopters”) of the Prometheus softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>17</p>
@@ -139,10 +139,10 @@ For discussion of reports of black helicopters in England during this period see
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2002">2002</a></p>
+<p><a href="{{ '/tags/2002' | relative_url }}">2002</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clarke-david">Clarke, David</a> and <a href="/ufo-history/ufo-personalities/roberts-andy">Roberts, Andy</a> in their “<a href="file:///C:/Users/homelap/Documents/koi/Notes%20active%20files%20-%20videos%20photos%20etc/v">Out Of The Shadows</a>” (<a href="/tags/2002">2002</a>) (available <a href="http://www.amazon.com/dp/0749922907/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0749922907/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 213-217 (in Chapter 11) of the Piatkus hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clarke-david' | relative_url }}">Clarke, David</a> and <a href="{{ '/ufo-history/ufo-personalities/roberts-andy' | relative_url }}">Roberts, Andy</a> in their “<a href="file:///C:/Users/homelap/Documents/koi/Notes%20active%20files%20-%20videos%20photos%20etc/v">Out Of The Shadows</a>” (<a href="{{ '/tags/2002' | relative_url }}">2002</a>) (available <a href="http://www.amazon.com/dp/0749922907/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0749922907/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 213-217 (in Chapter 11) of the Piatkus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>
@@ -150,10 +150,10 @@ For discussion of reports of black helicopters in England during this period see
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1989">1989</a></p>
+<p><a href="{{ '/tags/1989' | relative_url }}">1989</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/devereux-paul">Devereux, Paul</a> in his “<a href="/ufo-history/ufo-books/devereux-paul-earth-lights-revelation">Earth Lights Revelation</a>” (<a href="/tags/1989">1989</a>) (available <a href="http://www.amazon.com/dp/0713722096/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713722096/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 104 (in Chapter 4) of the Blandford softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/devereux-paul' | relative_url }}">Devereux, Paul</a> in his “<a href="{{ '/ufo-history/ufo-books/devereux-paul-earth-lights-revelation' | relative_url }}">Earth Lights Revelation</a>” (<a href="{{ '/tags/1989' | relative_url }}">1989</a>) (available <a href="http://www.amazon.com/dp/0713722096/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713722096/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 104 (in Chapter 4) of the Blandford softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -161,10 +161,10 @@ For discussion of reports of black helicopters in England during this period see
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1983">1983</a></p>
+<p><a href="{{ '/tags/1983' | relative_url }}">1983</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-the-pennine-ufo-mystery">The Pennine UFO Mystery</a>" (<a href="/tags/1983">1983</a>) (available <a href="http://www.amazon.com/dp/0583137091/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0583137091/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 28-30 (in Chapter 2) of the Granada paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-the-pennine-ufo-mystery' | relative_url }}">The Pennine UFO Mystery</a>" (<a href="{{ '/tags/1983' | relative_url }}">1983</a>) (available <a href="http://www.amazon.com/dp/0583137091/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0583137091/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 28-30 (in Chapter 2) of the Granada paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -172,10 +172,10 @@ For discussion of reports of black helicopters in England during this period see
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/redfern-nicholas">Redfern, Nicholas</a> in his “<a href="/ufo-history/ufo-books/redfern-nicholas-a-covert-agenda">A Covert Agenda</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0671005324/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0671005324/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 115-118 (in Chapter 9) of the Simon &amp; Schuster hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/redfern-nicholas' | relative_url }}">Redfern, Nicholas</a> in his “<a href="{{ '/ufo-history/ufo-books/redfern-nicholas-a-covert-agenda' | relative_url }}">A Covert Agenda</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0671005324/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0671005324/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 115-118 (in Chapter 9) of the Simon &amp; Schuster hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -183,10 +183,10 @@ For discussion of reports of black helicopters in England during this period see
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2006">2006</a></p>
+<p><a href="{{ '/tags/2006' | relative_url }}">2006</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/redfern-nicholas">Redfern, Nicholas</a> in his “<a href="/ufo-history/ufo-books/redfern-nicholas-on-the-trail-of-the-saucer-spies">On the Trail of the Saucer Spies : UFOs and Government Surveillance</a>” (<a href="/tags/2006">2006</a>) (available <a href="http://www.amazon.com/dp/0743497538/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743497538/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 118-120 (in Chapter 7), 137-141 (in Chapter 8) of the Anomalist Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/redfern-nicholas' | relative_url }}">Redfern, Nicholas</a> in his “<a href="{{ '/ufo-history/ufo-books/redfern-nicholas-on-the-trail-of-the-saucer-spies' | relative_url }}">On the Trail of the Saucer Spies : UFOs and Government Surveillance</a>” (<a href="{{ '/tags/2006' | relative_url }}">2006</a>) (available <a href="http://www.amazon.com/dp/0743497538/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743497538/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 118-120 (in Chapter 7), 137-141 (in Chapter 8) of the Anomalist Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>8</p>

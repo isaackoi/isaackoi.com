@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0380813831.jpg"}
 book: {"identifiers": ["0380813831"], "primary_isbn": "0380813831", "cover_image": "/book-covers/0380813831.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Kevin Randle](/ufo-history/ufo-personalities/randle-kevin)'s book “[Scientific Ufology](/ufo-history/ufo-books/randle-kevin-d-scientific-ufology)” ([1999](/tags/1999)) (available [on Amazon USA](http://www.amazon.com/dp/0380813831/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0380813831/?&tag=ufot-21))
+Brief review to be added of [Kevin Randle]({{ '/ufo-history/ufo-personalities/randle-kevin' | relative_url }})'s book “[Scientific Ufology]({{ '/ufo-history/ufo-books/randle-kevin-d-scientific-ufology' | relative_url }})” ([1999]({{ '/tags/1999' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0380813831/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0380813831/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

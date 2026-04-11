@@ -40,13 +40,13 @@ This video appears to show a humanoid figure with a very large head. In some sho
 
 Screen shots from the video are included below for ease of identification:
 
-![](/images/stories/ufo_videos/video082_1.JPG)
+![]({{ '/images/stories/ufo_videos/video082_1.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video082_2.JPG)
+![]({{ '/images/stories/ufo_videos/video082_2.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video082_3.JPG)
+![]({{ '/images/stories/ufo_videos/video082_3.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video082_4.JPG)
+![]({{ '/images/stories/ufo_videos/video082_4.JPG' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this video
@@ -70,35 +70,35 @@ The full "Rubber Johnny" video is embedded below.
 
 Snippets of the video are displayed on [Chris Cunningham's own website](http://www.chriscunningham.com/).
 
-![](/images/stories/ufo_videos/video082_10.JPG)
+![]({{ '/images/stories/ufo_videos/video082_10.JPG' | relative_url }})
 
 Chris Cunningham discussed his "Rubber Johnny" video in [an interview for the Pitchfork website](http://pitchfork.com/features/interviews/6103-chris-cunningham/), including commenting that it was "just horrible" wearing the head prosthetic in the video and that "It took about an hour to glue the rubber headpiece on and getting in the wheelchair was difficult."
 
 Chris Cunningham is shown below:
 
-![](/images/stories/ufo_videos/video082_11.jpg)
+![]({{ '/images/stories/ufo_videos/video082_11.jpg' | relative_url }})
 
 The prosthetic effects for "Rubber Jonny" were created by Neill Gorton, as shown in credits at the end of the full "Rubber Johnny" video.
 
-![](/images/stories/ufo_videos/video082_6.JPG)
+![]({{ '/images/stories/ufo_videos/video082_6.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video082_7.JPG)
+![]({{ '/images/stories/ufo_videos/video082_7.JPG' | relative_url }})
 
 Full credits are given in the [IMDB website's list of the cast and crew](http://www.imdb.com/title/tt0441787/) of the "Rubber Johnny" video - part of which is shown below.
 
-![](/images/stories/ufo_videos/video082_8.JPG)
+![]({{ '/images/stories/ufo_videos/video082_8.JPG' | relative_url }})
 
 Neill Gorton is an award-winning English make-up effects, prosthetics and animatronic designer. Neill Gorton runs [a screen prosthetics and make-up effects school](http://www.gortonstudio.com/). He also runs (with co-director Rob Mayor) a company called "[Millennium FX](http://www.millenniumfx.co.uk/)" which describes itself as "Europe’s leading supplier of cutting edge prosthetics, animatronics and special make-up FX". Neill Gorton has worked on various movies (including "Saving Private Ryan" (1998) and "Children of Men" (2006)). My personal favourites are his many creations for "Doctor Who", although my children would currently be more interested on his work on the "Wizards vs. Aliens". (I am currently trying to remedy their preferences in television programmes...). Some of Neill Gorton's work on "Doctor Who" is shown below.
 
-![](/images/stories/ufo_videos/video082_13.JPG)
+![]({{ '/images/stories/ufo_videos/video082_13.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video082_12.JPG)
+![]({{ '/images/stories/ufo_videos/video082_12.JPG' | relative_url }})
 
 The full "Rubber Johnny" video is s[old as a DVD (with a 42 page book) on Amazon](http://www.amazon.co.uk/Rubber-Johnny-Chris-Cunningham-DVD/dp/B0009B0H1C).
 
-![](/images/stories/ufo_videos/video082_9.jpg)
+![]({{ '/images/stories/ufo_videos/video082_9.jpg' | relative_url }})
 
-Chris Cunningham's other videos include the "Mental Wealth" advertisement for the Sony Playstation. That video is embedded below. I discuss that video on another webpage (see [Koi UFO Video 054](/ufog/ufo-videos/koi-ufo-video-054)).
+Chris Cunningham's other videos include the "Mental Wealth" advertisement for the Sony Playstation. That video is embedded below. I discuss that video on another webpage (see [Koi UFO Video 054]({{ '/ufog/ufo-videos/koi-ufo-video-054' | relative_url }})).
 
 [https://www.youtube.com/watch?v=0dpzhMMFk5U](https://www.youtube.com/watch?v=0dpzhMMFk5U)
 
@@ -127,4 +127,4 @@ Other discussions on UFO forums include:
 
 [http://www.godlikeproductions.com/forum1/message128394/pg1](http://www.godlikeproductions.com/forum1/message128394/pg1)
 
-![](/images/stories/ufo_videos/video082_1d.jpg)
+![]({{ '/images/stories/ufo_videos/video082_1d.jpg' | relative_url }})

@@ -21,7 +21,7 @@ header: {"preview_image": "/images/stories/ufo_videos/video075_1.JPG"}
 
 The earliest copy of this video on Youtube was uploaded by "Manbird12000" on 15 August 2007. That video has had over 2 million years as at October 2014. Other copies of the video have also been posted on Youtube and elsewhere.
 
-In fact, as discussed below, the video was created by Damien White, a "visual/audio/musical artist" and "visual effects creator and composer", in the USA. He has posted CGI (Computer Generated Imagery) videos on Youtube as part of his efforts to seek funding for a science fiction movie. It was created by Damien White using the Vue6 software, i.e. the same software used by French artist/animator David Nicolas to create [the better-known Haiti UFO video](/ufog/ufo-videos/koi-ufo-video-061).
+In fact, as discussed below, the video was created by Damien White, a "visual/audio/musical artist" and "visual effects creator and composer", in the USA. He has posted CGI (Computer Generated Imagery) videos on Youtube as part of his efforts to seek funding for a science fiction movie. It was created by Damien White using the Vue6 software, i.e. the same software used by French artist/animator David Nicolas to create [the better-known Haiti UFO video]({{ '/ufog/ufo-videos/koi-ufo-video-061' | relative_url }}).
 
 Sections below:
 
@@ -40,11 +40,11 @@ This video appears to show a large saucer-shaped craft flying over a building an
 
 Screen shots from the video are included below for ease of identification:
 
-![](/images/stories/ufo_videos/video075_1.JPG)
+![]({{ '/images/stories/ufo_videos/video075_1.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video075_2.JPG)
+![]({{ '/images/stories/ufo_videos/video075_2.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video075_3.JPG)
+![]({{ '/images/stories/ufo_videos/video075_3.JPG' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this video
@@ -54,7 +54,7 @@ A caption at the beginning of the video asserts that the footage was "taken from
 <a id="truth"></a>
 ### 3. The real background to this video
 
-Despite the palm-trees featured in the video, this is not a creation of the French artist/animator (David Nicolas) that made[the better-known Haiti UFO hoax footage](/ufog/ufo-videos/koi-ufo-video-061). This video was in fact created by Damien White. Anyone familiar with the Haiti UFO footage may not, however, be surprised to hear that this video was created by using the same software (i.e. Vue6) that David Nicolas used to create the Haiti UFO hoax footage.
+Despite the palm-trees featured in the video, this is not a creation of the French artist/animator (David Nicolas) that made[the better-known Haiti UFO hoax footage]({{ '/ufog/ufo-videos/koi-ufo-video-061' | relative_url }}). This video was in fact created by Damien White. Anyone familiar with the Haiti UFO footage may not, however, be surprised to hear that this video was created by using the same software (i.e. Vue6) that David Nicolas used to create the Haiti UFO hoax footage.
 
 The creator of this video, Damien White, has [described himself](https://www.youtube.com/user/manbird12000/about) as a "visual/audio/musical artist" and "visual effects creator and composer". He has created[a number of other UFO videos](https://www.youtube.com/user/manbird12000/videos)(none of which have been as successful as the above video). [One of his online profiles](http://www.indietalk.com/member.php?s=d4ca5938300096c6dd87040727ce9258&u=32870) states that science-fiction is a "passion" of his.
 
@@ -72,11 +72,11 @@ https://www.youtube.com/watch?v=9QqFUcKbT8g
 
 Some screen-shots from that video are included below.
 
-![](/images/stories/ufo_videos/video075_4.JPG)
+![]({{ '/images/stories/ufo_videos/video075_4.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video075_5.JPG)
+![]({{ '/images/stories/ufo_videos/video075_5.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video075_6.JPG)
+![]({{ '/images/stories/ufo_videos/video075_6.JPG' | relative_url }})
 
 Damien White's other uploads to his [Manbird12000 Youtube account](https://www.youtube.com/user/manbird12000/videos) include guides to creating hoaxed UFO videos and related special effects:
 
@@ -92,7 +92,7 @@ Damien White has also repeatedly posted on the AboveTopSecret discussion forums 
 
 Damien White's efforts to obtain funding for his movie are continuing as at October 2014, including with[a campaign on the Kickstarter.com website](https://www.kickstarter.com/projects/greatdark/the-great-dark-0).
 
-![](/images/stories/ufo_videos/video075_7.JPG)
+![]({{ '/images/stories/ufo_videos/video075_7.JPG' | relative_url }})
 
 <a id="forums"></a>
 ### 4. Relevant online discussions
@@ -109,4 +109,4 @@ Relevant discussions on the AboveTopSecret.com forum include the following:
 
 2008 (August) discussion entitled "[UFO Real or Fake Please.](http://www.abovetopsecret.com/forum/thread377707/pg1)"
 
-![](/images/stories/ufo_videos/video075_1d.jpg)
+![]({{ '/images/stories/ufo_videos/video075_1d.jpg' | relative_url }})

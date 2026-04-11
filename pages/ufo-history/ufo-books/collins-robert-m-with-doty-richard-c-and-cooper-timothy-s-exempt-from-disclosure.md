@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0976642638.jpg"}
 book: {"identifiers": ["0976642638", "1425994024"], "primary_isbn": "0976642638", "cover_image": "/book-covers/0976642638.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Robert M Collins](/ufo-history/ufo-personalities/collins-robert-m)' book (with [Richard C Doty](/ufo-history/ufo-personalities/doty-richard) and [Timothy S Cooper](/ufo-history/ufo-personalities/cooper-timothy-s)) “[Exempt From Disclosure](/ufo-history/ufo-books/collins-robert-m-with-doty-richard-c-and-cooper-timothy-s-exempt-from-disclosure)" ([2006](/tags/2006)) (available [on Amazon USA](http://www.amazon.com/dp/0976642638/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0976642638/?&tag=ufot-21)).
+Brief review to be added of [Robert M Collins]({{ '/ufo-history/ufo-personalities/collins-robert-m' | relative_url }})' book (with [Richard C Doty]({{ '/ufo-history/ufo-personalities/doty-richard' | relative_url }}) and [Timothy S Cooper]({{ '/ufo-history/ufo-personalities/cooper-timothy-s' | relative_url }})) “[Exempt From Disclosure]({{ '/ufo-history/ufo-books/collins-robert-m-with-doty-richard-c-and-cooper-timothy-s-exempt-from-disclosure' | relative_url }})" ([2006]({{ '/tags/2006' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0976642638/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0976642638/?&tag=ufot-21)).
 
 1. [Web Resources](#web)
 
@@ -52,10 +52,10 @@ Many of the tables of references on this website are considerably longer than th
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2007">2007</a></p>
+<p><a href="{{ '/tags/2007' | relative_url }}">2007</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/harris-paola">Harris, Paola</a> in her “<a href="/ufo-history/ufo-books/harris-paola-how-does-one-speak-to-a-ball-of-light">How does one speak to a ball of light?</a>” (<a href="/tags/2007">2007</a>) (available <a href="http://www.amazon.com/dp/1425994024/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1425994024/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 188, 189, 190 (in Section 2) of the Author House softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/harris-paola' | relative_url }}">Harris, Paola</a> in her “<a href="{{ '/ufo-history/ufo-books/harris-paola-how-does-one-speak-to-a-ball-of-light' | relative_url }}">How does one speak to a ball of light?</a>” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (available <a href="http://www.amazon.com/dp/1425994024/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1425994024/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 188, 189, 190 (in Section 2) of the Author House softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -63,10 +63,10 @@ Many of the tables of references on this website are considerably longer than th
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2007">2007</a></p>
+<p><a href="{{ '/tags/2007' | relative_url }}">2007</a></p>
 </td>
 <td valign="top" width="547">
-<p>Wood, Robert in Paola Harris’ “<a href="/ufo-history/ufo-books/harris-paola-how-does-one-speak-to-a-ball-of-light">How does one speak to a ball of light?</a>” (<a href="/tags/2007">2007</a>) (available <a href="http://www.amazon.com/dp/1425994024/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1425994024/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 189-190 (in Section 2) of the Author House softcover edition.</p>
+<p>Wood, Robert in Paola Harris’ “<a href="{{ '/ufo-history/ufo-books/harris-paola-how-does-one-speak-to-a-ball-of-light' | relative_url }}">How does one speak to a ball of light?</a>” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (available <a href="http://www.amazon.com/dp/1425994024/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1425994024/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 189-190 (in Section 2) of the Author House softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

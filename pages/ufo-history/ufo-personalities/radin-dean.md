@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/radin_dean_3.jpg"}
 ---
 
-![radin_dean_3](/images/stories/ufo_personalities/radin_dean_3.jpg)
+![radin_dean_3]({{ '/images/stories/ufo_personalities/radin_dean_3.jpg' | relative_url }})
 
 *Dean Radin*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/2006">2006</a></p>
+<p><a href="{{ '/tags/2006' | relative_url }}">2006</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/radin-dean">Radin, Dean</a> “<a href="/ufo-history/ufo-books/radin-dean-entangled-minds-extrasensory-experiences-in-a-quantum-reality">Entangled Minds : Extrasensory Experiences in a Quantum Reality</a>” (<a href="/tags/2006">2006</a>) (available <a href="http://www.amazon.com/dp/1416516778/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1416516778/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/radin-dean' | relative_url }}">Radin, Dean</a> “<a href="{{ '/ufo-history/ufo-books/radin-dean-entangled-minds-extrasensory-experiences-in-a-quantum-reality' | relative_url }}">Entangled Minds : Extrasensory Experiences in a Quantum Reality</a>” (<a href="{{ '/tags/2006' | relative_url }}">2006</a>) (available <a href="http://www.amazon.com/dp/1416516778/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1416516778/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>

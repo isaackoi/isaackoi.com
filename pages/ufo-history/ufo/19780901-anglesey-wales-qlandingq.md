@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/britain_1.gif"}
 ---
 
-![britain_1](/images/stories/ufo_tags/britain_1.gif)
+![britain_1]({{ '/images/stories/ufo_tags/britain_1.gif' | relative_url }})
 
 *Anglesey, Wales "landing"*
 
@@ -63,10 +63,10 @@ For discussion of the alleged UFO landing in Llanerchymedd see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/campbell-steuart">Campbell, Steuart</a> in his “<a href="/ufo-history/ufo-books/campbell-steuart-the-ufo-mystery-solved">The UFO Mystery Solved</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/0952151200/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0952151200/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 71 (in Chapter 4) of the Explicit Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/campbell-steuart' | relative_url }}">Campbell, Steuart</a> in his “<a href="{{ '/ufo-history/ufo-books/campbell-steuart-the-ufo-mystery-solved' | relative_url }}">The UFO Mystery Solved</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/0952151200/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0952151200/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 71 (in Chapter 4) of the Explicit Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -74,10 +74,10 @@ For discussion of the alleged UFO landing in Llanerchymedd see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1979">1979</a></p>
+<p><a href="{{ '/tags/1979' | relative_url }}">1979</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/pugh-randall-jones">Pugh, Randall Jones</a> and Holiday, F W in their “<a href="/ufo-history/ufo-books/pugh-randall-jones-and-holiday-f-w-the-dyfed-enigma">The Dyfed Enigma</a>” (<a href="/tags/1979">1979</a>) (available <a href="http://www.amazon.com/dp/0571114121/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0571114121/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 17 (in the Introduction) of the Coronet paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/pugh-randall-jones' | relative_url }}">Pugh, Randall Jones</a> and Holiday, F W in their “<a href="{{ '/ufo-history/ufo-books/pugh-randall-jones-and-holiday-f-w-the-dyfed-enigma' | relative_url }}">The Dyfed Enigma</a>” (<a href="{{ '/tags/1979' | relative_url }}">1979</a>) (available <a href="http://www.amazon.com/dp/0571114121/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0571114121/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 17 (in the Introduction) of the Coronet paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -85,10 +85,10 @@ For discussion of the alleged UFO landing in Llanerchymedd see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1983">1983</a></p>
+<p><a href="{{ '/tags/1983' | relative_url }}">1983</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-ufo-reality">UFO Reality</a>” (<a href="/tags/1983">1983</a>) (available <a href="http://www.amazon.com/dp/070901080X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/070901080X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 119-122 (in Chapter 8) of the Hale hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-ufo-reality' | relative_url }}">UFO Reality</a>” (<a href="{{ '/tags/1983' | relative_url }}">1983</a>) (available <a href="http://www.amazon.com/dp/070901080X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/070901080X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 119-122 (in Chapter 8) of the Hale hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -96,10 +96,10 @@ For discussion of the alleged UFO landing in Llanerchymedd see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/spencer-john">Spencer, John</a> in his “<a href="/ufo-history/ufo-books/spencer-john-the-ufo-encyclopedia">The UFO Encyclopedia</a>” (<a href="/tags/1991">1991</a>) (available <a href="http://www.amazon.com/dp/0380768879/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380768879/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 191 (in an entry entitled “Llanerchymedd, Wales”) of the Guild hardback edition (with the same page numbering in the Avon softcover edition) at pages 221-222 of the Headline paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">Spencer, John</a> in his “<a href="{{ '/ufo-history/ufo-books/spencer-john-the-ufo-encyclopedia' | relative_url }}">The UFO Encyclopedia</a>” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/0380768879/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380768879/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 191 (in an entry entitled “Llanerchymedd, Wales”) of the Guild hardback edition (with the same page numbering in the Avon softcover edition) at pages 221-222 of the Headline paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -107,10 +107,10 @@ For discussion of the alleged UFO landing in Llanerchymedd see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/story-ronald">Story, Ronald</a> in “<a href="/ufo-history/ufo-books/story-ronald-editor-and-green-j-richard-consulting-editor-the-encyclopedia-of-ufos">The Encyclopedia of UFOs</a>” (<a href="/tags/1980">1980</a>) edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a> (available <a href="http://www.amazon.com/dp/0385136773/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0385136773/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 211 (in an entry entitled “Llanerchymedd (Wales) landing”) of the NEL hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Story, Ronald</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-editor-and-green-j-richard-consulting-editor-the-encyclopedia-of-ufos' | relative_url }}">The Encyclopedia of UFOs</a>” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a> (available <a href="http://www.amazon.com/dp/0385136773/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0385136773/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 211 (in an entry entitled “Llanerchymedd (Wales) landing”) of the NEL hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

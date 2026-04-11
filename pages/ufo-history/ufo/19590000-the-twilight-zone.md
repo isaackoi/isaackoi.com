@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -63,10 +63,10 @@ For discussion of “The Twilight Zone” see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p>Cousineau, Phil in his “<a href="/ufo-history/ufo-books/cousineau-phil-ufos-a-manual-for-the-millenium">UFOs: A Manual for the Millenium</a>” (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/0062586386/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0062586386/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 202-203, 205, 213 (in Chapter 8) of the Harper Collins paperback edition.</p>
+<p>Cousineau, Phil in his “<a href="{{ '/ufo-history/ufo-books/cousineau-phil-ufos-a-manual-for-the-millenium' | relative_url }}">UFOs: A Manual for the Millenium</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/0062586386/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0062586386/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 202-203, 205, 213 (in Chapter 8) of the Harper Collins paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -74,10 +74,10 @@ For discussion of “The Twilight Zone” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p>Mannion, Michael in his “<a href="/ufo-history/ufo-books/mannion-michael-project-mindshift">Project Mindshift</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0871318563/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0871318563/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 197-198, 199 (in Chapter 7) of the Evans hardback edition.</p>
+<p>Mannion, Michael in his “<a href="{{ '/ufo-history/ufo-books/mannion-michael-project-mindshift' | relative_url }}">Project Mindshift</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0871318563/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0871318563/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 197-198, 199 (in Chapter 7) of the Evans hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -85,10 +85,10 @@ For discussion of “The Twilight Zone” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1987">1987</a></p>
+<p><a href="{{ '/tags/1987' | relative_url }}">1987</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/mcdonough-thomas-r">McDonough, Thomas R</a> in his “The Search for Extraterrestrial Intelligence - Listening for Life in the Cosmos” (<a href="/tags/1987">1987</a>) (available <a href="http://www.amazon.com/dp/0471846848/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0471846848/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 46-47 (in Chapter 3) of the Wiley softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/mcdonough-thomas-r' | relative_url }}">McDonough, Thomas R</a> in his “The Search for Extraterrestrial Intelligence - Listening for Life in the Cosmos” (<a href="{{ '/tags/1987' | relative_url }}">1987</a>) (available <a href="http://www.amazon.com/dp/0471846848/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0471846848/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 46-47 (in Chapter 3) of the Wiley softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -96,10 +96,10 @@ For discussion of “The Twilight Zone” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2003">2003</a></p>
+<p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/moffitt-john">Moffitt, John</a> in his “<a href="/ufo-history/ufo-books/moffitt-john-picturing-extraterrestrials-alien-images-in-modern-mass-culture">Picturing Extraterrestrials : Alien Images in Modern Mass Culture</a>” (<a href="/tags/2003">2003</a>) (available <a href="http://www.amazon.com/dp/1573929905/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573929905/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 332 of the Prometheus hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/moffitt-john' | relative_url }}">Moffitt, John</a> in his “<a href="{{ '/ufo-history/ufo-books/moffitt-john-picturing-extraterrestrials-alien-images-in-modern-mass-culture' | relative_url }}">Picturing Extraterrestrials : Alien Images in Modern Mass Culture</a>” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) (available <a href="http://www.amazon.com/dp/1573929905/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573929905/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 332 of the Prometheus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -107,10 +107,10 @@ For discussion of “The Twilight Zone” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1977">1977</a></p>
+<p><a href="{{ '/tags/1977' | relative_url }}">1977</a></p>
 </td>
 <td valign="top" width="547">
-<p>Naha, Ed in his “Science Fiction Aliens - Starlog Photo Guidebook” (<a href="/tags/1977">1977</a>) (available <a href="http://www.amazon.com/dp/0931064015/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0931064015/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 92-93 (in the unnumbered section entitled “Television Shows”) of the Starlog softcover edition.</p>
+<p>Naha, Ed in his “Science Fiction Aliens - Starlog Photo Guidebook” (<a href="{{ '/tags/1977' | relative_url }}">1977</a>) (available <a href="http://www.amazon.com/dp/0931064015/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0931064015/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 92-93 (in the unnumbered section entitled “Television Shows”) of the Starlog softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -118,10 +118,10 @@ For discussion of “The Twilight Zone” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/rux-bruce">Rux, Bruce</a> in his “<a href="/ufo-history/ufo-books/rux-bruce-hollywood-vs-the-aliens">Hollywood Vs. the Aliens</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1883319617/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1883319617/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 303-306 (in Chapter 6), 517 (in Chapter 10) of the Frog softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/rux-bruce' | relative_url }}">Rux, Bruce</a> in his “<a href="{{ '/ufo-history/ufo-books/rux-bruce-hollywood-vs-the-aliens' | relative_url }}">Hollywood Vs. the Aliens</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1883319617/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1883319617/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 303-306 (in Chapter 6), 517 (in Chapter 10) of the Frog softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>
@@ -129,10 +129,10 @@ For discussion of “The Twilight Zone” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1978">1978</a></p>
+<p><a href="{{ '/tags/1978' | relative_url }}">1978</a></p>
 </td>
 <td valign="top" width="547">
-<p>Siegel, Richard and Suares, Jean-Claude in their “<a href="/ufo-history/ufo-books/siegel-richard-and-suares-jean-claude-alien-creatures">Alien Creatures</a>” (<a href="/tags/1978">1978</a>) (available <a href="http://www.amazon.com/dp/0891695214/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0891695214/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 136, 137, 147 (in Chapter 5) of the Reed softcover edition.</p>
+<p>Siegel, Richard and Suares, Jean-Claude in their “<a href="{{ '/ufo-history/ufo-books/siegel-richard-and-suares-jean-claude-alien-creatures' | relative_url }}">Alien Creatures</a>” (<a href="{{ '/tags/1978' | relative_url }}">1978</a>) (available <a href="http://www.amazon.com/dp/0891695214/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0891695214/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 136, 137, 147 (in Chapter 5) of the Reed softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -140,10 +140,10 @@ For discussion of “The Twilight Zone” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/watson-nigel">Watson, Nigel</a> and Slade, Darren in their “Supernatural Spielberg” (<a href="/tags/1992">1992</a>) (available <a href="http://www.amazon.com/dp/0951625136/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0951625136/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 71-83 (Chapter 7 generally), 120-121 (in the Notes and References) of the Valis softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/watson-nigel' | relative_url }}">Watson, Nigel</a> and Slade, Darren in their “Supernatural Spielberg” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="http://www.amazon.com/dp/0951625136/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0951625136/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 71-83 (Chapter 7 generally), 120-121 (in the Notes and References) of the Valis softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>15</p>

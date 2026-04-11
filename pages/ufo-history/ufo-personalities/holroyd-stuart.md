@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/holroyd_stuart_1.jpg"}
 ---
 
-![holroyd_stuart_1](/images/stories/ufo_personalities/holroyd_stuart_1.jpg)
+![holroyd_stuart_1]({{ '/images/stories/ufo_personalities/holroyd_stuart_1.jpg' | relative_url }})
 
 *Stuart Holroyd*
 
@@ -36,18 +36,18 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1977">1977</a></p>
+<p><a href="{{ '/tags/1977' | relative_url }}">1977</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/holroyd-stuart">Holroyd, Stuart</a> “<a href="/ufo-history/ufo-books/holroyd-stuart-briefing-for-the-landing-on-planet-earth">Briefing for the landing on Planet Earth</a>” (<a href="/tags/1977">1977</a>) (available <a href="http://www.amazon.com/dp/0552109975/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0552109975/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/holroyd-stuart' | relative_url }}">Holroyd, Stuart</a> “<a href="{{ '/ufo-history/ufo-books/holroyd-stuart-briefing-for-the-landing-on-planet-earth' | relative_url }}">Briefing for the landing on Planet Earth</a>” (<a href="{{ '/tags/1977' | relative_url }}">1977</a>) (available <a href="http://www.amazon.com/dp/0552109975/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0552109975/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1979">1979</a></p>
+<p><a href="{{ '/tags/1979' | relative_url }}">1979</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/holroyd-stuart">Holroyd, Stuart</a> “Alien Intelligence” (<a href="/tags/1979">1979</a>) (available <a href="http://www.amazon.com/dp/0896960404/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0896960404/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/holroyd-stuart' | relative_url }}">Holroyd, Stuart</a> “Alien Intelligence” (<a href="{{ '/tags/1979' | relative_url }}">1979</a>) (available <a href="http://www.amazon.com/dp/0896960404/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0896960404/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>

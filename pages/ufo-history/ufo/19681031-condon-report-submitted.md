@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -39,7 +39,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-Letter of transmittal presented in the [Condon Report](/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects) (“[Scientific Study of Unidentified Flying Objects](/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects)”, Edward U Condon (Director) and Daniel S Gillmor (Editor) ([1969](/tags/1969))) (available [on Amazon USA](http://www.amazon.com/dp/B000EZY1RO/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B000EZY1RO/ref=nosim?tag=ufot-21)) at pages iii-iv of the uncorrected version submitted to the Air Force (with the same page numbering in the 3 volume paperbound edition distributed by the National Technical Information Service, US Department of Commerce) at pages xv-xvi of the Vision hardback edition (with the same page numbering in the Bantam paperback edition). The first of these editions has the same page numbering as the edition available free online at the following links:
+Letter of transmittal presented in the [Condon Report]({{ '/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects' | relative_url }}) (“[Scientific Study of Unidentified Flying Objects]({{ '/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects' | relative_url }})”, Edward U Condon (Director) and Daniel S Gillmor (Editor) ([1969]({{ '/tags/1969' | relative_url }}))) (available [on Amazon USA](http://www.amazon.com/dp/B000EZY1RO/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B000EZY1RO/ref=nosim?tag=ufot-21)) at pages iii-iv of the uncorrected version submitted to the Air Force (with the same page numbering in the 3 volume paperbound edition distributed by the National Technical Information Service, US Department of Commerce) at pages xv-xvi of the Vision hardback edition (with the same page numbering in the Bantam paperback edition). The first of these editions has the same page numbering as the edition available free online at the following links:
 
 [http://ncas.sawco.com/condon/text/contents.htm](http://ncas.sawco.com/condon/text/contents.htm)
 

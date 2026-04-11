@@ -14,7 +14,7 @@ header: {"preview_image": "https://covers.openlibrary.org/b/isbn/0615249744-L.jp
 book: {"identifiers": ["0615249744"], "primary_isbn": "0615249744", "cover_image": "https://covers.openlibrary.org/b/isbn/0615249744-L.jpg?default=false", "cover_source": "openlibrary"}
 ---
 
-Brief review to be added of [Jacques Vallee](/ufo-history/ufo-personalities/vallee-jacques)'s book “[Forbidden Science: Volume 2 (Journals 1970-1979)](/ufo-history/ufo-books/vallee-jacques-forbidden-science-volume-2-journals-1970-1979)” ([2008](/tags/2008)) (available [on Amazon USA](http://www.amazon.com/dp/0615249744/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0615249744/?&tag=ufot-21))
+Brief review to be added of [Jacques Vallee]({{ '/ufo-history/ufo-personalities/vallee-jacques' | relative_url }})'s book “[Forbidden Science: Volume 2 (Journals 1970-1979)]({{ '/ufo-history/ufo-books/vallee-jacques-forbidden-science-volume-2-journals-1970-1979' | relative_url }})” ([2008]({{ '/tags/2008' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0615249744/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0615249744/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

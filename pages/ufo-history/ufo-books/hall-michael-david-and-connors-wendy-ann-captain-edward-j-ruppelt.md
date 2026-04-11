@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0970505507.jpg"}
 book: {"identifiers": ["0970505507", "1900486466"], "primary_isbn": "0970505507", "cover_image": "/book-covers/0970505507.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of “[Captain Edward J Ruppelt: Summer of the Saucers - 1952](/ufo-history/ufo-books/hall-michael-david-and-connors-wendy-ann-captain-edward-j-ruppelt)” ([2000](/tags/2000)) (available [on Amazon USA](http://www.amazon.com/dp/0970505507/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0970505507/?&tag=ufot-21)) by [Michael David Hall](/ufo-history/ufo-personalities/hall-michael-david) and [Wendy Ann Connors](/ufo-history/ufo-personalities/connors-wendy-ann)
+Brief review to be added of “[Captain Edward J Ruppelt: Summer of the Saucers - 1952]({{ '/ufo-history/ufo-books/hall-michael-david-and-connors-wendy-ann-captain-edward-j-ruppelt' | relative_url }})” ([2000]({{ '/tags/2000' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0970505507/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0970505507/?&tag=ufot-21)) by [Michael David Hall]({{ '/ufo-history/ufo-personalities/hall-michael-david' | relative_url }}) and [Wendy Ann Connors]({{ '/ufo-history/ufo-personalities/connors-wendy-ann' | relative_url }})
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2005">2005</a></p>
+<p><a href="{{ '/tags/2005' | relative_url }}">2005</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in <a href="/ufo-history/ufo-personalities/bennett-colin">Bennett, Colin</a>’s “<a href="/ufo-history/ufo-books/bennett-colin-an-american-demonology-captain-edward-j-ruppelt-and-the-official-ufo-investigation-of-the-united-states-air-force">An American Demonology : Captain Edward J Ruppelt and the official UFO investigation of the United States Air Force</a>” (<a href="/tags/2005">2005</a>) (available <a href="http://www.amazon.com/dp/1900486466/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1900486466/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 10 (in the Foreword) of the Headpress softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in <a href="{{ '/ufo-history/ufo-personalities/bennett-colin' | relative_url }}">Bennett, Colin</a>’s “<a href="{{ '/ufo-history/ufo-books/bennett-colin-an-american-demonology-captain-edward-j-ruppelt-and-the-official-ufo-investigation-of-the-united-states-air-force' | relative_url }}">An American Demonology : Captain Edward J Ruppelt and the official UFO investigation of the United States Air Force</a>” (<a href="{{ '/tags/2005' | relative_url }}">2005</a>) (available <a href="http://www.amazon.com/dp/1900486466/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1900486466/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 10 (in the Foreword) of the Headpress softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

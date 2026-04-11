@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -43,7 +43,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-Paper reprinted by [Vallee, Jacques](/ufo-history/ufo-personalities/vallee-jacques) in his “[Revelations: Alien Contact and Human Deception](/ufo-history/ufo-books/vallee-jacques-revelations-alien-contact-and-human-deception)” ([1991](/tags/1991)) (available [on Amazon USA](http://www.amazon.com/dp/1933665300/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1933665300/ref=nosim?tag=ufot-21)) at pages 261-279 (as Appendix 1) of the Ballantine Books paperback edition.
+Paper reprinted by [Vallee, Jacques]({{ '/ufo-history/ufo-personalities/vallee-jacques' | relative_url }}) in his “[Revelations: Alien Contact and Human Deception]({{ '/ufo-history/ufo-books/vallee-jacques-revelations-alien-contact-and-human-deception' | relative_url }})” ([1991]({{ '/tags/1991' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1933665300/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1933665300/ref=nosim?tag=ufot-21)) at pages 261-279 (as Appendix 1) of the Ballantine Books paperback edition.
 
 The table below includes references to relevant discussions in UFO/SETI books noted by Isaac Koi during a review of approximately 963 UFO/SETI books during the period 2003-2006 (with a few later additions). The table can be sorted by author, date and length of discussion by clicking on the relevant word in the top line of the table.
 
@@ -69,10 +69,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> and <a href="/ufo-history/ufo-personalities/hough-peter">Hough, Peter</a> in their “<a href="/ufo-history/ufo-books/randles-jenny-and-hough-peter-looking-for-the-aliens">Looking for the Aliens</a>” (<a href="/tags/1991">1991</a>) (available <a href="http://www.amazon.com/dp/0760704406/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0760704406/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 210-212 (in Chapter 22) of the Blandford softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> and <a href="{{ '/ufo-history/ufo-personalities/hough-peter' | relative_url }}">Hough, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-hough-peter-looking-for-the-aliens' | relative_url }}">Looking for the Aliens</a>” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/0760704406/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0760704406/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 210-212 (in Chapter 22) of the Blandford softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>

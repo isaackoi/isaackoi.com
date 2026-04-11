@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -67,10 +67,10 @@ For discussion of the Berserker series see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p>Baxter, Stephen in his “Deep Future” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/0575071958/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0575071958/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 185 (in Chapter 22) of the Gollancz paperback edition.</p>
+<p>Baxter, Stephen in his “Deep Future” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/0575071958/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0575071958/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 185 (in Chapter 22) of the Gollancz paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -78,10 +78,10 @@ For discussion of the Berserker series see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p>Brin, David in “<a href="/ufo-history/ufo-books/fawcett-bill-ed-making-contact">Making Contact</a>” (<a href="/tags/1997">1997</a>) (edited by Bill Fawcett) (available <a href="http://www.amazon.com/dp/0688144861/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0688144861/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 232-233 (in Section 3), 284 (in Section 4) of the Morrow hardback edition.</p>
+<p>Brin, David in “<a href="{{ '/ufo-history/ufo-books/fawcett-bill-ed-making-contact' | relative_url }}">Making Contact</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (edited by Bill Fawcett) (available <a href="http://www.amazon.com/dp/0688144861/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0688144861/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 232-233 (in Section 3), 284 (in Section 4) of the Morrow hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -89,10 +89,10 @@ For discussion of the Berserker series see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2002">2002</a></p>
+<p><a href="{{ '/tags/2002' | relative_url }}">2002</a></p>
 </td>
 <td valign="top" width="547">
-<p>Webb, Stephen in his “<a href="/ufo-history/ufo-books/webb-stephen-where-is-everybody-fifty-solutions-to-the-fermi-paradox">Where is Everybody?: Fifty Solutions to the Fermi Paradox</a>” (<a href="/tags/2002">2002</a>) (available <a href="http://www.amazon.com/dp/0387955011/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0387955011/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 111-112 (in Chapter 4), 261 (in the Notes and Further Reading) of the Copernicus hardback edition.</p>
+<p>Webb, Stephen in his “<a href="{{ '/ufo-history/ufo-books/webb-stephen-where-is-everybody-fifty-solutions-to-the-fermi-paradox' | relative_url }}">Where is Everybody?: Fifty Solutions to the Fermi Paradox</a>” (<a href="{{ '/tags/2002' | relative_url }}">2002</a>) (available <a href="http://www.amazon.com/dp/0387955011/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0387955011/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 111-112 (in Chapter 4), 261 (in the Notes and Further Reading) of the Copernicus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -100,10 +100,10 @@ For discussion of the Berserker series see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2004">2004</a></p>
+<p><a href="{{ '/tags/2004' | relative_url }}">2004</a></p>
 </td>
 <td valign="top" width="547">
-<p>Wikipedia (<a href="/tags/2004">2004</a>), “The Free Encyclopedia”, in an entry entitled “Berserker (Saberhagen)”. Available free online at:</p>
+<p>Wikipedia (<a href="{{ '/tags/2004' | relative_url }}">2004</a>), “The Free Encyclopedia”, in an entry entitled “Berserker (Saberhagen)”. Available free online at:</p>
 <p><a href="http://en.wikipedia.org/wiki/Berserker_(Saberhagen">http://en.wikipedia.org/wiki/Berserker_(Saberhagen</a>)</p>
 </td>
 <td valign="top" width="52">
@@ -116,6 +116,6 @@ For discussion of the Berserker series see the following:
 <a id="other"></a>
 ### Other Material
 
-Saberhagen, Fred “Without a Thought”, If, [1963](/tags/1963).0100
+Saberhagen, Fred “Without a Thought”, If, [1963]({{ '/tags/1963' | relative_url }}).0100
 
 Please use the comments section below to share references to any particularly interesting relevant articles.

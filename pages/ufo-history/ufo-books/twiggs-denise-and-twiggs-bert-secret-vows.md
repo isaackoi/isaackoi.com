@@ -14,7 +14,7 @@ header: {"preview_image": "https://covers.openlibrary.org/b/isbn/0425146855-L.jp
 book: {"identifiers": ["0425146855", "3931652319"], "primary_isbn": "0425146855", "cover_image": "https://covers.openlibrary.org/b/isbn/0425146855-L.jpg?default=false", "cover_source": "openlibrary"}
 ---
 
-Brief review to be added of “[Secret Vows](/ufo-history/ufo-books/twiggs-denise-and-twiggs-bert-secret-vows)” ([1992](/tags/1992)) (available [on Amazon USA](http://www.amazon.com/dp/0425146855/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0425146855/?&tag=ufot-21)) by Denise Twiggs and Bert Twiggs.
+Brief review to be added of “[Secret Vows]({{ '/ufo-history/ufo-books/twiggs-denise-and-twiggs-bert-secret-vows' | relative_url }})” ([1992]({{ '/tags/1992' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0425146855/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0425146855/?&tag=ufot-21)) by Denise Twiggs and Bert Twiggs.
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p>Horn, Arthur D and Horn, Lynette M in their “<a href="/ufo-history/ufo-books/horn-arthur-d-and-horn-lynette-m-humanitys-extraterrestrial-origins">Humanity's Extraterrestrial Origins</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/3931652319/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/3931652319/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 247 (in Chapter 14) of the Silberschnur softcover edition.</p>
+<p>Horn, Arthur D and Horn, Lynette M in their “<a href="{{ '/ufo-history/ufo-books/horn-arthur-d-and-horn-lynette-m-humanitys-extraterrestrial-origins' | relative_url }}">Humanity's Extraterrestrial Origins</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/3931652319/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/3931652319/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 247 (in Chapter 14) of the Silberschnur softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

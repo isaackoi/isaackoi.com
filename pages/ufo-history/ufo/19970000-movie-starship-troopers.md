@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/movies_1.jpg"}
 ---
 
-![movies_1](/images/stories/ufo_tags/movies_1.jpg)
+![movies_1]({{ '/images/stories/ufo_tags/movies_1.jpg' | relative_url }})
 
 *“Starship Troopers”*
 
@@ -73,10 +73,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2005">2005</a></p>
+<p><a href="{{ '/tags/2005' | relative_url }}">2005</a></p>
 </td>
 <td valign="top" width="547">
-<p>Kaveney, Roz in her “<a href="/ufo-history/ufo-books/kaveney-roz-from-alien-to-the-matrix-reading-science-fiction-film">From Alien to The Matrix: Reading Science Fiction Film</a>” (<a href="/tags/2005">2005</a>) (available <a href="http://www.amazon.com/dp/1850438064/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1850438064/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 9-20 (in Chapter 2), 53-54 (in Chapter 5) of the I B Taurus softcover edition.</p>
+<p>Kaveney, Roz in her “<a href="{{ '/ufo-history/ufo-books/kaveney-roz-from-alien-to-the-matrix-reading-science-fiction-film' | relative_url }}">From Alien to The Matrix: Reading Science Fiction Film</a>” (<a href="{{ '/tags/2005' | relative_url }}">2005</a>) (available <a href="http://www.amazon.com/dp/1850438064/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1850438064/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 9-20 (in Chapter 2), 53-54 (in Chapter 5) of the I B Taurus softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>14</p>

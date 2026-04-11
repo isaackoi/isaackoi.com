@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0743470923.jpg"}
 book: {"identifiers": ["0743470923", "0976642638", "0743497538"], "primary_isbn": "0743470923", "cover_image": "/book-covers/0743470923.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Bishop, Greg](/ufo-history/ufo-personalities/bishop-greg) “[Project BETA: The Story of Paul Bennewitz, National Security, and the Creation of a Modern UFO Myth](/ufo-history/ufo-books/bishop-greg-project-beta)” ([2005](/tags/2005)) (available [on Amazon USA](http://www.amazon.com/dp/0743470923/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0743470923/?&tag=ufot-21))
+Brief review to be added of [Bishop, Greg]({{ '/ufo-history/ufo-personalities/bishop-greg' | relative_url }}) “[Project BETA: The Story of Paul Bennewitz, National Security, and the Creation of a Modern UFO Myth]({{ '/ufo-history/ufo-books/bishop-greg-project-beta' | relative_url }})” ([2005]({{ '/tags/2005' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0743470923/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0743470923/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -52,10 +52,10 @@ Many of the tables of references on this website are considerably longer than th
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2006">2006</a></p>
+<p><a href="{{ '/tags/2006' | relative_url }}">2006</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/doty-richard">Doty, Richard C</a> in “<a href="/ufo-history/ufo-books/collins-robert-m-with-doty-richard-c-and-cooper-timothy-s-exempt-from-disclosure">Exempt From Disclosure</a>” (<a href="/tags/2006">2006</a>) (available <a href="http://www.amazon.com/dp/0976642638/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0976642638/ref=nosim?tag=ufot-21">on Amazon UK</a>) (by <a href="/ufo-history/ufo-personalities/collins-robert-m">Collins, Robert M</a> (with <a href="/ufo-history/ufo-personalities/doty-richard">Doty, Richard C</a> and <a href="/ufo-history/ufo-personalities/cooper-timothy-s">Cooper, Timothy S</a>)) at page 89 (in Section 2, Chapter 4) of the Peregrine Communications softcover second edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/doty-richard' | relative_url }}">Doty, Richard C</a> in “<a href="{{ '/ufo-history/ufo-books/collins-robert-m-with-doty-richard-c-and-cooper-timothy-s-exempt-from-disclosure' | relative_url }}">Exempt From Disclosure</a>” (<a href="{{ '/tags/2006' | relative_url }}">2006</a>) (available <a href="http://www.amazon.com/dp/0976642638/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0976642638/ref=nosim?tag=ufot-21">on Amazon UK</a>) (by <a href="{{ '/ufo-history/ufo-personalities/collins-robert-m' | relative_url }}">Collins, Robert M</a> (with <a href="{{ '/ufo-history/ufo-personalities/doty-richard' | relative_url }}">Doty, Richard C</a> and <a href="{{ '/ufo-history/ufo-personalities/cooper-timothy-s' | relative_url }}">Cooper, Timothy S</a>)) at page 89 (in Section 2, Chapter 4) of the Peregrine Communications softcover second edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -63,10 +63,10 @@ Many of the tables of references on this website are considerably longer than th
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2006">2006</a></p>
+<p><a href="{{ '/tags/2006' | relative_url }}">2006</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/redfern-nicholas">Redfern, Nicholas</a> in his “<a href="/ufo-history/ufo-books/redfern-nicholas-on-the-trail-of-the-saucer-spies">On the Trail of the Saucer Spies : UFOs and Government Surveillance</a>” (<a href="/tags/2006">2006</a>) (available <a href="http://www.amazon.com/dp/0743497538/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743497538/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 150-151 (in Chapter 9) of the Anomalist Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/redfern-nicholas' | relative_url }}">Redfern, Nicholas</a> in his “<a href="{{ '/ufo-history/ufo-books/redfern-nicholas-on-the-trail-of-the-saucer-spies' | relative_url }}">On the Trail of the Saucer Spies : UFOs and Government Surveillance</a>” (<a href="{{ '/tags/2006' | relative_url }}">2006</a>) (available <a href="http://www.amazon.com/dp/0743497538/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743497538/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 150-151 (in Chapter 9) of the Anomalist Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

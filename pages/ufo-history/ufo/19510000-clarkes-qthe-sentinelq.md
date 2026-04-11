@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -65,10 +65,10 @@ For discussion of “The Sentinel” see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1972">1972</a></p>
+<p><a href="{{ '/tags/1972' | relative_url }}">1972</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clarke-arthur-c">Clarke, Arthur C</a> in his “Report on Planet Three” (<a href="/tags/1972">1972</a>) (available <a href="http://www.amazon.com/dp/0060107936/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0060107936/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 102 (in Chapter 9) of the Corgi paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clarke-arthur-c' | relative_url }}">Clarke, Arthur C</a> in his “Report on Planet Three” (<a href="{{ '/tags/1972' | relative_url }}">1972</a>) (available <a href="http://www.amazon.com/dp/0060107936/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0060107936/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 102 (in Chapter 9) of the Corgi paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -76,10 +76,10 @@ For discussion of “The Sentinel” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1976">1976</a></p>
+<p><a href="{{ '/tags/1976' | relative_url }}">1976</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/story-ronald">Story, Ronald</a> in his “<a href="/ufo-history/ufo-books/story-ronald-the-space-gods-revealed">The Space Gods Revealed</a>” (<a href="/tags/1976">1976</a>) (available <a href="http://www.amazon.com/dp/0060141417/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0060141417/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 101-102 (in Chapter 12) of the New English Library paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Story, Ronald</a> in his “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-space-gods-revealed' | relative_url }}">The Space Gods Revealed</a>” (<a href="{{ '/tags/1976' | relative_url }}">1976</a>) (available <a href="http://www.amazon.com/dp/0060141417/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0060141417/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 101-102 (in Chapter 12) of the New English Library paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

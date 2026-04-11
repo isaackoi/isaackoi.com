@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/ashpole_edward_1.jpg"}
 ---
 
-![ashpole_edward_1](/images/stories/ufo_personalities/ashpole_edward_1.jpg)
+![ashpole_edward_1]({{ '/images/stories/ufo_personalities/ashpole_edward_1.jpg' | relative_url }})
 
 *Edward Ashpole*
 
@@ -36,26 +36,26 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1989">1989</a></p>
+<p><a href="{{ '/tags/1989' | relative_url }}">1989</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/ashpole-edward">Ashpole, Edward</a> “<a href="/ufo-history/ufo-books/ashpole-edward-the-search-for-extraterrestrial-intelligence">The Search for Extraterrestrial Intelligence</a>“ (Revised edition published in <a href="/tags/1997">1997</a> under the title “Where is Everybody?”) (<a href="/tags/1989">1989</a>) (available <a href="http://www.amazon.com/dp/071371963X/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/071371963X/?&amp;tag=ufot-21">on Amazon UK</a>) (<a href="/tags/seti">SETI</a>:)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/ashpole-edward' | relative_url }}">Ashpole, Edward</a> “<a href="{{ '/ufo-history/ufo-books/ashpole-edward-the-search-for-extraterrestrial-intelligence' | relative_url }}">The Search for Extraterrestrial Intelligence</a>“ (Revised edition published in <a href="{{ '/tags/1997' | relative_url }}">1997</a> under the title “Where is Everybody?”) (<a href="{{ '/tags/1989' | relative_url }}">1989</a>) (available <a href="http://www.amazon.com/dp/071371963X/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/071371963X/?&amp;tag=ufot-21">on Amazon UK</a>) (<a href="{{ '/tags/seti' | relative_url }}">SETI</a>:)</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/ashpole-edward">Ashpole, Edward</a> “<a href="/ufo-history/ufo-books/ashpole-edward-the-ufo-phenomena">“The UFO Phenomena”</a> (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/0747212465/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0747212465/?&amp;tag=ufot-21">on Amazon UK</a>) (<a href="/tags/seti">SETI</a>:)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/ashpole-edward' | relative_url }}">Ashpole, Edward</a> “<a href="{{ '/ufo-history/ufo-books/ashpole-edward-the-ufo-phenomena' | relative_url }}">“The UFO Phenomena”</a> (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/0747212465/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0747212465/?&amp;tag=ufot-21">on Amazon UK</a>) (<a href="{{ '/tags/seti' | relative_url }}">SETI</a>:)</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/ashpole-edward">Ashpole, Edward</a> “Where is Everybody”. (Earlier edition published in <a href="/tags/1989">1989</a> under the title “<a href="/ufo-history/ufo-books/ashpole-edward-the-search-for-extraterrestrial-intelligence">The Search for Extraterrestrial Intelligence</a>” (<a href="/tags/seti">SETI</a>:)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/ashpole-edward' | relative_url }}">Ashpole, Edward</a> “Where is Everybody”. (Earlier edition published in <a href="{{ '/tags/1989' | relative_url }}">1989</a> under the title “<a href="{{ '/ufo-history/ufo-books/ashpole-edward-the-search-for-extraterrestrial-intelligence' | relative_url }}">The Search for Extraterrestrial Intelligence</a>” (<a href="{{ '/tags/seti' | relative_url }}">SETI</a>:)</p>
 </td>
 </tr>
 </tbody>

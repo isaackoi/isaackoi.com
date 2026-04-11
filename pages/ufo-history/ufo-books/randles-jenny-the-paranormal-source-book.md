@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0749914114.jpg"}
 book: {"identifiers": ["0749914114"], "primary_isbn": "0749914114", "cover_image": "/book-covers/0749914114.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of “[The Paranormal Source Book](/ufo-history/ufo-books/randles-jenny-the-paranormal-source-book)” ([1996](/tags/1996)) (available [on Amazon USA](http://www.amazon.com/dp/0749914114/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0749914114/?&tag=ufot-21)) by [Jenny Randles](/ufo-history/ufo-personalities/randles-jenny).
+Brief review to be added of “[The Paranormal Source Book]({{ '/ufo-history/ufo-books/randles-jenny-the-paranormal-source-book' | relative_url }})” ([1996]({{ '/tags/1996' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0749914114/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0749914114/?&tag=ufot-21)) by [Jenny Randles]({{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}).
 
 1. [Web Resources](#web)
 

@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/1885395388.jpg"}
 book: {"identifiers": ["1885395388", "156718779X", "3931652319", "1893302563"], "primary_isbn": "1885395388", "cover_image": "/book-covers/1885395388.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of R A Boulay's book “[Flying Serpents and Dragons: The Story of Mankind’s Reptilian Past](/ufo-history/ufo-books/boulay-r-a-flying-serpents-and-dragons-the-story-of-mankinds-reptilian-past)” ([1997](/tags/1997)) (available [on Amazon USA](http://www.amazon.com/dp/1885395388/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1885395388/?&tag=ufot-21))
+Brief review to be added of R A Boulay's book “[Flying Serpents and Dragons: The Story of Mankind’s Reptilian Past]({{ '/ufo-history/ufo-books/boulay-r-a-flying-serpents-and-dragons-the-story-of-mankinds-reptilian-past' | relative_url }})” ([1997]({{ '/tags/1997' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1885395388/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1885395388/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -52,10 +52,10 @@ Many of the tables of references on this website are considerably longer than th
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p>Walden, James in his “<a href="/ufo-history/ufo-books/walden-james-l-the-ultimate-alien-agenda-the-re-engineering-of-humankind">The Ultimate Alien Agenda: The Re-Engineering of Humankind</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/156718779X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/156718779X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 191-193 (in Chapter 17) of the Llewellyn softcover edition.</p>
+<p>Walden, James in his “<a href="{{ '/ufo-history/ufo-books/walden-james-l-the-ultimate-alien-agenda-the-re-engineering-of-humankind' | relative_url }}">The Ultimate Alien Agenda: The Re-Engineering of Humankind</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/156718779X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/156718779X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 191-193 (in Chapter 17) of the Llewellyn softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -63,10 +63,10 @@ Many of the tables of references on this website are considerably longer than th
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p>Horn, Arthur D and Horn, Lynette M in their “<a href="/ufo-history/ufo-books/horn-arthur-d-and-horn-lynette-m-humanitys-extraterrestrial-origins">Humanity's Extraterrestrial Origins</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/3931652319/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/3931652319/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 88-89 (in Chapter 5), 246 (in Chapter 14) of the Silberschnur softcover edition.</p>
+<p>Horn, Arthur D and Horn, Lynette M in their “<a href="{{ '/ufo-history/ufo-books/horn-arthur-d-and-horn-lynette-m-humanitys-extraterrestrial-origins' | relative_url }}">Humanity's Extraterrestrial Origins</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/3931652319/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/3931652319/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 88-89 (in Chapter 5), 246 (in Chapter 14) of the Silberschnur softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -74,10 +74,10 @@ Many of the tables of references on this website are considerably longer than th
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2004">2004</a></p>
+<p><a href="{{ '/tags/2004' | relative_url }}">2004</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/salla-michael">Salla, Michael</a> in his “<a href="/ufo-history/ufo-books/salla-michael-exopolitics-political-implications-of-the-extraterrestrial-presence">Exopolitics : Political Implications of the Extraterrestrial Presence</a>” (<a href="/tags/2004">2004</a>) (available <a href="http://www.amazon.com/dp/1893302563/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1893302563/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 27 (in Chapter 1) of the Dandelion Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/salla-michael' | relative_url }}">Salla, Michael</a> in his “<a href="{{ '/ufo-history/ufo-books/salla-michael-exopolitics-political-implications-of-the-extraterrestrial-presence' | relative_url }}">Exopolitics : Political Implications of the Extraterrestrial Presence</a>” (<a href="{{ '/tags/2004' | relative_url }}">2004</a>) (available <a href="http://www.amazon.com/dp/1893302563/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1893302563/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 27 (in Chapter 1) of the Dandelion Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

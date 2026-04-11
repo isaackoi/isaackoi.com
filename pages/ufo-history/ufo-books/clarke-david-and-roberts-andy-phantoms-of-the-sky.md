@@ -14,7 +14,7 @@ header: {"preview_image": "https://covers.openlibrary.org/b/isbn/0709040865-L.jp
 book: {"identifiers": ["0709040865", "0816038007"], "primary_isbn": "0709040865", "cover_image": "https://covers.openlibrary.org/b/isbn/0709040865-L.jpg?default=false", "cover_source": "openlibrary"}
 ---
 
-Brief review to be added of [David Clarke](/ufo-history/ufo-personalities/clarke-david) and [Andy Roberts](/ufo-history/ufo-personalities/roberts-andy)' book “[Phantoms of the Sky](/ufo-history/ufo-books/clarke-david-and-roberts-andy-phantoms-of-the-sky)” ([1990](/tags/1990)) (available [on Amazon USA](http://www.amazon.com/dp/0709040865/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0709040865/?&tag=ufot-21))
+Brief review to be added of [David Clarke]({{ '/ufo-history/ufo-personalities/clarke-david' | relative_url }}) and [Andy Roberts]({{ '/ufo-history/ufo-personalities/roberts-andy' | relative_url }})' book “[Phantoms of the Sky]({{ '/ufo-history/ufo-books/clarke-david-and-roberts-andy-phantoms-of-the-sky' | relative_url }})” ([1990]({{ '/tags/1990' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0709040865/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0709040865/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -52,10 +52,10 @@ Many of the tables of references on this website are considerably longer than th
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/devereux-paul">Devereux, Paul</a> and <a href="/ufo-history/ufo-personalities/brookesmith-peter">Brookesmith, Peter</a> in their “<a href="/ufo-history/ufo-books/devereux-paul-and-brookesmith-peter-ufos-and-ufology-the-first-50-years">UFOs and Ufology – the first 50 years</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0816038007/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0816038007/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 98 (in Chapter 7) of the Blandford softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/devereux-paul' | relative_url }}">Devereux, Paul</a> and <a href="{{ '/ufo-history/ufo-personalities/brookesmith-peter' | relative_url }}">Brookesmith, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/devereux-paul-and-brookesmith-peter-ufos-and-ufology-the-first-50-years' | relative_url }}">UFOs and Ufology – the first 50 years</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0816038007/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0816038007/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 98 (in Chapter 7) of the Blandford softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -63,10 +63,10 @@ Many of the tables of references on this website are considerably longer than th
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in the Foreword to “<a href="/ufo-history/ufo-books/clarke-david-and-roberts-andy-phantoms-of-the-sky">Phantoms of the Sky</a>: UFOs – A Modern Myth?” (<a href="/tags/1990">1990</a>) by <a href="/ufo-history/ufo-personalities/clarke-david">David Clarke</a> and <a href="/ufo-history/ufo-personalities/roberts-andy">Andy Roberts</a> at pages 9-14 of the Hale hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in the Foreword to “<a href="{{ '/ufo-history/ufo-books/clarke-david-and-roberts-andy-phantoms-of-the-sky' | relative_url }}">Phantoms of the Sky</a>: UFOs – A Modern Myth?” (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) by <a href="{{ '/ufo-history/ufo-personalities/clarke-david' | relative_url }}">David Clarke</a> and <a href="{{ '/ufo-history/ufo-personalities/roberts-andy' | relative_url }}">Andy Roberts</a> at pages 9-14 of the Hale hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>6</p>

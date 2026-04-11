@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/movies_1.jpg"}
 ---
 
-![movies_1](/images/stories/ufo_tags/movies_1.jpg)
+![movies_1]({{ '/images/stories/ufo_tags/movies_1.jpg' | relative_url }})
 
 *“Alien Nation”*
 
@@ -73,10 +73,10 @@ For discussion of “Alien Nation” see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1989">1989</a></p>
+<p><a href="{{ '/tags/1989' | relative_url }}">1989</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/conroy-ed">Conroy, Ed</a> in his “<a href="/ufo-history/ufo-books/conroy-ed-report-on-communion">Report on Communion</a>” (<a href="/tags/1989">1989</a>) (available <a href="http://www.amazon.com/dp/0688088643/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0688088643/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 194 (in Chapter 5), 330 (in Chapter 9) of the Avon paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/conroy-ed' | relative_url }}">Conroy, Ed</a> in his “<a href="{{ '/ufo-history/ufo-books/conroy-ed-report-on-communion' | relative_url }}">Report on Communion</a>” (<a href="{{ '/tags/1989' | relative_url }}">1989</a>) (available <a href="http://www.amazon.com/dp/0688088643/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0688088643/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 194 (in Chapter 5), 330 (in Chapter 9) of the Avon paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -84,10 +84,10 @@ For discussion of “Alien Nation” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/dean-jodi">Dean, Jodi</a> in her “<a href="/ufo-history/ufo-books/dean-jodi-aliens-in-america">Aliens in America</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0801484685/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0801484685/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 156, 167 (in Chapter 5) of the Cornell University softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dean-jodi' | relative_url }}">Dean, Jodi</a> in her “<a href="{{ '/ufo-history/ufo-books/dean-jodi-aliens-in-america' | relative_url }}">Aliens in America</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0801484685/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0801484685/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 156, 167 (in Chapter 5) of the Cornell University softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -95,10 +95,10 @@ For discussion of “Alien Nation” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p>Miller, David and Gatiss, Mark in their “<a href="/ufo-history/ufo-books/miller-david-and-gatiss-mark-they-came-from-outer-space-alien-encounters-in-the-movies">They Came From Outer Space : Alien Encounters in the Movies</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/1901018008/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1901018008/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 122 of the Visual Imagination softcover edition.</p>
+<p>Miller, David and Gatiss, Mark in their “<a href="{{ '/ufo-history/ufo-books/miller-david-and-gatiss-mark-they-came-from-outer-space-alien-encounters-in-the-movies' | relative_url }}">They Came From Outer Space : Alien Encounters in the Movies</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/1901018008/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1901018008/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 122 of the Visual Imagination softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -106,10 +106,10 @@ For discussion of “Alien Nation” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p>Patton, Phil in his “<a href="/ufo-history/ufo-books/patton-phil-travels-in-dreamland">Travels in Dreamland</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0679456511/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0679456511/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 234 (in Chapter 21) of the Orion Media hardback edition.</p>
+<p>Patton, Phil in his “<a href="{{ '/ufo-history/ufo-books/patton-phil-travels-in-dreamland' | relative_url }}">Travels in Dreamland</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0679456511/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0679456511/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 234 (in Chapter 21) of the Orion Media hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -117,10 +117,10 @@ For discussion of “Alien Nation” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> and <a href="/ufo-history/ufo-personalities/hough-peter">Hough, Peter</a> in their “<a href="/ufo-history/ufo-books/randles-jenny-and-hough-peter-looking-for-the-aliens">Looking for the Aliens</a>” (<a href="/tags/1991">1991</a>) (available <a href="http://www.amazon.com/dp/0760704406/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0760704406/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 219 (in Chapter 23) of the Blandford softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> and <a href="{{ '/ufo-history/ufo-personalities/hough-peter' | relative_url }}">Hough, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-hough-peter-looking-for-the-aliens' | relative_url }}">Looking for the Aliens</a>” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/0760704406/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0760704406/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 219 (in Chapter 23) of the Blandford softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -128,10 +128,10 @@ For discussion of “Alien Nation” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/rux-bruce">Rux, Bruce</a> in his “<a href="/ufo-history/ufo-books/rux-bruce-hollywood-vs-the-aliens">Hollywood Vs. the Aliens</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1883319617/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1883319617/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 299 (in Chapter 6) of the Frog softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/rux-bruce' | relative_url }}">Rux, Bruce</a> in his “<a href="{{ '/ufo-history/ufo-books/rux-bruce-hollywood-vs-the-aliens' | relative_url }}">Hollywood Vs. the Aliens</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1883319617/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1883319617/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 299 (in Chapter 6) of the Frog softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -139,10 +139,10 @@ For discussion of “Alien Nation” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/turner-karla">Turner, Karla</a> in her “Into the Fringe” (<a href="/tags/1992">1992</a>) at page 93 (in Chapter 5) of the Berkley paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/turner-karla' | relative_url }}">Turner, Karla</a> in her “Into the Fringe” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) at page 93 (in Chapter 5) of the Berkley paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -150,10 +150,10 @@ For discussion of “Alien Nation” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="547">
-<p>White, Frank in his “<a href="/ufo-history/ufo-books/white-frank-the-seti-factor">The SETI Factor</a>” (<a href="/tags/1990">1990</a>) (available <a href="http://www.amazon.com/dp/0802711057/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0802711057/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 142 (in Chapter 9) of the Walker hardback edition.</p>
+<p>White, Frank in his “<a href="{{ '/ufo-history/ufo-books/white-frank-the-seti-factor' | relative_url }}">The SETI Factor</a>” (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) (available <a href="http://www.amazon.com/dp/0802711057/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0802711057/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 142 (in Chapter 9) of the Walker hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/movies_1.jpg"}
 ---
 
-![movies_1](/images/stories/ufo_tags/movies_1.jpg)
+![movies_1]({{ '/images/stories/ufo_tags/movies_1.jpg' | relative_url }})
 
 *“Village of the Damned”*
 
@@ -67,10 +67,10 @@ For discussion of the “The Village of the Damned” and/or “The Midwich Cuck
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1973">1973</a></p>
+<p><a href="{{ '/tags/1973' | relative_url }}">1973</a></p>
 </td>
 <td valign="top" width="547">
-<p>Aldiss, Brian in his “Billion Year Spree” (<a href="/tags/1973">1973</a>) (available <a href="http://www.amazon.com/dp/0805204504/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0805204504/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 290-294 (in Chapter 11) of the Weidenfeld &amp; Nicolson hardback edition.</p>
+<p>Aldiss, Brian in his “Billion Year Spree” (<a href="{{ '/tags/1973' | relative_url }}">1973</a>) (available <a href="http://www.amazon.com/dp/0805204504/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0805204504/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 290-294 (in Chapter 11) of the Weidenfeld &amp; Nicolson hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>
@@ -78,10 +78,10 @@ For discussion of the “The Village of the Damned” and/or “The Midwich Cuck
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1970">1970</a></p>
+<p><a href="{{ '/tags/1970' | relative_url }}">1970</a></p>
 </td>
 <td valign="top" width="547">
-<p>Baxter, John in his “Science Fiction in the Cinema” (<a href="/tags/1970">1970</a>) (available <a href="http://www.amazon.com/dp/0498074161/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0498074161/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 100-101 (in Chapter 8), 239 (in the “Select Filmography”) of the Zwemmer softcover edition.</p>
+<p>Baxter, John in his “Science Fiction in the Cinema” (<a href="{{ '/tags/1970' | relative_url }}">1970</a>) (available <a href="http://www.amazon.com/dp/0498074161/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0498074161/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 100-101 (in Chapter 8), 239 (in the “Select Filmography”) of the Zwemmer softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -89,10 +89,10 @@ For discussion of the “The Village of the Damned” and/or “The Midwich Cuck
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p>Lachman, Gary Valentine in his “<a href="/ufo-history/ufo-books/lachman-gary-valentine-turn-off-your-mind">Turn Off Your Mind</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/0971394237/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0971394237/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 28-29 (in Chapter 1) of the Sidgwick &amp; Jackson softcover edition.</p>
+<p>Lachman, Gary Valentine in his “<a href="{{ '/ufo-history/ufo-books/lachman-gary-valentine-turn-off-your-mind' | relative_url }}">Turn Off Your Mind</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/0971394237/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0971394237/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 28-29 (in Chapter 1) of the Sidgwick &amp; Jackson softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -100,10 +100,10 @@ For discussion of the “The Village of the Damned” and/or “The Midwich Cuck
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p>Miller, David and Gatiss, Mark in their “<a href="/ufo-history/ufo-books/miller-david-and-gatiss-mark-they-came-from-outer-space-alien-encounters-in-the-movies">They Came From Outer Space : Alien Encounters in the Movies</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/1901018008/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1901018008/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 52-53, 65, 137 of the Visual Imagination softcover edition.</p>
+<p>Miller, David and Gatiss, Mark in their “<a href="{{ '/ufo-history/ufo-books/miller-david-and-gatiss-mark-they-came-from-outer-space-alien-encounters-in-the-movies' | relative_url }}">They Came From Outer Space : Alien Encounters in the Movies</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/1901018008/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1901018008/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 52-53, 65, 137 of the Visual Imagination softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -111,10 +111,10 @@ For discussion of the “The Village of the Damned” and/or “The Midwich Cuck
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1977">1977</a></p>
+<p><a href="{{ '/tags/1977' | relative_url }}">1977</a></p>
 </td>
 <td valign="top" width="547">
-<p>Naha, Ed in his “Science Fiction Aliens - Starlog Photo Guidebook” (<a href="/tags/1977">1977</a>) (available <a href="http://www.amazon.com/dp/0931064015/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0931064015/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 61 (in the unnumbered section entitled “Motion Pictures”) of the Starlog softcover edition.</p>
+<p>Naha, Ed in his “Science Fiction Aliens - Starlog Photo Guidebook” (<a href="{{ '/tags/1977' | relative_url }}">1977</a>) (available <a href="http://www.amazon.com/dp/0931064015/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0931064015/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 61 (in the unnumbered section entitled “Motion Pictures”) of the Starlog softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -122,10 +122,10 @@ For discussion of the “The Village of the Damned” and/or “The Midwich Cuck
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p>Nesheim, Eric and Nesheim, Leif in their “<a href="/ufo-history/ufo-books/nesheim-eric-and-nesheim-leif-saucer-attack-pop-culture-in-the-golden-age-of-flying-saucers">Saucer Attack! : Pop Culture in the Golden Age of Flying Saucers</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1575440660/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1575440660/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 71 of the General Publishing softcover edition.</p>
+<p>Nesheim, Eric and Nesheim, Leif in their “<a href="{{ '/ufo-history/ufo-books/nesheim-eric-and-nesheim-leif-saucer-attack-pop-culture-in-the-golden-age-of-flying-saucers' | relative_url }}">Saucer Attack! : Pop Culture in the Golden Age of Flying Saucers</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1575440660/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1575440660/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 71 of the General Publishing softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -133,10 +133,10 @@ For discussion of the “The Village of the Damned” and/or “The Midwich Cuck
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> and <a href="/ufo-history/ufo-personalities/hough-peter">Hough, Peter</a> in their “<a href="/ufo-history/ufo-books/randles-jenny-and-hough-peter-looking-for-the-aliens">Looking for the Aliens</a>” (<a href="/tags/1991">1991</a>) (available <a href="http://www.amazon.com/dp/0760704406/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0760704406/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 14 (in Chapter 1) of the Blandford softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> and <a href="{{ '/ufo-history/ufo-personalities/hough-peter' | relative_url }}">Hough, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-hough-peter-looking-for-the-aliens' | relative_url }}">Looking for the Aliens</a>” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/0760704406/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0760704406/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 14 (in Chapter 1) of the Blandford softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -144,10 +144,10 @@ For discussion of the “The Village of the Damned” and/or “The Midwich Cuck
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1988">1988</a></p>
+<p><a href="{{ '/tags/1988' | relative_url }}">1988</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-abduction">Abduction</a>“ (<a href="/tags/1988">1988</a>) (available <a href="http://www.amazon.com/dp/0709032765/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0709032765/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 45-46 (in Chapter 3) of the Hale hardback edition (with the same page numbering in the Headline paperback edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-abduction' | relative_url }}">Abduction</a>“ (<a href="{{ '/tags/1988' | relative_url }}">1988</a>) (available <a href="http://www.amazon.com/dp/0709032765/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0709032765/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 45-46 (in Chapter 3) of the Hale hardback edition (with the same page numbering in the Headline paperback edition).</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -155,10 +155,10 @@ For discussion of the “The Village of the Damned” and/or “The Midwich Cuck
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-the-complete-book-of-aliens-and-abductions">The Complete Book of Aliens and Abductions</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0749921005/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0749921005/ref=nosim?tag=ufot-21">on Amazon UK</a>) a page 127 (in Part 4) of the Piatkus hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-the-complete-book-of-aliens-and-abductions' | relative_url }}">The Complete Book of Aliens and Abductions</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0749921005/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0749921005/ref=nosim?tag=ufot-21">on Amazon UK</a>) a page 127 (in Part 4) of the Piatkus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -166,10 +166,10 @@ For discussion of the “The Village of the Damned” and/or “The Midwich Cuck
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/rux-bruce">Rux, Bruce</a> in his “<a href="/ufo-history/ufo-books/rux-bruce-hollywood-vs-the-aliens">Hollywood Vs. the Aliens</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1883319617/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1883319617/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 233 (in Chapter 4) of the Frog softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/rux-bruce' | relative_url }}">Rux, Bruce</a> in his “<a href="{{ '/ufo-history/ufo-books/rux-bruce-hollywood-vs-the-aliens' | relative_url }}">Hollywood Vs. the Aliens</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1883319617/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1883319617/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 233 (in Chapter 4) of the Frog softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -177,10 +177,10 @@ For discussion of the “The Village of the Damned” and/or “The Midwich Cuck
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1977">1977</a></p>
+<p><a href="{{ '/tags/1977' | relative_url }}">1977</a></p>
 </td>
 <td valign="top" width="547">
-<p>Tansley, David in his “Omens of Awareness” (<a href="/tags/1977">1977</a>) (available <a href="http://www.amazon.com/dp/0854351345/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0854351345/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 279 (in Chapter 14) of the Abacus paperback edition.</p>
+<p>Tansley, David in his “Omens of Awareness” (<a href="{{ '/tags/1977' | relative_url }}">1977</a>) (available <a href="http://www.amazon.com/dp/0854351345/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0854351345/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 279 (in Chapter 14) of the Abacus paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -188,10 +188,10 @@ For discussion of the “The Village of the Damned” and/or “The Midwich Cuck
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/wilson-colin">Wilson, Colin</a> in his “<a href="/ufo-history/ufo-books/wilson-colin-alien-dawn">Alien Dawn</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0880642262/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0880642262/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 190 (in Chapter 6) of the Virgin softcover edition (with the same page numbering in the Virgin paperback edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/wilson-colin' | relative_url }}">Wilson, Colin</a> in his “<a href="{{ '/ufo-history/ufo-books/wilson-colin-alien-dawn' | relative_url }}">Alien Dawn</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0880642262/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0880642262/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 190 (in Chapter 6) of the Virgin softcover edition (with the same page numbering in the Virgin paperback edition).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

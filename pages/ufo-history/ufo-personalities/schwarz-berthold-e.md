@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/schwarz_berthold_e_1.jpg"}
 ---
 
-![schwarz_berthold_e_1](/images/stories/ufo_personalities/schwarz_berthold_e_1.jpg)
+![schwarz_berthold_e_1]({{ '/images/stories/ufo_personalities/schwarz_berthold_e_1.jpg' | relative_url }})
 
 *Berthold E Schwarz*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1983">1983</a></p>
+<p><a href="{{ '/tags/1983' | relative_url }}">1983</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/schwarz-berthold-e">Schwarz, Berthold E</a> “UFO Dynamics : Psychiatric and Psychic Aspects of the UFO Syndrome” (<a href="/tags/1983">1983</a>) (available <a href="http://www.amazon.com/dp/0935834648/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0935834648/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/schwarz-berthold-e' | relative_url }}">Schwarz, Berthold E</a> “UFO Dynamics : Psychiatric and Psychic Aspects of the UFO Syndrome” (<a href="{{ '/tags/1983' | relative_url }}">1983</a>) (available <a href="http://www.amazon.com/dp/0935834648/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0935834648/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>
@@ -83,10 +83,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1988">1988</a></p>
+<p><a href="{{ '/tags/1988' | relative_url }}">1988</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/boyd-robert-d">Boyd, Robert D</a> in his “International Who’s Who in Ufology Directory” (<a href="/tags/1988">1988</a>) at pages 191-192 of the PMT Publishing softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/boyd-robert-d' | relative_url }}">Boyd, Robert D</a> in his “International Who’s Who in Ufology Directory” (<a href="{{ '/tags/1988' | relative_url }}">1988</a>) at pages 191-192 of the PMT Publishing softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -94,10 +94,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/davenport-marc">Davenport, Marc</a> in his “<a href="/ufo-history/ufo-books/davenport-marc-visitors-from-time">Visitors from Time</a>” (<a href="/tags/1992">1992</a>) (available <a href="http://www.amazon.com/dp/1883729025/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1883729025/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 2 (in Chapter 1) of the <a href="/tags/1994">1994</a> revised Greenleaf softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/davenport-marc' | relative_url }}">Davenport, Marc</a> in his “<a href="{{ '/ufo-history/ufo-books/davenport-marc-visitors-from-time' | relative_url }}">Visitors from Time</a>” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="http://www.amazon.com/dp/1883729025/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1883729025/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 2 (in Chapter 1) of the <a href="{{ '/tags/1994' | relative_url }}">1994</a> revised Greenleaf softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -105,10 +105,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2003">2003</a></p>
+<p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/druffel-ann">Druffel, Ann</a> in her “<a href="/ufo-history/ufo-books/druffel-ann-firestorm-dr-james-e-mcdonalds-fight-for-ufo-science">Firestorm : Dr James E McDonald's Fight for UFO Science</a>” (<a href="/tags/2003">2003</a>) (available <a href="http://www.amazon.com/dp/0926524585/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0926524585/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 328 (in Chapter 13) of the Wild Flower Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/druffel-ann' | relative_url }}">Druffel, Ann</a> in her “<a href="{{ '/ufo-history/ufo-books/druffel-ann-firestorm-dr-james-e-mcdonalds-fight-for-ufo-science' | relative_url }}">Firestorm : Dr James E McDonald's Fight for UFO Science</a>” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) (available <a href="http://www.amazon.com/dp/0926524585/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0926524585/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 328 (in Chapter 13) of the Wild Flower Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -116,10 +116,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1976">1976</a></p>
+<p><a href="{{ '/tags/1976' | relative_url }}">1976</a></p>
 </td>
 <td valign="top" width="547">
-<p>Holzer, Hans in his “<a href="/ufo-history/ufo-books/holzer-hans-the-ufonauts">The UFOnauts</a>” (<a href="/tags/1976">1976</a>) (available <a href="http://www.amazon.com/dp/0449135691/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0449135691/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 41-42 (in Chapter 2) of the Fawcett Gold Medal paperback edition.</p>
+<p>Holzer, Hans in his “<a href="{{ '/ufo-history/ufo-books/holzer-hans-the-ufonauts' | relative_url }}">The UFOnauts</a>” (<a href="{{ '/tags/1976' | relative_url }}">1976</a>) (available <a href="http://www.amazon.com/dp/0449135691/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0449135691/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 41-42 (in Chapter 2) of the Fawcett Gold Medal paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -127,10 +127,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="547">
-<p>Little, Gregory in his “<a href="/ufo-history/ufo-books/little-gregory-people-of-the-web">People of the Web</a>” (<a href="/tags/1990">1990</a>) (available <a href="http://www.amazon.com/dp/0940829029/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0940829029/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 71 (in Chapter 5) of the White Buffalo softcover edition.</p>
+<p>Little, Gregory in his “<a href="{{ '/ufo-history/ufo-books/little-gregory-people-of-the-web' | relative_url }}">People of the Web</a>” (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) (available <a href="http://www.amazon.com/dp/0940829029/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0940829029/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 71 (in Chapter 5) of the White Buffalo softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -138,10 +138,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sachs-margaret">Sachs, Margaret</a> in her “<a href="/ufo-history/ufo-books/sachs-margaret-the-ufo-encyclopedia">The UFO Encyclopedia</a>“ (<a href="/tags/1980">1980</a> (available <a href="http://www.amazon.com/dp/0399124217/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0399124217/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 285 (in an entry entitled “<a href="/ufo-history/ufo-personalities/schwarz-berthold-e">Schwarz, Berthold E</a>ric”) of the Corgi softback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sachs-margaret' | relative_url }}">Sachs, Margaret</a> in her “<a href="{{ '/ufo-history/ufo-books/sachs-margaret-the-ufo-encyclopedia' | relative_url }}">The UFO Encyclopedia</a>“ (<a href="{{ '/tags/1980' | relative_url }}">1980</a> (available <a href="http://www.amazon.com/dp/0399124217/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0399124217/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 285 (in an entry entitled “<a href="{{ '/ufo-history/ufo-personalities/schwarz-berthold-e' | relative_url }}">Schwarz, Berthold E</a>ric”) of the Corgi softback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -149,10 +149,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p>Simon, Armando in “<a href="/ufo-history/ufo-books/frazier-kendrick-and-nickell-joseph-ed-the-ufo-invasion">The UFO Invasion</a>” (<a href="/tags/1997">1997</a>) (edited by <a href="/ufo-history/ufo-personalities/frazier-kendrick">Kendrick Frazier</a>, Barry Karr and <a href="/ufo-history/ufo-personalities/nickell-joe">Joe Nickell</a>) (available <a href="http://www.amazon.com/dp/1573921319/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573921319/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 47 of the Prometheus hardback edition (part of Chapter 3, “Psychology and UFOs”). The relevant chapter is a reprint of an article in the <em>Skeptical Inquirer </em>8 (Summer <a href="/tags/1984">1984</a>).</p>
+<p>Simon, Armando in “<a href="{{ '/ufo-history/ufo-books/frazier-kendrick-and-nickell-joseph-ed-the-ufo-invasion' | relative_url }}">The UFO Invasion</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/frazier-kendrick' | relative_url }}">Kendrick Frazier</a>, Barry Karr and <a href="{{ '/ufo-history/ufo-personalities/nickell-joe' | relative_url }}">Joe Nickell</a>) (available <a href="http://www.amazon.com/dp/1573921319/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573921319/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 47 of the Prometheus hardback edition (part of Chapter 3, “Psychology and UFOs”). The relevant chapter is a reprint of an article in the <em>Skeptical Inquirer </em>8 (Summer <a href="{{ '/tags/1984' | relative_url }}">1984</a>).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -160,10 +160,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/story-ronald">Story, Ronald</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 520-521 (in an entry entitled “<a href="/ufo-history/ufo-personalities/schwarz-berthold-e">Schwarz, Berthold E</a>”) of the New American Library softcover edition, at pages 508-509 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Story, Ronald</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 520-521 (in an entry entitled “<a href="{{ '/ufo-history/ufo-personalities/schwarz-berthold-e' | relative_url }}">Schwarz, Berthold E</a>”) of the New American Library softcover edition, at pages 508-509 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -171,10 +171,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/story-ronald">Story, Ronald</a> in “<a href="/ufo-history/ufo-books/story-ronald-editor-and-green-j-richard-consulting-editor-the-encyclopedia-of-ufos">The Encyclopedia of UFOs</a>” (<a href="/tags/1980">1980</a>) edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a> (available <a href="http://www.amazon.com/dp/0385136773/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0385136773/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 321-322 (in an entry entitled “<a href="/ufo-history/ufo-personalities/schwarz-berthold-e">Schwarz, Berthold E</a>ric”) of the NEL hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Story, Ronald</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-editor-and-green-j-richard-consulting-editor-the-encyclopedia-of-ufos' | relative_url }}">The Encyclopedia of UFOs</a>” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a> (available <a href="http://www.amazon.com/dp/0385136773/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0385136773/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 321-322 (in an entry entitled “<a href="{{ '/ufo-history/ufo-personalities/schwarz-berthold-e' | relative_url }}">Schwarz, Berthold E</a>ric”) of the NEL hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -182,10 +182,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/story-ronald">Story, Ronald</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 625-626 (in an entry entitled “<a href="/ufo-history/ufo-personalities/schwarz-berthold-e">Schwarz, Berthold E</a>”) of the Robinson softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Story, Ronald</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 625-626 (in an entry entitled “<a href="{{ '/ufo-history/ufo-personalities/schwarz-berthold-e' | relative_url }}">Schwarz, Berthold E</a>”) of the Robinson softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

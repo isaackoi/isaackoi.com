@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/leonard_george_1.jpg"}
 ---
 
-![leonard_george_1](/images/stories/ufo_personalities/leonard_george_1.jpg)
+![leonard_george_1]({{ '/images/stories/ufo_personalities/leonard_george_1.jpg' | relative_url }})
 
 *George Leonard*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1976">1976</a></p>
+<p><a href="{{ '/tags/1976' | relative_url }}">1976</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/leonard-george">Leonard, George</a> “<a href="/ufo-history/ufo-books/leonard-george-someone-else-is-on-our-moon">Someone Else is on our Moon</a>” (<a href="/tags/1976">1976</a>) (available <a href="http://www.amazon.com/dp/0722154860/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0722154860/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/leonard-george' | relative_url }}">Leonard, George</a> “<a href="{{ '/ufo-history/ufo-books/leonard-george-someone-else-is-on-our-moon' | relative_url }}">Someone Else is on our Moon</a>” (<a href="{{ '/tags/1976' | relative_url }}">1976</a>) (available <a href="http://www.amazon.com/dp/0722154860/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0722154860/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>

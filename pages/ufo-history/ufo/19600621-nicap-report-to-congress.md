@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -43,7 +43,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-Discussed by [Maney, Charles A](/ufo-history/ufo-personalities/maney-charles-a)nd [Hall, Richard](/ufo-history/ufo-personalities/hall-richard-h) in their “[Challenge of Unidentified Flying Objects](/ufo-history/ufo-books/maney-charles-a-and-hall-richard-the-challenge-of-unidentified-flying-objects)” ([1961](/tags/1961)) (with quotes of substantially the entire text of the report) at pages 1-2 (Part 1, Chapter 1), 12-20 (Part 1, Chapter 2), 178-179 (Appendix, image of Congressional Record, remarks by Honourable Leonard G Wolf in the House of Represenatives on Wednesday [1960](/tags/1960).0831) of the privately published hardback edition.
+Discussed by [Maney, Charles A]({{ '/ufo-history/ufo-personalities/maney-charles-a' | relative_url }})nd [Hall, Richard]({{ '/ufo-history/ufo-personalities/hall-richard-h' | relative_url }}) in their “[Challenge of Unidentified Flying Objects]({{ '/ufo-history/ufo-books/maney-charles-a-and-hall-richard-the-challenge-of-unidentified-flying-objects' | relative_url }})” ([1961]({{ '/tags/1961' | relative_url }})) (with quotes of substantially the entire text of the report) at pages 1-2 (Part 1, Chapter 1), 12-20 (Part 1, Chapter 2), 178-179 (Appendix, image of Congressional Record, remarks by Honourable Leonard G Wolf in the House of Represenatives on Wednesday [1960]({{ '/tags/1960' | relative_url }}).0831) of the privately published hardback edition.
 
 <a id="other"></a>
 ### Other Material

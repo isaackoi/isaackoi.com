@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0060922583.jpg"}
 book: {"identifiers": ["0060922583", "1883729025", "0926524429", "0312968353", "1416516778", "0060176539", "0880642262"], "primary_isbn": "0060922583", "cover_image": "/book-covers/0060922583.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Michael Talbot](/ufo-history/ufo-personalities/talbot-michael)'s book “[The Holographic Universe](/ufo-history/ufo-books/talbot-michael-the-holographic-universe)” ([1991](/tags/1991)) (available [on Amazon USA](http://www.amazon.com/dp/0060922583/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0060922583/?&tag=ufot-21))
+Brief review to be added of [Michael Talbot]({{ '/ufo-history/ufo-personalities/talbot-michael' | relative_url }})'s book “[The Holographic Universe]({{ '/ufo-history/ufo-books/talbot-michael-the-holographic-universe' | relative_url }})” ([1991]({{ '/tags/1991' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0060922583/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0060922583/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/davenport-marc">Davenport, Marc</a> in his “<a href="/ufo-history/ufo-books/davenport-marc-visitors-from-time">Visitors from Time</a>” (<a href="/tags/1992">1992</a>) (available <a href="http://www.amazon.com/dp/1883729025/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1883729025/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 230 (in Chapter 16) of the <a href="/tags/1994">1994</a> revised Greenleaf softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/davenport-marc' | relative_url }}">Davenport, Marc</a> in his “<a href="{{ '/ufo-history/ufo-books/davenport-marc-visitors-from-time' | relative_url }}">Visitors from Time</a>” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="http://www.amazon.com/dp/1883729025/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1883729025/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 230 (in Chapter 16) of the <a href="{{ '/tags/1994' | relative_url }}">1994</a> revised Greenleaf softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -65,10 +65,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/emmons-charles-f">Emmons, Charles F</a> in his “<a href="/ufo-history/ufo-books/emmons-charles-f-at-the-threshold-ufos-science-and-the-new-age">At The Threshold: UFOs, Science and the New Age</a>” (available <a href="http://www.amazon.com/dp/0926524429/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0926524429/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 135 (in Chapter 7) of the Wild Flower Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/emmons-charles-f' | relative_url }}">Emmons, Charles F</a> in his “<a href="{{ '/ufo-history/ufo-books/emmons-charles-f-at-the-threshold-ufos-science-and-the-new-age' | relative_url }}">At The Threshold: UFOs, Science and the New Age</a>” (available <a href="http://www.amazon.com/dp/0926524429/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0926524429/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 135 (in Chapter 7) of the Wild Flower Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -76,10 +76,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Perkins, David in Christopher O’ Brien’s “<a href="/ufo-history/ufo-books/o-brien-christopher-enter-the-valley">Enter The Valley</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0312968353/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312968353/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 12 (in the Foreword) of the St Martin’s Paperbacks paperback edition.</p>
+<p>Perkins, David in Christopher O’ Brien’s “<a href="{{ '/ufo-history/ufo-books/o-brien-christopher-enter-the-valley' | relative_url }}">Enter The Valley</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0312968353/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312968353/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 12 (in the Foreword) of the St Martin’s Paperbacks paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -87,10 +87,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2006">2006</a></p>
+<p><a href="{{ '/tags/2006' | relative_url }}">2006</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/radin-dean">Radin, Dean</a> in his “<a href="/ufo-history/ufo-books/radin-dean-entangled-minds-extrasensory-experiences-in-a-quantum-reality">Entangled Minds : Extrasensory Experiences in a Quantum Reality</a>” (<a href="/tags/2006">2006</a>) (available <a href="http://www.amazon.com/dp/1416516778/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1416516778/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 255 (in Chapter 13) of the Paraview Pocket Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/radin-dean' | relative_url }}">Radin, Dean</a> in his “<a href="{{ '/ufo-history/ufo-books/radin-dean-entangled-minds-extrasensory-experiences-in-a-quantum-reality' | relative_url }}">Entangled Minds : Extrasensory Experiences in a Quantum Reality</a>” (<a href="{{ '/tags/2006' | relative_url }}">2006</a>) (available <a href="http://www.amazon.com/dp/1416516778/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1416516778/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 255 (in Chapter 13) of the Paraview Pocket Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -98,10 +98,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/strieber-whitley">Strieber, Whitley</a> in his “<a href="/ufo-history/ufo-books/strieber-whitley-breakthrough">Breakthrough</a>“ (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/0060176539/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0060176539/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 154-172 (in Chapter 12), 173 (in Chapter 13) of the Harper Collins hardback edition (with the same page numbering in the Pocket Books paperback edition) at pages 161-179, 181 of the Harper Spotlight paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/strieber-whitley' | relative_url }}">Strieber, Whitley</a> in his “<a href="{{ '/ufo-history/ufo-books/strieber-whitley-breakthrough' | relative_url }}">Breakthrough</a>“ (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/0060176539/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0060176539/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 154-172 (in Chapter 12), 173 (in Chapter 13) of the Harper Collins hardback edition (with the same page numbering in the Pocket Books paperback edition) at pages 161-179, 181 of the Harper Spotlight paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>20</p>
@@ -109,10 +109,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/wilson-colin">Wilson, Colin</a> in his “<a href="/ufo-history/ufo-books/wilson-colin-alien-dawn">Alien Dawn</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0880642262/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0880642262/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 72-74 (in Chapter 3) of the Virgin softcover edition (with the same page numbering in the Virgin paperback edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/wilson-colin' | relative_url }}">Wilson, Colin</a> in his “<a href="{{ '/ufo-history/ufo-books/wilson-colin-alien-dawn' | relative_url }}">Alien Dawn</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0880642262/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0880642262/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 72-74 (in Chapter 3) of the Virgin softcover edition (with the same page numbering in the Virgin paperback edition).</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>

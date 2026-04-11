@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0312306768.jpg"}
 book: {"identifiers": ["0312306768"], "primary_isbn": "0312306768", "cover_image": "/book-covers/0312306768.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [John Alexander](/ufo-history/ufo-personalities/alexander-john)'s book “[Winning the War: Advanced Weapons, Strategies, and Concepts for the Post 9/11 World](/ufo-history/ufo-books/alexander-john-winning-the-war-advanced-weapons-strategies-and-concepts-for-the-post-911-world)” ([2003](/tags/2003)) (available [on Amazon USA](http://www.amazon.com/dp/0312306768/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0312306768/?&tag=ufot-21))
+Brief review to be added of [John Alexander]({{ '/ufo-history/ufo-personalities/alexander-john' | relative_url }})'s book “[Winning the War: Advanced Weapons, Strategies, and Concepts for the Post 9/11 World]({{ '/ufo-history/ufo-books/alexander-john-winning-the-war-advanced-weapons-strategies-and-concepts-for-the-post-911-world' | relative_url }})” ([2003]({{ '/tags/2003' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0312306768/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0312306768/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

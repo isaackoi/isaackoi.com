@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0349123195.jpg"}
 book: {"identifiers": ["0349123195", "0880642262", "0855001232", "0816038007", "0345345258"], "primary_isbn": "0349123195", "cover_image": "/book-covers/0349123195.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [John Michell](/ufo-history/ufo-personalities/michell-john)'s book “[The Flying Saucer Vision](/ufo-history/ufo-books/michell-john-the-flying-saucer-vision)” ([1967](/tags/1967)) (available [on Amazon USA](http://www.amazon.com/dp/0349123195/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0349123195/?&tag=ufot-21))
+Brief review to be added of [John Michell]({{ '/ufo-history/ufo-personalities/michell-john' | relative_url }})'s book “[The Flying Saucer Vision]({{ '/ufo-history/ufo-books/michell-john-the-flying-saucer-vision' | relative_url }})” ([1967]({{ '/tags/1967' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0349123195/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0349123195/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/wilson-colin">Wilson, Colin</a> in his “<a href="/ufo-history/ufo-books/wilson-colin-alien-dawn">Alien Dawn</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0880642262/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0880642262/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 179, 180-182 (in Chapter 6) of the Virgin softcover edition (with the same page numbering in the Virgin paperback edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/wilson-colin' | relative_url }}">Wilson, Colin</a> in his “<a href="{{ '/ufo-history/ufo-books/wilson-colin-alien-dawn' | relative_url }}">Alien Dawn</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0880642262/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0880642262/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 179, 180-182 (in Chapter 6) of the Virgin softcover edition (with the same page numbering in the Virgin paperback edition).</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -65,10 +65,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1982">1982</a></p>
+<p><a href="{{ '/tags/1982' | relative_url }}">1982</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/devereux-paul">Devereux, Paul</a> in his “<a href="/ufo-history/ufo-books/devereux-paul-earth-lights">Earth Lights</a>“ (<a href="/tags/1982">1982</a>) (available <a href="http://www.amazon.com/dp/0855001232/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0855001232/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 20-21, 22 (in Chapter 1) of the Turnstone Press hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/devereux-paul' | relative_url }}">Devereux, Paul</a> in his “<a href="{{ '/ufo-history/ufo-books/devereux-paul-earth-lights' | relative_url }}">Earth Lights</a>“ (<a href="{{ '/tags/1982' | relative_url }}">1982</a>) (available <a href="http://www.amazon.com/dp/0855001232/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0855001232/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 20-21, 22 (in Chapter 1) of the Turnstone Press hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -76,10 +76,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/devereux-paul">Devereux, Paul</a> and <a href="/ufo-history/ufo-personalities/brookesmith-peter">Brookesmith, Peter</a> in their “<a href="/ufo-history/ufo-books/devereux-paul-and-brookesmith-peter-ufos-and-ufology-the-first-50-years">UFOs and Ufology – the first 50 years</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0816038007/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0816038007/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 65-66 (in Chapter 5) of the Blandford softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/devereux-paul' | relative_url }}">Devereux, Paul</a> and <a href="{{ '/ufo-history/ufo-personalities/brookesmith-peter' | relative_url }}">Brookesmith, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/devereux-paul-and-brookesmith-peter-ufos-and-ufology-the-first-50-years' | relative_url }}">UFOs and Ufology – the first 50 years</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0816038007/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0816038007/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 65-66 (in Chapter 5) of the Blandford softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -87,10 +87,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1976">1976</a></p>
+<p><a href="{{ '/tags/1976' | relative_url }}">1976</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/steiger-brad">Steiger, Brad</a> in his “<a href="/ufo-history/ufo-books/steiger-brad-project-blue-book">Project Blue Book</a>“ (<a href="/tags/1976">1976</a>) (available <a href="http://www.amazon.com/dp/0345345258/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0345345258/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 337 (forming part of Chapter 13) of the Ballantine Books paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/steiger-brad' | relative_url }}">Steiger, Brad</a> in his “<a href="{{ '/ufo-history/ufo-books/steiger-brad-project-blue-book' | relative_url }}">Project Blue Book</a>“ (<a href="{{ '/tags/1976' | relative_url }}">1976</a>) (available <a href="http://www.amazon.com/dp/0345345258/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0345345258/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 337 (forming part of Chapter 13) of the Ballantine Books paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

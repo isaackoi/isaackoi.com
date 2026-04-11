@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/seti_1.jpg"}
 ---
 
-![seti_1](/images/stories/ufo_tags/seti_1.jpg)
+![seti_1]({{ '/images/stories/ufo_tags/seti_1.jpg' | relative_url }})
 
 *Kuiper on colonisation*
 
@@ -39,7 +39,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-Complete text of article reprinted in “The Quest For Extraterrestrial Life: A Book of Readings” ([1980](/tags/1980)) (edited by Donald Goldsmith) (available [on Amazon USA](http://www.amazon.com/dp/0935702083/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0935702083/ref=nosim?tag=ufot-21)) at pages 170-177 (in Chapter 34) of the University Science Books hardback edition.
+Complete text of article reprinted in “The Quest For Extraterrestrial Life: A Book of Readings” ([1980]({{ '/tags/1980' | relative_url }})) (edited by Donald Goldsmith) (available [on Amazon USA](http://www.amazon.com/dp/0935702083/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0935702083/ref=nosim?tag=ufot-21)) at pages 170-177 (in Chapter 34) of the University Science Books hardback edition.
 
 The table below includes references to relevant discussions in UFO/SETI books noted by Isaac Koi during a review of approximately 963 UFO/SETI books during the period 2003-2006 (with a few later additions). The table can be sorted by author, date and length of discussion by clicking on the relevant word in the top line of the table.
 
@@ -65,10 +65,10 @@ For discussion of the Kuiper and Morris paper ee the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/dick-steven-j">Dick, Steven J</a> in his “<a href="/ufo-history/ufo-books/dick-steven-j-the-biological-universe">The Biological Universe</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/0521343267/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521343267/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 511-512 (in Chapter 10) of the Cambridge hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dick-steven-j' | relative_url }}">Dick, Steven J</a> in his “<a href="{{ '/ufo-history/ufo-books/dick-steven-j-the-biological-universe' | relative_url }}">The Biological Universe</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/0521343267/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521343267/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 511-512 (in Chapter 10) of the Cambridge hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -76,10 +76,10 @@ For discussion of the Kuiper and Morris paper ee the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1978">1978</a></p>
+<p><a href="{{ '/tags/1978' | relative_url }}">1978</a></p>
 </td>
 <td valign="top" width="547">
-<p>Edelson, Edward in his “Who Goes There?” (<a href="/tags/1978">1978</a>) (available <a href="http://www.amazon.com/dp/0385112572/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0385112572/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 99-103 (in Chapter 8) of the NEL paperback edition (with the same page numbering in the NEL paperback edition combining this book and Chris Boyce’s “Extraterrestrial Encounter).</p>
+<p>Edelson, Edward in his “Who Goes There?” (<a href="{{ '/tags/1978' | relative_url }}">1978</a>) (available <a href="http://www.amazon.com/dp/0385112572/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0385112572/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 99-103 (in Chapter 8) of the NEL paperback edition (with the same page numbering in the NEL paperback edition combining this book and Chris Boyce’s “Extraterrestrial Encounter).</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>
@@ -87,10 +87,10 @@ For discussion of the Kuiper and Morris paper ee the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/greenwell-j-richard">Greenwell, J Richard</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 179 (in an entry entitled “Extraterrestrial Hypothesis”) of the New American Library softcover edition, at page 176 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/greenwell-j-richard' | relative_url }}">Greenwell, J Richard</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 179 (in an entry entitled “Extraterrestrial Hypothesis”) of the New American Library softcover edition, at page 176 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -98,10 +98,10 @@ For discussion of the Kuiper and Morris paper ee the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/greenwell-j-richard">Greenwell, J Richard</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 215-216 (in an entry entitled “Extraterrestrial Hypothesis”) of the Robinson softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/greenwell-j-richard' | relative_url }}">Greenwell, J Richard</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 215-216 (in an entry entitled “Extraterrestrial Hypothesis”) of the Robinson softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -109,10 +109,10 @@ For discussion of the Kuiper and Morris paper ee the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p>Greenwell, Richard J in “<a href="/ufo-history/ufo-books/story-ronald-editor-and-green-j-richard-consulting-editor-the-encyclopedia-of-ufos">The Encyclopedia of UFOs</a>” (<a href="/tags/1980">1980</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0385136773/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0385136773/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 118 (forming part of an entry entitled “Extraterrestrial hypothesis”) of the NEL hardback edition.</p>
+<p>Greenwell, Richard J in “<a href="{{ '/ufo-history/ufo-books/story-ronald-editor-and-green-j-richard-consulting-editor-the-encyclopedia-of-ufos' | relative_url }}">The Encyclopedia of UFOs</a>” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0385136773/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0385136773/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 118 (forming part of an entry entitled “Extraterrestrial hypothesis”) of the NEL hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -120,10 +120,10 @@ For discussion of the Kuiper and Morris paper ee the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p>Lamb, David in his “<a href="/ufo-history/ufo-books/lamb-david-the-search-of-extraterrestrial-intelligence-a-philosophical-inquiry">The Search for Extraterrestrial Intelligence : A Philosophical Inquiry</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/0415243424/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0415243424/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 168 (in Chapter 6) of the Routledge softcover edition.</p>
+<p>Lamb, David in his “<a href="{{ '/ufo-history/ufo-books/lamb-david-the-search-of-extraterrestrial-intelligence-a-philosophical-inquiry' | relative_url }}">The Search for Extraterrestrial Intelligence : A Philosophical Inquiry</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/0415243424/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0415243424/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 168 (in Chapter 6) of the Routledge softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -131,10 +131,10 @@ For discussion of the Kuiper and Morris paper ee the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1978">1978</a></p>
+<p><a href="{{ '/tags/1978' | relative_url }}">1978</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/ridpath-ian">Ridpath, Ian</a> in his “<a href="/ufo-history/ufo-books/ridpath-ian-messages-from-the-stars">Messages from the Stars</a>” (<a href="/tags/1978">1978</a>) (available <a href="http://www.amazon.com/dp/0060135891/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0060135891/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 119 (in Chapter 7) of the Fontana paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/ridpath-ian' | relative_url }}">Ridpath, Ian</a> in his “<a href="{{ '/ufo-history/ufo-books/ridpath-ian-messages-from-the-stars' | relative_url }}">Messages from the Stars</a>” (<a href="{{ '/tags/1978' | relative_url }}">1978</a>) (available <a href="http://www.amazon.com/dp/0060135891/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0060135891/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 119 (in Chapter 7) of the Fontana paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -146,6 +146,6 @@ For discussion of the Kuiper and Morris paper ee the following:
 <a id="other"></a>
 ### Other Material
 
-Kuiper, T B H & Morris M, "Searching for Extraterrestrial Civilizations," *Science*, Volume 196, pages 616-621 ([1977](/tags/1977)).
+Kuiper, T B H & Morris M, "Searching for Extraterrestrial Civilizations," *Science*, Volume 196, pages 616-621 ([1977]({{ '/tags/1977' | relative_url }})).
 
 Please use the comments section below to share references to any particularly interesting relevant articles.

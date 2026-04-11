@@ -42,11 +42,11 @@ This video appears to show the autopsy of an alien, with an internal organ that 
 
 Screen shots from these videos are included below for ease of identification.
 
-![](/images/stories/ufo_videos/video098_1.JPG)
+![]({{ '/images/stories/ufo_videos/video098_1.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video098_2.JPG)
+![]({{ '/images/stories/ufo_videos/video098_2.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video098_3.JPG)
+![]({{ '/images/stories/ufo_videos/video098_3.JPG' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this video
@@ -66,7 +66,7 @@ The relevant "Alien Autopsy" was originally uploaded to Youtube by someone using
 
 "Popartwales" had [a user profile on Youtube](http://www.youtube.com/user/popartwales) which indicated that this user profile was used by "Dave 'n' Adam". That page also gave a link to [their website](https://web.archive.org/web/20111227090552/http://www.davenadam.com/index.php?p=2_15). That website belonged to Dave Robinson and Adam Clarke - pictured below (with Dave Robinson on the left and Adam Clarke on the right):
 
-![](/images/stories/ufo_videos/video098_6.jpg)
+![]({{ '/images/stories/ufo_videos/video098_6.jpg' | relative_url }})
 
 Their website gave details of their film projects. One of the most prominent of the film projects on [Dave and Adam's website](https://web.archive.org/web/20111227090552/http://www.davenadam.com/index.php?p=2_15) was "Outpost 31":
 
@@ -80,7 +80,7 @@ What they fear most unimaginable... What they fear most... is among them.
 
 From the creators of Dave 'n' Adam's Day Off, DRAC Productions brings you this instant cult classic, Outpost 31"
 
-![](/images/stories/ufo_videos/video098_7.JPG)
+![]({{ '/images/stories/ufo_videos/video098_7.JPG' | relative_url }})
 
 In short, they were producing a horror film based in Antartica about a threat that emerged in 1947.
 
@@ -92,7 +92,7 @@ So, they were hardly hiding the link between their "alien autopsy" footage and t
 
 Their Facebook page gives a bit more detail about Dave and Adam:
 
-![](/images/stories/ufo_videos/video098_5.JPG)
+![]({{ '/images/stories/ufo_videos/video098_5.JPG' | relative_url }})
 
 <a id="forums"></a>
 ### 4. Relevant online discussions
@@ -101,4 +101,4 @@ Relevant discussions on the AboveTopSecret.com forum include the following:
 
 2011 (January) discussion entitled "[Nazi Alien Autopsy](http://www.abovetopsecret.com/forum/thread646608/pg1)"
 
-![](/images/stories/ufo_videos/video098_1d.jpg)
+![]({{ '/images/stories/ufo_videos/video098_1d.jpg' | relative_url }})

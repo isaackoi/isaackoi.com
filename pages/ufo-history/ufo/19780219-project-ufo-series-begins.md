@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -64,10 +64,10 @@ For discussion of “Project UFO” see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1981">1981</a></p>
+<p><a href="{{ '/tags/1981' | relative_url }}">1981</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fowler-raymond-e">Fowler, Raymond E</a> in his “<a href="/ufo-history/ufo-books/fowler-raymond-e-casebook-of-a-ufo-investigator">Casebook of a UFO Investigator</a>” (<a href="/tags/1981">1981</a>) (available <a href="http://www.amazon.com/dp/013117424X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/013117424X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 63 (in Chapter 6) of the Prentice-Hall hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fowler-raymond-e' | relative_url }}">Fowler, Raymond E</a> in his “<a href="{{ '/ufo-history/ufo-books/fowler-raymond-e-casebook-of-a-ufo-investigator' | relative_url }}">Casebook of a UFO Investigator</a>” (<a href="{{ '/tags/1981' | relative_url }}">1981</a>) (available <a href="http://www.amazon.com/dp/013117424X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/013117424X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 63 (in Chapter 6) of the Prentice-Hall hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -75,10 +75,10 @@ For discussion of “Project UFO” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p>Johnson, Frank in his “<a href="/ufo-history/ufo-books/johnson-frank-the-janos-people">The Janos People</a>” (<a href="/tags/1980">1980</a>) at page 178 (in Chapter 14) of the Neville Spearman hardback edition.</p>
+<p>Johnson, Frank in his “<a href="{{ '/ufo-history/ufo-books/johnson-frank-the-janos-people' | relative_url }}">The Janos People</a>” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) at page 178 (in Chapter 14) of the Neville Spearman hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -86,10 +86,10 @@ For discussion of “Project UFO” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/rux-bruce">Rux, Bruce</a> in his “<a href="/ufo-history/ufo-books/rux-bruce-hollywood-vs-the-aliens">Hollywood Vs. the Aliens</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1883319617/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1883319617/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 483 (in Chapter 9) of the Frog softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/rux-bruce' | relative_url }}">Rux, Bruce</a> in his “<a href="{{ '/ufo-history/ufo-books/rux-bruce-hollywood-vs-the-aliens' | relative_url }}">Hollywood Vs. the Aliens</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1883319617/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1883319617/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 483 (in Chapter 9) of the Frog softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -97,10 +97,10 @@ For discussion of “Project UFO” see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2008">2008</a></p>
+<p><a href="{{ '/tags/2008' | relative_url }}">2008</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/vallee-jacques">Vallee, Jacques</a> in his “<a href="/ufo-history/ufo-books/vallee-jacques-forbidden-science-volume-2-journals-1970-1979">Forbidden Science : Volume 2 (Journals 1970-1979)</a>” (<a href="/tags/2008">2008</a>) (available <a href="http://www.amazon.com/dp/0615249744/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0615249744/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 418 of the Documatica Research hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/vallee-jacques' | relative_url }}">Vallee, Jacques</a> in his “<a href="{{ '/ufo-history/ufo-books/vallee-jacques-forbidden-science-volume-2-journals-1970-1979' | relative_url }}">Forbidden Science : Volume 2 (Journals 1970-1979)</a>” (<a href="{{ '/tags/2008' | relative_url }}">2008</a>) (available <a href="http://www.amazon.com/dp/0615249744/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0615249744/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 418 of the Documatica Research hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

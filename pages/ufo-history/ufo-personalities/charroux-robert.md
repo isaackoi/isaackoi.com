@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/charroux_robert_1.jpg"}
 ---
 
-![charroux_robert_1](/images/stories/ufo_personalities/charroux_robert_1.jpg)
+![charroux_robert_1]({{ '/images/stories/ufo_personalities/charroux_robert_1.jpg' | relative_url }})
 
 *Robert Charroux*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1969">1969</a></p>
+<p><a href="{{ '/tags/1969' | relative_url }}">1969</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/charroux-robert">Charroux, Robert</a> “The Gods Unknown”</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/charroux-robert' | relative_url }}">Charroux, Robert</a> “The Gods Unknown”</p>
 </td>
 </tr>
 </tbody>

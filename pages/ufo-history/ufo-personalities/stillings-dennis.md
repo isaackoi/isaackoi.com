@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/stillings_dennis_1.jpg"}
 ---
 
-![stillings_dennis_1](/images/stories/ufo_personalities/stillings_dennis_1.jpg)
+![stillings_dennis_1]({{ '/images/stories/ufo_personalities/stillings_dennis_1.jpg' | relative_url }})
 
 *Dennis Stillings*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1989">1989</a></p>
+<p><a href="{{ '/tags/1989' | relative_url }}">1989</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/stillings-dennis">Stillings, Dennis</a> (Ed.) “<a href="/ufo-history/ufo-books/stillings-dennis-editor-cyberbiological-studies-of-the-imaginal-component-in-the-ufo-contact-experience">Cyberbiological studies of the imaginal component in the UFO contact experience</a>” (<a href="/tags/1989">1989</a>) (available <a href="http://www.amazon.com/dp/B000JQ5DW0/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000JQ5DW0/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/stillings-dennis' | relative_url }}">Stillings, Dennis</a> (Ed.) “<a href="{{ '/ufo-history/ufo-books/stillings-dennis-editor-cyberbiological-studies-of-the-imaginal-component-in-the-ufo-contact-experience' | relative_url }}">Cyberbiological studies of the imaginal component in the UFO contact experience</a>” (<a href="{{ '/tags/1989' | relative_url }}">1989</a>) (available <a href="http://www.amazon.com/dp/B000JQ5DW0/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000JQ5DW0/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>
@@ -83,10 +83,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1988">1988</a></p>
+<p><a href="{{ '/tags/1988' | relative_url }}">1988</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/boyd-robert-d">Boyd, Robert D</a> in his “International Who’s Who in Ufology Directory” (<a href="/tags/1988">1988</a>) at pages 202-203 of the PMT Publishing softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/boyd-robert-d' | relative_url }}">Boyd, Robert D</a> in his “International Who’s Who in Ufology Directory” (<a href="{{ '/tags/1988' | relative_url }}">1988</a>) at pages 202-203 of the PMT Publishing softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/gersten_peter_1.jpg"}
 ---
 
-![gersten_peter_1](/images/stories/ufo_personalities/gersten_peter_1.jpg)
+![gersten_peter_1]({{ '/images/stories/ufo_personalities/gersten_peter_1.jpg' | relative_url }})
 
 *Peter Gersten*
 
@@ -59,10 +59,10 @@ For discussion of Gersten see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2004">2004</a></p>
+<p><a href="{{ '/tags/2004' | relative_url }}">2004</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/birnes-william">Birnes, William</a> in his “<a href="/ufo-history/ufo-books/birnes-william-the-ufo-magazine-ufo-encyclopedia">The UFO Magazine UFO Encyclopedia</a>” (<a href="/tags/2004">2004</a>) (available <a href="http://www.amazon.com/dp/0743466748/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743466748/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 142 (in an entry entitled “[insert check – Gersten?]”) of the Pocket Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/birnes-william' | relative_url }}">Birnes, William</a> in his “<a href="{{ '/ufo-history/ufo-books/birnes-william-the-ufo-magazine-ufo-encyclopedia' | relative_url }}">The UFO Magazine UFO Encyclopedia</a>” (<a href="{{ '/tags/2004' | relative_url }}">2004</a>) (available <a href="http://www.amazon.com/dp/0743466748/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743466748/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 142 (in an entry entitled “[insert check – Gersten?]”) of the Pocket Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -70,10 +70,10 @@ For discussion of Gersten see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p>Hansen, George P in his “The Trickster and the Paranormal” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/1401000827/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1401000827/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 229-230 of the Xlibris softcover edition.</p>
+<p>Hansen, George P in his “The Trickster and the Paranormal” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/1401000827/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1401000827/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 229-230 of the Xlibris softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -81,10 +81,10 @@ For discussion of Gersten see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/imbrogno-philip">Imbrogno, Philip</a> and Horrigan, Marianne in their “Contact of the 5th Kind: The <a href="/ufo-history/ufo-books/crystall-ellen-silent-invasion">Silent Invasion</a> Has Begun” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1567183611/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1567183611/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 222, 224 (in Chapter 11) of the Llewellyn softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/imbrogno-philip' | relative_url }}">Imbrogno, Philip</a> and Horrigan, Marianne in their “Contact of the 5th Kind: The <a href="{{ '/ufo-history/ufo-books/crystall-ellen-silent-invasion' | relative_url }}">Silent Invasion</a> Has Begun” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1567183611/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1567183611/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 222, 224 (in Chapter 11) of the Llewellyn softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

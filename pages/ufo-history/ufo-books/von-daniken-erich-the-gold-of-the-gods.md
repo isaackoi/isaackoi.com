@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0879752858.jpg"}
 book: {"identifiers": ["B000TFL15E", "0879752858", "0312352166", "0060141417", "0804222339"], "primary_isbn": "0879752858", "cover_image": "/book-covers/0879752858.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Erich Von Daniken](/ufo-history/ufo-personalities/von-daniken-erich)'s book “[The Gold of the Gods](/ufo-history/ufo-books/von-daniken-erich-the-gold-of-the-gods)” ([1972](/tags/1972)) (available [on Amazon USA](http://www.amazon.com/dp/B000TFL15E/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B000TFL15E/?&tag=ufot-21))
+Brief review to be added of [Erich Von Daniken]({{ '/ufo-history/ufo-personalities/von-daniken-erich' | relative_url }})'s book “[The Gold of the Gods]({{ '/ufo-history/ufo-books/von-daniken-erich-the-gold-of-the-gods' | relative_url }})” ([1972]({{ '/tags/1972' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/B000TFL15E/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B000TFL15E/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1984">1984</a></p>
+<p><a href="{{ '/tags/1984' | relative_url }}">1984</a></p>
 </td>
 <td valign="top" width="547">
-<p>Stiebing, William in his “<a href="/ufo-history/ufo-books/stiebing-william-ancient-astronauts-cosmic-collisions">Ancient Astronauts, Cosmic Collisions</a>” (<a href="/tags/1984">1984</a>) (available <a href="http://www.amazon.com/dp/0879752858/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879752858/ref=nosim?tag=ufot-21">on Amazon UK</a>).at pages 96-98 (in Chapter 4) of the Prometheus softcover edition.</p>
+<p>Stiebing, William in his “<a href="{{ '/ufo-history/ufo-books/stiebing-william-ancient-astronauts-cosmic-collisions' | relative_url }}">Ancient Astronauts, Cosmic Collisions</a>” (<a href="{{ '/tags/1984' | relative_url }}">1984</a>) (available <a href="http://www.amazon.com/dp/0879752858/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879752858/ref=nosim?tag=ufot-21">on Amazon UK</a>).at pages 96-98 (in Chapter 4) of the Prometheus softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -65,10 +65,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/story-ronald">Story, Ronald</a> in his “<a href="/ufo-history/ufo-books/story-ronald-guardians-of-the-universe">Guardians of the Universe?</a>” (<a href="/tags/1980">1980</a>) (available <a href="http://www.amazon.com/dp/0312352166/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312352166/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 65-66 (in Chapter 5) of the New English Library paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Story, Ronald</a> in his “<a href="{{ '/ufo-history/ufo-books/story-ronald-guardians-of-the-universe' | relative_url }}">Guardians of the Universe?</a>” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) (available <a href="http://www.amazon.com/dp/0312352166/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312352166/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 65-66 (in Chapter 5) of the New English Library paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -76,10 +76,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1976">1976</a></p>
+<p><a href="{{ '/tags/1976' | relative_url }}">1976</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/story-ronald">Story, Ronald</a> in his “<a href="/ufo-history/ufo-books/story-ronald-the-space-gods-revealed">The Space Gods Revealed</a>” (<a href="/tags/1976">1976</a>) (available <a href="http://www.amazon.com/dp/0060141417/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0060141417/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 87-91 (in Chapter 10 generally) of the New English Library paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Story, Ronald</a> in his “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-space-gods-revealed' | relative_url }}">The Space Gods Revealed</a>” (<a href="{{ '/tags/1976' | relative_url }}">1976</a>) (available <a href="http://www.amazon.com/dp/0060141417/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0060141417/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 87-91 (in Chapter 10 generally) of the New English Library paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>
@@ -87,10 +87,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1977">1977</a></p>
+<p><a href="{{ '/tags/1977' | relative_url }}">1977</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/peters-ted">Peters, Ted</a> in his “UFOs-God's Chariots?: Flying Saucers in Politics, Science &amp; Religion” (<a href="/tags/1977">1977</a>) (available <a href="http://www.amazon.com/dp/0804222339/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0804222339/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 93, 102 (in Chapter 5) of the John Knox hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/peters-ted' | relative_url }}">Peters, Ted</a> in his “UFOs-God's Chariots?: Flying Saucers in Politics, Science &amp; Religion” (<a href="{{ '/tags/1977' | relative_url }}">1977</a>) (available <a href="http://www.amazon.com/dp/0804222339/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0804222339/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 93, 102 (in Chapter 5) of the John Knox hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

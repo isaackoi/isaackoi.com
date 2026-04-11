@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0304358975.jpg"}
 book: {"identifiers": ["0304358975"], "primary_isbn": "0304358975", "cover_image": "/book-covers/0304358975.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of “[XTL](/ufo-history/ufo-books/goodwin-simon-with-gribbin-john-xtl)” ([2001](/tags/2001)) (available [on Amazon USA](http://www.amazon.com/dp/0304358975/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0304358975/?&tag=ufot-21)) by Simon Goodwin with John Gribbin.
+Brief review to be added of “[XTL]({{ '/ufo-history/ufo-books/goodwin-simon-with-gribbin-john-xtl' | relative_url }})” ([2001]({{ '/tags/2001' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0304358975/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0304358975/?&tag=ufot-21)) by Simon Goodwin with John Gribbin.
 
 1. [Web Resources](#web)
 

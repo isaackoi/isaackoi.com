@@ -13,7 +13,7 @@ planned_sections: ["1. The relevant image", "2. Stories and claims relating to t
 header: {"preview_image": "/images/stories/alien_photos/koi_ap_57_a.jpg"}
 ---
 
-![](/images/stories/alien_photos/koi_ap_57_a.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_57_a.jpg' | relative_url }})
 
 *Koi Alien Photo 57*
 
@@ -23,7 +23,7 @@ In fact Koi Alien Photo 57 first appeared on the front cover of the satirical ne
 
 Amusingly, in 2009 Linda Moulton Howe denied that the original photo came from the Weekly World News. Instead, she claimed that the Weekly World News "got the photo from a document leak" (see [the relevant post on the AboveTopSecret.com discussion forums](http://www.abovetopsecret.com/forum/thread480094/pg2#pid6667750)by a person using the username "DoomsdayRex" that contacted Linda Moulton Howe about this photo). However, the purported leaked "document" relied upon by Linda Moulton Howe is in fact a composite of (a) two genuine UFO documents and (b) the photo from the Weekly World News. Relevant documents are shown below to demonstrate the falsity of the leaked "document" relied upon by Linda Moulton Howe.
 
-Various other articles also appeared in the "Weekly World News" purporting to show aliens, including [Koi Alien Photo 19](/ufog/alien-photos/koi-alien-photo-19) ("alien" with President Bush), [Koi Alien Photo 24](/ufog/alien-photos/koi-alien-photo-24) ("alien" with President Clinton) and Koi Alien Photo 64 ("alien" in handcuffs).
+Various other articles also appeared in the "Weekly World News" purporting to show aliens, including [Koi Alien Photo 19]({{ '/ufog/alien-photos/koi-alien-photo-19' | relative_url }}) ("alien" with President Bush), [Koi Alien Photo 24]({{ '/ufog/alien-photos/koi-alien-photo-24' | relative_url }}) ("alien" with President Clinton) and Koi Alien Photo 64 ("alien" in handcuffs).
 
 Greg Sandow, a UFO researcher that participates in discussion on the UFO UpDates email discussion list, wrote the following in [a post on that list on 22 May 1997](http://ufoupdateslist.com/1997/may/m22-005.shtml):
 
@@ -46,7 +46,7 @@ Sections below:
 <a id="image"></a>
 ### 1. The relevant image
 
-![](/images/stories/alien_photos/koi_ap_57_a.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_57_a.jpg' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this image
@@ -57,17 +57,17 @@ Amusingly, in 2009 Linda Moulton Howe denied that the original photo came from t
 
 The purportedly leaked document relied upon by Linda Moulton Howe is shown below (labelled "Koi_ap_57_g").
 
-![](/images/stories/alien_photos/koi_ap_57_g.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_57_g.jpg' | relative_url }})
 
 This "document" (labelled "Koi_ap_57_g") was fabricated from two real documents relating to UFOs, together with a photo from the Weekly World News.
 
 The first of the two documents used to fabricate this leaked "document" is shown below (labelled "Koi_ap_57_h"). This document (a memo dated September 4, 1946 from Mr Lyon to Mr Morgan about the "ghost rocket" sightings in Sweden that year) provided the top and right hand side of the fabricated leaked "document" relied upon by Linda Moulton Howe. Note the "Department of State" stamp on the top right, and the reference numbers on the right hand side (e.g. FW 811.20200 Family /8-2946 and the stamps on the bottom):
 
-![](/images/stories/alien_photos/koi_ap_57_h.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_57_h.jpg' | relative_url }})
 
 A second document was used to provide the CIA letterhead, such as the document shown below (labelled "Koi_ap_57_i"). Note that this particular document has the same reference number as that used in the "document" relied upon by Linda Moulton Howe.
 
-![](/images/stories/alien_photos/koi_ap_57_i.JPG)
+![]({{ '/images/stories/alien_photos/koi_ap_57_i.JPG' | relative_url }})
 
 The real background to the photo used in this fabricated document is outlined below.
 
@@ -78,13 +78,13 @@ Koi Alien Photo 57 appeared on the front cover of the satirical newspaper "Weekl
 
 The front cover of the relevant edition, dated 12 October 1993, is shown below (labelled "Koi_ap_57_b").
 
-![](/images/stories/alien_photos/koi_ap_57_b.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_57_b.jpg' | relative_url }})
 
 The relevant pages inside that edition are shown below:
 
-![](/images/stories/alien_photos/koi_ap_57_c.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_57_c.jpg' | relative_url }})
 
-![](/images/stories/alien_photos/koi_ap_57_d.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_57_d.jpg' | relative_url }})
 
 In case anyone is unfamiliar with this source and is wondering whethe it is credibible or not, I think it is worth glancing at the headlines at some other issues of the Weekly World News.
 
@@ -92,9 +92,9 @@ The prior edition of the "Weekly World News" had a front page story about Abraha
 
 Those covers are shown below:
 
-![](/images/stories/alien_photos/koi_ap_57_e.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_57_e.jpg' | relative_url }})
 
-![](/images/stories/alien_photos/koi_ap_57_f.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_57_f.jpg' | relative_url }})
 
 The Weekly World News returned to the story of the relevant alien baby a few years later.
 
@@ -168,7 +168,7 @@ I could write a lot more about this, but I think you get the idea. These stories
 
 The article about "a girl who could read two books at the same time, because she had two brains" mentioned by Greg Sandow appeared in the 21 January 1997 edition of the Weekly World News (at page 6) and a copy appears below to illustrate the points made by Greg Sandow (labelled "koi_ap_19o").
 
-![](/images/stories/alien_photos/koi_ap_19_o.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_19_o.jpg' | relative_url }})
 
 <a id="forums"></a>
 ### 4. Relevant online forum discussions

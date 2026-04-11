@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/seti_1.jpg"}
 ---
 
-![seti_1](/images/stories/ufo_tags/seti_1.jpg)
+![seti_1]({{ '/images/stories/ufo_tags/seti_1.jpg' | relative_url }})
 
 *“Habitable Planets for Man”*
 
@@ -67,10 +67,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1976">1976</a></p>
+<p><a href="{{ '/tags/1976' | relative_url }}">1976</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/asimov-isaac">Asimov, Isaac</a> in “<a href="/ufo-history/ufo-books/christian-james-l-editor-extra-terrestrial-intelligence-the-first-encounter">Extra-Terrestrial Intelligence : The First Encounter</a>” (<a href="/tags/1976">1976</a>) (edited by James L Christian) (available <a href="http://www.amazon.com/dp/0879750642/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879750642/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 48-49 (in the unnumbered chapter entitled “Of Life Beyond : Man’s Age-Old Speculations”) of the Prometheus Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/asimov-isaac' | relative_url }}">Asimov, Isaac</a> in “<a href="{{ '/ufo-history/ufo-books/christian-james-l-editor-extra-terrestrial-intelligence-the-first-encounter' | relative_url }}">Extra-Terrestrial Intelligence : The First Encounter</a>” (<a href="{{ '/tags/1976' | relative_url }}">1976</a>) (edited by James L Christian) (available <a href="http://www.amazon.com/dp/0879750642/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879750642/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 48-49 (in the unnumbered chapter entitled “Of Life Beyond : Man’s Age-Old Speculations”) of the Prometheus Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -78,10 +78,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1974">1974</a></p>
+<p><a href="{{ '/tags/1974' | relative_url }}">1974</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/berry-adrian">Berry, Adrian</a> in his “The Next Ten Thousand Years” (<a href="/tags/1974">1974</a>) (available <a href="http://www.amazon.com/dp/0451616014/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451616014/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 132, 133 (in Chapter 10) of the Coronet paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/berry-adrian' | relative_url }}">Berry, Adrian</a> in his “The Next Ten Thousand Years” (<a href="{{ '/tags/1974' | relative_url }}">1974</a>) (available <a href="http://www.amazon.com/dp/0451616014/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451616014/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 132, 133 (in Chapter 10) of the Coronet paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -89,10 +89,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1977">1977</a></p>
+<p><a href="{{ '/tags/1977' | relative_url }}">1977</a></p>
 </td>
 <td valign="top" width="547">
-<p>Gallant, Roy A in “Beyond Earth : The Search for Extraterrestrial Life” (<a href="/tags/1977">1977</a>) (available <a href="http://www.amazon.com/dp/0590074377/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0590074377/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 139-141 (in Chapter 11), 183 (in the Books For Further Reading) of the Four Winds hardback edition.</p>
+<p>Gallant, Roy A in “Beyond Earth : The Search for Extraterrestrial Life” (<a href="{{ '/tags/1977' | relative_url }}">1977</a>) (available <a href="http://www.amazon.com/dp/0590074377/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0590074377/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 139-141 (in Chapter 11), 183 (in the Books For Further Reading) of the Four Winds hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -100,10 +100,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/harrison-albert-a">Harrison, Albert A</a> in his “<a href="/ufo-history/ufo-books/harrison-albert-a-spacefaring-the-human-dimension">Spacefaring : The Human Dimension</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/0520224531/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0520224531/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 242 (in Chapter 14) of the California softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/harrison-albert-a' | relative_url }}">Harrison, Albert A</a> in his “<a href="{{ '/ufo-history/ufo-books/harrison-albert-a-spacefaring-the-human-dimension' | relative_url }}">Spacefaring : The Human Dimension</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/0520224531/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0520224531/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 242 (in Chapter 14) of the California softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -111,10 +111,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1974">1974</a></p>
+<p><a href="{{ '/tags/1974' | relative_url }}">1974</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/lunan-duncan">Lunan, Duncan</a> in his “<a href="/ufo-history/ufo-books/lunan-duncan-man-and-the-stars">Man and the Stars</a>” (<a href="/tags/1974">1974</a>) (available <a href="http://www.amazon.com/dp/0285621297/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0285621297/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages ix, 3 (in the Introduction) of the Souvenir Press hardback edition, at pages xi, 3 of the Corgi paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/lunan-duncan' | relative_url }}">Lunan, Duncan</a> in his “<a href="{{ '/ufo-history/ufo-books/lunan-duncan-man-and-the-stars' | relative_url }}">Man and the Stars</a>” (<a href="{{ '/tags/1974' | relative_url }}">1974</a>) (available <a href="http://www.amazon.com/dp/0285621297/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0285621297/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages ix, 3 (in the Introduction) of the Souvenir Press hardback edition, at pages xi, 3 of the Corgi paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -122,10 +122,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1989">1989</a></p>
+<p><a href="{{ '/tags/1989' | relative_url }}">1989</a></p>
 </td>
 <td valign="top" width="547">
-<p>Mallove, Eugene F and Matloff, Gregory L in their “<a href="/ufo-history/ufo-books/mallove-eugene-and-matloff-gregory-the-starflight-handbook">The Starflight Handbook</a>” (<a href="/tags/1989">1989</a>) (available <a href="http://www.amazon.com/dp/0471619124/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0471619124/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 109 (in Chapter 7) of the Wiley hardback edition.</p>
+<p>Mallove, Eugene F and Matloff, Gregory L in their “<a href="{{ '/ufo-history/ufo-books/mallove-eugene-and-matloff-gregory-the-starflight-handbook' | relative_url }}">The Starflight Handbook</a>” (<a href="{{ '/tags/1989' | relative_url }}">1989</a>) (available <a href="http://www.amazon.com/dp/0471619124/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0471619124/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 109 (in Chapter 7) of the Wiley hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -133,10 +133,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1981">1981</a></p>
+<p><a href="{{ '/tags/1981' | relative_url }}">1981</a></p>
 </td>
 <td valign="top" width="547">
-<p>Powers, Robert M in his “The Coattails of God: The Trip to the Stars” (<a href="/tags/1981">1981</a>) (available <a href="http://www.amazon.com/dp/0446512311/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0446512311/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 103-104 (in Chapter 6) of the Warner paperback edition.</p>
+<p>Powers, Robert M in his “The Coattails of God: The Trip to the Stars” (<a href="{{ '/tags/1981' | relative_url }}">1981</a>) (available <a href="http://www.amazon.com/dp/0446512311/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0446512311/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 103-104 (in Chapter 6) of the Warner paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -144,10 +144,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1974">1974</a></p>
+<p><a href="{{ '/tags/1974' | relative_url }}">1974</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/salisbury-frank">Salisbury, Frank</a> in his “The Utah UFO Display: A Biologist’s Report” (<a href="/tags/1974">1974</a>) (available <a href="http://www.amazon.com/dp/0815970005/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0815970005/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 232 (in the Appendix entitled “Annotated Bibliography”) of the Devin Adair hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/salisbury-frank' | relative_url }}">Salisbury, Frank</a> in his “The Utah UFO Display: A Biologist’s Report” (<a href="{{ '/tags/1974' | relative_url }}">1974</a>) (available <a href="http://www.amazon.com/dp/0815970005/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0815970005/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 232 (in the Appendix entitled “Annotated Bibliography”) of the Devin Adair hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

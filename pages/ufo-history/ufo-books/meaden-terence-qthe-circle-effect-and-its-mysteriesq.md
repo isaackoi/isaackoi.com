@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0951059025.jpg"}
 book: {"identifiers": ["0951059025"], "primary_isbn": "0951059025", "cover_image": "/book-covers/0951059025.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Terence Meaden](/ufo-history/ufo-personalities/meaden-terence)'s book “[The Circles Effect and its Mysteries](/ufo-history/ufo-books/meaden-terence-qthe-circle-effect-and-its-mysteriesq)” ([1989](/tags/1989)) (available [on Amazon USA](http://www.amazon.com/dp/0951059025/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0951059025/?&tag=ufot-21))
+Brief review to be added of [Terence Meaden]({{ '/ufo-history/ufo-personalities/meaden-terence' | relative_url }})'s book “[The Circles Effect and its Mysteries]({{ '/ufo-history/ufo-books/meaden-terence-qthe-circle-effect-and-its-mysteriesq' | relative_url }})” ([1989]({{ '/tags/1989' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0951059025/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0951059025/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

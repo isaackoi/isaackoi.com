@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/rainey_carol_1.jpg"}
 ---
 
-![rainey_carol_1](/images/stories/ufo_personalities/rainey_carol_1.jpg)
+![rainey_carol_1]({{ '/images/stories/ufo_personalities/rainey_carol_1.jpg' | relative_url }})
 
 *Carol Rainey*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/2003">2003</a></p>
+<p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/hopkins-budd">Hopkins, Budd</a> and <a href="/ufo-history/ufo-personalities/rainey-carol">Rainey, Carol</a> “<a href="/ufo-history/ufo-books/hopkins-budd-and-rainey-carol-sight-unseen">Sight Unseen: Science, UFO Invisibility and Transgenic Beings</a>” (<a href="/tags/2003">2003</a>) (available <a href="http://www.amazon.com/dp/0743412192/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743412192/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hopkins-budd' | relative_url }}">Hopkins, Budd</a> and <a href="{{ '/ufo-history/ufo-personalities/rainey-carol' | relative_url }}">Rainey, Carol</a> “<a href="{{ '/ufo-history/ufo-books/hopkins-budd-and-rainey-carol-sight-unseen' | relative_url }}">Sight Unseen: Science, UFO Invisibility and Transgenic Beings</a>” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) (available <a href="http://www.amazon.com/dp/0743412192/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743412192/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>

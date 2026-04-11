@@ -13,7 +13,7 @@ planned_sections: ["1. The relevant image", "2. Stories and claims relating to t
 header: {"preview_image": "/images/stories/alien_photos/koi_ap_78_a.jpg"}
 ---
 
-![koi_ap_78_a](/images/stories/alien_photos/koi_ap_78_a.jpg)
+![koi_ap_78_a]({{ '/images/stories/alien_photos/koi_ap_78_a.jpg' | relative_url }})
 
 *Koi Alien Photo 78*
 
@@ -42,7 +42,7 @@ Sections below:
 <a id="image"></a>
 ### 1. The relevant image
 
-![](/images/stories/alien_photos/koi_ap_78_a.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_78_a.jpg' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this image
@@ -60,11 +60,11 @@ The relevant clip can be seen on a website selling this documentary. A relevant 
 
 Some stills from the relevant part of the documentary "The Secret" are included below (labelled "Koi_ap_78_b","Koi_ap_78_c" and "Koi_ap_78_d").
 
-![](/images/stories/alien_photos/koi_ap_78_b.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_78_b.jpg' | relative_url }})
 
-![](/images/stories/alien_photos/koi_ap_78_c.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_78_c.jpg' | relative_url }})
 
-![](/images/stories/alien_photos/koi_ap_78_d.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_78_d.jpg' | relative_url }})
 
 The "alien" is a prop produced by Don Post (apparently dubbed by many as "The Godfather of Halloween" most famous for creating rubber masks for commercial sale and use in movies - including the Star Wars and Halloween film series).
 
@@ -72,7 +72,7 @@ During the course of researching another photograph of an "alien" (Koi Alien Pho
 
 Mr Winslow went on to say that that the photo on this page (i.e. Koi Alien Photo 78) shows the same prop developed by Don Post. Mr Winslow stated "The prop is a flat back, which shows up in the weird position of the arms."
 
-![](/images/stories/alien_photos/koi_ap_10_i.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_10_i.jpg' | relative_url }})
 
 <a id="forums"></a>**4. Relevant online forum discussions**
 

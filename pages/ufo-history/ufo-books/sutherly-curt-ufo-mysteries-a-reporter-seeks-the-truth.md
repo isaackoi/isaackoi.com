@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0738701068.jpg"}
 book: {"identifiers": ["0738701068"], "primary_isbn": "0738701068", "cover_image": "/book-covers/0738701068.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of Curt Sutherly's book “[UFO Mysteries: A Reporter Seeks the Truth](/ufo-history/ufo-books/sutherly-curt-ufo-mysteries-a-reporter-seeks-the-truth)” ([2001](/tags/2001)) (available [on Amazon USA](http://www.amazon.com/dp/0738701068/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0738701068/?&tag=ufot-21))
+Brief review to be added of Curt Sutherly's book “[UFO Mysteries: A Reporter Seeks the Truth]({{ '/ufo-history/ufo-books/sutherly-curt-ufo-mysteries-a-reporter-seeks-the-truth' | relative_url }})” ([2001]({{ '/tags/2001' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0738701068/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0738701068/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

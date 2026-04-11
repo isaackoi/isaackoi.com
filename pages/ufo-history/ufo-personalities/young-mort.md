@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/young_mort_1.jpg"}
 ---
 
-![young_mort_1](/images/stories/ufo_personalities/young_mort_1.jpg)
+![young_mort_1]({{ '/images/stories/ufo_personalities/young_mort_1.jpg' | relative_url }})
 
 *Mort Young*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1967">1967</a></p>
+<p><a href="{{ '/tags/1967' | relative_url }}">1967</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/young-mort">Young, Mort</a> “<a href="/ufo-history/ufo-books/young-mort-ufo-top-secret">UFO Top Secret</a>” (<a href="/tags/1967">1967</a>) (available <a href="http://www.amazon.com/dp/0671102125/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0671102125/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/young-mort' | relative_url }}">Young, Mort</a> “<a href="{{ '/ufo-history/ufo-books/young-mort-ufo-top-secret' | relative_url }}">UFO Top Secret</a>” (<a href="{{ '/tags/1967' | relative_url }}">1967</a>) (available <a href="http://www.amazon.com/dp/0671102125/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0671102125/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>

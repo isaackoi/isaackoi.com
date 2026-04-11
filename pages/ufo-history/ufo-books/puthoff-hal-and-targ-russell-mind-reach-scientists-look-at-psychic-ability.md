@@ -14,7 +14,7 @@ header: {"preview_image": "https://covers.openlibrary.org/b/isbn/0440056888-L.jp
 book: {"identifiers": ["0440056888", "0879755040", "0312875150"], "primary_isbn": "0440056888", "cover_image": "https://covers.openlibrary.org/b/isbn/0440056888-L.jpg?default=false", "cover_source": "openlibrary"}
 ---
 
-Brief review to be added of “[Mind-Reach: Scientists Look at Psychic Ability](/ufo-history/ufo-books/puthoff-hal-and-targ-russell-mind-reach-scientists-look-at-psychic-ability)” ([1977](/tags/1977)) (available [on Amazon USA](http://www.amazon.com/dp/0440056888/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0440056888/?&tag=ufot-21)) by [Hal Puthoff](/ufo-history/ufo-personalities/puthoff-hal) and [Russell Targ](/ufo-history/ufo-personalities/targ-russell)
+Brief review to be added of “[Mind-Reach: Scientists Look at Psychic Ability]({{ '/ufo-history/ufo-books/puthoff-hal-and-targ-russell-mind-reach-scientists-look-at-psychic-ability' | relative_url }})” ([1977]({{ '/tags/1977' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0440056888/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0440056888/?&tag=ufot-21)) by [Hal Puthoff]({{ '/ufo-history/ufo-personalities/puthoff-hal' | relative_url }}) and [Russell Targ]({{ '/ufo-history/ufo-personalities/targ-russell' | relative_url }})
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1977">1977</a></p>
+<p><a href="{{ '/tags/1977' | relative_url }}">1977</a></p>
 </td>
 <td valign="top" width="547">
-<p>Bach, Richard in “<a href="/ufo-history/ufo-books/puthoff-hal-and-targ-russell-mind-reach-scientists-look-at-psychic-ability">Mind-Reach : Scientists Look at Psychic Ability</a>” (<a href="/tags/1977">1977</a>) (available <a href="http://www.amazon.com/dp/0440056888/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0440056888/ref=nosim?tag=ufot-21">on Amazon UK</a>) by <a href="/ufo-history/ufo-personalities/puthoff-hal">Puthoff, Hal</a> and <a href="/ufo-history/ufo-personalities/targ-russell">Targ, Russell</a> at pages xxiii-xxv (in the Foreword) of the Jonathan Cape hardback edition.</p>
+<p>Bach, Richard in “<a href="{{ '/ufo-history/ufo-books/puthoff-hal-and-targ-russell-mind-reach-scientists-look-at-psychic-ability' | relative_url }}">Mind-Reach : Scientists Look at Psychic Ability</a>” (<a href="{{ '/tags/1977' | relative_url }}">1977</a>) (available <a href="http://www.amazon.com/dp/0440056888/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0440056888/ref=nosim?tag=ufot-21">on Amazon UK</a>) by <a href="{{ '/ufo-history/ufo-personalities/puthoff-hal' | relative_url }}">Puthoff, Hal</a> and <a href="{{ '/ufo-history/ufo-personalities/targ-russell' | relative_url }}">Targ, Russell</a> at pages xxiii-xxv (in the Foreword) of the Jonathan Cape hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -65,10 +65,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1989">1989</a></p>
+<p><a href="{{ '/tags/1989' | relative_url }}">1989</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/cantril-hadley">Hyman, Ray</a> in his “The Elusive Quarry: A Scientific Appraisal of Psychical Research” (<a href="/tags/1989">1989</a>) (available <a href="http://www.amazon.com/dp/0879755040/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879755040/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 308-317 of the Prometheus hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/cantril-hadley' | relative_url }}">Hyman, Ray</a> in his “The Elusive Quarry: A Scientific Appraisal of Psychical Research” (<a href="{{ '/tags/1989' | relative_url }}">1989</a>) (available <a href="http://www.amazon.com/dp/0879755040/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879755040/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 308-317 of the Prometheus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>10</p>
@@ -76,10 +76,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1977">1977</a></p>
+<p><a href="{{ '/tags/1977' | relative_url }}">1977</a></p>
 </td>
 <td valign="top" width="547">
-<p>Mead, Margaret in “<a href="/ufo-history/ufo-books/puthoff-hal-and-targ-russell-mind-reach-scientists-look-at-psychic-ability">Mind-Reach : Scientists Look at Psychic Ability</a>” (<a href="/tags/1977">1977</a>) (available <a href="http://www.amazon.com/dp/0440056888/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0440056888/ref=nosim?tag=ufot-21">on Amazon UK</a>) by <a href="/ufo-history/ufo-personalities/puthoff-hal">Puthoff, Hal</a> and <a href="/ufo-history/ufo-personalities/targ-russell">Targ, Russell</a> at pages xv-xxii (in the Introduction) of the Jonathan Cape hardback edition.</p>
+<p>Mead, Margaret in “<a href="{{ '/ufo-history/ufo-books/puthoff-hal-and-targ-russell-mind-reach-scientists-look-at-psychic-ability' | relative_url }}">Mind-Reach : Scientists Look at Psychic Ability</a>” (<a href="{{ '/tags/1977' | relative_url }}">1977</a>) (available <a href="http://www.amazon.com/dp/0440056888/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0440056888/ref=nosim?tag=ufot-21">on Amazon UK</a>) by <a href="{{ '/ufo-history/ufo-personalities/puthoff-hal' | relative_url }}">Puthoff, Hal</a> and <a href="{{ '/ufo-history/ufo-personalities/targ-russell' | relative_url }}">Targ, Russell</a> at pages xv-xxii (in the Introduction) of the Jonathan Cape hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>8</p>
@@ -87,10 +87,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2005">2005</a></p>
+<p><a href="{{ '/tags/2005' | relative_url }}">2005</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/smith-paul">Smith, Paul</a> in his “<a href="/ufo-history/ufo-books/smith-paul-reading-the-enemys-mind">Reading the Enemy’s Mind</a>” (<a href="/tags/2005">2005</a>) (available <a href="http://www.amazon.com/dp/0312875150/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312875150/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 86 of the Forge hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/smith-paul' | relative_url }}">Smith, Paul</a> in his “<a href="{{ '/ufo-history/ufo-books/smith-paul-reading-the-enemys-mind' | relative_url }}">Reading the Enemy’s Mind</a>” (<a href="{{ '/tags/2005' | relative_url }}">2005</a>) (available <a href="http://www.amazon.com/dp/0312875150/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312875150/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 86 of the Forge hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

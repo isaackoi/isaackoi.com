@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0743492862.jpg"}
 book: {"identifiers": ["0743492862", "0805077081", "1576072495"], "primary_isbn": "0743492862", "cover_image": "/book-covers/0743492862.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Bill Chalker](/ufo-history/ufo-personalities/chalker-bill)'s book “[Hair of the Alien: DNA and other forensic evidence of alien abduction](/ufo-history/ufo-books/chalker-bill-hair-of-the-alien-dna-and-other-forensic-evidence-of-alien-abduction)” ([2005](/tags/2005)) (available [on Amazon USA](http://www.amazon.com/dp/0743492862/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0743492862/?&tag=ufot-21)).
+Brief review to be added of [Bill Chalker]({{ '/ufo-history/ufo-personalities/chalker-bill' | relative_url }})'s book “[Hair of the Alien: DNA and other forensic evidence of alien abduction]({{ '/ufo-history/ufo-books/chalker-bill-hair-of-the-alien-dna-and-other-forensic-evidence-of-alien-abduction' | relative_url }})” ([2005]({{ '/tags/2005' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0743492862/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0743492862/?&tag=ufot-21)).
 
 Focuses on the abduction experience of Peter Khoury.
 
@@ -56,10 +56,10 @@ For discussion of Peter Khoury see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2006">2006</a></p>
+<p><a href="{{ '/tags/2006' | relative_url }}">2006</a></p>
 </td>
 <td valign="top" width="547">
-<p>Butler, Dermot and Nally, Call in their “Conspiracy of Silence : UFOs in Ireland” (<a href="/tags/2006">2006</a>) (available <a href="http://www.amazon.com/dp/0805077081/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0805077081/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 99 (in Chapter 4) of the Mercier softcover edition.</p>
+<p>Butler, Dermot and Nally, Call in their “Conspiracy of Silence : UFOs in Ireland” (<a href="{{ '/tags/2006' | relative_url }}">2006</a>) (available <a href="http://www.amazon.com/dp/0805077081/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0805077081/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 99 (in Chapter 4) of the Mercier softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -67,10 +67,10 @@ For discussion of Peter Khoury see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2005">2005</a></p>
+<p><a href="{{ '/tags/2005' | relative_url }}">2005</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/chalker-bill">Chalker, Bill</a> in his “<a href="/ufo-history/ufo-books/chalker-bill-hair-of-the-alien-dna-and-other-forensic-evidence-of-alien-abduction">Hair of the Alien : DNA and other forensic evidence of alien abduction</a>” (<a href="/tags/2005">2005</a>) (available <a href="http://www.amazon.com/dp/0743492862/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743492862/ref=nosim?tag=ufot-21">on Amazon UK</a>) generally, at pages 1-313 of the Pocket Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/chalker-bill' | relative_url }}">Chalker, Bill</a> in his “<a href="{{ '/ufo-history/ufo-books/chalker-bill-hair-of-the-alien-dna-and-other-forensic-evidence-of-alien-abduction' | relative_url }}">Hair of the Alien : DNA and other forensic evidence of alien abduction</a>” (<a href="{{ '/tags/2005' | relative_url }}">2005</a>) (available <a href="http://www.amazon.com/dp/0743492862/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743492862/ref=nosim?tag=ufot-21">on Amazon UK</a>) generally, at pages 1-313 of the Pocket Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>313</p>
@@ -78,10 +78,10 @@ For discussion of Peter Khoury see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-extraordinary-encounters">Extraordinary Encounters : An Encyclopedia of Extraterrestrials and Otherworldly Beings</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/1576072495/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1576072495/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 17-18 (in an entry entitled “Alien DNA”) of the ABC-Clio hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-extraordinary-encounters' | relative_url }}">Extraordinary Encounters : An Encyclopedia of Extraterrestrials and Otherworldly Beings</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/1576072495/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1576072495/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 17-18 (in an entry entitled “Alien DNA”) of the ABC-Clio hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

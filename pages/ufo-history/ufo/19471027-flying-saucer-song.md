@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -37,7 +37,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-Complete lyrics presented by Nesheim, Eric and Nesheim, Leif in their “[Saucer Attack!: Pop Culture in the Golden Age of Flying Saucers](/ufo-history/ufo-books/nesheim-eric-and-nesheim-leif-saucer-attack-pop-culture-in-the-golden-age-of-flying-saucers)” ([1997](/tags/1997)) (available [on Amazon USA](http://www.amazon.com/dp/1575440660/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1575440660/ref=nosim?tag=ufot-21)) at page 48 of the General Publishing softcover edition.
+Complete lyrics presented by Nesheim, Eric and Nesheim, Leif in their “[Saucer Attack!: Pop Culture in the Golden Age of Flying Saucers]({{ '/ufo-history/ufo-books/nesheim-eric-and-nesheim-leif-saucer-attack-pop-culture-in-the-golden-age-of-flying-saucers' | relative_url }})” ([1997]({{ '/tags/1997' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1575440660/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1575440660/ref=nosim?tag=ufot-21)) at page 48 of the General Publishing softcover edition.
 
 The table below includes references to relevant discussions in UFO/SETI books noted by Isaac Koi during a review of approximately 963 UFO/SETI books during the period 2003-2006 (with a few later additions). The table can be sorted by author, date and length of discussion by clicking on the relevant word in the top line of the table.
 
@@ -61,10 +61,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p>Nesheim, Eric and Nesheim, Leif in their “<a href="/ufo-history/ufo-books/nesheim-eric-and-nesheim-leif-saucer-attack-pop-culture-in-the-golden-age-of-flying-saucers">Saucer Attack! : Pop Culture in the Golden Age of Flying Saucers</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1575440660/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1575440660/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 48 of the General Publishing softcover edition.</p>
+<p>Nesheim, Eric and Nesheim, Leif in their “<a href="{{ '/ufo-history/ufo-books/nesheim-eric-and-nesheim-leif-saucer-attack-pop-culture-in-the-golden-age-of-flying-saucers' | relative_url }}">Saucer Attack! : Pop Culture in the Golden Age of Flying Saucers</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1575440660/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1575440660/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 48 of the General Publishing softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

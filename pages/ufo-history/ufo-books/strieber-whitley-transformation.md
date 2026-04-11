@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0380705354.jpg"}
 book: {"identifiers": ["0380705354", "0688088643", "0140179534", "0879755091"], "primary_isbn": "0380705354", "cover_image": "/book-covers/0380705354.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Whitley Strieber](/ufo-history/ufo-personalities/strieber-whitley)'s book “[Transformation](/ufo-history/ufo-books/strieber-whitley-transformation)” ([1988](/tags/1988)) (available [on Amazon USA](http://www.amazon.com/dp/0380705354/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0380705354/?&tag=ufot-21))
+Brief review to be added of [Whitley Strieber]({{ '/ufo-history/ufo-personalities/strieber-whitley' | relative_url }})'s book “[Transformation]({{ '/ufo-history/ufo-books/strieber-whitley-transformation' | relative_url }})” ([1988]({{ '/tags/1988' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0380705354/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0380705354/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1989">1989</a></p>
+<p><a href="{{ '/tags/1989' | relative_url }}">1989</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/conroy-ed">Conroy, Ed</a> in his “<a href="/ufo-history/ufo-books/conroy-ed-report-on-communion">Report on Communion</a>” (<a href="/tags/1989">1989</a>) (available <a href="http://www.amazon.com/dp/0688088643/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0688088643/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages xvi (in the Introduction), 14, 16, 17 (in Chapter 1), 124-129, 132 (in Chapter 3) of the Avon paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/conroy-ed' | relative_url }}">Conroy, Ed</a> in his “<a href="{{ '/ufo-history/ufo-books/conroy-ed-report-on-communion' | relative_url }}">Report on Communion</a>” (<a href="{{ '/tags/1989' | relative_url }}">1989</a>) (available <a href="http://www.amazon.com/dp/0688088643/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0688088643/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages xvi (in the Introduction), 14, 16, 17 (in Chapter 1), 124-129, 132 (in Chapter 3) of the Avon paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>11</p>
@@ -65,10 +65,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/schnabel-jim">Schnabel, Jim</a> in his “<a href="/ufo-history/ufo-books/schnabel-jim-dark-white">Dark White</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/0140179534/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0140179534/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 170 (in Chapter 8) of the Hamish Hamilton softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/schnabel-jim' | relative_url }}">Schnabel, Jim</a> in his “<a href="{{ '/ufo-history/ufo-books/schnabel-jim-dark-white' | relative_url }}">Dark White</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/0140179534/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0140179534/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 170 (in Chapter 8) of the Hamish Hamilton softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -76,10 +76,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1989">1989</a></p>
+<p><a href="{{ '/tags/1989' | relative_url }}">1989</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/klass-philip-j">Klass, Philip J</a> in his “<a href="/ufo-history/ufo-books/klass-philip-j-ufo-abductions-a-dangerous-game">UFO Abductions: A Dangerous Game</a>” (<a href="/tags/1989">1989</a>) (available <a href="http://www.amazon.com/dp/0879755091/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879755091/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 205-212 (in Chapter 21 generally “Ufology’s Pariah – or Messiah?”) of the updated Prometheus softback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/klass-philip-j' | relative_url }}">Klass, Philip J</a> in his “<a href="{{ '/ufo-history/ufo-books/klass-philip-j-ufo-abductions-a-dangerous-game' | relative_url }}">UFO Abductions: A Dangerous Game</a>” (<a href="{{ '/tags/1989' | relative_url }}">1989</a>) (available <a href="http://www.amazon.com/dp/0879755091/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879755091/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 205-212 (in Chapter 21 generally “Ufology’s Pariah – or Messiah?”) of the updated Prometheus softback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>8</p>

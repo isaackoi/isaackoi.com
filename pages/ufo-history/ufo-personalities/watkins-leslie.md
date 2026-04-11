@@ -13,13 +13,13 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/no_avatar.jpg"}
 ---
 
-![](/images/stories/no_avatar.jpg)
+![]({{ '/images/stories/no_avatar.jpg' | relative_url }})
 
 *Image needed*
 
-Leslie Watkins wrote a book entitled “[Alternative 3](/ufo-history/ufo-books/watkins-leslie-alternative-3)”([1978](/tags/1978)) (available [on Amazon USA](http://www.amazon.com/dp/0380446774/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0380446774/?&tag=ufot-21)), which was based on the TV screenplay of the same name by David Ambrose and Christopher Miles.
+Leslie Watkins wrote a book entitled “[Alternative 3]({{ '/ufo-history/ufo-books/watkins-leslie-alternative-3' | relative_url }})”([1978]({{ '/tags/1978' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0380446774/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0380446774/?&tag=ufot-21)), which was based on the TV screenplay of the same name by David Ambrose and Christopher Miles.
 
-See the entry in relation to “[Alternative 3](/ufo-history/ufo-books/watkins-leslie-alternative-3)”.
+See the entry in relation to “[Alternative 3]({{ '/ufo-history/ufo-books/watkins-leslie-alternative-3' | relative_url }})”.
 
 1. [Web Resources](#web)
 
@@ -59,10 +59,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/keith-jim">Keith, Jim</a> in his “<a href="/ufo-history/ufo-books/keith-jim-casebook-on-alternative-3">Casebook on Alternative 3</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/1931882444/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1931882444/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 120 (in Chapter 17) of the I-Net softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/keith-jim' | relative_url }}">Keith, Jim</a> in his “<a href="{{ '/ufo-history/ufo-books/keith-jim-casebook-on-alternative-3' | relative_url }}">Casebook on Alternative 3</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/1931882444/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1931882444/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 120 (in Chapter 17) of the I-Net softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -71,7 +71,7 @@ For discussion see the following:
 </tbody>
 </table>
 
-See also the entry in relation to “[Alternative 3](/ufo-history/ufo-books/watkins-leslie-alternative-3)”.
+See also the entry in relation to “[Alternative 3]({{ '/ufo-history/ufo-books/watkins-leslie-alternative-3' | relative_url }})”.
 
 <a id="other"></a>
 ### Other Material

@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/074348293X.jpg"}
 book: {"identifiers": ["074348293X"], "primary_isbn": "074348293X", "cover_image": "/book-covers/074348293X.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Mac Tonnies](/ufo-history/ufo-personalities/tonnies-mac)'s book “[After the Martian Apocalypse](/ufo-history/ufo-books/tonnies-mac-after-the-martian-apocalypse)” ([2004](/tags/2004)) (available [on Amazon USA](http://www.amazon.com/dp/074348293X/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/074348293X/?&tag=ufot-21))
+Brief review to be added of [Mac Tonnies]({{ '/ufo-history/ufo-personalities/tonnies-mac' | relative_url }})'s book “[After the Martian Apocalypse]({{ '/ufo-history/ufo-books/tonnies-mac-after-the-martian-apocalypse' | relative_url }})” ([2004]({{ '/tags/2004' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/074348293X/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/074348293X/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

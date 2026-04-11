@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0859780295.jpg"}
 book: {"identifiers": ["0859780295", "0631135634"], "primary_isbn": "0859780295", "cover_image": "/book-covers/0859780295.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of Jean-Claude Bourret's book “[The Crack in the Universe](/ufo-history/ufo-books/bourret-jean-claude-the-crack-in-the-universe)” ([1977](/tags/1977)) (available [on Amazon USA](http://www.amazon.com/dp/0859780295/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0859780295/?&tag=ufot-21))
+Brief review to be added of Jean-Claude Bourret's book “[The Crack in the Universe]({{ '/ufo-history/ufo-books/bourret-jean-claude-the-crack-in-the-universe' | relative_url }})” ([1977]({{ '/tags/1977' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0859780295/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0859780295/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -52,10 +52,10 @@ Many of the tables of references on this website are considerably longer than th
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1988">1988</a></p>
+<p><a href="{{ '/tags/1988' | relative_url }}">1988</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/boyd-robert-d">Boyd, Robert D</a> in his “International Who’s Who in Ufology Directory” (<a href="/tags/1988">1988</a>) at page 51 of the PMT Publishing softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/boyd-robert-d' | relative_url }}">Boyd, Robert D</a> in his “International Who’s Who in Ufology Directory” (<a href="{{ '/tags/1988' | relative_url }}">1988</a>) at page 51 of the PMT Publishing softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -63,10 +63,10 @@ Many of the tables of references on this website are considerably longer than th
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1977">1977</a></p>
+<p><a href="{{ '/tags/1977' | relative_url }}">1977</a></p>
 </td>
 <td valign="top" width="547">
-<p>Creighton, Gordon in Jean-Claude Bourret’s “<a href="/ufo-history/ufo-books/bourret-jean-claude-the-crack-in-the-universe">The Crack in the Universe</a>” (<a href="/tags/1977">1977</a>) (available <a href="http://www.amazon.com/dp/0859780295/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0859780295/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 1-4, 6 (in the Foreword) of the Neville Spearman hardback edition.</p>
+<p>Creighton, Gordon in Jean-Claude Bourret’s “<a href="{{ '/ufo-history/ufo-books/bourret-jean-claude-the-crack-in-the-universe' | relative_url }}">The Crack in the Universe</a>” (<a href="{{ '/tags/1977' | relative_url }}">1977</a>) (available <a href="http://www.amazon.com/dp/0859780295/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0859780295/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 1-4, 6 (in the Foreword) of the Neville Spearman hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>
@@ -74,10 +74,10 @@ Many of the tables of references on this website are considerably longer than th
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1985">1985</a></p>
+<p><a href="{{ '/tags/1985' | relative_url }}">1985</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> and <a href="/ufo-history/ufo-personalities/warrington-peter">Warrington, Peter</a> in their “<a href="/ufo-history/ufo-books/randles-jenny-and-warrington-peter-science-and-the-ufos">Science and the UFOs</a> " (<a href="/tags/1985">1985</a>) (available <a href="http://www.amazon.com/dp/0631135634/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0631135634/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 199 (in the Bibliography) of the Blackwell hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> and <a href="{{ '/ufo-history/ufo-personalities/warrington-peter' | relative_url }}">Warrington, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-warrington-peter-science-and-the-ufos' | relative_url }}">Science and the UFOs</a> " (<a href="{{ '/tags/1985' | relative_url }}">1985</a>) (available <a href="http://www.amazon.com/dp/0631135634/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0631135634/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 199 (in the Bibliography) of the Blackwell hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

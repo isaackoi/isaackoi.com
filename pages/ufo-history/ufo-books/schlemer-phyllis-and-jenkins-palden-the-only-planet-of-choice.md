@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/1858600235.jpg"}
 book: {"identifiers": ["1858600235", "1852277343", "0552109975", "0415243424", "0713726008", "0880642262"], "primary_isbn": "1858600235", "cover_image": "/book-covers/1858600235.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of “[The Only Planet Of Choice](/ufo-history/ufo-books/schlemer-phyllis-and-jenkins-palden-the-only-planet-of-choice)” ([1993](/tags/1993)) (available [on Amazon USA](http://www.amazon.com/dp/1858600235/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1858600235/?&tag=ufot-21)) by Phyllis Schlemer and Palden Jenkins.
+Brief review to be added of “[The Only Planet Of Choice]({{ '/ufo-history/ufo-books/schlemer-phyllis-and-jenkins-palden-the-only-planet-of-choice' | relative_url }})” ([1993]({{ '/tags/1993' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1858600235/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1858600235/?&tag=ufot-21)) by Phyllis Schlemer and Palden Jenkins.
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/baker-alan">Baker, Alan</a> in his “<a href="/ufo-history/ufo-books/baker-alan-the-encyclopaedia-of-alien-encounters">The Encyclopaedia of Alien Encounters</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/1852277343/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1852277343/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 58 (in an entry entitled “Council of Nine”) of the Virgin hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/baker-alan' | relative_url }}">Baker, Alan</a> in his “<a href="{{ '/ufo-history/ufo-books/baker-alan-the-encyclopaedia-of-alien-encounters' | relative_url }}">The Encyclopaedia of Alien Encounters</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/1852277343/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1852277343/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 58 (in an entry entitled “Council of Nine”) of the Virgin hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -65,10 +65,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1977">1977</a></p>
+<p><a href="{{ '/tags/1977' | relative_url }}">1977</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/holroyd-stuart">Holroyd, Stuart</a> in his “<a href="/ufo-history/ufo-books/holroyd-stuart-briefing-for-the-landing-on-planet-earth">Briefing for the landing on Planet Earth</a>” (<a href="/tags/1977">1977</a>) (available <a href="http://www.amazon.com/dp/0552109975/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0552109975/ref=nosim?tag=ufot-21">on Amazon UK</a>) generally, particularly at pages 25, 36-38, 41-45, 49, 76-81, 83-89, 108-109, 119-120, 188-207, 248-262, 282-312, 315-316 of the Corgi paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/holroyd-stuart' | relative_url }}">Holroyd, Stuart</a> in his “<a href="{{ '/ufo-history/ufo-books/holroyd-stuart-briefing-for-the-landing-on-planet-earth' | relative_url }}">Briefing for the landing on Planet Earth</a>” (<a href="{{ '/tags/1977' | relative_url }}">1977</a>) (available <a href="http://www.amazon.com/dp/0552109975/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0552109975/ref=nosim?tag=ufot-21">on Amazon UK</a>) generally, particularly at pages 25, 36-38, 41-45, 49, 76-81, 83-89, 108-109, 119-120, 188-207, 248-262, 282-312, 315-316 of the Corgi paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>95</p>
@@ -76,10 +76,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p>Lamb, David in his “<a href="/ufo-history/ufo-books/lamb-david-the-search-of-extraterrestrial-intelligence-a-philosophical-inquiry">The Search for Extraterrestrial Intelligence : A Philosophical Inquiry</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/0415243424/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0415243424/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 133 (in Chapter 5) of the Routledge softcover edition.</p>
+<p>Lamb, David in his “<a href="{{ '/ufo-history/ufo-books/lamb-david-the-search-of-extraterrestrial-intelligence-a-philosophical-inquiry' | relative_url }}">The Search for Extraterrestrial Intelligence : A Philosophical Inquiry</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/0415243424/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0415243424/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 133 (in Chapter 5) of the Routledge softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -87,10 +87,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/watts-alan">Watts, Alan</a> in his “<a href="/ufo-history/ufo-books/watts-alan-ufo-visitation">UFO Visitation</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/0713726008/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713726008/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 2, 3 (in the Introduction), 48 (in Chapter 5), 93-103 (in Chapter 10 generally), 105-110 (in Chapter 11 generally), 111 (in Chapter 12), 127, 136 (in Chapter 13), 155 (in Chapter 15), 180 (in Chapter 17), 190 (in Chapter 18), 202, 203, 205-206 (in Chapter 20) of the Blandford softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/watts-alan' | relative_url }}">Watts, Alan</a> in his “<a href="{{ '/ufo-history/ufo-books/watts-alan-ufo-visitation' | relative_url }}">UFO Visitation</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/0713726008/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713726008/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 2, 3 (in the Introduction), 48 (in Chapter 5), 93-103 (in Chapter 10 generally), 105-110 (in Chapter 11 generally), 111 (in Chapter 12), 127, 136 (in Chapter 13), 155 (in Chapter 15), 180 (in Chapter 17), 190 (in Chapter 18), 202, 203, 205-206 (in Chapter 20) of the Blandford softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>30</p>
@@ -98,10 +98,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1993">1993</a></p>
+<p><a href="{{ '/tags/1993' | relative_url }}">1993</a></p>
 </td>
 <td valign="top" width="547">
-<p>Whitmore, John in “<a href="/ufo-history/ufo-books/schlemer-phyllis-and-jenkins-palden-the-only-planet-of-choice">The Only Planet Of Choice</a>” (<a href="/tags/1993">1993</a>) (available <a href="http://www.amazon.com/dp/1858600235/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1858600235/ref=nosim?tag=ufot-21">on Amazon UK</a>) (by Phyllis Schlemer and Palden Jenkins) at pages viii-ix (in Chapter 1) of the Gateway Books softcover edition.</p>
+<p>Whitmore, John in “<a href="{{ '/ufo-history/ufo-books/schlemer-phyllis-and-jenkins-palden-the-only-planet-of-choice' | relative_url }}">The Only Planet Of Choice</a>” (<a href="{{ '/tags/1993' | relative_url }}">1993</a>) (available <a href="http://www.amazon.com/dp/1858600235/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1858600235/ref=nosim?tag=ufot-21">on Amazon UK</a>) (by Phyllis Schlemer and Palden Jenkins) at pages viii-ix (in Chapter 1) of the Gateway Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -109,10 +109,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/wilson-colin">Wilson, Colin</a> in his “<a href="/ufo-history/ufo-books/wilson-colin-alien-dawn">Alien Dawn</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0880642262/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0880642262/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 25 (in Chapter 1) of the Virgin softcover edition (with the same page numbering in the Virgin paperback edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/wilson-colin' | relative_url }}">Wilson, Colin</a> in his “<a href="{{ '/ufo-history/ufo-books/wilson-colin-alien-dawn' | relative_url }}">Alien Dawn</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0880642262/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0880642262/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 25 (in Chapter 1) of the Virgin softcover edition (with the same page numbering in the Virgin paperback edition).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

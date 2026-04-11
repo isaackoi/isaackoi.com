@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/britain_1.gif"}
 ---
 
-![britain_1](/images/stories/ufo_tags/britain_1.gif)
+![britain_1]({{ '/images/stories/ufo_tags/britain_1.gif' | relative_url }})
 
 *Outer Hebrides sighting*
 
@@ -63,10 +63,10 @@ For discussion of the isle of Lewis incident see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clarke-david">Clarke, David</a> in “<a href="/ufo-history/ufo-books/randles-jenny-and-clarke-david-and-roberts-andy-the-ufos-that-never-were">The UFOs that never were</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/1902809351/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1902809351/ref=nosim?tag=ufot-21">on Amazon UK</a>) by <a href="/ufo-history/ufo-personalities/randles-jenny">Jenny Randles</a>, <a href="/ufo-history/ufo-personalities/roberts-andy">Andy Roberts</a> and <a href="/ufo-history/ufo-personalities/clarke-david">David Clarke</a> at pages 110-127 (in Chapter 6, “The Isle of Lewis Mystery” by <a href="/ufo-history/ufo-personalities/clarke-david">David Clarke</a>) of the London House hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clarke-david' | relative_url }}">Clarke, David</a> in “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-clarke-david-and-roberts-andy-the-ufos-that-never-were' | relative_url }}">The UFOs that never were</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/1902809351/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1902809351/ref=nosim?tag=ufot-21">on Amazon UK</a>) by <a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Jenny Randles</a>, <a href="{{ '/ufo-history/ufo-personalities/roberts-andy' | relative_url }}">Andy Roberts</a> and <a href="{{ '/ufo-history/ufo-personalities/clarke-david' | relative_url }}">David Clarke</a> at pages 110-127 (in Chapter 6, “The Isle of Lewis Mystery” by <a href="{{ '/ufo-history/ufo-personalities/clarke-david' | relative_url }}">David Clarke</a>) of the London House hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>18</p>
@@ -74,10 +74,10 @@ For discussion of the isle of Lewis incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/dodd-tony">Dodd, Tony</a> “<a href="/ufo-history/ufo-books/dodd-tony-alien-investigator">Alien Investigator</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0747261415/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0747261415/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 289 (in Chapter 10) of the Headline paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dodd-tony' | relative_url }}">Dodd, Tony</a> “<a href="{{ '/ufo-history/ufo-books/dodd-tony-alien-investigator' | relative_url }}">Alien Investigator</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0747261415/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0747261415/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 289 (in Chapter 10) of the Headline paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -85,10 +85,10 @@ For discussion of the isle of Lewis incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-alien-contact-the-first-fifty-years">Alien Contact – The First Fifty Years</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0806904763/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806904763/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 137 (in the chapter entitled “<a href="/tags/1996">1996</a>”) of the Collins and Brown hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-alien-contact-the-first-fifty-years' | relative_url }}">Alien Contact – The First Fifty Years</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0806904763/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806904763/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 137 (in the chapter entitled “<a href="{{ '/tags/1996' | relative_url }}">1996</a>”) of the Collins and Brown hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -96,10 +96,10 @@ For discussion of the isle of Lewis incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/redfern-nicholas">Redfern, Nicholas</a> in his “<a href="/ufo-history/ufo-books/redfern-nicholas-cosmic-crashes">Cosmic Crashes</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0684870231/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684870231/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 162-168 (in Chapter 8) of the Simon &amp; Schuster hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/redfern-nicholas' | relative_url }}">Redfern, Nicholas</a> in his “<a href="{{ '/ufo-history/ufo-books/redfern-nicholas-cosmic-crashes' | relative_url }}">Cosmic Crashes</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0684870231/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684870231/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 162-168 (in Chapter 8) of the Simon &amp; Schuster hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>7</p>
@@ -107,10 +107,10 @@ For discussion of the isle of Lewis incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2005">2005</a></p>
+<p><a href="{{ '/tags/2005' | relative_url }}">2005</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/wood-ryan">Wood, Ryan</a> in his “<a href="/ufo-history/ufo-books/wood-ryan-majic-eyes-only">MAJIC Eyes Only</a>” (<a href="/tags/2005">2005</a>) (available <a href="http://www.amazon.com/dp/0977205908/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0977205908/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 224-225 of the Wood Enterprises hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/wood-ryan' | relative_url }}">Wood, Ryan</a> in his “<a href="{{ '/ufo-history/ufo-books/wood-ryan-majic-eyes-only' | relative_url }}">MAJIC Eyes Only</a>” (<a href="{{ '/tags/2005' | relative_url }}">2005</a>) (available <a href="http://www.amazon.com/dp/0977205908/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0977205908/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 224-225 of the Wood Enterprises hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

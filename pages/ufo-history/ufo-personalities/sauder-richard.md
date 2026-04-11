@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/sauder_richard_3.jpg"}
 ---
 
-![sauder_richard_3](/images/stories/ufo_personalities/sauder_richard_3.jpg)
+![sauder_richard_3]({{ '/images/stories/ufo_personalities/sauder_richard_3.jpg' | relative_url }})
 
 *Richard Sauder*
 
@@ -36,18 +36,18 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/sauder-richard">Sauder, Richard</a> “<a href="/ufo-history/ufo-books/sauder-richard-underground-bases-and-tunnels">Underground Bases and Tunnels</a>” (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/0932813372/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0932813372/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sauder-richard' | relative_url }}">Sauder, Richard</a> “<a href="{{ '/ufo-history/ufo-books/sauder-richard-underground-bases-and-tunnels' | relative_url }}">Underground Bases and Tunnels</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/0932813372/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0932813372/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/sauder-richard">Sauder, Richard</a> “Underwater and Underground Bases”</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sauder-richard' | relative_url }}">Sauder, Richard</a> “Underwater and Underground Bases”</p>
 </td>
 </tr>
 </tbody>
@@ -91,10 +91,10 @@ For discussion of Richard Sauder see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p>Darlington, David in his “<a href="/ufo-history/ufo-books/darlington-david-the-dreamland-chronicles">The Dreamland Chronicles</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0805047778/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0805047778/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 187-192 (in Chapter 8) of the LB hardback edition (with the same page numbering in the Warner Books softcover edition).</p>
+<p>Darlington, David in his “<a href="{{ '/ufo-history/ufo-books/darlington-david-the-dreamland-chronicles' | relative_url }}">The Dreamland Chronicles</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0805047778/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0805047778/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 187-192 (in Chapter 8) of the LB hardback edition (with the same page numbering in the Warner Books softcover edition).</p>
 </td>
 <td valign="top" width="52">
 <p>6</p>
@@ -102,10 +102,10 @@ For discussion of Richard Sauder see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="Search.html?ordering=0&amp;searchphrase=all&amp;searchword=king">King, Jon</a> in his “<a href="/ufo-history/ufo-books/king-jon-cosmic-top-secret">Cosmic Top Secret</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0340708220/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0340708220/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 376-379 (in the chapter entitled “Document 11”, “File 36”) of the NEL paperback edition.</p>
+<p><a href="Search.html?ordering=0&amp;searchphrase=all&amp;searchword=king">King, Jon</a> in his “<a href="{{ '/ufo-history/ufo-books/king-jon-cosmic-top-secret' | relative_url }}">Cosmic Top Secret</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0340708220/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0340708220/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 376-379 (in the chapter entitled “Document 11”, “File 36”) of the NEL paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -113,10 +113,10 @@ For discussion of Richard Sauder see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/marrs-jim">Marrs, Jim</a> in his “<a href="/ufo-history/ufo-books/marrs-jim-alien-agenda">Alien Agenda</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0060186429/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0060186429/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 170-171 (in Chapter 6) of the Harper Collins paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/marrs-jim' | relative_url }}">Marrs, Jim</a> in his “<a href="{{ '/ufo-history/ufo-books/marrs-jim-alien-agenda' | relative_url }}">Alien Agenda</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0060186429/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0060186429/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 170-171 (in Chapter 6) of the Harper Collins paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -124,10 +124,10 @@ For discussion of Richard Sauder see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>O’ Brien, Christopher in his “<a href="/ufo-history/ufo-books/o-brien-christopher-enter-the-valley">Enter The Valley</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0312968353/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312968353/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 186-187, 189 (in Chapter 7) of the St Martin’s Paperbacks paperback edition.</p>
+<p>O’ Brien, Christopher in his “<a href="{{ '/ufo-history/ufo-books/o-brien-christopher-enter-the-valley' | relative_url }}">Enter The Valley</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0312968353/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312968353/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 186-187, 189 (in Chapter 7) of the St Martin’s Paperbacks paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -135,10 +135,10 @@ For discussion of Richard Sauder see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/swartz-tim">Swartz, Tim</a> in his “Secret Black Projects of the New World Order: Anti-Gravity UFOs, Black Helicopters and Mysterious Flying Triangles” (<a href="/tags/1998">1998</a>) at pages 92, 96 (in Chapter 11) of the Global Communications softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/swartz-tim' | relative_url }}">Swartz, Tim</a> in his “Secret Black Projects of the New World Order: Anti-Gravity UFOs, Black Helicopters and Mysterious Flying Triangles” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) at pages 92, 96 (in Chapter 11) of the Global Communications softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

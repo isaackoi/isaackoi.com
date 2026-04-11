@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0312958838.jpg"}
 book: {"identifiers": ["0312958838"], "primary_isbn": "0312958838", "cover_image": "/book-covers/0312958838.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of “[The Mysterious Valley](/ufo-history/ufo-books/o-brien-christopher-the-mysterious-valley)” ([1996](/tags/1996)) (available [on Amazon USA](http://www.amazon.com/dp/0312958838/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0312958838/?&tag=ufot-21)) by Christopher O’ Brien.
+Brief review to be added of “[The Mysterious Valley]({{ '/ufo-history/ufo-books/o-brien-christopher-the-mysterious-valley' | relative_url }})” ([1996]({{ '/tags/1996' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0312958838/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0312958838/?&tag=ufot-21)) by Christopher O’ Brien.
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p>Perkins, David in Christopher O’ Brien’s “<a href="/ufo-history/ufo-books/o-brien-christopher-the-mysterious-valley">The Mysterious Valley</a>” (<a href="/tags/1996">1996</a>) at pages xiii-xvii (in the Foreword) of the St Martin’s Paperbacks paperback edition.</p>
+<p>Perkins, David in Christopher O’ Brien’s “<a href="{{ '/ufo-history/ufo-books/o-brien-christopher-the-mysterious-valley' | relative_url }}">The Mysterious Valley</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) at pages xiii-xvii (in the Foreword) of the St Martin’s Paperbacks paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>

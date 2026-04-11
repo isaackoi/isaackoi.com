@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/051757165X.jpg"}
 book: {"identifiers": ["051757165X"], "primary_isbn": "051757165X", "cover_image": "/book-covers/051757165X.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of “[The Fringes of Reason](/ufo-history/ufo-books/schultz-ted-the-fringes-of-reason)” ([1989](/tags/1989)) (available [on Amazon USA](http://www.amazon.com/dp/051757165X/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/051757165X/?&tag=ufot-21)) edited by Ted Schultz.
+Brief review to be added of “[The Fringes of Reason]({{ '/ufo-history/ufo-books/schultz-ted-the-fringes-of-reason' | relative_url }})” ([1989]({{ '/tags/1989' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/051757165X/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/051757165X/?&tag=ufot-21)) edited by Ted Schultz.
 
 1. [Web Resources](#web)
 

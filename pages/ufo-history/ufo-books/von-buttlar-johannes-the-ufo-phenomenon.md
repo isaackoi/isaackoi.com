@@ -14,7 +14,7 @@ header: {"preview_image": "https://covers.openlibrary.org/b/isbn/0352306823-L.jp
 book: {"identifiers": ["0352306823"], "primary_isbn": "0352306823", "cover_image": "https://covers.openlibrary.org/b/isbn/0352306823-L.jpg?default=false", "cover_source": "openlibrary"}
 ---
 
-Brief review to be added of [Johannes Von Buttlar](/ufo-history/ufo-personalities/von-buttlar-johannes)'s book “[The UFO Phenomenon](/ufo-history/ufo-books/von-buttlar-johannes-the-ufo-phenomenon)” ([1980](/tags/1980)) (available [on Amazon USA](http://www.amazon.com/dp/0352306823/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0352306823/?&tag=ufot-21))
+Brief review to be added of [Johannes Von Buttlar]({{ '/ufo-history/ufo-personalities/von-buttlar-johannes' | relative_url }})'s book “[The UFO Phenomenon]({{ '/ufo-history/ufo-books/von-buttlar-johannes-the-ufo-phenomenon' | relative_url }})” ([1980]({{ '/tags/1980' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0352306823/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0352306823/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

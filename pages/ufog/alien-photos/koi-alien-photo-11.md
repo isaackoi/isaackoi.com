@@ -13,7 +13,7 @@ planned_sections: ["1. The relevant image", "2. Stories and claims relating to t
 header: {"preview_image": "/images/stories/alien_photos/koi_ap_11_d.jpg"}
 ---
 
-![](/images/stories/alien_photos/koi_ap_11_d.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_11_d.jpg' | relative_url }})
 
 *Koi Alien Photo 11*
 
@@ -48,38 +48,38 @@ Koi Alien Photo 11_d appears to show an alien being wearing some sort of uniform
 
 Various very similar photos, some in colour, appear on numerous websites.
 
-![](/images/stories/alien_photos/koi_ap_11_a.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_11_a.jpg' | relative_url }})
 
-![](/images/stories/alien_photos/koi_ap_11_b.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_11_b.jpg' | relative_url }})
 
-![](/images/stories/alien_photos/koi_ap_11_c.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_11_c.jpg' | relative_url }})
 
-![](/images/stories/alien_photos/koi_ap_11_d.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_11_d.jpg' | relative_url }})
 
-![](/images/stories/alien_photos/koi_ap_11_f.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_11_f.jpg' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this image
 
 Some of the captions to these photos link the "alien" to "Hangar 18" and/or an alleged crash at Roswell (for no apparent reason).
 
-![](/images/stories/alien_photos/koi_ap_11_g.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_11_g.jpg' | relative_url }})
 
-![](/images/stories/alien_photos/koi_ap_11_e.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_11_e.jpg' | relative_url }})
 
 Two of the relevant photos appeared on the back cover of the book "UFO Crash Secrets at Wright Patterson Air Force Base" written by James W Moseley when it was republished by Tim Beckley in 1991, with a caption stating "Soviets release photos of alien bodies recovered from 'flying disc' crash site". The photo was the subject of a "report" within that book by Antonio Huneeus, which stated that the alien photo was first revealed to the world by Marina Popovich, a Russian ufologist, who had received it from Professor Feliz Zigel who in turn had received it from a Canadian source.
 
-![](/images/stories/alien_photos/koi_ap_11_z8.JPG)
+![]({{ '/images/stories/alien_photos/koi_ap_11_z8.JPG' | relative_url }})
 
-![](/images/stories/alien_photos/koi_ap_11_z9.JPG)
+![]({{ '/images/stories/alien_photos/koi_ap_11_z9.JPG' | relative_url }})
 
 One of the relevant photos also appeared on the front cover of the Brazilian "UFO" magazine with a reference to the alleged crash at Roswell in 1947.
 
-![](/images/stories/alien_photos/koi_ap_11_v.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_11_v.jpg' | relative_url }})
 
 One of the relevant photos has also been used to illustrate the cover of a UFO documentary entitled "Roswell: La Verita" ("Roswell: The Truth"):
 
-![](/images/stories/alien_photos/koi_ap_11_z5.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_11_z5.jpg' | relative_url }})
 
 <a id="truth"></a>
 ### 3. The real background to this image
@@ -98,23 +98,23 @@ Linda Corriveau has explained this in detail at length, complete with numerous p
 
 The photograph below shows the "Man and his World" exhibition:
 
-![](/images/stories/alien_photos/koi_ap_11_z7.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_11_z7.jpg' | relative_url }})
 
 Promotional material from 1978 for the "Strange, Strange World" pavilion at the "Man and his World" indicated that it would involve a presentation asking "ever-important questions", including "Are we being visited by extraterrestrial beings that come from other dimensions?", "What do they want from us?" and "Is there other life in the Universe"?
 
-![](/images/stories/alien_photos/koi_ap_11_n.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_11_n.jpg' | relative_url }})
 
 The two photos below put the "alien" into context, showing it was clearly part of an exhibit.
 
-![](/images/stories/alien_photos/koi_ap_11_l.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_11_l.jpg' | relative_url }})
 
-![](/images/stories/alien_photos/koi_ap_11_m.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_11_m.jpg' | relative_url }})
 
 Here are a couple of close-ups of the model:
 
-![](/images/stories/alien_photos/koi_ap_11_h.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_11_h.jpg' | relative_url }})
 
-![](/images/stories/alien_photos/koi_ap_11_t.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_11_t.jpg' | relative_url }})
 
 <a id="forums"></a>
 ### 4. Relevant online forum discussions

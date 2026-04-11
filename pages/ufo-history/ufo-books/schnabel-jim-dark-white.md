@@ -14,7 +14,7 @@ header: {"preview_image": "https://covers.openlibrary.org/b/isbn/0140179534-L.jp
 book: {"identifiers": ["0140179534"], "primary_isbn": "0140179534", "cover_image": "https://covers.openlibrary.org/b/isbn/0140179534-L.jpg?default=false", "cover_source": "openlibrary"}
 ---
 
-Brief review to be added of [Jim Schnabel](/ufo-history/ufo-personalities/schnabel-jim)'s book “[Dark White](/ufo-history/ufo-books/schnabel-jim-dark-white)” ([1994](/tags/1994)) (available [on Amazon USA](http://www.amazon.com/dp/0140179534/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0140179534/?&tag=ufot-21))
+Brief review to be added of [Jim Schnabel]({{ '/ufo-history/ufo-personalities/schnabel-jim' | relative_url }})'s book “[Dark White]({{ '/ufo-history/ufo-books/schnabel-jim-dark-white' | relative_url }})” ([1994]({{ '/tags/1994' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0140179534/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0140179534/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/britain_1.gif"}
 ---
 
-![britain_1](/images/stories/ufo_tags/britain_1.gif)
+![britain_1]({{ '/images/stories/ufo_tags/britain_1.gif' | relative_url }})
 
 *“Britain’s Secret UFO Files”*
 
@@ -67,10 +67,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-investigating-the-truth-behind-mib">Investigating the Truth Behind MIB</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0312965214/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312965214/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 210, 212 (in Chapter 15) of the Piatkus softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-investigating-the-truth-behind-mib' | relative_url }}">Investigating the Truth Behind MIB</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0312965214/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312965214/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 210, 212 (in Chapter 15) of the Piatkus softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

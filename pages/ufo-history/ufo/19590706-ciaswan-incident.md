@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/cia_1.gif"}
 ---
 
-![cia_1](/images/stories/ufo_tags/cia_1.gif)
+![cia_1]({{ '/images/stories/ufo_tags/cia_1.gif' | relative_url }})
 
 *CIA/Swan incident*
 
@@ -63,10 +63,10 @@ For discussion of Mrs Swan see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2005">2005</a></p>
+<p><a href="{{ '/tags/2005' | relative_url }}">2005</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/bishop-greg">Bishop, Greg</a> in his “<a href="/ufo-history/ufo-books/bishop-greg-project-beta">Project BETA : The Story of Paul Bennewitz, National Security, and the Creation of a Modern UFO Myth</a>” (<a href="/tags/2005">2005</a>) (available <a href="http://www.amazon.com/dp/0743470923/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743470923/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 200 (in Chapter 24) of the Paraview Pocket Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/bishop-greg' | relative_url }}">Bishop, Greg</a> in his “<a href="{{ '/ufo-history/ufo-books/bishop-greg-project-beta' | relative_url }}">Project BETA : The Story of Paul Bennewitz, National Security, and the Creation of a Modern UFO Myth</a>” (<a href="{{ '/tags/2005' | relative_url }}">2005</a>) (available <a href="http://www.amazon.com/dp/0743470923/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743470923/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 200 (in Chapter 24) of the Paraview Pocket Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -74,10 +74,10 @@ For discussion of Mrs Swan see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p>Campagna, Palmiro in his “<a href="/ufo-history/ufo-books/campagna-palmiro-the-ufo-files-the-canadian-connection-exposed">The UFO Files: The Canadian Connection Exposed</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0773759735/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0773759735/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 47 (in Chapter 3), 143 (in Chapter 10) of the Stoddart softcover edition.</p>
+<p>Campagna, Palmiro in his “<a href="{{ '/ufo-history/ufo-books/campagna-palmiro-the-ufo-files-the-canadian-connection-exposed' | relative_url }}">The UFO Files: The Canadian Connection Exposed</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0773759735/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0773759735/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 47 (in Chapter 3), 143 (in Chapter 10) of the Stoddart softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -85,10 +85,10 @@ For discussion of Mrs Swan see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p>Christopher, Paul in his “<a href="/ufo-history/ufo-books/christopher-paul-alien-intervention">Alien Intervention: The Spiritual Mission of UFOs</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/1563841487/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1563841487/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 36-37 (in Chapter 2), 49 (in Chapter 3), 123-125 (in Chapter 7) of the Huntington House softcover edition.</p>
+<p>Christopher, Paul in his “<a href="{{ '/ufo-history/ufo-books/christopher-paul-alien-intervention' | relative_url }}">Alien Intervention: The Spiritual Mission of UFOs</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/1563841487/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1563841487/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 36-37 (in Chapter 2), 49 (in Chapter 3), 123-125 (in Chapter 7) of the Huntington House softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>6</p>
@@ -96,10 +96,10 @@ For discussion of Mrs Swan see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-extraordinary-encounters">Extraordinary Encounters : An Encyclopedia of Extraterrestrials and Otherworldly Beings</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/1576072495/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1576072495/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 12-13 (in an entry entitled “Affa”) of the ABC-Clio hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-extraordinary-encounters' | relative_url }}">Extraordinary Encounters : An Encyclopedia of Extraterrestrials and Otherworldly Beings</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/1576072495/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1576072495/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 12-13 (in an entry entitled “Affa”) of the ABC-Clio hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -107,10 +107,10 @@ For discussion of Mrs Swan see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in “<a href="/ufo-history/ufo-books/fawcett-bill-ed-making-contact">Making Contact</a>” (<a href="/tags/1997">1997</a>) (edited by Bill Fawcett) (available <a href="http://www.amazon.com/dp/0688144861/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0688144861/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 24-25 (in Section 1) of the Morrow hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in “<a href="{{ '/ufo-history/ufo-books/fawcett-bill-ed-making-contact' | relative_url }}">Making Contact</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (edited by Bill Fawcett) (available <a href="http://www.amazon.com/dp/0688144861/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0688144861/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 24-25 (in Section 1) of the Morrow hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -118,10 +118,10 @@ For discussion of Mrs Swan see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq">The UFO Encyclopedia: 1st edition</a>: Volume 2 – Emergence of a Phenomenon” (<a href="/tags/1992">1992</a>) (available <a href="http://www.amazon.com/dp/1558887415/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558887415/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 322-325 (in an entry entitled “Swan / CIA Contact Story”) of the Omnigraphics hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq' | relative_url }}">The UFO Encyclopedia: 1st edition</a>: Volume 2 – Emergence of a Phenomenon” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="http://www.amazon.com/dp/1558887415/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558887415/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 322-325 (in an entry entitled “Swan / CIA Contact Story”) of the Omnigraphics hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -129,10 +129,10 @@ For discussion of Mrs Swan see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a>” (<a href="/tags/1998">1998</a>)in Volume 2:L-Z at pages 888-890 (in an entry entitled “Swan/CIA Contact Story”), 853 (forming part of an entry entitled “<a href="/ufo-history/ufo-personalities/smith-wilbert-b">Smith, Wilbert B</a>rockhouse (1910-<a href="/tags/1962">1962</a>) at pages 851-854”) of the Omnigraphics hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition' | relative_url }}">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>)in Volume 2:L-Z at pages 888-890 (in an entry entitled “Swan/CIA Contact Story”), 853 (forming part of an entry entitled “<a href="{{ '/ufo-history/ufo-personalities/smith-wilbert-b' | relative_url }}">Smith, Wilbert B</a>rockhouse (1910-<a href="{{ '/tags/1962' | relative_url }}">1962</a>) at pages 851-854”) of the Omnigraphics hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -140,10 +140,10 @@ For discussion of Mrs Swan see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/dolan-richard">Dolan, Richard</a> M in his “<a href="/ufo-history/ufo-books/dolan-richard-ufos-and-the-national-security-state-volume-1-1941-1973">UFOs and the National Security State: Volume 1: 1941-1973</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/1571743170/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1571743170/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 308-309 (in Chapter 6) of the Keyhole softcover edition, at page 225 of the <a href="/tags/2002">2002</a> revised Hampton Road softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dolan-richard' | relative_url }}">Dolan, Richard</a> M in his “<a href="{{ '/ufo-history/ufo-books/dolan-richard-ufos-and-the-national-security-state-volume-1-1941-1973' | relative_url }}">UFOs and the National Security State: Volume 1: 1941-1973</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/1571743170/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1571743170/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 308-309 (in Chapter 6) of the Keyhole softcover edition, at page 225 of the <a href="{{ '/tags/2002' | relative_url }}">2002</a> revised Hampton Road softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -151,10 +151,10 @@ For discussion of Mrs Swan see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1974">1974</a></p>
+<p><a href="{{ '/tags/1974' | relative_url }}">1974</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/emenegger-robert">Emenegger, Robert</a> in his “<a href="/ufo-history/ufo-books/emenegger-robert-ufos-past-present-and-future">UFOs Past, Present and Future</a>” (available <a href="http://www.amazon.com/dp/0345241894/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0345241894/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 55-62 (in Chapter 10 generally) of the silver covered Ballantine paperback edition first printing, at pages 63-71 of the blue covered Ballantine paperback edition eighth printing.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/emenegger-robert' | relative_url }}">Emenegger, Robert</a> in his “<a href="{{ '/ufo-history/ufo-books/emenegger-robert-ufos-past-present-and-future' | relative_url }}">UFOs Past, Present and Future</a>” (available <a href="http://www.amazon.com/dp/0345241894/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0345241894/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 55-62 (in Chapter 10 generally) of the silver covered Ballantine paperback edition first printing, at pages 63-71 of the blue covered Ballantine paperback edition eighth printing.</p>
 </td>
 <td valign="top" width="52">
 <p>8</p>
@@ -162,10 +162,10 @@ For discussion of Mrs Swan see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fitzgerald-randall">Fitzgerald, Randall</a> in his “<a href="/ufo-history/ufo-books/fitzgerald-randall-the-cosmic-test-tube">The Cosmic Test Tube</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0963916122/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963916122/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 141-142 (in Section 2), 198-208, 209 (in Chapter 3) of the Moonlake Media softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }}">Fitzgerald, Randall</a> in his “<a href="{{ '/ufo-history/ufo-books/fitzgerald-randall-the-cosmic-test-tube' | relative_url }}">The Cosmic Test Tube</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0963916122/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963916122/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 141-142 (in Section 2), 198-208, 209 (in Chapter 3) of the Moonlake Media softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -173,10 +173,10 @@ For discussion of Mrs Swan see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2007">2007</a></p>
+<p><a href="{{ '/tags/2007' | relative_url }}">2007</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/friedman-stanton">Friedman, Stanton</a> and Marden, Kathleen in their “<a href="/ufo-history/ufo-books/friedman-stanton-and-marden-kathleen-captured-the-betty-and-barney-hill-ufo-experience">Captured! The Betty and Barney Hill UFO Experience</a>” (<a href="/tags/2007">2007</a>) (available <a href="http://www.amazon.com/dp/1564149714/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1564149714/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 168-171, 176-177 of the New Page Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/friedman-stanton' | relative_url }}">Friedman, Stanton</a> and Marden, Kathleen in their “<a href="{{ '/ufo-history/ufo-books/friedman-stanton-and-marden-kathleen-captured-the-betty-and-barney-hill-ufo-experience' | relative_url }}">Captured! The Betty and Barney Hill UFO Experience</a>” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (available <a href="http://www.amazon.com/dp/1564149714/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1564149714/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 168-171, 176-177 of the New Page Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>6</p>
@@ -184,10 +184,10 @@ For discussion of Mrs Swan see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1979">1979</a></p>
+<p><a href="{{ '/tags/1979' | relative_url }}">1979</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/holroyd-stuart">Holroyd, Stuart</a> in his “Alien Intelligence” (<a href="/tags/1979">1979</a>) (available <a href="http://www.amazon.com/dp/0896960404/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0896960404/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 191 (in Chapter 7) of the David &amp; Charles hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/holroyd-stuart' | relative_url }}">Holroyd, Stuart</a> in his “Alien Intelligence” (<a href="{{ '/tags/1979' | relative_url }}">1979</a>) (available <a href="http://www.amazon.com/dp/0896960404/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0896960404/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 191 (in Chapter 7) of the David &amp; Charles hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -195,10 +195,10 @@ For discussion of Mrs Swan see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1976">1976</a></p>
+<p><a href="{{ '/tags/1976' | relative_url }}">1976</a></p>
 </td>
 <td valign="top" width="547">
-<p>Holzer, Hans in his “<a href="/ufo-history/ufo-books/holzer-hans-the-ufonauts">The UFOnauts</a>” (<a href="/tags/1976">1976</a>) (available <a href="http://www.amazon.com/dp/0449135691/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0449135691/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 299-300 (in Chapter 10) of the Fawcett Gold Medal paperback edition.</p>
+<p>Holzer, Hans in his “<a href="{{ '/ufo-history/ufo-books/holzer-hans-the-ufonauts' | relative_url }}">The UFOnauts</a>” (<a href="{{ '/tags/1976' | relative_url }}">1976</a>) (available <a href="http://www.amazon.com/dp/0449135691/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0449135691/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 299-300 (in Chapter 10) of the Fawcett Gold Medal paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -206,10 +206,10 @@ For discussion of Mrs Swan see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1975">1975</a></p>
+<p><a href="{{ '/tags/1975' | relative_url }}">1975</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/jacobs-david-michael">Jacobs, David Michael</a> in his “<a href="/ufo-history/ufo-books/jacobs-david-michael-the-ufo-controversy-in-america">The UFO Controversy in America</a>” (<a href="/tags/1975">1975</a>) (available <a href="http://www.amazon.com/dp/0253190061/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0253190061/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 173-174 (in Chapter 7) of the Indiana hardback edition, pages 153-154 of the Signet paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/jacobs-david-michael' | relative_url }}">Jacobs, David Michael</a> in his “<a href="{{ '/ufo-history/ufo-books/jacobs-david-michael-the-ufo-controversy-in-america' | relative_url }}">The UFO Controversy in America</a>” (<a href="{{ '/tags/1975' | relative_url }}">1975</a>) (available <a href="http://www.amazon.com/dp/0253190061/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0253190061/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 173-174 (in Chapter 7) of the Indiana hardback edition, pages 153-154 of the Signet paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -217,10 +217,10 @@ For discussion of Mrs Swan see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1977">1977</a></p>
+<p><a href="{{ '/tags/1977' | relative_url }}">1977</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sachs-margaret">Sachs, Margaret</a> and Jahn, Ernest in their “Celestial Passengers – UFOs &amp; Space Travel” (<a href="/tags/1977">1977</a>) (available <a href="http://www.amazon.com/dp/0140044833/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0140044833/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 76 (in Chapter 9) of the Penguin paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sachs-margaret' | relative_url }}">Sachs, Margaret</a> and Jahn, Ernest in their “Celestial Passengers – UFOs &amp; Space Travel” (<a href="{{ '/tags/1977' | relative_url }}">1977</a>) (available <a href="http://www.amazon.com/dp/0140044833/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0140044833/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 76 (in Chapter 9) of the Penguin paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -228,10 +228,10 @@ For discussion of Mrs Swan see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/vallee-jacques">Vallee, Jacques</a> in his “<a href="/ufo-history/ufo-books/vallee-jacques-forbidden-science-journals-1957-1969">Forbidden Science: Journals 1957-1969</a>.” (<a href="/tags/1992">1992</a>) (available <a href="http://www.amazon.com/dp/1556431252/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1556431252/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 123 (in Chapter 9, journal entry for <a href="/tags/1965">1965</a>.0115) of the North Atlantic Books hardback edition, at page 130 of the <a href="/tags/1996">1996</a> abridged Marlowe paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/vallee-jacques' | relative_url }}">Vallee, Jacques</a> in his “<a href="{{ '/ufo-history/ufo-books/vallee-jacques-forbidden-science-journals-1957-1969' | relative_url }}">Forbidden Science: Journals 1957-1969</a>.” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="http://www.amazon.com/dp/1556431252/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1556431252/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 123 (in Chapter 9, journal entry for <a href="{{ '/tags/1965' | relative_url }}">1965</a>.0115) of the North Atlantic Books hardback edition, at page 130 of the <a href="{{ '/tags/1996' | relative_url }}">1996</a> abridged Marlowe paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -239,10 +239,10 @@ For discussion of Mrs Swan see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1975">1975</a></p>
+<p><a href="{{ '/tags/1975' | relative_url }}">1975</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/vallee-jacques">Vallee, Jacques</a> in his “<a href="/ufo-history/ufo-books/vallee-jacques-the-invisible-college">The Invisible College</a>” (<a href="/tags/1975">1975</a>) (available <a href="http://www.amazon.com/dp/0525134700/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0525134700/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 72-76 (in Chapter 3) of the Dutton hardback edition, at pages 79-83 of the Panther paperback edition (published under the title “<a href="/ufo-history/ufo-books/vallee-jacques-ufos-the-psychic-solution">UFOs : The Psychic Solution</a>”).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/vallee-jacques' | relative_url }}">Vallee, Jacques</a> in his “<a href="{{ '/ufo-history/ufo-books/vallee-jacques-the-invisible-college' | relative_url }}">The Invisible College</a>” (<a href="{{ '/tags/1975' | relative_url }}">1975</a>) (available <a href="http://www.amazon.com/dp/0525134700/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0525134700/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 72-76 (in Chapter 3) of the Dutton hardback edition, at pages 79-83 of the Panther paperback edition (published under the title “<a href="{{ '/ufo-history/ufo-books/vallee-jacques-ufos-the-psychic-solution' | relative_url }}">UFOs : The Psychic Solution</a>”).</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>
@@ -250,10 +250,10 @@ For discussion of Mrs Swan see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/von-buttlar-johannes">Von Buttlar, Johannes</a> in his “<a href="/ufo-history/ufo-books/von-buttlar-johannes-the-ufo-phenomenon">The UFO Phenomenon</a>” (<a href="/tags/1980">1980</a>) (available <a href="http://www.amazon.com/dp/0352306823/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0352306823/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 137-138 (in Chapter 11) of the Book Club Associates hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/von-buttlar-johannes' | relative_url }}">Von Buttlar, Johannes</a> in his “<a href="{{ '/ufo-history/ufo-books/von-buttlar-johannes-the-ufo-phenomenon' | relative_url }}">The UFO Phenomenon</a>” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) (available <a href="http://www.amazon.com/dp/0352306823/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0352306823/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 137-138 (in Chapter 11) of the Book Club Associates hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -261,10 +261,10 @@ For discussion of Mrs Swan see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1975">1975</a></p>
+<p><a href="{{ '/tags/1975' | relative_url }}">1975</a></p>
 </td>
 <td valign="top" width="547">
-<p>Weldon, John and Levitt, Zola in their “<a href="/ufo-history/ufo-books/weldon-john-and-levitt-zola-encounters-with-ufos">Encounters With UFOs</a>“ (<a href="/tags/1975">1975</a>) (formerly “UFOs, What on Earth is Happening?”) (available <a href="http://www.amazon.com/dp/1930749023/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1930749023/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 14-15 (in Chapter 1) of the Harvest House paperback edition.</p>
+<p>Weldon, John and Levitt, Zola in their “<a href="{{ '/ufo-history/ufo-books/weldon-john-and-levitt-zola-encounters-with-ufos' | relative_url }}">Encounters With UFOs</a>“ (<a href="{{ '/tags/1975' | relative_url }}">1975</a>) (formerly “UFOs, What on Earth is Happening?”) (available <a href="http://www.amazon.com/dp/1930749023/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1930749023/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 14-15 (in Chapter 1) of the Harvest House paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -272,10 +272,10 @@ For discussion of Mrs Swan see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/wilson-colin">Wilson, Colin</a> in his “<a href="/ufo-history/ufo-books/wilson-colin-alien-dawn">Alien Dawn</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0880642262/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0880642262/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 131 (in Chapter 4) of the Virgin softcover edition (with the same page numbering in the Virgin paperback edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/wilson-colin' | relative_url }}">Wilson, Colin</a> in his “<a href="{{ '/ufo-history/ufo-books/wilson-colin-alien-dawn' | relative_url }}">Alien Dawn</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0880642262/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0880642262/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 131 (in Chapter 4) of the Virgin softcover edition (with the same page numbering in the Virgin paperback edition).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -283,10 +283,10 @@ For discussion of Mrs Swan see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/x-commander">X, Commander</a> in his “The Ultimate Deception” (<a href="/tags/1990">1990</a>) at pages 7-8 (in the unnumbered chapter entitled “Exposed: The Ultimate Deception”) of the Abelard softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/x-commander' | relative_url }}">X, Commander</a> in his “The Ultimate Deception” (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) at pages 7-8 (in the unnumbered chapter entitled “Exposed: The Ultimate Deception”) of the Abelard softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

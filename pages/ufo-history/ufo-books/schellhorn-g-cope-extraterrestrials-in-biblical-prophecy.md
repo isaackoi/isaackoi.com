@@ -14,7 +14,7 @@ header: {"preview_image": "https://covers.openlibrary.org/b/isbn/1881852024-L.jp
 book: {"identifiers": ["1881852024", "0801002265"], "primary_isbn": "1881852024", "cover_image": "https://covers.openlibrary.org/b/isbn/1881852024-L.jpg?default=false", "cover_source": "openlibrary"}
 ---
 
-Brief review to be added of G Cope Schellhorn's book “[Extraterrestrials in Biblical Prophecy](/ufo-history/ufo-books/schellhorn-g-cope-extraterrestrials-in-biblical-prophecy)” ([1989](/tags/1989)) (available [on Amazon USA](http://www.amazon.com/dp/1881852024/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1881852024/?&tag=ufot-21)).
+Brief review to be added of G Cope Schellhorn's book “[Extraterrestrials in Biblical Prophecy]({{ '/ufo-history/ufo-books/schellhorn-g-cope-extraterrestrials-in-biblical-prophecy' | relative_url }})” ([1989]({{ '/tags/1989' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1881852024/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1881852024/?&tag=ufot-21)).
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/alnor-william-m">Alnor, William M</a> in his “<a href="/ufo-history/ufo-books/alnor-william-m-ufo-in-the-new-age">UFO in the New Age</a>” (<a href="/tags/1992">1992</a>) (available <a href="http://www.amazon.com/dp/0801002265/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0801002265/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 227 (in Chapter 13) of the Baker softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/alnor-william-m' | relative_url }}">Alnor, William M</a> in his “<a href="{{ '/ufo-history/ufo-books/alnor-william-m-ufo-in-the-new-age' | relative_url }}">UFO in the New Age</a>” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="http://www.amazon.com/dp/0801002265/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0801002265/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 227 (in Chapter 13) of the Baker softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

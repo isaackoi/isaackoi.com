@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/lunan_duncan_1.JPG"}
 ---
 
-![lunan_duncan_1](/images/stories/ufo_personalities/lunan_duncan_1.JPG)
+![lunan_duncan_1]({{ '/images/stories/ufo_personalities/lunan_duncan_1.JPG' | relative_url }})
 
 *Duncan Lunan*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1974">1974</a></p>
+<p><a href="{{ '/tags/1974' | relative_url }}">1974</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/lunan-duncan">Lunan, Duncan</a> “<a href="/ufo-history/ufo-books/lunan-duncan-man-and-the-stars">Man and the Stars</a>” (<a href="/tags/1974">1974</a>) (available <a href="http://www.amazon.com/dp/0285621297/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0285621297/?&amp;tag=ufot-21">on Amazon UK</a>) (<a href="/tags/seti">SETI</a>:)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/lunan-duncan' | relative_url }}">Lunan, Duncan</a> “<a href="{{ '/ufo-history/ufo-books/lunan-duncan-man-and-the-stars' | relative_url }}">Man and the Stars</a>” (<a href="{{ '/tags/1974' | relative_url }}">1974</a>) (available <a href="http://www.amazon.com/dp/0285621297/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0285621297/?&amp;tag=ufot-21">on Amazon UK</a>) (<a href="{{ '/tags/seti' | relative_url }}">SETI</a>:)</p>
 </td>
 </tr>
 </tbody>
@@ -59,7 +59,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-See the references provided in the entry for Lunan's book “[Man and the Stars](/ufo-history/ufo-books/lunan-duncan-man-and-the-stars)” ([1974](/tags/1974)).
+See the references provided in the entry for Lunan's book “[Man and the Stars]({{ '/ufo-history/ufo-books/lunan-duncan-man-and-the-stars' | relative_url }})” ([1974]({{ '/tags/1974' | relative_url }})).
 
 <a id="other"></a>
 ### Other Material

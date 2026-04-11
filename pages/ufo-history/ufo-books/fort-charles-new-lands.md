@@ -14,9 +14,9 @@ header: {"preview_image": "/book-covers/1604591269.jpg"}
 book: {"identifiers": ["1604591269", "1578590299", "1558887415", "0780800974", "0816038007", "0486203948"], "primary_isbn": "1604591269", "cover_image": "/book-covers/1604591269.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Charles Fort](/ufo-history/ufo-personalities/fort-charles)'s book “[New Lands](/ufo-history/ufo-books/fort-charles-new-lands)” ([1923](/tags/1923)) (available [on Amazon USA](http://www.amazon.com/dp/1604591269/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1604591269/?&tag=ufot-21)).
+Brief review to be added of [Charles Fort]({{ '/ufo-history/ufo-personalities/fort-charles' | relative_url }})'s book “[New Lands]({{ '/ufo-history/ufo-books/fort-charles-new-lands' | relative_url }})” ([1923]({{ '/tags/1923' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1604591269/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1604591269/?&tag=ufot-21)).
 
-Complete text of Charles Fort’s “[New Lands](/ufo-history/ufo-books/fort-charles-new-lands)” available online at: [http://www.resologist.net/landsei.htm](http://www.resologist.net/landsei.htm)
+Complete text of Charles Fort’s “[New Lands]({{ '/ufo-history/ufo-books/fort-charles-new-lands' | relative_url }})” available online at: [http://www.resologist.net/landsei.htm](http://www.resologist.net/landsei.htm)
 
 1. [Web Resources](#web)
 
@@ -36,7 +36,7 @@ The table below includes references to relevant discussions in UFO/SETI books no
 
 Many of the tables of references on this website are considerably longer than the references to books found on most other UFO websites. Indeed, some are probably the longest that have been collated in relation to some events and personalities. I hope that these tables are found to be a useful contribution to UFOlogy.
 
-For discussion of “[New Lands](/ufo-history/ufo-books/fort-charles-new-lands)” see the following:
+For discussion of “[New Lands]({{ '/ufo-history/ufo-books/fort-charles-new-lands' | relative_url }})” see the following:
 
 <table border="1" cellpadding="0" cellspacing="0" class="sortable" data-sortable="true" id="sortabletable">
 <thead>
@@ -56,10 +56,10 @@ For discussion of “[New Lands](/ufo-history/ufo-books/fort-charles-new-lands)�
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-the-ufo-book">The UFO Book</a>: Encyclopedia of the Extraterrestrial” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/1578590299/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1578590299/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 235 (in an entry entitled “Fort Charles, (1874-<a href="/tags/1932">1932</a>)”) of the Visible Ink Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-the-ufo-book' | relative_url }}">The UFO Book</a>: Encyclopedia of the Extraterrestrial” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/1578590299/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1578590299/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 235 (in an entry entitled “Fort Charles, (1874-<a href="{{ '/tags/1932' | relative_url }}">1932</a>)”) of the Visible Ink Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -67,10 +67,10 @@ For discussion of “[New Lands](/ufo-history/ufo-books/fort-charles-new-lands)�
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq">The UFO Encyclopedia: 1st edition</a>: Volume 2 – Emergence of a Phenomenon” (<a href="/tags/1992">1992</a>) (available <a href="http://www.amazon.com/dp/1558887415/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558887415/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 158-159 (in an entry entitled “<a href="/ufo-history/ufo-personalities/fort-charles">Fort, Charles</a> Hoy (1874-<a href="/tags/1932">1932</a>)”) of the Omnigraphics hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq' | relative_url }}">The UFO Encyclopedia: 1st edition</a>: Volume 2 – Emergence of a Phenomenon” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="http://www.amazon.com/dp/1558887415/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558887415/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 158-159 (in an entry entitled “<a href="{{ '/ufo-history/ufo-personalities/fort-charles' | relative_url }}">Fort, Charles</a> Hoy (1874-<a href="{{ '/tags/1932' | relative_url }}">1932</a>)”) of the Omnigraphics hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -78,10 +78,10 @@ For discussion of “[New Lands](/ufo-history/ufo-books/fort-charles-new-lands)�
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 422-423 (forming part of the entry entitled “<a href="/ufo-history/ufo-personalities/fort-charles">Fort, Charles</a> Hoy (1874-<a href="/tags/1932">1932</a>)” at pages 420-425) of Volume 1:A-K of the Omnigraphics hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition' | relative_url }}">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 422-423 (forming part of the entry entitled “<a href="{{ '/ufo-history/ufo-personalities/fort-charles' | relative_url }}">Fort, Charles</a> Hoy (1874-<a href="{{ '/tags/1932' | relative_url }}">1932</a>)” at pages 420-425) of Volume 1:A-K of the Omnigraphics hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -89,10 +89,10 @@ For discussion of “[New Lands](/ufo-history/ufo-books/fort-charles-new-lands)�
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/devereux-paul">Devereux, Paul</a> and <a href="/ufo-history/ufo-personalities/brookesmith-peter">Brookesmith, Peter</a> in their “<a href="/ufo-history/ufo-books/devereux-paul-and-brookesmith-peter-ufos-and-ufology-the-first-50-years">UFOs and Ufology – the first 50 years</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0816038007/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0816038007/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 46 (in Chapter 4) of the Blandford softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/devereux-paul' | relative_url }}">Devereux, Paul</a> and <a href="{{ '/ufo-history/ufo-personalities/brookesmith-peter' | relative_url }}">Brookesmith, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/devereux-paul-and-brookesmith-peter-ufos-and-ufology-the-first-50-years' | relative_url }}">UFOs and Ufology – the first 50 years</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0816038007/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0816038007/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 46 (in Chapter 4) of the Blandford softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -100,10 +100,10 @@ For discussion of “[New Lands](/ufo-history/ufo-books/fort-charles-new-lands)�
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1957">1957</a></p>
+<p><a href="{{ '/tags/1957' | relative_url }}">1957</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/gardner-martin">Gardner, Martin</a> in his “<a href="/ufo-history/ufo-books/gardner-martin-fads-and-fallacies-in-the-name-of-science">Fads and Fallacies in the Name of Science</a>” (<a href="/tags/1957">1957</a>) (available <a href="http://www.amazon.com/dp/0486203948/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0486203948/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 44-46 (in Chapter 4) of the Dover softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/gardner-martin' | relative_url }}">Gardner, Martin</a> in his “<a href="{{ '/ufo-history/ufo-books/gardner-martin-fads-and-fallacies-in-the-name-of-science' | relative_url }}">Fads and Fallacies in the Name of Science</a>” (<a href="{{ '/tags/1957' | relative_url }}">1957</a>) (available <a href="http://www.amazon.com/dp/0486203948/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0486203948/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 44-46 (in Chapter 4) of the Dover softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>

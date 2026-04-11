@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -63,10 +63,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/oliver-bernard">Oliver, Bernard</a> M in an interview in David W Swift’s “<a href="/ufo-history/ufo-books/swift-david-w-seti-pioneers-scientists-talk-about-their-search-for-extraterrestrial-intelligence">SETI Pioneers : Scientists Talk About Their Search for Extraterrestrial Intelligence</a>” (<a href="/tags/1990">1990</a>) (available <a href="http://www.amazon.com/dp/0816511195/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0816511195/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 110 (in the unnumbered chapter entitled “Bernard M Oliver”) of the Arizona hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/oliver-bernard' | relative_url }}">Oliver, Bernard</a> M in an interview in David W Swift’s “<a href="{{ '/ufo-history/ufo-books/swift-david-w-seti-pioneers-scientists-talk-about-their-search-for-extraterrestrial-intelligence' | relative_url }}">SETI Pioneers : Scientists Talk About Their Search for Extraterrestrial Intelligence</a>” (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) (available <a href="http://www.amazon.com/dp/0816511195/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0816511195/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 110 (in the unnumbered chapter entitled “Bernard M Oliver”) of the Arizona hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -74,10 +74,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1983">1983</a></p>
+<p><a href="{{ '/tags/1983' | relative_url }}">1983</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/ridpath-ian">Ridpath, Ian</a> in his “Life Off Earth” (<a href="/tags/1983">1983</a>) (available <a href="http://www.amazon.com/dp/0246119330/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0246119330/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 124 (in Chapter 10) of the Granada hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/ridpath-ian' | relative_url }}">Ridpath, Ian</a> in his “Life Off Earth” (<a href="{{ '/tags/1983' | relative_url }}">1983</a>) (available <a href="http://www.amazon.com/dp/0246119330/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0246119330/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 124 (in Chapter 10) of the Granada hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -85,10 +85,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randle-kevin">Randle, Kevin</a> in his “<a href="/ufo-history/ufo-books/randle-kevin-d-scientific-ufology">Scientific Ufology</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0380813831/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380813831/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 73-74 (in Chapter 4) of the Avon softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randle-kevin' | relative_url }}">Randle, Kevin</a> in his “<a href="{{ '/ufo-history/ufo-books/randle-kevin-d-scientific-ufology' | relative_url }}">Scientific Ufology</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0380813831/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380813831/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 73-74 (in Chapter 4) of the Avon softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

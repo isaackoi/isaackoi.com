@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/dyson_freeman_2.jpg"}
 ---
 
-![dyson_freeman_2](/images/stories/ufo_personalities/dyson_freeman_2.jpg)
+![dyson_freeman_2]({{ '/images/stories/ufo_personalities/dyson_freeman_2.jpg' | relative_url }})
 
 *Freeman Dyson*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1979">1979</a></p>
+<p><a href="{{ '/tags/1979' | relative_url }}">1979</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/dyson-freeman">Dyson, Freeman</a> “Disturbing the Universe”</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dyson-freeman' | relative_url }}">Dyson, Freeman</a> “Disturbing the Universe”</p>
 </td>
 </tr>
 </tbody>
@@ -85,10 +85,10 @@ For discussion of Freeman Dyson see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Achenbach, Joel in his “<a href="/ufo-history/ufo-books/achenbach-joel-captured-by-aliens">Captured by Aliens</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0684848562/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684848562/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 106, 107 (in Chapter 9) of the Simon and Schuster hardback edition.</p>
+<p>Achenbach, Joel in his “<a href="{{ '/ufo-history/ufo-books/achenbach-joel-captured-by-aliens' | relative_url }}">Captured by Aliens</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0684848562/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684848562/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 106, 107 (in Chapter 9) of the Simon and Schuster hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -96,10 +96,10 @@ For discussion of Freeman Dyson see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1974">1974</a></p>
+<p><a href="{{ '/tags/1974' | relative_url }}">1974</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/berry-adrian">Berry, Adrian</a> in his “The Next Ten Thousand Years” (<a href="/tags/1974">1974</a>) (available <a href="http://www.amazon.com/dp/0451616014/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451616014/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 150-151 (in Chapter 12) of the Coronet paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/berry-adrian' | relative_url }}">Berry, Adrian</a> in his “The Next Ten Thousand Years” (<a href="{{ '/tags/1974' | relative_url }}">1974</a>) (available <a href="http://www.amazon.com/dp/0451616014/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451616014/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 150-151 (in Chapter 12) of the Coronet paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -107,10 +107,10 @@ For discussion of Freeman Dyson see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/darling-david">Darling, David</a> in his “<a href="/ufo-history/ufo-books/darling-david-the-extraterrestrial-encyclopedia">The Extraterrestrial Encyclopedia</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/081293248X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/081293248X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 114-115 (in the entry entitled “<a href="/ufo-history/ufo-personalities/dyson-freeman">Dyson, Freeman</a> John (<a href="/tags/1923">1923</a>- )”) of the Three Rivers softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/darling-david' | relative_url }}">Darling, David</a> in his “<a href="{{ '/ufo-history/ufo-books/darling-david-the-extraterrestrial-encyclopedia' | relative_url }}">The Extraterrestrial Encyclopedia</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/081293248X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/081293248X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 114-115 (in the entry entitled “<a href="{{ '/ufo-history/ufo-personalities/dyson-freeman' | relative_url }}">Dyson, Freeman</a> John (<a href="{{ '/tags/1923' | relative_url }}">1923</a>- )”) of the Three Rivers softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -118,10 +118,10 @@ For discussion of Freeman Dyson see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2003">2003</a></p>
+<p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/darling-david">Darling, David</a> in his online encyclopedia, “The Encyclopedia of Astrobiology, Astronomy and Spaceflight” (<a href="/tags/2003">2003</a>) in the entry entitled “<a href="/ufo-history/ufo-personalities/dyson-freeman">Dyson, Freeman</a> John (<a href="/tags/1923">1923</a>- )”. The relevant entry is available online at:</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/darling-david' | relative_url }}">Darling, David</a> in his online encyclopedia, “The Encyclopedia of Astrobiology, Astronomy and Spaceflight” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) in the entry entitled “<a href="{{ '/ufo-history/ufo-personalities/dyson-freeman' | relative_url }}">Dyson, Freeman</a> John (<a href="{{ '/tags/1923' | relative_url }}">1923</a>- )”. The relevant entry is available online at:</p>
 <p><a href="http://www.daviddarling.info/encyclopedia/D/DysonF.html">http://www.daviddarling.info/encyclopedia/D/DysonF.html</a></p>
 </td>
 <td valign="top" width="52">
@@ -130,10 +130,10 @@ For discussion of Freeman Dyson see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/horowitz-paul">Horowitz, Paul</a> in an interview in David W Swift’s “<a href="/ufo-history/ufo-books/swift-david-w-seti-pioneers-scientists-talk-about-their-search-for-extraterrestrial-intelligence">SETI Pioneers : Scientists Talk About Their Search for Extraterrestrial Intelligence</a>” (<a href="/tags/1990">1990</a>) (available <a href="http://www.amazon.com/dp/0816511195/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0816511195/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 411-412 (in the unnumbered chapter entitled “Paul Horowitz”) of the Arizona hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/horowitz-paul' | relative_url }}">Horowitz, Paul</a> in an interview in David W Swift’s “<a href="{{ '/ufo-history/ufo-books/swift-david-w-seti-pioneers-scientists-talk-about-their-search-for-extraterrestrial-intelligence' | relative_url }}">SETI Pioneers : Scientists Talk About Their Search for Extraterrestrial Intelligence</a>” (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) (available <a href="http://www.amazon.com/dp/0816511195/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0816511195/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 411-412 (in the unnumbered chapter entitled “Paul Horowitz”) of the Arizona hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -141,10 +141,10 @@ For discussion of Freeman Dyson see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/kardashev-nikolai">Kardashev, Nikolai</a> S in an interview in David W Swift’s “<a href="/ufo-history/ufo-books/swift-david-w-seti-pioneers-scientists-talk-about-their-search-for-extraterrestrial-intelligence">SETI Pioneers : Scientists Talk About Their Search for Extraterrestrial Intelligence</a>” (<a href="/tags/1990">1990</a>) (available <a href="http://www.amazon.com/dp/0816511195/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0816511195/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 192 (in the unnumbered chapter entitled “Nikolai S Kardashev”) of the Arizona hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/kardashev-nikolai' | relative_url }}">Kardashev, Nikolai</a> S in an interview in David W Swift’s “<a href="{{ '/ufo-history/ufo-books/swift-david-w-seti-pioneers-scientists-talk-about-their-search-for-extraterrestrial-intelligence' | relative_url }}">SETI Pioneers : Scientists Talk About Their Search for Extraterrestrial Intelligence</a>” (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) (available <a href="http://www.amazon.com/dp/0816511195/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0816511195/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 192 (in the unnumbered chapter entitled “Nikolai S Kardashev”) of the Arizona hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -152,10 +152,10 @@ For discussion of Freeman Dyson see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="547">
-<p>Swift, David W in his “<a href="/ufo-history/ufo-books/swift-david-w-seti-pioneers-scientists-talk-about-their-search-for-extraterrestrial-intelligence">SETI Pioneers : Scientists Talk About Their Search for Extraterrestrial Intelligence</a>” (<a href="/tags/1990">1990</a>) (available <a href="http://www.amazon.com/dp/0816511195/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0816511195/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 311-326 (in the unnumbered chapter entitled “Freeman Dyson”) of the Arizona hardback edition.</p>
+<p>Swift, David W in his “<a href="{{ '/ufo-history/ufo-books/swift-david-w-seti-pioneers-scientists-talk-about-their-search-for-extraterrestrial-intelligence' | relative_url }}">SETI Pioneers : Scientists Talk About Their Search for Extraterrestrial Intelligence</a>” (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) (available <a href="http://www.amazon.com/dp/0816511195/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0816511195/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 311-326 (in the unnumbered chapter entitled “Freeman Dyson”) of the Arizona hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>16</p>

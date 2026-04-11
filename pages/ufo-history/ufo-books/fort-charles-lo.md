@@ -14,9 +14,9 @@ header: {"preview_image": "https://covers.openlibrary.org/b/isbn/1604595809-L.jp
 book: {"identifiers": ["1604595809", "1578590299", "1558887415", "0780800974"], "primary_isbn": "1604595809", "cover_image": "https://covers.openlibrary.org/b/isbn/1604595809-L.jpg?default=false", "cover_source": "openlibrary"}
 ---
 
-Brief review to be added of [Charles Fort](/ufo-history/ufo-personalities/fort-charles)'s book “[Lo!](/ufo-history/ufo-books/fort-charles-lo)” ([1931](/tags/1931)) (available [on Amazon USA](http://www.amazon.com/dp/1604595809/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1604595809/?&tag=ufot-21)).
+Brief review to be added of [Charles Fort]({{ '/ufo-history/ufo-personalities/fort-charles' | relative_url }})'s book “[Lo!]({{ '/ufo-history/ufo-books/fort-charles-lo' | relative_url }})” ([1931]({{ '/tags/1931' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1604595809/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1604595809/?&tag=ufot-21)).
 
-Complete text of Charles Fort’s “[Lo!](/ufo-history/ufo-books/fort-charles-lo)” available online at: [http://www.resologist.net/loei.htm](http://www.resologist.net/loei.htm)
+Complete text of Charles Fort’s “[Lo!]({{ '/ufo-history/ufo-books/fort-charles-lo' | relative_url }})” available online at: [http://www.resologist.net/loei.htm](http://www.resologist.net/loei.htm)
 
 1. [Web Resources](#web)
 
@@ -56,10 +56,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-the-ufo-book">The UFO Book</a>: Encyclopedia of the Extraterrestrial” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/1578590299/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1578590299/ref=nosim?tag=ufot-21">on Amazon UK</a>) at 235-236 (in an entry entitled “Fort Charles, (1874-<a href="/tags/1932">1932</a>)”), 436 (forming part of an entry entitled “Paranormal and Occult Theories about UFOs”) of the Visible Ink Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-the-ufo-book' | relative_url }}">The UFO Book</a>: Encyclopedia of the Extraterrestrial” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/1578590299/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1578590299/ref=nosim?tag=ufot-21">on Amazon UK</a>) at 235-236 (in an entry entitled “Fort Charles, (1874-<a href="{{ '/tags/1932' | relative_url }}">1932</a>)”), 436 (forming part of an entry entitled “Paranormal and Occult Theories about UFOs”) of the Visible Ink Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -67,10 +67,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq">The UFO Encyclopedia: 1st edition</a>: Volume 2 – Emergence of a Phenomenon” (<a href="/tags/1992">1992</a>) (available <a href="http://www.amazon.com/dp/1558887415/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558887415/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 159-160 (in an entry entitled “<a href="/ufo-history/ufo-personalities/fort-charles">Fort, Charles</a> Hoy (1874-<a href="/tags/1932">1932</a>)”) of the Omnigraphics hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq' | relative_url }}">The UFO Encyclopedia: 1st edition</a>: Volume 2 – Emergence of a Phenomenon” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="http://www.amazon.com/dp/1558887415/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558887415/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 159-160 (in an entry entitled “<a href="{{ '/ufo-history/ufo-personalities/fort-charles' | relative_url }}">Fort, Charles</a> Hoy (1874-<a href="{{ '/tags/1932' | relative_url }}">1932</a>)”) of the Omnigraphics hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -78,10 +78,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 423 (forming part of the entry entitled “<a href="/ufo-history/ufo-personalities/fort-charles">Fort, Charles</a> Hoy (1874-<a href="/tags/1932">1932</a>)” at pages 420-425) of Volume 1:A-K of the Omnigraphics hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition' | relative_url }}">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 423 (forming part of the entry entitled “<a href="{{ '/ufo-history/ufo-personalities/fort-charles' | relative_url }}">Fort, Charles</a> Hoy (1874-<a href="{{ '/tags/1932' | relative_url }}">1932</a>)” at pages 420-425) of Volume 1:A-K of the Omnigraphics hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

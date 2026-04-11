@@ -13,7 +13,7 @@ planned_sections: ["1. The relevant image", "2. Stories and claims relating to t
 header: {"preview_image": "/images/stories/alien_photos/koi_ap_01_a.jpg"}
 ---
 
-![](/images/stories/alien_photos/koi_ap_01_a.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_01_a.jpg' | relative_url }})
 
 *Koi Alien Photo 1*
 
@@ -23,7 +23,7 @@ This photo was been discussed in several books and publications since 1950 onwar
 
 Most websites which feature this photo contain few, if any, of the details known about this photo. For example, at the link below the photo appears in a section entitled "ETs, genuine: The following pictures are most likely 100% authentic". On that webpage it has a caption "1949, New Mexico. Source and story unknown, but probably authentic. It can not be excluded the small being that can be seen is not of extraterrestrial origin": [http://thebiggestsecretpict.online.fr/ufo_et.htm](http://thebiggestsecretpict.online.fr/ufo_et.htm)
 
-A copy of this photograph appears in UFO documents released by the FBI.One resident of Winchester, Virginia forwarded a copy of the photograph to the FBI in 1967 and a response dated 3 October 1967 sent in the name of J Edgar Hoover stated "I can assure you the photograph you mentioned does not represent employees of this Bureau" (FBI., 1967). The same letter also states that "the investigation of Unidentified Flying Objects is not and never has been a matter that is within the investigative jurisdiction of the FBI" - a statement that was rather misleading given the FBI's prior involvement in investigating UFO reports which has been demonstrated by [other documents released by the FBI](/tags/fbi).
+A copy of this photograph appears in UFO documents released by the FBI.One resident of Winchester, Virginia forwarded a copy of the photograph to the FBI in 1967 and a response dated 3 October 1967 sent in the name of J Edgar Hoover stated "I can assure you the photograph you mentioned does not represent employees of this Bureau" (FBI., 1967). The same letter also states that "the investigation of Unidentified Flying Objects is not and never has been a matter that is within the investigative jurisdiction of the FBI" - a statement that was rather misleading given the FBI's prior involvement in investigating UFO reports which has been demonstrated by [other documents released by the FBI]({{ '/tags/fbi' | relative_url }}).
 
 Putting together information from various sources, this photograph appears to have been:
 
@@ -50,11 +50,11 @@ Sections below:
 <a id="image"></a>
 ### 1. The relevant image
 
-![](/images/stories/alien_photos/koi_ap_01_a.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_01_a.jpg' | relative_url }})
 
-![](/images/stories/alien_photos/koi_ap_01_b.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_01_b.jpg' | relative_url }})
 
-![](/images/stories/alien_photos/koi_ap_01_c.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_01_c.jpg' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this image
@@ -114,15 +114,15 @@ The US Air Force's Project Bluebook appears to have added a copy of this photo t
 
 The relevant page from the Project Bluebook files is shown below:
 
-![](/images/stories/alien_photos/koi_ap_01_d.JPG)
+![]({{ '/images/stories/alien_photos/koi_ap_01_d.JPG' | relative_url }})
 
-![](/images/stories/alien_photos/koi_ap_01_e.JPG)
+![]({{ '/images/stories/alien_photos/koi_ap_01_e.JPG' | relative_url }})
 
 The presence of this photo in the Project Bluebook files regarding the Shaved Monkey Hoax (Koi Alien Photo 08) may explain why some researchers appear to have confused Koi Alien Photo 01 with Koi Alien Photo 08.
 
 There are certainly significant similarities in these two photographs. See, for example, one of the images below relating to Koi Alien Photo 08.
 
-![](/images/stories/alien_photos/koi_ap_08_g.JPG)
+![]({{ '/images/stories/alien_photos/koi_ap_08_g.JPG' | relative_url }})
 
 **1959**
 
@@ -140,15 +140,15 @@ The relevant correspondence appears on the surrounding pages of that file and I 
 
 This is the letter from an unnamed resident of Winchester, Virginia forwarding copy of the photograph to the FBI in 1967:
 
-![](/images/stories/alien_photos/koi_ap_01_p.JPG)
+![]({{ '/images/stories/alien_photos/koi_ap_01_p.JPG' | relative_url }})
 
 The copy on the FBI website of the relevant image enclosed with that letter is rather poor:
 
-![](/images/stories/alien_photos/koi_ap_01_q.JPG)
+![]({{ '/images/stories/alien_photos/koi_ap_01_q.JPG' | relative_url }})
 
-A response dated 3 October 1967 was sent in the name of J Edgar Hoover, asserting "I can assure you the photograph you mentioned does not represent employees of this Bureau". The same letter also states that "the investigation of Unidentified Flying Objects is not and never has been a matter that is within the investigative jurisdiction of the FBI" - a statement that was rather misleading given the FBI's prior involvement in investigating UFO reports which has been demonstrated by [other documents released by the FBI](/tags/fbi).
+A response dated 3 October 1967 was sent in the name of J Edgar Hoover, asserting "I can assure you the photograph you mentioned does not represent employees of this Bureau". The same letter also states that "the investigation of Unidentified Flying Objects is not and never has been a matter that is within the investigative jurisdiction of the FBI" - a statement that was rather misleading given the FBI's prior involvement in investigating UFO reports which has been demonstrated by [other documents released by the FBI]({{ '/tags/fbi' | relative_url }}).
 
-![](/images/stories/alien_photos/koi_ap_01_o.JPG)
+![]({{ '/images/stories/alien_photos/koi_ap_01_o.JPG' | relative_url }})
 
 **1980**
 
@@ -184,7 +184,7 @@ The Frankfurt, Germany AP article dated 1 April 1950 cited by Loren Gross appear
 
 - 
 
-![](/images/stories/alien_photos/koi_ap_01_s.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_01_s.jpg' | relative_url }})
 
 **1990**
 
@@ -216,7 +216,7 @@ Jenny Randles and Peter Hough in their “Looking for the Aliens” (1991) at pa
 
 James Moseley's book "UFO Crash Secrets" was published by Inner Light, including Koi Alien Photo 01 with the caption "This photo of alleged flying saucer occupant, published originally in a German newspaper in the 1950's, has never been authenticated. The two men leading the "little man" were purported to be FBI agents".
 
-![](/images/stories/alien_photos/koi_ap_01_f.JPG)
+![]({{ '/images/stories/alien_photos/koi_ap_01_f.JPG' | relative_url }})
 
 **1993**
 
@@ -287,9 +287,9 @@ In the following issue dated 5<sup>th</sup> April 1950 it was mentioned, that it
 Best
 Achim Martin.’
 <a id="german"></a>(See the monograph ‘UFOs: A History 1950 April – July’, page 1. Also, see Supplemental Notes 1950 April-July, pp. 4, 56-63).”
-My copy of the images of the original Neue Illustrierte article at pages 30-31 of this publication by Loren Gross are very poor. It is possible to make out the relevant images, but much of the text unreadable. I have included relevant images below:![](/images/stories/alien_photos/koi_ap_01_g.JPG)
+My copy of the images of the original Neue Illustrierte article at pages 30-31 of this publication by Loren Gross are very poor. It is possible to make out the relevant images, but much of the text unreadable. I have included relevant images below:![]({{ '/images/stories/alien_photos/koi_ap_01_g.JPG' | relative_url }})
 
-Here is an enlarged image of the text that from the above extract:![](/images/stories/alien_photos/koi_ap_01_h.JPG)
+Here is an enlarged image of the text that from the above extract:![]({{ '/images/stories/alien_photos/koi_ap_01_h.JPG' | relative_url }})
 
 A member of the AboveTopSecret discussion forum (WalterRatlos) kindly translating the text in the image labelled "koi_ap_01_h" as follows:
 "March 21, 1950, 21:45 o' clock, over the famous Monument Valley in Arizona, USA: The first photograph of a “flying saucer”. For weeks, American jet aircraft had been chasing these mysterious sky objects. They were able to take some photographs, but those only showed the light streak of the “flying saucer” as a white streak in the night sky. These machines are able to change their direction suddenly. They rise and evade when they encounter other sky objects. At the moment of direction changing, as the “saucer” was seemingly standing still in the air, anti aircraft Sergeant D. Ussel (13th Airborn Division) “shot” with his remote camera at the flying projectile. Seconds later, hit by air and anti-aircraft rockets, the strange disk exploded in a strange giant firework: about 20 silver glowing capsules fell like heavy rain down to earth."
@@ -320,27 +320,27 @@ Being a bit suspicious of the name "D. Ussel", I put the word "dussel" into Goog
 
 While the word "fool" does not appear in the translations suggested by Google, it seems to me that the word "fool" (as in "April fool") would be an appropriate translation of Mr D. Ussel's name...
 
-![](/images/stories/alien_photos/koi_ap_01_i.JPG)
+![]({{ '/images/stories/alien_photos/koi_ap_01_i.JPG' | relative_url }})
 
-Again, here are some enlarged images of the text in the above extract:![](/images/stories/alien_photos/koi_ap_01_j.JPG)
+Again, here are some enlarged images of the text in the above extract:![]({{ '/images/stories/alien_photos/koi_ap_01_j.JPG' | relative_url }})
 
 WalterRatlos (a member of the AboveTopSecret forum) kindly translated the text in the image labelled "koi_ap_01_j" for me as follows:
 
 "22:10 o' clock: report from “Death Valley”: Observing [next 3 or 4 words are unreadable; the first two could be: ghostlike apparition, thus: Observing ghostlike apparition] … in a 150 km radius from the shot down point of the sky object, the population had been alerted. Only one report was received by the War Department. It read: “Saw at first blue-white lights, then clearly body shapes, which were seemingly moving about helplessly and were gliding strangely unencumbered, like divers under water. The apparition did not last. The body shapes dissolved using some trick.”
 
-![](/images/stories/alien_photos/koi_ap_01_k.JPG)
+![]({{ '/images/stories/alien_photos/koi_ap_01_k.JPG' | relative_url }})
 
 WalterRatlos (a member of the AboveTopSecret forum) kindly translated the text in the image labelled "koi_ap_01_k" for me as follows:
 
 "When the silver capsule exploded: The first Mars-being “captured”. Eyewitness McKerenich, a G-man from Phoenix, Arizona, reports: “I was aware how special this moment was: for the first time, an inhabitant of Earth saw a visitor from space. But, at the same time, I was shaken. This [unreadable word] being seemed to be filled with an immense desperation. His body was dressed in a jumpsuit made of metal foil. The observatory in Phoenix speculates: [the rest of the sentence is unreadable]"
 
-![](/images/stories/alien_photos/koi_ap_01_l.JPG)
+![]({{ '/images/stories/alien_photos/koi_ap_01_l.JPG' | relative_url }})
 
 WalterRatlos (a member of the AboveTopSecret forum) kindly translated the text in the image labelled "koi_ap_01_l" for me as follows:
 
 "The big surprise: the Mars-being is … only 70 cm tall. He was transferred to a special low pressure chamber. The War Department stated explicitly: It is in no way certain whether the planet of origin of these beings is Mars. It is only certain that they are of a planetary origin, i.e. they come from a planet within our own planetary system or from that of a neighboring star. “Our pictures”, continues the War Department, “are the only real photographs. We are warning that there are cheap forgeries circulating, which currently have even found their way into the world press.”"
 
-![](/images/stories/alien_photos/koi_ap_01_m.JPG)
+![]({{ '/images/stories/alien_photos/koi_ap_01_m.JPG' | relative_url }})
 
 WalterRatlos (a member of the AboveTopSecret forum) kindly translated the text in the image labelled "koi_ap_01_m" for me as follows:
 
@@ -350,11 +350,11 @@ Achim Martin wrote an article about Koi Alien Photo 01 in a publication of CENAP
 
 It probably goes without saying that I am extremely keen to see the relevant article in that CENAP publication, i.e. Achim Martin, "Das Geheimnis des Silbermannes", 'CENAP-Report' #276, Jan-Feb 2002, pp. 3-10 + cover.
 
-![](/images/stories/alien_photos/koi_ap_01_k.JPG)
+![]({{ '/images/stories/alien_photos/koi_ap_01_k.JPG' | relative_url }})
 
-WalterRatlos (a member of the AboveTopSecret forum) kindly translated the text in the image labelled "koi_ap_01_j" for me as follows:![](/images/stories/alien_photos/koi_ap_01_l.JPG)
+WalterRatlos (a member of the AboveTopSecret forum) kindly translated the text in the image labelled "koi_ap_01_j" for me as follows:![]({{ '/images/stories/alien_photos/koi_ap_01_l.JPG' | relative_url }})
 
-WalterRatlos (a member of the AboveTopSecret forum) kindly translated the text in the image labelled "koi_ap_01_j" for me as follows:![](/images/stories/alien_photos/koi_ap_01_m.JPG)
+WalterRatlos (a member of the AboveTopSecret forum) kindly translated the text in the image labelled "koi_ap_01_j" for me as follows:![]({{ '/images/stories/alien_photos/koi_ap_01_m.JPG' | relative_url }})
 
 WalterRatlos (a member of the AboveTopSecret forum) kindly translated the text in the image labelled "koi_ap_01_j" for me as follows:
 
@@ -366,7 +366,7 @@ I also note that a (hopefully better) copy of the article from the 1 April 1950 
 [http://www.project1947.com/shg/n6.htm](http://www.project1947.com/shg/n6.htm)
 
 As for Achim Martin's reference to the Silverman being an artiste of the ice-skating group "The Lidstones", I wonder if the image at the bottom of Koi_AP_01_g is simply a multiple exposure image of an ice skater and Achim Martin's remark in fact has nothing to do with the more famous image in Koi_AP_01_a.
-Incidentally, here is a photo of "The Lidstones":![](/images/stories/alien_photos/koi_ap_01_n.JPG)
+Incidentally, here is a photo of "The Lidstones":![]({{ '/images/stories/alien_photos/koi_ap_01_n.JPG' | relative_url }})
 
 **2006**
 There is a relatively lengthy article in Spanish at the first link below about this photo. Unfortunately, it does not include much of the information that is included in Ole's articles. At the second link below is a (poor) Babelfish translation into English of that article.

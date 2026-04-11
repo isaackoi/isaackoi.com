@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/shermer_michael_2.jpg"}
 ---
 
-![shermer_michael_2](/images/stories/ufo_personalities/shermer_michael_2.jpg)
+![shermer_michael_2]({{ '/images/stories/ufo_personalities/shermer_michael_2.jpg' | relative_url }})
 
 *Michael Shermer*
 
@@ -36,26 +36,26 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/shermer-michael">Shermer, Michael</a> “<a href="/ufo-history/ufo-books/shermer-michael-why-people-believe-weird-things">Why People Believe Weird Things</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0805070893/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0805070893/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/shermer-michael' | relative_url }}">Shermer, Michael</a> “<a href="{{ '/ufo-history/ufo-books/shermer-michael-why-people-believe-weird-things' | relative_url }}">Why People Believe Weird Things</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0805070893/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0805070893/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/shermer-michael">Shermer, Michael</a> “<a href="/ufo-history/ufo-books/shermer-michael-the-borderlands-of-science">The Borderlands of Science</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/0195143264/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0195143264/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/shermer-michael' | relative_url }}">Shermer, Michael</a> “<a href="{{ '/ufo-history/ufo-books/shermer-michael-the-borderlands-of-science' | relative_url }}">The Borderlands of Science</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/0195143264/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0195143264/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/2005">2005</a></p>
+<p><a href="{{ '/tags/2005' | relative_url }}">2005</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/shermer-michael">Shermer, Michael</a> “<a href="/ufo-history/ufo-books/shermer-michael-science-friction-where-the-known-meets-the-unknown">Science Friction : Where the known meets the unknown</a>” (<a href="/tags/2005">2005</a>) (available <a href="http://www.amazon.com/dp/0805077081/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0805077081/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/shermer-michael' | relative_url }}">Shermer, Michael</a> “<a href="{{ '/ufo-history/ufo-books/shermer-michael-science-friction-where-the-known-meets-the-unknown' | relative_url }}">Science Friction : Where the known meets the unknown</a>” (<a href="{{ '/tags/2005' | relative_url }}">2005</a>) (available <a href="http://www.amazon.com/dp/0805077081/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0805077081/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>
@@ -75,7 +75,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-See the references provided in the entry for Shermer's book “[Why People Believe Weird Things](/ufo-history/ufo-books/shermer-michael-why-people-believe-weird-things)” ([1997](/tags/1997)).
+See the references provided in the entry for Shermer's book “[Why People Believe Weird Things]({{ '/ufo-history/ufo-books/shermer-michael-why-people-believe-weird-things' | relative_url }})” ([1997]({{ '/tags/1997' | relative_url }})).
 
 <a id="other"></a>
 ### Other Material

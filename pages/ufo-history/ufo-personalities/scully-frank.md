@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/scully_frank_1.jpg"}
 ---
 
-![scully_frank_1](/images/stories/ufo_personalities/scully_frank_1.jpg)
+![scully_frank_1]({{ '/images/stories/ufo_personalities/scully_frank_1.jpg' | relative_url }})
 
 *Frank Scully*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1950">1950</a></p>
+<p><a href="{{ '/tags/1950' | relative_url }}">1950</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/scully-frank">Scully, Frank</a> “<a href="/ufo-history/ufo-books/scully-frank-behind-the-flying-saucers">Behind the Flying Saucers</a>” (<a href="/tags/1950">1950</a>) (available <a href="http://www.amazon.com/dp/B000O3MUVK/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000O3MUVK/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/scully-frank' | relative_url }}">Scully, Frank</a> “<a href="{{ '/ufo-history/ufo-books/scully-frank-behind-the-flying-saucers' | relative_url }}">Behind the Flying Saucers</a>” (<a href="{{ '/tags/1950' | relative_url }}">1950</a>) (available <a href="http://www.amazon.com/dp/B000O3MUVK/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000O3MUVK/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>
@@ -59,7 +59,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-See the references provided in the entry for Scully's book “[Behind the Flying Saucers](/ufo-history/ufo-books/scully-frank-behind-the-flying-saucers)” ([1950](/tags/1950)).
+See the references provided in the entry for Scully's book “[Behind the Flying Saucers]({{ '/ufo-history/ufo-books/scully-frank-behind-the-flying-saucers' | relative_url }})” ([1950]({{ '/tags/1950' | relative_url }})).
 
 <a id="other"></a>
 ### Other Material

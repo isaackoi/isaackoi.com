@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0762101083.jpg"}
 book: {"identifiers": ["0762101083"], "primary_isbn": "0762101083", "cover_image": "/book-covers/0762101083.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Hilary Evans](/ufo-history/ufo-personalities/evans-hilary)'s book “[From Other Worlds](/ufo-history/ufo-books/evans-hilary-from-other-worlds)” ([1998](/tags/1998)) (available [on Amazon USA](http://www.amazon.com/dp/0762101083/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0762101083/?&tag=ufot-21))
+Brief review to be added of [Hilary Evans]({{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }})'s book “[From Other Worlds]({{ '/ufo-history/ufo-books/evans-hilary-from-other-worlds' | relative_url }})” ([1998]({{ '/tags/1998' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0762101083/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0762101083/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

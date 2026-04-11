@@ -13,21 +13,21 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/sparks_brad_1.jpg"}
 ---
 
-![sparks_brad_1](/images/stories/ufo_personalities/sparks_brad_1.jpg)
+![sparks_brad_1]({{ '/images/stories/ufo_personalities/sparks_brad_1.jpg' | relative_url }})
 
 *Brad Sparks*
 
 Brief comments to be added on this individual.
 
-As noted in [Part 3](/ufog/best-ufo-cases/3-experts-short-lists) of Isaac Koi’s “[Best UFO Cases](/ufog/best-ufo-cases)” article (i.e. in the Part entitled “[Existing lists by various individuals](/ufog/best-ufo-cases/3-experts-short-lists)”), in 1999 [Brad Sparks](/ufo-history/ufo-personalities/sparks-brad) stated that he was “not ready to present a full Best Case list for OEH [the Objective Existence Hypothesis, which is that an unexplained physical phenomenon does exist], though I would certainly put on such a list” the following cases (see Footnote 3.47):
+As noted in [Part 3]({{ '/ufog/best-ufo-cases/3-experts-short-lists' | relative_url }}) of Isaac Koi’s “[Best UFO Cases]({{ '/ufog/best-ufo-cases' | relative_url }})” article (i.e. in the Part entitled “[Existing lists by various individuals]({{ '/ufog/best-ufo-cases/3-experts-short-lists' | relative_url }})”), in 1999 [Brad Sparks]({{ '/ufo-history/ufo-personalities/sparks-brad' | relative_url }}) stated that he was “not ready to present a full Best Case list for OEH [the Objective Existence Hypothesis, which is that an unexplained physical phenomenon does exist], though I would certainly put on such a list” the following cases (see Footnote 3.47):
 
-(1) [the RB-47 case](/ufo-history/ufo/19570717-rb-47-incident) (Case 63 in [Isaac Koi's “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases)),
-(2) [the Trent/McMinnville stereo photos](/ufo-history/ufo/19500511-mcminnville-photographs) (Case 17 in [Isaac Koi's “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases)),
+(1) [the RB-47 case]({{ '/ufo-history/ufo/19570717-rb-47-incident' | relative_url }}) (Case 63 in [Isaac Koi's “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }})),
+(2) [the Trent/McMinnville stereo photos]({{ '/ufo-history/ufo/19500511-mcminnville-photographs' | relative_url }}) (Case 17 in [Isaac Koi's “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }})),
 (3) the Rogue River, Oregon, sighting,
 (4) the 6 June 1949, Killeen Base observation network sighting, the “world's first UFO triangulation”,
-(5) [Gemini 11 astronaut sighting](/ufo-history/ufo/19660912-gemini-11-sighting) and photos,
+(5) [Gemini 11 astronaut sighting]({{ '/ufo-history/ufo/19660912-gemini-11-sighting' | relative_url }}) and photos,
 (6) Skylab-3 astronaut sighting and photos, and
-(7) [the Cash-Landrum case](/ufo-history/ufo/19801229-cashlandrum-incident) (Case 30 in [Isaac Koi's “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases)).
+(7) [the Cash-Landrum case]({{ '/ufo-history/ufo/19801229-cashlandrum-incident' | relative_url }}) (Case 30 in [Isaac Koi's “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }})).
 
 1. [Web Resources](#web)
 
@@ -67,10 +67,10 @@ For discussion of Brad Sparks see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/korff-kal-k">Korff, Kal K</a> in his “<a href="/ufo-history/ufo-books/korff-kal-k-the-roswell-ufo-crash-what-they-dont-want-you-to-know">The Roswell UFO Crash: What They Don’t Want You to Know</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0440236134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0440236134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 207 (in Chapter 6) of the Dell paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/korff-kal-k' | relative_url }}">Korff, Kal K</a> in his “<a href="{{ '/ufo-history/ufo-books/korff-kal-k-the-roswell-ufo-crash-what-they-dont-want-you-to-know' | relative_url }}">The Roswell UFO Crash: What They Don’t Want You to Know</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0440236134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0440236134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 207 (in Chapter 6) of the Dell paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

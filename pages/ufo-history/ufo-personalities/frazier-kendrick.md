@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/frazier_kendrick_1.jpg"}
 ---
 
-![frazier_kendrick_1](/images/stories/ufo_personalities/frazier_kendrick_1.jpg)
+![frazier_kendrick_1]({{ '/images/stories/ufo_personalities/frazier_kendrick_1.jpg' | relative_url }})
 
 *Kendrick Frazier*
 
@@ -36,18 +36,18 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1986">1986</a></p>
+<p><a href="{{ '/tags/1986' | relative_url }}">1986</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/frazier-kendrick">Frazier, Kendrick</a> (Editor) “<a href="/ufo-history/ufo-books/frazier-kendrick-editor-science-confronts-the-paranormal">Science Confronts the Paranormal</a>” (<a href="/tags/1986">1986</a>) (available <a href="http://www.amazon.com/dp/0879753145/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879753145/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/frazier-kendrick' | relative_url }}">Frazier, Kendrick</a> (Editor) “<a href="{{ '/ufo-history/ufo-books/frazier-kendrick-editor-science-confronts-the-paranormal' | relative_url }}">Science Confronts the Paranormal</a>” (<a href="{{ '/tags/1986' | relative_url }}">1986</a>) (available <a href="http://www.amazon.com/dp/0879753145/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879753145/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/frazier-kendrick">Frazier, Kendrick</a> and <a href="/ufo-history/ufo-personalities/nickell-joe">Nickell, Joseph</a> (Ed.) “<a href="/ufo-history/ufo-books/frazier-kendrick-and-nickell-joseph-ed-the-ufo-invasion">The UFO Invasion</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1573921319/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573921319/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/frazier-kendrick' | relative_url }}">Frazier, Kendrick</a> and <a href="{{ '/ufo-history/ufo-personalities/nickell-joe' | relative_url }}">Nickell, Joseph</a> (Ed.) “<a href="{{ '/ufo-history/ufo-books/frazier-kendrick-and-nickell-joseph-ed-the-ufo-invasion' | relative_url }}">The UFO Invasion</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1573921319/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573921319/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>

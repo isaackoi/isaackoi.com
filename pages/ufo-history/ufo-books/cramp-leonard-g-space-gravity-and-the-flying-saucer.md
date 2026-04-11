@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0583302920.jpg"}
 book: {"identifiers": ["B0007EWCY6", "B0000CL38Q", "0583302920", "1931044325", "1905646003", "0932813437", "1575440660", "0713724498", "0713726008"], "primary_isbn": "0583302920", "cover_image": "/book-covers/0583302920.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Leonard G Cramp](/ufo-history/ufo-personalities/cramp-leonard-g)'s book “[Space, Gravity and the Flying Saucer](/ufo-history/ufo-books/cramp-leonard-g-space-gravity-and-the-flying-saucer)” ([1954](/tags/1954)) (available [on Amazon USA](http://www.amazon.com/dp/B0007EWCY6/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B0007EWCY6/?&tag=ufot-21))
+Brief review to be added of [Leonard G Cramp]({{ '/ufo-history/ufo-personalities/cramp-leonard-g' | relative_url }})'s book “[Space, Gravity and the Flying Saucer]({{ '/ufo-history/ufo-books/cramp-leonard-g-space-gravity-and-the-flying-saucer' | relative_url }})” ([1954]({{ '/tags/1954' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/B0007EWCY6/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B0007EWCY6/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion of Cramp and/or his book see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1961">1961</a></p>
+<p><a href="{{ '/tags/1961' | relative_url }}">1961</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/adamski-george">Adamski, George</a> in his “Flying Saucers Farewell” (<a href="/tags/1961">1961</a>) (available <a href="http://www.amazon.com/dp/B0000CL38Q/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0000CL38Q/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 148 (in Book 2, Chapter 3) of the Abelard-Schuman hardback edition, at page 125 of the Paperback Library edition (published under the title “Behind the Flying Saucer Mystery”).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/adamski-george' | relative_url }}">Adamski, George</a> in his “Flying Saucers Farewell” (<a href="{{ '/tags/1961' | relative_url }}">1961</a>) (available <a href="http://www.amazon.com/dp/B0000CL38Q/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0000CL38Q/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 148 (in Book 2, Chapter 3) of the Abelard-Schuman hardback edition, at page 125 of the Paperback Library edition (published under the title “Behind the Flying Saucer Mystery”).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -65,10 +65,10 @@ For discussion of Cramp and/or his book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1979">1979</a></p>
+<p><a href="{{ '/tags/1979' | relative_url }}">1979</a></p>
 </td>
 <td valign="top" width="547">
-<p>Ball, Brian in his “A Young Person’s Guide to UFOs” (<a href="/tags/1979">1979</a>) (available <a href="http://www.amazon.com/dp/0583302920/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0583302920/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 62-63 (in Chapter 6) of the Dragon paperback edition.</p>
+<p>Ball, Brian in his “A Young Person’s Guide to UFOs” (<a href="{{ '/tags/1979' | relative_url }}">1979</a>) (available <a href="http://www.amazon.com/dp/0583302920/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0583302920/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 62-63 (in Chapter 6) of the Dragon paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -76,10 +76,10 @@ For discussion of Cramp and/or his book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/bennett-colin">Bennett, Colin</a> in his “<a href="/ufo-history/ufo-books/bennett-colin-looking-for-orthon">Looking for Orthon</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/1931044325/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1931044325/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 172 (in Chapter 14) of the Paraview softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/bennett-colin' | relative_url }}">Bennett, Colin</a> in his “<a href="{{ '/ufo-history/ufo-books/bennett-colin-looking-for-orthon' | relative_url }}">Looking for Orthon</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/1931044325/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1931044325/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 172 (in Chapter 14) of the Paraview softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -87,10 +87,10 @@ For discussion of Cramp and/or his book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2007">2007</a></p>
+<p><a href="{{ '/tags/2007' | relative_url }}">2007</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clarke-david">Clarke, David</a> and <a href="/ufo-history/ufo-personalities/roberts-andy">Roberts, Andy</a> in their “<a href="/ufo-history/ufo-books/clarke-david-and-roberts-andy-flying-saucerers">Flying Saucerers : A social history of UFOlogy</a>” (<a href="/tags/2007">2007</a>) (available <a href="http://www.amazon.com/dp/1905646003/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1905646003/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 48-49 (in Chapter 3) of the Alternative Albion softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clarke-david' | relative_url }}">Clarke, David</a> and <a href="{{ '/ufo-history/ufo-personalities/roberts-andy' | relative_url }}">Roberts, Andy</a> in their “<a href="{{ '/ufo-history/ufo-books/clarke-david-and-roberts-andy-flying-saucerers' | relative_url }}">Flying Saucerers : A social history of UFOlogy</a>” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (available <a href="http://www.amazon.com/dp/1905646003/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1905646003/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 48-49 (in Chapter 3) of the Alternative Albion softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -98,10 +98,10 @@ For discussion of Cramp and/or his book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1966">1966</a></p>
+<p><a href="{{ '/tags/1966' | relative_url }}">1966</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/cramp-leonard-g">Cramp, Leonard G</a> in his “<a href="/ufo-history/ufo-books/cramp-leonard-g-piece-for-a-jig-saw">Piece for a Jig-Saw</a>” (<a href="/tags/1966">1966</a>) (available <a href="http://www.amazon.com/dp/0932813437/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0932813437/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 13-14 (in the Foreword) of the Somerton hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/cramp-leonard-g' | relative_url }}">Cramp, Leonard G</a> in his “<a href="{{ '/ufo-history/ufo-books/cramp-leonard-g-piece-for-a-jig-saw' | relative_url }}">Piece for a Jig-Saw</a>” (<a href="{{ '/tags/1966' | relative_url }}">1966</a>) (available <a href="http://www.amazon.com/dp/0932813437/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0932813437/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 13-14 (in the Foreword) of the Somerton hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -109,10 +109,10 @@ For discussion of Cramp and/or his book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/cramp-leonard-g">Cramp, Leonard G</a> in his “The Cosmic Matrix : Piece for a Jig-Saw Part 2” (<a href="/tags/1999">1999</a>) at pages 11, 21 (in the Introduction) of the AUP softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/cramp-leonard-g' | relative_url }}">Cramp, Leonard G</a> in his “The Cosmic Matrix : Piece for a Jig-Saw Part 2” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) at pages 11, 21 (in the Introduction) of the AUP softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -120,10 +120,10 @@ For discussion of Cramp and/or his book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1954">1954</a></p>
+<p><a href="{{ '/tags/1954' | relative_url }}">1954</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/leslie-desmond">Leslie, Desmond</a> in Leonard G Cramp’s “<a href="/ufo-history/ufo-books/cramp-leonard-g-space-gravity-and-the-flying-saucer">Space, Gravity and the Flying Saucer</a>” (<a href="/tags/1954">1954</a>) (available <a href="http://www.amazon.com/dp/B0007EWCY6/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0007EWCY6/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 17-18 (in the Introduction) of the Werner Laurie hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/leslie-desmond' | relative_url }}">Leslie, Desmond</a> in Leonard G Cramp’s “<a href="{{ '/ufo-history/ufo-books/cramp-leonard-g-space-gravity-and-the-flying-saucer' | relative_url }}">Space, Gravity and the Flying Saucer</a>” (<a href="{{ '/tags/1954' | relative_url }}">1954</a>) (available <a href="http://www.amazon.com/dp/B0007EWCY6/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0007EWCY6/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 17-18 (in the Introduction) of the Werner Laurie hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -131,10 +131,10 @@ For discussion of Cramp and/or his book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p>Nesheim, Eric and Nesheim, Leif in their “<a href="/ufo-history/ufo-books/nesheim-eric-and-nesheim-leif-saucer-attack-pop-culture-in-the-golden-age-of-flying-saucers">Saucer Attack! : Pop Culture in the Golden Age of Flying Saucers</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1575440660/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1575440660/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 41 of the General Publishing softcover edition.</p>
+<p>Nesheim, Eric and Nesheim, Leif in their “<a href="{{ '/ufo-history/ufo-books/nesheim-eric-and-nesheim-leif-saucer-attack-pop-culture-in-the-golden-age-of-flying-saucers' | relative_url }}">Saucer Attack! : Pop Culture in the Golden Age of Flying Saucers</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1575440660/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1575440660/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 41 of the General Publishing softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -142,10 +142,10 @@ For discussion of Cramp and/or his book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/watts-alan">Watts, Alan</a> in his “<a href="/ufo-history/ufo-books/watts-alan-ufo-quest">UFO Quest</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/0713724498/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713724498/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 7 (in the Introduction) of the Blandford softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/watts-alan' | relative_url }}">Watts, Alan</a> in his “<a href="{{ '/ufo-history/ufo-books/watts-alan-ufo-quest' | relative_url }}">UFO Quest</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/0713724498/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713724498/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 7 (in the Introduction) of the Blandford softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -153,10 +153,10 @@ For discussion of Cramp and/or his book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/watts-alan">Watts, Alan</a> in his “<a href="/ufo-history/ufo-books/watts-alan-ufo-visitation">UFO Visitation</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/0713726008/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713726008/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 48 (in Chapter 5) of the Blandford softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/watts-alan' | relative_url }}">Watts, Alan</a> in his “<a href="{{ '/ufo-history/ufo-books/watts-alan-ufo-visitation' | relative_url }}">UFO Visitation</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/0713726008/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713726008/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 48 (in Chapter 5) of the Blandford softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

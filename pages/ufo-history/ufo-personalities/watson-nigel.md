@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/watson_nigel_1.jpg"}
 ---
 
-![watson_nigel_1](/images/stories/ufo_personalities/watson_nigel_1.jpg)
+![watson_nigel_1]({{ '/images/stories/ufo_personalities/watson_nigel_1.jpg' | relative_url }})
 
 *Nigel Watson*
 
@@ -36,26 +36,26 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/watson-nigel">Watson, Nigel</a> “<a href="/ufo-history/ufo-books/watson-nigel-portraits-of-alien-encounters">Portraits of Alien Encounters</a>” (<a href="/tags/1990">1990</a>) (available <a href="http://www.amazon.com/dp/0951625101/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0951625101/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/watson-nigel' | relative_url }}">Watson, Nigel</a> “<a href="{{ '/ufo-history/ufo-books/watson-nigel-portraits-of-alien-encounters' | relative_url }}">Portraits of Alien Encounters</a>” (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) (available <a href="http://www.amazon.com/dp/0951625101/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0951625101/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/watson-nigel">Watson, Nigel</a> and Slade, Darren “Supernatural Spielberg” (<a href="/tags/1992">1992</a>) (available <a href="http://www.amazon.com/dp/0951625136/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0951625136/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/watson-nigel' | relative_url }}">Watson, Nigel</a> and Slade, Darren “Supernatural Spielberg” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="http://www.amazon.com/dp/0951625136/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0951625136/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/watson-nigel">Watson, Nigel</a> (Editor) “<a href="/ufo-history/ufo-books/watson-nigel-editor-the-scareship-mystery-a-survey-of-phantom-airship-scares-1909-1918">The Scareship Mystery : A survey of Phantom Airship Scares 1909-1918</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0952441780/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0952441780/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/watson-nigel' | relative_url }}">Watson, Nigel</a> (Editor) “<a href="{{ '/ufo-history/ufo-books/watson-nigel-editor-the-scareship-mystery-a-survey-of-phantom-airship-scares-1909-1918' | relative_url }}">The Scareship Mystery : A survey of Phantom Airship Scares 1909-1918</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0952441780/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0952441780/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>
@@ -99,10 +99,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1988">1988</a></p>
+<p><a href="{{ '/tags/1988' | relative_url }}">1988</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/boyd-robert-d">Boyd, Robert D</a> in his “International Who’s Who in Ufology Directory” (<a href="/tags/1988">1988</a>) at page 220 of the PMT Publishing softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/boyd-robert-d' | relative_url }}">Boyd, Robert D</a> in his “International Who’s Who in Ufology Directory” (<a href="{{ '/tags/1988' | relative_url }}">1988</a>) at page 220 of the PMT Publishing softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

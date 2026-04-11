@@ -13,11 +13,11 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/cia_1.gif"}
 ---
 
-![cia_1](/images/stories/ufo_tags/cia_1.gif)
+![cia_1]({{ '/images/stories/ufo_tags/cia_1.gif' | relative_url }})
 
 *Durant memo*
 
-On 16 February [1953](/tags/1953), a memo from Fred C Durant to the Assistant Director for Scientific Intelligence providing a brief history of the meetings of the O/SI Advisory Panel (“the Robertson Panel”) and expressed to set forth “comments and suggestions of the Panel Members which they believed were inappropriate for inclusion in the formal report”. Often referred to as “the Durant Report”. The formal report of the Robertson Panel (often referred to as “the Robertson Report”) appears at Tab 1 to the Durant Report.
+On 16 February [1953]({{ '/tags/1953' | relative_url }}), a memo from Fred C Durant to the Assistant Director for Scientific Intelligence providing a brief history of the meetings of the O/SI Advisory Panel (“the Robertson Panel”) and expressed to set forth “comments and suggestions of the Panel Members which they believed were inappropriate for inclusion in the formal report”. Often referred to as “the Durant Report”. The formal report of the Robertson Panel (often referred to as “the Robertson Report”) appears at Tab 1 to the Durant Report.
 
 Sections below
 
@@ -32,7 +32,7 @@ Sections below
 
 The Durant memo is embedded below:
 
-[http://www.isaackoi.com/documents/chronology/19530216_robertson_panel_report_durant.pdf](/documents/chronology/19530216_robertson_panel_report_durant.pdf)
+[http://www.isaackoi.com/documents/chronology/19530216_robertson_panel_report_durant.pdf]({{ '/documents/chronology/19530216_robertson_panel_report_durant.pdf' | relative_url }})
 
 {pdf=http://www.isaackoi.com/documents/chronology/19530216_robertson_panel_report_durant.pdf|900|1300}
 
@@ -45,9 +45,9 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-Redacted version presented by [Lorenzen, Coral](/ufo-history/ufo-personalities/lorenzen-coral-e) and [Lorenzen, Jim](/ufo-history/ufo-personalities/lorenzen-jim) in “[UFOs over the Americas](/ufo-history/ufo-books/lorenzen-coral-ufos-over-the-americas)” ([1968](/tags/1968)) (available [on Amazon USA](http://www.amazon.com/dp/B00005X1IY/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B00005X1IY/ref=nosim?tag=ufot-21)) at pages 225-241 (in Appendix 4) of the Signet paperback edition.
+Redacted version presented by [Lorenzen, Coral]({{ '/ufo-history/ufo-personalities/lorenzen-coral-e' | relative_url }}) and [Lorenzen, Jim]({{ '/ufo-history/ufo-personalities/lorenzen-jim' | relative_url }}) in “[UFOs over the Americas]({{ '/ufo-history/ufo-books/lorenzen-coral-ufos-over-the-americas' | relative_url }})” ([1968]({{ '/tags/1968' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/B00005X1IY/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B00005X1IY/ref=nosim?tag=ufot-21)) at pages 225-241 (in Appendix 4) of the Signet paperback edition.
 
-Text of Durrant’s memo regarding the meetings of the Robertson Panel presented in the [Condon Report](/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects) (“[Scientific Study of Unidentified Flying Objects](/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects)”, Edward U Condon (Director) and Daniel S Gillmor (Editor) ([1969](/tags/1969))) (available [on Amazon USA](http://www.amazon.com/dp/B000EZY1RO/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B000EZY1RO/ref=nosim?tag=ufot-21)) at pages 1392-1421 (in Appendix U) of the uncorrected version submitted to the Air Force (with the same page numbering in the 3 volume paperbound edition distributed by the National Technical Information Service, US Department of Commerce) at pages 905-921 of the Vision hardback edition (with the same page numbering in the Bantam paperback edition). The first of these editions has the same page numbering as the edition available free online at the following links:
+Text of Durrant’s memo regarding the meetings of the Robertson Panel presented in the [Condon Report]({{ '/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects' | relative_url }}) (“[Scientific Study of Unidentified Flying Objects]({{ '/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects' | relative_url }})”, Edward U Condon (Director) and Daniel S Gillmor (Editor) ([1969]({{ '/tags/1969' | relative_url }}))) (available [on Amazon USA](http://www.amazon.com/dp/B000EZY1RO/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B000EZY1RO/ref=nosim?tag=ufot-21)) at pages 1392-1421 (in Appendix U) of the uncorrected version submitted to the Air Force (with the same page numbering in the 3 volume paperbound edition distributed by the National Technical Information Service, US Department of Commerce) at pages 905-921 of the Vision hardback edition (with the same page numbering in the Bantam paperback edition). The first of these editions has the same page numbering as the edition available free online at the following links:
 
 [http://www.project1947.com/shg/condon/contents.html](http://www.project1947.com/shg/condon/contents.html)
 
@@ -75,10 +75,10 @@ For discussion of the Durant Report see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/hall-michael-david">Hall, Michael David</a> and <a href="/ufo-history/ufo-personalities/connors-wendy-ann">Connors, Wendy Ann</a> in their “<a href="/ufo-history/ufo-books/hall-michael-david-and-connors-wendy-ann-captain-edward-j-ruppelt">Captain Edward J Ruppelt : Summer of the Saucers - 1952</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/0970505507/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0970505507/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 213, 214, 218 (in the Conclusion) of the Rose Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hall-michael-david' | relative_url }}">Hall, Michael David</a> and <a href="{{ '/ufo-history/ufo-personalities/connors-wendy-ann' | relative_url }}">Connors, Wendy Ann</a> in their “<a href="{{ '/ufo-history/ufo-books/hall-michael-david-and-connors-wendy-ann-captain-edward-j-ruppelt' | relative_url }}">Captain Edward J Ruppelt : Summer of the Saucers - 1952</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/0970505507/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0970505507/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 213, 214, 218 (in the Conclusion) of the Rose Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -86,10 +86,10 @@ For discussion of the Durant Report see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1983">1983</a></p>
+<p><a href="{{ '/tags/1983' | relative_url }}">1983</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/klass-philip-j">Klass, Philip J</a> in “<a href="/ufo-history/ufo-books/klass-philip-j-ufos-the-public-deceived">UFOs – The Public Deceived</a>” (<a href="/tags/1983">1983</a>) (available <a href="http://www.amazon.com/dp/0879753226/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879753226/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 31-32 (in Chapter 4) of the Prometheus softback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/klass-philip-j' | relative_url }}">Klass, Philip J</a> in “<a href="{{ '/ufo-history/ufo-books/klass-philip-j-ufos-the-public-deceived' | relative_url }}">UFOs – The Public Deceived</a>” (<a href="{{ '/tags/1983' | relative_url }}">1983</a>) (available <a href="http://www.amazon.com/dp/0879753226/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879753226/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 31-32 (in Chapter 4) of the Prometheus softback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -97,10 +97,10 @@ For discussion of the Durant Report see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/pflock-karl-t">Pflock, Karl T</a> in his “<a href="/ufo-history/ufo-books/pflock-karl-t-roswell-inconvenient-facts-and-the-will-to-believe">Roswell: Inconvenient Facts and the Will to Believe</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/1573928941/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573928941/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 191 (in Chapter 15) of the Prometheus hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/pflock-karl-t' | relative_url }}">Pflock, Karl T</a> in his “<a href="{{ '/ufo-history/ufo-books/pflock-karl-t-roswell-inconvenient-facts-and-the-will-to-believe' | relative_url }}">Roswell: Inconvenient Facts and the Will to Believe</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/1573928941/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573928941/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 191 (in Chapter 15) of the Prometheus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -108,10 +108,10 @@ For discussion of the Durant Report see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1976">1976</a></p>
+<p><a href="{{ '/tags/1976' | relative_url }}">1976</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sparks-brad">Sparks, Brad</a> in “<a href="/ufo-history/ufo-books/lorenzen-coral-and-lorenzen-jim-encounters-with-ufo-occupants">Encounters with UFO Occupants</a>” (<a href="/tags/1976">1976</a>) by <a href="/ufo-history/ufo-personalities/lorenzen-coral-e">Coral</a> and <a href="/ufo-history/ufo-personalities/lorenzen-jim">Jim Lorenzen</a> at pages 400-403 (Appendix A generally) of the Berkley paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sparks-brad' | relative_url }}">Sparks, Brad</a> in “<a href="{{ '/ufo-history/ufo-books/lorenzen-coral-and-lorenzen-jim-encounters-with-ufo-occupants' | relative_url }}">Encounters with UFO Occupants</a>” (<a href="{{ '/tags/1976' | relative_url }}">1976</a>) by <a href="{{ '/ufo-history/ufo-personalities/lorenzen-coral-e' | relative_url }}">Coral</a> and <a href="{{ '/ufo-history/ufo-personalities/lorenzen-jim' | relative_url }}">Jim Lorenzen</a> at pages 400-403 (Appendix A generally) of the Berkley paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>

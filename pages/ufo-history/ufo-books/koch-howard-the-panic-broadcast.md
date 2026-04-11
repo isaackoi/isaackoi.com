@@ -14,9 +14,9 @@ header: {"preview_image": "https://covers.openlibrary.org/b/isbn/0316500607-L.jp
 book: {"identifiers": ["0316500607"], "primary_isbn": "0316500607", "cover_image": "https://covers.openlibrary.org/b/isbn/0316500607-L.jpg?default=false", "cover_source": "openlibrary"}
 ---
 
-Brief review to be added of Howard Koch's “[The Panic Broadcast](/ufo-history/ufo-books/koch-howard-the-panic-broadcast)” ([1940](/tags/1940)) (available [on Amazon USA](http://www.amazon.com/dp/0316500607/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0316500607/?&tag=ufot-21))
+Brief review to be added of Howard Koch's “[The Panic Broadcast]({{ '/ufo-history/ufo-books/koch-howard-the-panic-broadcast' | relative_url }})” ([1940]({{ '/tags/1940' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0316500607/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0316500607/?&tag=ufot-21))
 
-See the entry in relation to the Orson Welles broadcast of “The War of the Worlds” broadcast on 30 October [1938](/tags/1938).
+See the entry in relation to the Orson Welles broadcast of “The War of the Worlds” broadcast on 30 October [1938]({{ '/tags/1938' | relative_url }}).
 
 1. [Web Resources](#web)
 

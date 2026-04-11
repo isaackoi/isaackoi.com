@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -63,10 +63,10 @@ For discussion of the Glassboro incident see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1968">1968</a></p>
+<p><a href="{{ '/tags/1968' | relative_url }}">1968</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/lore-gordon">Lore, Gordon</a> and <a href="/ufo-history/ufo-personalities/deneault-harold">Deneault, Harold</a> in their “<a href="/ufo-history/ufo-books/lore-gordon-and-deneault-harold-mysteries-of-the-skies">Mysteries of the Skies</a>” (<a href="/tags/1968">1968</a>) (available <a href="http://www.amazon.com/dp/B000IYEI9C/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000IYEI9C/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 170 (in the Epilogue) of the Prentice-Hall hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/lore-gordon' | relative_url }}">Lore, Gordon</a> and <a href="{{ '/ufo-history/ufo-personalities/deneault-harold' | relative_url }}">Deneault, Harold</a> in their “<a href="{{ '/ufo-history/ufo-books/lore-gordon-and-deneault-harold-mysteries-of-the-skies' | relative_url }}">Mysteries of the Skies</a>” (<a href="{{ '/tags/1968' | relative_url }}">1968</a>) (available <a href="http://www.amazon.com/dp/B000IYEI9C/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000IYEI9C/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 170 (in the Epilogue) of the Prentice-Hall hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -74,10 +74,10 @@ For discussion of the Glassboro incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1979">1979</a></p>
+<p><a href="{{ '/tags/1979' | relative_url }}">1979</a></p>
 </td>
 <td valign="top" width="547">
-<p>Machlin, Milt in his “<a href="/ufo-history/ufo-books/machlin-milt-the-total-ufo-story">The Total UFO Story</a>” (<a href="/tags/1979">1979</a>) (available <a href="http://www.amazon.com/dp/B000GRISSS/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000GRISSS/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 221-224 (in Chapter 11) of the Dale paperback edition.</p>
+<p>Machlin, Milt in his “<a href="{{ '/ufo-history/ufo-books/machlin-milt-the-total-ufo-story' | relative_url }}">The Total UFO Story</a>” (<a href="{{ '/tags/1979' | relative_url }}">1979</a>) (available <a href="http://www.amazon.com/dp/B000GRISSS/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000GRISSS/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 221-224 (in Chapter 11) of the Dale paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -85,10 +85,10 @@ For discussion of the Glassboro incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1975">1975</a></p>
+<p><a href="{{ '/tags/1975' | relative_url }}">1975</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/phillips-ted">Phillips, Ted</a> in his “<a href="/ufo-history/ufo-books/phillips-ted-physical-traces-associated-with-ufo-sightings">Physical Traces associated with UFO Sightings</a>” (<a href="/tags/1975">1975</a>) (available <a href="http://www.amazon.com/dp/B0006CM7F8/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0006CM7F8/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 32 (in Part C) of the <a href="/ufo-history/ufo-personalities/cufos">CUFOS</a> paperbound edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/phillips-ted' | relative_url }}">Phillips, Ted</a> in his “<a href="{{ '/ufo-history/ufo-books/phillips-ted-physical-traces-associated-with-ufo-sightings' | relative_url }}">Physical Traces associated with UFO Sightings</a>” (<a href="{{ '/tags/1975' | relative_url }}">1975</a>) (available <a href="http://www.amazon.com/dp/B0006CM7F8/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0006CM7F8/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 32 (in Part C) of the <a href="{{ '/ufo-history/ufo-personalities/cufos' | relative_url }}">CUFOS</a> paperbound edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -96,10 +96,10 @@ For discussion of the Glassboro incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1989">1989</a></p>
+<p><a href="{{ '/tags/1989' | relative_url }}">1989</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randle-kevin">Randle, Kevin</a> in his “<a href="/ufo-history/ufo-books/randle-kevin-d-the-ufo-casebook">The UFO Casebook</a>” (<a href="/tags/1989">1989</a>) (available <a href="http://www.amazon.com/dp/0446357154/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0446357154/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 118-129 (in the entry entitled “September 4, <a href="/tags/1964">1964</a>: Glassboro, New Jersey”) of the Warner Books paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randle-kevin' | relative_url }}">Randle, Kevin</a> in his “<a href="{{ '/ufo-history/ufo-books/randle-kevin-d-the-ufo-casebook' | relative_url }}">The UFO Casebook</a>” (<a href="{{ '/tags/1989' | relative_url }}">1989</a>) (available <a href="http://www.amazon.com/dp/0446357154/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0446357154/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 118-129 (in the entry entitled “September 4, <a href="{{ '/tags/1964' | relative_url }}">1964</a>: Glassboro, New Jersey”) of the Warner Books paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>12</p>
@@ -107,10 +107,10 @@ For discussion of the Glassboro incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/rux-bruce">Rux, Bruce</a> in his “<a href="/ufo-history/ufo-books/rux-bruce-architects-of-the-underworld">Architects of the Underworld</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/1883319463/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1883319463/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 49-50 (in Chapter 2) of the Frog softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/rux-bruce' | relative_url }}">Rux, Bruce</a> in his “<a href="{{ '/ufo-history/ufo-books/rux-bruce-architects-of-the-underworld' | relative_url }}">Architects of the Underworld</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/1883319463/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1883319463/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 49-50 (in Chapter 2) of the Frog softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -118,10 +118,10 @@ For discussion of the Glassboro incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1983">1983</a></p>
+<p><a href="{{ '/tags/1983' | relative_url }}">1983</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/schwarz-berthold-e">Schwarz, Berthold E</a> in his “<a href="/ufo-history/ufo-books/schwarz-berthold-e-ufo-dynamics-psychiatric-and-psychic-aspects-of-the-ufo-syndrome">UFO Dynamics : Psychiatric and Psychic Aspects of the UFO Syndrome</a>” (<a href="/tags/1983">1983</a>) (available <a href="http://www.amazon.com/dp/0935834648/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0935834648/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 351-352 (in Chapter 18) of the <a href="/tags/1988">1988</a> revised Rainbow Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/schwarz-berthold-e' | relative_url }}">Schwarz, Berthold E</a> in his “<a href="{{ '/ufo-history/ufo-books/schwarz-berthold-e-ufo-dynamics-psychiatric-and-psychic-aspects-of-the-ufo-syndrome' | relative_url }}">UFO Dynamics : Psychiatric and Psychic Aspects of the UFO Syndrome</a>” (<a href="{{ '/tags/1983' | relative_url }}">1983</a>) (available <a href="http://www.amazon.com/dp/0935834648/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0935834648/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 351-352 (in Chapter 18) of the <a href="{{ '/tags/1988' | relative_url }}">1988</a> revised Rainbow Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -133,7 +133,7 @@ For discussion of the Glassboro incident see the following:
 <a id="other"></a>
 ### Other Material
 
-Listed as Project Blue Book Case Number 9121 on the redacted US National Archives and Records Administration (“NARA”) microfilm records of Project Blue Book, released to the National Archives in [1975](/tags/1975) – see National Archives Microfilm Publication T1206 roll number 1. An image of the relevant index page has been given the unique Page ID (“PID”) of NARA-PBB1-321 (page 321 of 1014) at the link below.
+Listed as Project Blue Book Case Number 9121 on the redacted US National Archives and Records Administration (“NARA”) microfilm records of Project Blue Book, released to the National Archives in [1975]({{ '/tags/1975' | relative_url }}) – see National Archives Microfilm Publication T1206 roll number 1. An image of the relevant index page has been given the unique Page ID (“PID”) of NARA-PBB1-321 (page 321 of 1014) at the link below.
 
 Listed (without a Project Blue Book Case Number) on the unredacted Maxwell Air Force Base (“Maxwell”) microfilm records of Project Blue Book – see Maxwell microfilm roll number 30,363. An image of the relevant index page has been given the unique Page ID (“PID”) of MAXW-PBB2-540 (page 540 of 1352) at the link below.
 

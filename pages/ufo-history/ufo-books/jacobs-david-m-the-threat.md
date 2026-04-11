@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0684814846.jpg"}
 book: {"identifiers": ["0684814846", "0762101083", "0312867085"], "primary_isbn": "0684814846", "cover_image": "/book-covers/0684814846.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [David M Jacobs](/ufo-history/ufo-personalities/jacobs-david-michael)'s book “[The Threat](/ufo-history/ufo-books/jacobs-david-m-the-threat)” ([1998](/tags/1998)) (available [on Amazon USA](http://www.amazon.com/dp/0684814846/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0684814846/?&tag=ufot-21))
+Brief review to be added of [David M Jacobs]({{ '/ufo-history/ufo-personalities/jacobs-david-michael' | relative_url }})'s book “[The Threat]({{ '/ufo-history/ufo-books/jacobs-david-m-the-threat' | relative_url }})” ([1998]({{ '/tags/1998' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0684814846/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0684814846/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ Many of the tables of references on this website are considerably longer than th
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/evans-hilary">Evans, Hilary</a> in his “<a href="/ufo-history/ufo-books/evans-hilary-from-other-worlds">From Other Worlds</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0762101083/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0762101083/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 185 (in Chapter 7) of the Carlton hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }}">Evans, Hilary</a> in his “<a href="{{ '/ufo-history/ufo-books/evans-hilary-from-other-worlds' | relative_url }}">From Other Worlds</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0762101083/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0762101083/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 185 (in Chapter 7) of the Carlton hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -65,10 +65,10 @@ Many of the tables of references on this website are considerably longer than th
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randle-kevin">Randle, Kevin</a> D and <a href="/ufo-history/ufo-personalities/estes-russ">Estes, Russ</a> and Cone, William in their “<a href="/ufo-history/ufo-books/randle-kevin-and-estes-russ-and-cone-william-the-abduction-enigma">The Abduction Enigma</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0312867085/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312867085/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 208-209 (in Chapter 14) of the Forge hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randle-kevin' | relative_url }}">Randle, Kevin</a> D and <a href="{{ '/ufo-history/ufo-personalities/estes-russ' | relative_url }}">Estes, Russ</a> and Cone, William in their “<a href="{{ '/ufo-history/ufo-books/randle-kevin-and-estes-russ-and-cone-william-the-abduction-enigma' | relative_url }}">The Abduction Enigma</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0312867085/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312867085/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 208-209 (in Chapter 14) of the Forge hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

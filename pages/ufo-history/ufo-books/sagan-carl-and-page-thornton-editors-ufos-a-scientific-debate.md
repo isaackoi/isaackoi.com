@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0393007391.jpg"}
 book: {"identifiers": ["0393007391", "0963916122", "0345339517", "0871318563", "0806981326", "0631135634", "0749914114", "0815970005", "051757165X", "0809463245", "0399119353"], "primary_isbn": "0393007391", "cover_image": "/book-covers/0393007391.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of “[UFO's: A Scientific Debate](/ufo-history/ufo-books/sagan-carl-and-page-thornton-editors-ufos-a-scientific-debate)” ([1972](/tags/1972)) (available [on Amazon USA](http://www.amazon.com/dp/0393007391/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0393007391/?&tag=ufot-21)) edited by [Carl Sagan](/ufo-history/ufo-personalities/sagan-carl) and [Thornton Page](/ufo-history/ufo-personalities/page-thornton).
+Brief review to be added of “[UFO's: A Scientific Debate]({{ '/ufo-history/ufo-books/sagan-carl-and-page-thornton-editors-ufos-a-scientific-debate' | relative_url }})” ([1972]({{ '/tags/1972' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0393007391/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0393007391/?&tag=ufot-21)) edited by [Carl Sagan]({{ '/ufo-history/ufo-personalities/sagan-carl' | relative_url }}) and [Thornton Page]({{ '/ufo-history/ufo-personalities/page-thornton' | relative_url }}).
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1976">1976</a></p>
+<p><a href="{{ '/tags/1976' | relative_url }}">1976</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/bufora">BUFORA</a> in its “UFO Investigation” (<a href="/tags/1976">1976</a>) in Appendix 16, entry 23 of the spiral bound first edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/bufora' | relative_url }}">BUFORA</a> in its “UFO Investigation” (<a href="{{ '/tags/1976' | relative_url }}">1976</a>) in Appendix 16, entry 23 of the spiral bound first edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -65,10 +65,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fitzgerald-randall">Fitzgerald, Randall</a> in his “<a href="/ufo-history/ufo-books/fitzgerald-randall-the-cosmic-test-tube">The Cosmic Test Tube</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0963916122/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963916122/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 303-305 (in Section 4) with a one sentence summary at page 377 (in the Guide To Books) of the Moonlake Media softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }}">Fitzgerald, Randall</a> in his “<a href="{{ '/ufo-history/ufo-books/fitzgerald-randall-the-cosmic-test-tube' | relative_url }}">The Cosmic Test Tube</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0963916122/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963916122/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 303-305 (in Section 4) with a one sentence summary at page 377 (in the Guide To Books) of the Moonlake Media softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -76,10 +76,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1976">1976</a></p>
+<p><a href="{{ '/tags/1976' | relative_url }}">1976</a></p>
 </td>
 <td valign="top" width="547">
-<p>Flammonde, Paris in his “<a href="/ufo-history/ufo-books/flammonde-paris-ufo-exist">Ufo Exist!</a>” (<a href="/tags/1976">1976</a>) (available <a href="http://www.amazon.com/dp/0345339517/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0345339517/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 247-248 (in Chapter 12) of the Ballantine Books paperback edition.</p>
+<p>Flammonde, Paris in his “<a href="{{ '/ufo-history/ufo-books/flammonde-paris-ufo-exist' | relative_url }}">Ufo Exist!</a>” (<a href="{{ '/tags/1976' | relative_url }}">1976</a>) (available <a href="http://www.amazon.com/dp/0345339517/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0345339517/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 247-248 (in Chapter 12) of the Ballantine Books paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -87,10 +87,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p>Mannion, Michael in his “<a href="/ufo-history/ufo-books/mannion-michael-project-mindshift">Project Mindshift</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0871318563/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0871318563/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 265 (in Chapter 11) of the Evans hardback edition.</p>
+<p>Mannion, Michael in his “<a href="{{ '/ufo-history/ufo-books/mannion-michael-project-mindshift' | relative_url }}">Project Mindshift</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0871318563/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0871318563/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 265 (in Chapter 11) of the Evans hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -98,10 +98,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> and <a href="/ufo-history/ufo-personalities/hough-peter">Hough, Peter</a> in their “<a href="/ufo-history/ufo-books/randles-jenny-and-hough-peter-the-complete-book-of-ufos">The Complete Book of UFOs</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/0806981326/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806981326/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 230 (in Chapter 18) of the Piatkus softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> and <a href="{{ '/ufo-history/ufo-personalities/hough-peter' | relative_url }}">Hough, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-hough-peter-the-complete-book-of-ufos' | relative_url }}">The Complete Book of UFOs</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/0806981326/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806981326/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 230 (in Chapter 18) of the Piatkus softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -109,10 +109,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1985">1985</a></p>
+<p><a href="{{ '/tags/1985' | relative_url }}">1985</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> and <a href="/ufo-history/ufo-personalities/warrington-peter">Warrington, Peter</a> in their “<a href="/ufo-history/ufo-books/randles-jenny-and-warrington-peter-science-and-the-ufos">Science and the UFOs</a> " (<a href="/tags/1985">1985</a>) (available <a href="http://www.amazon.com/dp/0631135634/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0631135634/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 58 (in Chapter 4), 204 (in the Bibliography) of the Blackwell hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> and <a href="{{ '/ufo-history/ufo-personalities/warrington-peter' | relative_url }}">Warrington, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-warrington-peter-science-and-the-ufos' | relative_url }}">Science and the UFOs</a> " (<a href="{{ '/tags/1985' | relative_url }}">1985</a>) (available <a href="http://www.amazon.com/dp/0631135634/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0631135634/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 58 (in Chapter 4), 204 (in the Bibliography) of the Blackwell hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -120,10 +120,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-the-paranormal-source-book">The Paranormal Source Book</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/0749914114/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0749914114/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 232 (in the unnumbered, but alphabetically arranged, chapter entitled “UFOs”) of the Piatkus hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-the-paranormal-source-book' | relative_url }}">The Paranormal Source Book</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/0749914114/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0749914114/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 232 (in the unnumbered, but alphabetically arranged, chapter entitled “UFOs”) of the Piatkus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -131,10 +131,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1972">1972</a></p>
+<p><a href="{{ '/tags/1972' | relative_url }}">1972</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sagan-carl">Sagan, Carl</a> and <a href="/ufo-history/ufo-personalities/page-thornton">Page, Thornton</a> in “<a href="/ufo-history/ufo-books/sagan-carl-and-page-thornton-editors-ufos-a-scientific-debate">UFO's: A Scientific Debate</a>” (<a href="/tags/1972">1972</a>) (edited by <a href="/ufo-history/ufo-personalities/sagan-carl">Carl Sagan</a> and <a href="/ufo-history/ufo-personalities/page-thornton">Thornton Page</a>) (available <a href="http://www.amazon.com/dp/0393007391/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0393007391/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages xvi-xix (in the “Editors’ Introduction”) of the Barnes and Noble hardback edition (with the same page numbering in the Norton paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sagan-carl' | relative_url }}">Sagan, Carl</a> and <a href="{{ '/ufo-history/ufo-personalities/page-thornton' | relative_url }}">Page, Thornton</a> in “<a href="{{ '/ufo-history/ufo-books/sagan-carl-and-page-thornton-editors-ufos-a-scientific-debate' | relative_url }}">UFO's: A Scientific Debate</a>” (<a href="{{ '/tags/1972' | relative_url }}">1972</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/sagan-carl' | relative_url }}">Carl Sagan</a> and <a href="{{ '/ufo-history/ufo-personalities/page-thornton' | relative_url }}">Thornton Page</a>) (available <a href="http://www.amazon.com/dp/0393007391/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0393007391/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages xvi-xix (in the “Editors’ Introduction”) of the Barnes and Noble hardback edition (with the same page numbering in the Norton paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -142,10 +142,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1974">1974</a></p>
+<p><a href="{{ '/tags/1974' | relative_url }}">1974</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/salisbury-frank">Salisbury, Frank</a> in his “The Utah UFO Display: A Biologist’s Report” (<a href="/tags/1974">1974</a>) (available <a href="http://www.amazon.com/dp/0815970005/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0815970005/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 229-230 (in the Appendix entitled “The Literature of Ufology”), 236-237 (in the Appendix entitled “Annotated Bibliography”) of the Devin Adair hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/salisbury-frank' | relative_url }}">Salisbury, Frank</a> in his “The Utah UFO Display: A Biologist’s Report” (<a href="{{ '/tags/1974' | relative_url }}">1974</a>) (available <a href="http://www.amazon.com/dp/0815970005/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0815970005/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 229-230 (in the Appendix entitled “The Literature of Ufology”), 236-237 (in the Appendix entitled “Annotated Bibliography”) of the Devin Adair hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -153,10 +153,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1989">1989</a></p>
+<p><a href="{{ '/tags/1989' | relative_url }}">1989</a></p>
 </td>
 <td valign="top" width="547">
-<p>Schultz, Ted in “<a href="/ufo-history/ufo-books/schultz-ted-the-fringes-of-reason">The Fringes of Reason</a>” (<a href="/tags/1989">1989</a>) (edited by Ted Schultz) (available <a href="http://www.amazon.com/dp/051757165X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/051757165X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 158 of the Harmony Books softcover edition.</p>
+<p>Schultz, Ted in “<a href="{{ '/ufo-history/ufo-books/schultz-ted-the-fringes-of-reason' | relative_url }}">The Fringes of Reason</a>” (<a href="{{ '/tags/1989' | relative_url }}">1989</a>) (edited by Ted Schultz) (available <a href="http://www.amazon.com/dp/051757165X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/051757165X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 158 of the Harmony Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -164,10 +164,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1987">1987</a></p>
+<p><a href="{{ '/tags/1987' | relative_url }}">1987</a></p>
 </td>
 <td valign="top" width="547">
-<p>Time-Life (Editors of) in “<a href="/ufo-history/ufo-books/time-life-editors-of-the-ufo-phenomenon-mysteries-of-the-unknown">The UFO phenomenon: Mysteries of the Unknown</a>” (<a href="/tags/1987">1987</a>) (available <a href="http://www.amazon.com/dp/0809463245/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0809463245/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 122-123 (in Chapter 5) of the Time-Life Book hardback edition.</p>
+<p>Time-Life (Editors of) in “<a href="{{ '/ufo-history/ufo-books/time-life-editors-of-the-ufo-phenomenon-mysteries-of-the-unknown' | relative_url }}">The UFO phenomenon: Mysteries of the Unknown</a>” (<a href="{{ '/tags/1987' | relative_url }}">1987</a>) (available <a href="http://www.amazon.com/dp/0809463245/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0809463245/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 122-123 (in Chapter 5) of the Time-Life Book hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -175,10 +175,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1977">1977</a></p>
+<p><a href="{{ '/tags/1977' | relative_url }}">1977</a></p>
 </td>
 <td valign="top" width="547">
-<p>Washburn, Mark in his “<a href="/ufo-history/ufo-books/washburn-mark-mars-at-last">Mars at Last!</a>” (<a href="/tags/1977">1977</a>) (available <a href="http://www.amazon.com/dp/0399119353/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0399119353/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 75 (in Chapter 6) of the Abacus paperback edition.</p>
+<p>Washburn, Mark in his “<a href="{{ '/ufo-history/ufo-books/washburn-mark-mars-at-last' | relative_url }}">Mars at Last!</a>” (<a href="{{ '/tags/1977' | relative_url }}">1977</a>) (available <a href="http://www.amazon.com/dp/0399119353/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0399119353/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 75 (in Chapter 6) of the Abacus paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

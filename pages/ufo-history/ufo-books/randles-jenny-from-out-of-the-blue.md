@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0938294083.jpg"}
 book: {"identifiers": ["0938294083", "0743497538"], "primary_isbn": "0938294083", "cover_image": "/book-covers/0938294083.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of “[From Out of the Blue](/ufo-history/ufo-books/randles-jenny-from-out-of-the-blue)” ([1991](/tags/1991)) (available [on Amazon USA](http://www.amazon.com/dp/0938294083/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0938294083/?&tag=ufot-21)) by [Jenny Randles](/ufo-history/ufo-personalities/randles-jenny).
+Brief review to be added of “[From Out of the Blue]({{ '/ufo-history/ufo-books/randles-jenny-from-out-of-the-blue' | relative_url }})” ([1991]({{ '/tags/1991' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0938294083/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0938294083/?&tag=ufot-21)) by [Jenny Randles]({{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}).
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion of this book see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2006">2006</a></p>
+<p><a href="{{ '/tags/2006' | relative_url }}">2006</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/redfern-nicholas">Redfern, Nicholas</a> in his “<a href="/ufo-history/ufo-books/redfern-nicholas-on-the-trail-of-the-saucer-spies">On the Trail of the Saucer Spies : UFOs and Government Surveillance</a>” (<a href="/tags/2006">2006</a>) (available <a href="http://www.amazon.com/dp/0743497538/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743497538/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 175 (in Chapter 10) of the Anomalist Books softcover edition.<strong> </strong></p>
+<p><a href="{{ '/ufo-history/ufo-personalities/redfern-nicholas' | relative_url }}">Redfern, Nicholas</a> in his “<a href="{{ '/ufo-history/ufo-books/redfern-nicholas-on-the-trail-of-the-saucer-spies' | relative_url }}">On the Trail of the Saucer Spies : UFOs and Government Surveillance</a>” (<a href="{{ '/tags/2006' | relative_url }}">2006</a>) (available <a href="http://www.amazon.com/dp/0743497538/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743497538/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 175 (in Chapter 10) of the Anomalist Books softcover edition.<strong> </strong></p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

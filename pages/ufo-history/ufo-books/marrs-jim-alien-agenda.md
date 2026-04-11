@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0060186429.jpg"}
 book: {"identifiers": ["0060186429"], "primary_isbn": "0060186429", "cover_image": "/book-covers/0060186429.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Jim Marrs](/ufo-history/ufo-personalities/marrs-jim)' book “[Alien Agenda](/ufo-history/ufo-books/marrs-jim-alien-agenda)” ([1997](/tags/1997)) (available [on Amazon USA](http://www.amazon.com/dp/0060186429/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0060186429/?&tag=ufot-21))
+Brief review to be added of [Jim Marrs]({{ '/ufo-history/ufo-personalities/marrs-jim' | relative_url }})' book “[Alien Agenda]({{ '/ufo-history/ufo-books/marrs-jim-alien-agenda' | relative_url }})” ([1997]({{ '/tags/1997' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0060186429/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0060186429/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/britain_1.gif"}
 ---
 
-![britain_1](/images/stories/ufo_tags/britain_1.gif)
+![britain_1]({{ '/images/stories/ufo_tags/britain_1.gif' | relative_url }})
 
 *Ilkley Moor photo*
 
@@ -63,10 +63,10 @@ For discussion of Philip Spencer’s Ilkley Moor encounter see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/baker-alan">Baker, Alan</a> in his “<a href="/ufo-history/ufo-books/baker-alan-the-encyclopaedia-of-alien-encounters">The Encyclopaedia of Alien Encounters</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/1852277343/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1852277343/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 113-115 (in an entry entitled “Ilkley Moor, Yorkshire, England”) of the Virgin hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/baker-alan' | relative_url }}">Baker, Alan</a> in his “<a href="{{ '/ufo-history/ufo-books/baker-alan-the-encyclopaedia-of-alien-encounters' | relative_url }}">The Encyclopaedia of Alien Encounters</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/1852277343/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1852277343/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 113-115 (in an entry entitled “Ilkley Moor, Yorkshire, England”) of the Virgin hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -74,10 +74,10 @@ For discussion of Philip Spencer’s Ilkley Moor encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/barclay-david">Barclay, David</a> in his “Aliens: The Final Answer?” (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/0713724986/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713724986/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 142-144 (in Chapter 7) of the Blandford softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/barclay-david' | relative_url }}">Barclay, David</a> in his “Aliens: The Final Answer?” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/0713724986/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713724986/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 142-144 (in Chapter 7) of the Blandford softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -85,10 +85,10 @@ For discussion of Philip Spencer’s Ilkley Moor encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/cawthorne-nigel">Cawthorne, Nigel</a> in “<a href="/ufo-history/ufo-books/cawthorne-nigel-the-worlds-greatest-alien-abduction-mysteries">The World’s Greatest Alien Abduction Mysteries</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/0753704250/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0753704250/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 107-110 (in the chapter entitled “Abductions UK”) of the Chancellor Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/cawthorne-nigel' | relative_url }}">Cawthorne, Nigel</a> in “<a href="{{ '/ufo-history/ufo-books/cawthorne-nigel-the-worlds-greatest-alien-abduction-mysteries' | relative_url }}">The World’s Greatest Alien Abduction Mysteries</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/0753704250/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0753704250/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 107-110 (in the chapter entitled “Abductions UK”) of the Chancellor Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -96,10 +96,10 @@ For discussion of Philip Spencer’s Ilkley Moor encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/cawthorne-nigel">Cawthorne, Nigel</a> in his “<a href="/ufo-history/ufo-books/cawthorne-nigel-the-worlds-greatest-alien-abductions">The World’s Greatest Alien Abductions</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0753700875/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0753700875/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 82-84 (in the chapter entitled “Abductions UK”) of the Hamlyn softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/cawthorne-nigel' | relative_url }}">Cawthorne, Nigel</a> in his “<a href="{{ '/ufo-history/ufo-books/cawthorne-nigel-the-worlds-greatest-alien-abductions' | relative_url }}">The World’s Greatest Alien Abductions</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0753700875/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0753700875/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 82-84 (in the chapter entitled “Abductions UK”) of the Hamlyn softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -107,10 +107,10 @@ For discussion of Philip Spencer’s Ilkley Moor encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/hough-peter">Hough, Peter</a> and Kalman, Moyshe in their “<a href="/ufo-history/ufo-books/hough-peter-and-kalman-moyshe-the-ufo-files-alien-abductions">The UFO Files: Alien Abductions</a>” (<a href="/tags/1999">1999</a>) (previously published under the title “The Truth About Alien Abductions) (available <a href="http://www.amazon.com/dp/0713727977/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713727977/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 38-54 (Chapter 4 generally), 55 (in Chapter 5), 136-137 (in Chapter 11), 186 (in Chapter 17) of the Blandford softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hough-peter' | relative_url }}">Hough, Peter</a> and Kalman, Moyshe in their “<a href="{{ '/ufo-history/ufo-books/hough-peter-and-kalman-moyshe-the-ufo-files-alien-abductions' | relative_url }}">The UFO Files: Alien Abductions</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (previously published under the title “The Truth About Alien Abductions) (available <a href="http://www.amazon.com/dp/0713727977/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713727977/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 38-54 (Chapter 4 generally), 55 (in Chapter 5), 136-137 (in Chapter 11), 186 (in Chapter 17) of the Blandford softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>21</p>
@@ -118,10 +118,10 @@ For discussion of Philip Spencer’s Ilkley Moor encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/mantle-philip">Mantle, Philip</a> and Nagaitis, Carl in their “<a href="/ufo-history/ufo-books/mantle-philip-and-nagaitis-carl-without-consent">Without Consent</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/156924720X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/156924720X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 79-93 (the unnumbered chapter entitled “The <a href="/ufo-history/ufo-books/barry-bill-ultimate-encounter">Ultimate Encounter</a>” generally) of the Ringpull hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/mantle-philip' | relative_url }}">Mantle, Philip</a> and Nagaitis, Carl in their “<a href="{{ '/ufo-history/ufo-books/mantle-philip-and-nagaitis-carl-without-consent' | relative_url }}">Without Consent</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/156924720X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/156924720X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 79-93 (the unnumbered chapter entitled “The <a href="{{ '/ufo-history/ufo-books/barry-bill-ultimate-encounter' | relative_url }}">Ultimate Encounter</a>” generally) of the Ringpull hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>15</p>
@@ -129,10 +129,10 @@ For discussion of Philip Spencer’s Ilkley Moor encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p>Marvels and Mysteries (Editors Of) in “Marvels and Mysteries: Aliens” (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/075251217X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/075251217X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 83 of the Parrallel softcover edition.</p>
+<p>Marvels and Mysteries (Editors Of) in “Marvels and Mysteries: Aliens” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/075251217X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/075251217X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 83 of the Parrallel softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -140,10 +140,10 @@ For discussion of Philip Spencer’s Ilkley Moor encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1993">1993</a></p>
+<p><a href="{{ '/tags/1993' | relative_url }}">1993</a></p>
 </td>
 <td valign="top" width="547">
-<p>O’Connor, Charlotte A in “<a href="/ufo-history/ufo-books/barclay-david-and-barclay-theresa-ufos-the-final-answer">UFOs: The Final Answer?</a>” (<a href="/tags/1993">1993</a>) (edited by David Barclay and Therese Marie Barclay) (available <a href="http://www.amazon.com/dp/0713723629/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713723629/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 163-164, 165-166 (in Chapter 8) of the Blandford softcover edition.</p>
+<p>O’Connor, Charlotte A in “<a href="{{ '/ufo-history/ufo-books/barclay-david-and-barclay-theresa-ufos-the-final-answer' | relative_url }}">UFOs: The Final Answer?</a>” (<a href="{{ '/tags/1993' | relative_url }}">1993</a>) (edited by David Barclay and Therese Marie Barclay) (available <a href="http://www.amazon.com/dp/0713723629/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713723629/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 163-164, 165-166 (in Chapter 8) of the Blandford softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -151,10 +151,10 @@ For discussion of Philip Spencer’s Ilkley Moor encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/pope-nick">Pope, Nick</a> in his “<a href="/ufo-history/ufo-books/pope-nick-the-uninvited">The Uninvited</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0879518782/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879518782/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 88 (in Chapter 5) of the Simon and Schuster hardback edition, with the same page numbering in the Pocket Books paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/pope-nick' | relative_url }}">Pope, Nick</a> in his “<a href="{{ '/ufo-history/ufo-books/pope-nick-the-uninvited' | relative_url }}">The Uninvited</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0879518782/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879518782/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 88 (in Chapter 5) of the Simon and Schuster hardback edition, with the same page numbering in the Pocket Books paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -162,10 +162,10 @@ For discussion of Philip Spencer’s Ilkley Moor encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> and <a href="/ufo-history/ufo-personalities/hough-peter">Hough, Peter</a> in their “<a href="/ufo-history/ufo-books/randles-jenny-and-hough-peter-encyclopedia-of-the-unexplained">Encyclopedia of the Unexplained</a>” (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/1860194095/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1860194095/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 70-71 (in the unnumbered chapter entitled “Space Invaders”), 164, 165-166 (in the unnumbered chapter entitled “Strange Beings”) of the Brockhampton hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> and <a href="{{ '/ufo-history/ufo-personalities/hough-peter' | relative_url }}">Hough, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-hough-peter-encyclopedia-of-the-unexplained' | relative_url }}">Encyclopedia of the Unexplained</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/1860194095/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1860194095/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 70-71 (in the unnumbered chapter entitled “Space Invaders”), 164, 165-166 (in the unnumbered chapter entitled “Strange Beings”) of the Brockhampton hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>
@@ -173,10 +173,10 @@ For discussion of Philip Spencer’s Ilkley Moor encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> and <a href="/ufo-history/ufo-personalities/hough-peter">Hough, Peter</a> in their “<a href="/ufo-history/ufo-books/randles-jenny-and-hough-peter-looking-for-the-aliens">Looking for the Aliens</a>” (<a href="/tags/1991">1991</a>) (available <a href="http://www.amazon.com/dp/0760704406/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0760704406/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 177-180 (in Chapter 19) of the Blandford softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> and <a href="{{ '/ufo-history/ufo-personalities/hough-peter' | relative_url }}">Hough, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-hough-peter-looking-for-the-aliens' | relative_url }}">Looking for the Aliens</a>” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/0760704406/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0760704406/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 177-180 (in Chapter 19) of the Blandford softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>
@@ -184,10 +184,10 @@ For discussion of Philip Spencer’s Ilkley Moor encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> and <a href="/ufo-history/ufo-personalities/hough-peter">Hough, Peter</a> in their “<a href="/ufo-history/ufo-books/randles-jenny-and-hough-peter-the-complete-book-of-ufos">The Complete Book of UFOs</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/0806981326/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806981326/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 208-209 (in Chapter 16), 307-314 (in Chapter 28 generally) of the Piatkus softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> and <a href="{{ '/ufo-history/ufo-personalities/hough-peter' | relative_url }}">Hough, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-hough-peter-the-complete-book-of-ufos' | relative_url }}">The Complete Book of UFOs</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/0806981326/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806981326/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 208-209 (in Chapter 16), 307-314 (in Chapter 28 generally) of the Piatkus softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>10</p>
@@ -195,10 +195,10 @@ For discussion of Philip Spencer’s Ilkley Moor encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-alien-contact-the-first-fifty-years">Alien Contact – The First Fifty Years</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0806904763/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806904763/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 113 (in the chapter entitled “<a href="/tags/1987">1987</a>”) of the Collins and Brown hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-alien-contact-the-first-fifty-years' | relative_url }}">Alien Contact – The First Fifty Years</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0806904763/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806904763/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 113 (in the chapter entitled “<a href="{{ '/tags/1987' | relative_url }}">1987</a>”) of the Collins and Brown hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -206,10 +206,10 @@ For discussion of Philip Spencer’s Ilkley Moor encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1993">1993</a></p>
+<p><a href="{{ '/tags/1993' | relative_url }}">1993</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-aliens">Aliens</a>” (<a href="/tags/1993">1993</a>) (available <a href="http://www.amazon.com/dp/0709050259/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0709050259/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 118-121, 131 (in Part 5), 156 (in Part 6) of the Hale hardback edition (with the same page numbering in the Sterling softcover edition published under the title “Alien Contacts and Abductions”).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-aliens' | relative_url }}">Aliens</a>” (<a href="{{ '/tags/1993' | relative_url }}">1993</a>) (available <a href="http://www.amazon.com/dp/0709050259/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0709050259/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 118-121, 131 (in Part 5), 156 (in Part 6) of the Hale hardback edition (with the same page numbering in the Sterling softcover edition published under the title “Alien Contacts and Abductions”).</p>
 </td>
 <td valign="top" width="52">
 <p>6</p>
@@ -217,10 +217,10 @@ For discussion of Philip Spencer’s Ilkley Moor encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-investigating-the-truth-behind-mib">Investigating the Truth Behind MIB</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0312965214/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312965214/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 134-142 (in Chapter 10) of the Piatkus softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-investigating-the-truth-behind-mib' | relative_url }}">Investigating the Truth Behind MIB</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0312965214/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312965214/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 134-142 (in Chapter 10) of the Piatkus softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>9</p>
@@ -228,10 +228,10 @@ For discussion of Philip Spencer’s Ilkley Moor encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-the-complete-book-of-aliens-and-abductions">The Complete Book of Aliens and Abductions</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0749921005/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0749921005/ref=nosim?tag=ufot-21">on Amazon UK</a>) a pages 110, 111 (in Part 3), 137-138 (in Part 5) of the Piatkus hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-the-complete-book-of-aliens-and-abductions' | relative_url }}">The Complete Book of Aliens and Abductions</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0749921005/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0749921005/ref=nosim?tag=ufot-21">on Amazon UK</a>) a pages 110, 111 (in Part 3), 137-138 (in Part 5) of the Piatkus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -239,10 +239,10 @@ For discussion of Philip Spencer’s Ilkley Moor encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-the-little-giant-encyclopedia-of-ufos">The Little Giant Encyclopedia of UFOs</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/0806918918/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806918918/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 111 (in Part 1, “A UFO Timeline”) of the Sterling softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-the-little-giant-encyclopedia-of-ufos' | relative_url }}">The Little Giant Encyclopedia of UFOs</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/0806918918/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806918918/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 111 (in Part 1, “A UFO Timeline”) of the Sterling softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -250,10 +250,10 @@ For discussion of Philip Spencer’s Ilkley Moor encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-ufos-and-how-to-see-them">UFOs and How to See Them</a>” (<a href="/tags/1992">1992</a>) (available <a href="http://www.amazon.com/dp/0760705496/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0760705496/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 109 (in Chapter 4) of the Brockhampton Press hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-ufos-and-how-to-see-them' | relative_url }}">UFOs and How to See Them</a>” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="http://www.amazon.com/dp/0760705496/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0760705496/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 109 (in Chapter 4) of the Brockhampton Press hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -261,10 +261,10 @@ For discussion of Philip Spencer’s Ilkley Moor encounter see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2006">2006</a></p>
+<p><a href="{{ '/tags/2006' | relative_url }}">2006</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/redfern-nicholas">Redfern, Nicholas</a> in his “<a href="/ufo-history/ufo-books/redfern-nicholas-on-the-trail-of-the-saucer-spies">On the Trail of the Saucer Spies : UFOs and Government Surveillance</a>” (<a href="/tags/2006">2006</a>) (available <a href="http://www.amazon.com/dp/0743497538/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743497538/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 112-113 (in Chapter 6) of the Anomalist Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/redfern-nicholas' | relative_url }}">Redfern, Nicholas</a> in his “<a href="{{ '/ufo-history/ufo-books/redfern-nicholas-on-the-trail-of-the-saucer-spies' | relative_url }}">On the Trail of the Saucer Spies : UFOs and Government Surveillance</a>” (<a href="{{ '/tags/2006' | relative_url }}">2006</a>) (available <a href="http://www.amazon.com/dp/0743497538/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743497538/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 112-113 (in Chapter 6) of the Anomalist Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

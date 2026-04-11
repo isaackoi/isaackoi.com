@@ -19,7 +19,7 @@ Best UFO Cases
 
 ” by Isaac Koi
 
-[PART 15. Qualitative criteria: Introduction](/ufog/best-ufo-cases/15-qualitative-criteria-introduction)
+[PART 15. Qualitative criteria: Introduction]({{ '/ufog/best-ufo-cases/15-qualitative-criteria-introduction' | relative_url }})
 
 Although quite a few lists of “best cases” have been presented by various ufologists and groups, surprisingly few of the relevant ufologists have explained (on a case-by-case basis) why they selected the relevant cases.
 
@@ -41,11 +41,11 @@ Less commonly mentioned are a number of factors which I personally find quite us
 
 Some of the qualitative criteria that have been put forward by various researchers are considered in the following parts of this article:
 
-[PART 16: Qualitative criteria: Credible witnesses](/ufog/best-ufo-cases/16-qualitative-criteria-credible-witnesses)
+[PART 16: Qualitative criteria: Credible witnesses]({{ '/ufog/best-ufo-cases/16-qualitative-criteria-credible-witnesses' | relative_url }})
 
-[PART 17: Qualitative criteria: Multiple witnesses](/ufog/best-ufo-cases/17-qualitative-criteria-multiple-witnesses)
+[PART 17: Qualitative criteria: Multiple witnesses]({{ '/ufog/best-ufo-cases/17-qualitative-criteria-multiple-witnesses' | relative_url }})
 
-[PART 18: Qualitative criteria: Miscellaneous other criteria](/ufog/best-ufo-cases/18-qualitative-criteria-miscellaneous-other-criteria)
+[PART 18: Qualitative criteria: Miscellaneous other criteria]({{ '/ufog/best-ufo-cases/18-qualitative-criteria-miscellaneous-other-criteria' | relative_url }})
 
 It is possible that the general absence of any explanation is due to fuzzy thinking about any relevant selection criteria. In characteristically strident terms, Brad Sparks has commented that: “It is typical of the UFO community to not have its act together,unable to cite the best scientific evidence for UFO's because it does not have the foggiest notion of what ‘best scientific evidence’ looks like or what it means. Typically a UFO enthusiast thinks the ‘best’ cases are simply his favorite pet cases, selected out of emotional sentimental attachment, without any rational scientific basis” [see Footnote 15.01]. He suggested that “if [scientists] were presented a list of scientific criteria for best UFO cases they could assent to them and grasp the strength of the case made based on those criteria.”
 
@@ -81,7 +81,7 @@ The website of one of the most respected UFO organisations of more recent decade
 
 A small number of individual ufologists have also given some explanation of the factors which they would take into account when selecting the “best cases”. Relevant useful comments have been made by various researchers, including Ronald Story, Richard Hall, Brad Sparks and Paul Kimball.
 
-In his interesting book “UFOs and the Limits of Science” (1981), Ronald Story set out a list of ten “best” cases. Story stated that “If anyone were to ‘debunk’ or explain in prosaic terms – to my satisfaction – all ten of these cases, I personally, would no longer regard the UFO phenomenon as worthy of serious study, except in the realm of the behavioral sciences” [see Footnote 15.03]. That list is considered in [PART 6: Consensus lists: Ronald Story’s poll (1979)](/ufog/best-ufo-cases/6-consensus-lists-ronald-storys-poll). In the discussion of that list [see Footnote 15.04], Ronalid Story referred to criteria for selecting the best cases and stated: “My own criteria … are these:
+In his interesting book “UFOs and the Limits of Science” (1981), Ronald Story set out a list of ten “best” cases. Story stated that “If anyone were to ‘debunk’ or explain in prosaic terms – to my satisfaction – all ten of these cases, I personally, would no longer regard the UFO phenomenon as worthy of serious study, except in the realm of the behavioral sciences” [see Footnote 15.03]. That list is considered in [PART 6: Consensus lists: Ronald Story’s poll (1979)]({{ '/ufog/best-ufo-cases/6-consensus-lists-ronald-storys-poll' | relative_url }}). In the discussion of that list [see Footnote 15.04], Ronalid Story referred to criteria for selecting the best cases and stated: “My own criteria … are these:
 
 - All are multiple-witness cases; none requires that we take the word of any single individual.
 
@@ -91,7 +91,7 @@ In his interesting book “UFOs and the Limits of Science” (1981), Ronald Stor
 
 - The descriptions given of alleged anomalies, are, in each case, clearly incompatible with any known phenomenon – i.e. other than UFOs!”
 
-Paul Kimball’s selection of the top 19 cases which he put forward as part of his online poll during March-April 2006 (see [PART 7: Consensus lists: Paul Kimball’s Vox Populi poll (2006)](/ufog/best-ufo-cases/7-consensus-lists-paul-kimballs-vox-populi-poll-2006)), was “limited by the following minimum criteria”:
+Paul Kimball’s selection of the top 19 cases which he put forward as part of his online poll during March-April 2006 (see [PART 7: Consensus lists: Paul Kimball’s Vox Populi poll (2006)]({{ '/ufog/best-ufo-cases/7-consensus-lists-paul-kimballs-vox-populi-poll-2006' | relative_url }})), was “limited by the following minimum criteria”:
 
 “i. Must have multiple witnesses (i.e., corroboration) – this could take the form of a single person who has a sighting that is corroborated by radar, for example, or by communication from an aircraft to ground control;
 
@@ -159,9 +159,9 @@ Text available online at:
 
 [http://www.cohenufo.org/enquir.ufogrps.html](http://www.cohenufo.org/enquir.ufogrps.html)
 
-[15.03] [Ronald Story](/ufo-history/ufo-personalities/story-ronald) in his “UFOs and the Limits of Science” (1981) at page 22 (in the Introduction) of the NEL Hardback edition, at pages 24-25 of the revised Quill softcover edition published under the title “Sightings”.
+[15.03] [Ronald Story]({{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}) in his “UFOs and the Limits of Science” (1981) at page 22 (in the Introduction) of the NEL Hardback edition, at pages 24-25 of the revised Quill softcover edition published under the title “Sightings”.
 
-[15.04] [Ronald Story](/ufo-history/ufo-personalities/story-ronald) in his “UFOs and the Limits of Science” (1981) at page 22 (in the Introduction) of the NEL Hardback edition, at page 25 of the revised Quill softcover edition published under the title “Sightings”.
+[15.04] [Ronald Story]({{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}) in his “UFOs and the Limits of Science” (1981) at page 22 (in the Introduction) of the NEL Hardback edition, at page 25 of the revised Quill softcover edition published under the title “Sightings”.
 
 [15.05] Richard Hall, UFO UpDates discussion List, March 2001.
 

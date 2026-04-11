@@ -40,9 +40,9 @@ Koi UFO Video 091 lasts approximately 10 minutes. It appears to show a mass of w
 
 Screen shots from the video are included below for ease of identification:
 
-![](/images/stories/ufo_videos/video091_1.JPG)
+![]({{ '/images/stories/ufo_videos/video091_1.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video091_2.JPG)
+![]({{ '/images/stories/ufo_videos/video091_2.JPG' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this video
@@ -53,11 +53,11 @@ The original copy of the video had over 400,000 views as at March 2015. A furthe
 
 Nolan Jorgensen is pictured below:
 
-![](/images/stories/ufo_videos/video091_7.JPG)
+![]({{ '/images/stories/ufo_videos/video091_7.JPG' | relative_url }})
 
 Few people that commented on the video appear to have read the description which Nolan Jorgensen wrote to accompany his video, including the fact that the footage was speeded up:
 
-![](/images/stories/ufo_videos/video091_5.JPG)
+![]({{ '/images/stories/ufo_videos/video091_5.JPG' | relative_url }})
 
 <a id="truth"></a>
 ### 3. The real background to this video
@@ -66,9 +66,9 @@ In fact, this video is speeded-up footage of a mass of balloons released from th
 
 Strings from some of the balloons are clearly visible at various points in the footage (with screen shots included below). The string is considerably more visible in the moving video images so I recommend watching the sections from which these screen shots are taken in order to see the strings in all their glory (just after the 1 minutes mark and again just after the 2 minute mark).
 
-![](/images/stories/ufo_videos/video091_3.JPG)
+![]({{ '/images/stories/ufo_videos/video091_3.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video091_4.JPG)
+![]({{ '/images/stories/ufo_videos/video091_4.JPG' | relative_url }})
 
 Furthermore, the person that filmed the balloons, Nolan Jorgensen, himself subsequently confirmed with Carmichael Park that there was a release of balloons during a memorial at Carmichael Park early that evening.
 
@@ -78,7 +78,7 @@ Upon the original posting of the video in 2011, comments were extremely polarise
 
 Some websites include bald assertions that the video shows balloons released during a Family Fun Fest at Carmichael Park that day. However, [details of the Omni Youth Programs's Family Fun Fest which can be found online](http://www.accesssacramento.org/about_us/event_calendars_section/training_workshops.html/event/2011/08/13/-omni-youth-programs-family-fun-fest-) suggest that it took place at 10am to 3pm, thus probably too early to explain the relevant footage.
 
-![](/images/stories/ufo_videos/video091_8.JPG)
+![]({{ '/images/stories/ufo_videos/video091_8.JPG' | relative_url }})
 
 Nolan Jorgensen has stressed this timing issue in relation to the Fun Fest. In one of the comments he wrote on Youtube in relation to his video he stated: "As for the Festival if they did I'm sure it would have been early in the day since it was for children not adults". This apparent timing issue was ignored by people reposting the Fun Fest suggestion. Presumably the obviousness of the balloon explanation led to some people ignoring facts apparently inconsistent with the Fun Fest balloon explanation. (The so-called "will to believe" applies to UFO skeptics as well as to UFO believers...).
 
@@ -86,7 +86,7 @@ However, after continued suggestions that the video showed balloons it seems tha
 
 "I called park event people and asked and the time's for what I filmed don't match up. Unless your telling me I would see this two hour after the release. When there was a 8-10 wind that day".
 
-![](/images/stories/ufo_videos/video091_6.JPG)
+![]({{ '/images/stories/ufo_videos/video091_6.JPG' | relative_url }})
 
 Since in his comments he repeatedly stated that he filmed his video "at 7pm", this implies that he was told that the release during the Memorial was at about 5pm.
 
@@ -103,4 +103,4 @@ Relevant discussions on the AboveTopSecret.com forum include the following:
 
 This video was also discussed [in August 2011 on The Truth Behind the Scenes website](https://thetruthbehindthescenes.wordpress.com/2011/08/20/fleet-of-thousands-of-objects-over-sacramento-ca-a-sign-august-2011/).
 
-![](/images/stories/ufo_videos/video091_2d.jpg)
+![]({{ '/images/stories/ufo_videos/video091_2d.jpg' | relative_url }})

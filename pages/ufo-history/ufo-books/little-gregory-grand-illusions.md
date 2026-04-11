@@ -14,7 +14,7 @@ header: {"preview_image": "https://covers.openlibrary.org/b/isbn/094082910X-L.jp
 book: {"identifiers": ["094082910X"], "primary_isbn": "094082910X", "cover_image": "https://covers.openlibrary.org/b/isbn/094082910X-L.jpg?default=false", "cover_source": "openlibrary"}
 ---
 
-Brief review to be added of Gregory Little's book “[Grand Illusions](/ufo-history/ufo-books/little-gregory-grand-illusions)” ([1994](/tags/1994)) (available [on Amazon USA](http://www.amazon.com/dp/094082910X/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/094082910X/?&tag=ufot-21))
+Brief review to be added of Gregory Little's book “[Grand Illusions]({{ '/ufo-history/ufo-books/little-gregory-grand-illusions' | relative_url }})” ([1994]({{ '/tags/1994' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/094082910X/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/094082910X/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p>Raynes, Brent in Gregory Little’s “<a href="/ufo-history/ufo-books/little-gregory-grand-illusions">Grand Illusions</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/094082910X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/094082910X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages v-vi (in the Foreword) of the White Buffalo softcover edition.</p>
+<p>Raynes, Brent in Gregory Little’s “<a href="{{ '/ufo-history/ufo-books/little-gregory-grand-illusions' | relative_url }}">Grand Illusions</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/094082910X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/094082910X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages v-vi (in the Foreword) of the White Buffalo softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

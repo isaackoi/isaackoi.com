@@ -13,11 +13,11 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/seti_1.jpg"}
 ---
 
-![seti_1](/images/stories/ufo_tags/seti_1.jpg)
+![seti_1]({{ '/images/stories/ufo_tags/seti_1.jpg' | relative_url }})
 
 *Goddard and other worlds*
 
-[SETI](/tags/seti): On 2 January 1902, [Robert H Goddard](/ufo-history/ufo-personalities/goddard-robert-h) publishes an essay entitled “The Habitability of Other Worlds” in which he deduced the existence of extrasolar planetary systems and commented “that among these countless planets there are conditions of heat and light equivalent to those we experience; and if this is the case, and the planet is near our age and size, there may very likely exist human beings like ourselves, probably with strange costumes and still stranger manners”.
+[SETI]({{ '/tags/seti' | relative_url }}): On 2 January 1902, [Robert H Goddard]({{ '/ufo-history/ufo-personalities/goddard-robert-h' | relative_url }}) publishes an essay entitled “The Habitability of Other Worlds” in which he deduced the existence of extrasolar planetary systems and commented “that among these countless planets there are conditions of heat and light equivalent to those we experience; and if this is the case, and the planet is near our age and size, there may very likely exist human beings like ourselves, probably with strange costumes and still stranger manners”.
 
 1. [Web Resources](#web)
 
@@ -57,10 +57,10 @@ For discussion of Goddard’s essay see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1979">1979</a></p>
+<p><a href="{{ '/tags/1979' | relative_url }}">1979</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sagan-carl">Sagan, Carl</a> in his “<a href="/ufo-history/ufo-books/sagan-carl-brocas-brain">Broca’s Brain</a>” (<a href="/tags/1979">1979</a>) (available <a href="http://www.amazon.com/dp/0345336895/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0345336895/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 278-279 (in Chapter 18) of the Coronet paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sagan-carl' | relative_url }}">Sagan, Carl</a> in his “<a href="{{ '/ufo-history/ufo-books/sagan-carl-brocas-brain' | relative_url }}">Broca’s Brain</a>” (<a href="{{ '/tags/1979' | relative_url }}">1979</a>) (available <a href="http://www.amazon.com/dp/0345336895/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0345336895/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 278-279 (in Chapter 18) of the Coronet paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p> </p>

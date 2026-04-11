@@ -13,15 +13,15 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/britain_1.gif"}
 ---
 
-![britain_1](/images/stories/ufo_tags/britain_1.gif)
+![britain_1]({{ '/images/stories/ufo_tags/britain_1.gif' | relative_url }})
 
 *English newspapers*
 
-On 8 October [1950](/tags/1950), several Sunday newspapers in England began to publish extracts of various UFO books.
+On 8 October [1950]({{ '/tags/1950' | relative_url }}), several Sunday newspapers in England began to publish extracts of various UFO books.
 
 The Sunday Express began its serialisation of Gerald Heard’s “Is Another World Watching Us?”.
 
-The Sunday Dispatch published extracts of Frank Scully’s “[Behind the Flying Saucers](/ufo-history/ufo-books/scully-frank-behind-the-flying-saucers)” and [Donald Keyhoe](/ufo-history/ufo-personalities/keyhoe-donald-e)’s “Flying Saucers are Real”.
+The Sunday Dispatch published extracts of Frank Scully’s “[Behind the Flying Saucers]({{ '/ufo-history/ufo-books/scully-frank-behind-the-flying-saucers' | relative_url }})” and [Donald Keyhoe]({{ '/ufo-history/ufo-personalities/keyhoe-donald-e' | relative_url }})’s “Flying Saucers are Real”.
 
 Sections below
 
@@ -61,10 +61,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1955">1955</a></p>
+<p><a href="{{ '/tags/1955' | relative_url }}">1955</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/girvan-waveney">Girvan, Waveney</a> in his “Flying Saucers and Common Sense” (<a href="/tags/1955">1955</a>) (available <a href="http://www.amazon.com/dp/B0007DXIH2/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0007DXIH2/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 50-55 (in Chapter 4) of the Frederick Muller hardback edition (with the same page numbering in the Citadel hardback edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/girvan-waveney' | relative_url }}">Girvan, Waveney</a> in his “Flying Saucers and Common Sense” (<a href="{{ '/tags/1955' | relative_url }}">1955</a>) (available <a href="http://www.amazon.com/dp/B0007DXIH2/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0007DXIH2/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 50-55 (in Chapter 4) of the Frederick Muller hardback edition (with the same page numbering in the Citadel hardback edition).</p>
 </td>
 <td valign="top" width="52">
 <p>6</p>
@@ -72,10 +72,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2007">2007</a></p>
+<p><a href="{{ '/tags/2007' | relative_url }}">2007</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clarke-david">Clarke, David</a> and <a href="/ufo-history/ufo-personalities/roberts-andy">Roberts, Andy</a> in their “<a href="/ufo-history/ufo-books/clarke-david-and-roberts-andy-flying-saucerers">Flying Saucerers : A social history of UFOlogy</a>” (<a href="/tags/2007">2007</a>) (available <a href="http://www.amazon.com/dp/1905646003/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1905646003/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 20-24 (in Chapter 2) of the Alternative Albion softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clarke-david' | relative_url }}">Clarke, David</a> and <a href="{{ '/ufo-history/ufo-personalities/roberts-andy' | relative_url }}">Roberts, Andy</a> in their “<a href="{{ '/ufo-history/ufo-books/clarke-david-and-roberts-andy-flying-saucerers' | relative_url }}">Flying Saucerers : A social history of UFOlogy</a>” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (available <a href="http://www.amazon.com/dp/1905646003/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1905646003/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 20-24 (in Chapter 2) of the Alternative Albion softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>
@@ -83,10 +83,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2002">2002</a></p>
+<p><a href="{{ '/tags/2002' | relative_url }}">2002</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clarke-david">Clarke, David</a> and <a href="/ufo-history/ufo-personalities/roberts-andy">Roberts, Andy</a> in their “<a href="file:///C:\Users\homelap\Documents\koi\Notes%20active%20files%20-%20videos%20photos%20etc\v">Out Of The Shadows</a>” (<a href="/tags/2002">2002</a>) (available <a href="http://www.amazon.com/dp/0749922907/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0749922907/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 54, 55, 56 (in Chapter 3) of the Piatkus hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clarke-david' | relative_url }}">Clarke, David</a> and <a href="{{ '/ufo-history/ufo-personalities/roberts-andy' | relative_url }}">Roberts, Andy</a> in their “<a href="file:///C:\Users\homelap\Documents\koi\Notes%20active%20files%20-%20videos%20photos%20etc\v">Out Of The Shadows</a>” (<a href="{{ '/tags/2002' | relative_url }}">2002</a>) (available <a href="http://www.amazon.com/dp/0749922907/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0749922907/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 54, 55, 56 (in Chapter 3) of the Piatkus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>

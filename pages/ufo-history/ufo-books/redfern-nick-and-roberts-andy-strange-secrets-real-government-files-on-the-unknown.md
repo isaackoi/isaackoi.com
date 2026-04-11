@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0743469763.jpg"}
 book: {"identifiers": ["0743469763", "0743482549"], "primary_isbn": "0743469763", "cover_image": "/book-covers/0743469763.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of “[Strange Secrets: Real Government Files on the Unknown](/ufo-history/ufo-books/redfern-nick-and-roberts-andy-strange-secrets-real-government-files-on-the-unknown)” ([2003](/tags/2003)) (available [on Amazon USA](http://www.amazon.com/dp/0743469763/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0743469763/?&tag=ufot-21)) by [Nicholas Redfern](/ufo-history/ufo-personalities/redfern-nicholas) and [Andy Roberts](/ufo-history/ufo-personalities/roberts-andy).
+Brief review to be added of “[Strange Secrets: Real Government Files on the Unknown]({{ '/ufo-history/ufo-books/redfern-nick-and-roberts-andy-strange-secrets-real-government-files-on-the-unknown' | relative_url }})” ([2003]({{ '/tags/2003' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0743469763/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0743469763/?&tag=ufot-21)) by [Nicholas Redfern]({{ '/ufo-history/ufo-personalities/redfern-nicholas' | relative_url }}) and [Andy Roberts]({{ '/ufo-history/ufo-personalities/roberts-andy' | relative_url }}).
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2004">2004</a></p>
+<p><a href="{{ '/tags/2004' | relative_url }}">2004</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/redfern-nicholas">Redfern, Nicholas</a> in his “<a href="/ufo-history/ufo-books/redfern-nicholas-three-men-seeking-monsters">Three Men Seeking Monsters</a>” (<a href="/tags/2004">2004</a>) (available <a href="http://www.amazon.com/dp/0743482549/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743482549/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 153 (in Chapter 11) of the Paraview Pocket Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/redfern-nicholas' | relative_url }}">Redfern, Nicholas</a> in his “<a href="{{ '/ufo-history/ufo-books/redfern-nicholas-three-men-seeking-monsters' | relative_url }}">Three Men Seeking Monsters</a>” (<a href="{{ '/tags/2004' | relative_url }}">2004</a>) (available <a href="http://www.amazon.com/dp/0743482549/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743482549/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 153 (in Chapter 11) of the Paraview Pocket Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

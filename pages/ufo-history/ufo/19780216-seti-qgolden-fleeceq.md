@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/seti_1.jpg"}
 ---
 
-![seti_1](/images/stories/ufo_tags/seti_1.jpg)
+![seti_1]({{ '/images/stories/ufo_tags/seti_1.jpg' | relative_url }})
 
 *SETI "Golden Fleece"*
 
@@ -79,10 +79,10 @@ For discussion of Proxmire and/or the associated cut in SETI funding see the fol
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Achenbach, Joel in his “<a href="/ufo-history/ufo-books/achenbach-joel-captured-by-aliens">Captured by Aliens</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0684848562/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684848562/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 65 (in Chapter 6) of the Simon and Schuster hardback edition.</p>
+<p>Achenbach, Joel in his “<a href="{{ '/ufo-history/ufo-books/achenbach-joel-captured-by-aliens' | relative_url }}">Captured by Aliens</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0684848562/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684848562/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 65 (in Chapter 6) of the Simon and Schuster hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -90,10 +90,10 @@ For discussion of Proxmire and/or the associated cut in SETI funding see the fol
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/berry-adrian">Berry, Adrian</a> in his “<a href="/ufo-history/ufo-books/berry-adrian-from-apes-to-astronauts">From Apes to Astronauts</a>” (<a href="/tags/1980">1980</a>) at pages 80-81 (in the unnumbered chapter entitled “The unkindest cut of all”) of the Daily Telegraph paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/berry-adrian' | relative_url }}">Berry, Adrian</a> in his “<a href="{{ '/ufo-history/ufo-books/berry-adrian-from-apes-to-astronauts' | relative_url }}">From Apes to Astronauts</a>” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) at pages 80-81 (in the unnumbered chapter entitled “The unkindest cut of all”) of the Daily Telegraph paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -101,10 +101,10 @@ For discussion of Proxmire and/or the associated cut in SETI funding see the fol
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="547">
-<p>Billings, Linda in “First Contact” (<a href="/tags/1990">1990</a>) (edited by <a href="/ufo-history/ufo-personalities/bova-ben">Ben Bova</a> and Byron Preiss) (available <a href="http://www.amazon.com/dp/0747235082/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0747235082/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 223-224, 231, 233 (in Chapter 7) of the NAL Books hardback edition, at pages 280, 292, 294-295 of the Headline paperback edition.</p>
+<p>Billings, Linda in “First Contact” (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/bova-ben' | relative_url }}">Ben Bova</a> and Byron Preiss) (available <a href="http://www.amazon.com/dp/0747235082/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0747235082/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 223-224, 231, 233 (in Chapter 7) of the NAL Books hardback edition, at pages 280, 292, 294-295 of the Headline paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -112,10 +112,10 @@ For discussion of Proxmire and/or the associated cut in SETI funding see the fol
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Davidson, Keay in his “<a href="/ufo-history/ufo-personalities/sagan-carl">Carl Sagan</a>: A Life” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0471395366/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0471395366/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 348 (in Chapter 14), 483-484 (in the Notes) of the Wiley softcover edition.</p>
+<p>Davidson, Keay in his “<a href="{{ '/ufo-history/ufo-personalities/sagan-carl' | relative_url }}">Carl Sagan</a>: A Life” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0471395366/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0471395366/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 348 (in Chapter 14), 483-484 (in the Notes) of the Wiley softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -123,10 +123,10 @@ For discussion of Proxmire and/or the associated cut in SETI funding see the fol
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/dick-steven-j">Dick, Steven J</a> in his “<a href="/ufo-history/ufo-books/dick-steven-j-the-biological-universe">The Biological Universe</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/0521343267/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521343267/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 498 (in Chapter 9) of the Cambridge hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dick-steven-j' | relative_url }}">Dick, Steven J</a> in his “<a href="{{ '/ufo-history/ufo-books/dick-steven-j-the-biological-universe' | relative_url }}">The Biological Universe</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/0521343267/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521343267/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 498 (in Chapter 9) of the Cambridge hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -134,10 +134,10 @@ For discussion of Proxmire and/or the associated cut in SETI funding see the fol
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/drake-frank">Drake, Frank</a> and Sobel, Dava in their “<a href="/ufo-history/ufo-books/drake-frank-and-sobel-dava-is-anyone-out-there">Is Anyone Out There?</a>“ (<a href="/tags/1991">1991</a>) (available <a href="http://www.amazon.com/dp/038530532X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/038530532X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 191-196 (in Chapter 9) of the Pocket Books paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/drake-frank' | relative_url }}">Drake, Frank</a> and Sobel, Dava in their “<a href="{{ '/ufo-history/ufo-books/drake-frank-and-sobel-dava-is-anyone-out-there' | relative_url }}">Is Anyone Out There?</a>“ (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/038530532X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/038530532X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 191-196 (in Chapter 9) of the Pocket Books paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>6</p>
@@ -145,10 +145,10 @@ For discussion of Proxmire and/or the associated cut in SETI funding see the fol
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1978">1978</a></p>
+<p><a href="{{ '/tags/1978' | relative_url }}">1978</a></p>
 </td>
 <td valign="top" width="547">
-<p>Edelson, Edward in his “Who Goes There?” (<a href="/tags/1978">1978</a>) (available <a href="http://www.amazon.com/dp/0385112572/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0385112572/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 150 (in Chapter 11) of the NEL paperback edition (with the same page numbering in the NEL paperback edition combining this book and Chris Boyce’s “Extraterrestrial Encounter).</p>
+<p>Edelson, Edward in his “Who Goes There?” (<a href="{{ '/tags/1978' | relative_url }}">1978</a>) (available <a href="http://www.amazon.com/dp/0385112572/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0385112572/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 150 (in Chapter 11) of the NEL paperback edition (with the same page numbering in the NEL paperback edition combining this book and Chris Boyce’s “Extraterrestrial Encounter).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -156,10 +156,10 @@ For discussion of Proxmire and/or the associated cut in SETI funding see the fol
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p>Feinberg, Gerald and <a href="/ufo-history/ufo-personalities/shapiro-robert">Shapiro, Robert</a> in their “Life Beyond Earth” (<a href="/tags/1980">1980</a>) (available <a href="http://www.amazon.com/dp/0688036422/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0688036422/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 417-418 (in Chapter 14) of the Morrow hardback edition.</p>
+<p>Feinberg, Gerald and <a href="{{ '/ufo-history/ufo-personalities/shapiro-robert' | relative_url }}">Shapiro, Robert</a> in their “Life Beyond Earth” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) (available <a href="http://www.amazon.com/dp/0688036422/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0688036422/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 417-418 (in Chapter 14) of the Morrow hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -167,10 +167,10 @@ For discussion of Proxmire and/or the associated cut in SETI funding see the fol
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p>Halpern, Paul in his “The Quest For Alien Planets” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0738208906/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0738208906/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 248, 256, 258 (in Chapter 8) of the Plenum Trade hardback edition.</p>
+<p>Halpern, Paul in his “The Quest For Alien Planets” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0738208906/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0738208906/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 248, 256, 258 (in Chapter 8) of the Plenum Trade hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -178,10 +178,10 @@ For discussion of Proxmire and/or the associated cut in SETI funding see the fol
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1989">1989</a></p>
+<p><a href="{{ '/tags/1989' | relative_url }}">1989</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/jastrow-robert">Jastrow, Robert</a> in his “Journey to the Stars: Space Exploration - Tomorrow and Beyond” (<a href="/tags/1989">1989</a>) (available <a href="http://www.amazon.com/dp/0553053868/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0553053868/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 190 (in Chapter 14) of the Bantam softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/jastrow-robert' | relative_url }}">Jastrow, Robert</a> in his “Journey to the Stars: Space Exploration - Tomorrow and Beyond” (<a href="{{ '/tags/1989' | relative_url }}">1989</a>) (available <a href="http://www.amazon.com/dp/0553053868/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0553053868/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 190 (in Chapter 14) of the Bantam softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -189,10 +189,10 @@ For discussion of Proxmire and/or the associated cut in SETI funding see the fol
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p>Lamb, David in his “<a href="/ufo-history/ufo-books/lamb-david-the-search-of-extraterrestrial-intelligence-a-philosophical-inquiry">The Search for Extraterrestrial Intelligence : A Philosophical Inquiry</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/0415243424/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0415243424/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 40 (in Chapter 2) of the Routledge softcover edition.</p>
+<p>Lamb, David in his “<a href="{{ '/ufo-history/ufo-books/lamb-david-the-search-of-extraterrestrial-intelligence-a-philosophical-inquiry' | relative_url }}">The Search for Extraterrestrial Intelligence : A Philosophical Inquiry</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/0415243424/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0415243424/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 40 (in Chapter 2) of the Routledge softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -200,10 +200,10 @@ For discussion of Proxmire and/or the associated cut in SETI funding see the fol
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p>Lemonick, Michael in his “<a href="/ufo-history/ufo-books/sagan-carl-other-worlds">Other Worlds</a>“ (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0684832941/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684832941/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 230 (in Chapter 13) of the Simon &amp; Schuster hardback edition (with the same page numbering in the Simon &amp; Schuster softcover edition).</p>
+<p>Lemonick, Michael in his “<a href="{{ '/ufo-history/ufo-books/sagan-carl-other-worlds' | relative_url }}">Other Worlds</a>“ (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0684832941/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684832941/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 230 (in Chapter 13) of the Simon &amp; Schuster hardback edition (with the same page numbering in the Simon &amp; Schuster softcover edition).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -211,10 +211,10 @@ For discussion of Proxmire and/or the associated cut in SETI funding see the fol
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1987">1987</a></p>
+<p><a href="{{ '/tags/1987' | relative_url }}">1987</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/mcdonough-thomas-r">McDonough, Thomas R</a> in his “The Search for Extraterrestrial Intelligence - Listening for Life in the Cosmos” (<a href="/tags/1987">1987</a>) (available <a href="http://www.amazon.com/dp/0471846848/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0471846848/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 145-148, 149-152 (in Chapter 10) of the Wiley softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/mcdonough-thomas-r' | relative_url }}">McDonough, Thomas R</a> in his “The Search for Extraterrestrial Intelligence - Listening for Life in the Cosmos” (<a href="{{ '/tags/1987' | relative_url }}">1987</a>) (available <a href="http://www.amazon.com/dp/0471846848/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0471846848/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 145-148, 149-152 (in Chapter 10) of the Wiley softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>8</p>
@@ -222,10 +222,10 @@ For discussion of Proxmire and/or the associated cut in SETI funding see the fol
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Poundstone, William in his “<a href="/ufo-history/ufo-books/poundstone-william-carl-sagan-a-life-in-the-cosmos">Carl Sagan: A Life in the Cosmos</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0805057668/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0805057668/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 272-273 (in the chapter entitled “Los Angeles <a href="/tags/1978">1978</a>-81”) of the Owl Books softcover edition.</p>
+<p>Poundstone, William in his “<a href="{{ '/ufo-history/ufo-books/poundstone-william-carl-sagan-a-life-in-the-cosmos' | relative_url }}">Carl Sagan: A Life in the Cosmos</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0805057668/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0805057668/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 272-273 (in the chapter entitled “Los Angeles <a href="{{ '/tags/1978' | relative_url }}">1978</a>-81”) of the Owl Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -233,10 +233,10 @@ For discussion of Proxmire and/or the associated cut in SETI funding see the fol
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sagan-carl">Sagan, Carl</a> in his “<a href="/ufo-history/ufo-books/sagan-carl-the-demon-haunted-world">The Demon Haunted World</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0345409469/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0345409469/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 374 (in Chapter 23) of the Headline softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sagan-carl' | relative_url }}">Sagan, Carl</a> in his “<a href="{{ '/ufo-history/ufo-books/sagan-carl-the-demon-haunted-world' | relative_url }}">The Demon Haunted World</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0345409469/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0345409469/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 374 (in Chapter 23) of the Headline softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -244,10 +244,10 @@ For discussion of Proxmire and/or the associated cut in SETI funding see the fol
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/seeger-charles">Seeger, Charles</a> L in an interview in David W Swift’s “<a href="/ufo-history/ufo-books/swift-david-w-seti-pioneers-scientists-talk-about-their-search-for-extraterrestrial-intelligence">SETI Pioneers : Scientists Talk About Their Search for Extraterrestrial Intelligence</a>” (<a href="/tags/1990">1990</a>) (available <a href="http://www.amazon.com/dp/0816511195/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0816511195/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 300-301 (in the unnumbered chapter entitled “Charles L Seeger”) of the Arizona hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/seeger-charles' | relative_url }}">Seeger, Charles</a> L in an interview in David W Swift’s “<a href="{{ '/ufo-history/ufo-books/swift-david-w-seti-pioneers-scientists-talk-about-their-search-for-extraterrestrial-intelligence' | relative_url }}">SETI Pioneers : Scientists Talk About Their Search for Extraterrestrial Intelligence</a>” (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) (available <a href="http://www.amazon.com/dp/0816511195/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0816511195/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 300-301 (in the unnumbered chapter entitled “Charles L Seeger”) of the Arizona hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -255,10 +255,10 @@ For discussion of Proxmire and/or the associated cut in SETI funding see the fol
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sheaffer-robert">Sheaffer, Robert</a> in his “<a href="/ufo-history/ufo-books/sheaffer-robert-ufo-sightings-the-evidence">UFO Sightings: The Evidence</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/1573922137/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573922137/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 180 of the Prometheus hardback edition (Chapter 12).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sheaffer-robert' | relative_url }}">Sheaffer, Robert</a> in his “<a href="{{ '/ufo-history/ufo-books/sheaffer-robert-ufo-sightings-the-evidence' | relative_url }}">UFO Sightings: The Evidence</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/1573922137/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573922137/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 180 of the Prometheus hardback edition (Chapter 12).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -266,10 +266,10 @@ For discussion of Proxmire and/or the associated cut in SETI funding see the fol
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/shostak-seth">Shostak, Seth</a> in his “<a href="/ufo-history/ufo-books/shostak-seth-sharing-the-universe">Sharing the Universe</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0965377431/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0965377431/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 160-161 (in Chapter 8) of the Berkeley Hills softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/shostak-seth' | relative_url }}">Shostak, Seth</a> in his “<a href="{{ '/ufo-history/ufo-books/shostak-seth-sharing-the-universe' | relative_url }}">Sharing the Universe</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0965377431/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0965377431/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 160-161 (in Chapter 8) of the Berkeley Hills softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -277,10 +277,10 @@ For discussion of Proxmire and/or the associated cut in SETI funding see the fol
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p>Ward, Peter and Brownlee, Don in their “<a href="/ufo-history/ufo-books/ward-peter-and-brownlee-don-rare-earth">Rare Earth</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/0387952896/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0387952896/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 250-251 (in Chapter 11) of the Copernicus softcover edition.</p>
+<p>Ward, Peter and Brownlee, Don in their “<a href="{{ '/ufo-history/ufo-books/ward-peter-and-brownlee-don-rare-earth' | relative_url }}">Rare Earth</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/0387952896/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0387952896/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 250-251 (in Chapter 11) of the Copernicus softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -288,10 +288,10 @@ For discussion of Proxmire and/or the associated cut in SETI funding see the fol
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2005">2005</a></p>
+<p><a href="{{ '/tags/2005' | relative_url }}">2005</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/wood-ryan">Wood, Ryan</a> in his “<a href="/ufo-history/ufo-books/wood-ryan-majic-eyes-only">MAJIC Eyes Only</a>” (<a href="/tags/2005">2005</a>) (available <a href="http://www.amazon.com/dp/0977205908/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0977205908/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 227 of the Wood Enterprises hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/wood-ryan' | relative_url }}">Wood, Ryan</a> in his “<a href="{{ '/ufo-history/ufo-books/wood-ryan-majic-eyes-only' | relative_url }}">MAJIC Eyes Only</a>” (<a href="{{ '/tags/2005' | relative_url }}">2005</a>) (available <a href="http://www.amazon.com/dp/0977205908/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0977205908/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 227 of the Wood Enterprises hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

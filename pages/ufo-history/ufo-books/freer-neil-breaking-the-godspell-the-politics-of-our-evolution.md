@@ -14,7 +14,7 @@ header: {"preview_image": "https://covers.openlibrary.org/b/isbn/1885395361-L.jp
 book: {"identifiers": ["1885395361"], "primary_isbn": "1885395361", "cover_image": "https://covers.openlibrary.org/b/isbn/1885395361-L.jpg?default=false", "cover_source": "openlibrary"}
 ---
 
-Brief review to be added of Neil Freer's book “[Breaking the Godspell: The Politics of Our Evolution](/ufo-history/ufo-books/freer-neil-breaking-the-godspell-the-politics-of-our-evolution)” ([1987](/tags/1987)) (available [on Amazon USA](http://www.amazon.com/dp/1885395361/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1885395361/?&tag=ufot-21)).
+Brief review to be added of Neil Freer's book “[Breaking the Godspell: The Politics of Our Evolution]({{ '/ufo-history/ufo-books/freer-neil-breaking-the-godspell-the-politics-of-our-evolution' | relative_url }})” ([1987]({{ '/tags/1987' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1885395361/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1885395361/?&tag=ufot-21)).
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1987">1987</a></p>
+<p><a href="{{ '/tags/1987' | relative_url }}">1987</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sitchin-zecharia">Sitchin, Zecharia</a> in Neil Freer’s “Breaking the Godspell” (<a href="/tags/1987">1987</a>) at pages iii-iv (in the Introduction) of the New Falcon softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sitchin-zecharia' | relative_url }}">Sitchin, Zecharia</a> in Neil Freer’s “Breaking the Godspell” (<a href="{{ '/tags/1987' | relative_url }}">1987</a>) at pages iii-iv (in the Introduction) of the New Falcon softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

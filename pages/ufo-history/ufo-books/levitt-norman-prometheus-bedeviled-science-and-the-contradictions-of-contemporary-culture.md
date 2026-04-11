@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0813526523.jpg"}
 book: {"identifiers": ["0813526523"], "primary_isbn": "0813526523", "cover_image": "/book-covers/0813526523.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of Norman Levitt's book “[Prometheus Bedeviled: Science and the Contradictions of Contemporary Culture](/ufo-history/ufo-books/levitt-norman-prometheus-bedeviled-science-and-the-contradictions-of-contemporary-culture)” ([1999](/tags/1999)) (available [on Amazon USA](http://www.amazon.com/dp/0813526523/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0813526523/?&tag=ufot-21))
+Brief review to be added of Norman Levitt's book “[Prometheus Bedeviled: Science and the Contradictions of Contemporary Culture]({{ '/ufo-history/ufo-books/levitt-norman-prometheus-bedeviled-science-and-the-contradictions-of-contemporary-culture' | relative_url }})” ([1999]({{ '/tags/1999' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0813526523/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0813526523/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

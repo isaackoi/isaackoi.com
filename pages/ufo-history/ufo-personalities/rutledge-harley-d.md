@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/no_avatar.jpg"}
 ---
 
-![](/images/stories/no_avatar.jpg)
+![]({{ '/images/stories/no_avatar.jpg' | relative_url }})
 
 *Image needed*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1981">1981</a></p>
+<p><a href="{{ '/tags/1981' | relative_url }}">1981</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/rutledge-harley-d">Rutledge, Harley D</a> “<a href="/ufo-history/ufo-books/rutledge-harley-d-project-identification">Project Identification</a>” (<a href="/tags/1981">1981</a>) (available <a href="http://www.amazon.com/dp/0137307136/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0137307136/?&amp;tag=ufot-21">on Amazon UK</a>).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/rutledge-harley-d' | relative_url }}">Rutledge, Harley D</a> “<a href="{{ '/ufo-history/ufo-books/rutledge-harley-d-project-identification' | relative_url }}">Project Identification</a>” (<a href="{{ '/tags/1981' | relative_url }}">1981</a>) (available <a href="http://www.amazon.com/dp/0137307136/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0137307136/?&amp;tag=ufot-21">on Amazon UK</a>).</p>
 </td>
 </tr>
 </tbody>
@@ -59,7 +59,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-See the references provided in the entry for Rutledge's book “[Project Identification](/ufo-history/ufo-books/rutledge-harley-d-project-identification)” ([1981](/tags/1981)).
+See the references provided in the entry for Rutledge's book “[Project Identification]({{ '/ufo-history/ufo-books/rutledge-harley-d-project-identification' | relative_url }})” ([1981]({{ '/tags/1981' | relative_url }})).
 
 <a id="other"></a>
 ### Other Material

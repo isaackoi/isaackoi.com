@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/dames_ed_3.jpg"}
 ---
 
-![dames_ed_3](/images/stories/ufo_personalities/dames_ed_3.jpg)
+![dames_ed_3]({{ '/images/stories/ufo_personalities/dames_ed_3.jpg' | relative_url }})
 
 *Ed Dames*
 
@@ -59,10 +59,10 @@ For discussion of Ed Dames see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2003">2003</a></p>
+<p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/buchanan-lyn">Buchanan, Lyn</a> in his “<a href="/ufo-history/ufo-books/buchanan-lyn-the-seventh-sense-the-secrets-of-remote-viewing-as-told-by-a-psychic-spy-for-the-us-military">The Seventh Sense: The Secrets of Remote Viewing as Told by a Psychic Spy for the US Military</a>” (<a href="/tags/2003">2003</a>) (available <a href="http://www.amazon.com/dp/0743462688/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743462688/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 61-64 (in Chapter 5), 69, 72 (in Chapter 6), 146-149 (in Chapter 13) of the Paraview Pocket Books softcover edition. (The pseudonym “Ted” is used to refer to Dames in this book).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/buchanan-lyn' | relative_url }}">Buchanan, Lyn</a> in his “<a href="{{ '/ufo-history/ufo-books/buchanan-lyn-the-seventh-sense-the-secrets-of-remote-viewing-as-told-by-a-psychic-spy-for-the-us-military' | relative_url }}">The Seventh Sense: The Secrets of Remote Viewing as Told by a Psychic Spy for the US Military</a>” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) (available <a href="http://www.amazon.com/dp/0743462688/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743462688/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 61-64 (in Chapter 5), 69, 72 (in Chapter 6), 146-149 (in Chapter 13) of the Paraview Pocket Books softcover edition. (The pseudonym “Ted” is used to refer to Dames in this book).</p>
 </td>
 <td valign="top" width="52">
 <p>10</p>
@@ -70,10 +70,10 @@ For discussion of Ed Dames see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p>Hansen, George P in his “The Trickster and the Paranormal” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/1401000827/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1401000827/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 168, 169-170, 237-238, 244, 451 of the Xlibris softcover edition.</p>
+<p>Hansen, George P in his “The Trickster and the Paranormal” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/1401000827/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1401000827/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 168, 169-170, 237-238, 244, 451 of the Xlibris softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>7</p>
@@ -81,10 +81,10 @@ For discussion of Ed Dames see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2007">2007</a></p>
+<p><a href="{{ '/tags/2007' | relative_url }}">2007</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/marrs-jim">Marrs, Jim</a> in his “<a href="/ufo-history/ufo-books/marrs-jim-psi-spies-the-true-story-of-americas-psychic-warfare-program">PSI Spies: The True Story of America’s Psychic Warfare Program</a>” (<a href="/tags/2007">2007</a>) (available <a href="http://www.amazon.com/dp/1564149609/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1564149609/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 11-12, 13-14, 16-17 (in the Preface), 219, 220 (in Chapter 8), 278-279 (in the Epilogue) of the New Page Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/marrs-jim' | relative_url }}">Marrs, Jim</a> in his “<a href="{{ '/ufo-history/ufo-books/marrs-jim-psi-spies-the-true-story-of-americas-psychic-warfare-program' | relative_url }}">PSI Spies: The True Story of America’s Psychic Warfare Program</a>” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (available <a href="http://www.amazon.com/dp/1564149609/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1564149609/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 11-12, 13-14, 16-17 (in the Preface), 219, 220 (in Chapter 8), 278-279 (in the Epilogue) of the New Page Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>8</p>
@@ -92,10 +92,10 @@ For discussion of Ed Dames see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2003">2003</a></p>
+<p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/marrs-jim">Marrs, Jim</a> in <a href="/ufo-history/ufo-personalities/buchanan-lyn">Buchanan, Lyn</a>’s “<a href="/ufo-history/ufo-books/buchanan-lyn-the-seventh-sense-the-secrets-of-remote-viewing-as-told-by-a-psychic-spy-for-the-us-military">The Seventh Sense: The Secrets of Remote Viewing as Told by a Psychic Spy for the US Military</a>” (<a href="/tags/2003">2003</a>) (available <a href="http://www.amazon.com/dp/0743462688/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743462688/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages viii-x (in the Foreword) of the Paraview Pocket Books softcover edition. [Dames is not named, but is clearly identifiable].</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/marrs-jim' | relative_url }}">Marrs, Jim</a> in <a href="{{ '/ufo-history/ufo-personalities/buchanan-lyn' | relative_url }}">Buchanan, Lyn</a>’s “<a href="{{ '/ufo-history/ufo-books/buchanan-lyn-the-seventh-sense-the-secrets-of-remote-viewing-as-told-by-a-psychic-spy-for-the-us-military' | relative_url }}">The Seventh Sense: The Secrets of Remote Viewing as Told by a Psychic Spy for the US Military</a>” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) (available <a href="http://www.amazon.com/dp/0743462688/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743462688/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages viii-x (in the Foreword) of the Paraview Pocket Books softcover edition. [Dames is not named, but is clearly identifiable].</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -103,10 +103,10 @@ For discussion of Ed Dames see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2004">2004</a></p>
+<p><a href="{{ '/tags/2004' | relative_url }}">2004</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/ronson-jon">Ronson, Jon</a> in his “<a href="/ufo-history/ufo-books/ronson-jon-the-men-who-stare-at-goats">The Men Who Stare at Goats</a>” (<a href="/tags/2004">2004</a>) (available <a href="http://www.amazon.com/dp/0330375482/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0330375482/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 80 (in Chapter 5), 97, 99-112, 122-123 (in Chapter 6), 262, 264 (in Chapter 16) of the Picador paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/ronson-jon' | relative_url }}">Ronson, Jon</a> in his “<a href="{{ '/ufo-history/ufo-books/ronson-jon-the-men-who-stare-at-goats' | relative_url }}">The Men Who Stare at Goats</a>” (<a href="{{ '/tags/2004' | relative_url }}">2004</a>) (available <a href="http://www.amazon.com/dp/0330375482/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0330375482/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 80 (in Chapter 5), 97, 99-112, 122-123 (in Chapter 6), 262, 264 (in Chapter 16) of the Picador paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>20</p>
@@ -114,10 +114,10 @@ For discussion of Ed Dames see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/schnabel-jim">Schnabel, Jim</a> in his “<a href="/ufo-history/ufo-books/schnabel-jim-remote-viewers-the-secret-history-of-americas-psychic-spies">Remote Viewers : The Secret History of America’s Psychic Spies</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0440614058/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0440614058/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 290-293, 294, 297-306 (in Chapter 19), 309, 319 (in Chapter 20), 327, 329, 335-336, 341 (in Chapter 21), 350-356, 362-370 (in Chapter 22), 372, 376-379, 383-385 (in the Epilogue) of the Dell paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/schnabel-jim' | relative_url }}">Schnabel, Jim</a> in his “<a href="{{ '/ufo-history/ufo-books/schnabel-jim-remote-viewers-the-secret-history-of-americas-psychic-spies' | relative_url }}">Remote Viewers : The Secret History of America’s Psychic Spies</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0440614058/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0440614058/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 290-293, 294, 297-306 (in Chapter 19), 309, 319 (in Chapter 20), 327, 329, 335-336, 341 (in Chapter 21), 350-356, 362-370 (in Chapter 22), 372, 376-379, 383-385 (in the Epilogue) of the Dell paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>46</p>
@@ -125,10 +125,10 @@ For discussion of Ed Dames see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2005">2005</a></p>
+<p><a href="{{ '/tags/2005' | relative_url }}">2005</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/smith-paul">Smith, Paul</a> in his “<a href="/ufo-history/ufo-books/smith-paul-reading-the-enemys-mind">Reading the Enemy’s Mind</a>” (<a href="/tags/2005">2005</a>) (available <a href="http://www.amazon.com/dp/0312875150/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312875150/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 143-146, 150, 152-153, 164, 190-191, 213-214, 227, 229-230, 231, 235, 249, 269, 281-284, 293-294, 302-306, 307-308, 309, 310-311, 342-346, 365-366, 376-377, 382-383, 411-413, 425-428, 436-437, 456-458, 460-462 of the Forge hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/smith-paul' | relative_url }}">Smith, Paul</a> in his “<a href="{{ '/ufo-history/ufo-books/smith-paul-reading-the-enemys-mind' | relative_url }}">Reading the Enemy’s Mind</a>” (<a href="{{ '/tags/2005' | relative_url }}">2005</a>) (available <a href="http://www.amazon.com/dp/0312875150/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312875150/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 143-146, 150, 152-153, 164, 190-191, 213-214, 227, 229-230, 231, 235, 249, 269, 281-284, 293-294, 302-306, 307-308, 309, 310-311, 342-346, 365-366, 376-377, 382-383, 411-413, 425-428, 436-437, 456-458, 460-462 of the Forge hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>63</p>

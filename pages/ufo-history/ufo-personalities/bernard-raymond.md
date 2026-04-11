@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/bernard_raymond_2.jpg"}
 ---
 
-![bernard_raymond_2](/images/stories/ufo_personalities/bernard_raymond_2.jpg)
+![bernard_raymond_2]({{ '/images/stories/ufo_personalities/bernard_raymond_2.jpg' | relative_url }})
 
 *Raymond Bernard*
 
@@ -36,18 +36,18 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1964">1964</a></p>
+<p><a href="{{ '/tags/1964' | relative_url }}">1964</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/bernard-raymond">Bernard, Raymond</a> (pseudonym for Siegmeister, Walter) “<a href="/ufo-history/ufo-books/bernard-raymond-the-hollow-earth">The Hollow Earth</a>” (<a href="/tags/1964">1964</a>) (available <a href="http://www.amazon.com/dp/0787300977/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0787300977/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/bernard-raymond' | relative_url }}">Bernard, Raymond</a> (pseudonym for Siegmeister, Walter) “<a href="{{ '/ufo-history/ufo-books/bernard-raymond-the-hollow-earth' | relative_url }}">The Hollow Earth</a>” (<a href="{{ '/tags/1964' | relative_url }}">1964</a>) (available <a href="http://www.amazon.com/dp/0787300977/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0787300977/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1966">1966</a></p>
+<p><a href="{{ '/tags/1966' | relative_url }}">1966</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/bernard-raymond">Bernard, Raymond</a> “Flying Saucers from the Earth’s Interior”</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/bernard-raymond' | relative_url }}">Bernard, Raymond</a> “Flying Saucers from the Earth’s Interior”</p>
 </td>
 </tr>
 </tbody>

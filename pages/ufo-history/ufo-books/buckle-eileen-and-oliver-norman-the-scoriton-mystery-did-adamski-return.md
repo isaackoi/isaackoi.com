@@ -14,7 +14,7 @@ header: {"preview_image": null}
 book: {"identifiers": ["B000WQTEAE"]}
 ---
 
-Brief review to be added of [Eileen Buckle](/ufo-history/ufo-personalities/buckle-eileen) and [Norman Oliver](/ufo-history/ufo-personalities/oliver-norman)'s book “[The Scoriton Mystery: Did Adamski return?](/ufo-history/ufo-books/buckle-eileen-and-oliver-norman-the-scoriton-mystery-did-adamski-return)” ([1967](/tags/1967)) (available [on Amazon USA](http://www.amazon.com/dp/B000WQTEAE/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B000WQTEAE/?&tag=ufot-21))
+Brief review to be added of [Eileen Buckle]({{ '/ufo-history/ufo-personalities/buckle-eileen' | relative_url }}) and [Norman Oliver]({{ '/ufo-history/ufo-personalities/oliver-norman' | relative_url }})'s book “[The Scoriton Mystery: Did Adamski return?]({{ '/ufo-history/ufo-books/buckle-eileen-and-oliver-norman-the-scoriton-mystery-did-adamski-return' | relative_url }})” ([1967]({{ '/tags/1967' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/B000WQTEAE/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B000WQTEAE/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

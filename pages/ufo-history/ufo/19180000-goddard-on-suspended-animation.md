@@ -13,11 +13,11 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
-[Astronautics](/tags/astronautics): In 1918, [Robert H Goddard](/ufo-history/ufo-personalities/goddard-robert-h) writes about the use of suspended animation for interstellar travel in his unpublished manuscript entitled “The Ultimate Migration”.
+[Astronautics]({{ '/tags/astronautics' | relative_url }}): In 1918, [Robert H Goddard]({{ '/ufo-history/ufo-personalities/goddard-robert-h' | relative_url }}) writes about the use of suspended animation for interstellar travel in his unpublished manuscript entitled “The Ultimate Migration”.
 
 1. [Web Resources](#web)
 
@@ -57,10 +57,10 @@ For discussion of Goddard’s manuscript see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1981">1981</a></p>
+<p><a href="{{ '/tags/1981' | relative_url }}">1981</a></p>
 </td>
 <td valign="top" width="547">
-<p>Powers, Robert M in his “The Coattails of God: The Trip to the Stars” (<a href="/tags/1981">1981</a>) (available <a href="http://www.amazon.com/dp/0446512311/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0446512311/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page xiii (in the Preface) of the Warner paperback edition.</p>
+<p>Powers, Robert M in his “The Coattails of God: The Trip to the Stars” (<a href="{{ '/tags/1981' | relative_url }}">1981</a>) (available <a href="http://www.amazon.com/dp/0446512311/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0446512311/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page xiii (in the Preface) of the Warner paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -68,10 +68,10 @@ For discussion of Goddard’s manuscript see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1979">1979</a></p>
+<p><a href="{{ '/tags/1979' | relative_url }}">1979</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sagan-carl">Sagan, Carl</a> in his “<a href="/ufo-history/ufo-books/sagan-carl-brocas-brain">Broca’s Brain</a>” (<a href="/tags/1979">1979</a>) (available <a href="http://www.amazon.com/dp/0345336895/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0345336895/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 280 (in Chapter 18) of the Coronet paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sagan-carl' | relative_url }}">Sagan, Carl</a> in his “<a href="{{ '/ufo-history/ufo-books/sagan-carl-brocas-brain' | relative_url }}">Broca’s Brain</a>” (<a href="{{ '/tags/1979' | relative_url }}">1979</a>) (available <a href="http://www.amazon.com/dp/0345336895/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0345336895/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 280 (in Chapter 18) of the Coronet paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -100,10 +100,10 @@ For discussion of suspended animation see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1979">1979</a></p>
+<p><a href="{{ '/tags/1979' | relative_url }}">1979</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/asimov-isaac">Asimov, Isaac</a> in his “Extraterrestrial Civilizations” (<a href="/tags/1979">1979</a>) (available <a href="http://www.amazon.com/dp/0449900207/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0449900207/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 230-232 (in Chapter 12) of the Crown hardback edition, at pages 261-263 of the Pan paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/asimov-isaac' | relative_url }}">Asimov, Isaac</a> in his “Extraterrestrial Civilizations” (<a href="{{ '/tags/1979' | relative_url }}">1979</a>) (available <a href="http://www.amazon.com/dp/0449900207/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0449900207/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 230-232 (in Chapter 12) of the Crown hardback edition, at pages 261-263 of the Pan paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -111,10 +111,10 @@ For discussion of suspended animation see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/berry-adrian">Berry, Adrian</a> in his “The Giant Leap” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0312877854/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312877854/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 216-222 (in Chapter 17) of the revised Headline softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/berry-adrian' | relative_url }}">Berry, Adrian</a> in his “The Giant Leap” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0312877854/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312877854/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 216-222 (in Chapter 17) of the revised Headline softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>7</p>
@@ -122,10 +122,10 @@ For discussion of suspended animation see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1993">1993</a></p>
+<p><a href="{{ '/tags/1993' | relative_url }}">1993</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clarke-arthur-c">Clarke, Arthur C</a> in his “By Space Possessed” (<a href="/tags/1993">1993</a>) (available <a href="http://www.amazon.com/dp/0575055960/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0575055960/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 76 (in Chapter 7) of the Victor Gollancz hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clarke-arthur-c' | relative_url }}">Clarke, Arthur C</a> in his “By Space Possessed” (<a href="{{ '/tags/1993' | relative_url }}">1993</a>) (available <a href="http://www.amazon.com/dp/0575055960/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0575055960/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 76 (in Chapter 7) of the Victor Gollancz hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -133,10 +133,10 @@ For discussion of suspended animation see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="547">
-<p>Crawford, Ian in “<a href="/ufo-history/ufo-books/hart-michael-and-zuckerman-ben-extraterrestrials-where-are-they">Extraterrestrials: Where are they?</a>” (<a href="/tags/1982">1982</a>) (edited by <a href="/ufo-history/ufo-personalities/hart-michael">Michael Hart</a> and <a href="/ufo-history/ufo-personalities/zuckerman-ben">Ben Zuckerman</a>) (available <a href="http://www.amazon.com/dp/0521448034/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521448034/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 61 (in Chapter 8) of the Cambridge softcover second edition. The relevant chapter is a revised and abridged version of an article published under the title “Interstellar Travel: A Review for Astronomers” in Quarterly Journal <em>of the Royal Astronomical Society</em>, Volume 31 (<a href="/tags/1990">1990</a>) at pages 377-400. The text of that article is available free online at: <a href="http://www.star.ucl.ac.uk/~iac/isflight/isflight.html">http://www.star.ucl.ac.uk/~iac/isflight/isflight.html</a></p>
+<p>Crawford, Ian in “<a href="{{ '/ufo-history/ufo-books/hart-michael-and-zuckerman-ben-extraterrestrials-where-are-they' | relative_url }}">Extraterrestrials: Where are they?</a>” (<a href="{{ '/tags/1982' | relative_url }}">1982</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/hart-michael' | relative_url }}">Michael Hart</a> and <a href="{{ '/ufo-history/ufo-personalities/zuckerman-ben' | relative_url }}">Ben Zuckerman</a>) (available <a href="http://www.amazon.com/dp/0521448034/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521448034/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 61 (in Chapter 8) of the Cambridge softcover second edition. The relevant chapter is a revised and abridged version of an article published under the title “Interstellar Travel: A Review for Astronomers” in Quarterly Journal <em>of the Royal Astronomical Society</em>, Volume 31 (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) at pages 377-400. The text of that article is available free online at: <a href="http://www.star.ucl.ac.uk/~iac/isflight/isflight.html">http://www.star.ucl.ac.uk/~iac/isflight/isflight.html</a></p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -144,10 +144,10 @@ For discussion of suspended animation see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p>Feinberg, Gerald and <a href="/ufo-history/ufo-personalities/shapiro-robert">Shapiro, Robert</a> in their “Life Beyond Earth” (<a href="/tags/1980">1980</a>) (available <a href="http://www.amazon.com/dp/0688036422/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0688036422/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 432 (in Chapter 14) of the Morrow hardback edition.</p>
+<p>Feinberg, Gerald and <a href="{{ '/ufo-history/ufo-personalities/shapiro-robert' | relative_url }}">Shapiro, Robert</a> in their “Life Beyond Earth” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) (available <a href="http://www.amazon.com/dp/0688036422/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0688036422/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 432 (in Chapter 14) of the Morrow hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -155,10 +155,10 @@ For discussion of suspended animation see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1982">1982</a></p>
+<p><a href="{{ '/tags/1982' | relative_url }}">1982</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/hart-michael">Hart, Michael</a> in “<a href="/ufo-history/ufo-books/hart-michael-and-zuckerman-ben-extraterrestrials-where-are-they">Extraterrestrials: Where are they?</a>” (<a href="/tags/1982">1982</a>) (edited by <a href="/ufo-history/ufo-personalities/hart-michael">Michael Hart</a> and <a href="/ufo-history/ufo-personalities/zuckerman-ben">Ben Zuckerman</a>) (available <a href="http://www.amazon.com/dp/0521448034/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521448034/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 2-3 (in Chapter 1) of the Cambridge softcover second edition. (The relevant chapter is a reprint of <a href="/ufo-history/ufo-personalities/hart-michael">Hart, Michael</a> “An Explanation for the Absence of Extraterrestrials on Earth”, Quarterly Journal of the Royal Astronomical Society, volume 16 (<a href="/tags/1975">1975</a>), pages 128-135).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hart-michael' | relative_url }}">Hart, Michael</a> in “<a href="{{ '/ufo-history/ufo-books/hart-michael-and-zuckerman-ben-extraterrestrials-where-are-they' | relative_url }}">Extraterrestrials: Where are they?</a>” (<a href="{{ '/tags/1982' | relative_url }}">1982</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/hart-michael' | relative_url }}">Michael Hart</a> and <a href="{{ '/ufo-history/ufo-personalities/zuckerman-ben' | relative_url }}">Ben Zuckerman</a>) (available <a href="http://www.amazon.com/dp/0521448034/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521448034/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 2-3 (in Chapter 1) of the Cambridge softcover second edition. (The relevant chapter is a reprint of <a href="{{ '/ufo-history/ufo-personalities/hart-michael' | relative_url }}">Hart, Michael</a> “An Explanation for the Absence of Extraterrestrials on Earth”, Quarterly Journal of the Royal Astronomical Society, volume 16 (<a href="{{ '/tags/1975' | relative_url }}">1975</a>), pages 128-135).</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -166,10 +166,10 @@ For discussion of suspended animation see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1982">1982</a></p>
+<p><a href="{{ '/tags/1982' | relative_url }}">1982</a></p>
 </td>
 <td valign="top" width="547">
-<p>Jones, Eric M in “<a href="/ufo-history/ufo-books/hart-michael-and-zuckerman-ben-extraterrestrials-where-are-they">Extraterrestrials: Where are they?</a>” (<a href="/tags/1982">1982</a>) (edited by <a href="/ufo-history/ufo-personalities/hart-michael">Michael Hart</a> and <a href="/ufo-history/ufo-personalities/zuckerman-ben">Ben Zuckerman</a>) (available <a href="http://www.amazon.com/dp/0521448034/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521448034/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 95 (in Chapter 11) of the Cambridge softcover second edition.</p>
+<p>Jones, Eric M in “<a href="{{ '/ufo-history/ufo-books/hart-michael-and-zuckerman-ben-extraterrestrials-where-are-they' | relative_url }}">Extraterrestrials: Where are they?</a>” (<a href="{{ '/tags/1982' | relative_url }}">1982</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/hart-michael' | relative_url }}">Michael Hart</a> and <a href="{{ '/ufo-history/ufo-personalities/zuckerman-ben' | relative_url }}">Ben Zuckerman</a>) (available <a href="http://www.amazon.com/dp/0521448034/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521448034/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 95 (in Chapter 11) of the Cambridge softcover second edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -177,10 +177,10 @@ For discussion of suspended animation see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1989">1989</a></p>
+<p><a href="{{ '/tags/1989' | relative_url }}">1989</a></p>
 </td>
 <td valign="top" width="547">
-<p>Mallove, Eugene F and Matloff, Gregory L in their “<a href="/ufo-history/ufo-books/mallove-eugene-and-matloff-gregory-the-starflight-handbook">The Starflight Handbook</a>” (<a href="/tags/1989">1989</a>) (available <a href="http://www.amazon.com/dp/0471619124/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0471619124/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 199-205 (in Chapter 14 generally) of the Wiley hardback edition.</p>
+<p>Mallove, Eugene F and Matloff, Gregory L in their “<a href="{{ '/ufo-history/ufo-books/mallove-eugene-and-matloff-gregory-the-starflight-handbook' | relative_url }}">The Starflight Handbook</a>” (<a href="{{ '/tags/1989' | relative_url }}">1989</a>) (available <a href="http://www.amazon.com/dp/0471619124/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0471619124/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 199-205 (in Chapter 14 generally) of the Wiley hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>7</p>
@@ -188,10 +188,10 @@ For discussion of suspended animation see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p>Parker, Barry in his “Alien Life” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0306457954/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0306457954/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 210-211 (in Chapter 12) of the Plenum Trade hardback edition.</p>
+<p>Parker, Barry in his “Alien Life” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0306457954/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0306457954/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 210-211 (in Chapter 12) of the Plenum Trade hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -199,10 +199,10 @@ For discussion of suspended animation see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1981">1981</a></p>
+<p><a href="{{ '/tags/1981' | relative_url }}">1981</a></p>
 </td>
 <td valign="top" width="547">
-<p>Powers, Robert M in his “The Coattails of God: The Trip to the Stars” (<a href="/tags/1981">1981</a>) (available <a href="http://www.amazon.com/dp/0446512311/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0446512311/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page xiii (in the Preface), 83-87 (in Chapter 5) of the Warner paperback edition.</p>
+<p>Powers, Robert M in his “The Coattails of God: The Trip to the Stars” (<a href="{{ '/tags/1981' | relative_url }}">1981</a>) (available <a href="http://www.amazon.com/dp/0446512311/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0446512311/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page xiii (in the Preface), 83-87 (in Chapter 5) of the Warner paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>6</p>
@@ -210,10 +210,10 @@ For discussion of suspended animation see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1975">1975</a></p>
+<p><a href="{{ '/tags/1975' | relative_url }}">1975</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/ridpath-ian">Ridpath, Ian</a> in his “<a href="/ufo-history/ufo-books/ridpath-ian-worlds-beyond">Worlds Beyond</a>” (<a href="/tags/1975">1975</a>) (available <a href="http://www.amazon.com/dp/0060135689/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0060135689/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page [insert check Ridpath] (in Chapter 8) of the Wildwood House softcover edition, at pages 150-151 of the revised <a href="/tags/1977">1977</a> Penguin softcover edition entitled “Signs of Life”.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/ridpath-ian' | relative_url }}">Ridpath, Ian</a> in his “<a href="{{ '/ufo-history/ufo-books/ridpath-ian-worlds-beyond' | relative_url }}">Worlds Beyond</a>” (<a href="{{ '/tags/1975' | relative_url }}">1975</a>) (available <a href="http://www.amazon.com/dp/0060135689/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0060135689/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page [insert check Ridpath] (in Chapter 8) of the Wildwood House softcover edition, at pages 150-151 of the revised <a href="{{ '/tags/1977' | relative_url }}">1977</a> Penguin softcover edition entitled “Signs of Life”.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -221,10 +221,10 @@ For discussion of suspended animation see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1979">1979</a></p>
+<p><a href="{{ '/tags/1979' | relative_url }}">1979</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sagan-carl">Sagan, Carl</a> in his “<a href="/ufo-history/ufo-books/sagan-carl-brocas-brain">Broca’s Brain</a>” (<a href="/tags/1979">1979</a>) (available <a href="http://www.amazon.com/dp/0345336895/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0345336895/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 280 (in Chapter 18) of the Coronet paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sagan-carl' | relative_url }}">Sagan, Carl</a> in his “<a href="{{ '/ufo-history/ufo-books/sagan-carl-brocas-brain' | relative_url }}">Broca’s Brain</a>” (<a href="{{ '/tags/1979' | relative_url }}">1979</a>) (available <a href="http://www.amazon.com/dp/0345336895/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0345336895/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 280 (in Chapter 18) of the Coronet paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -232,10 +232,10 @@ For discussion of suspended animation see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1966">1966</a></p>
+<p><a href="{{ '/tags/1966' | relative_url }}">1966</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/shklovskii-i-s">Shklovskii, Iosef Shmuelovich</a> and <a href="/ufo-history/ufo-personalities/sagan-carl">Sagan, Carl</a> in their “<a href="/ufo-history/ufo-books/shklovskii-i-s-and-sagan-carl-intelligent-life-in-the-universe">Intelligent Life in the Universe</a>” (<a href="/tags/1966">1966</a>) (available <a href="http://www.amazon.com/dp/189280302X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/189280302X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 441-442 (in Chapter 32) of the Picador softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/shklovskii-i-s' | relative_url }}">Shklovskii, Iosef Shmuelovich</a> and <a href="{{ '/ufo-history/ufo-personalities/sagan-carl' | relative_url }}">Sagan, Carl</a> in their “<a href="{{ '/ufo-history/ufo-books/shklovskii-i-s-and-sagan-carl-intelligent-life-in-the-universe' | relative_url }}">Intelligent Life in the Universe</a>” (<a href="{{ '/tags/1966' | relative_url }}">1966</a>) (available <a href="http://www.amazon.com/dp/189280302X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/189280302X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 441-442 (in Chapter 32) of the Picador softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -243,10 +243,10 @@ For discussion of suspended animation see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1982">1982</a></p>
+<p><a href="{{ '/tags/1982' | relative_url }}">1982</a></p>
 </td>
 <td valign="top" width="547">
-<p>Singer, Cliff in “<a href="/ufo-history/ufo-books/hart-michael-and-zuckerman-ben-extraterrestrials-where-are-they">Extraterrestrials: Where are they?</a>” (<a href="/tags/1982">1982</a>) (edited by <a href="/ufo-history/ufo-personalities/hart-michael">Michael Hart</a> and <a href="/ufo-history/ufo-personalities/zuckerman-ben">Ben Zuckerman</a>) (available <a href="http://www.amazon.com/dp/0521448034/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521448034/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 81 (in Chapter 9) of the Cambridge softcover second edition.</p>
+<p>Singer, Cliff in “<a href="{{ '/ufo-history/ufo-books/hart-michael-and-zuckerman-ben-extraterrestrials-where-are-they' | relative_url }}">Extraterrestrials: Where are they?</a>” (<a href="{{ '/tags/1982' | relative_url }}">1982</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/hart-michael' | relative_url }}">Michael Hart</a> and <a href="{{ '/ufo-history/ufo-personalities/zuckerman-ben' | relative_url }}">Ben Zuckerman</a>) (available <a href="http://www.amazon.com/dp/0521448034/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521448034/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 81 (in Chapter 9) of the Cambridge softcover second edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -254,10 +254,10 @@ For discussion of suspended animation see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/white-michael">White, Michael</a> in his “Life Out There” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/088001671X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/088001671X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 153-154 (in Chapter 8) of the Little, Brown &amp; Co hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/white-michael' | relative_url }}">White, Michael</a> in his “Life Out There” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/088001671X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/088001671X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 153-154 (in Chapter 8) of the Little, Brown &amp; Co hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

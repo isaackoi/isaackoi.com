@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/1893302563.jpg"}
 book: {"identifiers": ["1893302563"], "primary_isbn": "1893302563", "cover_image": "/book-covers/1893302563.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Michael Salla](/ufo-history/ufo-personalities/salla-michael)'s book “[Exopolitics: Political Implications of the Extraterrestrial Presence](/ufo-history/ufo-books/salla-michael-exopolitics-political-implications-of-the-extraterrestrial-presence)” ([2005](/tags/2005)) (available [on Amazon USA](http://www.amazon.com/dp/1893302563/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1893302563/?&tag=ufot-21)).
+Brief review to be added of [Michael Salla]({{ '/ufo-history/ufo-personalities/salla-michael' | relative_url }})'s book “[Exopolitics: Political Implications of the Extraterrestrial Presence]({{ '/ufo-history/ufo-books/salla-michael-exopolitics-political-implications-of-the-extraterrestrial-presence' | relative_url }})” ([2005]({{ '/tags/2005' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1893302563/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1893302563/?&tag=ufot-21)).
 
 1. [Web Resources](#web)
 

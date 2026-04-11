@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/1573922447.jpg"}
 book: {"identifiers": ["1573922447", "1573929905"], "primary_isbn": "1573922447", "cover_image": "/book-covers/1573922447.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Terry Matheson](/ufo-history/ufo-personalities/matheson-terry)'s book “[Alien Abductions: Creating a Modern Phenomenon](/ufo-history/ufo-books/matheson-terry-alien-abductions-creating-a-modern-phenomenon)” ([1998](/tags/1998)) (available [on Amazon USA](http://www.amazon.com/dp/1573922447/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1573922447/?&tag=ufot-21))
+Brief review to be added of [Terry Matheson]({{ '/ufo-history/ufo-personalities/matheson-terry' | relative_url }})'s book “[Alien Abductions: Creating a Modern Phenomenon]({{ '/ufo-history/ufo-books/matheson-terry-alien-abductions-creating-a-modern-phenomenon' | relative_url }})” ([1998]({{ '/tags/1998' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1573922447/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1573922447/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -52,10 +52,10 @@ For discussion of Terry Matheson and/or his book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2003">2003</a></p>
+<p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/moffitt-john">Moffitt, John</a> in his “<a href="/ufo-history/ufo-books/moffitt-john-picturing-extraterrestrials-alien-images-in-modern-mass-culture">Picturing Extraterrestrials : Alien Images in Modern Mass Culture</a>” (<a href="/tags/2003">2003</a>) (available <a href="http://www.amazon.com/dp/1573929905/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573929905/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 61-62 of the Prometheus hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/moffitt-john' | relative_url }}">Moffitt, John</a> in his “<a href="{{ '/ufo-history/ufo-books/moffitt-john-picturing-extraterrestrials-alien-images-in-modern-mass-culture' | relative_url }}">Picturing Extraterrestrials : Alien Images in Modern Mass Culture</a>” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) (available <a href="http://www.amazon.com/dp/1573929905/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573929905/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 61-62 of the Prometheus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

@@ -42,9 +42,9 @@ This video appears to show a white spiral developing behind a moving white light
 
 Screen shots from these videos are included below for ease of identification.
 
-![](/images/stories/ufo_videos/video069_1.JPG)
+![]({{ '/images/stories/ufo_videos/video069_1.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video069_2.JPG)
+![]({{ '/images/stories/ufo_videos/video069_2.JPG' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this video
@@ -56,7 +56,7 @@ This video was posted in 2010 by "TheWeatherSpaceNews" with a caption claiming t
 
 In fact, relatively soon after this video was posted in 2010, Kevin Martin (pictured below) admitted that he had posted the video as a hoax to test whether Americans or Europeans were more gullible.
 
-![](/images/stories/ufo_videos/video069_3.jpg)
+![]({{ '/images/stories/ufo_videos/video069_3.jpg' | relative_url }})
 
 The website which first uploaded the video (Theweatherspace.com) posted the following message in 2010. (That website is now defunct, but the message was copied [on various websites](http://www.abovetopsecret.com/forum/thread574088/pg12#pid8867267) at the time).
 
@@ -78,7 +78,7 @@ More surprising (indeed, incredible...) was Kevin Martin's subsequent claim that
 
 The material released by Kevin Martin over the years provides more entertainment than it provides grounds for believing anything said by him. The useful [Rationalwiki.org website has published a detailed page](http://rationalwiki.org/wiki/Kevin_Martin) about Kevin Martin:
 
-![](/images/stories/ufo_videos/video069_4.JPG)
+![]({{ '/images/stories/ufo_videos/video069_4.JPG' | relative_url }})
 
 <a id="forums"></a>
 ### 4. Relevant online discussions
@@ -89,4 +89,4 @@ Relevant discussions on the AboveTopSecret.com forum include the following:
 
 2010 (May) discussion entitled "[Canadian UFO Spiral - Martin Retracts Hoax Statement](http://www.abovetopsecret.com/forum/thread575877/pg1)"
 
-![](/images/stories/ufo_videos/video069_1d.jpg)
+![]({{ '/images/stories/ufo_videos/video069_1d.jpg' | relative_url }})

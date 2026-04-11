@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0874514223.jpg"}
 book: {"identifiers": ["0874514223"], "primary_isbn": "0874514223", "cover_image": "/book-covers/0874514223.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of John C Baird's “[The Inner Limits of Outer Space](/ufo-history/ufo-books/baird-john-c-the-inner-limits-of-outer-space)” ([1987](/tags/1987)) (available [on Amazon USA](http://www.amazon.com/dp/0874514223/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0874514223/?&tag=ufot-21))
+Brief review to be added of John C Baird's “[The Inner Limits of Outer Space]({{ '/ufo-history/ufo-books/baird-john-c-the-inner-limits-of-outer-space' | relative_url }})” ([1987]({{ '/tags/1987' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0874514223/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0874514223/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

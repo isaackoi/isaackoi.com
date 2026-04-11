@@ -13,7 +13,7 @@ planned_sections: ["1. The relevant image", "2. Stories and claims relating to t
 header: {"preview_image": "/images/stories/alien_photos/koi_ap_13_a.jpg"}
 ---
 
-![](/images/stories/alien_photos/koi_ap_13_a.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_13_a.jpg' | relative_url }})
 
 *Koi Alien Photo 13*
 
@@ -38,9 +38,9 @@ Sections below:
 <a id="image"></a>
 ### 1. The relevant image
 
-![](/images/stories/alien_photos/koi_ap_13_a.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_13_a.jpg' | relative_url }})
 
-![](/images/stories/alien_photos/koi_ap_13_b.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_13_b.jpg' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this image
@@ -50,13 +50,13 @@ Many UFO websites publish photographs of "aliens" with little, if any, accompany
 <a id="truth"></a>
 ### 3. The real background to this image
 
-![](/images/stories/alien_photos/koi_ap_13_c.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_13_c.jpg' | relative_url }})
 
-![](/images/stories/alien_photos/koi_ap_13_d.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_13_d.jpg' | relative_url }})
 
-![](/images/stories/alien_photos/koi_ap_13_e.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_13_e.jpg' | relative_url }})
 
-![](/images/stories/alien_photos/koi_ap_13_f.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_13_f.jpg' | relative_url }})
 
 <a id="forums"></a>
 ### 4. Relevant online forum discussions

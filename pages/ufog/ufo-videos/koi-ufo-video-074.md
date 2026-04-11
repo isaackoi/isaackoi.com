@@ -21,7 +21,7 @@ header: {"preview_image": "/images/stories/ufo_videos/video074_2.JPG"}
 
 One copy of the video on Youtube (with the title "UFO landing in New Mexico") has over half a million views as at October 2014.
 
-As detailed below, this is one of several hoaxed UFO video signed (pun intended) by the hoaxer, CGI artist "Oondyla". Other UFO viral videos created by Oondyla (and also signed by him) include one appearing to show two jets escorting a UFO (see [Koi UFO Video 059](/ufog/ufo-videos/koi-ufo-video-059)). Both video have a sign with "Oondyla" on it. In the case of the jet video, the name appears on a road sign. In the case of the "UFO landing in New Mexico" video, the name clearly appears on a sign on a building in the foreground of the video.
+As detailed below, this is one of several hoaxed UFO video signed (pun intended) by the hoaxer, CGI artist "Oondyla". Other UFO viral videos created by Oondyla (and also signed by him) include one appearing to show two jets escorting a UFO (see [Koi UFO Video 059]({{ '/ufog/ufo-videos/koi-ufo-video-059' | relative_url }})). Both video have a sign with "Oondyla" on it. In the case of the jet video, the name appears on a road sign. In the case of the "UFO landing in New Mexico" video, the name clearly appears on a sign on a building in the foreground of the video.
 
 Sections below:
 
@@ -40,11 +40,11 @@ This video appears to show a UFO filmed from a moving vehicle. The UFO appears t
 
 The following sample screenshots are taken from that video for ease of identification of the relevant video:
 
-![](/images/stories/ufo_videos/video074_2.JPG)
+![]({{ '/images/stories/ufo_videos/video074_2.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video074_3.JPG)
+![]({{ '/images/stories/ufo_videos/video074_3.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video074_1.JPG)
+![]({{ '/images/stories/ufo_videos/video074_1.JPG' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this video
@@ -64,21 +64,21 @@ Oondyla's Youtube video channel also happens to include:
 
 (2) Other UFO videos that happen to have the name "Oondyla" on signs in the videos.
 
-Other UFO viral videos created by Oondyla (and also signed by him) include one appearing to show two jets escorting a UFO (see [Koi UFO Video 059](/ufog/ufo-videos/koi-ufo-video-059)).
+Other UFO viral videos created by Oondyla (and also signed by him) include one appearing to show two jets escorting a UFO (see [Koi UFO Video 059]({{ '/ufog/ufo-videos/koi-ufo-video-059' | relative_url }})).
 
 Both this video and the jets video have a sign with "Oondyla" on it. In the case of the jet video, the name appears on a road sign. In the case of the "UFO landing in New Mexico" video, the name clearly appears on a sign on a building in the foreground of the video near the end of the footage.
 
-![](/images/stories/ufo_videos/video059_6.JPG)
+![]({{ '/images/stories/ufo_videos/video059_6.JPG' | relative_url }})
 
 Also, if you have a glance at[the oondyla.com website via the Internet Archive's Wayback Machine](https://web.archive.org/web/20120301190203/http://oondyla.com/WhoWeAre.html) then you will see that Oondyla.com was set up as a viral marketing website:
 
-![](/images/stories/ufo_videos/video059_8.JPG)
+![]({{ '/images/stories/ufo_videos/video059_8.JPG' | relative_url }})
 
-The relevant road sign in the "fighter jet" video ([Koi UFO Video 059](/ufog/ufo-videos/koi-ufo-video-059)) can be seen in the screen shots below from that video.
+The relevant road sign in the "fighter jet" video ([Koi UFO Video 059]({{ '/ufog/ufo-videos/koi-ufo-video-059' | relative_url }})) can be seen in the screen shots below from that video.
 
-![](/images/stories/ufo_videos/video59_4.JPG)
+![]({{ '/images/stories/ufo_videos/video59_4.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video059_5.JPG)
+![]({{ '/images/stories/ufo_videos/video059_5.JPG' | relative_url }})
 
 Oondyla's video illustrating his skills in creating video special effects is embedded here:
 
@@ -87,10 +87,10 @@ Oondyla's video illustrating his skills in creating video special effects is emb
 <a id="forums"></a>
 ### 4. Relevant online forum discussions
 
-Relevant discussions on the AboveTopSecret.com forum referring to Oondyla focus on his better known jet footage video (i.e. [Koi UFO Video 59](/ufog/ufo-videos/koi-ufo-video-059)), including the following:
+Relevant discussions on the AboveTopSecret.com forum referring to Oondyla focus on his better known jet footage video (i.e. [Koi UFO Video 59]({{ '/ufog/ufo-videos/koi-ufo-video-059' | relative_url }})), including the following:
 
 [2011 (August) thread entitled "Jets escorting UFO - CGI, US tech, or UFO please comment"](http://www.abovetopsecret.com/forum/thread741749/pg1)
 
 [2014 (July) thread entitled "fighter jets escort ufo video"](http://www.abovetopsecret.com/forum/thread1023974/pg1)
 
-![](/images/stories/ufo_videos/video074_1d.jpg)
+![]({{ '/images/stories/ufo_videos/video074_1d.jpg' | relative_url }})

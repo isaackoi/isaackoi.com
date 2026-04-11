@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/marciniak_barbara_2.jpg"}
 ---
 
-![marciniak_barbara_2](/images/stories/ufo_personalities/marciniak_barbara_2.jpg)
+![marciniak_barbara_2]({{ '/images/stories/ufo_personalities/marciniak_barbara_2.jpg' | relative_url }})
 
 *Barbara Marciniak*
 
@@ -36,18 +36,18 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/marciniak-barbara">Marciniak, Barbara</a> “<a href="/ufo-history/ufo-books/marciniak-barbara-bringers-of-the-dawn-teachings-from-the-pleidians">Bringers of the Dawn : Teachings from the Pleidians</a>” (<a href="/tags/1992">1992</a>) (available <a href="http://www.amazon.com/dp/093968098X/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/093968098X/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/marciniak-barbara' | relative_url }}">Marciniak, Barbara</a> “<a href="{{ '/ufo-history/ufo-books/marciniak-barbara-bringers-of-the-dawn-teachings-from-the-pleidians' | relative_url }}">Bringers of the Dawn : Teachings from the Pleidians</a>” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="http://www.amazon.com/dp/093968098X/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/093968098X/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/marciniak-barbara">Marciniak, Barbara</a> “<a href="/ufo-history/ufo-books/marciniak-barbara-earth-pleiadian-keys-to-the-living-library">Earth - Pleiadian Keys to the Living Library</a>” (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/1879181215/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1879181215/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/marciniak-barbara' | relative_url }}">Marciniak, Barbara</a> “<a href="{{ '/ufo-history/ufo-books/marciniak-barbara-earth-pleiadian-keys-to-the-living-library' | relative_url }}">Earth - Pleiadian Keys to the Living Library</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/1879181215/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1879181215/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>

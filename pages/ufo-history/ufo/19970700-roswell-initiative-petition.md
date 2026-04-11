@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -67,10 +67,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p>Coudris, Rene in his “The Roswell Message” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/1858600391/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1858600391/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 78 (in the unnumbered chapter entitled “Scenario 2”), 212-214 (in the unnumbered appendix entitled “The Roswell Affair – A Declaration”) of the Gateway Books softcover edition.</p>
+<p>Coudris, Rene in his “The Roswell Message” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/1858600391/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1858600391/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 78 (in the unnumbered chapter entitled “Scenario 2”), 212-214 (in the unnumbered appendix entitled “The Roswell Affair – A Declaration”) of the Gateway Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -78,10 +78,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/hamilton-william-f">Hamilton, William F</a> in his “Alien Magic: UFO Crashes, Abductions, Underground Bases” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/B00072TSG8/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B00072TSG8/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 42 (in Chapter 4) of the Global Communications softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hamilton-william-f' | relative_url }}">Hamilton, William F</a> in his “Alien Magic: UFO Crashes, Abductions, Underground Bases” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/B00072TSG8/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B00072TSG8/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 42 (in Chapter 4) of the Global Communications softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -89,10 +89,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/klass-philip-j">Klass, Philip J</a> in his “<a href="/ufo-history/ufo-books/klass-philip-j-the-real-roswell-crashed-saucer-coverup">The Real Roswell Crashed-Saucer Coverup</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1573921645/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573921645/ref=nosim?tag=ufot-21">on Amazon UK</a>) at 212-214, 216-219 (in Chapter 27) of the Prometheus Books hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/klass-philip-j' | relative_url }}">Klass, Philip J</a> in his “<a href="{{ '/ufo-history/ufo-books/klass-philip-j-the-real-roswell-crashed-saucer-coverup' | relative_url }}">The Real Roswell Crashed-Saucer Coverup</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1573921645/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573921645/ref=nosim?tag=ufot-21">on Amazon UK</a>) at 212-214, 216-219 (in Chapter 27) of the Prometheus Books hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>7</p>
@@ -100,10 +100,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p>Mannion, Michael in his “<a href="/ufo-history/ufo-books/mannion-michael-project-mindshift">Project Mindshift</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0871318563/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0871318563/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 115-116 (in Chapter 5) of the Evans hardback edition.</p>
+<p>Mannion, Michael in his “<a href="{{ '/ufo-history/ufo-books/mannion-michael-project-mindshift' | relative_url }}">Project Mindshift</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0871318563/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0871318563/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 115-116 (in Chapter 5) of the Evans hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -114,7 +114,7 @@ For discussion see the following:
 <p>2991</p>
 </td>
 <td valign="top" width="547">
-<p>Picknett, Lynn in her “<a href="/ufo-history/ufo-books/picknett-lynn-the-mammoth-book-of-ufos">The Mammoth Book of UFOs</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/078670800X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/078670800X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 249-250 (in Chapter 3) of the Robinson softcover edition.</p>
+<p>Picknett, Lynn in her “<a href="{{ '/ufo-history/ufo-books/picknett-lynn-the-mammoth-book-of-ufos' | relative_url }}">The Mammoth Book of UFOs</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/078670800X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/078670800X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 249-250 (in Chapter 3) of the Robinson softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -122,10 +122,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randle-kevin">Randle, Kevin</a> in his “<a href="/ufo-history/ufo-books/randle-kevin-the-roswell-encyclopedia">The Roswell Encyclopedia</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/0380798530/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380798530/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 146-151 (in an entry entitled “International Roswell Declaration”) of the Quill softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randle-kevin' | relative_url }}">Randle, Kevin</a> in his “<a href="{{ '/ufo-history/ufo-books/randle-kevin-the-roswell-encyclopedia' | relative_url }}">The Roswell Encyclopedia</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/0380798530/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380798530/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 146-151 (in an entry entitled “International Roswell Declaration”) of the Quill softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>6</p>

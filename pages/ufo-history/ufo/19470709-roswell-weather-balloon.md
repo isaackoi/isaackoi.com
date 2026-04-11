@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -39,11 +39,11 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-Partial image of relevant Roswell Daily Record article provided by [Hesemann, Michael](/ufo-history/ufo-personalities/hesemann-michael) and [Mantle, Philip](/ufo-history/ufo-personalities/mantle-philip) in their “[Beyond Roswell](/ufo-history/ufo-books/hesemann-michael-and-mantle-philip-beyond-roswell)” ([1997](/tags/1997)) (available [on Amazon USA](http://www.amazon.com/dp/1569247811/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1569247811/ref=nosim?tag=ufot-21)) at page 11 (in Chapter 1) of the Michael O’Mara hardback edition.
+Partial image of relevant Roswell Daily Record article provided by [Hesemann, Michael]({{ '/ufo-history/ufo-personalities/hesemann-michael' | relative_url }}) and [Mantle, Philip]({{ '/ufo-history/ufo-personalities/mantle-philip' | relative_url }}) in their “[Beyond Roswell]({{ '/ufo-history/ufo-books/hesemann-michael-and-mantle-philip-beyond-roswell' | relative_url }})” ([1997]({{ '/tags/1997' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1569247811/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1569247811/ref=nosim?tag=ufot-21)) at page 11 (in Chapter 1) of the Michael O’Mara hardback edition.
 
-Partial image of relevant *Roswell Daily Record*article provided by [Brookesmith, Peter](/ufo-history/ufo-personalities/brookesmith-peter) in his “[UFO: The Government Files](/ufo-history/ufo-books/brookesmith-peter-ufo-the-government-files)” ([1996](/tags/1996)) (available [on Amazon USA](http://www.amazon.com/dp/0760702187/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0760702187/ref=nosim?tag=ufot-21)) at page 148 (Chapter 8 generally) of the Parragon hardback edition.
+Partial image of relevant *Roswell Daily Record*article provided by [Brookesmith, Peter]({{ '/ufo-history/ufo-personalities/brookesmith-peter' | relative_url }}) in his “[UFO: The Government Files]({{ '/ufo-history/ufo-books/brookesmith-peter-ufo-the-government-files' | relative_url }})” ([1996]({{ '/tags/1996' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0760702187/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0760702187/ref=nosim?tag=ufot-21)) at page 148 (Chapter 8 generally) of the Parragon hardback edition.
 
-Text of relevant *Roswell Daily Record*article presented by [Randle, Kevin](/ufo-history/ufo-personalities/randle-kevin) in his “[Case MJ-12](/ufo-history/ufo-books/randle-kevin-d-case-mj-12)” ([2002](/tags/2002)) (available [on Amazon USA](http://www.amazon.com/dp/0380814730/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0380814730/ref=nosim?tag=ufot-21)) at pages 34-36 (in Chapter 2) of the Harper Torch paperback edition.
+Text of relevant *Roswell Daily Record*article presented by [Randle, Kevin]({{ '/ufo-history/ufo-personalities/randle-kevin' | relative_url }}) in his “[Case MJ-12]({{ '/ufo-history/ufo-books/randle-kevin-d-case-mj-12' | relative_url }})” ([2002]({{ '/tags/2002' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0380814730/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0380814730/ref=nosim?tag=ufot-21)) at pages 34-36 (in Chapter 2) of the Harper Torch paperback edition.
 
 <a id="other"></a>
 ### Other Material

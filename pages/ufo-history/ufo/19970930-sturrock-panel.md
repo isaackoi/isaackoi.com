@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -82,10 +82,10 @@ For discussion of Sturrock’s workshop see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2004">2004</a></p>
+<p><a href="{{ '/tags/2004' | relative_url }}">2004</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/birnes-william">Birnes, William</a> in his “<a href="/ufo-history/ufo-books/birnes-william-the-ufo-magazine-ufo-encyclopedia">The UFO Magazine UFO Encyclopedia</a>” (<a href="/tags/2004">2004</a>) (available <a href="http://www.amazon.com/dp/0743466748/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743466748/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 300-301 (in an entry entitled “Sturrock Report, Rockefeller Panel”) of the Pocket Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/birnes-william' | relative_url }}">Birnes, William</a> in his “<a href="{{ '/ufo-history/ufo-books/birnes-william-the-ufo-magazine-ufo-encyclopedia' | relative_url }}">The UFO Magazine UFO Encyclopedia</a>” (<a href="{{ '/tags/2004' | relative_url }}">2004</a>) (available <a href="http://www.amazon.com/dp/0743466748/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743466748/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 300-301 (in an entry entitled “Sturrock Report, Rockefeller Panel”) of the Pocket Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -93,10 +93,10 @@ For discussion of Sturrock’s workshop see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/cometa">COMETA</a> report (<a href="/tags/1999">1999</a>) at Chapter 9.1, page 51 of the translation of the report appearing at:</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/cometa' | relative_url }}">COMETA</a> report (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) at Chapter 9.1, page 51 of the translation of the report appearing at:</p>
 <p><a href="http://www.etcontact.net/newsite/files/COMETA_part2.pdf">http://www.etcontact.net/newsite/files/COMETA_part2.pdf</a></p>
 </td>
 <td valign="top" width="52">
@@ -105,10 +105,10 @@ For discussion of Sturrock’s workshop see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/denzler-brenda">Denzler, Brenda</a> in her “<a href="/ufo-history/ufo-books/denzler-brenda-the-lure-of-the-edge">The Lure of the Edge</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/0520224329/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0520224329/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 96 (in Chapter 3) of the California hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/denzler-brenda' | relative_url }}">Denzler, Brenda</a> in her “<a href="{{ '/ufo-history/ufo-books/denzler-brenda-the-lure-of-the-edge' | relative_url }}">The Lure of the Edge</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/0520224329/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0520224329/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 96 (in Chapter 3) of the California hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -116,10 +116,10 @@ For discussion of Sturrock’s workshop see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Glenday, Craig in his “<a href="/ufo-history/ufo-books/glenday-craig-the-ufo-investigators-handbook">The UFO Investigator’s Handbook</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0762406194/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0762406194/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 109 (in Chapter 5) of the Running Press softcover edition.</p>
+<p>Glenday, Craig in his “<a href="{{ '/ufo-history/ufo-books/glenday-craig-the-ufo-investigators-handbook' | relative_url }}">The UFO Investigator’s Handbook</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0762406194/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0762406194/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 109 (in Chapter 5) of the Running Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -127,10 +127,10 @@ For discussion of Sturrock’s workshop see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/good-timothy">Good, Timothy</a> in his “<a href="/ufo-history/ufo-books/good-timothy-unearthly-disclosure">Unearthly Disclosure</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/0099406020/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0099406020/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 3 (in the Introduction) of the Century hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/good-timothy' | relative_url }}">Good, Timothy</a> in his “<a href="{{ '/ufo-history/ufo-books/good-timothy-unearthly-disclosure' | relative_url }}">Unearthly Disclosure</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/0099406020/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0099406020/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 3 (in the Introduction) of the Century hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -138,10 +138,10 @@ For discussion of Sturrock’s workshop see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p>Koerner, David &amp; LeVay, Simon in their “Here Be Dragons” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/0195128524/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0195128524/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 189-191, 192 (in Chapter 8) of the Oxford softcover edition.</p>
+<p>Koerner, David &amp; LeVay, Simon in their “Here Be Dragons” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/0195128524/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0195128524/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 189-191, 192 (in Chapter 8) of the Oxford softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -149,10 +149,10 @@ For discussion of Sturrock’s workshop see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/maccabee-bruce">Maccabee, Bruce</a> in “Atmosphere or UFO? A Response to the <a href="/tags/1997">1997</a> SSE Review Panel Report”, Journal of Scientific Exploration (<a href="/tags/1999">1999</a>), Volume 13, Number 3, pages 421- 459. Text of article, and images of article, both available online, respectively at:</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/maccabee-bruce' | relative_url }}">Maccabee, Bruce</a> in “Atmosphere or UFO? A Response to the <a href="{{ '/tags/1997' | relative_url }}">1997</a> SSE Review Panel Report”, Journal of Scientific Exploration (<a href="{{ '/tags/1999' | relative_url }}">1999</a>), Volume 13, Number 3, pages 421- 459. Text of article, and images of article, both available online, respectively at:</p>
 <p><a href="http://www.scientificexploration.org/jse/articles/maccabee/toc.html">http://www.scientificexploration.org/jse/articles/maccabee/toc.html</a> <a href="http://www.scientificexploration.org/jse/articles/pdf/maccabee.pdf">http://www.scientificexploration.org/jse/articles/pdf/maccabee.pdf</a></p>
 </td>
 <td valign="top" width="52">
@@ -161,10 +161,10 @@ For discussion of Sturrock’s workshop see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/mack-john-e">Mack, John E</a> in his “<a href="/ufo-history/ufo-books/mack-john-e-passport-to-the-cosmos">Passport to the Cosmos</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/1601641613/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1601641613/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 22, 25 (in Chapter 2) of the Thorsons softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/mack-john-e' | relative_url }}">Mack, John E</a> in his “<a href="{{ '/ufo-history/ufo-books/mack-john-e-passport-to-the-cosmos' | relative_url }}">Passport to the Cosmos</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/1601641613/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1601641613/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 22, 25 (in Chapter 2) of the Thorsons softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -172,10 +172,10 @@ For discussion of Sturrock’s workshop see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2002">2002</a></p>
+<p><a href="{{ '/tags/2002' | relative_url }}">2002</a></p>
 </td>
 <td valign="top" width="547">
-<p>Nixon, Neil in his “<a href="/ufo-history/ufo-books/nixon-neil-pocket-essentials-ufos">Pocket Essentials : UFOs</a>” (<a href="/tags/2002">2002</a>) (available <a href="http://www.amazon.com/dp/1903047889/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1903047889/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 80 (in Chapter 6) of the Pocket Essentials softcover edition.</p>
+<p>Nixon, Neil in his “<a href="{{ '/ufo-history/ufo-books/nixon-neil-pocket-essentials-ufos' | relative_url }}">Pocket Essentials : UFOs</a>” (<a href="{{ '/tags/2002' | relative_url }}">2002</a>) (available <a href="http://www.amazon.com/dp/1903047889/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1903047889/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 80 (in Chapter 6) of the Pocket Essentials softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -183,10 +183,10 @@ For discussion of Sturrock’s workshop see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Rockefeller, Laurance in <a href="/ufo-history/ufo-personalities/sturrock-peter-a">Peter Sturrock</a>’s “<a href="/ufo-history/ufo-books/sturrock-peter-a-the-ufo-enigma">The UFO Enigma</a>“ (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0446525650/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0446525650/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages ix-x (in the Foreword) of the Warner Aspect hardback edition.</p>
+<p>Rockefeller, Laurance in <a href="{{ '/ufo-history/ufo-personalities/sturrock-peter-a' | relative_url }}">Peter Sturrock</a>’s “<a href="{{ '/ufo-history/ufo-books/sturrock-peter-a-the-ufo-enigma' | relative_url }}">The UFO Enigma</a>“ (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0446525650/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0446525650/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages ix-x (in the Foreword) of the Warner Aspect hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -194,10 +194,10 @@ For discussion of Sturrock’s workshop see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/strieber-whitley">Strieber, Whitley</a> in the Introduction to the Dell paperback edition of the “<a href="/ufo-history/ufo-books/berliner-don-with-galbraith-marie-and-huneeus-antonio-ufo-briefing-document-the-best-available-evidence">UFO Briefing Document : The Best Available Evidence</a>“ (<a href="/tags/1995">1995</a>) (by <a href="/ufo-history/ufo-personalities/berliner-don">Berliner, Don</a> and <a href="/ufo-history/ufo-personalities/galbraith-marie">Galbraith, Marie</a> and <a href="/ufo-history/ufo-personalities/huneeus-antonio">Huneeus, Antonio</a>) at pages 9-10 of the Dell paperback edition (Introduction)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/strieber-whitley' | relative_url }}">Strieber, Whitley</a> in the Introduction to the Dell paperback edition of the “<a href="{{ '/ufo-history/ufo-books/berliner-don-with-galbraith-marie-and-huneeus-antonio-ufo-briefing-document-the-best-available-evidence' | relative_url }}">UFO Briefing Document : The Best Available Evidence</a>“ (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (by <a href="{{ '/ufo-history/ufo-personalities/berliner-don' | relative_url }}">Berliner, Don</a> and <a href="{{ '/ufo-history/ufo-personalities/galbraith-marie' | relative_url }}">Galbraith, Marie</a> and <a href="{{ '/ufo-history/ufo-personalities/huneeus-antonio' | relative_url }}">Huneeus, Antonio</a>) at pages 9-10 of the Dell paperback edition (Introduction)</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -205,10 +205,10 @@ For discussion of Sturrock’s workshop see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sturrock-peter-a">Sturrock, Peter</a> in his “<a href="/ufo-history/ufo-books/sturrock-peter-a-the-ufo-enigma">The UFO Enigma</a>“ (<a href="/tags/1999">1999</a>) generally, particularly at pages 6-7 (in the Introduction) and 57-127 (Parts 2 and 3, Chapters 5-19) of the Warner Aspect hardback edition. Most of this material is available online at: <strong>http://tinyurl.com/yeoosor</strong></p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sturrock-peter-a' | relative_url }}">Sturrock, Peter</a> in his “<a href="{{ '/ufo-history/ufo-books/sturrock-peter-a-the-ufo-enigma' | relative_url }}">The UFO Enigma</a>“ (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) generally, particularly at pages 6-7 (in the Introduction) and 57-127 (Parts 2 and 3, Chapters 5-19) of the Warner Aspect hardback edition. Most of this material is available online at: <strong>http://tinyurl.com/yeoosor</strong></p>
 </td>
 <td valign="top" width="52">
 <p>83</p>
@@ -217,7 +217,7 @@ For discussion of Sturrock’s workshop see the following:
 </tbody>
 </table>
 
-See also the entry for the related book by [Peter Sturrock](/ufo-history/ufo-personalities/sturrock-peter-a), “[The UFO Enigma](/ufo-history/ufo-books/sturrock-peter-a-the-ufo-enigma)“ ([1999](/tags/1999)).
+See also the entry for the related book by [Peter Sturrock]({{ '/ufo-history/ufo-personalities/sturrock-peter-a' | relative_url }}), “[The UFO Enigma]({{ '/ufo-history/ufo-books/sturrock-peter-a-the-ufo-enigma' | relative_url }})“ ([1999]({{ '/tags/1999' | relative_url }})).
 
 <a id="other"></a>
 ### Other Material

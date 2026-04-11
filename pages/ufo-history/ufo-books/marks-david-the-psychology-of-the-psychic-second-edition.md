@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/1573927988.jpg"}
 book: {"identifiers": ["1573927988"], "primary_isbn": "1573927988", "cover_image": "/book-covers/1573927988.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [David Marks](/ufo-history/ufo-personalities/marks-david)' book “[The Psychology of the Psychic: Second Edition](/ufo-history/ufo-books/marks-david-the-psychology-of-the-psychic-second-edition)” ([2000](/tags/2000)) (available [on Amazon USA](http://www.amazon.com/dp/1573927988/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1573927988/?&tag=ufot-21))
+Brief review to be added of [David Marks]({{ '/ufo-history/ufo-personalities/marks-david' | relative_url }})' book “[The Psychology of the Psychic: Second Edition]({{ '/ufo-history/ufo-books/marks-david-the-psychology-of-the-psychic-second-edition' | relative_url }})” ([2000]({{ '/tags/2000' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1573927988/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1573927988/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

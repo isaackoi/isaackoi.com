@@ -14,7 +14,7 @@ header: {"preview_image": "https://covers.openlibrary.org/b/isbn/0933470029-L.jp
 book: {"identifiers": ["0933470029"], "primary_isbn": "0933470029", "cover_image": "https://covers.openlibrary.org/b/isbn/0933470029-L.jpg?default=false", "cover_source": "openlibrary"}
 ---
 
-Brief review to be added of “[The UFO Conspiracy](/ufo-history/ufo-books/stranges-frank-the-ufo-conspiracy)” ([1985](/tags/1985)) (available [on Amazon USA](http://www.amazon.com/dp/0933470029/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0933470029/?&tag=ufot-21)) by [Frank Stranges](/ufo-history/ufo-personalities/stranges-frank).
+Brief review to be added of “[The UFO Conspiracy]({{ '/ufo-history/ufo-books/stranges-frank-the-ufo-conspiracy' | relative_url }})” ([1985]({{ '/tags/1985' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0933470029/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0933470029/?&tag=ufot-21)) by [Frank Stranges]({{ '/ufo-history/ufo-personalities/stranges-frank' | relative_url }}).
 
 1. [Web Resources](#web)
 

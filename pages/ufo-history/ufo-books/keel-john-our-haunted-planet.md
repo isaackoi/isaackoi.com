@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/1880090163.jpg"}
 book: {"identifiers": ["1880090163", "0451204247", "1841196134"], "primary_isbn": "1880090163", "cover_image": "/book-covers/1880090163.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [John Keel](/ufo-history/ufo-personalities/keel-john-a)'s book “[Our Haunted Planet](/ufo-history/ufo-books/keel-john-our-haunted-planet)” ([1971](/tags/1971)) (available [on Amazon USA](http://www.amazon.com/dp/1880090163/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1880090163/?&tag=ufot-21))
+Brief review to be added of [John Keel]({{ '/ufo-history/ufo-personalities/keel-john-a' | relative_url }})'s book “[Our Haunted Planet]({{ '/ufo-history/ufo-books/keel-john-our-haunted-planet' | relative_url }})” ([1971]({{ '/tags/1971' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1880090163/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1880090163/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/kottmeyer-martin-s">Kottmeyer, Martin S</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 361 (in an entry entitled “Mind Control By Aliens”) of the New American Library softcover edition, at pages 352-353 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/kottmeyer-martin-s' | relative_url }}">Kottmeyer, Martin S</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 361 (in an entry entitled “Mind Control By Aliens”) of the New American Library softcover edition, at pages 352-353 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -65,10 +65,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/turner-karla">Turner, Karla</a> in her “Into the Fringe” (<a href="/tags/1992">1992</a>) at page 85 (in Chapter 5) of the Berkley paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/turner-karla' | relative_url }}">Turner, Karla</a> in her “Into the Fringe” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) at page 85 (in Chapter 5) of the Berkley paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -76,10 +76,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/kottmeyer-martin-s">Kottmeyer, Martin S</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 437 (in an entry entitled “Mind Control By Aliens”) of the Robinson softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/kottmeyer-martin-s' | relative_url }}">Kottmeyer, Martin S</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 437 (in an entry entitled “Mind Control By Aliens”) of the Robinson softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

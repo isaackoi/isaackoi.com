@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/fuller_paul_1.jpg"}
 ---
 
-![fuller_paul_1](/images/stories/ufo_personalities/fuller_paul_1.jpg)
+![fuller_paul_1]({{ '/images/stories/ufo_personalities/fuller_paul_1.jpg' | relative_url }})
 
 *Paul Fuller*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> and <a href="/ufo-history/ufo-personalities/fuller-paul">Fuller, Paul</a> “<a href="/ufo-history/ufo-books/randles-jenny-and-fuller-paul-crop-circles-a-mystery-solved">Crop Circles : A Mystery Solved</a>” (<a href="/tags/1990">1990</a>) (available <a href="http://www.amazon.com/dp/0709052677/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0709052677/?&amp;tag=ufot-21">on Amazon UK</a>) (Crop Circles). Relates to reports of crop circles.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> and <a href="{{ '/ufo-history/ufo-personalities/fuller-paul' | relative_url }}">Fuller, Paul</a> “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-fuller-paul-crop-circles-a-mystery-solved' | relative_url }}">Crop Circles : A Mystery Solved</a>” (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) (available <a href="http://www.amazon.com/dp/0709052677/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0709052677/?&amp;tag=ufot-21">on Amazon UK</a>) (Crop Circles). Relates to reports of crop circles.</p>
 </td>
 </tr>
 </tbody>
@@ -85,10 +85,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1988">1988</a></p>
+<p><a href="{{ '/tags/1988' | relative_url }}">1988</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/boyd-robert-d">Boyd, Robert D</a> in his “International Who’s Who in Ufology Directory” (<a href="/tags/1988">1988</a>) at pages 98-99 of the PMT Publishing softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/boyd-robert-d' | relative_url }}">Boyd, Robert D</a> in his “International Who’s Who in Ufology Directory” (<a href="{{ '/tags/1988' | relative_url }}">1988</a>) at pages 98-99 of the PMT Publishing softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -96,10 +96,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1993">1993</a></p>
+<p><a href="{{ '/tags/1993' | relative_url }}">1993</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/schnabel-jim">Schnabel, Jim</a> in his “<a href="/ufo-history/ufo-books/schnabel-jim-round-in-circles">Round in Circles</a>” (<a href="/tags/1993">1993</a>) (available <a href="http://www.amazon.com/dp/1591021103/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1591021103/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 36 (in Chapter 4), 67-73 (in Chapter 7), 193, 194-195 (in Chapter 20) of the Hamish Hamilton hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/schnabel-jim' | relative_url }}">Schnabel, Jim</a> in his “<a href="{{ '/ufo-history/ufo-books/schnabel-jim-round-in-circles' | relative_url }}">Round in Circles</a>” (<a href="{{ '/tags/1993' | relative_url }}">1993</a>) (available <a href="http://www.amazon.com/dp/1591021103/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1591021103/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 36 (in Chapter 4), 67-73 (in Chapter 7), 193, 194-195 (in Chapter 20) of the Hamish Hamilton hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>11</p>
@@ -107,10 +107,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/noyes-ralph">Noyes, Ralph</a> in “The <a href="/ufo-history/ufo-books/noyes-ralph-editor-crop-circle-enigma">Crop Circle Enigma</a>” (<a href="/tags/1990">1990</a>) (available <a href="http://www.amazon.com/dp/0946551669/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0946551669/ref=nosim?tag=ufot-21">on Amazon UK</a>) (edited by <a href="/ufo-history/ufo-personalities/noyes-ralph">Ralph Noyes</a>) at page 20 (in the Introduction) of the revised Gateway softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/noyes-ralph' | relative_url }}">Noyes, Ralph</a> in “The <a href="{{ '/ufo-history/ufo-books/noyes-ralph-editor-crop-circle-enigma' | relative_url }}">Crop Circle Enigma</a>” (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) (available <a href="http://www.amazon.com/dp/0946551669/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0946551669/ref=nosim?tag=ufot-21">on Amazon UK</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/noyes-ralph' | relative_url }}">Ralph Noyes</a>) at page 20 (in the Introduction) of the revised Gateway softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

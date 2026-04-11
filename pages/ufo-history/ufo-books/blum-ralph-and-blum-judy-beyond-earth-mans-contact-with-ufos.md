@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0963916122.jpg"}
 book: {"identifiers": ["B000H3RDQY", "0963916122", "0960855866"], "primary_isbn": "0963916122", "cover_image": "/book-covers/0963916122.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of Blum, Ralph and Blum, Judy “[Beyond Earth: Man’s Contact with UFOs](/ufo-history/ufo-books/blum-ralph-and-blum-judy-beyond-earth-mans-contact-with-ufos)” ([1974](/tags/1974)) (available [on Amazon USA](http://www.amazon.com/dp/B000H3RDQY/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B000H3RDQY/?&tag=ufot-21))
+Brief review to be added of Blum, Ralph and Blum, Judy “[Beyond Earth: Man’s Contact with UFOs]({{ '/ufo-history/ufo-books/blum-ralph-and-blum-judy-beyond-earth-mans-contact-with-ufos' | relative_url }})” ([1974]({{ '/tags/1974' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/B000H3RDQY/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B000H3RDQY/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -52,10 +52,10 @@ Many of the tables of references on this website are considerably longer than th
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fitzgerald-randall">Fitzgerald, Randall</a> in his “<a href="/ufo-history/ufo-books/fitzgerald-randall-the-cosmic-test-tube">The Cosmic Test Tube</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0963916122/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963916122/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 137-138 (in Section 2) with a one sentence summary at page 371 (in the Guide To Books) of the Moonlake Media softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }}">Fitzgerald, Randall</a> in his “<a href="{{ '/ufo-history/ufo-books/fitzgerald-randall-the-cosmic-test-tube' | relative_url }}">The Cosmic Test Tube</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0963916122/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963916122/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 137-138 (in Section 2) with a one sentence summary at page 371 (in the Guide To Books) of the Moonlake Media softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -63,10 +63,10 @@ Many of the tables of references on this website are considerably longer than th
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1983">1983</a></p>
+<p><a href="{{ '/tags/1983' | relative_url }}">1983</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/hickson-charles">Hickson, Charles</a> and Mendez, William in their “<a href="/ufo-history/ufo-books/hickson-and-mendez-ufo-contact-at-pascagoula">UFO Contact at Pascagoula</a>” (<a href="/tags/1983">1983</a>) (available <a href="http://www.amazon.com/dp/0960855866/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0960855866/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 270-271 (in Appendix D) of the Stevens hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hickson-charles' | relative_url }}">Hickson, Charles</a> and Mendez, William in their “<a href="{{ '/ufo-history/ufo-books/hickson-and-mendez-ufo-contact-at-pascagoula' | relative_url }}">UFO Contact at Pascagoula</a>” (<a href="{{ '/tags/1983' | relative_url }}">1983</a>) (available <a href="http://www.amazon.com/dp/0960855866/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0960855866/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 270-271 (in Appendix D) of the Stevens hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

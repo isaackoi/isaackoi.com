@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/michell_john_3.jpg"}
 ---
 
-![michell_john_3](/images/stories/ufo_personalities/michell_john_3.jpg)
+![michell_john_3]({{ '/images/stories/ufo_personalities/michell_john_3.jpg' | relative_url }})
 
 *John Michell*
 
@@ -36,18 +36,18 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1967">1967</a></p>
+<p><a href="{{ '/tags/1967' | relative_url }}">1967</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/michell-john">Michell, John</a> “<a href="/ufo-history/ufo-books/michell-john-the-flying-saucer-vision">The Flying Saucer Vision</a>” (<a href="/tags/1967">1967</a>) (available <a href="http://www.amazon.com/dp/0349123195/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0349123195/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/michell-john' | relative_url }}">Michell, John</a> “<a href="{{ '/ufo-history/ufo-books/michell-john-the-flying-saucer-vision' | relative_url }}">The Flying Saucer Vision</a>” (<a href="{{ '/tags/1967' | relative_url }}">1967</a>) (available <a href="http://www.amazon.com/dp/0349123195/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0349123195/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1979">1979</a></p>
+<p><a href="{{ '/tags/1979' | relative_url }}">1979</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/michell-john">Michell, John</a> “<a href="/ufo-history/ufo-books/michell-john-the-house-of-lords-ufo-debate">The House of Lords UFO Debate</a>” (<a href="/tags/1979">1979</a>) (available <a href="http://www.amazon.com/dp/0950677205/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0950677205/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/michell-john' | relative_url }}">Michell, John</a> “<a href="{{ '/ufo-history/ufo-books/michell-john-the-house-of-lords-ufo-debate' | relative_url }}">The House of Lords UFO Debate</a>” (<a href="{{ '/tags/1979' | relative_url }}">1979</a>) (available <a href="http://www.amazon.com/dp/0950677205/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0950677205/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>
@@ -91,10 +91,10 @@ For discussion of John Michell see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2007">2007</a></p>
+<p><a href="{{ '/tags/2007' | relative_url }}">2007</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clarke-david">Clarke, David</a> and <a href="/ufo-history/ufo-personalities/roberts-andy">Roberts, Andy</a> in their “<a href="/ufo-history/ufo-books/clarke-david-and-roberts-andy-flying-saucerers">Flying Saucerers : A social history of UFOlogy</a>” (<a href="/tags/2007">2007</a>) (available <a href="http://www.amazon.com/dp/1905646003/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1905646003/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 179-181, 185, 186, 187 (in Chapter 11) of the Alternative Albion softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clarke-david' | relative_url }}">Clarke, David</a> and <a href="{{ '/ufo-history/ufo-personalities/roberts-andy' | relative_url }}">Roberts, Andy</a> in their “<a href="{{ '/ufo-history/ufo-books/clarke-david-and-roberts-andy-flying-saucerers' | relative_url }}">Flying Saucerers : A social history of UFOlogy</a>” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (available <a href="http://www.amazon.com/dp/1905646003/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1905646003/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 179-181, 185, 186, 187 (in Chapter 11) of the Alternative Albion softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>6</p>
@@ -102,10 +102,10 @@ For discussion of John Michell see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p>Lachman, Gary Valentine in his “<a href="/ufo-history/ufo-books/lachman-gary-valentine-turn-off-your-mind">Turn Off Your Mind</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/0971394237/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0971394237/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 295, 303 (in Chapter 11), 369-374 (in Chapter 12) of the Sidgwick &amp; Jackson softcover edition.</p>
+<p>Lachman, Gary Valentine in his “<a href="{{ '/ufo-history/ufo-books/lachman-gary-valentine-turn-off-your-mind' | relative_url }}">Turn Off Your Mind</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/0971394237/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0971394237/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 295, 303 (in Chapter 11), 369-374 (in Chapter 12) of the Sidgwick &amp; Jackson softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>8</p>
@@ -113,10 +113,10 @@ For discussion of John Michell see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1993">1993</a></p>
+<p><a href="{{ '/tags/1993' | relative_url }}">1993</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/schnabel-jim">Schnabel, Jim</a> in his “<a href="/ufo-history/ufo-books/schnabel-jim-round-in-circles">Round in Circles</a>” (<a href="/tags/1993">1993</a>) (available <a href="http://www.amazon.com/dp/1591021103/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1591021103/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 245 (in Chapter 21), 291 (in the Epilogue) of the Hamish Hamilton hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/schnabel-jim' | relative_url }}">Schnabel, Jim</a> in his “<a href="{{ '/ufo-history/ufo-books/schnabel-jim-round-in-circles' | relative_url }}">Round in Circles</a>” (<a href="{{ '/tags/1993' | relative_url }}">1993</a>) (available <a href="http://www.amazon.com/dp/1591021103/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1591021103/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 245 (in Chapter 21), 291 (in the Epilogue) of the Hamish Hamilton hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -124,10 +124,10 @@ For discussion of John Michell see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/hesemann-michael">Hesemann, Michael</a> in his “<a href="/ufo-history/ufo-books/sagan-carl-the-cosmic-connection">The Cosmic Connection</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/1858600170/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1858600170/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 142-143 (in Chapter 14) of the Gateway Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hesemann-michael' | relative_url }}">Hesemann, Michael</a> in his “<a href="{{ '/ufo-history/ufo-books/sagan-carl-the-cosmic-connection' | relative_url }}">The Cosmic Connection</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/1858600170/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1858600170/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 142-143 (in Chapter 14) of the Gateway Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

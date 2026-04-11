@@ -42,11 +42,11 @@ Koi UFO Video 131 appears to show a strange object hovering over the ruins of Ba
 
 Screen shots from this video are included below for ease of identification.
 
-![](/images/stories/ufo_videos/video131_1.JPG)
+![]({{ '/images/stories/ufo_videos/video131_1.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video131_2.JPG)
+![]({{ '/images/stories/ufo_videos/video131_2.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video131_3.JPG)
+![]({{ '/images/stories/ufo_videos/video131_3.JPG' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this video
@@ -72,9 +72,9 @@ The text accompanying the source footage stated the following:
 
 Here are some screenshots from that original footage:
 
-![](/images/stories/ufo_videos/video131_4.JPG)
+![]({{ '/images/stories/ufo_videos/video131_4.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video131_5.JPG)
+![]({{ '/images/stories/ufo_videos/video131_5.JPG' | relative_url }})
 
 The video in which ATCFDrummer pointed out the source footage can be seen below:
 
@@ -82,23 +82,23 @@ The video in which ATCFDrummer pointed out the source footage can be seen below:
 
 The logo in the UFO video refers to "Section 51", a name which commonly appears on lists of known/probable hoaxers of UFO videos - such as [a black list on the amusing "UFO Theater" website](http://ufotheater.com/ufo-channel-reviews/ufo-black-list/):
 
-![](/images/stories/ufo_videos/video085_11.JPG)
+![]({{ '/images/stories/ufo_videos/video085_11.JPG' | relative_url }})
 
 As I've repeatedly tried to communicate to the UFO community, behind the Youtube username that uploaded this "UFO" video (i.e. Section 51) is a in fact [a small team that has described THEMSELVES as "Internet-video creators specialized in dreaming up sci-fi, action YouTube videos, jam-packed with stunning VFX](https://web.archive.org/web/20141020050148/http://www.patreon.com/Section51)". They offer various incentives for those prepared to provide funding for their science-fiction projects (which include planned movies). The incentives include offering, for a small fee, to take the video of your choice and "we insert an original UFO on it".
 
 So now you know what present to get for the ufologist that has everything!
 
-The various other "UFO" videos created by "Section 51" include [Koi UFO Video 085](/ufog/ufo-videos/koi-ufo-video-085). That appears to show a triangular craft causing a large explosion, with a tank in the foreground. It was uploaded to Youtube in May 2014 with a caption stating that it US marines had filmed a mysterious UFO attacking a Taliban cam in the Asadabad District of Afghanistan in March 2014. Many of the early comments on the video speculated that it should a TR-3B (a secret flying triangle aircraft operated by the US Air Force). One copy of the video on Youtube has approximately 2.5 million views as at October 2014. The video was the subject of an article by a popular British newspaper, The Daily Maill. In fact, the "triangular craft" was CGI (Computer Generated Imagery) inserted into footage of an explosion which had been online since 2007, i.e. for about 7 years before the "UFO" event supposedly occurred.
+The various other "UFO" videos created by "Section 51" include [Koi UFO Video 085]({{ '/ufog/ufo-videos/koi-ufo-video-085' | relative_url }}). That appears to show a triangular craft causing a large explosion, with a tank in the foreground. It was uploaded to Youtube in May 2014 with a caption stating that it US marines had filmed a mysterious UFO attacking a Taliban cam in the Asadabad District of Afghanistan in March 2014. Many of the early comments on the video speculated that it should a TR-3B (a secret flying triangle aircraft operated by the US Air Force). One copy of the video on Youtube has approximately 2.5 million views as at October 2014. The video was the subject of an article by a popular British newspaper, The Daily Maill. In fact, the "triangular craft" was CGI (Computer Generated Imagery) inserted into footage of an explosion which had been online since 2007, i.e. for about 7 years before the "UFO" event supposedly occurred.
 
 [https://www.youtube.com/watch?v=AA1yiOehuy8](https://www.youtube.com/watch?v=AA1yiOehuy8)
 
-Other "UFO" videos created by "Section 51" (in relation to which I have previously posted the original footage into which a "UFO" was composited by Section 51...) include [Koi UFO Video 104](/ufog/ufo-videos/koi-ufo-video-104), which supposedly shows a UFO attacking China - but in fact is edited footage of a tanker explosion:
+Other "UFO" videos created by "Section 51" (in relation to which I have previously posted the original footage into which a "UFO" was composited by Section 51...) include [Koi UFO Video 104]({{ '/ufog/ufo-videos/koi-ufo-video-104' | relative_url }}), which supposedly shows a UFO attacking China - but in fact is edited footage of a tanker explosion:
 
 # [https://www.youtube.com/watch?v=Qi-SZLtcZ2o](https://www.youtube.com/watch?v=Qi-SZLtcZ2o)
 
 #
 
-Other videos created by "Section 51" debunked on this website include [Koi UFO Video 111](/ufog/ufo-videos/koi-ufo-video-111):
+Other videos created by "Section 51" debunked on this website include [Koi UFO Video 111]({{ '/ufog/ufo-videos/koi-ufo-video-111' | relative_url }}):
 
 # [https://www.youtube.com/watch?v=ST6X0Ra7zOQ](https://www.youtube.com/watch?v=ST6X0Ra7zOQ)
 
@@ -106,35 +106,35 @@ See also:
 
 Koi UFO Video 117: UFOs over Ramsgate Beach, South Africa (Blue Angels)
 
-[http://www.isaackoi.com/ufo-videos/koi-ufo-video-117.html](/ufog/ufo-videos/koi-ufo-video-117)
+[http://www.isaackoi.com/ufo-videos/koi-ufo-video-117.html]({{ '/ufog/ufo-videos/koi-ufo-video-117' | relative_url }})
 
 Koi UFO Video 118: Hexagonal UFO over Rio De Janeiro (Section 51)
 
-[http://www.isaackoi.com/ufo-videos/koi-ufo-video-118.html](/ufog/ufo-videos/koi-ufo-video-118)
+[http://www.isaackoi.com/ufo-videos/koi-ufo-video-118.html]({{ '/ufog/ufo-videos/koi-ufo-video-118' | relative_url }})
 
 Koi UFO Video 120: Sphere UFOs over Bosnia (Section 51)
 
-[http://www.isaackoi.com/ufo-videos/koi-ufo-video-120.html](/ufog/ufo-videos/koi-ufo-video-120)
+[http://www.isaackoi.com/ufo-videos/koi-ufo-video-120.html]({{ '/ufog/ufo-videos/koi-ufo-video-120' | relative_url }})
 
 Koi UFO Video 121: UFOs over Montsegur Castle, France (Section 51)
 
-[http://www.isaackoi.com/ufo-videos/koi-ufo-video-121.html](/ufog/ufo-videos/koi-ufo-video-121)
+[http://www.isaackoi.com/ufo-videos/koi-ufo-video-121.html]({{ '/ufog/ufo-videos/koi-ufo-video-121' | relative_url }})
 
 Koi UFO Video 122: US Navy Pilots film UFO over Pacific Ocean (Section 51)
 
-[http://www.isaackoi.com/ufo-videos/koi-ufo-video-122.html](/ufog/ufo-videos/koi-ufo-video-122)
+[http://www.isaackoi.com/ufo-videos/koi-ufo-video-122.html]({{ '/ufog/ufo-videos/koi-ufo-video-122' | relative_url }})
 
 Koi UFO Video 124: UFO Fleet in Area 51 (Section 51)
 
-[http://www.isaackoi.com/ufo-videos/koi-ufo-video-124.html](/ufog/ufo-videos/koi-ufo-video-124)
+[http://www.isaackoi.com/ufo-videos/koi-ufo-video-124.html]({{ '/ufog/ufo-videos/koi-ufo-video-124' | relative_url }})
 
 Koi UFO Video 126: Russian pilot encounters 2 UFOs (Section 51)
 
-[http://www.isaackoi.com/ufo-videos/koi-ufo-video-126.html](/ufog/ufo-videos/koi-ufo-video-126)
+[http://www.isaackoi.com/ufo-videos/koi-ufo-video-126.html]({{ '/ufog/ufo-videos/koi-ufo-video-126' | relative_url }})
 
 <a id="forums"></a>
 ### 4. Relevant online discussions
 
 Quite a few comments on this UFO video were posted in the comments section on Youtube. Possibly because of the low quality of this particular hoax, as at September 2016 the number of "thumbs up" votes for this Section 51 "UFO" video on Youtube were outnumbered (by nearly 2 to 1) by the number of "thumbs down" votes.
 
-![](/images/stories/ufo_videos/video131_2d.JPG)
+![]({{ '/images/stories/ufo_videos/video131_2d.JPG' | relative_url }})

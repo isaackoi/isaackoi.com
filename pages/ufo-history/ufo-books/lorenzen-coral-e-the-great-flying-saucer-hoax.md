@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0253190061.jpg"}
 book: {"identifiers": ["B0007EF5K4", "0253190061"], "primary_isbn": "0253190061", "cover_image": "/book-covers/0253190061.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Lorenzen, Coral](/ufo-history/ufo-personalities/lorenzen-coral-e) E's book “[The Great Flying Saucer Hoax](/ufo-history/ufo-books/lorenzen-coral-e-the-great-flying-saucer-hoax)” ([1962](/tags/1962)) (available [on Amazon USA](http://www.amazon.com/dp/B0007EF5K4/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B0007EF5K4/?&tag=ufot-21))
+Brief review to be added of [Lorenzen, Coral]({{ '/ufo-history/ufo-personalities/lorenzen-coral-e' | relative_url }}) E's book “[The Great Flying Saucer Hoax]({{ '/ufo-history/ufo-books/lorenzen-coral-e-the-great-flying-saucer-hoax' | relative_url }})” ([1962]({{ '/tags/1962' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/B0007EF5K4/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B0007EF5K4/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1975">1975</a></p>
+<p><a href="{{ '/tags/1975' | relative_url }}">1975</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/jacobs-david-michael">Jacobs, David Michael</a> in his “<a href="/ufo-history/ufo-books/jacobs-david-michael-the-ufo-controversy-in-america">The UFO Controversy in America</a>” (<a href="/tags/1975">1975</a>) (available <a href="http://www.amazon.com/dp/0253190061/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0253190061/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 223 (in Chapter 8) of the Indiana hardback edition, page 198 of the Signet paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/jacobs-david-michael' | relative_url }}">Jacobs, David Michael</a> in his “<a href="{{ '/ufo-history/ufo-books/jacobs-david-michael-the-ufo-controversy-in-america' | relative_url }}">The UFO Controversy in America</a>” (<a href="{{ '/tags/1975' | relative_url }}">1975</a>) (available <a href="http://www.amazon.com/dp/0253190061/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0253190061/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 223 (in Chapter 8) of the Indiana hardback edition, page 198 of the Signet paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

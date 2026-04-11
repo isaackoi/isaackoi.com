@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/kolosimo_peter_3.jpg"}
 ---
 
-![kolosimo_peter_3](/images/stories/ufo_personalities/kolosimo_peter_3.jpg)
+![kolosimo_peter_3]({{ '/images/stories/ufo_personalities/kolosimo_peter_3.jpg' | relative_url }})
 
 *Peter Kolosimo*
 
@@ -36,18 +36,18 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1968">1968</a></p>
+<p><a href="{{ '/tags/1968' | relative_url }}">1968</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/kolosimo-peter">Kolosimo, Peter</a> “Timeless Earth”</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/kolosimo-peter' | relative_url }}">Kolosimo, Peter</a> “Timeless Earth”</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1969">1969</a></p>
+<p><a href="{{ '/tags/1969' | relative_url }}">1969</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/kolosimo-peter">Kolosimo, Peter</a> “Not of this World”</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/kolosimo-peter' | relative_url }}">Kolosimo, Peter</a> “Not of this World”</p>
 </td>
 </tr>
 </tbody>

@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": null}
 ---
 
-Brief review to be added of Major [Hector Quintanilla](/ufo-history/ufo-personalities/quintanilla-hector)'s book “[UFOs: An Air Force Dilemma](/ufo-history/ufo-books/quintanilla-hector-major-ufos-an-air-force-dilemma)”
+Brief review to be added of Major [Hector Quintanilla]({{ '/ufo-history/ufo-personalities/quintanilla-hector' | relative_url }})'s book “[UFOs: An Air Force Dilemma]({{ '/ufo-history/ufo-books/quintanilla-hector-major-ufos-an-air-force-dilemma' | relative_url }})”
 
 1. [Web Resources](#web)
 
@@ -53,10 +53,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1974">1974</a></p>
+<p><a href="{{ '/tags/1974' | relative_url }}">1974</a></p>
 </td>
 <td valign="top" width="547">
-<p>NIDS in the preface to Major <a href="/ufo-history/ufo-personalities/quintanilla-hector">Hector Quintanilla</a> unpublished manuscript entitled “<a href="/ufo-history/ufo-books/quintanilla-hector-major-ufos-an-air-force-dilemma">UFOs: An Air Force Dilemma</a>” (copyright <a href="/tags/1974">1974</a>) at page 1 of the NIDS pdf version available free on-line on various websites, including at the following link: <a href="http://www.nidsci.org/pdf/quintanilla.pdf">http://www.nidsci.org/pdf/quintanilla.pdf</a></p>
+<p>NIDS in the preface to Major <a href="{{ '/ufo-history/ufo-personalities/quintanilla-hector' | relative_url }}">Hector Quintanilla</a> unpublished manuscript entitled “<a href="{{ '/ufo-history/ufo-books/quintanilla-hector-major-ufos-an-air-force-dilemma' | relative_url }}">UFOs: An Air Force Dilemma</a>” (copyright <a href="{{ '/tags/1974' | relative_url }}">1974</a>) at page 1 of the NIDS pdf version available free on-line on various websites, including at the following link: <a href="http://www.nidsci.org/pdf/quintanilla.pdf">http://www.nidsci.org/pdf/quintanilla.pdf</a></p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -64,10 +64,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1974">1974</a></p>
+<p><a href="{{ '/tags/1974' | relative_url }}">1974</a></p>
 </td>
 <td valign="top" width="547">
-<p>Chionetti, Alex in the introduction to Major <a href="/ufo-history/ufo-personalities/quintanilla-hector">Hector Quintanilla</a> unpublished manuscript entitled “<a href="/ufo-history/ufo-books/quintanilla-hector-major-ufos-an-air-force-dilemma">UFOs: An Air Force Dilemma</a>” (copyright <a href="/tags/1974">1974</a>) at pages 2-3 of the NIDS pdf version available free on-line on various websites, including at the following link: <a href="http://www.nidsci.org/pdf/quintanilla.pdf">http://www.nidsci.org/pdf/quintanilla.pdf</a></p>
+<p>Chionetti, Alex in the introduction to Major <a href="{{ '/ufo-history/ufo-personalities/quintanilla-hector' | relative_url }}">Hector Quintanilla</a> unpublished manuscript entitled “<a href="{{ '/ufo-history/ufo-books/quintanilla-hector-major-ufos-an-air-force-dilemma' | relative_url }}">UFOs: An Air Force Dilemma</a>” (copyright <a href="{{ '/tags/1974' | relative_url }}">1974</a>) at pages 2-3 of the NIDS pdf version available free on-line on various websites, including at the following link: <a href="http://www.nidsci.org/pdf/quintanilla.pdf">http://www.nidsci.org/pdf/quintanilla.pdf</a></p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

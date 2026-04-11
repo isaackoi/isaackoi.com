@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0780800974.jpg"}
 book: {"identifiers": ["B00188IDHK", "0780800974", "0374133247", "0963916122"], "primary_isbn": "0780800974", "cover_image": "/book-covers/0780800974.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Brinsley Le Poer Trench](/ufo-history/ufo-personalities/trench-brinsley-le-poer)'s book “[The Sky People](/ufo-history/ufo-books/trench-brinsley-le-poer-the-earl-of-clancarty-the-sky-people)” ([1960](/tags/1960)) (available [on Amazon USA](http://www.amazon.com/dp/B00188IDHK/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B00188IDHK/?&tag=ufot-21))
+Brief review to be added of [Brinsley Le Poer Trench]({{ '/ufo-history/ufo-personalities/trench-brinsley-le-poer' | relative_url }})'s book “[The Sky People]({{ '/ufo-history/ufo-books/trench-brinsley-le-poer-the-earl-of-clancarty-the-sky-people' | relative_url }})” ([1960]({{ '/tags/1960' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/B00188IDHK/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B00188IDHK/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -34,7 +34,7 @@ The table below includes references to relevant discussions in UFO/SETI books no
 
 Many of the tables of references on this website are considerably longer than the references to books found on most other UFO websites. Indeed, some are probably the longest that have been collated in relation to some events and personalities. I hope that these tables are found to be a useful contribution to UFOlogy.
 
-For discussion of “[The Sky People](/ufo-history/ufo-books/trench-brinsley-le-poer-the-earl-of-clancarty-the-sky-people)” see the following:
+For discussion of “[The Sky People]({{ '/ufo-history/ufo-books/trench-brinsley-le-poer-the-earl-of-clancarty-the-sky-people' | relative_url }})” see the following:
 
 <table border="1" cellpadding="0" cellspacing="0" class="sortable" data-sortable="true" id="sortabletable">
 <thead>
@@ -54,10 +54,10 @@ For discussion of “[The Sky People](/ufo-history/ufo-books/trench-brinsley-le-
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) in Volume 1:A-K at pages 79-80 (in an entry entitled “Ancient Astronauts in the UFO Literature”) of the Omnigraphics hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition' | relative_url }}">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) in Volume 1:A-K at pages 79-80 (in an entry entitled “Ancient Astronauts in the UFO Literature”) of the Omnigraphics hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -65,10 +65,10 @@ For discussion of “[The Sky People](/ufo-history/ufo-books/trench-brinsley-le-
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1973">1973</a></p>
+<p><a href="{{ '/tags/1973' | relative_url }}">1973</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/evans-christopher">Evans, Christopher</a> in his “<a href="/ufo-history/ufo-books/evans-christopher-cults-of-unreason">Cults of Unreason</a>” (<a href="/tags/1973">1973</a>) (available <a href="http://www.amazon.com/dp/0374133247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0374133247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 175 (in Part 2, Chapter 3) of the Panther paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/evans-christopher' | relative_url }}">Evans, Christopher</a> in his “<a href="{{ '/ufo-history/ufo-books/evans-christopher-cults-of-unreason' | relative_url }}">Cults of Unreason</a>” (<a href="{{ '/tags/1973' | relative_url }}">1973</a>) (available <a href="http://www.amazon.com/dp/0374133247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0374133247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 175 (in Part 2, Chapter 3) of the Panther paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -76,10 +76,10 @@ For discussion of “[The Sky People](/ufo-history/ufo-books/trench-brinsley-le-
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fitzgerald-randall">Fitzgerald, Randall</a> in his “<a href="/ufo-history/ufo-books/fitzgerald-randall-the-cosmic-test-tube">The Cosmic Test Tube</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0963916122/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963916122/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 24-26 (in Section 1) with a one sentence summary at page 367 (in the Guide To Books) of the Moonlake Media softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }}">Fitzgerald, Randall</a> in his “<a href="{{ '/ufo-history/ufo-books/fitzgerald-randall-the-cosmic-test-tube' | relative_url }}">The Cosmic Test Tube</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0963916122/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963916122/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 24-26 (in Section 1) with a one sentence summary at page 367 (in the Guide To Books) of the Moonlake Media softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -87,10 +87,10 @@ For discussion of “[The Sky People](/ufo-history/ufo-books/trench-brinsley-le-
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/harbinson-w-a">Harbinson, W A</a> in his “Projekt Saucer” (<a href="/tags/1995">1995</a>) at page 11 (in Chapter 1) of the Box Tree hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/harbinson-w-a' | relative_url }}">Harbinson, W A</a> in his “Projekt Saucer” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) at page 11 (in Chapter 1) of the Box Tree hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -98,10 +98,10 @@ For discussion of “[The Sky People](/ufo-history/ufo-books/trench-brinsley-le-
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1973">1973</a></p>
+<p><a href="{{ '/tags/1973' | relative_url }}">1973</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/norman-eric">Norman, Eric</a> (pseudonum of Warren Smith) in his “Gods and Devils from Outer Space” (<a href="/tags/1973">1973</a>) at pages 13-20 (in the unnumbered chapter entitled “Legends of <a href="/ufo-history/ufo-books/trench-brinsley-le-poer-the-earl-of-clancarty-the-sky-people">The Sky People</a>”) of the Lancer paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/norman-eric' | relative_url }}">Norman, Eric</a> (pseudonum of Warren Smith) in his “Gods and Devils from Outer Space” (<a href="{{ '/tags/1973' | relative_url }}">1973</a>) at pages 13-20 (in the unnumbered chapter entitled “Legends of <a href="{{ '/ufo-history/ufo-books/trench-brinsley-le-poer-the-earl-of-clancarty-the-sky-people' | relative_url }}">The Sky People</a>”) of the Lancer paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>8</p>

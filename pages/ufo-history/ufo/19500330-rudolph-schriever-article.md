@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -47,7 +47,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-See entry in relation to [Rudolph Schriever](/ufo-history/ufo-personalities/schriever-rudolph).
+See entry in relation to [Rudolph Schriever]({{ '/ufo-history/ufo-personalities/schriever-rudolph' | relative_url }}).
 
 <a id="other"></a>
 ### Other Material

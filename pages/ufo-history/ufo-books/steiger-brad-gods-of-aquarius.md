@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/015136415X.jpg"}
 book: {"identifiers": ["015136415X", "1578590299", "0397317808", "074810142X", "0922915679", "B000S2L0EK", "0879753382", "1573922137", "0441015719"], "primary_isbn": "015136415X", "cover_image": "/book-covers/015136415X.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Brad Steiger](/ufo-history/ufo-personalities/steiger-brad)'s book “[Gods of Aquarius](/ufo-history/ufo-books/steiger-brad-gods-of-aquarius)” ([1976](/tags/1976)) (available [on Amazon USA](http://www.amazon.com/dp/015136415X/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/015136415X/?&tag=ufot-21))
+Brief review to be added of [Brad Steiger]({{ '/ufo-history/ufo-personalities/steiger-brad' | relative_url }})'s book “[Gods of Aquarius]({{ '/ufo-history/ufo-books/steiger-brad-gods-of-aquarius' | relative_url }})” ([1976]({{ '/tags/1976' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/015136415X/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/015136415X/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-the-ufo-book">The UFO Book</a>: Encyclopedia of the Extraterrestrial” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/1578590299/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1578590299/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 107 (in an entry entitled “Contactees”) of the Visible Ink Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-the-ufo-book' | relative_url }}">The UFO Book</a>: Encyclopedia of the Extraterrestrial” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/1578590299/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1578590299/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 107 (in an entry entitled “Contactees”) of the Visible Ink Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -65,10 +65,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1978">1978</a></p>
+<p><a href="{{ '/tags/1978' | relative_url }}">1978</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/cohen-daniel">Cohen, Daniel</a> in his “<a href="/ufo-history/ufo-books/cohen-daniel-the-world-of-ufos">The World of UFOs</a>” (<a href="/tags/1978">1978</a>) (available <a href="http://www.amazon.com/dp/0397317808/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0397317808/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 142-147 (in Chapter 18) of the Lippincott hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/cohen-daniel' | relative_url }}">Cohen, Daniel</a> in his “<a href="{{ '/ufo-history/ufo-books/cohen-daniel-the-world-of-ufos' | relative_url }}">The World of UFOs</a>” (<a href="{{ '/tags/1978' | relative_url }}">1978</a>) (available <a href="http://www.amazon.com/dp/0397317808/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0397317808/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 142-147 (in Chapter 18) of the Lippincott hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>6</p>
@@ -76,10 +76,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1984">1984</a></p>
+<p><a href="{{ '/tags/1984' | relative_url }}">1984</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/evans-hilary">Evans, Hilary</a> in “<a href="/ufo-history/ufo-books/brookesmith-peter-editor-ufos-where-do-they-come-from">UFOs: Where Do They Come From?</a>” (<a href="/tags/1984">1984</a>) (edited by <a href="/ufo-history/ufo-personalities/brookesmith-peter">Peter Brookesmith</a>) (available <a href="http://www.amazon.com/dp/074810142X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/074810142X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 63 (in the unnumbered chapter entitled “Saucers of Satan”) of the Black Cat hardback edition. The relevant chapter is an article reprinted from the weekly partwork “The Unexplained”.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }}">Evans, Hilary</a> in “<a href="{{ '/ufo-history/ufo-books/brookesmith-peter-editor-ufos-where-do-they-come-from' | relative_url }}">UFOs: Where Do They Come From?</a>” (<a href="{{ '/tags/1984' | relative_url }}">1984</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/brookesmith-peter' | relative_url }}">Peter Brookesmith</a>) (available <a href="http://www.amazon.com/dp/074810142X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/074810142X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 63 (in the unnumbered chapter entitled “Saucers of Satan”) of the Black Cat hardback edition. The relevant chapter is an article reprinted from the weekly partwork “The Unexplained”.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -87,10 +87,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p>Kossy, Donna in her “<a href="/ufo-history/ufo-books/kossy-donna-kooks">Kooks</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/0922915679/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0922915679/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 224 (in Part 6, in the unnumbered chapter entitled “Paul Laffoley: Third Generation Lunatic Fringe”) of the Feral House softcover edition.</p>
+<p>Kossy, Donna in her “<a href="{{ '/ufo-history/ufo-books/kossy-donna-kooks' | relative_url }}">Kooks</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/0922915679/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0922915679/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 224 (in Part 6, in the unnumbered chapter entitled “Paul Laffoley: Third Generation Lunatic Fringe”) of the Feral House softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -98,10 +98,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1984">1984</a></p>
+<p><a href="{{ '/tags/1984' | relative_url }}">1984</a></p>
 </td>
 <td valign="top" width="547">
-<p>McClure, Kevin in “<a href="/ufo-history/ufo-books/brookesmith-peter-editor-the-age-of-the-ufo">The Age of the UFO</a>” (<a href="/tags/1984">1984</a>) (edited by <a href="/ufo-history/ufo-personalities/brookesmith-peter">Peter Brookesmith</a>) (available <a href="http://www.amazon.com/dp/B000S2L0EK/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000S2L0EK/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 128 (in the unnumbered chapter entitled “Reaching For The Sky”) of the Black Cat hardback edition. The relevant chapter is an article reprinted from the weekly partwork “The Unexplained”.</p>
+<p>McClure, Kevin in “<a href="{{ '/ufo-history/ufo-books/brookesmith-peter-editor-the-age-of-the-ufo' | relative_url }}">The Age of the UFO</a>” (<a href="{{ '/tags/1984' | relative_url }}">1984</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/brookesmith-peter' | relative_url }}">Peter Brookesmith</a>) (available <a href="http://www.amazon.com/dp/B000S2L0EK/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000S2L0EK/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 128 (in the unnumbered chapter entitled “Reaching For The Sky”) of the Black Cat hardback edition. The relevant chapter is an article reprinted from the weekly partwork “The Unexplained”.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -109,10 +109,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sheaffer-robert">Sheaffer, Robert</a> in his “<a href="/ufo-history/ufo-books/sheaffer-robert-the-ufo-verdict">The UFO Verdict</a>” (<a href="/tags/1980">1980</a>) (available <a href="http://www.amazon.com/dp/0879753382/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879753382/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 171 (in Chapter 17) of the Prometheus softback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sheaffer-robert' | relative_url }}">Sheaffer, Robert</a> in his “<a href="{{ '/ufo-history/ufo-books/sheaffer-robert-the-ufo-verdict' | relative_url }}">The UFO Verdict</a>” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) (available <a href="http://www.amazon.com/dp/0879753382/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879753382/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 171 (in Chapter 17) of the Prometheus softback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -120,10 +120,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sheaffer-robert">Sheaffer, Robert</a> in his “<a href="/ufo-history/ufo-books/sheaffer-robert-ufo-sightings-the-evidence">UFO Sightings: The Evidence</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/1573922137/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573922137/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 225 (in Chapter 16) of the Prometheus hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sheaffer-robert' | relative_url }}">Sheaffer, Robert</a> in his “<a href="{{ '/ufo-history/ufo-books/sheaffer-robert-ufo-sightings-the-evidence' | relative_url }}">UFO Sightings: The Evidence</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/1573922137/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573922137/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 225 (in Chapter 16) of the Prometheus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -131,10 +131,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1981">1981</a></p>
+<p><a href="{{ '/tags/1981' | relative_url }}">1981</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/steiger-brad">Steiger, Brad</a> and Steiger, Francie in their “<a href="/ufo-history/ufo-books/steiger-brad-and-steiger-francie-the-star-people">The Star People</a>” (<a href="/tags/1981">1981</a>) at page 15 (in Chapter 2) of the Berkley paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/steiger-brad' | relative_url }}">Steiger, Brad</a> and Steiger, Francie in their “<a href="{{ '/ufo-history/ufo-books/steiger-brad-and-steiger-francie-the-star-people' | relative_url }}">The Star People</a>” (<a href="{{ '/tags/1981' | relative_url }}">1981</a>) at page 15 (in Chapter 2) of the Berkley paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -142,10 +142,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1978">1978</a></p>
+<p><a href="{{ '/tags/1978' | relative_url }}">1978</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/steiger-brad">Steiger, Brad</a> in his “Alien Meetings” (<a href="/tags/1978">1978</a>) (available <a href="http://www.amazon.com/dp/0441015719/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0441015719/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 5 (in Chapter 1) of the Ace paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/steiger-brad' | relative_url }}">Steiger, Brad</a> in his “Alien Meetings” (<a href="{{ '/tags/1978' | relative_url }}">1978</a>) (available <a href="http://www.amazon.com/dp/0441015719/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0441015719/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 5 (in Chapter 1) of the Ace paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

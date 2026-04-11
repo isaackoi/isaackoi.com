@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0805070893.jpg"}
 book: {"identifiers": ["0805070893"], "primary_isbn": "0805070893", "cover_image": "/book-covers/0805070893.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Michael Shermer](/ufo-history/ufo-personalities/shermer-michael)'s book “[Why People Believe Weird Things](/ufo-history/ufo-books/shermer-michael-why-people-believe-weird-things)” ([1997](/tags/1997)) (available [on Amazon USA](http://www.amazon.com/dp/0805070893/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0805070893/?&tag=ufot-21))
+Brief review to be added of [Michael Shermer]({{ '/ufo-history/ufo-personalities/shermer-michael' | relative_url }})'s book “[Why People Believe Weird Things]({{ '/ufo-history/ufo-books/shermer-michael-why-people-believe-weird-things' | relative_url }})” ([1997]({{ '/tags/1997' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0805070893/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0805070893/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

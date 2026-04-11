@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/landsburg_alan_1.jpg"}
 ---
 
-![landsburg_alan_1](/images/stories/ufo_personalities/landsburg_alan_1.jpg)
+![landsburg_alan_1]({{ '/images/stories/ufo_personalities/landsburg_alan_1.jpg' | relative_url }})
 
 *Alan Landsburg*
 
@@ -36,26 +36,26 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1974">1974</a></p>
+<p><a href="{{ '/tags/1974' | relative_url }}">1974</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/landsburg-alan">Landsburg, Alan</a> and Landsburg, Sally “<a href="/ufo-history/ufo-books/landsburg-alan-and-landsburg-sally-in-search-of-ancient-mysteries">In Search of Ancient Mysteries</a>” (<a href="/tags/1974">1974</a>) (available <a href="http://www.amazon.com/dp/0553083767/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0553083767/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/landsburg-alan' | relative_url }}">Landsburg, Alan</a> and Landsburg, Sally “<a href="{{ '/ufo-history/ufo-books/landsburg-alan-and-landsburg-sally-in-search-of-ancient-mysteries' | relative_url }}">In Search of Ancient Mysteries</a>” (<a href="{{ '/tags/1974' | relative_url }}">1974</a>) (available <a href="http://www.amazon.com/dp/0553083767/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0553083767/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1975">1975</a></p>
+<p><a href="{{ '/tags/1975' | relative_url }}">1975</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/landsburg-alan">Landsburg, Alan</a> and Landsburg, Sally “The Outer Space Connection”</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/landsburg-alan' | relative_url }}">Landsburg, Alan</a> and Landsburg, Sally “The Outer Space Connection”</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1976">1976</a></p>
+<p><a href="{{ '/tags/1976' | relative_url }}">1976</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/landsburg-alan">Landsburg, Alan</a> “<a href="/ufo-history/ufo-books/landsburg-alan-in-search-of-extraterrestrials">In Search of Extraterrestrials</a>” (<a href="/tags/1976">1976</a>) (available <a href="http://www.amazon.com/dp/0553107224/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0553107224/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/landsburg-alan' | relative_url }}">Landsburg, Alan</a> “<a href="{{ '/ufo-history/ufo-books/landsburg-alan-in-search-of-extraterrestrials' | relative_url }}">In Search of Extraterrestrials</a>” (<a href="{{ '/tags/1976' | relative_url }}">1976</a>) (available <a href="http://www.amazon.com/dp/0553107224/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0553107224/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>

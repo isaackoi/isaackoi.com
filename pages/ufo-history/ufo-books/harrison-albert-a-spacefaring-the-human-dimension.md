@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0520224531.jpg"}
 book: {"identifiers": ["0520224531"], "primary_isbn": "0520224531", "cover_image": "/book-covers/0520224531.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Albert A Harrison](/ufo-history/ufo-personalities/harrison-albert-a)'s book “[Spacefaring: The Human Dimension](/ufo-history/ufo-books/harrison-albert-a-spacefaring-the-human-dimension)” ([2001](/tags/2001)) (available [on Amazon USA](http://www.amazon.com/dp/0520224531/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0520224531/?&tag=ufot-21))
+Brief review to be added of [Albert A Harrison]({{ '/ufo-history/ufo-personalities/harrison-albert-a' | relative_url }})'s book “[Spacefaring: The Human Dimension]({{ '/ufo-history/ufo-books/harrison-albert-a-spacefaring-the-human-dimension' | relative_url }})” ([2001]({{ '/tags/2001' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0520224531/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0520224531/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

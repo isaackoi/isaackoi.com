@@ -14,7 +14,7 @@ header: {"preview_image": null}
 book: {"identifiers": ["B000NLQNZC"]}
 ---
 
-Brief review to be added of “[50 Years of UFO Encounters](/ufo-history/ufo-books/randles-jenny-and-hough-peter-50-years-of-ufo-encounters)” ([1996](/tags/1996)) (available [on Amazon USA](http://www.amazon.com/dp/B000NLQNZC/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B000NLQNZC/?&tag=ufot-21)) by [Jenny Randles](/ufo-history/ufo-personalities/randles-jenny) and [Peter Hough](/ufo-history/ufo-personalities/hough-peter).
+Brief review to be added of “[50 Years of UFO Encounters]({{ '/ufo-history/ufo-books/randles-jenny-and-hough-peter-50-years-of-ufo-encounters' | relative_url }})” ([1996]({{ '/tags/1996' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/B000NLQNZC/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B000NLQNZC/?&tag=ufot-21)) by [Jenny Randles]({{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}) and [Peter Hough]({{ '/ufo-history/ufo-personalities/hough-peter' | relative_url }}).
 
 1. [Web Resources](#web)
 

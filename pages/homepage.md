@@ -21,13 +21,13 @@ I am currently constructing this website to give a more structured archive of my
 
 #### The main features of this website are:
 
-#### (1) A "[Free UFO Researcher Starter Pack](/ufog/starter-pack)" giving an outline of various resources online, including official documents, UFO books, podcasts and other material
+#### (1) A "[Free UFO Researcher Starter Pack]({{ '/ufog/starter-pack' | relative_url }})" giving an outline of various resources online, including official documents, UFO books, podcasts and other material
 
-#### (2) Various articles relating to attempts to identify [the "best" UFO cases](/ufog/best-ufo-cases). Ufologists regularly complain that skeptics fail to address the best UFO cases. On the other hand, skeptics frequently complain that “believers” refuse to nominate the best cases.This article considers some of those complaints.
+#### (2) Various articles relating to attempts to identify [the "best" UFO cases]({{ '/ufog/best-ufo-cases' | relative_url }}). Ufologists regularly complain that skeptics fail to address the best UFO cases. On the other hand, skeptics frequently complain that “believers” refuse to nominate the best cases.This article considers some of those complaints.
 
-#### (3) Material relating to [the history of UFO incidents and related matters](/ufo-history), including movies and books.
+#### (3) Material relating to [the history of UFO incidents and related matters]({{ '/ufo-history' | relative_url }}), including movies and books.
 
-#### (4) For a bit of light relief, and to try to address the amount of nonsense written about them, I have included sections on some of the more[popular photographs purportedly of "aliens"](/ufog/alien-photos) and [online "UFO" videos](/ufog/ufo-videos).
+#### (4) For a bit of light relief, and to try to address the amount of nonsense written about them, I have included sections on some of the more[popular photographs purportedly of "aliens"]({{ '/ufog/alien-photos' | relative_url }}) and [online "UFO" videos]({{ '/ufog/ufo-videos' | relative_url }}).
 
 I have previously posted various items online. Links to some of those items are given below.
 

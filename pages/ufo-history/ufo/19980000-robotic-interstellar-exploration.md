@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -67,10 +67,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Achenbach, Joel in his “<a href="/ufo-history/ufo-books/achenbach-joel-captured-by-aliens">Captured by Aliens</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0684848562/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684848562/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 148 (in Chapter 13), 149-159 (in Chapter 14), 239-241 (in Chapter 23), 242-253 (in Chapter 24) of the Simon and Schuster hardback edition.</p>
+<p>Achenbach, Joel in his “<a href="{{ '/ufo-history/ufo-books/achenbach-joel-captured-by-aliens' | relative_url }}">Captured by Aliens</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0684848562/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684848562/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 148 (in Chapter 13), 149-159 (in Chapter 14), 239-241 (in Chapter 23), 242-253 (in Chapter 24) of the Simon and Schuster hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>27</p>
@@ -78,10 +78,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p>Clark, Stuart in his “<a href="/ufo-history/ufo-books/clark-stuart-life-on-other-worlds-and-how-to-find-it">Life on Other Worlds and How to Find It</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/185233097X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/185233097X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 148, 149 (in Chapter 11) of the Springer hardback edition.</p>
+<p>Clark, Stuart in his “<a href="{{ '/ufo-history/ufo-books/clark-stuart-life-on-other-worlds-and-how-to-find-it' | relative_url }}">Life on Other Worlds and How to Find It</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/185233097X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/185233097X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 148, 149 (in Chapter 11) of the Springer hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

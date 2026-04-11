@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/1571740279.jpg"}
 book: {"identifiers": ["1571740279", "0743466748", "0743412192", "0871318563", "0312193475"], "primary_isbn": "1571740279", "cover_image": "/book-covers/1571740279.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Paul R Hill](/ufo-history/ufo-personalities/hill-paul-r)'s book “[Unconventional Flying Objects: A Scientific Analysis](/ufo-history/ufo-books/hill-paul-r-unconventional-flying-objects-a-scientific-analysis)” ([1995](/tags/1995)) (available [on Amazon USA](http://www.amazon.com/dp/1571740279/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1571740279/?&tag=ufot-21))
+Brief review to be added of [Paul R Hill]({{ '/ufo-history/ufo-personalities/hill-paul-r' | relative_url }})'s book “[Unconventional Flying Objects: A Scientific Analysis]({{ '/ufo-history/ufo-books/hill-paul-r-unconventional-flying-objects-a-scientific-analysis' | relative_url }})” ([1995]({{ '/tags/1995' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1571740279/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1571740279/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion of Paul Hill and his book see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2004">2004</a></p>
+<p><a href="{{ '/tags/2004' | relative_url }}">2004</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/birnes-william">Birnes, William</a> in his “<a href="/ufo-history/ufo-books/birnes-william-the-ufo-magazine-ufo-encyclopedia">The UFO Magazine UFO Encyclopedia</a>” (<a href="/tags/2004">2004</a>) (available <a href="http://www.amazon.com/dp/0743466748/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743466748/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 156-157 (in an entry entitled “Hill, Paul”) of the Pocket Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/birnes-william' | relative_url }}">Birnes, William</a> in his “<a href="{{ '/ufo-history/ufo-books/birnes-william-the-ufo-magazine-ufo-encyclopedia' | relative_url }}">The UFO Magazine UFO Encyclopedia</a>” (<a href="{{ '/tags/2004' | relative_url }}">2004</a>) (available <a href="http://www.amazon.com/dp/0743466748/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743466748/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 156-157 (in an entry entitled “Hill, Paul”) of the Pocket Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -65,10 +65,10 @@ For discussion of Paul Hill and his book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2003">2003</a></p>
+<p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/hopkins-budd">Hopkins, Budd</a> and <a href="/ufo-history/ufo-personalities/rainey-carol">Rainey, Carol</a> in their “<a href="/ufo-history/ufo-books/hopkins-budd-and-rainey-carol-sight-unseen">Sight Unseen: Science, UFO Invisibility and Transgenic Beings</a>” (<a href="/tags/2003">2003</a>) (available <a href="http://www.amazon.com/dp/0743412192/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743412192/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 101-103 (in Chapter 5) of the Pocket Star Books paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hopkins-budd' | relative_url }}">Hopkins, Budd</a> and <a href="{{ '/ufo-history/ufo-personalities/rainey-carol' | relative_url }}">Rainey, Carol</a> in their “<a href="{{ '/ufo-history/ufo-books/hopkins-budd-and-rainey-carol-sight-unseen' | relative_url }}">Sight Unseen: Science, UFO Invisibility and Transgenic Beings</a>” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) (available <a href="http://www.amazon.com/dp/0743412192/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743412192/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 101-103 (in Chapter 5) of the Pocket Star Books paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -76,10 +76,10 @@ For discussion of Paul Hill and his book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p>Mannion, Michael in his “<a href="/ufo-history/ufo-books/mannion-michael-project-mindshift">Project Mindshift</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0871318563/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0871318563/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 265 (in Chapter 11) of the Evans hardback edition.</p>
+<p>Mannion, Michael in his “<a href="{{ '/ufo-history/ufo-books/mannion-michael-project-mindshift' | relative_url }}">Project Mindshift</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0871318563/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0871318563/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 265 (in Chapter 11) of the Evans hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -87,10 +87,10 @@ For discussion of Paul Hill and his book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p>Wood, Robert M in Paul R Hill’s “<a href="/ufo-history/ufo-books/hill-paul-r-unconventional-flying-objects-a-scientific-analysis">Unconventional Flying Objects : A Scientific Analysis</a>” (<a href="/tags/1995">1995</a>) at pages 7-9 (in the Foreword) of the Hampton Roads softcover edition.</p>
+<p>Wood, Robert M in Paul R Hill’s “<a href="{{ '/ufo-history/ufo-books/hill-paul-r-unconventional-flying-objects-a-scientific-analysis' | relative_url }}">Unconventional Flying Objects : A Scientific Analysis</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) at pages 7-9 (in the Foreword) of the Hampton Roads softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -98,10 +98,10 @@ For discussion of Paul Hill and his book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p>Wright, Susan in her “<a href="/ufo-history/ufo-books/wright-susan-ufo-headquarters">UFO Headquarters</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0312193475/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312193475/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 60-61 (in Chapter 3), 187-190, 191, 196, 203-204 (in Chapter 10) of the St Martin’s Press softcover edition.</p>
+<p>Wright, Susan in her “<a href="{{ '/ufo-history/ufo-books/wright-susan-ufo-headquarters' | relative_url }}">UFO Headquarters</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0312193475/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312193475/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 60-61 (in Chapter 3), 187-190, 191, 196, 203-204 (in Chapter 10) of the St Martin’s Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>10</p>

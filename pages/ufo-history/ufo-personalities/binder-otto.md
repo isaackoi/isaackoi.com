@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/binder_otto_1.jpg"}
 ---
 
-![binder_otto_1](/images/stories/ufo_personalities/binder_otto_1.jpg)
+![binder_otto_1]({{ '/images/stories/ufo_personalities/binder_otto_1.jpg' | relative_url }})
 
 *Otto Binder*
 
@@ -36,26 +36,26 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1967">1967</a></p>
+<p><a href="{{ '/tags/1967' | relative_url }}">1967</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/binder-otto">Binder, Otto</a> “<a href="/ufo-history/ufo-books/binder-otto-what-we-really-know-about-flying-saucers">What we really know about Flying Saucers</a>” (<a href="/tags/1967">1967</a>) (available <a href="http://www.amazon.com/dp/B000NPYTFO/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000NPYTFO/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/binder-otto' | relative_url }}">Binder, Otto</a> “<a href="{{ '/ufo-history/ufo-books/binder-otto-what-we-really-know-about-flying-saucers' | relative_url }}">What we really know about Flying Saucers</a>” (<a href="{{ '/tags/1967' | relative_url }}">1967</a>) (available <a href="http://www.amazon.com/dp/B000NPYTFO/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000NPYTFO/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1968">1968</a></p>
+<p><a href="{{ '/tags/1968' | relative_url }}">1968</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/binder-otto">Binder, Otto</a> “Flying Saucers Are Watching Us” (<a href="/tags/1968">1968</a>) (available <a href="http://www.amazon.com/dp/0505513048/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0505513048/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/binder-otto' | relative_url }}">Binder, Otto</a> “Flying Saucers Are Watching Us” (<a href="{{ '/tags/1968' | relative_url }}">1968</a>) (available <a href="http://www.amazon.com/dp/0505513048/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0505513048/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1974">1974</a></p>
+<p><a href="{{ '/tags/1974' | relative_url }}">1974</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/flindt-max">Flindt, Max</a> and <a href="/ufo-history/ufo-personalities/binder-otto">Binder, Otto</a> “<a href="/ufo-history/ufo-books/flindt-max-and-binder-otto-mankind-child-of-the-stars">Mankind – Child of the Stars</a>” (<a href="/tags/1974">1974</a>) (available <a href="http://www.amazon.com/dp/1886940061/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1886940061/?&amp;tag=ufot-21">on Amazon UK</a>). (An expanded book based on Maz Flindt’s original pamphlet, “On Tiptoe Beyond Darwin”).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/flindt-max' | relative_url }}">Flindt, Max</a> and <a href="{{ '/ufo-history/ufo-personalities/binder-otto' | relative_url }}">Binder, Otto</a> “<a href="{{ '/ufo-history/ufo-books/flindt-max-and-binder-otto-mankind-child-of-the-stars' | relative_url }}">Mankind – Child of the Stars</a>” (<a href="{{ '/tags/1974' | relative_url }}">1974</a>) (available <a href="http://www.amazon.com/dp/1886940061/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1886940061/?&amp;tag=ufot-21">on Amazon UK</a>). (An expanded book based on Maz Flindt’s original pamphlet, “On Tiptoe Beyond Darwin”).</p>
 </td>
 </tr>
 </tbody>

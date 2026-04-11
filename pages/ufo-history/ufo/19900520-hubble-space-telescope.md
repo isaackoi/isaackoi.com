@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -63,10 +63,10 @@ For discussion of the Hubble Space Telescope (“HST”) see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Achenbach, Joel in his “<a href="/ufo-history/ufo-books/achenbach-joel-captured-by-aliens">Captured by Aliens</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0684848562/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684848562/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 114, 117 (in Chapter 10), 122-127 (in Chapter 11) of the Simon and Schuster hardback edition.</p>
+<p>Achenbach, Joel in his “<a href="{{ '/ufo-history/ufo-books/achenbach-joel-captured-by-aliens' | relative_url }}">Captured by Aliens</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0684848562/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684848562/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 114, 117 (in Chapter 10), 122-127 (in Chapter 11) of the Simon and Schuster hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>8</p>
@@ -74,10 +74,10 @@ For discussion of the Hubble Space Telescope (“HST”) see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Achenbach, Joel in his “<a href="/ufo-history/ufo-books/achenbach-joel-captured-by-aliens">Captured by Aliens</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0684848562/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684848562/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 114-115 (in Chapter 10), 122-127 (in Chapter 11) of the Simon and Schuster hardback edition.</p>
+<p>Achenbach, Joel in his “<a href="{{ '/ufo-history/ufo-books/achenbach-joel-captured-by-aliens' | relative_url }}">Captured by Aliens</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0684848562/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684848562/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 114-115 (in Chapter 10), 122-127 (in Chapter 11) of the Simon and Schuster hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>8</p>
@@ -85,10 +85,10 @@ For discussion of the Hubble Space Telescope (“HST”) see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1985">1985</a></p>
+<p><a href="{{ '/tags/1985' | relative_url }}">1985</a></p>
 </td>
 <td valign="top" width="547">
-<p>Angelo, Joseph A in his “<a href="/ufo-history/ufo-books/angelo-joseph-a-the-extraterrestrial-encyclopedia">The Extraterrestrial Encyclopedia: Man’s Search for Life in Outer Space</a>” (<a href="/tags/1985">1985</a>) (available <a href="http://www.amazon.com/dp/0816022763/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0816022763/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 61-62 (in the entry entitled “Hubble Space Telescope (HST)”) of the revised <a href="/tags/1991">1991</a> Fact on File hardback edition.</p>
+<p>Angelo, Joseph A in his “<a href="{{ '/ufo-history/ufo-books/angelo-joseph-a-the-extraterrestrial-encyclopedia' | relative_url }}">The Extraterrestrial Encyclopedia: Man’s Search for Life in Outer Space</a>” (<a href="{{ '/tags/1985' | relative_url }}">1985</a>) (available <a href="http://www.amazon.com/dp/0816022763/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0816022763/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 61-62 (in the entry entitled “Hubble Space Telescope (HST)”) of the revised <a href="{{ '/tags/1991' | relative_url }}">1991</a> Fact on File hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -96,10 +96,10 @@ For discussion of the Hubble Space Telescope (“HST”) see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2004">2004</a></p>
+<p><a href="{{ '/tags/2004' | relative_url }}">2004</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/birnes-william">Birnes, William</a> in his “<a href="/ufo-history/ufo-books/birnes-william-the-ufo-magazine-ufo-encyclopedia">The UFO Magazine UFO Encyclopedia</a>” (<a href="/tags/2004">2004</a>) (available <a href="http://www.amazon.com/dp/0743466748/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743466748/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 161 (in an entry entitled “Hubble Space Telescope”) of the Pocket Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/birnes-william' | relative_url }}">Birnes, William</a> in his “<a href="{{ '/ufo-history/ufo-books/birnes-william-the-ufo-magazine-ufo-encyclopedia' | relative_url }}">The UFO Magazine UFO Encyclopedia</a>” (<a href="{{ '/tags/2004' | relative_url }}">2004</a>) (available <a href="http://www.amazon.com/dp/0743466748/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743466748/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 161 (in an entry entitled “Hubble Space Telescope”) of the Pocket Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -107,10 +107,10 @@ For discussion of the Hubble Space Telescope (“HST”) see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p>Boss, Alan in his “Looking for Earths: The Race to Find New Solar Systems” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0471184217/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0471184217/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 95-97 (in Chapter 9) of the Wiley hardback edition.</p>
+<p>Boss, Alan in his “Looking for Earths: The Race to Find New Solar Systems” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0471184217/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0471184217/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 95-97 (in Chapter 9) of the Wiley hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -118,10 +118,10 @@ For discussion of the Hubble Space Telescope (“HST”) see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/darling-david">Darling, David</a> in his “<a href="/ufo-history/ufo-books/darling-david-the-extraterrestrial-encyclopedia">The Extraterrestrial Encyclopedia</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/081293248X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/081293248X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 196 (in the entry entitled “Hubble Space Telescope”) of the Three Rivers softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/darling-david' | relative_url }}">Darling, David</a> in his “<a href="{{ '/ufo-history/ufo-books/darling-david-the-extraterrestrial-encyclopedia' | relative_url }}">The Extraterrestrial Encyclopedia</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/081293248X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/081293248X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 196 (in the entry entitled “Hubble Space Telescope”) of the Three Rivers softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -129,10 +129,10 @@ For discussion of the Hubble Space Telescope (“HST”) see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1985">1985</a></p>
+<p><a href="{{ '/tags/1985' | relative_url }}">1985</a></p>
 </td>
 <td valign="top" width="547">
-<p>Haining, Peter in his “Eyewitness to the Galaxy: Britain's contribution to research in space” (<a href="/tags/1985">1985</a>) (available <a href="http://www.amazon.com/dp/0491036108/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0491036108/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 21 (in the Introduction) of the WH Allen hardback edition.</p>
+<p>Haining, Peter in his “Eyewitness to the Galaxy: Britain's contribution to research in space” (<a href="{{ '/tags/1985' | relative_url }}">1985</a>) (available <a href="http://www.amazon.com/dp/0491036108/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0491036108/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 21 (in the Introduction) of the WH Allen hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -140,10 +140,10 @@ For discussion of the Hubble Space Telescope (“HST”) see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p>Halpern, Paul in his “The Quest For Alien Planets” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0738208906/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0738208906/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 14-16 (in the Introduction) of the Plenum Trade hardback edition.</p>
+<p>Halpern, Paul in his “The Quest For Alien Planets” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0738208906/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0738208906/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 14-16 (in the Introduction) of the Plenum Trade hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -151,10 +151,10 @@ For discussion of the Hubble Space Telescope (“HST”) see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p>Lemonick, Michael in his “<a href="/ufo-history/ufo-books/sagan-carl-other-worlds">Other Worlds</a>“ (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0684832941/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684832941/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 138-139, 140 (in Chapter 7) of the Simon &amp; Schuster hardback edition (with the same page numbering in the Simon &amp; Schuster softcover edition).</p>
+<p>Lemonick, Michael in his “<a href="{{ '/ufo-history/ufo-books/sagan-carl-other-worlds' | relative_url }}">Other Worlds</a>“ (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0684832941/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684832941/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 138-139, 140 (in Chapter 7) of the Simon &amp; Schuster hardback edition (with the same page numbering in the Simon &amp; Schuster softcover edition).</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -162,10 +162,10 @@ For discussion of the Hubble Space Telescope (“HST”) see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2002">2002</a></p>
+<p><a href="{{ '/tags/2002' | relative_url }}">2002</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/plait-philip">Plait, Philip</a> in his “<a href="/ufo-history/ufo-books/plait-philip-bad-astronomy">Bad Astronomy</a>” (<a href="/tags/2002">2002</a>) at pages 211 (in Chapter 20), 221 (in the introduction to Part 5), 223-235 (in Chapter 22 generally) of the Wiley softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/plait-philip' | relative_url }}">Plait, Philip</a> in his “<a href="{{ '/ufo-history/ufo-books/plait-philip-bad-astronomy' | relative_url }}">Bad Astronomy</a>” (<a href="{{ '/tags/2002' | relative_url }}">2002</a>) at pages 211 (in Chapter 20), 221 (in the introduction to Part 5), 223-235 (in Chapter 22 generally) of the Wiley softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>6</p>

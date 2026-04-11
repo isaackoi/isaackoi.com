@@ -14,7 +14,7 @@ header: {"preview_image": "https://covers.openlibrary.org/b/isbn/0589502859-L.jp
 book: {"identifiers": ["0589502859", "0806981326"], "primary_isbn": "0589502859", "cover_image": "https://covers.openlibrary.org/b/isbn/0589502859-L.jpg?default=false", "cover_source": "openlibrary"}
 ---
 
-Brief review to be added of [Keith Basterfield](/ufo-history/ufo-personalities/basterfield-keith)'s book “[Close Encounters of an Australian Kind – UFOs: The Image Hypothesis](/ufo-history/ufo-books/basterfield-keith-close-encounters-of-an-australian-kind-ufos-the-image-hypothesis)” ([1981](/tags/1981)) (available [on Amazon USA](http://www.amazon.com/dp/0589502859/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0589502859/?&tag=ufot-21))
+Brief review to be added of [Keith Basterfield]({{ '/ufo-history/ufo-personalities/basterfield-keith' | relative_url }})'s book “[Close Encounters of an Australian Kind – UFOs: The Image Hypothesis]({{ '/ufo-history/ufo-books/basterfield-keith-close-encounters-of-an-australian-kind-ufos-the-image-hypothesis' | relative_url }})” ([1981]({{ '/tags/1981' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0589502859/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0589502859/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -52,10 +52,10 @@ Many of the tables of references on this website are considerably longer than th
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> and <a href="/ufo-history/ufo-personalities/hough-peter">Hough, Peter</a> in their “<a href="/ufo-history/ufo-books/randles-jenny-and-hough-peter-the-complete-book-of-ufos">The Complete Book of UFOs</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/0806981326/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806981326/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 288 (in Chapter 25) of the Piatkus softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> and <a href="{{ '/ufo-history/ufo-personalities/hough-peter' | relative_url }}">Hough, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-hough-peter-the-complete-book-of-ufos' | relative_url }}">The Complete Book of UFOs</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/0806981326/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806981326/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 288 (in Chapter 25) of the Piatkus softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

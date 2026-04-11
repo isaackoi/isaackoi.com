@@ -23,7 +23,7 @@ The video was featured on the website of a newspaper in Liverpool, The Liverpool
 
 In fact, the date of the upload was a clue to the true nature of this video. It was an April Fool's Day joke by a Liverpool newspaper (The Liverpool Echo) and a water company, United Utilities. The joke was admitted the following day, on 2 April 2011. Weeks later, the video appeared on some UFO websites in stories which completely ignored the admission of the joke. Several years later, some people continue to leave comments on copies of the video on Youtube expressing opinions as to what the video shows (again, without referring to the admission of the joke...).
 
-It remains to be seen whether this alien April Fool's Day joke continues to circulate after more than 50 years, as is the case with some previous April Fool's Day UFO hoaxes - such as [Koi Alien Photo 01](/ufog/alien-photos/koi-alien-photo-01) and Koi Alien Photo 02 (both April Fool's Day hoaxes published in Germany in 1950 and both admitted to be a hoax a few days later, but which both continue to be included in UFO literature without any reference to the actual sources of the photos nor the admissions of a prank).
+It remains to be seen whether this alien April Fool's Day joke continues to circulate after more than 50 years, as is the case with some previous April Fool's Day UFO hoaxes - such as [Koi Alien Photo 01]({{ '/ufog/alien-photos/koi-alien-photo-01' | relative_url }}) and Koi Alien Photo 02 (both April Fool's Day hoaxes published in Germany in 1950 and both admitted to be a hoax a few days later, but which both continue to be included in UFO literature without any reference to the actual sources of the photos nor the admissions of a prank).
 
 Sections below:
 
@@ -42,11 +42,11 @@ Koi UFO Video 114 appears to show a strange alien creature in a sewer. The video
 
 Screen shots from the video are included below for ease of identification:
 
-![](/images/stories/ufo_videos/video114_1.JPG)
+![]({{ '/images/stories/ufo_videos/video114_1.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video114_2.JPG)
+![]({{ '/images/stories/ufo_videos/video114_2.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video114_3.JPG)
+![]({{ '/images/stories/ufo_videos/video114_3.JPG' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this video
@@ -65,7 +65,7 @@ The public were today urged to sniff out the pipe prowler dubbed "the most unusu
 
 Sewer workers have jokingly dubbed the creature "Messie" likening it to a dirty version of the Loch Ness Monster.
 
-![](/images/stories/ufo_videos/video114_4.JPG)
+![]({{ '/images/stories/ufo_videos/video114_4.JPG' | relative_url }})
 
 The video has also featured on various UFO websites, including in a story entitled "Strange Alien Recorded On FOUR Videos in UK Sewer Pipes, April 2011 UFO Sighting news" on [a page on the UFO Sightings Daily website](http://www.ufosightingsdaily.com/2011/04/strange-monster-recorded-on-four-videos.html)by Scott C Waring which states the following about this video.
 
@@ -92,21 +92,21 @@ But she said the “real monsters” of the sewers were the discarded items peop
 
 This is backed up by United Utilities figures which reveal nearly 70 % of households in the North West admit to having put unsuitable items such as toddler wipes, sanitary towels, cotton buds or nappies down the toilet, while less than 20% have a bin in their bathroom to dispose of these items properly.
 
-![](/images/stories/ufo_videos/video114_5.JPG)
+![]({{ '/images/stories/ufo_videos/video114_5.JPG' | relative_url }})
 
 The admission of an April Fool's Day prank was also covered by other local newspapers - such as the Manchester Evening News article entitled "[United Utilities' sewer monster April Fool gag goes down the drain](http://www.manchestereveningnews.co.uk/business/business-news/united-utilities-sewer-monster-april-857606)".
 
-![](/images/stories/ufo_videos/video114_6.JPG)
+![]({{ '/images/stories/ufo_videos/video114_6.JPG' | relative_url }})
 
 The admission on 2 April 2011 of an April Fool's Day prank was weeks BEFORE the video appeared on some UFO websites, in stories which completely ignored the admission of the joke...
 
 Several years later, some people continue to leave comments on copies of the video on Youtube expressing opinions as to what the video shows (again, without referring to the admission of the prank...).
 
-It remains to be seen whether this alien April Fool's Day joke continues to circulate after more than 50 years, as is the case with some previous April Fool's Day UFO hoaxes - such as [Koi Alien Photo 01](/ufog/alien-photos/koi-alien-photo-01) and Koi Alien Photo 02 (both April Fool's Day hoaxes published in Germany in 1950 and both admitted to be a hoax a few days later, but which both continue to be included in UFO literature without any reference to the actual sources of the photos nor the admissions of a prank):
+It remains to be seen whether this alien April Fool's Day joke continues to circulate after more than 50 years, as is the case with some previous April Fool's Day UFO hoaxes - such as [Koi Alien Photo 01]({{ '/ufog/alien-photos/koi-alien-photo-01' | relative_url }}) and Koi Alien Photo 02 (both April Fool's Day hoaxes published in Germany in 1950 and both admitted to be a hoax a few days later, but which both continue to be included in UFO literature without any reference to the actual sources of the photos nor the admissions of a prank):
 
-![](/images/stories/ufo_videos/video114_7.JPG)
+![]({{ '/images/stories/ufo_videos/video114_7.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video114_8.JPG)
+![]({{ '/images/stories/ufo_videos/video114_8.JPG' | relative_url }})
 
 <a id="forums"></a>
 #
@@ -119,4 +119,4 @@ Relevant discussions on discussion forums include the following:
 
 2016 (May) discussion on Reddit entitled "[Anyone know if this is fake](https://www.reddit.com/r/UFOs/comments/4khlf1/anyone_know_if_this_is_fake/)"
 
-![](/images/stories/ufo_videos/video114_3d.JPG)
+![]({{ '/images/stories/ufo_videos/video114_3d.JPG' | relative_url }})

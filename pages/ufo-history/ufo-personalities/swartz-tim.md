@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/swartz_tim_1.jpg"}
 ---
 
-![swartz_tim_1](/images/stories/ufo_personalities/swartz_tim_1.jpg)
+![swartz_tim_1]({{ '/images/stories/ufo_personalities/swartz_tim_1.jpg' | relative_url }})
 
 *Tim Swartz*
 
@@ -36,18 +36,18 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/swartz-tim">Swartz, Tim</a> “Secret Black Projects of the New World Order: Anti-Gravity UFOs, Black Helicopters and Mysterious Flying Triangles”</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/swartz-tim' | relative_url }}">Swartz, Tim</a> “Secret Black Projects of the New World Order: Anti-Gravity UFOs, Black Helicopters and Mysterious Flying Triangles”</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/swartz-tim">Swartz, Tim</a> “Evil Agenda of the Secret Government: Exposing Project Paper Clip and the Underground UFO Bases of Hitler’s Elite Scientific Corps”</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/swartz-tim' | relative_url }}">Swartz, Tim</a> “Evil Agenda of the Secret Government: Exposing Project Paper Clip and the Underground UFO Bases of Hitler’s Elite Scientific Corps”</p>
 </td>
 </tr>
 </tbody>

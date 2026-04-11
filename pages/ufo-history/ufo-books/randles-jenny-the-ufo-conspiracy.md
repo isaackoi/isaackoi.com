@@ -14,7 +14,7 @@ header: {"preview_image": "https://covers.openlibrary.org/b/isbn/0713719729-L.jp
 book: {"identifiers": ["0713719729", "0688088643"], "primary_isbn": "0713719729", "cover_image": "https://covers.openlibrary.org/b/isbn/0713719729-L.jpg?default=false", "cover_source": "openlibrary"}
 ---
 
-Brief review to be added of “[The UFO Conspiracy](/ufo-history/ufo-books/randles-jenny-the-ufo-conspiracy)” ([1987](/tags/1987)) (available [on Amazon USA](http://www.amazon.com/dp/0713719729/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0713719729/?&tag=ufot-21)) by [Jenny Randles](/ufo-history/ufo-personalities/randles-jenny).
+Brief review to be added of “[The UFO Conspiracy]({{ '/ufo-history/ufo-books/randles-jenny-the-ufo-conspiracy' | relative_url }})” ([1987]({{ '/tags/1987' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0713719729/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0713719729/?&tag=ufot-21)) by [Jenny Randles]({{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}).
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1989">1989</a></p>
+<p><a href="{{ '/tags/1989' | relative_url }}">1989</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/conroy-ed">Conroy, Ed</a> in his “<a href="/ufo-history/ufo-books/conroy-ed-report-on-communion">Report on Communion</a>” (<a href="/tags/1989">1989</a>) (available <a href="http://www.amazon.com/dp/0688088643/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0688088643/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 154-155, 156 (in Chapter 4) of the Avon paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/conroy-ed' | relative_url }}">Conroy, Ed</a> in his “<a href="{{ '/ufo-history/ufo-books/conroy-ed-report-on-communion' | relative_url }}">Report on Communion</a>” (<a href="{{ '/tags/1989' | relative_url }}">1989</a>) (available <a href="http://www.amazon.com/dp/0688088643/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0688088643/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 154-155, 156 (in Chapter 4) of the Avon paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>

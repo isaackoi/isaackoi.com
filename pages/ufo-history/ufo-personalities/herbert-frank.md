@@ -13,13 +13,13 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/herbert_frank_1.jpg"}
 ---
 
-![herbert_frank_1](/images/stories/ufo_personalities/herbert_frank_1.jpg)
+![herbert_frank_1]({{ '/images/stories/ufo_personalities/herbert_frank_1.jpg' | relative_url }})
 
 *Frank Herbert*
 
 Brief comments to be added on this individual.
 
-Frank Herbert was the author of numerous science-fiction novels, including “[Dune](/ufo-history/ufo-books/herbert-frank-dune)” ([1965](/tags/1965)) (available [on Amazon USA](http://www.amazon.com/dp/0450011844/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0450011844/?&tag=ufot-21)).
+Frank Herbert was the author of numerous science-fiction novels, including “[Dune]({{ '/ufo-history/ufo-books/herbert-frank-dune' | relative_url }})” ([1965]({{ '/tags/1965' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0450011844/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0450011844/?&tag=ufot-21)).
 
 Sections below:
 
@@ -61,10 +61,10 @@ For discussion of Frank Herbert see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1973">1973</a></p>
+<p><a href="{{ '/tags/1973' | relative_url }}">1973</a></p>
 </td>
 <td valign="top" width="547">
-<p>Aldiss, Brian in his “Billion Year Spree” (<a href="/tags/1973">1973</a>) (available <a href="http://www.amazon.com/dp/0805204504/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0805204504/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 274-276 (in Chapter 10) of the Weidenfeld &amp; Nicolson hardback edition.</p>
+<p>Aldiss, Brian in his “Billion Year Spree” (<a href="{{ '/tags/1973' | relative_url }}">1973</a>) (available <a href="http://www.amazon.com/dp/0805204504/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0805204504/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 274-276 (in Chapter 10) of the Weidenfeld &amp; Nicolson hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>

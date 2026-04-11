@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/seti_1.jpg"}
 ---
 
-![seti_1](/images/stories/ufo_tags/seti_1.jpg)
+![seti_1]({{ '/images/stories/ufo_tags/seti_1.jpg' | relative_url }})
 
 *Sagan on direct contact*
 
@@ -43,7 +43,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-Complete text of article reprinted in “The Quest For Extraterrestrial Life: A Book of Readings” ([1980](/tags/1980)) (edited by Donald Goldsmith) (available [on Amazon USA](http://www.amazon.com/dp/0935702083/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0935702083/ref=nosim?tag=ufot-21)) at pages 205-213 (in Chapter 38) of the University Science Books hardback edition.
+Complete text of article reprinted in “The Quest For Extraterrestrial Life: A Book of Readings” ([1980]({{ '/tags/1980' | relative_url }})) (edited by Donald Goldsmith) (available [on Amazon USA](http://www.amazon.com/dp/0935702083/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0935702083/ref=nosim?tag=ufot-21)) at pages 205-213 (in Chapter 38) of the University Science Books hardback edition.
 
 The table below includes references to relevant discussions in UFO/SETI books noted by Isaac Koi during a review of approximately 963 UFO/SETI books during the period 2003-2006 (with a few later additions). The table can be sorted by author, date and length of discussion by clicking on the relevant word in the top line of the table.
 
@@ -69,10 +69,10 @@ For discussion of Sagan’s article see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Achenbach, Joel in his “<a href="/ufo-history/ufo-books/achenbach-joel-captured-by-aliens">Captured by Aliens</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0684848562/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684848562/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 61 (in Chapter 5) of the Simon and Schuster hardback edition.</p>
+<p>Achenbach, Joel in his “<a href="{{ '/ufo-history/ufo-books/achenbach-joel-captured-by-aliens' | relative_url }}">Captured by Aliens</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0684848562/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684848562/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 61 (in Chapter 5) of the Simon and Schuster hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -80,10 +80,10 @@ For discussion of Sagan’s article see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Davidson, Keay in his “<a href="/ufo-history/ufo-personalities/sagan-carl">Carl Sagan</a>: A Life” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0471395366/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0471395366/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 131-132 (in Chapter 5) of the Wiley softcover edition.</p>
+<p>Davidson, Keay in his “<a href="{{ '/ufo-history/ufo-personalities/sagan-carl' | relative_url }}">Carl Sagan</a>: A Life” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0471395366/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0471395366/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 131-132 (in Chapter 5) of the Wiley softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -91,10 +91,10 @@ For discussion of Sagan’s article see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1974">1974</a></p>
+<p><a href="{{ '/tags/1974' | relative_url }}">1974</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/lunan-duncan">Lunan, Duncan</a> in his “<a href="/ufo-history/ufo-books/lunan-duncan-man-and-the-stars">Man and the Stars</a>” (<a href="/tags/1974">1974</a>) (available <a href="http://www.amazon.com/dp/0285621297/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0285621297/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 102-103 (in Chapter 5) of the Souvenir Press hardback edition, at pages 127-128 of the Corgi paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/lunan-duncan' | relative_url }}">Lunan, Duncan</a> in his “<a href="{{ '/ufo-history/ufo-books/lunan-duncan-man-and-the-stars' | relative_url }}">Man and the Stars</a>” (<a href="{{ '/tags/1974' | relative_url }}">1974</a>) (available <a href="http://www.amazon.com/dp/0285621297/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0285621297/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 102-103 (in Chapter 5) of the Souvenir Press hardback edition, at pages 127-128 of the Corgi paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -102,10 +102,10 @@ For discussion of Sagan’s article see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Poundstone, William in his “<a href="/ufo-history/ufo-books/poundstone-william-carl-sagan-a-life-in-the-cosmos">Carl Sagan: A Life in the Cosmos</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0805057668/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0805057668/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 74-76 (in the chapter entitled “Cambridge <a href="/tags/1963">1963</a>-<a href="/tags/1968">1968</a>”), 155 (in the chapter entitled “Ithaca <a href="/tags/1968">1968</a>-76”) of the Owl Books softcover edition.</p>
+<p>Poundstone, William in his “<a href="{{ '/ufo-history/ufo-books/poundstone-william-carl-sagan-a-life-in-the-cosmos' | relative_url }}">Carl Sagan: A Life in the Cosmos</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0805057668/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0805057668/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 74-76 (in the chapter entitled “Cambridge <a href="{{ '/tags/1963' | relative_url }}">1963</a>-<a href="{{ '/tags/1968' | relative_url }}">1968</a>”), 155 (in the chapter entitled “Ithaca <a href="{{ '/tags/1968' | relative_url }}">1968</a>-76”) of the Owl Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -113,10 +113,10 @@ For discussion of Sagan’s article see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1964">1964</a></p>
+<p><a href="{{ '/tags/1964' | relative_url }}">1964</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sullivan-walter">Sullivan, Walter</a> in his “<a href="/ufo-history/ufo-books/sullivan-walter-we-are-not-alone">We Are Not Alone</a>” (<a href="/tags/1964">1964</a>) (available <a href="http://www.amazon.com/dp/B00005X52F/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B00005X52F/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 235-241 (in Chapter 16) of the Signet paperback revised editions.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sullivan-walter' | relative_url }}">Sullivan, Walter</a> in his “<a href="{{ '/ufo-history/ufo-books/sullivan-walter-we-are-not-alone' | relative_url }}">We Are Not Alone</a>” (<a href="{{ '/tags/1964' | relative_url }}">1964</a>) (available <a href="http://www.amazon.com/dp/B00005X52F/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B00005X52F/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 235-241 (in Chapter 16) of the Signet paperback revised editions.</p>
 </td>
 <td valign="top" width="52">
 <p>7</p>

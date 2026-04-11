@@ -13,15 +13,15 @@ planned_sections: []
 header: {"preview_image": null}
 ---
 
-“[Best UFO Cases](/ufog/best-ufo-cases)” by Isaac Koi
+“[Best UFO Cases]({{ '/ufog/best-ufo-cases' | relative_url }})” by Isaac Koi
 
-[PART 5: Consensus lists: Jacques Vallee’s poll (1965)](/ufog/best-ufo-cases/5-consensus-lists-jacques-vallees-poll-1965)
+[PART 5: Consensus lists: Jacques Vallee’s poll (1965)]({{ '/ufog/best-ufo-cases/5-consensus-lists-jacques-vallees-poll-1965' | relative_url }})
 
-As discussed earlier in this series of articles (see [PART 1: Top 100 UFO Cases: Introduction](/ufog/best-ufo-cases/1-introduction) and [PART 2: Challenges to produce lists of top cases](/ufog/best-ufo-cases/2-challenges-to-produce-lists-of-top-cases)), various skeptics have complained that ufologists have failed to put forward their “best cases”, or to agree amongst themselves which cases are the “best”.
+As discussed earlier in this series of articles (see [PART 1: Top 100 UFO Cases: Introduction]({{ '/ufog/best-ufo-cases/1-introduction' | relative_url }}) and [PART 2: Challenges to produce lists of top cases]({{ '/ufog/best-ufo-cases/2-challenges-to-produce-lists-of-top-cases' | relative_url }})), various skeptics have complained that ufologists have failed to put forward their “best cases”, or to agree amongst themselves which cases are the “best”.
 
 Those complaints have generally not been addressed, or apparently considered, in any depth by most ufologists. However, Brad Sparks has contended that the skeptics are simply wrong and contended that two such “consensus lists” exist.
 
-The earlier of the two lists relied upon by Brad Sparks was published by Jacques Vallee in 1966 (discussed below) and the second is said by Brad Sparks to have been published by Ronald Story and Richard Greenwell in 1981 (this claim in addressed in the next part of this article - see [PART 6: Consensus lists: Ronald Story’s poll (1979)](/ufog/best-ufo-cases/6-consensus-lists-ronald-storys-poll)).
+The earlier of the two lists relied upon by Brad Sparks was published by Jacques Vallee in 1966 (discussed below) and the second is said by Brad Sparks to have been published by Ronald Story and Richard Greenwell in 1981 (this claim in addressed in the next part of this article - see [PART 6: Consensus lists: Ronald Story’s poll (1979)]({{ '/ufog/best-ufo-cases/6-consensus-lists-ronald-storys-poll' | relative_url }})).
 
 This article looks into the first of those polls, i.e. the poll conducted by Jacques Vallee during 1965.
 
@@ -51,60 +51,60 @@ In short:
 
 The sightings referred to in the poll were as reported by Jacques Vallee as follows (see Footnote 5.09):
 
-1. [Socorro](/ufo-history/ufo/19640424-lonnie-zamora-sighting) 9 votes (see Case 5 in [Isaac Koi’s “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
-2. [Washington](/ufo-history/ufo/19520700-washington-national-sightings) 8 votes (see Case 8 in [Isaac Koi’s “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
-3. [Trindade](/ufo-history/ufo/19580116-trindade-island-photos) 5 votes (see Case 26 in [Isaac Koi’s “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
-4. [Kenneth Arnold](/ufo-history/ufo/19470624-kenneth-arnold-sighting) 4 votes (see Case 1 in [Isaac Koi’s “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
-5. [Mantell](/ufo-history/ufo/19480107-captain-mantell-incident) 4 votes (see Case 6 in [Isaac Koi’s “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
-6. [Southwest](/ufo-history/ufo/19571102-levelland-texas-incident), 1957 4 votes (see Case 16 in [Isaac Koi’s “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
-7. [Kinross Case](/ufo-history/ufo/19531123-felix-moncla-qdisappearanceq) 3 votes (see Case 54 in [Isaac Koi’s “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
+1. [Socorro]({{ '/ufo-history/ufo/19640424-lonnie-zamora-sighting' | relative_url }}) 9 votes (see Case 5 in [Isaac Koi’s “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
+2. [Washington]({{ '/ufo-history/ufo/19520700-washington-national-sightings' | relative_url }}) 8 votes (see Case 8 in [Isaac Koi’s “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
+3. [Trindade]({{ '/ufo-history/ufo/19580116-trindade-island-photos' | relative_url }}) 5 votes (see Case 26 in [Isaac Koi’s “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
+4. [Kenneth Arnold]({{ '/ufo-history/ufo/19470624-kenneth-arnold-sighting' | relative_url }}) 4 votes (see Case 1 in [Isaac Koi’s “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
+5. [Mantell]({{ '/ufo-history/ufo/19480107-captain-mantell-incident' | relative_url }}) 4 votes (see Case 6 in [Isaac Koi’s “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
+6. [Southwest]({{ '/ufo-history/ufo/19571102-levelland-texas-incident' | relative_url }}), 1957 4 votes (see Case 16 in [Isaac Koi’s “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
+7. [Kinross Case]({{ '/ufo-history/ufo/19531123-felix-moncla-qdisappearanceq' | relative_url }}) 3 votes (see Case 54 in [Isaac Koi’s “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
 8. Personal sightings 3 votes
-9. [Rapid City, SD](/ufo-history/ufo/19530805-rapid-city-incident) 2 votes
-10. [Lubbock Lights](/ufo-history/ufo/19510825-lubbock-lights-sightings) 2 votes (see Case 31 in [Isaac Koi’s “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
-11. [Nash & Fortenberry](/ufo-history/ufo/19520714-nash-fortenberry-sighting) 2 votes (see Case 44 in [Isaac Koi’s “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
-12. [Father Gill](/ufo-history/ufo/19590626-father-gill-sightings) 2 votes (see Case 15 in [Isaac Koi’s “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
-13. [Fort Itaipu](/ufo-history/ufo/19571104-fort-itaipu-brazil-incident) 2 votes (see Case 70 in [Isaac Koi’s “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
-14. [Alpert](/ufo-history/ufo/19520716-salem-photo) (photo) 1 vote (see Case 75 in [Isaac Koi’s “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
-15. [Red Bluff](/ufo-history/ufo/19600813-red-bluff-sighting) 1 vote (see Case 93 in [Isaac Koi’s “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
-16. [Captain Sperry](/ufo-history/ufo/19500529-captain-sperry-sighting) 1 vote
-17. [BOAC crew](/ufo-history/ufo/19540629-boac-stratocruiser-sighting) 1 vote (see Case 46 in [Isaac Koi’s “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
+9. [Rapid City, SD]({{ '/ufo-history/ufo/19530805-rapid-city-incident' | relative_url }}) 2 votes
+10. [Lubbock Lights]({{ '/ufo-history/ufo/19510825-lubbock-lights-sightings' | relative_url }}) 2 votes (see Case 31 in [Isaac Koi’s “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
+11. [Nash & Fortenberry]({{ '/ufo-history/ufo/19520714-nash-fortenberry-sighting' | relative_url }}) 2 votes (see Case 44 in [Isaac Koi’s “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
+12. [Father Gill]({{ '/ufo-history/ufo/19590626-father-gill-sightings' | relative_url }}) 2 votes (see Case 15 in [Isaac Koi’s “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
+13. [Fort Itaipu]({{ '/ufo-history/ufo/19571104-fort-itaipu-brazil-incident' | relative_url }}) 2 votes (see Case 70 in [Isaac Koi’s “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
+14. [Alpert]({{ '/ufo-history/ufo/19520716-salem-photo' | relative_url }}) (photo) 1 vote (see Case 75 in [Isaac Koi’s “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
+15. [Red Bluff]({{ '/ufo-history/ufo/19600813-red-bluff-sighting' | relative_url }}) 1 vote (see Case 93 in [Isaac Koi’s “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
+16. [Captain Sperry]({{ '/ufo-history/ufo/19500529-captain-sperry-sighting' | relative_url }}) 1 vote
+17. [BOAC crew]({{ '/ufo-history/ufo/19540629-boac-stratocruiser-sighting' | relative_url }}) 1 vote (see Case 46 in [Isaac Koi’s “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
 18. Rome 1 vote
-19. [New Jersey, 1964](/ufo-history/ufo/19640424-gary-wilcox-encounter) 1 vote (?? see Case 72 in [Isaac Koi’s “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
-20. [Chiles & Whitted](/ufo-history/ufo/19480724-chiles-whitted-sighting) 1 vote (see Case 10 in [Isaac Koi’s “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
-21. [100% pure magnesium](/ufo-history/ufo/19570914-ubatuba-fragments-article) 1 vote (see Case 28 in [Isaac Koi’s “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
-22. [McMinneville](/ufo-history/ufo/19500511-mcminnville-photographs) (sic) 1 vote (see Case 17 in [Isaac Koi’s “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
-23. [Adamski’s sighting](/ufo-history/ufo-personalities/adamski-george) 1 vote (see Case 3 in [Isaac Koi’s “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
+19. [New Jersey, 1964]({{ '/ufo-history/ufo/19640424-gary-wilcox-encounter' | relative_url }}) 1 vote (?? see Case 72 in [Isaac Koi’s “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
+20. [Chiles & Whitted]({{ '/ufo-history/ufo/19480724-chiles-whitted-sighting' | relative_url }}) 1 vote (see Case 10 in [Isaac Koi’s “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
+21. [100% pure magnesium]({{ '/ufo-history/ufo/19570914-ubatuba-fragments-article' | relative_url }}) 1 vote (see Case 28 in [Isaac Koi’s “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
+22. [McMinneville]({{ '/ufo-history/ufo/19500511-mcminnville-photographs' | relative_url }}) (sic) 1 vote (see Case 17 in [Isaac Koi’s “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
+23. [Adamski’s sighting]({{ '/ufo-history/ufo-personalities/adamski-george' | relative_url }}) 1 vote (see Case 3 in [Isaac Koi’s “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
 24. Star of Bethlehem 1 vote
-25. [Lady of Fatima](/ufo-history/ufo/19171013-fatima-apparition) 1 vote (see Case 37 in [Isaac Koi’s “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
+25. [Lady of Fatima]({{ '/ufo-history/ufo/19171013-fatima-apparition' | relative_url }}) 1 vote (see Case 37 in [Isaac Koi’s “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
 26. Angel Moroni 1 vote
 
 Brad Sparks has referred to referred to the relevant survey as being “of 29 U.S. UFO organizations (about 13 responding)” (see Footnote 5.01). In fact, as indicated above, in fact the relevant survey was of 217 groups, with 29 active groups responding (mentioning 13 different cases that were referred to more than once, and an additional 13 different cases receiving a single vote each).
 
 The slight inaccuracies in Brad Sparks comments about the number of groups surveyed and responding were, in my view, more than compensated for by Brad Sparks providing an annotated version of the relevant list of cases. Those annotations are significant in relation to some of the sightings for which Jacques Vallee only published rather brief and vague descriptions (e.g. “Rome” and “New Jersey, 1964”), since the annotations by Brad Sparks represent intelligent guesses as to the cases referred to. The list as annotated by Brad Sparks is set out below.
 
-1. [Socorro](/ufo-history/ufo/19640424-lonnie-zamora-sighting), NM, Apr 24, 1964 (Zamora case)
-2. [Washington](/ufo-history/ufo/19520700-washington-national-sightings), DC, July 19-20, 26-27, 1952
+1. [Socorro]({{ '/ufo-history/ufo/19640424-lonnie-zamora-sighting' | relative_url }}), NM, Apr 24, 1964 (Zamora case)
+2. [Washington]({{ '/ufo-history/ufo/19520700-washington-national-sightings' | relative_url }}), DC, July 19-20, 26-27, 1952
 (Wash National Airport)
-3. [Trindade Island, Brazil](/ufo-history/ufo/19580116-trindade-island-photos), Jan 16, 1958 (IGY photos)
-4. [Mt. Rainier, Wash](/ufo-history/ufo/19470624-kenneth-arnold-sighting), June 24, 1947 ([Kenneth Arnold](/ufo-history/ufo/19470624-kenneth-arnold-sighting) case)
-5. [Ft. Knox, Kentucky](/ufo-history/ufo/19480107-captain-mantell-incident), Jan 7, 1948 ([Mantell](/ufo-history/ufo/19480107-captain-mantell-incident) case)
-6. [Southwest U.S.](/ufo-history/ufo/19571102-levelland-texas-incident) (Texas), Nov 1957 ([Levelland](/ufo-history/ufo/19571102-levelland-texas-incident) etc.)
-7. [Kinross AFB, Mich](/ufo-history/ufo/19531123-felix-moncla-qdisappearanceq), Nov 23, 1953 (jet disappearance)
-8. [Rapid City, SD, Aug 5-6, 1953](/ufo-history/ufo/19530805-rapid-city-incident) (radar-visual jet case)
-9. [Lubbock, Texas](/ufo-history/ufo/19510825-lubbock-lights-sightings), Aug 25, 1951 ([Lubbock Lights](/ufo-history/ufo/19510825-lubbock-lights-sightings) photo)
-10. [Newport News, VA](/ufo-history/ufo/19520714-nash-fortenberry-sighting), July 14, 1952 ([Nash-Fortenberry](/ufo-history/ufo/19520714-nash-fortenberry-sighting) case)
-11. [Boianai, New Guinea](/ufo-history/ufo/19590626-father-gill-sightings), June 26-7, 1959 ([Father Gill](/ufo-history/ufo/19590626-father-gill-sightings) case)
-12. [Fort Itaipu, Brazil](/ufo-history/ufo/19571104-fort-itaipu-brazil-incident), Nov 3, 1957
-13. [Salem, Mass](/ufo-history/ufo/19520716-salem-photo), July 16, 1952 ([Alpert](/ufo-history/ufo/19520716-salem-photo) photo)
-14. [Red Bluff](/ufo-history/ufo/19600813-red-bluff-sighting), Calif, Aug 13, 1960
-15. [Washington, DC, May 29, 1950 (Capt Sperry case)](/ufo-history/ufo/19500529-captain-sperry-sighting)
-16. [Goose Bay, Labrador](/ufo-history/ufo/19540629-boac-stratocruiser-sighting), June 30,1954 ([BOAC](/ufo-history/ufo/19540629-boac-stratocruiser-sighting) radar-visual)
+3. [Trindade Island, Brazil]({{ '/ufo-history/ufo/19580116-trindade-island-photos' | relative_url }}), Jan 16, 1958 (IGY photos)
+4. [Mt. Rainier, Wash]({{ '/ufo-history/ufo/19470624-kenneth-arnold-sighting' | relative_url }}), June 24, 1947 ([Kenneth Arnold]({{ '/ufo-history/ufo/19470624-kenneth-arnold-sighting' | relative_url }}) case)
+5. [Ft. Knox, Kentucky]({{ '/ufo-history/ufo/19480107-captain-mantell-incident' | relative_url }}), Jan 7, 1948 ([Mantell]({{ '/ufo-history/ufo/19480107-captain-mantell-incident' | relative_url }}) case)
+6. [Southwest U.S.]({{ '/ufo-history/ufo/19571102-levelland-texas-incident' | relative_url }}) (Texas), Nov 1957 ([Levelland]({{ '/ufo-history/ufo/19571102-levelland-texas-incident' | relative_url }}) etc.)
+7. [Kinross AFB, Mich]({{ '/ufo-history/ufo/19531123-felix-moncla-qdisappearanceq' | relative_url }}), Nov 23, 1953 (jet disappearance)
+8. [Rapid City, SD, Aug 5-6, 1953]({{ '/ufo-history/ufo/19530805-rapid-city-incident' | relative_url }}) (radar-visual jet case)
+9. [Lubbock, Texas]({{ '/ufo-history/ufo/19510825-lubbock-lights-sightings' | relative_url }}), Aug 25, 1951 ([Lubbock Lights]({{ '/ufo-history/ufo/19510825-lubbock-lights-sightings' | relative_url }}) photo)
+10. [Newport News, VA]({{ '/ufo-history/ufo/19520714-nash-fortenberry-sighting' | relative_url }}), July 14, 1952 ([Nash-Fortenberry]({{ '/ufo-history/ufo/19520714-nash-fortenberry-sighting' | relative_url }}) case)
+11. [Boianai, New Guinea]({{ '/ufo-history/ufo/19590626-father-gill-sightings' | relative_url }}), June 26-7, 1959 ([Father Gill]({{ '/ufo-history/ufo/19590626-father-gill-sightings' | relative_url }}) case)
+12. [Fort Itaipu, Brazil]({{ '/ufo-history/ufo/19571104-fort-itaipu-brazil-incident' | relative_url }}), Nov 3, 1957
+13. [Salem, Mass]({{ '/ufo-history/ufo/19520716-salem-photo' | relative_url }}), July 16, 1952 ([Alpert]({{ '/ufo-history/ufo/19520716-salem-photo' | relative_url }}) photo)
+14. [Red Bluff]({{ '/ufo-history/ufo/19600813-red-bluff-sighting' | relative_url }}), Calif, Aug 13, 1960
+15. [Washington, DC, May 29, 1950 (Capt Sperry case)]({{ '/ufo-history/ufo/19500529-captain-sperry-sighting' | relative_url }})
+16. [Goose Bay, Labrador]({{ '/ufo-history/ufo/19540629-boac-stratocruiser-sighting' | relative_url }}), June 30,1954 ([BOAC]({{ '/ufo-history/ufo/19540629-boac-stratocruiser-sighting' | relative_url }}) radar-visual)
 17. Rome, Italy, (Oct 28, 1954??)
 (radar-visual?? Clare Booth Luce??)
-18. New Jersey, (Apr 24, 1964??) ([Wilcox contactee](/ufo-history/ufo/19640424-gary-wilcox-encounter)??)
-19. [Montgomery, Alab](/ufo-history/ufo/19480724-chiles-whitted-sighting), July 24-5, 1948 ([Chiles-Whitted](/ufo-history/ufo/19480724-chiles-whitted-sighting) case)
-20. [Ubatuba, Brazil](/ufo-history/ufo/19570914-ubatuba-fragments-article), Sept 1957 (magnesium physical evidence)
-21. [McMinnville, Ore,](/ufo-history/ufo/19500511-mcminnville-photographs) May 11, 1950 (Trent case photos)
+18. New Jersey, (Apr 24, 1964??) ([Wilcox contactee]({{ '/ufo-history/ufo/19640424-gary-wilcox-encounter' | relative_url }})??)
+19. [Montgomery, Alab]({{ '/ufo-history/ufo/19480724-chiles-whitted-sighting' | relative_url }}), July 24-5, 1948 ([Chiles-Whitted]({{ '/ufo-history/ufo/19480724-chiles-whitted-sighting' | relative_url }}) case)
+20. [Ubatuba, Brazil]({{ '/ufo-history/ufo/19570914-ubatuba-fragments-article' | relative_url }}), Sept 1957 (magnesium physical evidence)
+21. [McMinnville, Ore,]({{ '/ufo-history/ufo/19500511-mcminnville-photographs' | relative_url }}) May 11, 1950 (Trent case photos)
 
 It is noteworthy that the annotated list of cases put forward by Brad Sparks:
 

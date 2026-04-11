@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/bennewitz_paul_1.jpg"}
 ---
 
-![bennewitz_paul_1](/images/stories/ufo_personalities/bennewitz_paul_1.jpg)
+![bennewitz_paul_1]({{ '/images/stories/ufo_personalities/bennewitz_paul_1.jpg' | relative_url }})
 
 *Paul Bennewitz*
 
@@ -59,10 +59,10 @@ For discussion of Paul Bennewitz see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2005">2005</a></p>
+<p><a href="{{ '/tags/2005' | relative_url }}">2005</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/bishop-greg">Bishop, Greg</a> in his “<a href="/ufo-history/ufo-books/bishop-greg-project-beta">Project BETA : The Story of Paul Bennewitz, National Security, and the Creation of a Modern UFO Myth</a>” (<a href="/tags/2005">2005</a>) (available <a href="http://www.amazon.com/dp/0743470923/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743470923/ref=nosim?tag=ufot-21">on Amazon UK</a>) generally, particularly at pages 2-3, 8 (in Chapter 1), 9, 14, 15-16 (in Chapter 2), 17-18, 21, 22-23 (in Chapter 3), 24-25, 26-32 (in Chapter 4), 33-40 (in Chapter 5), 41-44 (in Chapter 6), 57 (in Chapter 8), 82 (in Chapter 11) 86-90 (in Chapter 12), 91-99 (in Chapter 13), 100, 101, 105, 107, 109 (in Chapter 14), 112, 114, 115, 117 (in Chapter 15), 118, 119-132 (in Chapter 16), 133, 137 (in Chapter 17), 138-147 (in Chapter 18), 148-153 (in Chapter 19), 154-165 (in Chapter 20), 165, 172 (in Chapter 21), 173-174, 177, 179, 181 (in Chapter 22), 182-198 (in Chapter 23), 203, 208 (in Chapter 24), 213-218 (in Chapter 25), 226-229 (in Chapter 27), 230 (in the epilogue), 233-259 (in the appendix) of the Paraview Pocket Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/bishop-greg' | relative_url }}">Bishop, Greg</a> in his “<a href="{{ '/ufo-history/ufo-books/bishop-greg-project-beta' | relative_url }}">Project BETA : The Story of Paul Bennewitz, National Security, and the Creation of a Modern UFO Myth</a>” (<a href="{{ '/tags/2005' | relative_url }}">2005</a>) (available <a href="http://www.amazon.com/dp/0743470923/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743470923/ref=nosim?tag=ufot-21">on Amazon UK</a>) generally, particularly at pages 2-3, 8 (in Chapter 1), 9, 14, 15-16 (in Chapter 2), 17-18, 21, 22-23 (in Chapter 3), 24-25, 26-32 (in Chapter 4), 33-40 (in Chapter 5), 41-44 (in Chapter 6), 57 (in Chapter 8), 82 (in Chapter 11) 86-90 (in Chapter 12), 91-99 (in Chapter 13), 100, 101, 105, 107, 109 (in Chapter 14), 112, 114, 115, 117 (in Chapter 15), 118, 119-132 (in Chapter 16), 133, 137 (in Chapter 17), 138-147 (in Chapter 18), 148-153 (in Chapter 19), 154-165 (in Chapter 20), 165, 172 (in Chapter 21), 173-174, 177, 179, 181 (in Chapter 22), 182-198 (in Chapter 23), 203, 208 (in Chapter 24), 213-218 (in Chapter 25), 226-229 (in Chapter 27), 230 (in the epilogue), 233-259 (in the appendix) of the Paraview Pocket Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>170</p>
@@ -70,10 +70,10 @@ For discussion of Paul Bennewitz see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-the-ufo-book">The UFO Book</a>: Encyclopedia of the Extraterrestrial” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/1578590299/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1578590299/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 146-147, 149, 151, 152, 153, 156, 158, 162, 163, 164 (forming part of the entry entitled “Dark Side”) of the Visible Ink Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-the-ufo-book' | relative_url }}">The UFO Book</a>: Encyclopedia of the Extraterrestrial” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/1578590299/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1578590299/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 146-147, 149, 151, 152, 153, 156, 158, 162, 163, 164 (forming part of the entry entitled “Dark Side”) of the Visible Ink Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>11</p>
@@ -81,10 +81,10 @@ For discussion of Paul Bennewitz see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 303, 304, 305, 307, 308, 310, 311, 314, 315, 316 of Volume 1:A-K (forming part of an entry entitled “Dark Side” at pages 301-319) of the Omnigraphics hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition' | relative_url }}">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 303, 304, 305, 307, 308, 310, 311, 314, 315, 316 of Volume 1:A-K (forming part of an entry entitled “Dark Side” at pages 301-319) of the Omnigraphics hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>10</p>
@@ -92,10 +92,10 @@ For discussion of Paul Bennewitz see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2006">2006</a></p>
+<p><a href="{{ '/tags/2006' | relative_url }}">2006</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/doty-richard">Doty, Richard C</a> in “<a href="/ufo-history/ufo-books/collins-robert-m-with-doty-richard-c-and-cooper-timothy-s-exempt-from-disclosure">Exempt From Disclosure</a>” (<a href="/tags/2006">2006</a>) (available <a href="http://www.amazon.com/dp/0976642638/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0976642638/ref=nosim?tag=ufot-21">on Amazon UK</a>) (by <a href="/ufo-history/ufo-personalities/collins-robert-m">Collins, Robert M</a> (with <a href="/ufo-history/ufo-personalities/doty-richard">Doty, Richard C</a> and <a href="/ufo-history/ufo-personalities/cooper-timothy-s">Cooper, Timothy S</a>)) at pages 88-89 (in Section 2, Chapter 4) of the Peregrine Communications softcover second edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/doty-richard' | relative_url }}">Doty, Richard C</a> in “<a href="{{ '/ufo-history/ufo-books/collins-robert-m-with-doty-richard-c-and-cooper-timothy-s-exempt-from-disclosure' | relative_url }}">Exempt From Disclosure</a>” (<a href="{{ '/tags/2006' | relative_url }}">2006</a>) (available <a href="http://www.amazon.com/dp/0976642638/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0976642638/ref=nosim?tag=ufot-21">on Amazon UK</a>) (by <a href="{{ '/ufo-history/ufo-personalities/collins-robert-m' | relative_url }}">Collins, Robert M</a> (with <a href="{{ '/ufo-history/ufo-personalities/doty-richard' | relative_url }}">Doty, Richard C</a> and <a href="{{ '/ufo-history/ufo-personalities/cooper-timothy-s' | relative_url }}">Cooper, Timothy S</a>)) at pages 88-89 (in Section 2, Chapter 4) of the Peregrine Communications softcover second edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -103,10 +103,10 @@ For discussion of Paul Bennewitz see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p>Hansen, George P in his “The Trickster and the Paranormal” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/1401000827/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1401000827/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 227-228 of the Xlibris softcover edition.</p>
+<p>Hansen, George P in his “The Trickster and the Paranormal” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/1401000827/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1401000827/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 227-228 of the Xlibris softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p> 2</p>
@@ -114,10 +114,10 @@ For discussion of Paul Bennewitz see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1989">1989</a></p>
+<p><a href="{{ '/tags/1989' | relative_url }}">1989</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/howe-linda-moulton">Howe, Linda Moulton</a> in her “<a href="/ufo-history/ufo-books/howe-linda-moulton-an-alien-harvest">An Alien Harvest</a>” (<a href="/tags/1989">1989</a>) (available <a href="http://www.amazon.com/dp/0962057010/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0962057010/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 143, 147 (in Chapter 7) of the Linda Moulton Howe Productions softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/howe-linda-moulton' | relative_url }}">Howe, Linda Moulton</a> in her “<a href="{{ '/ufo-history/ufo-books/howe-linda-moulton-an-alien-harvest' | relative_url }}">An Alien Harvest</a>” (<a href="{{ '/tags/1989' | relative_url }}">1989</a>) (available <a href="http://www.amazon.com/dp/0962057010/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0962057010/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 143, 147 (in Chapter 7) of the Linda Moulton Howe Productions softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -125,10 +125,10 @@ For discussion of Paul Bennewitz see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/peebles-curtis">Peebles, Curtis</a> in his “<a href="/ufo-history/ufo-books/peebles-curtis-watch-the-skies">Watch the Skies!</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/1560983434/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1560983434/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 256-258, 269, 273, 278 (Chapter 17) of the Smithsonian hardback edition, pages 307-309, 323, 328, 333 of the Berkley paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/peebles-curtis' | relative_url }}">Peebles, Curtis</a> in his “<a href="{{ '/ufo-history/ufo-books/peebles-curtis-watch-the-skies' | relative_url }}">Watch the Skies!</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/1560983434/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1560983434/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 256-258, 269, 273, 278 (Chapter 17) of the Smithsonian hardback edition, pages 307-309, 323, 328, 333 of the Berkley paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>6</p>
@@ -136,10 +136,10 @@ For discussion of Paul Bennewitz see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2006">2006</a></p>
+<p><a href="{{ '/tags/2006' | relative_url }}">2006</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/redfern-nicholas">Redfern, Nicholas</a> in his “<a href="/ufo-history/ufo-books/redfern-nicholas-on-the-trail-of-the-saucer-spies">On the Trail of the Saucer Spies : UFOs and Government Surveillance</a>” (<a href="/tags/2006">2006</a>) (available <a href="http://www.amazon.com/dp/0743497538/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743497538/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 147-154 (in Chapter 9) of the Anomalist Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/redfern-nicholas' | relative_url }}">Redfern, Nicholas</a> in his “<a href="{{ '/ufo-history/ufo-books/redfern-nicholas-on-the-trail-of-the-saucer-spies' | relative_url }}">On the Trail of the Saucer Spies : UFOs and Government Surveillance</a>” (<a href="{{ '/tags/2006' | relative_url }}">2006</a>) (available <a href="http://www.amazon.com/dp/0743497538/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743497538/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 147-154 (in Chapter 9) of the Anomalist Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>8</p>
@@ -147,10 +147,10 @@ For discussion of Paul Bennewitz see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1986">1986</a></p>
+<p><a href="{{ '/tags/1986' | relative_url }}">1986</a></p>
 </td>
 <td valign="top" width="547">
-<p>Steinman, William and <a href="/ufo-history/ufo-personalities/stevens-wendelle">Stevens, Wendelle</a> in their “UFO Crash at Aztec” (<a href="/tags/1986">1986</a>) (available <a href="http://www.amazon.com/dp/093426905X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/093426905X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 578-604 of the Wendelle Stevens hardback edition.</p>
+<p>Steinman, William and <a href="{{ '/ufo-history/ufo-personalities/stevens-wendelle' | relative_url }}">Stevens, Wendelle</a> in their “UFO Crash at Aztec” (<a href="{{ '/tags/1986' | relative_url }}">1986</a>) (available <a href="http://www.amazon.com/dp/093426905X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/093426905X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 578-604 of the Wendelle Stevens hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>27</p>

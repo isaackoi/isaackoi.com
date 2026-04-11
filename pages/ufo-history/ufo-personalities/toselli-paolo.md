@@ -13,7 +13,7 @@ planned_sections: []
 header: {"preview_image": "/images/stories/ufo_personalities/toselli_paolo_1.jpg"}
 ---
 
-![toselli_paolo_1](/images/stories/ufo_personalities/toselli_paolo_1.jpg)
+![toselli_paolo_1]({{ '/images/stories/ufo_personalities/toselli_paolo_1.jpg' | relative_url }})
 
 *Paolo Toselli*
 

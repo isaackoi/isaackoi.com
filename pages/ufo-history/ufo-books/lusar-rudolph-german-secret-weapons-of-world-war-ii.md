@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0767906284.jpg"}
 book: {"identifiers": ["B000PWFB2A", "0767906284", "0747271461", "0060186429", "0713727330", "0684836300", "0399124217"], "primary_isbn": "0767906284", "cover_image": "/book-covers/0767906284.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of Rudolph Lusar's book “[German Secret Weapons of World War II](/ufo-history/ufo-books/lusar-rudolph-german-secret-weapons-of-world-war-ii)” ([1959](/tags/1959)) (available [on Amazon USA](http://www.amazon.com/dp/B000PWFB2A/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B000PWFB2A/?&tag=ufot-21))
+Brief review to be added of Rudolph Lusar's book “[German Secret Weapons of World War II]({{ '/ufo-history/ufo-books/lusar-rudolph-german-secret-weapons-of-world-war-ii' | relative_url }})” ([1959]({{ '/tags/1959' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/B000PWFB2A/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B000PWFB2A/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion of Lusar and/or his book see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/cook-nick">Cook, Nick</a> in his “<a href="/ufo-history/ufo-books/cook-nick-the-hunt-for-zero-point">The Hunt for Zero Point</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/0767906284/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0767906284/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 44-48 (in Chapter 4), 50-55 (in Chapter 5), 214 (in Chapter 21) of the Century hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/cook-nick' | relative_url }}">Cook, Nick</a> in his “<a href="{{ '/ufo-history/ufo-books/cook-nick-the-hunt-for-zero-point' | relative_url }}">The Hunt for Zero Point</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/0767906284/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0767906284/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 44-48 (in Chapter 4), 50-55 (in Chapter 5), 214 (in Chapter 21) of the Century hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>12</p>
@@ -65,10 +65,10 @@ For discussion of Lusar and/or his book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/harbinson-w-a">Harbinson, W A</a> in his “Projekt Saucer” (<a href="/tags/1995">1995</a>) at pages 72, 76 (in Chapter 4) of the Box Tree hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/harbinson-w-a' | relative_url }}">Harbinson, W A</a> in his “Projekt Saucer” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) at pages 72, 76 (in Chapter 4) of the Box Tree hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -76,10 +76,10 @@ For discussion of Lusar and/or his book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/harbinson-w-a">Harbinson, W A</a> in “<a href="/ufo-history/ufo-books/vesco-renato-and-childress-david-hatcher-man-made-ufos-1944-1994-50-years-of-suppression">Man Made UFOs 1944-1994 – 50 Years of Suppression</a>” (<a href="/tags/1994">1994</a>) (by <a href="/ufo-history/ufo-personalities/vesco-renato">Renato Vesco</a> and David Hatcher Childress) at the unnumbered third page (in the Introduction) of the AUP softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/harbinson-w-a' | relative_url }}">Harbinson, W A</a> in “<a href="{{ '/ufo-history/ufo-books/vesco-renato-and-childress-david-hatcher-man-made-ufos-1944-1994-50-years-of-suppression' | relative_url }}">Man Made UFOs 1944-1994 – 50 Years of Suppression</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (by <a href="{{ '/ufo-history/ufo-personalities/vesco-renato' | relative_url }}">Renato Vesco</a> and David Hatcher Childress) at the unnumbered third page (in the Introduction) of the AUP softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -87,10 +87,10 @@ For discussion of Lusar and/or his book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/harbinson-w-a">Harbinson, W A</a> in his “<a href="/ufo-history/ufo-books/harbinson-w-a-projekt-saucer-the-case-for-man-made-flying-saucers">Projekt Saucer : The Case for Man-Made Flying Saucers</a>“ (<a href="/tags/1980">1980</a>) at pages 595 (in the Author’s Note), 609 (in the Sources) of the Coprgi paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/harbinson-w-a' | relative_url }}">Harbinson, W A</a> in his “<a href="{{ '/ufo-history/ufo-books/harbinson-w-a-projekt-saucer-the-case-for-man-made-flying-saucers' | relative_url }}">Projekt Saucer : The Case for Man-Made Flying Saucers</a>“ (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) at pages 595 (in the Author’s Note), 609 (in the Sources) of the Coprgi paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -98,10 +98,10 @@ For discussion of Lusar and/or his book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/harbinson-w-a">Harbinson, W A</a> in his “Inception : Projekt Saucer Book 1” (<a href="/tags/1991">1991</a>) at page ix (in the Author’s Note) of the Dell paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/harbinson-w-a' | relative_url }}">Harbinson, W A</a> in his “Inception : Projekt Saucer Book 1” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) at page ix (in the Author’s Note) of the Dell paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -109,10 +109,10 @@ For discussion of Lusar and/or his book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p>Hyland, Gary in his “<a href="/ufo-history/ufo-books/hyland-gary-blue-fires-the-lost-secrets-of-nazi-technology">Blue Fires: The Lost Secrets of Nazi Technology</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/0747271461/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0747271461/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 236-237 (in the Conclusion) of the Headline hardback edition.</p>
+<p>Hyland, Gary in his “<a href="{{ '/ufo-history/ufo-books/hyland-gary-blue-fires-the-lost-secrets-of-nazi-technology' | relative_url }}">Blue Fires: The Lost Secrets of Nazi Technology</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/0747271461/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0747271461/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 236-237 (in the Conclusion) of the Headline hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -120,10 +120,10 @@ For discussion of Lusar and/or his book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/marrs-jim">Marrs, Jim</a> in his “<a href="/ufo-history/ufo-books/marrs-jim-alien-agenda">Alien Agenda</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0060186429/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0060186429/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 67-68 (in Chapter 3) of the Harper Collins paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/marrs-jim' | relative_url }}">Marrs, Jim</a> in his “<a href="{{ '/ufo-history/ufo-books/marrs-jim-alien-agenda' | relative_url }}">Alien Agenda</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0060186429/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0060186429/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 67-68 (in Chapter 3) of the Harper Collins paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -131,10 +131,10 @@ For discussion of Lusar and/or his book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/matthews-tim">Matthews, Tim</a> in his “<a href="/ufo-history/ufo-books/matthews-tim-ufo-revelation">UFO Revelation</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0713727330/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713727330/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 32-33 (in Chapter 1) of the Blandford softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/matthews-tim' | relative_url }}">Matthews, Tim</a> in his “<a href="{{ '/ufo-history/ufo-books/matthews-tim-ufo-revelation' | relative_url }}">UFO Revelation</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0713727330/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713727330/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 32-33 (in Chapter 1) of the Blandford softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -142,10 +142,10 @@ For discussion of Lusar and/or his book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p>Michaels, Susan in her “<a href="/ufo-history/ufo-books/michaels-susan-sightings-ufos">Sightings: UFOs</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0684836300/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684836300/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 31-32 (in the unnumbered chapter entitled “Flying Saucers are Real”), 44 (in the unnumbered chapter entitled “Who Built The Saucers?”) of the Fireside softcover edition.</p>
+<p>Michaels, Susan in her “<a href="{{ '/ufo-history/ufo-books/michaels-susan-sightings-ufos' | relative_url }}">Sightings: UFOs</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0684836300/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684836300/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 31-32 (in the unnumbered chapter entitled “Flying Saucers are Real”), 44 (in the unnumbered chapter entitled “Who Built The Saucers?”) of the Fireside softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -153,10 +153,10 @@ For discussion of Lusar and/or his book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sachs-margaret">Sachs, Margaret</a> in her “<a href="/ufo-history/ufo-books/sachs-margaret-the-ufo-encyclopedia">The UFO Encyclopedia</a>“ (<a href="/tags/1980">1980</a> (available <a href="http://www.amazon.com/dp/0399124217/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0399124217/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 186-187 (in an entry entitled “Man-Made Flying Saucers”) of the Corgi softback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sachs-margaret' | relative_url }}">Sachs, Margaret</a> in her “<a href="{{ '/ufo-history/ufo-books/sachs-margaret-the-ufo-encyclopedia' | relative_url }}">The UFO Encyclopedia</a>“ (<a href="{{ '/tags/1980' | relative_url }}">1980</a> (available <a href="http://www.amazon.com/dp/0399124217/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0399124217/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 186-187 (in an entry entitled “Man-Made Flying Saucers”) of the Corgi softback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

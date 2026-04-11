@@ -13,7 +13,7 @@ planned_sections: ["1. The relevant image", "2. Stories and claims relating to t
 header: {"preview_image": "/images/stories/alien_photos/koi_ap_54_a.jpg"}
 ---
 
-![](/images/stories/alien_photos/koi_ap_54_a.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_54_a.jpg' | relative_url }})
 
 *Koi Alien Photo 54*
 
@@ -42,23 +42,23 @@ Sections below:
 <a id="image"></a>
 ### 1. The relevant image
 
-![](/images/stories/alien_photos/koi_ap_54_a.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_54_a.jpg' | relative_url }})
 
-![](/images/stories/alien_photos/koi_ap_54_b.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_54_b.jpg' | relative_url }})
 
-![](/images/stories/alien_photos/koi_ap_54_c.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_54_c.jpg' | relative_url }})
 
-![](/images/stories/alien_photos/koi_ap_54_d.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_54_d.jpg' | relative_url }})
 
-![](/images/stories/alien_photos/koi_ap_54_e.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_54_e.jpg' | relative_url }})
 
-![](/images/stories/alien_photos/koi_ap_54_f.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_54_f.jpg' | relative_url }})
 
-![](/images/stories/alien_photos/koi_ap_54_g.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_54_g.jpg' | relative_url }})
 
-![](/images/stories/alien_photos/koi_ap_54_h.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_54_h.jpg' | relative_url }})
 
-![](/images/stories/alien_photos/koi_ap_54_i.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_54_i.jpg' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this image
@@ -262,7 +262,7 @@ The photograph below (labelled "koi_ap_54_j") was taken by Joanna Ebenstein for 
 
 Notice the similarities to the "alien" in "Koi Alien Photo 54"?
 
-![koi_ap_54_j](/images/stories/alien_photos/koi_ap_54_j.jpg)
+![koi_ap_54_j]({{ '/images/stories/alien_photos/koi_ap_54_j.jpg' | relative_url }})
 
 <a id="forums"></a>
 ### 4. Relevant online forum discussions

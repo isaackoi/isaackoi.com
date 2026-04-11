@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/1569247811.jpg"}
 book: {"identifiers": ["1569247811", "0380798530", "0440236134"], "primary_isbn": "1569247811", "cover_image": "/book-covers/1569247811.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Michael Hesemann](/ufo-history/ufo-personalities/hesemann-michael) and [Philip Mantle](/ufo-history/ufo-personalities/mantle-philip)'s book “[Beyond Roswell](/ufo-history/ufo-books/hesemann-michael-and-mantle-philip-beyond-roswell)” ([1997](/tags/1997)) (available [on Amazon USA](http://www.amazon.com/dp/1569247811/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1569247811/?&tag=ufot-21))
+Brief review to be added of [Michael Hesemann]({{ '/ufo-history/ufo-personalities/hesemann-michael' | relative_url }}) and [Philip Mantle]({{ '/ufo-history/ufo-personalities/mantle-philip' | relative_url }})'s book “[Beyond Roswell]({{ '/ufo-history/ufo-books/hesemann-michael-and-mantle-philip-beyond-roswell' | relative_url }})” ([1997]({{ '/tags/1997' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1569247811/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1569247811/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -57,7 +57,7 @@ For discussion see the following:
 <p>2009</p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randle-kevin">Randle, Kevin</a> in his “<a href="/ufo-history/ufo-books/randle-kevin-the-roswell-encyclopedia">The Roswell Encyclopedia</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/0380798530/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380798530/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 53 (in an entry entitled “<a href="/ufo-history/ufo-books/hesemann-michael-and-mantle-philip-beyond-roswell">Beyond Roswell</a>”) of the Quill softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randle-kevin' | relative_url }}">Randle, Kevin</a> in his “<a href="{{ '/ufo-history/ufo-books/randle-kevin-the-roswell-encyclopedia' | relative_url }}">The Roswell Encyclopedia</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/0380798530/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380798530/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 53 (in an entry entitled “<a href="{{ '/ufo-history/ufo-books/hesemann-michael-and-mantle-philip-beyond-roswell' | relative_url }}">Beyond Roswell</a>”) of the Quill softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -65,10 +65,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p>Marcel, Jesse A in “<a href="/ufo-history/ufo-books/hesemann-michael-and-mantle-philip-beyond-roswell">Beyond Roswell</a>” (<a href="/tags/1997">1997</a>) (by Michael Hesemann and Philip Mantle) (available <a href="http://www.amazon.com/dp/1569247811/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1569247811/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages xi-xii (in the Foreword) of the Michael O’Mara hardback edition.</p>
+<p>Marcel, Jesse A in “<a href="{{ '/ufo-history/ufo-books/hesemann-michael-and-mantle-philip-beyond-roswell' | relative_url }}">Beyond Roswell</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (by Michael Hesemann and Philip Mantle) (available <a href="http://www.amazon.com/dp/1569247811/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1569247811/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages xi-xii (in the Foreword) of the Michael O’Mara hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -76,10 +76,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/korff-kal-k">Korff, Kal K</a> in his “<a href="/ufo-history/ufo-books/korff-kal-k-the-roswell-ufo-crash-what-they-dont-want-you-to-know">The Roswell UFO Crash: What They Don’t Want You to Know</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0440236134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0440236134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 257-258 (in Chapter 8) of the Dell paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/korff-kal-k' | relative_url }}">Korff, Kal K</a> in his “<a href="{{ '/ufo-history/ufo-books/korff-kal-k-the-roswell-ufo-crash-what-they-dont-want-you-to-know' | relative_url }}">The Roswell UFO Crash: What They Don’t Want You to Know</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0440236134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0440236134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 257-258 (in Chapter 8) of the Dell paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

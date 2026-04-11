@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0809282836.jpg"}
 book: {"identifiers": ["0809282836", "0762101083"], "primary_isbn": "0809282836", "cover_image": "/book-covers/0809282836.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [W Raymond Drake](/ufo-history/ufo-personalities/drake-w-raymond)'s book “[Gods and Spacemen Throughout History](/ufo-history/ufo-books/drake-w-raymond-gods-and-spacemen-throughout-history)” ([1975](/tags/1975)) (available [on Amazon USA](http://www.amazon.com/dp/0809282836/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0809282836/?&tag=ufot-21))
+Brief review to be added of [W Raymond Drake]({{ '/ufo-history/ufo-personalities/drake-w-raymond' | relative_url }})'s book “[Gods and Spacemen Throughout History]({{ '/ufo-history/ufo-books/drake-w-raymond-gods-and-spacemen-throughout-history' | relative_url }})” ([1975]({{ '/tags/1975' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0809282836/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0809282836/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -52,10 +52,10 @@ Many of the tables of references on this website are considerably longer than th
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/evans-hilary">Evans, Hilary</a> in his “<a href="/ufo-history/ufo-books/evans-hilary-from-other-worlds">From Other Worlds</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0762101083/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0762101083/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 54-55 (in Chapter 2) of the Carlton hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }}">Evans, Hilary</a> in his “<a href="{{ '/ufo-history/ufo-books/evans-hilary-from-other-worlds' | relative_url }}">From Other Worlds</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0762101083/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0762101083/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 54-55 (in Chapter 2) of the Carlton hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

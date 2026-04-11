@@ -14,7 +14,7 @@ header: {"preview_image": "https://covers.openlibrary.org/b/isbn/0312279590-L.jp
 book: {"identifiers": ["0312279590"], "primary_isbn": "0312279590", "cover_image": "https://covers.openlibrary.org/b/isbn/0312279590-L.jpg?default=false", "cover_source": "openlibrary"}
 ---
 
-Brief review to be added of “[Facts and Fallacies: A Book of Definitive Mistakes and Misguided Predictions](/ufo-history/ufo-books/morgan-chris-and-langford-david-facts-and-fallacies-a-book-of-definitive-mistakes-and-misguided-predictions)” ([1981](/tags/1981)) (available [on Amazon USA](http://www.amazon.com/dp/0312279590/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0312279590/?&tag=ufot-21)) by Chris Morgan and [David Langford](/ufo-history/ufo-personalities/langford-david)
+Brief review to be added of “[Facts and Fallacies: A Book of Definitive Mistakes and Misguided Predictions]({{ '/ufo-history/ufo-books/morgan-chris-and-langford-david-facts-and-fallacies-a-book-of-definitive-mistakes-and-misguided-predictions' | relative_url }})” ([1981]({{ '/tags/1981' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0312279590/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0312279590/?&tag=ufot-21)) by Chris Morgan and [David Langford]({{ '/ufo-history/ufo-personalities/langford-david' | relative_url }})
 
 1. [Web Resources](#web)
 

@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/poll_1.jpg"}
 ---
 
-![poll_1](/images/stories/ufo_tags/poll_1.jpg)
+![poll_1]({{ '/images/stories/ufo_tags/poll_1.jpg' | relative_url }})
 
 *Poll of ufologists*
 
@@ -39,7 +39,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-Text of relevant article reprinted in Gregory Little’s “[People of the Web](/ufo-history/ufo-books/little-gregory-people-of-the-web)” ([1990](/tags/1990)) (available [on Amazon USA](http://www.amazon.com/dp/0940829029/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0940829029/ref=nosim?tag=ufot-21)) at pages 214-217 (in Appendix A) of the White Buffalo softcover edition.
+Text of relevant article reprinted in Gregory Little’s “[People of the Web]({{ '/ufo-history/ufo-books/little-gregory-people-of-the-web' | relative_url }})” ([1990]({{ '/tags/1990' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0940829029/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0940829029/ref=nosim?tag=ufot-21)) at pages 214-217 (in Appendix A) of the White Buffalo softcover edition.
 
 The table below includes references to relevant discussions in UFO/SETI books noted by Isaac Koi during a review of approximately 963 UFO/SETI books during the period 2003-2006 (with a few later additions). The table can be sorted by author, date and length of discussion by clicking on the relevant word in the top line of the table.
 
@@ -65,10 +65,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="547">
-<p>Little, Gregory in his “<a href="/ufo-history/ufo-books/little-gregory-people-of-the-web">People of the Web</a>” (<a href="/tags/1990">1990</a>) (available <a href="http://www.amazon.com/dp/0940829029/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0940829029/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 195 (in Chapter 12) of the White Buffalo softcover edition.</p>
+<p>Little, Gregory in his “<a href="{{ '/ufo-history/ufo-books/little-gregory-people-of-the-web' | relative_url }}">People of the Web</a>” (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) (available <a href="http://www.amazon.com/dp/0940829029/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0940829029/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 195 (in Chapter 12) of the White Buffalo softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -76,10 +76,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/harrison-albert-a">Harrison, Albert A</a> in his “<a href="/ufo-history/ufo-books/harrison-albert-a-after-contact-the-human-response-to-extraterrestrial-life">After Contact: The Human Response to Extraterrestrial Life</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0306456214/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0306456214/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 83-84 (in Chapter 3) of the Plenum Trade hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/harrison-albert-a' | relative_url }}">Harrison, Albert A</a> in his “<a href="{{ '/ufo-history/ufo-books/harrison-albert-a-after-contact-the-human-response-to-extraterrestrial-life' | relative_url }}">After Contact: The Human Response to Extraterrestrial Life</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0306456214/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0306456214/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 83-84 (in Chapter 3) of the Plenum Trade hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -91,6 +91,6 @@ For discussion see the following:
 <a id="other"></a>
 ### Other Material
 
-Gregory Little, “Educational Level and Primary Beliefs about Unidentified Flying Objects held by Recognized Ufologists”, Psychological Reports, [1984](/tags/1984), 54, 907-910.
+Gregory Little, “Educational Level and Primary Beliefs about Unidentified Flying Objects held by Recognized Ufologists”, Psychological Reports, [1984]({{ '/tags/1984' | relative_url }}), 54, 907-910.
 
 Please use the comments section below to share references to any particularly interesting relevant articles.

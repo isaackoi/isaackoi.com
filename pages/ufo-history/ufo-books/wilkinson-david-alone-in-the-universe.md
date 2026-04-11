@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/083081938X.jpg"}
 book: {"identifiers": ["083081938X"], "primary_isbn": "083081938X", "cover_image": "/book-covers/083081938X.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of David Wilkinson's book “[Alone in the Universe?](/ufo-history/ufo-books/wilkinson-david-alone-in-the-universe)” ([1997](/tags/1997)) (available [on Amazon USA](http://www.amazon.com/dp/083081938X/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/083081938X/?&tag=ufot-21))
+Brief review to be added of David Wilkinson's book “[Alone in the Universe?]({{ '/ufo-history/ufo-books/wilkinson-david-alone-in-the-universe' | relative_url }})” ([1997]({{ '/tags/1997' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/083081938X/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/083081938X/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p>Boyd, Robert (Sir) in David Wilkinson’s “<a href="/ufo-history/ufo-books/wilkinson-david-alone-in-the-universe">Alone in the Universe?</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/083081938X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/083081938X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 11 (in the Foreword) of the Monarch softcover edition.</p>
+<p>Boyd, Robert (Sir) in David Wilkinson’s “<a href="{{ '/ufo-history/ufo-books/wilkinson-david-alone-in-the-universe' | relative_url }}">Alone in the Universe?</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/083081938X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/083081938X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 11 (in the Foreword) of the Monarch softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

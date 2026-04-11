@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/1412804701.jpg"}
 book: {"identifiers": ["1412804701", "1591020484", "0762101083", "0738836125", "0306456214", "0810812282"], "primary_isbn": "1412804701", "cover_image": "/book-covers/1412804701.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Hadley Cantril](/ufo-history/ufo-personalities/hyman-ray)'s book “[The Invasion from Mars](/ufo-history/ufo-books/cantril-hadley-the-invasion-from-mars)” ([1940](/tags/1940)) (available [on Amazon USA](http://www.amazon.com/dp/1412804701/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1412804701/?&tag=ufot-21))
+Brief review to be added of [Hadley Cantril]({{ '/ufo-history/ufo-personalities/hyman-ray' | relative_url }})'s book “[The Invasion from Mars]({{ '/ufo-history/ufo-books/cantril-hadley-the-invasion-from-mars' | relative_url }})” ([1940]({{ '/tags/1940' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1412804701/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1412804701/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -52,10 +52,10 @@ Many of the tables of references on this website are considerably longer than th
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2003">2003</a></p>
+<p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/bartholomew-robert-e">Bartholomew, Robert E</a>. and Radford, Benjamin in their “<a href="/ufo-history/ufo-books/bartholomew-robert-e-and-radford-benjamin-hoaxes-myths-and-manias-why-we-need-critical-thinking">Hoaxes, Myths and Manias: Why We Need Critical Thinking</a>” (<a href="/tags/2003">2003</a>) (available <a href="http://www.amazon.com/dp/1591020484/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1591020484/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 30, 31-32, 36 (in Chapter 2, entitled “Was there really a Martian panic in <a href="/tags/1938">1938</a>?”) of the Prometheus softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/bartholomew-robert-e' | relative_url }}">Bartholomew, Robert E</a>. and Radford, Benjamin in their “<a href="{{ '/ufo-history/ufo-books/bartholomew-robert-e-and-radford-benjamin-hoaxes-myths-and-manias-why-we-need-critical-thinking' | relative_url }}">Hoaxes, Myths and Manias: Why We Need Critical Thinking</a>” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) (available <a href="http://www.amazon.com/dp/1591020484/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1591020484/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 30, 31-32, 36 (in Chapter 2, entitled “Was there really a Martian panic in <a href="{{ '/tags/1938' | relative_url }}">1938</a>?”) of the Prometheus softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -63,10 +63,10 @@ Many of the tables of references on this website are considerably longer than th
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/evans-hilary">Evans, Hilary</a> in his “<a href="/ufo-history/ufo-books/evans-hilary-from-other-worlds">From Other Worlds</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0762101083/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0762101083/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 32 (in Chapter 1) of the Carlton hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }}">Evans, Hilary</a> in his “<a href="{{ '/ufo-history/ufo-books/evans-hilary-from-other-worlds' | relative_url }}">From Other Worlds</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0762101083/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0762101083/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 32 (in Chapter 1) of the Carlton hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -74,10 +74,10 @@ Many of the tables of references on this website are considerably longer than th
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/hansen-terry">Hansen, Terry</a> in his “<a href="/ufo-history/ufo-books/hansen-terry-the-missing-times-news-media-complicity-in-the-ufo-cover-up">The Missing Times : News Media Complicity in the UFO Cover-Up</a> : News Media Complicity in the UFO Cover -Up” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/0738836125/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0738836125/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 52-53 (in Chapter 1), 226 (in Chapter 6) of the Xlibris softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hansen-terry' | relative_url }}">Hansen, Terry</a> in his “<a href="{{ '/ufo-history/ufo-books/hansen-terry-the-missing-times-news-media-complicity-in-the-ufo-cover-up' | relative_url }}">The Missing Times : News Media Complicity in the UFO Cover-Up</a> : News Media Complicity in the UFO Cover -Up” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/0738836125/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0738836125/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 52-53 (in Chapter 1), 226 (in Chapter 6) of the Xlibris softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -85,10 +85,10 @@ Many of the tables of references on this website are considerably longer than th
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/harrison-albert-a">Harrison, Albert A</a> in his “<a href="/ufo-history/ufo-books/harrison-albert-a-after-contact-the-human-response-to-extraterrestrial-life">After Contact: The Human Response to Extraterrestrial Life</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0306456214/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0306456214/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 243 (in Chapter 9) of the Plenum Trade hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/harrison-albert-a' | relative_url }}">Harrison, Albert A</a> in his “<a href="{{ '/ufo-history/ufo-books/harrison-albert-a-after-contact-the-human-response-to-extraterrestrial-life' | relative_url }}">After Contact: The Human Response to Extraterrestrial Life</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0306456214/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0306456214/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 243 (in Chapter 9) of the Plenum Trade hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -96,10 +96,10 @@ Many of the tables of references on this website are considerably longer than th
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1979">1979</a></p>
+<p><a href="{{ '/tags/1979' | relative_url }}">1979</a></p>
 </td>
 <td valign="top" width="547">
-<p>Westrum, Ronald M in “<a href="/ufo-history/ufo-books/haines-richard-ufo-phenomena-and-the-behavioral-scientist">UFO Phenomena and the Behavioral Scientist</a>” (<a href="/tags/1979">1979</a>) (edited by Richard F Haines) (available <a href="http://www.amazon.com/dp/0810812282/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0810812282/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 97, 99 (in Chapter 5) of the Scarebrow Press hardback edition.</p>
+<p>Westrum, Ronald M in “<a href="{{ '/ufo-history/ufo-books/haines-richard-ufo-phenomena-and-the-behavioral-scientist' | relative_url }}">UFO Phenomena and the Behavioral Scientist</a>” (<a href="{{ '/tags/1979' | relative_url }}">1979</a>) (edited by Richard F Haines) (available <a href="http://www.amazon.com/dp/0810812282/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0810812282/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 97, 99 (in Chapter 5) of the Scarebrow Press hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

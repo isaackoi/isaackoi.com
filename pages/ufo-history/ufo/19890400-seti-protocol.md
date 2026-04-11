@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/seti_1.jpg"}
 ---
 
-![seti_1](/images/stories/ufo_tags/seti_1.jpg)
+![seti_1]({{ '/images/stories/ufo_tags/seti_1.jpg' | relative_url }})
 
 *SETI protocol*
 
@@ -34,7 +34,7 @@ Sections below
 <a id="web"></a>
 ### Web Resources
 
-Complete text of the SETI protocol printed in *Acta Astronautica*Volume 21 ([1990](/tags/1990)), Number 2, pages 153-154. Available online at: [http://www.setv.org/online_mss/SETI-DofP.html](http://www.setv.org/online_mss/SETI-DofP.html)
+Complete text of the SETI protocol printed in *Acta Astronautica*Volume 21 ([1990]({{ '/tags/1990' | relative_url }})), Number 2, pages 153-154. Available online at: [http://www.setv.org/online_mss/SETI-DofP.html](http://www.setv.org/online_mss/SETI-DofP.html)
 
 Complete text of the SETI protocol appears as Annex 1 to John Billighman’s position paper entitled “A Decision Process for Examining the Possibility of Sending Communications to Extraterrestrial Civilizations” at: [http://www.iaanet.org/p_papers/seti.html](http://www.iaanet.org/p_papers/seti.html)
 
@@ -43,13 +43,13 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-Complete text presented by White, Frank in his “[The SETI Factor](/ufo-history/ufo-books/white-frank-the-seti-factor)” ([1990](/tags/1990)) (available [on Amazon USA](http://www.amazon.com/dp/0802711057/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0802711057/ref=nosim?tag=ufot-21)) at pages 205-208 (in Appendix B) of the Walker hardback edition.
+Complete text presented by White, Frank in his “[The SETI Factor]({{ '/ufo-history/ufo-books/white-frank-the-seti-factor' | relative_url }})” ([1990]({{ '/tags/1990' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0802711057/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0802711057/ref=nosim?tag=ufot-21)) at pages 205-208 (in Appendix B) of the Walker hardback edition.
 
-Complete text presented by Michaud, Michael in “First Contact” ([1990](/tags/1990)) (edited by [Ben Bova](/ufo-history/ufo-personalities/bova-ben) and Byron Preiss) (available [on Amazon USA](http://www.amazon.com/dp/0747235082/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0747235082/ref=nosim?tag=ufot-21)) at pages 258-261 (in Chapter 8) of the NAL Books hardback edition, at pages 325-329 of the Headline paperback edition.
+Complete text presented by Michaud, Michael in “First Contact” ([1990]({{ '/tags/1990' | relative_url }})) (edited by [Ben Bova]({{ '/ufo-history/ufo-personalities/bova-ben' | relative_url }}) and Byron Preiss) (available [on Amazon USA](http://www.amazon.com/dp/0747235082/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0747235082/ref=nosim?tag=ufot-21)) at pages 258-261 (in Chapter 8) of the NAL Books hardback edition, at pages 325-329 of the Headline paperback edition.
 
-Complete text presented by Michaud, Michael in “Are We Alone in the Cosmos” ([1999](/tags/1999)) (edited by [Ben Bova](/ufo-history/ufo-personalities/bova-ben) and Byron Preiss) (available [on Amazon USA](http://www.amazon.com/dp/0671038923/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0671038923/ref=nosim?tag=ufot-21)) at pages 280-284 (in Chapter 6) of the ibooks softcover edition.
+Complete text presented by Michaud, Michael in “Are We Alone in the Cosmos” ([1999]({{ '/tags/1999' | relative_url }})) (edited by [Ben Bova]({{ '/ufo-history/ufo-personalities/bova-ben' | relative_url }}) and Byron Preiss) (available [on Amazon USA](http://www.amazon.com/dp/0671038923/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0671038923/ref=nosim?tag=ufot-21)) at pages 280-284 (in Chapter 6) of the ibooks softcover edition.
 
-Complete text presented in “[Making Contact](/ufo-history/ufo-books/fawcett-bill-ed-making-contact)” ([1997](/tags/1997)) (edited by Bill Fawcett) (available [on Amazon USA](http://www.amazon.com/dp/0688144861/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0688144861/ref=nosim?tag=ufot-21)) at pages 355-357 (in Appendix C) of the Morrow hardback edition.
+Complete text presented in “[Making Contact]({{ '/ufo-history/ufo-books/fawcett-bill-ed-making-contact' | relative_url }})” ([1997]({{ '/tags/1997' | relative_url }})) (edited by Bill Fawcett) (available [on Amazon USA](http://www.amazon.com/dp/0688144861/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0688144861/ref=nosim?tag=ufot-21)) at pages 355-357 (in Appendix C) of the Morrow hardback edition.
 
 The table below includes references to relevant discussions in UFO/SETI books noted by Isaac Koi during a review of approximately 963 UFO/SETI books during the period 2003-2006 (with a few later additions). The table can be sorted by author, date and length of discussion by clicking on the relevant word in the top line of the table.
 
@@ -75,10 +75,10 @@ For discussion of the SETI protocol see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/blum-howard">Blum, Howard</a> in his “<a href="/ufo-history/ufo-books/blum-howard-out-there">Out There</a>“ (<a href="/tags/1990">1990</a>) (available <a href="http://www.amazon.com/dp/0671662600/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0671662600/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 141-143 (in Chapter 19) of the Simon &amp; Schuster hardback edition, pages 150-151 of the Pocket Star paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/blum-howard' | relative_url }}">Blum, Howard</a> in his “<a href="{{ '/ufo-history/ufo-books/blum-howard-out-there' | relative_url }}">Out There</a>“ (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) (available <a href="http://www.amazon.com/dp/0671662600/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0671662600/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 141-143 (in Chapter 19) of the Simon &amp; Schuster hardback edition, pages 150-151 of the Pocket Star paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -86,10 +86,10 @@ For discussion of the SETI protocol see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Clark, Andrew J H and Clark, David H in their “<a href="/ufo-history/ufo-books/clark-andrew-j-h-and-clark-david-h-aliens">Aliens</a>“ (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0880642335/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0880642335/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 86 (in Chapter 2) of the Fromm hardback edition.</p>
+<p>Clark, Andrew J H and Clark, David H in their “<a href="{{ '/ufo-history/ufo-books/clark-andrew-j-h-and-clark-david-h-aliens' | relative_url }}">Aliens</a>“ (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0880642335/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0880642335/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 86 (in Chapter 2) of the Fromm hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -97,10 +97,10 @@ For discussion of the SETI protocol see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Coomer, David in his “<a href="/ufo-history/ufo-books/coomer-david-the-ufo-investigators-guide">The UFO Investigator’s Guide</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0713727829/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713727829/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 90 (in Chapter 6) of the Blandford softback edition.</p>
+<p>Coomer, David in his “<a href="{{ '/ufo-history/ufo-books/coomer-david-the-ufo-investigators-guide' | relative_url }}">The UFO Investigator’s Guide</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0713727829/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713727829/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 90 (in Chapter 6) of the Blandford softback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -108,10 +108,10 @@ For discussion of the SETI protocol see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/darling-david">Darling, David</a> in his “<a href="/ufo-history/ufo-books/darling-david-the-extraterrestrial-encyclopedia">The Extraterrestrial Encyclopedia</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/081293248X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/081293248X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 99-100 (in the entry entitled “Declaration of Principles (Concerning Activities Following the Detection of Extraterrestrial Intelligence)”), 146 (in the entry entitled “extraterrestrial intelligence, procedures following first contact”) of the Three Rivers softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/darling-david' | relative_url }}">Darling, David</a> in his “<a href="{{ '/ufo-history/ufo-books/darling-david-the-extraterrestrial-encyclopedia' | relative_url }}">The Extraterrestrial Encyclopedia</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/081293248X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/081293248X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 99-100 (in the entry entitled “Declaration of Principles (Concerning Activities Following the Detection of Extraterrestrial Intelligence)”), 146 (in the entry entitled “extraterrestrial intelligence, procedures following first contact”) of the Three Rivers softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -119,10 +119,10 @@ For discussion of the SETI protocol see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2003">2003</a></p>
+<p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/darling-david">Darling, David</a> in his online encyclopedia, “The Encyclopedia of Astrobiology, Astronomy and Spaceflight” (<a href="/tags/2003">2003</a>) in the entry entitled “Declaration of Principles (Concerning Activities Following the Detection of Extraterrestrial Intelligence)”. The relevant entry is available online at: “<a href="http://www.daviddarling.info/encyclopedia/D/Declar.html">http://www.daviddarling.info/encyclopedia/D/Declar.html</a></p>
+<p><a href="{{ '/ufo-history/ufo-personalities/darling-david' | relative_url }}">Darling, David</a> in his online encyclopedia, “The Encyclopedia of Astrobiology, Astronomy and Spaceflight” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) in the entry entitled “Declaration of Principles (Concerning Activities Following the Detection of Extraterrestrial Intelligence)”. The relevant entry is available online at: “<a href="http://www.daviddarling.info/encyclopedia/D/Declar.html">http://www.daviddarling.info/encyclopedia/D/Declar.html</a></p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -130,10 +130,10 @@ For discussion of the SETI protocol see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/dick-steven-j">Dick, Steven J</a> in his “<a href="/ufo-history/ufo-books/dick-steven-j-life-on-other-worlds">Life on Other Worlds</a>“ (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0521620120/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521620120/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 244 (in Chapter 8) of the Cambridge hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dick-steven-j' | relative_url }}">Dick, Steven J</a> in his “<a href="{{ '/ufo-history/ufo-books/dick-steven-j-life-on-other-worlds' | relative_url }}">Life on Other Worlds</a>“ (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0521620120/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521620120/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 244 (in Chapter 8) of the Cambridge hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -141,10 +141,10 @@ For discussion of the SETI protocol see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/dick-steven-j">Dick, Steven J</a> in his “<a href="/ufo-history/ufo-books/dick-steven-j-the-biological-universe">The Biological Universe</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/0521343267/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521343267/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 512-513 (in Chapter 10) of the Cambridge hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dick-steven-j' | relative_url }}">Dick, Steven J</a> in his “<a href="{{ '/ufo-history/ufo-books/dick-steven-j-the-biological-universe' | relative_url }}">The Biological Universe</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/0521343267/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521343267/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 512-513 (in Chapter 10) of the Cambridge hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -152,10 +152,10 @@ For discussion of the SETI protocol see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/drake-frank">Drake, Frank</a> and Sobel, Dava in their “<a href="/ufo-history/ufo-books/drake-frank-and-sobel-dava-is-anyone-out-there">Is Anyone Out There?</a>“ (<a href="/tags/1991">1991</a>) (available <a href="http://www.amazon.com/dp/038530532X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/038530532X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 227-228 (in Chapter 10) of the Pocket Books paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/drake-frank' | relative_url }}">Drake, Frank</a> and Sobel, Dava in their “<a href="{{ '/ufo-history/ufo-books/drake-frank-and-sobel-dava-is-anyone-out-there' | relative_url }}">Is Anyone Out There?</a>“ (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/038530532X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/038530532X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 227-228 (in Chapter 10) of the Pocket Books paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -163,10 +163,10 @@ For discussion of the SETI protocol see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fitzgerald-randall">Fitzgerald, Randall</a> in his “<a href="/ufo-history/ufo-books/fitzgerald-randall-the-cosmic-test-tube">The Cosmic Test Tube</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0963916122/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963916122/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 342-343 (in Section 5) of the Moonlake Media softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }}">Fitzgerald, Randall</a> in his “<a href="{{ '/ufo-history/ufo-books/fitzgerald-randall-the-cosmic-test-tube' | relative_url }}">The Cosmic Test Tube</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0963916122/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963916122/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 342-343 (in Section 5) of the Moonlake Media softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -174,10 +174,10 @@ For discussion of the SETI protocol see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1993">1993</a></p>
+<p><a href="{{ '/tags/1993' | relative_url }}">1993</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/good-timothy">Good, Timothy</a> in his “Alien Update” (<a href="/tags/1993">1993</a>) at page 4 (in the Foreword) of the Arrow paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/good-timothy' | relative_url }}">Good, Timothy</a> in his “Alien Update” (<a href="{{ '/tags/1993' | relative_url }}">1993</a>) at page 4 (in the Foreword) of the Arrow paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -185,10 +185,10 @@ For discussion of the SETI protocol see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/harrison-albert-a">Harrison, Albert A</a> in his “<a href="/ufo-history/ufo-books/harrison-albert-a-after-contact-the-human-response-to-extraterrestrial-life">After Contact: The Human Response to Extraterrestrial Life</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0306456214/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0306456214/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 206-210 (in Chapter 8), 255-258 (in Chapter 10) of the Plenum Trade hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/harrison-albert-a' | relative_url }}">Harrison, Albert A</a> in his “<a href="{{ '/ufo-history/ufo-books/harrison-albert-a-after-contact-the-human-response-to-extraterrestrial-life' | relative_url }}">After Contact: The Human Response to Extraterrestrial Life</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0306456214/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0306456214/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 206-210 (in Chapter 8), 255-258 (in Chapter 10) of the Plenum Trade hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>9</p>
@@ -196,10 +196,10 @@ For discussion of the SETI protocol see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p>Heidmann, Jean in his “Extraterrestrial Intelligence” (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/0521585635/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521585635/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 192-193, 201 (in Chapter 12) of the Cambridge hardback edition.</p>
+<p>Heidmann, Jean in his “Extraterrestrial Intelligence” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/0521585635/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521585635/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 192-193, 201 (in Chapter 12) of the Cambridge hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -207,10 +207,10 @@ For discussion of the SETI protocol see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p>Heidmann, Jean in his “Life in the Universe" (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/0070278873/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0070278873/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 99 (in Chapter 8) of the Cambridge softcover edition.</p>
+<p>Heidmann, Jean in his “Life in the Universe" (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/0070278873/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0070278873/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 99 (in Chapter 8) of the Cambridge softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -218,10 +218,10 @@ For discussion of the SETI protocol see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Hennessey, Roger in his “<a href="/ufo-history/ufo-books/hennessey-roger-a-s-worlds-without-end-the-historic-search-for-extraterrestrial-life">Worlds Without End : The Historic Search for Extraterrestrial Life</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/075241450X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/075241450X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 114 (in Chapter 11) of the Tempus hardback edition.</p>
+<p>Hennessey, Roger in his “<a href="{{ '/ufo-history/ufo-books/hennessey-roger-a-s-worlds-without-end-the-historic-search-for-extraterrestrial-life' | relative_url }}">Worlds Without End : The Historic Search for Extraterrestrial Life</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/075241450X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/075241450X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 114 (in Chapter 11) of the Tempus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -229,10 +229,10 @@ For discussion of the SETI protocol see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Kurland, Michael in his “<a href="/ufo-history/ufo-books/kurland-michael-the-complete-idiots-guide-to-extraterrestrial-intelligence">The Complete Idiot's Guide to Extraterrestrial Intelligence</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0028623878/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0028623878/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 241 (in Chapter 23) of the Alpha Books softcover edition.</p>
+<p>Kurland, Michael in his “<a href="{{ '/ufo-history/ufo-books/kurland-michael-the-complete-idiots-guide-to-extraterrestrial-intelligence' | relative_url }}">The Complete Idiot's Guide to Extraterrestrial Intelligence</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0028623878/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0028623878/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 241 (in Chapter 23) of the Alpha Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -240,10 +240,10 @@ For discussion of the SETI protocol see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p>Lamb, David in his “<a href="/ufo-history/ufo-books/lamb-david-the-search-of-extraterrestrial-intelligence-a-philosophical-inquiry">The Search for Extraterrestrial Intelligence : A Philosophical Inquiry</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/0415243424/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0415243424/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 26 (in Chapter 1) of the Routledge softcover edition.</p>
+<p>Lamb, David in his “<a href="{{ '/ufo-history/ufo-books/lamb-david-the-search-of-extraterrestrial-intelligence-a-philosophical-inquiry' | relative_url }}">The Search for Extraterrestrial Intelligence : A Philosophical Inquiry</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/0415243424/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0415243424/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 26 (in Chapter 1) of the Routledge softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -251,10 +251,10 @@ For discussion of the SETI protocol see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p>McConnell, Brian in his “<a href="/ufo-history/ufo-books/mcdonnell-brian-beyond-contact-a-guide-to-seti-and-communicating-with-alien-civilizations">Beyond Contact : A Guide to SETI and Communicating with Alien Civilizations</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/0596000375/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0596000375/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 143-144 (in Chapter 8) of the O’Reilly hardback edition.</p>
+<p>McConnell, Brian in his “<a href="{{ '/ufo-history/ufo-books/mcdonnell-brian-beyond-contact-a-guide-to-seti-and-communicating-with-alien-civilizations' | relative_url }}">Beyond Contact : A Guide to SETI and Communicating with Alien Civilizations</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/0596000375/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0596000375/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 143-144 (in Chapter 8) of the O’Reilly hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -262,10 +262,10 @@ For discussion of the SETI protocol see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/michaud-michael">Michael Michaud</a>, <a href="/ufo-history/ufo-personalities/billingham-john">John Billingham</a> and <a href="/ufo-history/ufo-personalities/tarter-jill">Tarter, Jill</a> in their paper “A Reply From Earth?”. Paper IAA-90-591 presented at the <em>41st Congress of the International Astronautical Federation, </em>Dresden, Germany, 8-12 October <a href="/tags/1990">1990</a>. Paper printed in <em>Acta Astronautica </em>Volume 26, Number 14, pages 295-297, <a href="/tags/1992">1992</a>. Available online at: <a href="http://www.setv.org/online_mss/reply92.html">http://www.setv.org/online_mss/reply92.html</a></p>
+<p><a href="{{ '/ufo-history/ufo-personalities/michaud-michael' | relative_url }}">Michael Michaud</a>, <a href="{{ '/ufo-history/ufo-personalities/billingham-john' | relative_url }}">John Billingham</a> and <a href="{{ '/ufo-history/ufo-personalities/tarter-jill' | relative_url }}">Tarter, Jill</a> in their paper “A Reply From Earth?”. Paper IAA-90-591 presented at the <em>41st Congress of the International Astronautical Federation, </em>Dresden, Germany, 8-12 October <a href="{{ '/tags/1990' | relative_url }}">1990</a>. Paper printed in <em>Acta Astronautica </em>Volume 26, Number 14, pages 295-297, <a href="{{ '/tags/1992' | relative_url }}">1992</a>. Available online at: <a href="http://www.setv.org/online_mss/reply92.html">http://www.setv.org/online_mss/reply92.html</a></p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -273,10 +273,10 @@ For discussion of the SETI protocol see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Michaud, Michael in “Are We Alone in the Cosmos” (<a href="/tags/1999">1999</a>) (edited by <a href="/ufo-history/ufo-personalities/bova-ben">Ben Bova</a> and Byron Preiss) (available <a href="http://www.amazon.com/dp/0671038923/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0671038923/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 278-280 (in Chapter 6) of the ibooks softcover edition.</p>
+<p>Michaud, Michael in “Are We Alone in the Cosmos” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/bova-ben' | relative_url }}">Ben Bova</a> and Byron Preiss) (available <a href="http://www.amazon.com/dp/0671038923/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0671038923/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 278-280 (in Chapter 6) of the ibooks softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -284,10 +284,10 @@ For discussion of the SETI protocol see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="547">
-<p>Michaud, Michael in “First Contact” (<a href="/tags/1990">1990</a>) (edited by <a href="/ufo-history/ufo-personalities/bova-ben">Ben Bova</a> and Byron Preiss) (available <a href="http://www.amazon.com/dp/0747235082/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0747235082/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 256-258 (in Chapter 8) of the NAL Books hardback edition, at pages 322-325 of the Headline paperback edition.</p>
+<p>Michaud, Michael in “First Contact” (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/bova-ben' | relative_url }}">Ben Bova</a> and Byron Preiss) (available <a href="http://www.amazon.com/dp/0747235082/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0747235082/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 256-258 (in Chapter 8) of the NAL Books hardback edition, at pages 322-325 of the Headline paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -295,10 +295,10 @@ For discussion of the SETI protocol see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1988">1988</a></p>
+<p><a href="{{ '/tags/1988' | relative_url }}">1988</a></p>
 </td>
 <td valign="top" width="547">
-<p>Michaud, Michael in a paper entitled “An international agreement concerning the detection of extraterrestrial intelligence” (paper IAA-88-530) presented at the 39th Congress of the International Astronautical Federation,<em> </em>Bangalore, India, 8-15 October <a href="/tags/1988">1988</a>. Paper printed in <em>Acta Astronautica </em>Volume 26 (<a href="/tags/1992">1992</a>), No.3 /4, pages 291-294. Available online at: <a href="http://www.setv.org/online_mss/michaud92.html">http://www.setv.org/online_mss/michaud92.html</a></p>
+<p>Michaud, Michael in a paper entitled “An international agreement concerning the detection of extraterrestrial intelligence” (paper IAA-88-530) presented at the 39th Congress of the International Astronautical Federation,<em> </em>Bangalore, India, 8-15 October <a href="{{ '/tags/1988' | relative_url }}">1988</a>. Paper printed in <em>Acta Astronautica </em>Volume 26 (<a href="{{ '/tags/1992' | relative_url }}">1992</a>), No.3 /4, pages 291-294. Available online at: <a href="http://www.setv.org/online_mss/michaud92.html">http://www.setv.org/online_mss/michaud92.html</a></p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -306,10 +306,10 @@ For discussion of the SETI protocol see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> and <a href="/ufo-history/ufo-personalities/hough-peter">Hough, Peter</a> in their “<a href="/ufo-history/ufo-books/randles-jenny-and-hough-peter-looking-for-the-aliens">Looking for the Aliens</a>” (<a href="/tags/1991">1991</a>) (available <a href="http://www.amazon.com/dp/0760704406/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0760704406/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 227-229 (in Chapter 23) of the Blandford softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> and <a href="{{ '/ufo-history/ufo-personalities/hough-peter' | relative_url }}">Hough, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-hough-peter-looking-for-the-aliens' | relative_url }}">Looking for the Aliens</a>” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/0760704406/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0760704406/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 227-229 (in Chapter 23) of the Blandford softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -317,10 +317,10 @@ For discussion of the SETI protocol see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/shostak-seth">Shostak, Seth</a> in his “<a href="/ufo-history/ufo-books/shostak-seth-sharing-the-universe">Sharing the Universe</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0965377431/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0965377431/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 186-188 (in Chapter 9) of the Berkeley Hills softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/shostak-seth' | relative_url }}">Shostak, Seth</a> in his “<a href="{{ '/ufo-history/ufo-books/shostak-seth-sharing-the-universe' | relative_url }}">Sharing the Universe</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0965377431/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0965377431/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 186-188 (in Chapter 9) of the Berkeley Hills softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -328,10 +328,10 @@ For discussion of the SETI protocol see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/spencer-john">Spencer, John</a> and Spencer, Anne in their “<a href="/ufo-history/ufo-books/spencer-john-true-life-encounters-alien-contact">True Life Encounters – Alien Contact</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1575000237/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1575000237/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 17-21 (in Chapter 1) of the Millenium paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">Spencer, John</a> and Spencer, Anne in their “<a href="{{ '/ufo-history/ufo-books/spencer-john-true-life-encounters-alien-contact' | relative_url }}">True Life Encounters – Alien Contact</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1575000237/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1575000237/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 17-21 (in Chapter 1) of the Millenium paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>
@@ -339,10 +339,10 @@ For discussion of the SETI protocol see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2004">2004</a></p>
+<p><a href="{{ '/tags/2004' | relative_url }}">2004</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/tonnies-mac">Tonnies, Mac</a> in his “<a href="/ufo-history/ufo-books/tonnies-mac-after-the-martian-apocalypse">After the Martian Apocalypse</a>” (<a href="/tags/2004">2004</a>) (available <a href="http://www.amazon.com/dp/074348293X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/074348293X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 120 (in Chapter 4) of the Paraview Pocket Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/tonnies-mac' | relative_url }}">Tonnies, Mac</a> in his “<a href="{{ '/ufo-history/ufo-books/tonnies-mac-after-the-martian-apocalypse' | relative_url }}">After the Martian Apocalypse</a>” (<a href="{{ '/tags/2004' | relative_url }}">2004</a>) (available <a href="http://www.amazon.com/dp/074348293X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/074348293X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 120 (in Chapter 4) of the Paraview Pocket Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -350,10 +350,10 @@ For discussion of the SETI protocol see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/von-daniken-erich">Von Daniken, Erich</a> in his “The Return of the Gods” (<a href="/tags/1995">1995</a>) at page 179 (in Chapter 6) of the Vega softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/von-daniken-erich' | relative_url }}">Von Daniken, Erich</a> in his “The Return of the Gods” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) at page 179 (in Chapter 6) of the Vega softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -361,10 +361,10 @@ For discussion of the SETI protocol see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="547">
-<p>White, Frank in his “<a href="/ufo-history/ufo-books/white-frank-the-seti-factor">The SETI Factor</a>” (<a href="/tags/1990">1990</a>) (available <a href="http://www.amazon.com/dp/0802711057/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0802711057/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 63-68 (in Chapter 5) of the Walker hardback edition. Complete text set out in Appendix B at pages 205-208.</p>
+<p>White, Frank in his “<a href="{{ '/ufo-history/ufo-books/white-frank-the-seti-factor' | relative_url }}">The SETI Factor</a>” (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) (available <a href="http://www.amazon.com/dp/0802711057/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0802711057/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 63-68 (in Chapter 5) of the Walker hardback edition. Complete text set out in Appendix B at pages 205-208.</p>
 </td>
 <td valign="top" width="52">
 <p>9</p>
@@ -372,10 +372,10 @@ For discussion of the SETI protocol see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/white-michael">White, Michael</a> in his “Life Out There” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/088001671X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/088001671X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 190-191 (in Chapter 10) of the Little, Brown &amp; Co hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/white-michael' | relative_url }}">White, Michael</a> in his “Life Out There” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/088001671X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/088001671X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 190-191 (in Chapter 10) of the Little, Brown &amp; Co hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -383,10 +383,10 @@ For discussion of the SETI protocol see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2005">2005</a></p>
+<p><a href="{{ '/tags/2005' | relative_url }}">2005</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/wood-ryan">Wood, Ryan</a> in his “<a href="/ufo-history/ufo-books/wood-ryan-majic-eyes-only">MAJIC Eyes Only</a>” (<a href="/tags/2005">2005</a>) (available <a href="http://www.amazon.com/dp/0977205908/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0977205908/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 228 of the Wood Enterprises hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/wood-ryan' | relative_url }}">Wood, Ryan</a> in his “<a href="{{ '/ufo-history/ufo-books/wood-ryan-majic-eyes-only' | relative_url }}">MAJIC Eyes Only</a>” (<a href="{{ '/tags/2005' | relative_url }}">2005</a>) (available <a href="http://www.amazon.com/dp/0977205908/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0977205908/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 228 of the Wood Enterprises hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -398,6 +398,6 @@ For discussion of the SETI protocol see the following:
 <a id="other"></a>
 ### Other Material
 
-Complete text of the SETI protocol printed in *Acta Astronautica*Volume 21 ([1990](/tags/1990)), Number 2, pages 153-154.
+Complete text of the SETI protocol printed in *Acta Astronautica*Volume 21 ([1990]({{ '/tags/1990' | relative_url }})), Number 2, pages 153-154.
 
 Please use the comments section below to share references to any particularly interesting relevant articles.

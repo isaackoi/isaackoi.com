@@ -42,9 +42,9 @@ Koi UFO Video 036 appears to show some people approaching some an outbuilding an
 
 Screen shots from the video are included below for ease of identification:
 
-![](/images/stories/ufo_videos/video036_1.JPG)
+![]({{ '/images/stories/ufo_videos/video036_1.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video036_2.JPG)
+![]({{ '/images/stories/ufo_videos/video036_2.JPG' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this video
@@ -60,21 +60,21 @@ Grupo Enmente openly stated on its webpage in 2006 that this "mockumentary" proj
 
 The video was originally posted on the "misteriosinexplicables.com" website in 2006. That website is now defunct, making finding relevant information a bit of a pain in the bottom. Only parts of that website can be retrieved via the Wayback Machine's Internet Archive, with only a few incomplete pages appearing in the Internet Archive - such as the one shown below:
 
-![](/images/stories/ufo_videos/video036_3.JPG)
+![]({{ '/images/stories/ufo_videos/video036_3.JPG' | relative_url }})
 
 Fortunately, the incomplete pages of the "misteriosinexplicables.com" website available via the Wayback Machine's Internet Archive contain a very significant link (highlighted in the screen shot below) to the "Grupoenmente" website.
 
-![](/images/stories/ufo_videos/video036_4.JPG)
+![]({{ '/images/stories/ufo_videos/video036_4.JPG' | relative_url }})
 
 Again, only a few incomplete pages of the "Grupoenmente" website as at 2006 are available via the Wayback Machine's Internet Archive. The front page of that website is shown below:
 
-![](/images/stories/ufo_videos/video036_5.JPG)
+![]({{ '/images/stories/ufo_videos/video036_5.JPG' | relative_url }})
 
 Many of the links on the Wayback Machine's Internet Archive's archived version of the frontpage of the "Grupoenmente" website as at 2006 do not work. Most of the pages from that website do not appear to have been archived. Having gone through most of the links, however, I was able to find one page that still gives details of the true story behind Gropo Enmente's film project.
 
 A [cache of one page on the Grupoenmente.com website as at 2006](https://web.archive.org/web/20060623025636/http://www.grupoenmente.com/index.php?option=com_content&task=view&id=33&Itemid=36) contains an explanation of the relevant film project. That explanation openly stated that the project was to create a "mockumentary", described as one that "mimics all aspects documentaries and news programs but is based on fictitious events". The plan, as explained by Grupo Enmente on that webpage (shown below, as translated by the Google Translate software), appears to have been to use a website to seek raw footage from amateur film-makers and then include "special effects" to create "believable" video of with themes relating to UFOs, ghosts and the supernatural.
 
-![](/images/stories/ufo_videos/video036_6.JPG)
+![]({{ '/images/stories/ufo_videos/video036_6.JPG' | relative_url }})
 
 **![](https://web.archive.org/web/20060623025636im_/http://www.grupoenmente.com/images/stories/proyectos/tum_mi_latente.jpg)Latent** - Last film of the trilogy Unexplained Mysteries that touches on the supernatural and the powers latent in the human being. Production susceptible to a major international co-production would be the first to show a palette Aplia realities of life, customs and experiences in Latin America and Europe.
 
@@ -93,4 +93,4 @@ Relevant discussions on the AboveTopSecret.com forum include the following:
 
 2007 (January) discussion entitled "[DEBUNKED! Mexico Alien (Chupacabra) Video](http://www.abovetopsecret.com/forum/thread263645/pg1)"
 
-![](/images/stories/ufo_videos/video036_2d.jpg)
+![]({{ '/images/stories/ufo_videos/video036_2d.jpg' | relative_url }})

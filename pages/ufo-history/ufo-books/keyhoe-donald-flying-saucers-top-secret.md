@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/1571743170.jpg"}
 book: {"identifiers": ["B0007F2EIY", "1571743170", "0253190061", "1560983434", "0449908372"], "primary_isbn": "1571743170", "cover_image": "/book-covers/1571743170.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Donald Keyhoe](/ufo-history/ufo-personalities/keyhoe-donald-e)'s book “[Flying Saucers: Top Secret](/ufo-history/ufo-books/keyhoe-donald-flying-saucers-top-secret)” ([1960](/tags/1960)) (available [on Amazon USA](http://www.amazon.com/dp/B0007F2EIY/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B0007F2EIY/?&tag=ufot-21))
+Brief review to be added of [Donald Keyhoe]({{ '/ufo-history/ufo-personalities/keyhoe-donald-e' | relative_url }})'s book “[Flying Saucers: Top Secret]({{ '/ufo-history/ufo-books/keyhoe-donald-flying-saucers-top-secret' | relative_url }})” ([1960]({{ '/tags/1960' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/B0007F2EIY/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B0007F2EIY/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/dolan-richard">Dolan, Richard</a> M in his “<a href="/ufo-history/ufo-books/dolan-richard-ufos-and-the-national-security-state-volume-1-1941-1973">UFOs and the National Security State: Volume 1: 1941-1973</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/1571743170/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1571743170/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 323 (in Chapter 6) of the Keyhole softcover edition, at pages 238-239 of the <a href="/tags/2002">2002</a> revised Hampton Road softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dolan-richard' | relative_url }}">Dolan, Richard</a> M in his “<a href="{{ '/ufo-history/ufo-books/dolan-richard-ufos-and-the-national-security-state-volume-1-1941-1973' | relative_url }}">UFOs and the National Security State: Volume 1: 1941-1973</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/1571743170/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1571743170/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 323 (in Chapter 6) of the Keyhole softcover edition, at pages 238-239 of the <a href="{{ '/tags/2002' | relative_url }}">2002</a> revised Hampton Road softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -65,10 +65,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1975">1975</a></p>
+<p><a href="{{ '/tags/1975' | relative_url }}">1975</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/jacobs-david-michael">Jacobs, David Michael</a> in his “<a href="/ufo-history/ufo-books/jacobs-david-michael-the-ufo-controversy-in-america">The UFO Controversy in America</a>” (<a href="/tags/1975">1975</a>) (available <a href="http://www.amazon.com/dp/0253190061/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0253190061/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 171-173 (in Chapter 7) of the Indiana hardback edition, pages 152-153 of the Signet paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/jacobs-david-michael' | relative_url }}">Jacobs, David Michael</a> in his “<a href="{{ '/ufo-history/ufo-books/jacobs-david-michael-the-ufo-controversy-in-america' | relative_url }}">The UFO Controversy in America</a>” (<a href="{{ '/tags/1975' | relative_url }}">1975</a>) (available <a href="http://www.amazon.com/dp/0253190061/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0253190061/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 171-173 (in Chapter 7) of the Indiana hardback edition, pages 152-153 of the Signet paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -76,10 +76,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/peebles-curtis">Peebles, Curtis</a> in his “<a href="/ufo-history/ufo-books/peebles-curtis-watch-the-skies">Watch the Skies!</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/1560983434/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1560983434/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 136 (Chapter 10) of the Smithsonian hardback edition, page 162 of the Berkley paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/peebles-curtis' | relative_url }}">Peebles, Curtis</a> in his “<a href="{{ '/ufo-history/ufo-books/peebles-curtis-watch-the-skies' | relative_url }}">Watch the Skies!</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/1560983434/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1560983434/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 136 (Chapter 10) of the Smithsonian hardback edition, page 162 of the Berkley paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -87,10 +87,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/thompson-keith">Thompson, Keith</a> in his “<a href="/ufo-history/ufo-books/thompson-keith-angels-and-aliens-ufos-and-the-mythic-imagination">Angels and Aliens: UFOs and the Mythic Imagination</a>” (<a href="/tags/1991">1991</a>) (available <a href="http://www.amazon.com/dp/0449908372/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0449908372/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 56 (in Chapter 5) of the Fawcett softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/thompson-keith' | relative_url }}">Thompson, Keith</a> in his “<a href="{{ '/ufo-history/ufo-books/thompson-keith-angels-and-aliens-ufos-and-the-mythic-imagination' | relative_url }}">Angels and Aliens: UFOs and the Mythic Imagination</a>” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/0449908372/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0449908372/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 56 (in Chapter 5) of the Fawcett softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

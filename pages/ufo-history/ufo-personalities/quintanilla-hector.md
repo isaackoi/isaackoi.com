@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/quintanilla_hector_1.JPG"}
 ---
 
-![quintanilla_hector_1](/images/stories/ufo_personalities/quintanilla_hector_1.JPG)
+![quintanilla_hector_1]({{ '/images/stories/ufo_personalities/quintanilla_hector_1.JPG' | relative_url }})
 
 *Hector Quintanilla*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1974">1974</a></p>
+<p><a href="{{ '/tags/1974' | relative_url }}">1974</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/quintanilla-hector">Quintanilla, Hector</a> (Major) “<a href="/ufo-history/ufo-books/quintanilla-hector-major-ufos-an-air-force-dilemma">UFOs: An Air Force Dilemma</a>”</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/quintanilla-hector' | relative_url }}">Quintanilla, Hector</a> (Major) “<a href="{{ '/ufo-history/ufo-books/quintanilla-hector-major-ufos-an-air-force-dilemma' | relative_url }}">UFOs: An Air Force Dilemma</a>”</p>
 </td>
 </tr>
 </tbody>
@@ -83,10 +83,10 @@ For discussion of Quintanilla see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2004">2004</a></p>
+<p><a href="{{ '/tags/2004' | relative_url }}">2004</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/birnes-william">Birnes, William</a> in his “<a href="/ufo-history/ufo-books/birnes-william-the-ufo-magazine-ufo-encyclopedia">The UFO Magazine UFO Encyclopedia</a>” (<a href="/tags/2004">2004</a>) (available <a href="http://www.amazon.com/dp/0743466748/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743466748/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 257 (in an entry entitled “<a href="/ufo-history/ufo-personalities/quintanilla-hector">Quintanilla, Hector</a>”) of the Pocket Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/birnes-william' | relative_url }}">Birnes, William</a> in his “<a href="{{ '/ufo-history/ufo-books/birnes-william-the-ufo-magazine-ufo-encyclopedia' | relative_url }}">The UFO Magazine UFO Encyclopedia</a>” (<a href="{{ '/tags/2004' | relative_url }}">2004</a>) (available <a href="http://www.amazon.com/dp/0743466748/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743466748/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 257 (in an entry entitled “<a href="{{ '/ufo-history/ufo-personalities/quintanilla-hector' | relative_url }}">Quintanilla, Hector</a>”) of the Pocket Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -94,10 +94,10 @@ For discussion of Quintanilla see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1974">1974</a></p>
+<p><a href="{{ '/tags/1974' | relative_url }}">1974</a></p>
 </td>
 <td valign="top" width="547">
-<p>Chionetti, Alex in the introduction to Major <a href="/ufo-history/ufo-personalities/quintanilla-hector">Hector Quintanilla</a> unpublished manuscript entitled “<a href="/ufo-history/ufo-books/quintanilla-hector-major-ufos-an-air-force-dilemma">UFOs: An Air Force Dilemma</a>” (copyright <a href="/tags/1974">1974</a>) at pages 2-3 of the NIDS pdf version available free on-line on various websites, including at the following link:</p>
+<p>Chionetti, Alex in the introduction to Major <a href="{{ '/ufo-history/ufo-personalities/quintanilla-hector' | relative_url }}">Hector Quintanilla</a> unpublished manuscript entitled “<a href="{{ '/ufo-history/ufo-books/quintanilla-hector-major-ufos-an-air-force-dilemma' | relative_url }}">UFOs: An Air Force Dilemma</a>” (copyright <a href="{{ '/tags/1974' | relative_url }}">1974</a>) at pages 2-3 of the NIDS pdf version available free on-line on various websites, including at the following link:</p>
 <p><a href="http://www.projectbluebook.us/UFOs%20An%20Air%20Force%20Dilemma%20By%20Quintanilla.pdf">http://www.projectbluebook.us/UFOs%20An%20Air%20Force%20Dilemma%20By%20Quintanilla.pdf</a></p>
 <p><a href="http://www.nidsci.org/pdf/quintanilla.pdf">http://www.nidsci.org/pdf/quintanilla.pdf</a></p>
 <p> </p>
@@ -108,10 +108,10 @@ For discussion of Quintanilla see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-the-ufo-book">The UFO Book</a>: Encyclopedia of the Extraterrestrial” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/1578590299/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1578590299/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 473 (forming part of an entry entitled “Project Blue Book”) of the Visible Ink Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-the-ufo-book' | relative_url }}">The UFO Book</a>: Encyclopedia of the Extraterrestrial” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/1578590299/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1578590299/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 473 (forming part of an entry entitled “Project Blue Book”) of the Visible Ink Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -119,10 +119,10 @@ For discussion of Quintanilla see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq">The UFO Encyclopedia: 1st edition</a>: Volume 3 – High Strangeness” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/1558887423/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558887423/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 410-411 (in an entry entitled “Project Blue Book, <a href="/tags/1960">1960</a>-<a href="/tags/1969">1969</a>”) of the Omnigraphics hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq' | relative_url }}">The UFO Encyclopedia: 1st edition</a>: Volume 3 – High Strangeness” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/1558887423/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558887423/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 410-411 (in an entry entitled “Project Blue Book, <a href="{{ '/tags/1960' | relative_url }}">1960</a>-<a href="{{ '/tags/1969' | relative_url }}">1969</a>”) of the Omnigraphics hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -130,10 +130,10 @@ For discussion of Quintanilla see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1968">1968</a></p>
+<p><a href="{{ '/tags/1968' | relative_url }}">1968</a></p>
 </td>
 <td valign="top" width="547">
-<p>Cowles and UPI (the editors of ) in “<a href="/ufo-history/ufo-books/cowles-and-upi-editors-flying-saucers-twenty-one-years-of-ufos">Flying Saucers : Twenty-One Years of UFOs</a>” (<a href="/tags/1968">1968</a>) at pages 144-146.</p>
+<p>Cowles and UPI (the editors of ) in “<a href="{{ '/ufo-history/ufo-books/cowles-and-upi-editors-flying-saucers-twenty-one-years-of-ufos' | relative_url }}">Flying Saucers : Twenty-One Years of UFOs</a>” (<a href="{{ '/tags/1968' | relative_url }}">1968</a>) at pages 144-146.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -141,10 +141,10 @@ For discussion of Quintanilla see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2003">2003</a></p>
+<p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/druffel-ann">Druffel, Ann</a> in her “<a href="/ufo-history/ufo-books/druffel-ann-firestorm-dr-james-e-mcdonalds-fight-for-ufo-science">Firestorm : Dr James E McDonald's Fight for UFO Science</a>” (<a href="/tags/2003">2003</a>) (available <a href="http://www.amazon.com/dp/0926524585/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0926524585/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 57, 63, 64-65 (in Chapter 3), 337 (in Chapter 13) of the Wild Flower Press softcover edition.<strong> </strong></p>
+<p><a href="{{ '/ufo-history/ufo-personalities/druffel-ann' | relative_url }}">Druffel, Ann</a> in her “<a href="{{ '/ufo-history/ufo-books/druffel-ann-firestorm-dr-james-e-mcdonalds-fight-for-ufo-science' | relative_url }}">Firestorm : Dr James E McDonald's Fight for UFO Science</a>” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) (available <a href="http://www.amazon.com/dp/0926524585/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0926524585/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 57, 63, 64-65 (in Chapter 3), 337 (in Chapter 13) of the Wild Flower Press softcover edition.<strong> </strong></p>
 </td>
 <td valign="top" width="52">
 <p>5</p>
@@ -152,10 +152,10 @@ For discussion of Quintanilla see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/hall-michael-david">Hall, Michael David</a> in his “<a href="/ufo-history/ufo-books/hall-michael-david-ufos-a-century-of-sightings">UFOs : A Century of Sightings</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/1880090627/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1880090627/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 259, 260 (in Chapter 6) of the Galde Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hall-michael-david' | relative_url }}">Hall, Michael David</a> in his “<a href="{{ '/ufo-history/ufo-books/hall-michael-david-ufos-a-century-of-sightings' | relative_url }}">UFOs : A Century of Sightings</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/1880090627/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1880090627/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 259, 260 (in Chapter 6) of the Galde Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -163,10 +163,10 @@ For discussion of Quintanilla see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/hall-michael-david">Hall, Michael David</a> in his “<a href="/ufo-history/ufo-books/hall-michael-david-ufos-a-century-of-sightings">UFOs : A Century of Sightings</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/1880090627/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1880090627/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 267 (in Chapter 6) of the Galde Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hall-michael-david' | relative_url }}">Hall, Michael David</a> in his “<a href="{{ '/ufo-history/ufo-books/hall-michael-david-ufos-a-century-of-sightings' | relative_url }}">UFOs : A Century of Sightings</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/1880090627/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1880090627/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 267 (in Chapter 6) of the Galde Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -174,10 +174,10 @@ For discussion of Quintanilla see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1979">1979</a></p>
+<p><a href="{{ '/tags/1979' | relative_url }}">1979</a></p>
 </td>
 <td valign="top" width="547">
-<p>Knight, David C in his “UFOs: A pictorial history from antiquity to the present” (<a href="/tags/1979">1979</a>) (available <a href="http://www.amazon.com/dp/0070351031/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0070351031/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 113 (in Part 4) of the McGraw Hill hardback edition.</p>
+<p>Knight, David C in his “UFOs: A pictorial history from antiquity to the present” (<a href="{{ '/tags/1979' | relative_url }}">1979</a>) (available <a href="http://www.amazon.com/dp/0070351031/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0070351031/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 113 (in Part 4) of the McGraw Hill hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -185,10 +185,10 @@ For discussion of Quintanilla see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1974">1974</a></p>
+<p><a href="{{ '/tags/1974' | relative_url }}">1974</a></p>
 </td>
 <td valign="top" width="547">
-<p>NIDS in the preface to Major <a href="/ufo-history/ufo-personalities/quintanilla-hector">Hector Quintanilla</a> unpublished manuscript entitled “<a href="/ufo-history/ufo-books/quintanilla-hector-major-ufos-an-air-force-dilemma">UFOs: An Air Force Dilemma</a>” (copyright <a href="/tags/1974">1974</a>) at page 1 of the NIDS pdf version available free on-line on various websites, including at the following link:</p>
+<p>NIDS in the preface to Major <a href="{{ '/ufo-history/ufo-personalities/quintanilla-hector' | relative_url }}">Hector Quintanilla</a> unpublished manuscript entitled “<a href="{{ '/ufo-history/ufo-books/quintanilla-hector-major-ufos-an-air-force-dilemma' | relative_url }}">UFOs: An Air Force Dilemma</a>” (copyright <a href="{{ '/tags/1974' | relative_url }}">1974</a>) at page 1 of the NIDS pdf version available free on-line on various websites, including at the following link:</p>
 <p><a href="http://www.projectbluebook.us/UFOs%20An%20Air%20Force%20Dilemma%20By%20Quintanilla.pdf">http://www.projectbluebook.us/UFOs%20An%20Air%20Force%20Dilemma%20By%20Quintanilla.pdf</a></p>
 <p><a href="http://www.nidsci.org/pdf/quintanilla.pdf">http://www.nidsci.org/pdf/quintanilla.pdf</a></p>
 <p> </p>
@@ -199,10 +199,10 @@ For discussion of Quintanilla see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/peebles-curtis">Peebles, Curtis</a> in his “<a href="/ufo-history/ufo-books/peebles-curtis-watch-the-skies">Watch the Skies!</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/1560983434/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1560983434/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 144 of the Smithsonian hardback edition, page 173 of the Berkley paperback edition (Chapter 10).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/peebles-curtis' | relative_url }}">Peebles, Curtis</a> in his “<a href="{{ '/ufo-history/ufo-books/peebles-curtis-watch-the-skies' | relative_url }}">Watch the Skies!</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/1560983434/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1560983434/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 144 of the Smithsonian hardback edition, page 173 of the Berkley paperback edition (Chapter 10).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -210,10 +210,10 @@ For discussion of Quintanilla see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sachs-margaret">Sachs, Margaret</a> in her “<a href="/ufo-history/ufo-books/sachs-margaret-the-ufo-encyclopedia">The UFO Encyclopedia</a>“ (<a href="/tags/1980">1980</a> (available <a href="http://www.amazon.com/dp/0399124217/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0399124217/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 264 of the Corgi softback edition in ean entry entitled “<a href="/ufo-history/ufo-personalities/quintanilla-hector">Quintanilla, Hector</a>”.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sachs-margaret' | relative_url }}">Sachs, Margaret</a> in her “<a href="{{ '/ufo-history/ufo-books/sachs-margaret-the-ufo-encyclopedia' | relative_url }}">The UFO Encyclopedia</a>“ (<a href="{{ '/tags/1980' | relative_url }}">1980</a> (available <a href="http://www.amazon.com/dp/0399124217/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0399124217/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 264 of the Corgi softback edition in ean entry entitled “<a href="{{ '/ufo-history/ufo-personalities/quintanilla-hector' | relative_url }}">Quintanilla, Hector</a>”.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -221,10 +221,10 @@ For discussion of Quintanilla see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/spencer-john">Spencer, John</a> in his “<a href="/ufo-history/ufo-books/spencer-john-the-ufo-encyclopedia">The UFO Encyclopedia</a>” (<a href="/tags/1991">1991</a>) (available <a href="http://www.amazon.com/dp/0380768879/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380768879/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 249 (in an entry entitled “Quintanilla, Major Hector”) of the Guild hardback edition (with the same page numbering in the Avon softcover edition) at page 291-292 of the Headline paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">Spencer, John</a> in his “<a href="{{ '/ufo-history/ufo-books/spencer-john-the-ufo-encyclopedia' | relative_url }}">The UFO Encyclopedia</a>” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/0380768879/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380768879/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 249 (in an entry entitled “Quintanilla, Major Hector”) of the Guild hardback edition (with the same page numbering in the Avon softcover edition) at page 291-292 of the Headline paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -232,10 +232,10 @@ For discussion of Quintanilla see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/strieber-whitley">Strieber, Whitley</a> in “<a href="/ufo-history/ufo-books/ledger-don-and-styles-chris-dark-object">Dark Object</a>” (by Don Ledger and Chris Styles) (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/0440236479/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0440236479/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages xiv-xv (in the Introduction) of the Dell paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/strieber-whitley' | relative_url }}">Strieber, Whitley</a> in “<a href="{{ '/ufo-history/ufo-books/ledger-don-and-styles-chris-dark-object' | relative_url }}">Dark Object</a>” (by Don Ledger and Chris Styles) (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/0440236479/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0440236479/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages xiv-xv (in the Introduction) of the Dell paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -243,10 +243,10 @@ For discussion of Quintanilla see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1967">1967</a></p>
+<p><a href="{{ '/tags/1967' | relative_url }}">1967</a></p>
 </td>
 <td valign="top" width="547">
-<p>United Press International and Cowles Communications Inc (the editors of ) in “<a href="/ufo-history/ufo-books/upi-flying-saucers-a-look-special">Flying Saucers: A Look Special</a>” (<a href="/tags/1967">1967</a>) at pages 60-61.</p>
+<p>United Press International and Cowles Communications Inc (the editors of ) in “<a href="{{ '/ufo-history/ufo-books/upi-flying-saucers-a-look-special' | relative_url }}">Flying Saucers: A Look Special</a>” (<a href="{{ '/tags/1967' | relative_url }}">1967</a>) at pages 60-61.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -254,10 +254,10 @@ For discussion of Quintanilla see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/vallee-jacques">Vallee, Jacques</a> in his “<a href="/ufo-history/ufo-books/vallee-jacques-forbidden-science-journals-1957-1969">Forbidden Science: Journals 1957-1969</a>.” (<a href="/tags/1992">1992</a>) (available <a href="http://www.amazon.com/dp/1556431252/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1556431252/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 126 (in Chapter 9, journal entry for <a href="/tags/1965">1965</a>.0206) of the North Atlantic Books hardback edition, at page 133 of the <a href="/tags/1996">1996</a> abridged Marlowe paperback edition, and numerous other entries in Part 2.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/vallee-jacques' | relative_url }}">Vallee, Jacques</a> in his “<a href="{{ '/ufo-history/ufo-books/vallee-jacques-forbidden-science-journals-1957-1969' | relative_url }}">Forbidden Science: Journals 1957-1969</a>.” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="http://www.amazon.com/dp/1556431252/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1556431252/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 126 (in Chapter 9, journal entry for <a href="{{ '/tags/1965' | relative_url }}">1965</a>.0206) of the North Atlantic Books hardback edition, at page 133 of the <a href="{{ '/tags/1996' | relative_url }}">1996</a> abridged Marlowe paperback edition, and numerous other entries in Part 2.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

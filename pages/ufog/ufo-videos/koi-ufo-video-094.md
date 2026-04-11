@@ -40,9 +40,9 @@ This video appears to show a glowing white spiral light in a night sky.
 
 Screen shots from these videos are included below for ease of identification.
 
-![](/images/stories/ufo_videos/video094_1.JPG)
+![]({{ '/images/stories/ufo_videos/video094_1.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video094_2.JPG)
+![]({{ '/images/stories/ufo_videos/video094_2.JPG' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this video
@@ -56,7 +56,7 @@ In fact, as discussed below, the glowing spiral was caused by the failure of the
 
 The Russian Defence Ministry's press office told Itar-Tass news agency in December 2009 that the submarine-based Bulava ballistic missile failed when launched from the White Sea. Reuters quoted a Defense Ministry spokesman as saying "It has been established... that the missile's first two stages worked as normal, but there was a technical malfunction at the next, third, stage of the trajectory,". These facts were reported by [the BB](http://news.bbc.co.uk/1/hi/world/europe/8405481.stm)C, [MSNBC](http://www.nbcnews.com/id/34362960/ns/technology_and_science-space/) in the few days after the sighting:
 
-![](/images/stories/ufo_videos/video094_7.JPG)
+![]({{ '/images/stories/ufo_videos/video094_7.JPG' | relative_url }})
 
 CBS reported on the spiral and the related missile launch, including in the video below.
 
@@ -64,9 +64,9 @@ CBS reported on the spiral and the related missile launch, including in the vide
 
 That CBS video includes footage of a failed daylight launch of a missile, which can be seen to generate a spiral pattern as it veers erratically. Some screen shots are included below.
 
-![](/images/stories/ufo_videos/video094_5.JPG)
+![]({{ '/images/stories/ufo_videos/video094_5.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video094_6.JPG)
+![]({{ '/images/stories/ufo_videos/video094_6.JPG' | relative_url }})
 
 Doug Ellison from [UnmannedSpaceflight.com](http://www.unmannedspaceflight.com/) created the video below to simulate in more detail how a tumbling rocket stage could have generated the pattern seen over Norway:
 
@@ -74,11 +74,11 @@ Doug Ellison from [UnmannedSpaceflight.com](http://www.unmannedspaceflight.com/)
 
 A Bulava missile (pictured below) can carry six individually targeted nuclear warheads:
 
-![](/images/stories/ufo_videos/video094_3.JPG)
+![]({{ '/images/stories/ufo_videos/video094_3.JPG' | relative_url }})
 
 The Russian Navy submarine "Dmitri Donskoi" is pictured below:
 
-![](/images/stories/ufo_videos/video094_4.JPG)
+![]({{ '/images/stories/ufo_videos/video094_4.JPG' | relative_url }})
 
 <a id="forums"></a>
 ### 4. Relevant online discussions
@@ -159,4 +159,4 @@ Relevant discussions on the AboveTopSecret.com forum include the following:
 
 2011 (December) discussion entitled "[Norway Spiral thread series MAY have predicted new Russian technology claiming missiles invulnerable](http://www.abovetopsecret.com/forum/thread786856/pg1)"
 
-![](/images/stories/ufo_videos/video094_2d.jpg)
+![]({{ '/images/stories/ufo_videos/video094_2d.jpg' | relative_url }})

@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0892810394.jpg"}
 book: {"identifiers": ["0892810394", "1575000237"], "primary_isbn": "0892810394", "cover_image": "/book-covers/0892810394.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [George Hunt Williamson](/ufo-history/ufo-personalities/williamson-george-hunt)'s book “[Secret Places of the Lion](/ufo-history/ufo-books/williamson-george-hunt-secret-places-of-the-lion)” ([1958](/tags/1958)) (available [on Amazon USA](http://www.amazon.com/dp/0892810394/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0892810394/?&tag=ufot-21))
+Brief review to be added of [George Hunt Williamson]({{ '/ufo-history/ufo-personalities/williamson-george-hunt' | relative_url }})'s book “[Secret Places of the Lion]({{ '/ufo-history/ufo-books/williamson-george-hunt-secret-places-of-the-lion' | relative_url }})” ([1958]({{ '/tags/1958' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0892810394/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0892810394/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -52,10 +52,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/spencer-john">Spencer, John</a> and Spencer, Anne in their “<a href="/ufo-history/ufo-books/spencer-john-true-life-encounters-alien-contact">True Life Encounters – Alien Contact</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1575000237/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1575000237/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 45 (in Chapter 4) of the Millenium paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">Spencer, John</a> and Spencer, Anne in their “<a href="{{ '/ufo-history/ufo-books/spencer-john-true-life-encounters-alien-contact' | relative_url }}">True Life Encounters – Alien Contact</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1575000237/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1575000237/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 45 (in Chapter 4) of the Millenium paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0967323827.jpg"}
 book: {"identifiers": ["0967323827"], "primary_isbn": "0967323827", "cover_image": "/book-covers/0967323827.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Steven Greer](/ufo-history/ufo-personalities/greer-steven)'s book “[Hidden Truth – Forbidden Knowledge](/ufo-history/ufo-books/greer-steven-hidden-truth-forbidden-knowledge)” ([2006](/tags/2006)) (available [on Amazon USA](http://www.amazon.com/dp/0967323827/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0967323827/?&tag=ufot-21)).
+Brief review to be added of [Steven Greer]({{ '/ufo-history/ufo-personalities/greer-steven' | relative_url }})'s book “[Hidden Truth – Forbidden Knowledge]({{ '/ufo-history/ufo-books/greer-steven-hidden-truth-forbidden-knowledge' | relative_url }})” ([2006]({{ '/tags/2006' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0967323827/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0967323827/?&tag=ufot-21)).
 
 1. [Web Resources](#web)
 

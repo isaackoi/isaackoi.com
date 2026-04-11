@@ -13,7 +13,7 @@ planned_sections: ["1. The relevant image", "2. Stories and claims relating to t
 header: {"preview_image": "/images/stories/alien_photos/koi_ap_64_i.jpg"}
 ---
 
-![](/images/stories/alien_photos/koi_ap_64_i.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_64_i.jpg' | relative_url }})
 
 *Koi Alien Photo 64*
 
@@ -44,7 +44,7 @@ Sections below:
 <a id="image"></a>
 ### 1. The relevant image
 
-![](/images/stories/alien_photos/koi_ap_64_i.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_64_i.jpg' | relative_url }})
 
 ### 2. Stories and claims relating to this image
 
@@ -56,25 +56,25 @@ Koi Alien Photo 64 was one of a series of an "alien" published in the Weekly Wor
 
 Koi Alien Photo 64 was published on the front cover of the issue dated 30 October 1990.
 
-![](/images/stories/alien_photos/koi_ap_64_a.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_64_a.jpg' | relative_url }})
 
 The relevant article included numerous further photos of the "alien". That article is shown below:
 
-![](/images/stories/alien_photos/koi_ap_64_c.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_64_c.jpg' | relative_url }})
 
-![](/images/stories/alien_photos/koi_ap_64_d.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_64_d.jpg' | relative_url }})
 
-![](/images/stories/alien_photos/koi_ap_64_e.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_64_e.jpg' | relative_url }})
 
 In a later edition, dated 20 November 1990, the Weekly World News published a further article regarding this "alien" under the headline "Space Alien Escapes!".
 
-![](/images/stories/alien_photos/koi_ap_64_f.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_64_f.jpg' | relative_url }})
 
 The relevant article about this alleged escape is shown below.
 
-![](/images/stories/alien_photos/koi_ap_64_g.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_64_g.jpg' | relative_url }})
 
-![](/images/stories/alien_photos/koi_ap_64_h.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_64_h.jpg' | relative_url }})
 
 For other photos of "aliens" which actually originated in the Weekly World News, see Koi Alien Photo 19 ("alien" with President Bush), Koi Alien Photo 24 ("alien" with President Clinton) and Koi Alien Photo 57 (alien baby).
 
@@ -102,7 +102,7 @@ I could write a lot more about this, but I think you get the idea. These stories
 
 The article about "a girl who could read two books at the same time, because she had two brains" mentioned by Greg Sandow appeared in the 21 January 1997 edition of the Weekly World News (at page 6) and a copy appears below to illustrate the points made by Greg Sandow (labelled "koi_ap_19o").
 
-![](/images/stories/alien_photos/koi_ap_19_o.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_19_o.jpg' | relative_url }})
 
 <a id="forums"></a>
 ### 4. Relevant online forum discussions

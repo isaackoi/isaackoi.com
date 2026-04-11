@@ -15,7 +15,7 @@ header: {"preview_image": null}
 
 In short,“consensus lists” of the best cases are a highly desirable commodity. It is therefore extremely disappointing (and perhaps surprising) to note that despite numerous challenges by skeptics to produce lists of the “best” cases:
 
-1. with the notable exception of [Brad Sparks](/ufo-history/ufo-personalities/sparks-brad), few researchers have referred to any of these lists;
+1. with the notable exception of [Brad Sparks]({{ '/ufo-history/ufo-personalities/sparks-brad' | relative_url }}), few researchers have referred to any of these lists;
 
 1. several of the relatively few references to these lists by leading ufologists have been inaccurate and misleading;
 

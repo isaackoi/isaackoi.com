@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/documents_1.gif"}
 ---
 
-![documents_1](/images/stories/ufo_tags/documents_1.gif)
+![documents_1]({{ '/images/stories/ufo_tags/documents_1.gif' | relative_url }})
 
 *Letter from AAAS attendees*
 
@@ -43,7 +43,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-Relatively lengthy extract presented by [Sagan, Carl](/ufo-history/ufo-personalities/sagan-carl) and [Page, Thornton](/ufo-history/ufo-personalities/page-thornton) (with relatively lengthy extract) in “[UFO's: A Scientific Debate](/ufo-history/ufo-books/sagan-carl-and-page-thornton-editors-ufos-a-scientific-debate)” ([1972](/tags/1972)) (edited by [Carl Sagan](/ufo-history/ufo-personalities/sagan-carl) and [Thornton Page](/ufo-history/ufo-personalities/page-thornton)) (available [on Amazon USA](http://www.amazon.com/dp/0393007391/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0393007391/ref=nosim?tag=ufot-21)) at pages 295-301 (in the Appendum: Discussion) of the Barnes and Noble hardback edition (with the same page numbering in the Norton paperback edition.
+Relatively lengthy extract presented by [Sagan, Carl]({{ '/ufo-history/ufo-personalities/sagan-carl' | relative_url }}) and [Page, Thornton]({{ '/ufo-history/ufo-personalities/page-thornton' | relative_url }}) (with relatively lengthy extract) in “[UFO's: A Scientific Debate]({{ '/ufo-history/ufo-books/sagan-carl-and-page-thornton-editors-ufos-a-scientific-debate' | relative_url }})” ([1972]({{ '/tags/1972' | relative_url }})) (edited by [Carl Sagan]({{ '/ufo-history/ufo-personalities/sagan-carl' | relative_url }}) and [Thornton Page]({{ '/ufo-history/ufo-personalities/page-thornton' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0393007391/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0393007391/ref=nosim?tag=ufot-21)) at pages 295-301 (in the Appendum: Discussion) of the Barnes and Noble hardback edition (with the same page numbering in the Norton paperback edition.
 
 The table below includes references to relevant discussions in UFO/SETI books noted by Isaac Koi during a review of approximately 963 UFO/SETI books during the period 2003-2006 (with a few later additions). The table can be sorted by author, date and length of discussion by clicking on the relevant word in the top line of the table.
 
@@ -69,10 +69,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) in Volume 1:A-K at page 73 (in an entry entitled “American Association for the Advancement of Science”) of the Omnigraphics hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition' | relative_url }}">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) in Volume 1:A-K at page 73 (in an entry entitled “American Association for the Advancement of Science”) of the Omnigraphics hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -80,10 +80,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/page-thornton">Page, Thornton</a> in “<a href="/ufo-history/ufo-books/story-ronald-editor-and-green-j-richard-consulting-editor-the-encyclopedia-of-ufos">The Encyclopedia of UFOs</a>” (<a href="/tags/1980">1980</a>) edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a> (available <a href="http://www.amazon.com/dp/0385136773/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0385136773/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 1 (in an entry entitled “AAAS symposium on UFOs”) of the NEL hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/page-thornton' | relative_url }}">Page, Thornton</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-editor-and-green-j-richard-consulting-editor-the-encyclopedia-of-ufos' | relative_url }}">The Encyclopedia of UFOs</a>” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a> (available <a href="http://www.amazon.com/dp/0385136773/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0385136773/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 1 (in an entry entitled “AAAS symposium on UFOs”) of the NEL hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -91,10 +91,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> and <a href="/ufo-history/ufo-personalities/hough-peter">Hough, Peter</a> in their “<a href="/ufo-history/ufo-books/randles-jenny-and-hough-peter-50-years-of-ufo-encounters">50 Years of UFO Encounters</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/B000NLQNZC/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000NLQNZC/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 56 (in unnumbered section entitled “<a href="/tags/1969">1969</a>: End of an Era”) of the Encounters Magazine softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> and <a href="{{ '/ufo-history/ufo-personalities/hough-peter' | relative_url }}">Hough, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-hough-peter-50-years-of-ufo-encounters' | relative_url }}">50 Years of UFO Encounters</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/B000NLQNZC/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000NLQNZC/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 56 (in unnumbered section entitled “<a href="{{ '/tags/1969' | relative_url }}">1969</a>: End of an Era”) of the Encounters Magazine softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -102,10 +102,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1985">1985</a></p>
+<p><a href="{{ '/tags/1985' | relative_url }}">1985</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> and <a href="/ufo-history/ufo-personalities/warrington-peter">Warrington, Peter</a> in their “<a href="/ufo-history/ufo-books/randles-jenny-and-warrington-peter-science-and-the-ufos">Science and the UFOs</a> " (<a href="/tags/1985">1985</a>) (available <a href="http://www.amazon.com/dp/0631135634/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0631135634/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 58-59 (in Chapter 4) of the Blackwell hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> and <a href="{{ '/ufo-history/ufo-personalities/warrington-peter' | relative_url }}">Warrington, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-warrington-peter-science-and-the-ufos' | relative_url }}">Science and the UFOs</a> " (<a href="{{ '/tags/1985' | relative_url }}">1985</a>) (available <a href="http://www.amazon.com/dp/0631135634/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0631135634/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 58-59 (in Chapter 4) of the Blackwell hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -113,10 +113,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1972">1972</a></p>
+<p><a href="{{ '/tags/1972' | relative_url }}">1972</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sagan-carl">Sagan, Carl</a> and <a href="/ufo-history/ufo-personalities/page-thornton">Page, Thornton</a> (with relatively lengthy extract) in “<a href="/ufo-history/ufo-books/sagan-carl-and-page-thornton-editors-ufos-a-scientific-debate">UFO's: A Scientific Debate</a>” (<a href="/tags/1972">1972</a>) (edited by <a href="/ufo-history/ufo-personalities/sagan-carl">Carl Sagan</a> and <a href="/ufo-history/ufo-personalities/page-thornton">Thornton Page</a>) (available <a href="http://www.amazon.com/dp/0393007391/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0393007391/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 295-301 (in the Appendum : Discussion) of the Barnes and Noble hardback edition (with the same page numbering in the Norton paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sagan-carl' | relative_url }}">Sagan, Carl</a> and <a href="{{ '/ufo-history/ufo-personalities/page-thornton' | relative_url }}">Page, Thornton</a> (with relatively lengthy extract) in “<a href="{{ '/ufo-history/ufo-books/sagan-carl-and-page-thornton-editors-ufos-a-scientific-debate' | relative_url }}">UFO's: A Scientific Debate</a>” (<a href="{{ '/tags/1972' | relative_url }}">1972</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/sagan-carl' | relative_url }}">Carl Sagan</a> and <a href="{{ '/ufo-history/ufo-personalities/page-thornton' | relative_url }}">Thornton Page</a>) (available <a href="http://www.amazon.com/dp/0393007391/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0393007391/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 295-301 (in the Appendum : Discussion) of the Barnes and Noble hardback edition (with the same page numbering in the Norton paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>7</p>

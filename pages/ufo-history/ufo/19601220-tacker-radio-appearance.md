@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -43,12 +43,12 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-Excerpts of a transcript of the programme presented by [Steiger, Brad](/ufo-history/ufo-personalities/steiger-brad) in his “[Project Blue Book](/ufo-history/ufo-books/steiger-brad-project-blue-book)“ ([1976](/tags/1976)) (available [on Amazon USA](http://www.amazon.com/dp/0345345258/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0345345258/ref=nosim?tag=ufot-21)) at pages 413-423 of the Ballantine Books paperback edition (“Appendix G: Excerpts from Radio Interview with Colonel Lawrence J. Tacker”)
+Excerpts of a transcript of the programme presented by [Steiger, Brad]({{ '/ufo-history/ufo-personalities/steiger-brad' | relative_url }}) in his “[Project Blue Book]({{ '/ufo-history/ufo-books/steiger-brad-project-blue-book' | relative_url }})“ ([1976]({{ '/tags/1976' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0345345258/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0345345258/ref=nosim?tag=ufot-21)) at pages 413-423 of the Ballantine Books paperback edition (“Appendix G: Excerpts from Radio Interview with Colonel Lawrence J. Tacker”)
 
 <a id="other"></a>
 ### Other Material
 
-Images of the script for the relevant program included on the redacted US National Archives and Records Administration (“NARA”) microfilm records of Project Blue Book, released to the National Archives in [1975](/tags/1975) – see National Archives Microfilm Publication T1206 roll number 87 (“Administrative Files: Box 4”). Images of the relevant script are at the link below from the page with the unique Page ID (“PID”) of NARA-PBB87-822 (page 822 of 977) to the page with the PID of NARA-PBB87-836 (page 836 of 977).
+Images of the script for the relevant program included on the redacted US National Archives and Records Administration (“NARA”) microfilm records of Project Blue Book, released to the National Archives in [1975]({{ '/tags/1975' | relative_url }}) – see National Archives Microfilm Publication T1206 roll number 87 (“Administrative Files: Box 4”). Images of the relevant script are at the link below from the page with the unique Page ID (“PID”) of NARA-PBB87-822 (page 822 of 977) to the page with the PID of NARA-PBB87-836 (page 836 of 977).
 
 http://www.bluebookarchive.org
 

@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/tesla_nikola_5.jpg"}
 ---
 
-![tesla_nikola_5](/images/stories/ufo_personalities/tesla_nikola_5.jpg)
+![tesla_nikola_5]({{ '/images/stories/ufo_personalities/tesla_nikola_5.jpg' | relative_url }})
 
 *Nikola Tesla*
 
@@ -33,7 +33,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-See the references provided in [the entry on Tesla and Mars](/ufo-history/ufo/19010209-tesla-and-mars).
+See the references provided in [the entry on Tesla and Mars]({{ '/ufo-history/ufo/19010209-tesla-and-mars' | relative_url }}).
 
 <a id="other"></a>
 ### Other Material

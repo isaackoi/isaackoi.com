@@ -14,7 +14,7 @@ header: {"preview_image": "https://covers.openlibrary.org/b/isbn/0875990770-L.jp
 book: {"identifiers": ["0875990770", "0859780295", "B000NPYTFO", "0722122780", "0929686004", "0964491702", "1558887415", "0780800974", "095080245X", "B000EZY1RO", "0929398947", "1883729025", "0855001232", "0345241894", "0374133247", "0451204247", "1841196134", "0963916122", "1880090627", "0393063364", "0896960404", "085435073X", "0962653462", "B000JC0BXA", "0815608586", "B0007EF5K4", "B000BD1A2I", "B00117X9ZO", "1870021029", "0393007391", "0815970005", "0722176945", "0345345258", "B0000CMVM6", "0426134508", "034527086X", "0451157060", "0451064240"], "primary_isbn": "0875990770", "cover_image": "https://covers.openlibrary.org/b/isbn/0875990770-L.jpg?default=false", "cover_source": "openlibrary"}
 ---
 
-Brief review to be added of [Aime Michel](/ufo-history/ufo-personalities/michel-aime)'s book “[Flying Saucers and the Straight Line Mystery](/ufo-history/ufo-books/michel-aime-flying-saucers-and-the-straight-line-mystery)” ([1958](/tags/1958)) (available [on Amazon USA](http://www.amazon.com/dp/0875990770/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0875990770/?&tag=ufot-21)). Discusses “orthoteny”.
+Brief review to be added of [Aime Michel]({{ '/ufo-history/ufo-personalities/michel-aime' | relative_url }})'s book “[Flying Saucers and the Straight Line Mystery]({{ '/ufo-history/ufo-books/michel-aime-flying-saucers-and-the-straight-line-mystery' | relative_url }})” ([1958]({{ '/tags/1958' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0875990770/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0875990770/?&tag=ufot-21)). Discusses “orthoteny”.
 
 1. [Web Resources](#web)
 
@@ -34,7 +34,7 @@ The table below includes references to relevant discussions in UFO/SETI books no
 
 Many of the tables of references on this website are considerably longer than the references to books found on most other UFO websites. Indeed, some are probably the longest that have been collated in relation to some events and personalities. I hope that these tables are found to be a useful contribution to UFOlogy.
 
-For discussion of “[Flying Saucers and the Straight Line Mystery](/ufo-history/ufo-books/michel-aime-flying-saucers-and-the-straight-line-mystery)” and/or orthoteny see the following:
+For discussion of “[Flying Saucers and the Straight Line Mystery]({{ '/ufo-history/ufo-books/michel-aime-flying-saucers-and-the-straight-line-mystery' | relative_url }})” and/or orthoteny see the following:
 
 <table border="1" cellpadding="0" cellspacing="0" class="sortable" data-sortable="true" id="sortabletable">
 <thead>
@@ -54,10 +54,10 @@ For discussion of “[Flying Saucers and the Straight Line Mystery](/ufo-history
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1977">1977</a></p>
+<p><a href="{{ '/tags/1977' | relative_url }}">1977</a></p>
 </td>
 <td valign="top" width="547">
-<p>Andrew Boudin and Lucien Clerebaut in Jean-Claude Bourret’s “<a href="/ufo-history/ufo-books/bourret-jean-claude-the-crack-in-the-universe">The Crack in the Universe</a>” (<a href="/tags/1977">1977</a>) (available <a href="http://www.amazon.com/dp/0859780295/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0859780295/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 223-225 (in Part 4) of the Neville Spearman hardback edition.</p>
+<p>Andrew Boudin and Lucien Clerebaut in Jean-Claude Bourret’s “<a href="{{ '/ufo-history/ufo-books/bourret-jean-claude-the-crack-in-the-universe' | relative_url }}">The Crack in the Universe</a>” (<a href="{{ '/tags/1977' | relative_url }}">1977</a>) (available <a href="http://www.amazon.com/dp/0859780295/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0859780295/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 223-225 (in Part 4) of the Neville Spearman hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -65,10 +65,10 @@ For discussion of “[Flying Saucers and the Straight Line Mystery](/ufo-history
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1967">1967</a></p>
+<p><a href="{{ '/tags/1967' | relative_url }}">1967</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/binder-otto">Binder, Otto</a> in his “<a href="/ufo-history/ufo-books/binder-otto-what-we-really-know-about-flying-saucers">What we really know about Flying Saucers</a>” (<a href="/tags/1967">1967</a>) (available <a href="http://www.amazon.com/dp/B000NPYTFO/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000NPYTFO/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 145-146 (in Chapter 13) of the Fawcett paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/binder-otto' | relative_url }}">Binder, Otto</a> in his “<a href="{{ '/ufo-history/ufo-books/binder-otto-what-we-really-know-about-flying-saucers' | relative_url }}">What we really know about Flying Saucers</a>” (<a href="{{ '/tags/1967' | relative_url }}">1967</a>) (available <a href="http://www.amazon.com/dp/B000NPYTFO/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000NPYTFO/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 145-146 (in Chapter 13) of the Fawcett paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -76,10 +76,10 @@ For discussion of “[Flying Saucers and the Straight Line Mystery](/ufo-history
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1968">1968</a></p>
+<p><a href="{{ '/tags/1968' | relative_url }}">1968</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/cathie-bruce">Cathie, Bruce</a> in his “Harmonic 33” (<a href="/tags/1968">1968</a>) (available <a href="http://www.amazon.com/dp/0722122780/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0722122780/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 16 (in Chapter 2) of the revised Sphere paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/cathie-bruce' | relative_url }}">Cathie, Bruce</a> in his “Harmonic 33” (<a href="{{ '/tags/1968' | relative_url }}">1968</a>) (available <a href="http://www.amazon.com/dp/0722122780/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0722122780/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 16 (in Chapter 2) of the revised Sphere paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -87,10 +87,10 @@ For discussion of “[Flying Saucers and the Straight Line Mystery](/ufo-history
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1987">1987</a></p>
+<p><a href="{{ '/tags/1987' | relative_url }}">1987</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/chatelain-maurice">Chatelain, Maurice</a> in his “<a href="/ufo-history/ufo-books/chatelain-maurice-our-cosmic-ancestors">Our Cosmic Ancestors</a>” (<a href="/tags/1987">1987</a>) (available <a href="http://www.amazon.com/dp/0929686004/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0929686004/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 195 (in the unnumbered chapter entitled “Mysterious Visitors”) of the Temple Golden Publications softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/chatelain-maurice' | relative_url }}">Chatelain, Maurice</a> in his “<a href="{{ '/ufo-history/ufo-books/chatelain-maurice-our-cosmic-ancestors' | relative_url }}">Our Cosmic Ancestors</a>” (<a href="{{ '/tags/1987' | relative_url }}">1987</a>) (available <a href="http://www.amazon.com/dp/0929686004/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0929686004/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 195 (in the unnumbered chapter entitled “Mysterious Visitors”) of the Temple Golden Publications softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -98,10 +98,10 @@ For discussion of “[Flying Saucers and the Straight Line Mystery](/ufo-history
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in “<a href="/ufo-history/ufo-books/pritchard-andrea-et-al-editors-alien-discussions-abduction-study-conference-held-at-m-i-t">Alien Discussions: Abduction Study Conference Held at M. I. T.</a>” (<a href="/tags/1994">1994</a>) (edited by Andrea Pritchard et al.) (available <a href="http://www.amazon.com/dp/0964491702/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0964491702/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 15 (in Chapter 1, unnumbered sub-chapter entitled “A Brief History of the UFO-Abduction Phenomenon”) of the North Cambridge Press hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in “<a href="{{ '/ufo-history/ufo-books/pritchard-andrea-et-al-editors-alien-discussions-abduction-study-conference-held-at-m-i-t' | relative_url }}">Alien Discussions: Abduction Study Conference Held at M. I. T.</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (edited by Andrea Pritchard et al.) (available <a href="http://www.amazon.com/dp/0964491702/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0964491702/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 15 (in Chapter 1, unnumbered sub-chapter entitled “A Brief History of the UFO-Abduction Phenomenon”) of the North Cambridge Press hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -109,10 +109,10 @@ For discussion of “[Flying Saucers and the Straight Line Mystery](/ufo-history
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq">The UFO Encyclopedia: 1st edition</a>: Volume 2 – Emergence of a Phenomenon” (<a href="/tags/1992">1992</a>) (available <a href="http://www.amazon.com/dp/1558887415/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558887415/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 264-265 (in an entry entitled “Orthoteny”), 250 (forming part of an entry entitled “<a href="/ufo-history/ufo-personalities/michel-aime">Michel, Aime</a> (<a href="/tags/1919">1919</a>- )”) of the Omnigraphics hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq' | relative_url }}">The UFO Encyclopedia: 1st edition</a>: Volume 2 – Emergence of a Phenomenon” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="http://www.amazon.com/dp/1558887415/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558887415/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 264-265 (in an entry entitled “Orthoteny”), 250 (forming part of an entry entitled “<a href="{{ '/ufo-history/ufo-personalities/michel-aime' | relative_url }}">Michel, Aime</a> (<a href="{{ '/tags/1919' | relative_url }}">1919</a>- )”) of the Omnigraphics hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -120,10 +120,10 @@ For discussion of “[Flying Saucers and the Straight Line Mystery](/ufo-history
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) in Volume 2:L-Z at pages 682-684 (in an entry entitled “Orthoteny”) of the Omnigraphics hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition' | relative_url }}">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) in Volume 2:L-Z at pages 682-684 (in an entry entitled “Orthoteny”) of the Omnigraphics hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p> </p>
@@ -131,10 +131,10 @@ For discussion of “[Flying Saucers and the Straight Line Mystery](/ufo-history
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="547">
-<p>Collins, Andrew in his “The Circlemakers: A Revolutionary New Vision” (<a href="/tags/1992">1992</a>) (available <a href="http://www.amazon.com/dp/095080245X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/095080245X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 101-102 (in Chapter 11) of the ABC softcover edition.</p>
+<p>Collins, Andrew in his “The Circlemakers: A Revolutionary New Vision” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="http://www.amazon.com/dp/095080245X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/095080245X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 101-102 (in Chapter 11) of the ABC softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -142,10 +142,10 @@ For discussion of “[Flying Saucers and the Straight Line Mystery](/ufo-history
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1969">1969</a></p>
+<p><a href="{{ '/tags/1969' | relative_url }}">1969</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects">Condon Report</a> (“<a href="/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects">Scientific Study of Unidentified Flying Objects</a>”, Edward U Condon (Director) and Daniel S Gillmor (Editor) (<a href="/tags/1969">1969</a>)) (available <a href="http://www.amazon.com/dp/B000EZY1RO/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000EZY1RO/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 890-892 (in Section 5, Chapter 2 “UFOs: <a href="/tags/1947">1947</a>-<a href="/tags/1968">1968</a>”, by Edward U Condon) of the uncorrected version submitted to the Air Force (with the same page numbering in the 3 volume paperbound edition distributed by the National Technical Information Service, US Department of Commerce) at pages 533-535 of the Vision hardback edition (with the same page numbering in the Bantam paperback edition). The first of these editions has the same page numbering as the edition available free online at the following links:</p>
+<p><a href="{{ '/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects' | relative_url }}">Condon Report</a> (“<a href="{{ '/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects' | relative_url }}">Scientific Study of Unidentified Flying Objects</a>”, Edward U Condon (Director) and Daniel S Gillmor (Editor) (<a href="{{ '/tags/1969' | relative_url }}">1969</a>)) (available <a href="http://www.amazon.com/dp/B000EZY1RO/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000EZY1RO/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 890-892 (in Section 5, Chapter 2 “UFOs: <a href="{{ '/tags/1947' | relative_url }}">1947</a>-<a href="{{ '/tags/1968' | relative_url }}">1968</a>”, by Edward U Condon) of the uncorrected version submitted to the Air Force (with the same page numbering in the 3 volume paperbound edition distributed by the National Technical Information Service, US Department of Commerce) at pages 533-535 of the Vision hardback edition (with the same page numbering in the Bantam paperback edition). The first of these editions has the same page numbering as the edition available free online at the following links:</p>
 <p><a href="http://ncas.sawco.com/condon/text/contents.htm">http://ncas.sawco.com/condon/text/contents.htm</a></p>
 <p><a href="http://www.project1947.com/shg/condon/contents.html">http://www.project1947.com/shg/condon/contents.html</a></p>
 </td>
@@ -155,10 +155,10 @@ For discussion of “[Flying Saucers and the Straight Line Mystery](/ufo-history
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/craig-roy">Craig, Roy</a> in his “<a href="/ufo-history/ufo-books/craig-roy-ufos-an-insiders-view">UFOs – An Insider’s View</a>” (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/0929398947/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0929398947/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 191-192 (in Chapter 11), 230 (in Chapter 14) of the UNT softback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/craig-roy' | relative_url }}">Craig, Roy</a> in his “<a href="{{ '/ufo-history/ufo-books/craig-roy-ufos-an-insiders-view' | relative_url }}">UFOs – An Insider’s View</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/0929398947/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0929398947/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 191-192 (in Chapter 11), 230 (in Chapter 14) of the UNT softback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -166,10 +166,10 @@ For discussion of “[Flying Saucers and the Straight Line Mystery](/ufo-history
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/davenport-marc">Davenport, Marc</a> in his “<a href="/ufo-history/ufo-books/davenport-marc-visitors-from-time">Visitors from Time</a>” (<a href="/tags/1992">1992</a>) (available <a href="http://www.amazon.com/dp/1883729025/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1883729025/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 85 (in Chapter 7) of the <a href="/tags/1994">1994</a> revised Greenleaf softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/davenport-marc' | relative_url }}">Davenport, Marc</a> in his “<a href="{{ '/ufo-history/ufo-books/davenport-marc-visitors-from-time' | relative_url }}">Visitors from Time</a>” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="http://www.amazon.com/dp/1883729025/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1883729025/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 85 (in Chapter 7) of the <a href="{{ '/tags/1994' | relative_url }}">1994</a> revised Greenleaf softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -177,10 +177,10 @@ For discussion of “[Flying Saucers and the Straight Line Mystery](/ufo-history
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1982">1982</a></p>
+<p><a href="{{ '/tags/1982' | relative_url }}">1982</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/devereux-paul">Devereux, Paul</a> in his “<a href="/ufo-history/ufo-books/devereux-paul-earth-lights">Earth Lights</a>“ (<a href="/tags/1982">1982</a>) (available <a href="http://www.amazon.com/dp/0855001232/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0855001232/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 21 (in Chapter 1), 138 (in Chapter 6) of the Turnstone Press hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/devereux-paul' | relative_url }}">Devereux, Paul</a> in his “<a href="{{ '/ufo-history/ufo-books/devereux-paul-earth-lights' | relative_url }}">Earth Lights</a>“ (<a href="{{ '/tags/1982' | relative_url }}">1982</a>) (available <a href="http://www.amazon.com/dp/0855001232/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0855001232/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 21 (in Chapter 1), 138 (in Chapter 6) of the Turnstone Press hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -188,10 +188,10 @@ For discussion of “[Flying Saucers and the Straight Line Mystery](/ufo-history
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1974">1974</a></p>
+<p><a href="{{ '/tags/1974' | relative_url }}">1974</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/emenegger-robert">Emenegger, Robert</a> in his “<a href="/ufo-history/ufo-books/emenegger-robert-ufos-past-present-and-future">UFOs Past, Present and Future</a>” (available <a href="http://www.amazon.com/dp/0345241894/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0345241894/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 11-12 (in Chapter 2) of the silver covered Ballantine paperback edition first printing, at page 12 of the blue covered Ballantine paperback edition eighth printing.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/emenegger-robert' | relative_url }}">Emenegger, Robert</a> in his “<a href="{{ '/ufo-history/ufo-books/emenegger-robert-ufos-past-present-and-future' | relative_url }}">UFOs Past, Present and Future</a>” (available <a href="http://www.amazon.com/dp/0345241894/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0345241894/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 11-12 (in Chapter 2) of the silver covered Ballantine paperback edition first printing, at page 12 of the blue covered Ballantine paperback edition eighth printing.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -199,10 +199,10 @@ For discussion of “[Flying Saucers and the Straight Line Mystery](/ufo-history
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1973">1973</a></p>
+<p><a href="{{ '/tags/1973' | relative_url }}">1973</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/evans-christopher">Evans, Christopher</a> in his “<a href="/ufo-history/ufo-books/evans-christopher-cults-of-unreason">Cults of Unreason</a>” (<a href="/tags/1973">1973</a>) (available <a href="http://www.amazon.com/dp/0374133247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0374133247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 175-177 (in Part 2, Chapter 3) of the Panther paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/evans-christopher' | relative_url }}">Evans, Christopher</a> in his “<a href="{{ '/ufo-history/ufo-books/evans-christopher-cults-of-unreason' | relative_url }}">Cults of Unreason</a>” (<a href="{{ '/tags/1973' | relative_url }}">1973</a>) (available <a href="http://www.amazon.com/dp/0374133247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0374133247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 175-177 (in Part 2, Chapter 3) of the Panther paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -210,10 +210,10 @@ For discussion of “[Flying Saucers and the Straight Line Mystery](/ufo-history
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fitzgerald-randall">Fitzgerald, Randall</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 201 (in an entry entitled “<a href="/ufo-history/ufo-books/michel-aime-flying-saucers-and-the-straight-line-mystery">Flying Saucers and the Straight Line Mystery</a>”) of the New American Library softcover edition, at page 198 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }}">Fitzgerald, Randall</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 201 (in an entry entitled “<a href="{{ '/ufo-history/ufo-books/michel-aime-flying-saucers-and-the-straight-line-mystery' | relative_url }}">Flying Saucers and the Straight Line Mystery</a>”) of the New American Library softcover edition, at page 198 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -221,10 +221,10 @@ For discussion of “[Flying Saucers and the Straight Line Mystery](/ufo-history
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fitzgerald-randall">Fitzgerald, Randall</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 244 (in an entry entitled “<a href="/ufo-history/ufo-books/michel-aime-flying-saucers-and-the-straight-line-mystery">Flying Saucers and the Straight Line Mystery</a>”) of the Robinson softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }}">Fitzgerald, Randall</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 244 (in an entry entitled “<a href="{{ '/ufo-history/ufo-books/michel-aime-flying-saucers-and-the-straight-line-mystery' | relative_url }}">Flying Saucers and the Straight Line Mystery</a>”) of the Robinson softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -232,10 +232,10 @@ For discussion of “[Flying Saucers and the Straight Line Mystery](/ufo-history
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fitzgerald-randall">Fitzgerald, Randall</a> in his “<a href="/ufo-history/ufo-books/fitzgerald-randall-the-cosmic-test-tube">The Cosmic Test Tube</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0963916122/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963916122/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 111-112 (in Section 2) with a one sentence summary at page 370 (in the Guide To Books) of the Moonlake Media softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }}">Fitzgerald, Randall</a> in his “<a href="{{ '/ufo-history/ufo-books/fitzgerald-randall-the-cosmic-test-tube' | relative_url }}">The Cosmic Test Tube</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0963916122/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963916122/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 111-112 (in Section 2) with a one sentence summary at page 370 (in the Guide To Books) of the Moonlake Media softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -243,10 +243,10 @@ For discussion of “[Flying Saucers and the Straight Line Mystery](/ufo-history
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/hall-michael-david">Hall, Michael David</a> in his “<a href="/ufo-history/ufo-books/hall-michael-david-ufos-a-century-of-sightings">UFOs : A Century of Sightings</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/1880090627/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1880090627/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 222 (in Chapter 5) of the Galde Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hall-michael-david' | relative_url }}">Hall, Michael David</a> in his “<a href="{{ '/ufo-history/ufo-books/hall-michael-david-ufos-a-century-of-sightings' | relative_url }}">UFOs : A Century of Sightings</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/1880090627/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1880090627/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 222 (in Chapter 5) of the Galde Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -254,10 +254,10 @@ For discussion of “[Flying Saucers and the Straight Line Mystery](/ufo-history
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1973">1973</a></p>
+<p><a href="{{ '/tags/1973' | relative_url }}">1973</a></p>
 </td>
 <td valign="top" width="547">
-<p>Holiday, F W in his “<a href="/ufo-history/ufo-books/holiday-f-w-ted-the-dragon-and-the-disc">The Dragon and the Disc</a>” (<a href="/tags/1973">1973</a>) (available <a href="http://www.amazon.com/dp/0393063364/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0393063364/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 142 (in Chapter 10) of the Futura paperback edition.</p>
+<p>Holiday, F W in his “<a href="{{ '/ufo-history/ufo-books/holiday-f-w-ted-the-dragon-and-the-disc' | relative_url }}">The Dragon and the Disc</a>” (<a href="{{ '/tags/1973' | relative_url }}">1973</a>) (available <a href="http://www.amazon.com/dp/0393063364/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0393063364/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 142 (in Chapter 10) of the Futura paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -265,10 +265,10 @@ For discussion of “[Flying Saucers and the Straight Line Mystery](/ufo-history
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1979">1979</a></p>
+<p><a href="{{ '/tags/1979' | relative_url }}">1979</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/holroyd-stuart">Holroyd, Stuart</a> in his “Alien Intelligence” (<a href="/tags/1979">1979</a>) (available <a href="http://www.amazon.com/dp/0896960404/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0896960404/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 185-186 (in Chapter 7) of the David &amp; Charles hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/holroyd-stuart' | relative_url }}">Holroyd, Stuart</a> in his “Alien Intelligence” (<a href="{{ '/tags/1979' | relative_url }}">1979</a>) (available <a href="http://www.amazon.com/dp/0896960404/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0896960404/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 185-186 (in Chapter 7) of the David &amp; Charles hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -276,10 +276,10 @@ For discussion of “[Flying Saucers and the Straight Line Mystery](/ufo-history
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1977">1977</a></p>
+<p><a href="{{ '/tags/1977' | relative_url }}">1977</a></p>
 </td>
 <td valign="top" width="547">
-<p>Jenkins, Stephen in his “The Undiscovered Country” (<a href="/tags/1977">1977</a>) (available <a href="http://www.amazon.com/dp/085435073X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/085435073X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 94-95 (in Part 2, Chapter 2) of the Abacus paperback edition.</p>
+<p>Jenkins, Stephen in his “The Undiscovered Country” (<a href="{{ '/tags/1977' | relative_url }}">1977</a>) (available <a href="http://www.amazon.com/dp/085435073X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/085435073X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 94-95 (in Part 2, Chapter 2) of the Abacus paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -287,10 +287,10 @@ For discussion of “[Flying Saucers and the Straight Line Mystery](/ufo-history
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1970">1970</a></p>
+<p><a href="{{ '/tags/1970' | relative_url }}">1970</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/keel-john-a">Keel, John A</a> in his “<a href="/ufo-history/ufo-books/keel-john-a-ufos-operation-trojan-horse">UFOs: Operation Trojan Horse</a>” (<a href="/tags/1970">1970</a>) (available <a href="http://www.amazon.com/dp/0962653462/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0962653462/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 156-157 (in Chapter 8) of the Souvenir Press hardback edition (with the same page numbering in the Abacus softcover edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/keel-john-a' | relative_url }}">Keel, John A</a> in his “<a href="{{ '/ufo-history/ufo-books/keel-john-a-ufos-operation-trojan-horse' | relative_url }}">UFOs: Operation Trojan Horse</a>” (<a href="{{ '/tags/1970' | relative_url }}">1970</a>) (available <a href="http://www.amazon.com/dp/0962653462/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0962653462/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 156-157 (in Chapter 8) of the Souvenir Press hardback edition (with the same page numbering in the Abacus softcover edition).</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -298,10 +298,10 @@ For discussion of “[Flying Saucers and the Straight Line Mystery](/ufo-history
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1971">1971</a></p>
+<p><a href="{{ '/tags/1971' | relative_url }}">1971</a></p>
 </td>
 <td valign="top" width="547">
-<p>Kettelkamp, Larry in his “Investigating UFOs” (<a href="/tags/1971">1971</a>) (available <a href="http://www.amazon.com/dp/B000JC0BXA/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000JC0BXA/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 48, 50 (in the unnumbered chapter entitled “Sightings and Cases”) of the Target softcover edition.</p>
+<p>Kettelkamp, Larry in his “Investigating UFOs” (<a href="{{ '/tags/1971' | relative_url }}">1971</a>) (available <a href="http://www.amazon.com/dp/B000JC0BXA/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000JC0BXA/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 48, 50 (in the unnumbered chapter entitled “Sightings and Cases”) of the Target softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -309,10 +309,10 @@ For discussion of “[Flying Saucers and the Straight Line Mystery](/ufo-history
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2007">2007</a></p>
+<p><a href="{{ '/tags/2007' | relative_url }}">2007</a></p>
 </td>
 <td valign="top" width="547">
-<p>Lagrange, Pierre in “Alien Worlds : Social and Religious Dimensions of Extraterrestrial Contact” (<a href="/tags/2007">2007</a>) (edited by Diana Tumminia) (available <a href="http://www.amazon.com/dp/0815608586/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0815608586/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 168-169 (in Chapter 9) of the Syracuse University Press softcover edition.</p>
+<p>Lagrange, Pierre in “Alien Worlds : Social and Religious Dimensions of Extraterrestrial Contact” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (edited by Diana Tumminia) (available <a href="http://www.amazon.com/dp/0815608586/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0815608586/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 168-169 (in Chapter 9) of the Syracuse University Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -320,10 +320,10 @@ For discussion of “[Flying Saucers and the Straight Line Mystery](/ufo-history
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1962">1962</a></p>
+<p><a href="{{ '/tags/1962' | relative_url }}">1962</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/lorenzen-coral-e">Lorenzen, Coral E</a> in her “<a href="/ufo-history/ufo-books/lorenzen-coral-e-the-great-flying-saucer-hoax">The Great Flying Saucer Hoax</a>” (<a href="/tags/1962">1962</a>) (available <a href="http://www.amazon.com/dp/B0007EF5K4/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0007EF5K4/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 39-40 (in Chapter 5) of the <a href="/ufo-history/ufo-personalities/apro">APRO</a> hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/lorenzen-coral-e' | relative_url }}">Lorenzen, Coral E</a> in her “<a href="{{ '/ufo-history/ufo-books/lorenzen-coral-e-the-great-flying-saucer-hoax' | relative_url }}">The Great Flying Saucer Hoax</a>” (<a href="{{ '/tags/1962' | relative_url }}">1962</a>) (available <a href="http://www.amazon.com/dp/B0007EF5K4/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0007EF5K4/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 39-40 (in Chapter 5) of the <a href="{{ '/ufo-history/ufo-personalities/apro' | relative_url }}">APRO</a> hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -331,10 +331,10 @@ For discussion of “[Flying Saucers and the Straight Line Mystery](/ufo-history
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1966">1966</a></p>
+<p><a href="{{ '/tags/1966' | relative_url }}">1966</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/lorenzen-coral-e">Lorenzen, Coral</a> in “<a href="/ufo-history/ufo-books/lorenzen-coral-e-flying-saucers-the-startling-evidence-of-the-invasion-from-outer-space">Flying Saucers : the Startling Evidence of the Invasion from Outer Space</a>” (<a href="/tags/1966">1966</a>) (an enlarged version of her “<a href="/ufo-history/ufo-books/lorenzen-coral-e-the-great-flying-saucer-hoax">The Great Flying Saucer Hoax</a>” (<a href="/tags/1962">1962</a>)) (available <a href="http://www.amazon.com/dp/B000BD1A2I/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000BD1A2I/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 200-201 (in Chapter 14) at page 46 (in Chapter 5) of the Signet paperback edition and mentioned.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/lorenzen-coral-e' | relative_url }}">Lorenzen, Coral</a> in “<a href="{{ '/ufo-history/ufo-books/lorenzen-coral-e-flying-saucers-the-startling-evidence-of-the-invasion-from-outer-space' | relative_url }}">Flying Saucers : the Startling Evidence of the Invasion from Outer Space</a>” (<a href="{{ '/tags/1966' | relative_url }}">1966</a>) (an enlarged version of her “<a href="{{ '/ufo-history/ufo-books/lorenzen-coral-e-the-great-flying-saucer-hoax' | relative_url }}">The Great Flying Saucer Hoax</a>” (<a href="{{ '/tags/1962' | relative_url }}">1962</a>)) (available <a href="http://www.amazon.com/dp/B000BD1A2I/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000BD1A2I/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 200-201 (in Chapter 14) at page 46 (in Chapter 5) of the Signet paperback edition and mentioned.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -342,10 +342,10 @@ For discussion of “[Flying Saucers and the Straight Line Mystery](/ufo-history
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1961">1961</a></p>
+<p><a href="{{ '/tags/1961' | relative_url }}">1961</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/maney-charles-a">Maney, Charles A</a>nd <a href="/ufo-history/ufo-personalities/hall-richard-h">Hall, Richard</a> in their “<a href="/ufo-history/ufo-books/maney-charles-a-and-hall-richard-the-challenge-of-unidentified-flying-objects">Challenge of Unidentified Flying Objects</a>” (<a href="/tags/1961">1961</a>) (available <a href="http://www.amazon.com/dp/B00117X9ZO/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B00117X9ZO/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 91-99 (in Part 2, Chapter 9, by Charles Maney) of the privately published hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/maney-charles-a' | relative_url }}">Maney, Charles A</a>nd <a href="{{ '/ufo-history/ufo-personalities/hall-richard-h' | relative_url }}">Hall, Richard</a> in their “<a href="{{ '/ufo-history/ufo-books/maney-charles-a-and-hall-richard-the-challenge-of-unidentified-flying-objects' | relative_url }}">Challenge of Unidentified Flying Objects</a>” (<a href="{{ '/tags/1961' | relative_url }}">1961</a>) (available <a href="http://www.amazon.com/dp/B00117X9ZO/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B00117X9ZO/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 91-99 (in Part 2, Chapter 9, by Charles Maney) of the privately published hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>9</p>
@@ -353,10 +353,10 @@ For discussion of “[Flying Saucers and the Straight Line Mystery](/ufo-history
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1987">1987</a></p>
+<p><a href="{{ '/tags/1987' | relative_url }}">1987</a></p>
 </td>
 <td valign="top" width="547">
-<p>Mauge, Claude in “<a href="/ufo-history/ufo-books/evans-hilary-and-spencer-john-ufo-1947-1987">UFO: 1947-1987</a>” (<a href="/tags/1987">1987</a>) (edited by <a href="/ufo-history/ufo-personalities/evans-hilary">Hilary Evans</a> with <a href="/ufo-history/ufo-personalities/spencer-john">John Spencer</a>) (available <a href="http://www.amazon.com/dp/1870021029/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1870021029/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 162-163 (in Chapter 2.7, entitled “UFO Statistics”) of the Fortean Tomes softcover edition.</p>
+<p>Mauge, Claude in “<a href="{{ '/ufo-history/ufo-books/evans-hilary-and-spencer-john-ufo-1947-1987' | relative_url }}">UFO: 1947-1987</a>” (<a href="{{ '/tags/1987' | relative_url }}">1987</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }}">Hilary Evans</a> with <a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">John Spencer</a>) (available <a href="http://www.amazon.com/dp/1870021029/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1870021029/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 162-163 (in Chapter 2.7, entitled “UFO Statistics”) of the Fortean Tomes softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -364,10 +364,10 @@ For discussion of “[Flying Saucers and the Straight Line Mystery](/ufo-history
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1972">1972</a></p>
+<p><a href="{{ '/tags/1972' | relative_url }}">1972</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/menzel-donald-h">Menzel, Donald H</a> in “<a href="/ufo-history/ufo-books/sagan-carl-and-page-thornton-editors-ufos-a-scientific-debate">UFO's: A Scientific Debate</a>” (<a href="/tags/1972">1972</a>) (edited by <a href="/ufo-history/ufo-personalities/sagan-carl">Carl Sagan</a> and <a href="/ufo-history/ufo-personalities/page-thornton">Thornton Page</a>) (available <a href="http://www.amazon.com/dp/0393007391/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0393007391/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 163-174 (in Chapter 6, Appendix 5) of the Barnes and Noble hardback edition (with the same page numbering in the Norton paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/menzel-donald-h' | relative_url }}">Menzel, Donald H</a> in “<a href="{{ '/ufo-history/ufo-books/sagan-carl-and-page-thornton-editors-ufos-a-scientific-debate' | relative_url }}">UFO's: A Scientific Debate</a>” (<a href="{{ '/tags/1972' | relative_url }}">1972</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/sagan-carl' | relative_url }}">Carl Sagan</a> and <a href="{{ '/ufo-history/ufo-personalities/page-thornton' | relative_url }}">Thornton Page</a>) (available <a href="http://www.amazon.com/dp/0393007391/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0393007391/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 163-174 (in Chapter 6, Appendix 5) of the Barnes and Noble hardback edition (with the same page numbering in the Norton paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>12</p>
@@ -375,10 +375,10 @@ For discussion of “[Flying Saucers and the Straight Line Mystery](/ufo-history
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1974">1974</a></p>
+<p><a href="{{ '/tags/1974' | relative_url }}">1974</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/salisbury-frank">Salisbury, Frank</a> in his “The Utah UFO Display: A Biologist’s Report” (<a href="/tags/1974">1974</a>) (available <a href="http://www.amazon.com/dp/0815970005/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0815970005/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 236 (in the Appendix entitled “Annotated Bibliography”) of the Devin Adair hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/salisbury-frank' | relative_url }}">Salisbury, Frank</a> in his “The Utah UFO Display: A Biologist’s Report” (<a href="{{ '/tags/1974' | relative_url }}">1974</a>) (available <a href="http://www.amazon.com/dp/0815970005/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0815970005/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 236 (in the Appendix entitled “Annotated Bibliography”) of the Devin Adair hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -386,10 +386,10 @@ For discussion of “[Flying Saucers and the Straight Line Mystery](/ufo-history
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1978">1978</a></p>
+<p><a href="{{ '/tags/1978' | relative_url }}">1978</a></p>
 </td>
 <td valign="top" width="547">
-<p>Seargent, D A J in his “UFOs: A Scientific Enigma” (<a href="/tags/1978">1978</a>) (available <a href="http://www.amazon.com/dp/0722176945/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0722176945/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 80-81 (in Chapter 4) of the Sphere paperback edition.</p>
+<p>Seargent, D A J in his “UFOs: A Scientific Enigma” (<a href="{{ '/tags/1978' | relative_url }}">1978</a>) (available <a href="http://www.amazon.com/dp/0722176945/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0722176945/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 80-81 (in Chapter 4) of the Sphere paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -397,10 +397,10 @@ For discussion of “[Flying Saucers and the Straight Line Mystery](/ufo-history
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1967">1967</a></p>
+<p><a href="{{ '/tags/1967' | relative_url }}">1967</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/shuttlewood-arthur">Shuttlewood, Arthur</a> in his “<a href="/ufo-history/ufo-books/shuttlewood-arthur-the-warminster-mystery">The Warminster Mystery</a>” (<a href="/tags/1967">1967</a>) at page 33 (in Chapter 4) of the Tandem paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/shuttlewood-arthur' | relative_url }}">Shuttlewood, Arthur</a> in his “<a href="{{ '/ufo-history/ufo-books/shuttlewood-arthur-the-warminster-mystery' | relative_url }}">The Warminster Mystery</a>” (<a href="{{ '/tags/1967' | relative_url }}">1967</a>) at page 33 (in Chapter 4) of the Tandem paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -408,10 +408,10 @@ For discussion of “[Flying Saucers and the Straight Line Mystery](/ufo-history
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1976">1976</a></p>
+<p><a href="{{ '/tags/1976' | relative_url }}">1976</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/steiger-brad">Steiger, Brad</a> in his “<a href="/ufo-history/ufo-books/steiger-brad-project-blue-book">Project Blue Book</a>“ (<a href="/tags/1976">1976</a>) (available <a href="http://www.amazon.com/dp/0345345258/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0345345258/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 337 (forming part of Chapter 13) of the Ballantine Books paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/steiger-brad' | relative_url }}">Steiger, Brad</a> in his “<a href="{{ '/ufo-history/ufo-books/steiger-brad-project-blue-book' | relative_url }}">Project Blue Book</a>“ (<a href="{{ '/tags/1976' | relative_url }}">1976</a>) (available <a href="http://www.amazon.com/dp/0345345258/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0345345258/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 337 (forming part of Chapter 13) of the Ballantine Books paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -419,10 +419,10 @@ For discussion of “[Flying Saucers and the Straight Line Mystery](/ufo-history
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1973">1973</a></p>
+<p><a href="{{ '/tags/1973' | relative_url }}">1973</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/thomas-paul">Thomas, Paul</a> in his “<a href="/ufo-history/ufo-books/thomas-paul-pseudonym-for-misraki-paul-flying-saucers-through-the-ages">Flying Saucers Through The Ages</a>” (<a href="/tags/1973">1973</a>) (available <a href="http://www.amazon.com/dp/B0000CMVM6/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0000CMVM6/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 29-31 (in Chapter 3) of the Tandem paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/thomas-paul' | relative_url }}">Thomas, Paul</a> in his “<a href="{{ '/ufo-history/ufo-books/thomas-paul-pseudonym-for-misraki-paul-flying-saucers-through-the-ages' | relative_url }}">Flying Saucers Through The Ages</a>” (<a href="{{ '/tags/1973' | relative_url }}">1973</a>) (available <a href="http://www.amazon.com/dp/B0000CMVM6/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0000CMVM6/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 29-31 (in Chapter 3) of the Tandem paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -430,10 +430,10 @@ For discussion of “[Flying Saucers and the Straight Line Mystery](/ufo-history
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1969">1969</a></p>
+<p><a href="{{ '/tags/1969' | relative_url }}">1969</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/trench-brinsley-le-poer">Trench, Brinsley Le Poer</a> in his “Operation Earth” (<a href="/tags/1969">1969</a>) (available <a href="http://www.amazon.com/dp/0426134508/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0426134508/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 36-37 (in Chapter 5) of the Tandem paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/trench-brinsley-le-poer' | relative_url }}">Trench, Brinsley Le Poer</a> in his “Operation Earth” (<a href="{{ '/tags/1969' | relative_url }}">1969</a>) (available <a href="http://www.amazon.com/dp/0426134508/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0426134508/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 36-37 (in Chapter 5) of the Tandem paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -441,10 +441,10 @@ For discussion of “[Flying Saucers and the Straight Line Mystery](/ufo-history
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1966">1966</a></p>
+<p><a href="{{ '/tags/1966' | relative_url }}">1966</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/vallee-jacques">Vallee, Jacques</a> and Janine Vallee in their “<a href="/ufo-history/ufo-books/vallee-jacques-and-vallee-janine-challenge-to-science-the-ufo-enigma">Challenge to Science – The UFO Enigma</a>” (<a href="/tags/1966">1966</a>) (available <a href="http://www.amazon.com/dp/034527086X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/034527086X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 69-78 (in Chapter 3), 79-96 (Chapter 4 generally), 235-238 (Appendix 1 generally), 239-242 (Appendix 2 generally) of the Ballantine Books paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/vallee-jacques' | relative_url }}">Vallee, Jacques</a> and Janine Vallee in their “<a href="{{ '/ufo-history/ufo-books/vallee-jacques-and-vallee-janine-challenge-to-science-the-ufo-enigma' | relative_url }}">Challenge to Science – The UFO Enigma</a>” (<a href="{{ '/tags/1966' | relative_url }}">1966</a>) (available <a href="http://www.amazon.com/dp/034527086X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/034527086X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 69-78 (in Chapter 3), 79-96 (Chapter 4 generally), 235-238 (Appendix 1 generally), 239-242 (Appendix 2 generally) of the Ballantine Books paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>36</p>
@@ -452,10 +452,10 @@ For discussion of “[Flying Saucers and the Straight Line Mystery](/ufo-history
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/vallee-jacques">Vallee, Jacques</a> in his “<a href="/ufo-history/ufo-books/vallee-jacques-forbidden-science-journals-1957-1969">Forbidden Science: Journals 1957-1969</a>” (<a href="/tags/1992">1992</a>) at pages 14 (in Chapter 2, journal entry for <a href="/tags/1958">1958</a>.0827), 16-17 (in Chapter 2, journal entry for <a href="/tags/1958">1958</a>.0909), 18 (in Chapter 2, journal entry for <a href="/tags/1958">1958</a>.0921), of the North Atlantic Books hardback edition, at pages 20-21, 22-24 of the <a href="/tags/1996">1996</a> abridged Marlowe paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/vallee-jacques' | relative_url }}">Vallee, Jacques</a> in his “<a href="{{ '/ufo-history/ufo-books/vallee-jacques-forbidden-science-journals-1957-1969' | relative_url }}">Forbidden Science: Journals 1957-1969</a>” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) at pages 14 (in Chapter 2, journal entry for <a href="{{ '/tags/1958' | relative_url }}">1958</a>.0827), 16-17 (in Chapter 2, journal entry for <a href="{{ '/tags/1958' | relative_url }}">1958</a>.0909), 18 (in Chapter 2, journal entry for <a href="{{ '/tags/1958' | relative_url }}">1958</a>.0921), of the North Atlantic Books hardback edition, at pages 20-21, 22-24 of the <a href="{{ '/tags/1996' | relative_url }}">1996</a> abridged Marlowe paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -463,10 +463,10 @@ For discussion of “[Flying Saucers and the Straight Line Mystery](/ufo-history
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1988">1988</a></p>
+<p><a href="{{ '/tags/1988' | relative_url }}">1988</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/wilson-clifford">Wilson, Clifford</a> in his “<a href="/ufo-history/ufo-books/wilson-clifford-the-alien-agenda">The Alien Agenda</a>” (<a href="/tags/1988">1988</a>) (available <a href="http://www.amazon.com/dp/0451157060/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451157060/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 4-5 (in Chapter 1) of the Signet paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/wilson-clifford' | relative_url }}">Wilson, Clifford</a> in his “<a href="{{ '/ufo-history/ufo-books/wilson-clifford-the-alien-agenda' | relative_url }}">The Alien Agenda</a>” (<a href="{{ '/tags/1988' | relative_url }}">1988</a>) (available <a href="http://www.amazon.com/dp/0451157060/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451157060/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 4-5 (in Chapter 1) of the Signet paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -474,10 +474,10 @@ For discussion of “[Flying Saucers and the Straight Line Mystery](/ufo-history
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1974">1974</a></p>
+<p><a href="{{ '/tags/1974' | relative_url }}">1974</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/wilson-clifford">Wilson, Clifford</a> in his “<a href="/ufo-history/ufo-books/wilson-clifford-ufos-and-their-mission-impossible">UFOs and Their Mission Impossible</a>” (<a href="/tags/1974">1974</a>) (available <a href="http://www.amazon.com/dp/0451064240/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451064240/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 4-5 (in Chapter 1) of the Signet paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/wilson-clifford' | relative_url }}">Wilson, Clifford</a> in his “<a href="{{ '/ufo-history/ufo-books/wilson-clifford-ufos-and-their-mission-impossible' | relative_url }}">UFOs and Their Mission Impossible</a>” (<a href="{{ '/tags/1974' | relative_url }}">1974</a>) (available <a href="http://www.amazon.com/dp/0451064240/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451064240/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 4-5 (in Chapter 1) of the Signet paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

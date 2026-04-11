@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/vesco_renato_1.jpg"}
 ---
 
-![vesco_renato_1](/images/stories/ufo_personalities/vesco_renato_1.jpg)
+![vesco_renato_1]({{ '/images/stories/ufo_personalities/vesco_renato_1.jpg' | relative_url }})
 
 *Renato Vesco*
 
@@ -36,18 +36,18 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1971">1971</a></p>
+<p><a href="{{ '/tags/1971' | relative_url }}">1971</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/vesco-renato">Vesco, Renato</a> “<a href="/ufo-history/ufo-books/vesco-renato-intercept-ufo">Intercept Ufo</a>” (<a href="/tags/1971">1971</a>) (available <a href="http://www.amazon.com/dp/0523008406/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0523008406/?&amp;tag=ufot-21">on Amazon UK</a>). Formerly "Intercept - But Don't Shoot".</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/vesco-renato' | relative_url }}">Vesco, Renato</a> “<a href="{{ '/ufo-history/ufo-books/vesco-renato-intercept-ufo' | relative_url }}">Intercept Ufo</a>” (<a href="{{ '/tags/1971' | relative_url }}">1971</a>) (available <a href="http://www.amazon.com/dp/0523008406/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0523008406/?&amp;tag=ufot-21">on Amazon UK</a>). Formerly "Intercept - But Don't Shoot".</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/vesco-renato">Vesco, Renato</a> and <a href="/ufo-history/ufo-personalities/childress-david-hatcher">Childress, David Hatcher</a> “<a href="/ufo-history/ufo-books/vesco-renato-and-childress-david-hatcher-man-made-ufos-1944-1994-50-years-of-suppression">Man Made UFOs 1944-1994 – 50 Years of Suppression</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/0932813232/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0932813232/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/vesco-renato' | relative_url }}">Vesco, Renato</a> and <a href="{{ '/ufo-history/ufo-personalities/childress-david-hatcher' | relative_url }}">Childress, David Hatcher</a> “<a href="{{ '/ufo-history/ufo-books/vesco-renato-and-childress-david-hatcher-man-made-ufos-1944-1994-50-years-of-suppression' | relative_url }}">Man Made UFOs 1944-1994 – 50 Years of Suppression</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/0932813232/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0932813232/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>
@@ -67,7 +67,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-Vesco is discussed by [Evans, Hilary](/ufo-history/ufo-personalities/evans-hilary) in “[UFO: 1947-1987](/ufo-history/ufo-books/evans-hilary-and-spencer-john-ufo-1947-1987)” ([1987](/tags/1987)) (edited by [Hilary Evans](/ufo-history/ufo-personalities/evans-hilary) with [John Spencer](/ufo-history/ufo-personalities/spencer-john)) (available [on Amazon USA](http://www.amazon.com/dp/1870021029/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1870021029/ref=nosim?tag=ufot-21)) at page 339 of the Fortean Tomes softcover edition (in Chapter 5.5, entitled “Conspiracy and Cover-Up”).
+Vesco is discussed by [Evans, Hilary]({{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }}) in “[UFO: 1947-1987]({{ '/ufo-history/ufo-books/evans-hilary-and-spencer-john-ufo-1947-1987' | relative_url }})” ([1987]({{ '/tags/1987' | relative_url }})) (edited by [Hilary Evans]({{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }}) with [John Spencer]({{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1870021029/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1870021029/ref=nosim?tag=ufot-21)) at page 339 of the Fortean Tomes softcover edition (in Chapter 5.5, entitled “Conspiracy and Cover-Up”).
 
 See also the references provided in relation to Vesco's books (see above).
 

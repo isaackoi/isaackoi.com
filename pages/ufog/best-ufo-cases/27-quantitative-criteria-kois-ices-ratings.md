@@ -13,11 +13,11 @@ planned_sections: []
 header: {"preview_image": null}
 ---
 
-“[Best UFO Cases](/ufog/best-ufo-cases)” by Isaac Koi
+“[Best UFO Cases]({{ '/ufog/best-ufo-cases' | relative_url }})” by Isaac Koi
 
 PART 27: Quantitative criteria: Koi's ICES Ratings
 
-Isaac Koi has adapted Hynek's Strangeness and Probability Ratings (discussed in [PART 20: Quantitative criteria: Hynek – Strangeness and Probability](/ufog/best-ufo-cases/20-quantitative-criteria-hynek-strangeness-and-probability)) as set out below.
+Isaac Koi has adapted Hynek's Strangeness and Probability Ratings (discussed in [PART 20: Quantitative criteria: Hynek – Strangeness and Probability]({{ '/ufog/best-ufo-cases/20-quantitative-criteria-hynek-strangeness-and-probability' | relative_url }})) as set out below.
 
 The "ICES Rating" is obtained by multiplying four factors (I, C, E and S) together:
 

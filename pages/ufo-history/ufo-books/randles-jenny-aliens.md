@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0709050259.jpg"}
 book: {"identifiers": ["0709050259"], "primary_isbn": "0709050259", "cover_image": "/book-covers/0709050259.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of “[Aliens](/ufo-history/ufo-books/randles-jenny-aliens)” ([1993](/tags/1993)) (available [on Amazon USA](http://www.amazon.com/dp/0709050259/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0709050259/?&tag=ufot-21)) by [Jenny Randles](/ufo-history/ufo-personalities/randles-jenny).
+Brief review to be added of “[Aliens]({{ '/ufo-history/ufo-books/randles-jenny-aliens' | relative_url }})” ([1993]({{ '/tags/1993' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0709050259/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0709050259/?&tag=ufot-21)) by [Jenny Randles]({{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}).
 
 1. [Web Resources](#web)
 

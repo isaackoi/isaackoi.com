@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0713727977.jpg"}
 book: {"identifiers": ["0713727977"], "primary_isbn": "0713727977", "cover_image": "/book-covers/0713727977.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of “[The UFO Files: Alien Abductions](/ufo-history/ufo-books/hough-peter-and-kalman-moyshe-the-ufo-files-alien-abductions)” ([1999](/tags/1999)) (available [on Amazon USA](http://www.amazon.com/dp/0713727977/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/v/?&tag=ufot-21)) by [Peter Hough](/ufo-history/ufo-personalities/hough-peter) and Moyshe Kalman.
+Brief review to be added of “[The UFO Files: Alien Abductions]({{ '/ufo-history/ufo-books/hough-peter-and-kalman-moyshe-the-ufo-files-alien-abductions' | relative_url }})” ([1999]({{ '/tags/1999' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0713727977/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/v/?&tag=ufot-21)) by [Peter Hough]({{ '/ufo-history/ufo-personalities/hough-peter' | relative_url }}) and Moyshe Kalman.
 
 Previously published under the title “The Truth about Alien Abductions”
 

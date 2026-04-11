@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0801002265.jpg"}
 book: {"identifiers": ["B000IEB1QU", "0801002265", "0806507632", "0451204247", "1841196134", "0963916122", "0804222339", "0791423301", "1930749023"], "primary_isbn": "0801002265", "cover_image": "/book-covers/0801002265.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of R L Dione's book “[God Drives a Flying Saucer](/ufo-history/ufo-books/dione-r-l-god-drives-a-flying-saucer)” ([1969](/tags/1969)) (available [on Amazon USA](http://www.amazon.com/dp/B000IEB1QU/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B000IEB1QU/?&tag=ufot-21)).
+Brief review to be added of R L Dione's book “[God Drives a Flying Saucer]({{ '/ufo-history/ufo-books/dione-r-l-god-drives-a-flying-saucer' | relative_url }})” ([1969]({{ '/tags/1969' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/B000IEB1QU/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B000IEB1QU/?&tag=ufot-21)).
 
 1. [Web Resources](#web)
 
@@ -52,10 +52,10 @@ Many of the tables of references on this website are considerably longer than th
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/alnor-william-m">Alnor, William M</a> in his “<a href="/ufo-history/ufo-books/alnor-william-m-ufo-in-the-new-age">UFO in the New Age</a>” (<a href="/tags/1992">1992</a>) (available <a href="http://www.amazon.com/dp/0801002265/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0801002265/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 207 (in Chapter 12) of the Baker softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/alnor-william-m' | relative_url }}">Alnor, William M</a> in his “<a href="{{ '/ufo-history/ufo-books/alnor-william-m-ufo-in-the-new-age' | relative_url }}">UFO in the New Age</a>” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="http://www.amazon.com/dp/0801002265/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0801002265/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 207 (in Chapter 12) of the Baker softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -63,10 +63,10 @@ Many of the tables of references on this website are considerably longer than th
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1978">1978</a></p>
+<p><a href="{{ '/tags/1978' | relative_url }}">1978</a></p>
 </td>
 <td valign="top" width="547">
-<p>Briazack, Norman and Mennick, Simon in their “<a href="/ufo-history/ufo-books/briazack-norman-and-mennick-simon-the-ufo-guidebook">The UFO Guidebook</a>” (<a href="/tags/1978">1978</a>) (available <a href="http://www.amazon.com/dp/0806507632/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806507632/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 73-47 (in the entry entitled “Dione, R L”) of the Citadel softcover edition.</p>
+<p>Briazack, Norman and Mennick, Simon in their “<a href="{{ '/ufo-history/ufo-books/briazack-norman-and-mennick-simon-the-ufo-guidebook' | relative_url }}">The UFO Guidebook</a>” (<a href="{{ '/tags/1978' | relative_url }}">1978</a>) (available <a href="http://www.amazon.com/dp/0806507632/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806507632/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 73-47 (in the entry entitled “Dione, R L”) of the Citadel softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p> </p>
@@ -74,10 +74,10 @@ Many of the tables of references on this website are considerably longer than th
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fitzgerald-randall">Fitzgerald, Randall</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 221-222 (in an entry entitled “<a href="/ufo-history/ufo-books/dione-r-l-god-drives-a-flying-saucer">God Drives a Flying Saucer</a>”) of the New American Library softcover edition, at page 217 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }}">Fitzgerald, Randall</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 221-222 (in an entry entitled “<a href="{{ '/ufo-history/ufo-books/dione-r-l-god-drives-a-flying-saucer' | relative_url }}">God Drives a Flying Saucer</a>”) of the New American Library softcover edition, at page 217 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -85,10 +85,10 @@ Many of the tables of references on this website are considerably longer than th
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fitzgerald-randall">Fitzgerald, Randall</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 269 (in an entry entitled “<a href="/ufo-history/ufo-books/dione-r-l-god-drives-a-flying-saucer">God Drives a Flying Saucer</a>”) of the Robinson softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }}">Fitzgerald, Randall</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 269 (in an entry entitled “<a href="{{ '/ufo-history/ufo-books/dione-r-l-god-drives-a-flying-saucer' | relative_url }}">God Drives a Flying Saucer</a>”) of the Robinson softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -96,10 +96,10 @@ Many of the tables of references on this website are considerably longer than th
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fitzgerald-randall">Fitzgerald, Randall</a> in his “<a href="/ufo-history/ufo-books/fitzgerald-randall-the-cosmic-test-tube">The Cosmic Test Tube</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0963916122/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963916122/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 33-34 (in Section 1) with a one sentence summary at page 367 (in the Guide To Books) of the Moonlake Media softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }}">Fitzgerald, Randall</a> in his “<a href="{{ '/ufo-history/ufo-books/fitzgerald-randall-the-cosmic-test-tube' | relative_url }}">The Cosmic Test Tube</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0963916122/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963916122/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 33-34 (in Section 1) with a one sentence summary at page 367 (in the Guide To Books) of the Moonlake Media softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -107,10 +107,10 @@ Many of the tables of references on this website are considerably longer than th
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1977">1977</a></p>
+<p><a href="{{ '/tags/1977' | relative_url }}">1977</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/peters-ted">Peters, Ted</a> in his “UFOs-God's Chariots?: Flying Saucers in Politics, Science &amp; Religion” (<a href="/tags/1977">1977</a>) (available <a href="http://www.amazon.com/dp/0804222339/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0804222339/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 106-109 (in Chapter 6) of the John Knox hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/peters-ted' | relative_url }}">Peters, Ted</a> in his “UFOs-God's Chariots?: Flying Saucers in Politics, Science &amp; Religion” (<a href="{{ '/tags/1977' | relative_url }}">1977</a>) (available <a href="http://www.amazon.com/dp/0804222339/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0804222339/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 106-109 (in Chapter 6) of the John Knox hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -118,10 +118,10 @@ Many of the tables of references on this website are considerably longer than th
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p>Saliba, John in “<a href="/ufo-history/ufo-books/lewis-james-ed-the-gods-have-landed-new-religions-from-other-worlds">The Gods Have Landed – New Religions from Other Worlds</a>” (<a href="/tags/1995">1995</a>) (edited by James Lewis) (available <a href="http://www.amazon.com/dp/0791423301/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0791423301/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 35-36 (in Chapter 2) of the Suny softcover edition.</p>
+<p>Saliba, John in “<a href="{{ '/ufo-history/ufo-books/lewis-james-ed-the-gods-have-landed-new-religions-from-other-worlds' | relative_url }}">The Gods Have Landed – New Religions from Other Worlds</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (edited by James Lewis) (available <a href="http://www.amazon.com/dp/0791423301/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0791423301/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 35-36 (in Chapter 2) of the Suny softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -129,10 +129,10 @@ Many of the tables of references on this website are considerably longer than th
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1975">1975</a></p>
+<p><a href="{{ '/tags/1975' | relative_url }}">1975</a></p>
 </td>
 <td valign="top" width="547">
-<p>Weldon, John and Levitt, Zola in their “<a href="/ufo-history/ufo-books/weldon-john-and-levitt-zola-encounters-with-ufos">Encounters With UFOs</a>“ (<a href="/tags/1975">1975</a>) (formerly “UFOs, What on Earth is Happening?”) (available <a href="http://www.amazon.com/dp/1930749023/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1930749023/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 165 (in Appendix 2) of the Harvest House paperback edition.</p>
+<p>Weldon, John and Levitt, Zola in their “<a href="{{ '/ufo-history/ufo-books/weldon-john-and-levitt-zola-encounters-with-ufos' | relative_url }}">Encounters With UFOs</a>“ (<a href="{{ '/tags/1975' | relative_url }}">1975</a>) (formerly “UFOs, What on Earth is Happening?”) (available <a href="http://www.amazon.com/dp/1930749023/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1930749023/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 165 (in Appendix 2) of the Harvest House paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

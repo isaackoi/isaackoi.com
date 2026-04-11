@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/ledger_don_1.jpg"}
 ---
 
-![ledger_don_1](/images/stories/ufo_personalities/ledger_don_1.jpg)
+![ledger_don_1]({{ '/images/stories/ufo_personalities/ledger_don_1.jpg' | relative_url }})
 
 *Don Ledger*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/ledger-don">Ledger, Don</a> and Styles, Chris “<a href="/ufo-history/ufo-books/ledger-don-and-styles-chris-dark-object">Dark Object</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/0440236479/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0440236479/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/ledger-don' | relative_url }}">Ledger, Don</a> and Styles, Chris “<a href="{{ '/ufo-history/ufo-books/ledger-don-and-styles-chris-dark-object' | relative_url }}">Dark Object</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/0440236479/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0440236479/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>

@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/tomas_andrew_1.jpg"}
 ---
 
-![tomas_andrew_1](/images/stories/ufo_personalities/tomas_andrew_1.jpg)
+![tomas_andrew_1]({{ '/images/stories/ufo_personalities/tomas_andrew_1.jpg' | relative_url }})
 
 *Andrew Tomas*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1971">1971</a></p>
+<p><a href="{{ '/tags/1971' | relative_url }}">1971</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/tomas-andrew">Tomas, Andrew</a> “We Are Not The First”</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/tomas-andrew' | relative_url }}">Tomas, Andrew</a> “We Are Not The First”</p>
 </td>
 </tr>
 </tbody>

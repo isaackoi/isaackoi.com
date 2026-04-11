@@ -13,11 +13,11 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
-[Astronautics](/tags/astronautics): In [1896](/tags/1896), [Konstantin Eduardovich Tsiolkovskii](/ufo-history/ufo-personalities/tsiolkovskii-konstantin-eduardovich) writes “Exploration of Space by Means of Reactive Apparatus”.
+[Astronautics]({{ '/tags/astronautics' | relative_url }}): In [1896]({{ '/tags/1896' | relative_url }}), [Konstantin Eduardovich Tsiolkovskii]({{ '/ufo-history/ufo-personalities/tsiolkovskii-konstantin-eduardovich' | relative_url }}) writes “Exploration of Space by Means of Reactive Apparatus”.
 
 1. [Web Resources](#web)
 
@@ -37,7 +37,7 @@ The table below includes references to relevant discussions in UFO/SETI books no
 
 Many of the tables of references on this website are considerably longer than the references to books found on most other UFO websites. Indeed, some are probably the longest that have been collated in relation to some events and personalities. I hope that these tables are found to be a useful contribution to UFOlogy.
 
-For discussion of Tsiolkovskii’s [1896](/tags/1896) essay see the following:
+For discussion of Tsiolkovskii’s [1896]({{ '/tags/1896' | relative_url }}) essay see the following:
 
 <table border="1" cellpadding="0" cellspacing="0" class="sortable" data-sortable="true" id="sortabletable">
 <thead>
@@ -57,10 +57,10 @@ For discussion of Tsiolkovskii’s [1896](/tags/1896) essay see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1986">1986</a></p>
+<p><a href="{{ '/tags/1986' | relative_url }}">1986</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/crowe-michael-j">Crowe, Michael J</a> in his “<a href="/ufo-history/ufo-books/crowe-michael-j-the-extraterrestrial-life-debate-1750-1900">The Extraterrestrial Life Debate, 1750-1900</a>” (<a href="/tags/1986">1986</a>) (available <a href="http://www.amazon.com/dp/048640675X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/048640675X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 397 (in Chapter 8) of the <a href="/tags/1999">1999</a> Dover softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/crowe-michael-j' | relative_url }}">Crowe, Michael J</a> in his “<a href="{{ '/ufo-history/ufo-books/crowe-michael-j-the-extraterrestrial-life-debate-1750-1900' | relative_url }}">The Extraterrestrial Life Debate, 1750-1900</a>” (<a href="{{ '/tags/1986' | relative_url }}">1986</a>) (available <a href="http://www.amazon.com/dp/048640675X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/048640675X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 397 (in Chapter 8) of the <a href="{{ '/tags/1999' | relative_url }}">1999</a> Dover softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -68,10 +68,10 @@ For discussion of Tsiolkovskii’s [1896](/tags/1896) essay see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/darling-david">Darling, David</a> in his “<a href="/ufo-history/ufo-books/darling-david-the-extraterrestrial-encyclopedia">The Extraterrestrial Encyclopedia</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/081293248X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/081293248X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 429 (in the entry entitled “Tsiolkovskii, Konstantin Eduardovich (1857-1935)”) of the Three Rivers softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/darling-david' | relative_url }}">Darling, David</a> in his “<a href="{{ '/ufo-history/ufo-books/darling-david-the-extraterrestrial-encyclopedia' | relative_url }}">The Extraterrestrial Encyclopedia</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/081293248X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/081293248X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 429 (in the entry entitled “Tsiolkovskii, Konstantin Eduardovich (1857-1935)”) of the Three Rivers softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -79,10 +79,10 @@ For discussion of Tsiolkovskii’s [1896](/tags/1896) essay see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2003">2003</a></p>
+<p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/darling-david">Darling, David</a> in his online encyclopedia, “The Encyclopedia of Astrobiology, Astronomy and Spaceflight” (<a href="/tags/2003">2003</a>) in the entry entitled “Tsiolkovskii, Konstantin Eduardovich (1857-1935)”. The relevant entry is available online at: <a href="http://www.daviddarling.info/encyclopedia/T/Tsiolkovskii.html">http://www.daviddarling.info/encyclopedia/T/Tsiolkovskii.html</a></p>
+<p><a href="{{ '/ufo-history/ufo-personalities/darling-david' | relative_url }}">Darling, David</a> in his online encyclopedia, “The Encyclopedia of Astrobiology, Astronomy and Spaceflight” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) in the entry entitled “Tsiolkovskii, Konstantin Eduardovich (1857-1935)”. The relevant entry is available online at: <a href="http://www.daviddarling.info/encyclopedia/T/Tsiolkovskii.html">http://www.daviddarling.info/encyclopedia/T/Tsiolkovskii.html</a></p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -90,10 +90,10 @@ For discussion of Tsiolkovskii’s [1896](/tags/1896) essay see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p>Wright, Susan in her “<a href="/ufo-history/ufo-books/wright-susan-ufo-headquarters">UFO Headquarters</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0312193475/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312193475/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 32 (in Chapter 2) of the St Martin’s Press softcover edition.</p>
+<p>Wright, Susan in her “<a href="{{ '/ufo-history/ufo-books/wright-susan-ufo-headquarters' | relative_url }}">UFO Headquarters</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0312193475/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312193475/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 32 (in Chapter 2) of the St Martin’s Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/no_avatar.jpg"}
 ---
 
-![](/images/stories/no_avatar.jpg)
+![]({{ '/images/stories/no_avatar.jpg' | relative_url }})
 
 *Image needed*
 
@@ -36,18 +36,18 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1972">1972</a></p>
+<p><a href="{{ '/tags/1972' | relative_url }}">1972</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/dutta-rex">Dutta, Rex</a> “Flying Saucer Message”</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dutta-rex' | relative_url }}">Dutta, Rex</a> “Flying Saucer Message”</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1974">1974</a></p>
+<p><a href="{{ '/tags/1974' | relative_url }}">1974</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/dutta-rex">Dutta, Rex</a> “<a href="/ufo-history/ufo-books/dutta-rex-reality-of-occultyogameditationflying-saucers">Reality of Occult/Yoga/Meditation/Flying Saucers</a>” (<a href="/tags/1974">1974</a>) (available <a href="http://www.amazon.com/dp/0720707897/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0720707897/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dutta-rex' | relative_url }}">Dutta, Rex</a> “<a href="{{ '/ufo-history/ufo-books/dutta-rex-reality-of-occultyogameditationflying-saucers' | relative_url }}">Reality of Occult/Yoga/Meditation/Flying Saucers</a>” (<a href="{{ '/tags/1974' | relative_url }}">1974</a>) (available <a href="http://www.amazon.com/dp/0720707897/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0720707897/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>

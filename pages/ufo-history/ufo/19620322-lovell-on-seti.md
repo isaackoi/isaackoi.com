@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/seti_1.jpg"}
 ---
 
-![seti_1](/images/stories/ufo_tags/seti_1.jpg)
+![seti_1]({{ '/images/stories/ufo_tags/seti_1.jpg' | relative_url }})
 
 *Lovell on SETI*
 
@@ -67,10 +67,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1964">1964</a></p>
+<p><a href="{{ '/tags/1964' | relative_url }}">1964</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sullivan-walter">Sullivan, Walter</a> in his “<a href="/ufo-history/ufo-books/sullivan-walter-we-are-not-alone">We Are Not Alone</a>” (<a href="/tags/1964">1964</a>) (available <a href="http://www.amazon.com/dp/B00005X52F/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B00005X52F/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 16 (in Chapter 1) of the Signet paperback revised editions.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sullivan-walter' | relative_url }}">Sullivan, Walter</a> in his “<a href="{{ '/ufo-history/ufo-books/sullivan-walter-we-are-not-alone' | relative_url }}">We Are Not Alone</a>” (<a href="{{ '/tags/1964' | relative_url }}">1964</a>) (available <a href="http://www.amazon.com/dp/B00005X52F/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B00005X52F/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 16 (in Chapter 1) of the Signet paperback revised editions.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -78,10 +78,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1965">1965</a></p>
+<p><a href="{{ '/tags/1965' | relative_url }}">1965</a></p>
 </td>
 <td valign="top" width="547">
-<p>Allen, Tom in his “The Quest: A Report on Extraterrestrial life" (<a href="/tags/1965">1965</a>) (available <a href="http://www.amazon.com/dp/B000ILFSDA/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000ILFSDA/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 39-40 (in Chapter 2) of the Chilton hardback edition.</p>
+<p>Allen, Tom in his “The Quest: A Report on Extraterrestrial life" (<a href="{{ '/tags/1965' | relative_url }}">1965</a>) (available <a href="http://www.amazon.com/dp/B000ILFSDA/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000ILFSDA/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 39-40 (in Chapter 2) of the Chilton hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

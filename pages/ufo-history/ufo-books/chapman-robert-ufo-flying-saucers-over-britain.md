@@ -14,7 +14,7 @@ header: {"preview_image": "https://covers.openlibrary.org/b/isbn/1905646003-L.jp
 book: {"identifiers": ["B000C0L3W2", "1905646003"], "primary_isbn": "1905646003", "cover_image": "https://covers.openlibrary.org/b/isbn/1905646003-L.jpg?default=false", "cover_source": "openlibrary"}
 ---
 
-Brief review to be added of [Robert Chapman](/ufo-history/ufo-personalities/chapman-robert)'s book “[UFO: Flying Saucers Over Britain?](/ufo-history/ufo-books/chapman-robert-ufo-flying-saucers-over-britain)” (also published as “Unidentified Flying Objects”) ([1969](/tags/1969)) (available [on Amazon USA](http://www.amazon.com/dp/B000C0L3W2/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B000C0L3W2/?&tag=ufot-21))
+Brief review to be added of [Robert Chapman]({{ '/ufo-history/ufo-personalities/chapman-robert' | relative_url }})'s book “[UFO: Flying Saucers Over Britain?]({{ '/ufo-history/ufo-books/chapman-robert-ufo-flying-saucers-over-britain' | relative_url }})” (also published as “Unidentified Flying Objects”) ([1969]({{ '/tags/1969' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/B000C0L3W2/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B000C0L3W2/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -52,10 +52,10 @@ Many of the tables of references on this website are considerably longer than th
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1976">1976</a></p>
+<p><a href="{{ '/tags/1976' | relative_url }}">1976</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/bufora">BUFORA</a> in its “UFO Investigation” (<a href="/tags/1976">1976</a>) in Appendix 16, entry 31 of the spiral bound first edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/bufora' | relative_url }}">BUFORA</a> in its “UFO Investigation” (<a href="{{ '/tags/1976' | relative_url }}">1976</a>) in Appendix 16, entry 31 of the spiral bound first edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -63,10 +63,10 @@ Many of the tables of references on this website are considerably longer than th
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2007">2007</a></p>
+<p><a href="{{ '/tags/2007' | relative_url }}">2007</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clarke-david">Clarke, David</a> and <a href="/ufo-history/ufo-personalities/roberts-andy">Roberts, Andy</a> in their “<a href="/ufo-history/ufo-books/clarke-david-and-roberts-andy-flying-saucerers">Flying Saucerers : A social history of UFOlogy</a>” (<a href="/tags/2007">2007</a>) (available <a href="http://www.amazon.com/dp/1905646003/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1905646003/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 175 (in Chapter 10) of the Alternative Albion softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clarke-david' | relative_url }}">Clarke, David</a> and <a href="{{ '/ufo-history/ufo-personalities/roberts-andy' | relative_url }}">Roberts, Andy</a> in their “<a href="{{ '/ufo-history/ufo-books/clarke-david-and-roberts-andy-flying-saucerers' | relative_url }}">Flying Saucerers : A social history of UFOlogy</a>” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (available <a href="http://www.amazon.com/dp/1905646003/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1905646003/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 175 (in Chapter 10) of the Alternative Albion softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

@@ -42,19 +42,19 @@ Screen shots from these videos are included below for ease of identification.
 
 Here is a screen shot from the December 2011 (Kansas) footage:
 
-![](/images/stories/ufo_videos/video097_1.JPG)
+![]({{ '/images/stories/ufo_videos/video097_1.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video097_10.JPG)
+![]({{ '/images/stories/ufo_videos/video097_10.JPG' | relative_url }})
 
 Here are a couple of screen shots from much clearer screen shots from a 2012 video (discussed below).
 
-![](/images/stories/ufo_videos/video097_3.JPG)
+![]({{ '/images/stories/ufo_videos/video097_3.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video097_4.JPG)
+![]({{ '/images/stories/ufo_videos/video097_4.JPG' | relative_url }})
 
 And here is a screen shot from similar footage posted online in March 2015:
 
-![](/images/stories/ufo_videos/video097_5.JPG)
+![]({{ '/images/stories/ufo_videos/video097_5.JPG' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this video
@@ -72,7 +72,7 @@ One of these UCAVs was seen being transported in December 2011 (being shipped fr
 
 The X-47b is designed for carrier-based operations.
 
-![](/images/stories/ufo_videos/video097_9.JPG)
+![]({{ '/images/stories/ufo_videos/video097_9.JPG' | relative_url }})
 
 The UCAV is not a secret project and, indeed, can be seen during carrier flight tests in various videos online:
 
@@ -88,11 +88,11 @@ https://www.youtube.com/watch?v=PSx1P1gG5z8
 
 By the way, the logo of the transport company mentioned in the follow-up television news reports in 2012 (i.e. Diamond Heavy Haul Incorporated) can be seen in some of the relevant footage if you take a screen shot at the right moment, such as this one:
 
-![](/images/stories/ufo_videos/video097_7.JPG)
+![]({{ '/images/stories/ufo_videos/video097_7.JPG' | relative_url }})
 
 If you look at [Diamond Heavy Haul Incorporated's website](http://www.diamondheavyhaul.com/), you can see that logo and also see some of its trucks.
 
-![](/images/stories/ufo_videos/video097_8.JPG)
+![]({{ '/images/stories/ufo_videos/video097_8.JPG' | relative_url }})
 
 So, the item being transport not a UFO... but it still looks cool.
 
@@ -109,4 +109,4 @@ Relevant discussions on the AboveTopSecret.com forum include the following:
 
 2012 (June) discussion entitled "[UFO Towed Near Area 51, Nevada](http://www.abovetopsecret.com/forum/thread1061551/pg1)"
 
-![](/images/stories/ufo_videos/video097_10d.jpg)
+![]({{ '/images/stories/ufo_videos/video097_10d.jpg' | relative_url }})

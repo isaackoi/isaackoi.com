@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -67,10 +67,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Achenbach, Joel in his “<a href="/ufo-history/ufo-books/achenbach-joel-captured-by-aliens">Captured by Aliens</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0684848562/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684848562/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 112-113 (in Chapter 10) of the Simon and Schuster hardback edition.</p>
+<p>Achenbach, Joel in his “<a href="{{ '/ufo-history/ufo-books/achenbach-joel-captured-by-aliens' | relative_url }}">Captured by Aliens</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0684848562/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684848562/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 112-113 (in Chapter 10) of the Simon and Schuster hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -78,10 +78,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1985">1985</a></p>
+<p><a href="{{ '/tags/1985' | relative_url }}">1985</a></p>
 </td>
 <td valign="top" width="547">
-<p>Angelo, Joseph A in his “<a href="/ufo-history/ufo-books/angelo-joseph-a-the-extraterrestrial-encyclopedia">The Extraterrestrial Encyclopedia: Man’s Search for Life in Outer Space</a>” (<a href="/tags/1985">1985</a>) (available <a href="http://www.amazon.com/dp/0816022763/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0816022763/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 18-21 (in the entry entitled “Challenger accident”) of the revised <a href="/tags/1991">1991</a> Fact on File hardback edition.</p>
+<p>Angelo, Joseph A in his “<a href="{{ '/ufo-history/ufo-books/angelo-joseph-a-the-extraterrestrial-encyclopedia' | relative_url }}">The Extraterrestrial Encyclopedia: Man’s Search for Life in Outer Space</a>” (<a href="{{ '/tags/1985' | relative_url }}">1985</a>) (available <a href="http://www.amazon.com/dp/0816022763/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0816022763/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 18-21 (in the entry entitled “Challenger accident”) of the revised <a href="{{ '/tags/1991' | relative_url }}">1991</a> Fact on File hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -89,10 +89,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2003">2003</a></p>
+<p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
-<p>Benjamin, Marina in her “<a href="/ufo-history/ufo-books/benjamin-marina-rocket-dreams">Rocket Dreams</a>” (<a href="/tags/2003">2003</a>) (available <a href="http://www.amazon.com/dp/0743233433/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743233433/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 72, 77 (in Chapter 2) of the Chatto &amp; Windus hardback edition.</p>
+<p>Benjamin, Marina in her “<a href="{{ '/ufo-history/ufo-books/benjamin-marina-rocket-dreams' | relative_url }}">Rocket Dreams</a>” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) (available <a href="http://www.amazon.com/dp/0743233433/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743233433/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 72, 77 (in Chapter 2) of the Chatto &amp; Windus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -100,10 +100,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p>Bergreen, Laurence in his “<a href="/ufo-history/ufo-books/bergreen-laurence-the-quest-for-mars">The Quest For Mars</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/0002570300/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0002570300/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 29 (in Chapter 1), 63-64 (in Chapter 3) of the Harper hardback edition.</p>
+<p>Bergreen, Laurence in his “<a href="{{ '/ufo-history/ufo-books/bergreen-laurence-the-quest-for-mars' | relative_url }}">The Quest For Mars</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/0002570300/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0002570300/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 29 (in Chapter 1), 63-64 (in Chapter 3) of the Harper hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -111,10 +111,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/dean-jodi">Dean, Jodi</a> in her “<a href="/ufo-history/ufo-books/dean-jodi-aliens-in-america">Aliens in America</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0801484685/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0801484685/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 99-102 (in Chapter 2) of the Cornell University softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dean-jodi' | relative_url }}">Dean, Jodi</a> in her “<a href="{{ '/ufo-history/ufo-books/dean-jodi-aliens-in-america' | relative_url }}">Aliens in America</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0801484685/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0801484685/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 99-102 (in Chapter 2) of the Cornell University softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -122,10 +122,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/harrison-albert-a">Harrison, Albert A</a> in his “<a href="/ufo-history/ufo-books/harrison-albert-a-spacefaring-the-human-dimension">Spacefaring : The Human Dimension</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/0520224531/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0520224531/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 180-182, 188 (in Chapter 10) of the California softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/harrison-albert-a' | relative_url }}">Harrison, Albert A</a> in his “<a href="{{ '/ufo-history/ufo-books/harrison-albert-a-spacefaring-the-human-dimension' | relative_url }}">Spacefaring : The Human Dimension</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/0520224531/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0520224531/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 180-182, 188 (in Chapter 10) of the California softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -133,10 +133,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-alien-contact-the-first-fifty-years">Alien Contact – The First Fifty Years</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0806904763/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806904763/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 109 (in the chapter entitled “<a href="/tags/1986">1986</a>”) of the Collins and Brown hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-alien-contact-the-first-fifty-years' | relative_url }}">Alien Contact – The First Fifty Years</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0806904763/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806904763/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 109 (in the chapter entitled “<a href="{{ '/tags/1986' | relative_url }}">1986</a>”) of the Collins and Brown hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -144,10 +144,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/shermer-michael">Shermer, Michael</a> in his “<a href="/ufo-history/ufo-books/shermer-michael-the-borderlands-of-science">The Borderlands of Science</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/0195143264/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0195143264/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 47-49 (in Chapter 1) of the Oxford University Press hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/shermer-michael' | relative_url }}">Shermer, Michael</a> in his “<a href="{{ '/ufo-history/ufo-books/shermer-michael-the-borderlands-of-science' | relative_url }}">The Borderlands of Science</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/0195143264/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0195143264/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 47-49 (in Chapter 1) of the Oxford University Press hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>

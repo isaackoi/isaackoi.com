@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/documents_1.gif"}
 ---
 
-![documents_1](/images/stories/ufo_tags/documents_1.gif)
+![documents_1]({{ '/images/stories/ufo_tags/documents_1.gif' | relative_url }})
 
 *Wilbert B Smith memo*
 
@@ -47,9 +47,9 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-Image of the relevant memo presented by [Timothy Good](/ufo-history/ufo-personalities/good-timothy) in his “[Above Top Secret](/ufo-history/ufo-books/good-timothy-above-top-secret)” ([1987](/tags/1987)) (available [on Amazon USA](http://www.amazon.com/dp/0688092020/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0688092020/ref=nosim?tag=ufot-21)) at pages 460-462 (in the Appendix) of the Sidgwick & Jackson hardback edition (with the same page numbering in the Guild Publishing hardback edition and the Grafton paperback edition).
+Image of the relevant memo presented by [Timothy Good]({{ '/ufo-history/ufo-personalities/good-timothy' | relative_url }}) in his “[Above Top Secret]({{ '/ufo-history/ufo-books/good-timothy-above-top-secret' | relative_url }})” ([1987]({{ '/tags/1987' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0688092020/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0688092020/ref=nosim?tag=ufot-21)) at pages 460-462 (in the Appendix) of the Sidgwick & Jackson hardback edition (with the same page numbering in the Guild Publishing hardback edition and the Grafton paperback edition).
 
-Image of memo presented by [Stone, Clifford E](/ufo-history/ufo-personalities/stone-clifford-e) in his “[UFOs are Real](/ufo-history/ufo-books/stone-clifford-e-ufos-are-real)“ ([1997](/tags/1997)) as Document 1-8a to 1-8c on the unnumbered pages after page 10 (in Chapter 1) of the SPI softcover edition.
+Image of memo presented by [Stone, Clifford E]({{ '/ufo-history/ufo-personalities/stone-clifford-e' | relative_url }}) in his “[UFOs are Real]({{ '/ufo-history/ufo-books/stone-clifford-e-ufos-are-real' | relative_url }})“ ([1997]({{ '/tags/1997' | relative_url }})) as Document 1-8a to 1-8c on the unnumbered pages after page 10 (in Chapter 1) of the SPI softcover edition.
 
 The table below includes references to relevant discussions in UFO/SETI books noted by Isaac Koi during a review of approximately 963 UFO/SETI books during the period 2003-2006 (with a few later additions). The table can be sorted by author, date and length of discussion by clicking on the relevant word in the top line of the table.
 
@@ -75,10 +75,10 @@ For discussion of Wilbert Smith’s memo see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/brookesmith-peter">Brookesmith, Peter</a> in his “<a href="/ufo-history/ufo-books/brookesmith-peter-ufo-the-government-files">UFO: The Government Files</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/0760702187/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0760702187/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 169-170 (in the Epilogue) of the Parragon hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/brookesmith-peter' | relative_url }}">Brookesmith, Peter</a> in his “<a href="{{ '/ufo-history/ufo-books/brookesmith-peter-ufo-the-government-files' | relative_url }}">UFO: The Government Files</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/0760702187/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0760702187/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 169-170 (in the Epilogue) of the Parragon hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -86,10 +86,10 @@ For discussion of Wilbert Smith’s memo see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2003">2003</a></p>
+<p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/druffel-ann">Druffel, Ann</a> in her “<a href="/ufo-history/ufo-books/druffel-ann-firestorm-dr-james-e-mcdonalds-fight-for-ufo-science">Firestorm : Dr James E McDonald's Fight for UFO Science</a>” (<a href="/tags/2003">2003</a>) (available <a href="http://www.amazon.com/dp/0926524585/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0926524585/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 377-378 (in Chapter 14) of the Wild Flower Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/druffel-ann' | relative_url }}">Druffel, Ann</a> in her “<a href="{{ '/ufo-history/ufo-books/druffel-ann-firestorm-dr-james-e-mcdonalds-fight-for-ufo-science' | relative_url }}">Firestorm : Dr James E McDonald's Fight for UFO Science</a>” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) (available <a href="http://www.amazon.com/dp/0926524585/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0926524585/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 377-378 (in Chapter 14) of the Wild Flower Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -97,10 +97,10 @@ For discussion of Wilbert Smith’s memo see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fawcett-george">Fawcett, George</a> and <a href="/ufo-history/ufo-personalities/greenwood-barry">Greenwood, Barry</a> in their “<a href="/ufo-history/ufo-books/fawcett-george-and-greenwood-barry-clear-intent">Clear Intent</a>” (<a href="/tags/1984">1984</a>) (available <a href="http://www.amazon.com/dp/0131366491/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0131366491/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages xiii-xiv (in the Preface) of the Spectrum softcover edition (at pages xv-xvii in the Fireside softcover edition published under the title “The UFO Cover-Up”).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fawcett-george' | relative_url }}">Fawcett, George</a> and <a href="{{ '/ufo-history/ufo-personalities/greenwood-barry' | relative_url }}">Greenwood, Barry</a> in their “<a href="{{ '/ufo-history/ufo-books/fawcett-george-and-greenwood-barry-clear-intent' | relative_url }}">Clear Intent</a>” (<a href="{{ '/tags/1984' | relative_url }}">1984</a>) (available <a href="http://www.amazon.com/dp/0131366491/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0131366491/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages xiii-xiv (in the Preface) of the Spectrum softcover edition (at pages xv-xvii in the Fireside softcover edition published under the title “The UFO Cover-Up”).</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -108,10 +108,10 @@ For discussion of Wilbert Smith’s memo see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/hansen-terry">Hansen, Terry</a> in his “<a href="/ufo-history/ufo-books/hansen-terry-the-missing-times-news-media-complicity-in-the-ufo-cover-up">The Missing Times : News Media Complicity in the UFO Cover-Up</a> : News Media Complicity in the UFO Cover -Up” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/0738836125/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0738836125/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 55 (in Chapter 1) of the Xlibris softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hansen-terry' | relative_url }}">Hansen, Terry</a> in his “<a href="{{ '/ufo-history/ufo-books/hansen-terry-the-missing-times-news-media-complicity-in-the-ufo-cover-up' | relative_url }}">The Missing Times : News Media Complicity in the UFO Cover-Up</a> : News Media Complicity in the UFO Cover -Up” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/0738836125/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0738836125/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 55 (in Chapter 1) of the Xlibris softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -119,10 +119,10 @@ For discussion of Wilbert Smith’s memo see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/hesemann-michael">Hesemann, Michael</a> and <a href="/ufo-history/ufo-personalities/mantle-philip">Mantle, Philip</a> in their “<a href="/ufo-history/ufo-books/hesemann-michael-and-mantle-philip-beyond-roswell">Beyond Roswell</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1569247811/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1569247811/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 81 (in Chapter 6) of the Michael O’Mara hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hesemann-michael' | relative_url }}">Hesemann, Michael</a> and <a href="{{ '/ufo-history/ufo-personalities/mantle-philip' | relative_url }}">Mantle, Philip</a> in their “<a href="{{ '/ufo-history/ufo-books/hesemann-michael-and-mantle-philip-beyond-roswell' | relative_url }}">Beyond Roswell</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1569247811/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1569247811/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 81 (in Chapter 6) of the Michael O’Mara hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -130,10 +130,10 @@ For discussion of Wilbert Smith’s memo see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p>Horn, Arthur and Horn, Lynette M in their “<a href="/ufo-history/ufo-books/horn-arthur-d-and-horn-lynette-m-humanitys-extraterrestrial-origins">Humanity's Extraterrestrial Origins</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/3931652319/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/3931652319/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 194 (in Chapter 12) of the Silberschnur softcover edition.</p>
+<p>Horn, Arthur and Horn, Lynette M in their “<a href="{{ '/ufo-history/ufo-books/horn-arthur-d-and-horn-lynette-m-humanitys-extraterrestrial-origins' | relative_url }}">Humanity's Extraterrestrial Origins</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/3931652319/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/3931652319/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 194 (in Chapter 12) of the Silberschnur softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -141,10 +141,10 @@ For discussion of Wilbert Smith’s memo see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1987">1987</a></p>
+<p><a href="{{ '/tags/1987' | relative_url }}">1987</a></p>
 </td>
 <td valign="top" width="547">
-<p>Kinder, Gary in his “<a href="/ufo-history/ufo-books/kinder-gary-light-years-about-eduard-albert-billy-meier">Light Years</a>” (<a href="/tags/1987">1987</a>) (available <a href="http://www.amazon.com/dp/0871131390/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0871131390/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 177 (in Chapter 8) of the Viking hardback edition.</p>
+<p>Kinder, Gary in his “<a href="{{ '/ufo-history/ufo-books/kinder-gary-light-years-about-eduard-albert-billy-meier' | relative_url }}">Light Years</a>” (<a href="{{ '/tags/1987' | relative_url }}">1987</a>) (available <a href="http://www.amazon.com/dp/0871131390/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0871131390/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 177 (in Chapter 8) of the Viking hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -152,10 +152,10 @@ For discussion of Wilbert Smith’s memo see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/maccabee-bruce">Maccabee, Bruce</a> in his “<a href="/ufo-history/ufo-books/maccabee-bruce-ufo-fbi-connection">UFO-FBI Connection</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/1567184936/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1567184936/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 184-186 (in Chapter 17) of the Llewellyn softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/maccabee-bruce' | relative_url }}">Maccabee, Bruce</a> in his “<a href="{{ '/ufo-history/ufo-books/maccabee-bruce-ufo-fbi-connection' | relative_url }}">UFO-FBI Connection</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/1567184936/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1567184936/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 184-186 (in Chapter 17) of the Llewellyn softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -163,10 +163,10 @@ For discussion of Wilbert Smith’s memo see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/redfern-nicholas">Redfern, Nicholas</a> in his “<a href="/ufo-history/ufo-books/redfern-nicholas-a-covert-agenda">A Covert Agenda</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0671005324/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0671005324/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 206-207 (in Chapter 14) of the Simon &amp; Schuster hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/redfern-nicholas' | relative_url }}">Redfern, Nicholas</a> in his “<a href="{{ '/ufo-history/ufo-books/redfern-nicholas-a-covert-agenda' | relative_url }}">A Covert Agenda</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0671005324/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0671005324/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 206-207 (in Chapter 14) of the Simon &amp; Schuster hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -174,10 +174,10 @@ For discussion of Wilbert Smith’s memo see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p>Stanton T. Friedman in his “<a href="/ufo-history/ufo-books/friedman-stanton-t-top-secret-majic">Top Secret – MAJIC</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1569243425/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1569243425/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 24 (in Chapter 1), 123 (in Chapter 7) of the Michael O’ Mara hardback edition.</p>
+<p>Stanton T. Friedman in his “<a href="{{ '/ufo-history/ufo-books/friedman-stanton-t-top-secret-majic' | relative_url }}">Top Secret – MAJIC</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1569243425/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1569243425/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 24 (in Chapter 1), 123 (in Chapter 7) of the Michael O’ Mara hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -185,10 +185,10 @@ For discussion of Wilbert Smith’s memo see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1986">1986</a></p>
+<p><a href="{{ '/tags/1986' | relative_url }}">1986</a></p>
 </td>
 <td valign="top" width="547">
-<p>Steinman, William and <a href="/ufo-history/ufo-personalities/stevens-wendelle">Stevens, Wendelle</a> in their “UFO Crash at Aztec” (<a href="/tags/1986">1986</a>) (available <a href="http://www.amazon.com/dp/093426905X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/093426905X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 305-307 of the Wendelle Stevens hardback edition.</p>
+<p>Steinman, William and <a href="{{ '/ufo-history/ufo-personalities/stevens-wendelle' | relative_url }}">Stevens, Wendelle</a> in their “UFO Crash at Aztec” (<a href="{{ '/tags/1986' | relative_url }}">1986</a>) (available <a href="http://www.amazon.com/dp/093426905X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/093426905X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 305-307 of the Wendelle Stevens hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>

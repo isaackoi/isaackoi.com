@@ -48,15 +48,15 @@ This video appears to show a man going down a huge waterslide on the side of a h
 
 Screen shots from this video are included below for ease of identification.
 
-![](/images/stories/ufo_videos/video110_1.JPG)
+![]({{ '/images/stories/ufo_videos/video110_1.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video110_2.JPG)
+![]({{ '/images/stories/ufo_videos/video110_2.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video110_3.JPG)
+![]({{ '/images/stories/ufo_videos/video110_3.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video110_4.JPG)
+![]({{ '/images/stories/ufo_videos/video110_4.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video110_5.JPG)
+![]({{ '/images/stories/ufo_videos/video110_5.JPG' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this video
@@ -70,9 +70,9 @@ In fact, the "megawoosh" video was a hoax created as a viral advertisement for M
 
 Within a few days of the video being released on Youtube in August 2009, online discussion of the registration of one of the Megawoosh websites by an employee of the German subsidiary of marketing agency MRM Wordlwide quickly prompted MRM Germany CEO Alexander Ewig to state in a press release (emailed to [Gigaom.com on 11 August 2009](https://gigaom.com/2009/08/11/the-megawoosh-waterslide-viral-how-it-was-really-done/)) that “We developed Megaswoosh as a viral campaign for Microsoft Germany”. Maik Koenigs of Elbkind told Janko Roettgers of Gigaom that the video was a case of creative compositing, combining several elements together to create a final video. Gigaom reported in August 2009 that it had been told that a stuntman slides down the slide, secured by a rope. Then there’s a body flying through the air, which is animated. And finally, the big splash. “He actually jumped from a wooden ramp into the pool,” explained Koenigs. Of course, you don’t get to see any of this in the final clip, thanks to careful editing that makes it look like a single take".
 
-![](/images/stories/ufo_videos/video110_8.JPG)
+![]({{ '/images/stories/ufo_videos/video110_8.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video110_6.JPG)
+![]({{ '/images/stories/ufo_videos/video110_6.JPG' | relative_url }})
 
 A video can be seen online of the stuntman visibly secured by the rope, used to film the first element of the composite video.
 
@@ -90,13 +90,13 @@ The admission of a hoax received coverage from the mainstream media in August 20
 
 "With Megawoosh, we developed a viral campaign for Microsoft Germany which generated unbelievable response in communities, in just a few hours," it added.
 
-![](/images/stories/ufo_videos/video110_9.JPG)
+![]({{ '/images/stories/ufo_videos/video110_9.JPG' | relative_url }})
 
 #
 
 Despite the admission in August 2009 that the video was a viral advert for Microsoft, in 2010 it featured in [an episode of Mythbusters (Season 8 Episode 8) in a segment entitled "Waterslide Wipeout"](http://www.imdb.com/title/tt1659074/). The Mythbusters team "busted" this video on the basis that a person would not have flown through the air to anything like the distance shown in the hoax video. The Mythbusters first built a scale model of the slide, and discovered that the concept was plausible. They then built the full size ramp next to a lake so that they could avoid injury if they missed the target. After several runs, the Mythbusters concluded that the 115-foot (35 m) flight distance was impossible, as they could only travel at a maximum distance of 72 ft (22 m) with a peak speed of 30 mph (48 km/h). During the closing credits of that episode, the MythBusters briefly mentioned that while they had been busting the video in the field, their researchers had busted the video in cyberspace by contacting the people responsible for making the video and receiving confirmation that the video was made using CG (computer graphics).
 
-![](/images/stories/ufo_videos/video110_7.JPG)
+![]({{ '/images/stories/ufo_videos/video110_7.JPG' | relative_url }})
 
 For some reason, the Mythbusters team neglected to mention that the hoax had been admitted long before they "busted" the video...
 
@@ -119,4 +119,4 @@ Relevant online discussions include the following:
 
 2011 (August) discussion on the AboveTopSecret.com discussion forum entitled "[the ease of HQ video fakery](http://www.abovetopsecret.com/forum/thread738943/pg1)"
 
-![](/images/stories/ufo_videos/video110_2d.jpg)
+![]({{ '/images/stories/ufo_videos/video110_2d.jpg' | relative_url }})

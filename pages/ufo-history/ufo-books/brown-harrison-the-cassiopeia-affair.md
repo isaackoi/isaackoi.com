@@ -14,7 +14,7 @@ header: {"preview_image": "https://covers.openlibrary.org/b/isbn/0879750642-L.jp
 book: {"identifiers": ["B000O6L3SI", "0879750642"], "primary_isbn": "0879750642", "cover_image": "https://covers.openlibrary.org/b/isbn/0879750642-L.jpg?default=false", "cover_source": "openlibrary"}
 ---
 
-Brief review to be added of Harrison Brown's “[The Cassiopeia Affair](/ufo-history/ufo-books/brown-harrison-the-cassiopeia-affair)” ([1968](/tags/1968)) (available [on Amazon USA](http://www.amazon.com/dp/B000O6L3SI/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B000O6L3SI/?&tag=ufot-21))
+Brief review to be added of Harrison Brown's “[The Cassiopeia Affair]({{ '/ufo-history/ufo-books/brown-harrison-the-cassiopeia-affair' | relative_url }})” ([1968]({{ '/tags/1968' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/B000O6L3SI/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B000O6L3SI/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1976">1976</a></p>
+<p><a href="{{ '/tags/1976' | relative_url }}">1976</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/frazier-kendrick">Frazier, Kendrick</a> in “<a href="/ufo-history/ufo-books/christian-james-l-editor-extra-terrestrial-intelligence-the-first-encounter">Extra-Terrestrial Intelligence : The First Encounter</a>” (<a href="/tags/1976">1976</a>) (edited by James L Christian) (available <a href="http://www.amazon.com/dp/0879750642/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879750642/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 80 (in the unnumbered chapter entitled “First Contact : The News Event and the Human Response”) of the Prometheus Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/frazier-kendrick' | relative_url }}">Frazier, Kendrick</a> in “<a href="{{ '/ufo-history/ufo-books/christian-james-l-editor-extra-terrestrial-intelligence-the-first-encounter' | relative_url }}">Extra-Terrestrial Intelligence : The First Encounter</a>” (<a href="{{ '/tags/1976' | relative_url }}">1976</a>) (edited by James L Christian) (available <a href="http://www.amazon.com/dp/0879750642/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879750642/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 80 (in the unnumbered chapter entitled “First Contact : The News Event and the Human Response”) of the Prometheus Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

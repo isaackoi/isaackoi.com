@@ -29,9 +29,9 @@ Given my view that there is a massive gap between the material about UFOs availa
 
 Finding useful and interesting material about UFOs on the internet involves a considerable amount of sorting the wheat from the chaff. I’ve set out below some of the results of my own attempt to do this sorting during the last few years…
 
-- [Section 1: This introduction](/ufog/starter-pack/1-introduction)
-- [Section 2: A few preliminary points](/ufog/starter-pack/2-preliminary-points)
-- [Section 3: Useful free books online](/ufog/starter-pack/3-free-books)
-- [Section 4: Government UFO documents online](/ufog/starter-pack/4-documents-online)
-- [Section 5: Free Audio/Visual UFO material online](/ufog/starter-pack/free-audiovisual-material)
-- [Section 6: Discussion forums and UFO groups online](/ufog/starter-pack/6-forums-and-groups-online)
+- [Section 1: This introduction]({{ '/ufog/starter-pack/1-introduction' | relative_url }})
+- [Section 2: A few preliminary points]({{ '/ufog/starter-pack/2-preliminary-points' | relative_url }})
+- [Section 3: Useful free books online]({{ '/ufog/starter-pack/3-free-books' | relative_url }})
+- [Section 4: Government UFO documents online]({{ '/ufog/starter-pack/4-documents-online' | relative_url }})
+- [Section 5: Free Audio/Visual UFO material online]({{ '/ufog/starter-pack/free-audiovisual-material' | relative_url }})
+- [Section 6: Discussion forums and UFO groups online]({{ '/ufog/starter-pack/6-forums-and-groups-online' | relative_url }})

@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0787300977.jpg"}
 book: {"identifiers": ["0787300977", "1576072495", "1558887415", "0780800974", "0397317808", "0451204247", "1841196134", "0963916122", "0879756446", "0028623878", "0812817125", "B000AV48KC", "B0006CCFX2"], "primary_isbn": "0787300977", "cover_image": "/book-covers/0787300977.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Bernard, Raymond](/ufo-history/ufo-personalities/bernard-raymond) (pseudonym for Siegmeister, Walter) “[The Hollow Earth](/ufo-history/ufo-books/bernard-raymond-the-hollow-earth)” ([1964](/tags/1964)) (available [on Amazon USA](http://www.amazon.com/dp/0787300977/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0787300977/?&tag=ufot-21))
+Brief review to be added of [Bernard, Raymond]({{ '/ufo-history/ufo-personalities/bernard-raymond' | relative_url }}) (pseudonym for Siegmeister, Walter) “[The Hollow Earth]({{ '/ufo-history/ufo-books/bernard-raymond-the-hollow-earth' | relative_url }})” ([1964]({{ '/tags/1964' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0787300977/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0787300977/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -52,10 +52,10 @@ Many of the tables of references on this website are considerably longer than th
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/childress-david-hatcher">Childress, David Hatcher</a> in “Lost Continents &amp; <a href="/ufo-history/ufo-books/bernard-raymond-the-hollow-earth">The Hollow Earth</a>” (<a href="/tags/1998">1998</a>) (by David Hatcher Childress and Richard Shaver) at pages 244-252 (in the unnumbered chapter entitled “The Search for <a href="/ufo-history/ufo-books/bernard-raymond-the-hollow-earth">The Hollow Earth</a>”) of the Adventures Unlimited softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/childress-david-hatcher' | relative_url }}">Childress, David Hatcher</a> in “Lost Continents &amp; <a href="{{ '/ufo-history/ufo-books/bernard-raymond-the-hollow-earth' | relative_url }}">The Hollow Earth</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (by David Hatcher Childress and Richard Shaver) at pages 244-252 (in the unnumbered chapter entitled “The Search for <a href="{{ '/ufo-history/ufo-books/bernard-raymond-the-hollow-earth' | relative_url }}">The Hollow Earth</a>”) of the Adventures Unlimited softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>9</p>
@@ -63,10 +63,10 @@ Many of the tables of references on this website are considerably longer than th
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-extraordinary-encounters">Extraordinary Encounters : An Encyclopedia of Extraterrestrials and Otherworldly Beings</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/1576072495/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1576072495/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 123 (in an entry entitled “Hollow Earth”) of the ABC-Clio hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-extraordinary-encounters' | relative_url }}">Extraordinary Encounters : An Encyclopedia of Extraterrestrials and Otherworldly Beings</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/1576072495/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1576072495/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 123 (in an entry entitled “Hollow Earth”) of the ABC-Clio hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -74,10 +74,10 @@ Many of the tables of references on this website are considerably longer than th
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq">The UFO Encyclopedia: 1st edition</a>: Volume 2 – Emergence of a Phenomenon” (<a href="/tags/1992">1992</a>) (available <a href="http://www.amazon.com/dp/1558887415/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558887415/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 203-204 (in an entry entitled “Hollow Earth and UFOs”) of the Omnigraphics hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq' | relative_url }}">The UFO Encyclopedia: 1st edition</a>: Volume 2 – Emergence of a Phenomenon” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="http://www.amazon.com/dp/1558887415/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558887415/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 203-204 (in an entry entitled “Hollow Earth and UFOs”) of the Omnigraphics hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -85,10 +85,10 @@ Many of the tables of references on this website are considerably longer than th
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a> : Volume 1:A-K” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 522 (forming part of an entry entitled “Hollow Earth and UFOs” at pages 520-524) of the Omnigraphics hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition' | relative_url }}">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a> : Volume 1:A-K” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 522 (forming part of an entry entitled “Hollow Earth and UFOs” at pages 520-524) of the Omnigraphics hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -96,10 +96,10 @@ Many of the tables of references on this website are considerably longer than th
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1978">1978</a></p>
+<p><a href="{{ '/tags/1978' | relative_url }}">1978</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/cohen-daniel">Cohen, Daniel</a> in his “<a href="/ufo-history/ufo-books/cohen-daniel-the-world-of-ufos">The World of UFOs</a>” (<a href="/tags/1978">1978</a>) (available <a href="http://www.amazon.com/dp/0397317808/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0397317808/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 126 (in Chapter 16) of the Lippincott hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/cohen-daniel' | relative_url }}">Cohen, Daniel</a> in his “<a href="{{ '/ufo-history/ufo-books/cohen-daniel-the-world-of-ufos' | relative_url }}">The World of UFOs</a>” (<a href="{{ '/tags/1978' | relative_url }}">1978</a>) (available <a href="http://www.amazon.com/dp/0397317808/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0397317808/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 126 (in Chapter 16) of the Lippincott hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -107,10 +107,10 @@ Many of the tables of references on this website are considerably longer than th
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fitzgerald-randall">Fitzgerald, Randall</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 248 (in an entry entitled “Hollow Earth, The”) of the New American Library softcover edition, at page 243 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }}">Fitzgerald, Randall</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0451204247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451204247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 248 (in an entry entitled “Hollow Earth, The”) of the New American Library softcover edition, at page 243 of the pdf edition (with the same page numbering in the Microsoft Word edition).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -118,10 +118,10 @@ Many of the tables of references on this website are considerably longer than th
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fitzgerald-randall">Fitzgerald, Randall</a> in “<a href="/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 300 (in an entry entitled “Hollow Earth, The”) of the Robinson softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }}">Fitzgerald, Randall</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters' | relative_url }}">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/1841196134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1841196134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 300 (in an entry entitled “Hollow Earth, The”) of the Robinson softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -129,10 +129,10 @@ Many of the tables of references on this website are considerably longer than th
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fitzgerald-randall">Fitzgerald, Randall</a> in his “<a href="/ufo-history/ufo-books/fitzgerald-randall-the-cosmic-test-tube">The Cosmic Test Tube</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0963916122/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963916122/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 130-131 (in Section 2) with a one sentence summary at page 371 (in the Guide To Books) of the Moonlake Media softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fitzgerald-randall' | relative_url }}">Fitzgerald, Randall</a> in his “<a href="{{ '/ufo-history/ufo-books/fitzgerald-randall-the-cosmic-test-tube' | relative_url }}">The Cosmic Test Tube</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0963916122/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0963916122/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 130-131 (in Section 2) with a one sentence summary at page 371 (in the Guide To Books) of the Moonlake Media softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -140,10 +140,10 @@ Many of the tables of references on this website are considerably longer than th
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1988">1988</a></p>
+<p><a href="{{ '/tags/1988' | relative_url }}">1988</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/gardner-martin">Gardner, Martin</a> in his “<a href="/ufo-history/ufo-books/gardner-martin-the-new-age-notes-of-a-fringe-watcher">The New Age - Notes of a Fringe Watcher</a>” (<a href="/tags/1988">1988</a>) (available <a href="http://www.amazon.com/dp/0879756446/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879756446/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 215-216 (in Chapter 30) of the Prometheus softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/gardner-martin' | relative_url }}">Gardner, Martin</a> in his “<a href="{{ '/ufo-history/ufo-books/gardner-martin-the-new-age-notes-of-a-fringe-watcher' | relative_url }}">The New Age - Notes of a Fringe Watcher</a>” (<a href="{{ '/tags/1988' | relative_url }}">1988</a>) (available <a href="http://www.amazon.com/dp/0879756446/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879756446/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 215-216 (in Chapter 30) of the Prometheus softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -151,10 +151,10 @@ Many of the tables of references on this website are considerably longer than th
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Kurland, Michael in his “<a href="/ufo-history/ufo-books/kurland-michael-the-complete-idiots-guide-to-extraterrestrial-intelligence">The Complete Idiot's Guide to Extraterrestrial Intelligence</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0028623878/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0028623878/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 165-166 (in Chapter 16) of the Alpha Books softcover edition.</p>
+<p>Kurland, Michael in his “<a href="{{ '/ufo-history/ufo-books/kurland-michael-the-complete-idiots-guide-to-extraterrestrial-intelligence' | relative_url }}">The Complete Idiot's Guide to Extraterrestrial Intelligence</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0028623878/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0028623878/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 165-166 (in Chapter 16) of the Alpha Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -162,10 +162,10 @@ Many of the tables of references on this website are considerably longer than th
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1974">1974</a></p>
+<p><a href="{{ '/tags/1974' | relative_url }}">1974</a></p>
 </td>
 <td valign="top" width="547">
-<p>Sladek, John in his “<a href="/ufo-history/ufo-books/sladek-john-the-new-apocrypha">The New Apocrypha</a>” (<a href="/tags/1974">1974</a>) (available <a href="http://www.amazon.com/dp/0812817125/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0812817125/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 36-37 (in Chapter 2) of the Panther paperback edition.</p>
+<p>Sladek, John in his “<a href="{{ '/ufo-history/ufo-books/sladek-john-the-new-apocrypha' | relative_url }}">The New Apocrypha</a>” (<a href="{{ '/tags/1974' | relative_url }}">1974</a>) (available <a href="http://www.amazon.com/dp/0812817125/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0812817125/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 36-37 (in Chapter 2) of the Panther paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -173,10 +173,10 @@ Many of the tables of references on this website are considerably longer than th
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1968">1968</a></p>
+<p><a href="{{ '/tags/1968' | relative_url }}">1968</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/steiger-brad">Steiger, Brad</a> and Whritenour, Joan in their “<a href="/ufo-history/ufo-books/steiger-brad-and-whritenour-joan-the-new-ufo-breakthrough">The New UFO Breakthrough</a>” (<a href="/tags/1968">1968</a>) (available <a href="http://www.amazon.com/dp/B000AV48KC/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000AV48KC/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 122-123 (in Chapter 9) of the Tandem paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/steiger-brad' | relative_url }}">Steiger, Brad</a> and Whritenour, Joan in their “<a href="{{ '/ufo-history/ufo-books/steiger-brad-and-whritenour-joan-the-new-ufo-breakthrough' | relative_url }}">The New UFO Breakthrough</a>” (<a href="{{ '/tags/1968' | relative_url }}">1968</a>) (available <a href="http://www.amazon.com/dp/B000AV48KC/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000AV48KC/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 122-123 (in Chapter 9) of the Tandem paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -184,10 +184,10 @@ Many of the tables of references on this website are considerably longer than th
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1966">1966</a></p>
+<p><a href="{{ '/tags/1966' | relative_url }}">1966</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/steiger-brad">Steiger, Brad</a> in his “Strangers from the Skies” (<a href="/tags/1966">1966</a>) (available <a href="http://www.amazon.com/dp/B0006CCFX2/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0006CCFX2/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 121 (in Chapter 25) of the Award Books paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/steiger-brad' | relative_url }}">Steiger, Brad</a> in his “Strangers from the Skies” (<a href="{{ '/tags/1966' | relative_url }}">1966</a>) (available <a href="http://www.amazon.com/dp/B0006CCFX2/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0006CCFX2/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 121 (in Chapter 25) of the Award Books paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -195,10 +195,10 @@ Many of the tables of references on this website are considerably longer than th
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/x-commander">X, Commander</a> in his “Underground Alien Bases” (<a href="/tags/1990">1990</a>) at page 103 (in the unnumbered chapter entitled “Flying Saucers From the Earth’s Interior”) of the Abelard softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/x-commander' | relative_url }}">X, Commander</a> in his “Underground Alien Bases” (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) at page 103 (in the unnumbered chapter entitled “Flying Saucers From the Earth’s Interior”) of the Abelard softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

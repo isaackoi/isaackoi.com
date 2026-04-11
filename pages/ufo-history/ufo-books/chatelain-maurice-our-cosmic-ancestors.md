@@ -14,7 +14,7 @@ header: {"preview_image": "https://covers.openlibrary.org/b/isbn/0929686004-L.jp
 book: {"identifiers": ["0929686004", "0060186429", "0760704406", "0944255000"], "primary_isbn": "0929686004", "cover_image": "https://covers.openlibrary.org/b/isbn/0929686004-L.jpg?default=false", "cover_source": "openlibrary"}
 ---
 
-Brief review to be added of [Maurice Chatelain](/ufo-history/ufo-personalities/chatelain-maurice)'s book “[Our Cosmic Ancestors](/ufo-history/ufo-books/chatelain-maurice-our-cosmic-ancestors)” ([1987](/tags/1987)) (available [on Amazon USA](http://www.amazon.com/dp/0929686004/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0929686004/?&tag=ufot-21))
+Brief review to be added of [Maurice Chatelain]({{ '/ufo-history/ufo-personalities/chatelain-maurice' | relative_url }})'s book “[Our Cosmic Ancestors]({{ '/ufo-history/ufo-books/chatelain-maurice-our-cosmic-ancestors' | relative_url }})” ([1987]({{ '/tags/1987' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0929686004/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0929686004/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1987">1987</a></p>
+<p><a href="{{ '/tags/1987' | relative_url }}">1987</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/berlitz-charles">Berlitz, Charles</a> in Maurice Chatelain’s “<a href="/ufo-history/ufo-books/chatelain-maurice-our-cosmic-ancestors">Our Cosmic Ancestors</a>” (<a href="/tags/1987">1987</a>) (available <a href="http://www.amazon.com/dp/0929686004/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0929686004/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 2-3 (in the Foreword) of the Temple Golden Publications softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/berlitz-charles' | relative_url }}">Berlitz, Charles</a> in Maurice Chatelain’s “<a href="{{ '/ufo-history/ufo-books/chatelain-maurice-our-cosmic-ancestors' | relative_url }}">Our Cosmic Ancestors</a>” (<a href="{{ '/tags/1987' | relative_url }}">1987</a>) (available <a href="http://www.amazon.com/dp/0929686004/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0929686004/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 2-3 (in the Foreword) of the Temple Golden Publications softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -65,10 +65,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/marrs-jim">Marrs, Jim</a> in his “<a href="/ufo-history/ufo-books/marrs-jim-alien-agenda">Alien Agenda</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0060186429/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0060186429/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 20-21 (in Chapter 1) of the Harper Collins paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/marrs-jim' | relative_url }}">Marrs, Jim</a> in his “<a href="{{ '/ufo-history/ufo-books/marrs-jim-alien-agenda' | relative_url }}">Alien Agenda</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0060186429/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0060186429/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 20-21 (in Chapter 1) of the Harper Collins paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -76,10 +76,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> and <a href="/ufo-history/ufo-personalities/hough-peter">Hough, Peter</a> in their “<a href="/ufo-history/ufo-books/randles-jenny-and-hough-peter-looking-for-the-aliens">Looking for the Aliens</a>” (<a href="/tags/1991">1991</a>) (available <a href="http://www.amazon.com/dp/0760704406/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0760704406/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 153 (in Chapter 17) of the Blandford softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> and <a href="{{ '/ufo-history/ufo-personalities/hough-peter' | relative_url }}">Hough, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-hough-peter-looking-for-the-aliens' | relative_url }}">Looking for the Aliens</a>” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/0760704406/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0760704406/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 153 (in Chapter 17) of the Blandford softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -87,10 +87,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1987">1987</a></p>
+<p><a href="{{ '/tags/1987' | relative_url }}">1987</a></p>
 </td>
 <td valign="top" width="547">
-<p>Ross, Daniel in his “<a href="/ufo-history/ufo-books/ross-daniel-ufos-and-the-complete-evidence-from-space-the-truth-about-venus-mars-and-the-moon">UFOs and the Complete Evidence from Space: The Truth About Venus, Mars and the Moon</a>” (<a href="/tags/1987">1987</a>) (available <a href="http://www.amazon.com/dp/0944255000/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0944255000/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 128, 129-130 (in Chapter 7) of the Pintado softcover edition.</p>
+<p>Ross, Daniel in his “<a href="{{ '/ufo-history/ufo-books/ross-daniel-ufos-and-the-complete-evidence-from-space-the-truth-about-venus-mars-and-the-moon' | relative_url }}">UFOs and the Complete Evidence from Space: The Truth About Venus, Mars and the Moon</a>” (<a href="{{ '/tags/1987' | relative_url }}">1987</a>) (available <a href="http://www.amazon.com/dp/0944255000/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0944255000/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 128, 129-130 (in Chapter 7) of the Pintado softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>

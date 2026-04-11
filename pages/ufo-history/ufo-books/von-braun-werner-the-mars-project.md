@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0252062272.jpg"}
 book: {"identifiers": ["0252062272", "0684848562", "0002570300", "1883319617"], "primary_isbn": "0252062272", "cover_image": "/book-covers/0252062272.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Werner von Braun](/ufo-history/ufo-personalities/von-braun-werner)'s book “[The Mars Project](/ufo-history/ufo-books/von-braun-werner-the-mars-project)” ([1953](/tags/1953)) (available [on Amazon USA](http://www.amazon.com/dp/0252062272/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0252062272/?&tag=ufot-21))
+Brief review to be added of [Werner von Braun]({{ '/ufo-history/ufo-personalities/von-braun-werner' | relative_url }})'s book “[The Mars Project]({{ '/ufo-history/ufo-books/von-braun-werner-the-mars-project' | relative_url }})” ([1953]({{ '/tags/1953' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0252062272/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0252062272/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -34,7 +34,7 @@ The table below includes references to relevant discussions in UFO/SETI books no
 
 Many of the tables of references on this website are considerably longer than the references to books found on most other UFO websites. Indeed, some are probably the longest that have been collated in relation to some events and personalities. I hope that these tables are found to be a useful contribution to UFOlogy.
 
-For discussion of “[The Mars Project](/ufo-history/ufo-books/von-braun-werner-the-mars-project)” see the following:
+For discussion of “[The Mars Project]({{ '/ufo-history/ufo-books/von-braun-werner-the-mars-project' | relative_url }})” see the following:
 
 <table border="1" cellpadding="0" cellspacing="0" class="sortable" data-sortable="true" id="sortabletable">
 <thead>
@@ -54,10 +54,10 @@ For discussion of “[The Mars Project](/ufo-history/ufo-books/von-braun-werner-
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Achenbach, Joel in his “<a href="/ufo-history/ufo-books/achenbach-joel-captured-by-aliens">Captured by Aliens</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0684848562/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684848562/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 257 (in Chapter 25) of the Simon and Schuster hardback edition.</p>
+<p>Achenbach, Joel in his “<a href="{{ '/ufo-history/ufo-books/achenbach-joel-captured-by-aliens' | relative_url }}">Captured by Aliens</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0684848562/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684848562/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 257 (in Chapter 25) of the Simon and Schuster hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -65,10 +65,10 @@ For discussion of “[The Mars Project](/ufo-history/ufo-books/von-braun-werner-
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p>Bergreen, Laurence in his “<a href="/ufo-history/ufo-books/bergreen-laurence-the-quest-for-mars">The Quest For Mars</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/0002570300/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0002570300/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 65-66 (in Chapter 3) of the Harper hardback edition.</p>
+<p>Bergreen, Laurence in his “<a href="{{ '/ufo-history/ufo-books/bergreen-laurence-the-quest-for-mars' | relative_url }}">The Quest For Mars</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/0002570300/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0002570300/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 65-66 (in Chapter 3) of the Harper hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -76,10 +76,10 @@ For discussion of “[The Mars Project](/ufo-history/ufo-books/von-braun-werner-
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/rux-bruce">Rux, Bruce</a> in his “<a href="/ufo-history/ufo-books/rux-bruce-hollywood-vs-the-aliens">Hollywood Vs. the Aliens</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1883319617/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1883319617/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 61-62 (in the Introduction), 210 (in Chapter 4) of the Frog softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/rux-bruce' | relative_url }}">Rux, Bruce</a> in his “<a href="{{ '/ufo-history/ufo-books/rux-bruce-hollywood-vs-the-aliens' | relative_url }}">Hollywood Vs. the Aliens</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1883319617/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1883319617/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 61-62 (in the Introduction), 210 (in Chapter 4) of the Frog softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -87,10 +87,10 @@ For discussion of “[The Mars Project](/ufo-history/ufo-books/von-braun-werner-
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1953">1953</a></p>
+<p><a href="{{ '/tags/1953' | relative_url }}">1953</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/von-braun-werner">Von Braun, Werner</a> in his “<a href="/ufo-history/ufo-books/von-braun-werner-the-mars-project">The Mars Project</a>” (<a href="/tags/1953">1953</a>) at pages xv-xviii (in the Preface to the <a href="/tags/1962">1962</a> Edition) of the <a href="/tags/1991">1991</a> Illini Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/von-braun-werner' | relative_url }}">Von Braun, Werner</a> in his “<a href="{{ '/ufo-history/ufo-books/von-braun-werner-the-mars-project' | relative_url }}">The Mars Project</a>” (<a href="{{ '/tags/1953' | relative_url }}">1953</a>) at pages xv-xviii (in the Preface to the <a href="{{ '/tags/1962' | relative_url }}">1962</a> Edition) of the <a href="{{ '/tags/1991' | relative_url }}">1991</a> Illini Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>

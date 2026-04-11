@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -63,10 +63,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1976">1976</a></p>
+<p><a href="{{ '/tags/1976' | relative_url }}">1976</a></p>
 </td>
 <td valign="top" width="547">
-<p>Holzer, Hans in his “<a href="/ufo-history/ufo-books/holzer-hans-the-ufonauts">The UFOnauts</a>” (<a href="/tags/1976">1976</a>) (available <a href="http://www.amazon.com/dp/0449135691/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0449135691/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 46-47 (in Chapter 2) of the Fawcett Gold Medal paperback edition.</p>
+<p>Holzer, Hans in his “<a href="{{ '/ufo-history/ufo-books/holzer-hans-the-ufonauts' | relative_url }}">The UFOnauts</a>” (<a href="{{ '/tags/1976' | relative_url }}">1976</a>) (available <a href="http://www.amazon.com/dp/0449135691/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0449135691/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 46-47 (in Chapter 2) of the Fawcett Gold Medal paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -74,10 +74,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/olsen-thomas-m">Olsen, Thomas M</a> in “<a href="/ufo-history/ufo-books/story-ronald-editor-and-green-j-richard-consulting-editor-the-encyclopedia-of-ufos">The Encyclopedia of UFOs</a>” (<a href="/tags/1980">1980</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0385136773/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0385136773/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 202-205 (in an entry entitled “Lansing movie”) of the NEL hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/olsen-thomas-m' | relative_url }}">Olsen, Thomas M</a> in “<a href="{{ '/ufo-history/ufo-books/story-ronald-editor-and-green-j-richard-consulting-editor-the-encyclopedia-of-ufos' | relative_url }}">The Encyclopedia of UFOs</a>” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/0385136773/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0385136773/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 202-205 (in an entry entitled “Lansing movie”) of the NEL hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -85,10 +85,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1993">1993</a></p>
+<p><a href="{{ '/tags/1993' | relative_url }}">1993</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-aliens">Aliens</a>” (<a href="/tags/1993">1993</a>) (available <a href="http://www.amazon.com/dp/0709050259/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0709050259/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 115-116 (in Part 5) of the Hale hardback edition (with the same page numbering in the Sterling softcover edition published under the title “Alien Contacts and Abductions”).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-aliens' | relative_url }}">Aliens</a>” (<a href="{{ '/tags/1993' | relative_url }}">1993</a>) (available <a href="http://www.amazon.com/dp/0709050259/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0709050259/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 115-116 (in Part 5) of the Hale hardback edition (with the same page numbering in the Sterling softcover edition published under the title “Alien Contacts and Abductions”).</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -96,10 +96,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1983">1983</a></p>
+<p><a href="{{ '/tags/1983' | relative_url }}">1983</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/schwarz-berthold-e">Schwarz, Berthold E</a> in his “<a href="/ufo-history/ufo-books/schwarz-berthold-e-ufo-dynamics-psychiatric-and-psychic-aspects-of-the-ufo-syndrome">UFO Dynamics : Psychiatric and Psychic Aspects of the UFO Syndrome</a>” (<a href="/tags/1983">1983</a>) (available <a href="http://www.amazon.com/dp/0935834648/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0935834648/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages xix, xxii (in the Introduction), 361-380 (in Chapter 20), 381-403 (in Chapter 20), 404-468 (in Chapter 22) of the <a href="/tags/1988">1988</a> revised Rainbow Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/schwarz-berthold-e' | relative_url }}">Schwarz, Berthold E</a> in his “<a href="{{ '/ufo-history/ufo-books/schwarz-berthold-e-ufo-dynamics-psychiatric-and-psychic-aspects-of-the-ufo-syndrome' | relative_url }}">UFO Dynamics : Psychiatric and Psychic Aspects of the UFO Syndrome</a>” (<a href="{{ '/tags/1983' | relative_url }}">1983</a>) (available <a href="http://www.amazon.com/dp/0935834648/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0935834648/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages xix, xxii (in the Introduction), 361-380 (in Chapter 20), 381-403 (in Chapter 20), 404-468 (in Chapter 22) of the <a href="{{ '/tags/1988' | relative_url }}">1988</a> revised Rainbow Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>110</p>
@@ -108,10 +108,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1976">1976</a></p>
+<p><a href="{{ '/tags/1976' | relative_url }}">1976</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/steiger-brad">Steiger, Brad</a> in his “<a href="/ufo-history/ufo-books/steiger-brad-gods-of-aquarius">Gods of Aquarius</a>” (<a href="/tags/1976">1976</a>) (available <a href="http://www.amazon.com/dp/015136415X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/015136415X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 219-221 (in Chapter 10) of the Granada paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/steiger-brad' | relative_url }}">Steiger, Brad</a> in his “<a href="{{ '/ufo-history/ufo-books/steiger-brad-gods-of-aquarius' | relative_url }}">Gods of Aquarius</a>” (<a href="{{ '/tags/1976' | relative_url }}">1976</a>) (available <a href="http://www.amazon.com/dp/015136415X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/015136415X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 219-221 (in Chapter 10) of the Granada paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>

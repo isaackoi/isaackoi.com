@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/talbot_michael_1.jpg"}
 ---
 
-![talbot_michael_1](/images/stories/ufo_personalities/talbot_michael_1.jpg)
+![talbot_michael_1]({{ '/images/stories/ufo_personalities/talbot_michael_1.jpg' | relative_url }})
 
 *Michael Talbot*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/talbot-michael">Talbot, Michael</a> “<a href="/ufo-history/ufo-books/talbot-michael-the-holographic-universe">The Holographic Universe</a>” (<a href="/tags/1991">1991</a>) (available <a href="http://www.amazon.com/dp/0060922583/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0060922583/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/talbot-michael' | relative_url }}">Talbot, Michael</a> “<a href="{{ '/ufo-history/ufo-books/talbot-michael-the-holographic-universe' | relative_url }}">The Holographic Universe</a>” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/0060922583/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0060922583/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>

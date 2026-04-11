@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0880642335.jpg"}
 book: {"identifiers": ["0880642335"], "primary_isbn": "0880642335", "cover_image": "/book-covers/0880642335.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of Andrew J H Clark and David H Clark's book “[Aliens](/ufo-history/ufo-books/clark-andrew-j-h-and-clark-david-h-aliens)” ([1999](/tags/1999)) (available [on Amazon USA](http://www.amazon.com/dp/0880642335/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0880642335/?&tag=ufot-21))
+Brief review to be added of Andrew J H Clark and David H Clark's book “[Aliens]({{ '/ufo-history/ufo-books/clark-andrew-j-h-and-clark-david-h-aliens' | relative_url }})” ([1999]({{ '/tags/1999' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0880642335/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0880642335/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -52,10 +52,10 @@ Many of the tables of references on this website are considerably longer than th
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Clark, Andrew J H and Clark, David H in their “<a href="/ufo-history/ufo-books/clark-andrew-j-h-and-clark-david-h-aliens">Aliens</a>“ (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0880642335/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0880642335/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 1-2 (in Chapter 1) of the Fromm hardback edition.</p>
+<p>Clark, Andrew J H and Clark, David H in their “<a href="{{ '/ufo-history/ufo-books/clark-andrew-j-h-and-clark-david-h-aliens' | relative_url }}">Aliens</a>“ (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0880642335/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0880642335/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 1-2 (in Chapter 1) of the Fromm hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

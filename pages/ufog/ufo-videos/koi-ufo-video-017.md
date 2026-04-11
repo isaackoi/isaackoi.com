@@ -38,9 +38,9 @@ This video appears to show a family in a car being frightened by an approaching 
 
 Screen shots from the video are included below for ease of identification:
 
-![](/images/stories/ufo_videos/video017_1.JPG)
+![]({{ '/images/stories/ufo_videos/video017_1.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video017_2.JPG)
+![]({{ '/images/stories/ufo_videos/video017_2.JPG' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this video
@@ -52,7 +52,7 @@ The above video is probably the most dramatic of a collection of 31 videos that 
 
 The entire series of 31 videos that were uploaded to Youtube in 2006 purportedly showing UFOs over Australia, including the above video of a UFO approaching a family in a car, were a hoax (or rather an "immersive artwork") by Christopher Kenworthy funded by the Australian Film Commission.
 
-![](/images/stories/ufo_videos/video017_7.jpg)
+![]({{ '/images/stories/ufo_videos/video017_7.jpg' | relative_url }})
 
 The real background to the 2006 Australian "ufo wave" videos was detailed on the Australian UFO Wave website, which is now defunct - but [an archived copy of that website still be found via the Wayback Machine's Internet Archive](https://web.archive.org/web/20070205053157/http://australianufowave.com/).
 
@@ -64,9 +64,9 @@ That website included all 31 videos in the "Australian UFO wave" series. Christo
 
 [https://www.youtube.com/watch?v=XJvquhoCieo](https://www.youtube.com/watch?v=XJvquhoCieo)
 
-![](/images/stories/ufo_videos/video017_3.JPG)
+![]({{ '/images/stories/ufo_videos/video017_3.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video017_4.JPG)
+![]({{ '/images/stories/ufo_videos/video017_4.JPG' | relative_url }})
 
 Quite a few people initially fell for this hoax, as can be seen from the titles of relevant discussion threads on the Internet - which often referred to "good" or "amazing" footage...
 
@@ -74,11 +74,11 @@ Of course, quite a few people did conclude the footage was composited using soft
 
 Incidentally, a statement on Christopher Kenworthy's website that "Nobody suspected it was a hoax until the end" is, um, questionable since several people (including me) had suggested it was probably composited imagery - as can be seen from the discussions at the links in Section 4 below. Indeed, one of the earliest discussions of the videos had the following title: "CGI killing real UFO sightings. Take a look at this Australia video". Moreover, several researchers also expressly referred to some of the actual techniques which the hoaxers (sorry, "artists") later admitted they used (e.g. compositing of several layers of footage, including a layer of a real environment/witness on top of a layer which has a light/ufo moving about).
 
-![](/images/stories/ufo_videos/video017_6.JPG)
+![]({{ '/images/stories/ufo_videos/video017_6.JPG' | relative_url }})
 
 Christopher Kenworthy had previously written[a book entitled "Digital Video Production Cookbook"](http://www.amazon.com/exec/obidos/tg/detail/-/0596100310?v=glance)which includes details of compositing techniques. I found that book very interesting, but would have welcomed a longer section about the creation of UFO videos.
 
-![](/images/stories/ufo_videos/video017_5.JPG)
+![]({{ '/images/stories/ufo_videos/video017_5.JPG' | relative_url }})
 
 Christopher Kenworthy was subsequently stated the following in [an interview by the ufowatchdog website](http://www.ufowatchdog.com/aussieufo3.html): “Some have suggested that I could have simply offered fake clips up to researchers, to demonstrate the fakery, without any deception. But the moment you tell people it's a fake, they say, 'Oh yes, it's obviously a fake, I'd never be convinced by that.' Lots of websites are rewriting their opinion of my clips now that we've revealed the truth. Some are even pretending that haven't seen the revelation, and that they worked this out by themselves. Because people want to look like experts who could never be fooled, nobody will admit that forged footage looks convincing. The only way to make them see the power of a fake, is to present it as real.
 
@@ -105,4 +105,4 @@ Discussed on the Aliens-UFOs.com forum at:
 
 [http://www.alien-ufos.com/forum/showthread.php?t=17948](http://www.alien-ufos.com/forum/showthread.php?t=17948)
 
-![](/images/stories/ufo_videos/video017_1d.jpg)
+![]({{ '/images/stories/ufo_videos/video017_1d.jpg' | relative_url }})

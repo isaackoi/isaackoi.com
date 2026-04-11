@@ -13,7 +13,7 @@ planned_sections: ["1. The relevant image", "2. Stories and claims relating to t
 header: {"preview_image": "/images/stories/alien_photos/koi_ap_32_a.jpg"}
 ---
 
-![](/images/stories/alien_photos/koi_ap_32_a.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_32_a.jpg' | relative_url }})
 
 *Koi Alien Photo 32*
 
@@ -42,9 +42,9 @@ Sections below:
 <a id="image"></a>
 ### 1. The relevant image
 
-![](/images/stories/alien_photos/koi_ap_32_a.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_32_a.jpg' | relative_url }})
 
-![](/images/stories/alien_photos/koi_ap_32_b.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_32_b.jpg' | relative_url }})
 
 ### 2. Stories and claims relating to this image
 

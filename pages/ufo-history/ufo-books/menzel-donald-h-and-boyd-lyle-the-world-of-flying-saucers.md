@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/013117424X.jpg"}
 book: {"identifiers": ["B0015NVBB8", "013117424X", "0200716778", "0253190061", "0815970005", "B000ILEK2A"], "primary_isbn": "013117424X", "cover_image": "/book-covers/013117424X.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of “[The World of Flying Saucers](/ufo-history/ufo-books/menzel-donald-h-and-boyd-lyle-the-world-of-flying-saucers)” ([1963](/tags/1963)) (available [on Amazon USA](http://www.amazon.com/dp/B0015NVBB8/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B0015NVBB8/?&tag=ufot-21)) by [Donald H Menzel](/ufo-history/ufo-personalities/menzel-donald-h) and [Lyle Boyd](/ufo-history/ufo-personalities/boyd-lyle).
+Brief review to be added of “[The World of Flying Saucers]({{ '/ufo-history/ufo-books/menzel-donald-h-and-boyd-lyle-the-world-of-flying-saucers' | relative_url }})” ([1963]({{ '/tags/1963' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/B0015NVBB8/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B0015NVBB8/?&tag=ufot-21)) by [Donald H Menzel]({{ '/ufo-history/ufo-personalities/menzel-donald-h' | relative_url }}) and [Lyle Boyd]({{ '/ufo-history/ufo-personalities/boyd-lyle' | relative_url }}).
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion of this book see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1976">1976</a></p>
+<p><a href="{{ '/tags/1976' | relative_url }}">1976</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/bufora">BUFORA</a> in its “UFO Investigation” (<a href="/tags/1976">1976</a>) in Appendix 16, entry 21 of the spiral bound first edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/bufora' | relative_url }}">BUFORA</a> in its “UFO Investigation” (<a href="{{ '/tags/1976' | relative_url }}">1976</a>) in Appendix 16, entry 21 of the spiral bound first edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -65,10 +65,10 @@ For discussion of this book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1981">1981</a></p>
+<p><a href="{{ '/tags/1981' | relative_url }}">1981</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fowler-raymond-e">Fowler, Raymond E</a> in his “<a href="/ufo-history/ufo-books/fowler-raymond-e-casebook-of-a-ufo-investigator">Casebook of a UFO Investigator</a>” (<a href="/tags/1981">1981</a>) (available <a href="http://www.amazon.com/dp/013117424X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/013117424X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 31 (in Chapter 3) of the Prentice-Hall hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fowler-raymond-e' | relative_url }}">Fowler, Raymond E</a> in his “<a href="{{ '/ufo-history/ufo-books/fowler-raymond-e-casebook-of-a-ufo-investigator' | relative_url }}">Casebook of a UFO Investigator</a>” (<a href="{{ '/tags/1981' | relative_url }}">1981</a>) (available <a href="http://www.amazon.com/dp/013117424X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/013117424X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 31 (in Chapter 3) of the Prentice-Hall hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -76,10 +76,10 @@ For discussion of this book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1970">1970</a></p>
+<p><a href="{{ '/tags/1970' | relative_url }}">1970</a></p>
 </td>
 <td valign="top" width="547">
-<p>Gurney, Gene (USAF Lt Col) and Gurney, Clare in their “Unidentified Flying Objects” (<a href="/tags/1970">1970</a>) (available <a href="http://www.amazon.com/dp/0200716778/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0200716778/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 119-120 (in Chapter 9) of the Abelard-Schuman hardback edition.</p>
+<p>Gurney, Gene (USAF Lt Col) and Gurney, Clare in their “Unidentified Flying Objects” (<a href="{{ '/tags/1970' | relative_url }}">1970</a>) (available <a href="http://www.amazon.com/dp/0200716778/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0200716778/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 119-120 (in Chapter 9) of the Abelard-Schuman hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -87,10 +87,10 @@ For discussion of this book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1975">1975</a></p>
+<p><a href="{{ '/tags/1975' | relative_url }}">1975</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/jacobs-david-michael">Jacobs, David Michael</a> in his “<a href="/ufo-history/ufo-books/jacobs-david-michael-the-ufo-controversy-in-america">The UFO Controversy in America</a>” (<a href="/tags/1975">1975</a>) (available <a href="http://www.amazon.com/dp/0253190061/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0253190061/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 188-189 (in Chapter 7, “The Battle for Congressional Hearings”) of the Indiana hardback edition, pages 166-167 of the Signet paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/jacobs-david-michael' | relative_url }}">Jacobs, David Michael</a> in his “<a href="{{ '/ufo-history/ufo-books/jacobs-david-michael-the-ufo-controversy-in-america' | relative_url }}">The UFO Controversy in America</a>” (<a href="{{ '/tags/1975' | relative_url }}">1975</a>) (available <a href="http://www.amazon.com/dp/0253190061/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0253190061/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 188-189 (in Chapter 7, “The Battle for Congressional Hearings”) of the Indiana hardback edition, pages 166-167 of the Signet paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -98,10 +98,10 @@ For discussion of this book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1974">1974</a></p>
+<p><a href="{{ '/tags/1974' | relative_url }}">1974</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/salisbury-frank">Salisbury, Frank</a> in his “The Utah UFO Display: A Biologist’s Report” (<a href="/tags/1974">1974</a>) (available <a href="http://www.amazon.com/dp/0815970005/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0815970005/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 226 (in the Appendix entitled “The Literature of Ufology”) of the Devin Adair hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/salisbury-frank' | relative_url }}">Salisbury, Frank</a> in his “The Utah UFO Display: A Biologist’s Report” (<a href="{{ '/tags/1974' | relative_url }}">1974</a>) (available <a href="http://www.amazon.com/dp/0815970005/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0815970005/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 226 (in the Appendix entitled “The Literature of Ufology”) of the Devin Adair hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -109,10 +109,10 @@ For discussion of this book see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1966">1966</a></p>
+<p><a href="{{ '/tags/1966' | relative_url }}">1966</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/stanton-l-jerome">Stanton, L Jerome</a> in his “<a href="/ufo-history/ufo-books/stanton-l-jerome-flying-saucers-hoax-or-reality">Flying Saucers : Hoax or Reality?</a>” (<a href="/tags/1966">1966</a>) (available <a href="http://www.amazon.com/dp/B000ILEK2A/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000ILEK2A/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 99 (in Chapter 6) of the Belmont paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/stanton-l-jerome' | relative_url }}">Stanton, L Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/stanton-l-jerome-flying-saucers-hoax-or-reality' | relative_url }}">Flying Saucers : Hoax or Reality?</a>” (<a href="{{ '/tags/1966' | relative_url }}">1966</a>) (available <a href="http://www.amazon.com/dp/B000ILEK2A/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000ILEK2A/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 99 (in Chapter 6) of the Belmont paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

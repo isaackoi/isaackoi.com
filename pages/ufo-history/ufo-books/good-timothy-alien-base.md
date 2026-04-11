@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0712678123.jpg"}
 book: {"identifiers": ["0712678123"], "primary_isbn": "0712678123", "cover_image": "/book-covers/0712678123.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Timothy Good](/ufo-history/ufo-personalities/good-timothy)'s book “[Alien Base](/ufo-history/ufo-books/good-timothy-alien-base)” ([1998](/tags/1998)) (available [on Amazon USA](http://www.amazon.com/dp/0712678123/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0712678123/?&tag=ufot-21))
+Brief review to be added of [Timothy Good]({{ '/ufo-history/ufo-personalities/good-timothy' | relative_url }})'s book “[Alien Base]({{ '/ufo-history/ufo-books/good-timothy-alien-base' | relative_url }})” ([1998]({{ '/tags/1998' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0712678123/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0712678123/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

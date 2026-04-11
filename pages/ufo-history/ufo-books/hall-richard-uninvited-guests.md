@@ -14,7 +14,7 @@ header: {"preview_image": "https://covers.openlibrary.org/b/isbn/0943358329-L.jp
 book: {"identifiers": ["0943358329", "1862041350", "092652433X"], "primary_isbn": "0943358329", "cover_image": "https://covers.openlibrary.org/b/isbn/0943358329-L.jpg?default=false", "cover_source": "openlibrary"}
 ---
 
-Brief review to be added of [Richard Hall](/ufo-history/ufo-personalities/hall-richard-h)'s book “[Uninvited Guests](/ufo-history/ufo-books/hall-richard-uninvited-guests)” ([1988](/tags/1988)) (available [on Amazon USA](http://www.amazon.com/dp/0943358329/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0943358329/?&tag=ufot-21))
+Brief review to be added of [Richard Hall]({{ '/ufo-history/ufo-personalities/hall-richard-h' | relative_url }})'s book “[Uninvited Guests]({{ '/ufo-history/ufo-books/hall-richard-uninvited-guests' | relative_url }})” ([1988]({{ '/tags/1988' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0943358329/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0943358329/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p>Van Dyk, Gregory in his “<a href="/ufo-history/ufo-books/van-dyk-gregory-the-alien-files">The Alien Files</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1862041350/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1862041350/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 34-35 (in Chapter 3), 64 (in Chapter 4) of the Element paperback edition.</p>
+<p>Van Dyk, Gregory in his “<a href="{{ '/ufo-history/ufo-books/van-dyk-gregory-the-alien-files' | relative_url }}">The Alien Files</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1862041350/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1862041350/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 34-35 (in Chapter 3), 64 (in Chapter 4) of the Element paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -65,10 +65,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/dennett-preston">Dennett, Preston</a> E in his “<a href="/ufo-history/ufo-books/dennett-preston-e-ufo-healings">UFO Healings</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/092652433X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/092652433X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 13-14 (in Chapter 2) of the Wild Flower Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dennett-preston' | relative_url }}">Dennett, Preston</a> E in his “<a href="{{ '/ufo-history/ufo-books/dennett-preston-e-ufo-healings' | relative_url }}">UFO Healings</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/092652433X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/092652433X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 13-14 (in Chapter 2) of the Wild Flower Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -76,10 +76,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="547">
-<p>Twiggs, Denise and Twiggs, Bert in their “<a href="/ufo-history/ufo-books/twiggs-denise-and-twiggs-bert-secret-vows">Secret Vows</a>” (<a href="/tags/1992">1992</a>) at pages 1, 3 (in Chapter 1) of the Berkley paperback edition.</p>
+<p>Twiggs, Denise and Twiggs, Bert in their “<a href="{{ '/ufo-history/ufo-books/twiggs-denise-and-twiggs-bert-secret-vows' | relative_url }}">Secret Vows</a>” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) at pages 1, 3 (in Chapter 1) of the Berkley paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

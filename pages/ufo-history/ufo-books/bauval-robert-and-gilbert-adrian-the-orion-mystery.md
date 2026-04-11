@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0517884542.jpg"}
 book: {"identifiers": ["0517884542", "1883319463", "089281750X", "0713727829"], "primary_isbn": "0517884542", "cover_image": "/book-covers/0517884542.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of Bauval, Robert and Gilbert, Adrian “[The Orion Mystery](/ufo-history/ufo-books/bauval-robert-and-gilbert-adrian-the-orion-mystery)” ([1994](/tags/1994)) (available [on Amazon USA](http://www.amazon.com/dp/0517884542/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0517884542/?&tag=ufot-21))
+Brief review to be added of Bauval, Robert and Gilbert, Adrian “[The Orion Mystery]({{ '/ufo-history/ufo-books/bauval-robert-and-gilbert-adrian-the-orion-mystery' | relative_url }})” ([1994]({{ '/tags/1994' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0517884542/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0517884542/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -52,10 +52,10 @@ Many of the tables of references on this website are considerably longer than th
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/rux-bruce">Rux, Bruce</a> in his “<a href="/ufo-history/ufo-books/rux-bruce-architects-of-the-underworld">Architects of the Underworld</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/1883319463/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1883319463/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 286 (in Chapter 8) of the Frog softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/rux-bruce' | relative_url }}">Rux, Bruce</a> in his “<a href="{{ '/ufo-history/ufo-books/rux-bruce-architects-of-the-underworld' | relative_url }}">Architects of the Underworld</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/1883319463/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1883319463/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 286 (in Chapter 8) of the Frog softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -63,10 +63,10 @@ Many of the tables of references on this website are considerably longer than th
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1976">1976</a></p>
+<p><a href="{{ '/tags/1976' | relative_url }}">1976</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/temple-robert">Temple, Robert</a> in his “<a href="/ufo-history/ufo-books/temple-robert-the-sirius-mystery">The Sirius Mystery</a>” (<a href="/tags/1976">1976</a>) (available <a href="http://www.amazon.com/dp/089281750X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/089281750X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 34, 56-57 (in Chapter 1) of the <a href="/tags/1998">1998</a> revised Arrow paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/temple-robert' | relative_url }}">Temple, Robert</a> in his “<a href="{{ '/ufo-history/ufo-books/temple-robert-the-sirius-mystery' | relative_url }}">The Sirius Mystery</a>” (<a href="{{ '/tags/1976' | relative_url }}">1976</a>) (available <a href="http://www.amazon.com/dp/089281750X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/089281750X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 34, 56-57 (in Chapter 1) of the <a href="{{ '/tags/1998' | relative_url }}">1998</a> revised Arrow paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -74,10 +74,10 @@ Many of the tables of references on this website are considerably longer than th
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Coomer, David in his “<a href="/ufo-history/ufo-books/coomer-david-the-ufo-investigators-guide">The UFO Investigator’s Guide</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0713727829/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713727829/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 14-15 (in the Introduction) of the Blandford softback edition.</p>
+<p>Coomer, David in his “<a href="{{ '/ufo-history/ufo-books/coomer-david-the-ufo-investigators-guide' | relative_url }}">The UFO Investigator’s Guide</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0713727829/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713727829/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 14-15 (in the Introduction) of the Blandford softback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0965377431.jpg"}
 book: {"identifiers": ["0965377431"], "primary_isbn": "0965377431", "cover_image": "/book-covers/0965377431.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Seth Shostak](/ufo-history/ufo-personalities/shostak-seth)'s book “[Sharing the Universe](/ufo-history/ufo-books/shostak-seth-sharing-the-universe)” ([1998](/tags/1998)) (available [on Amazon USA](http://www.amazon.com/dp/0965377431/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0965377431/?&tag=ufot-21))
+Brief review to be added of [Seth Shostak]({{ '/ufo-history/ufo-personalities/shostak-seth' | relative_url }})'s book “[Sharing the Universe]({{ '/ufo-history/ufo-books/shostak-seth-sharing-the-universe' | relative_url }})” ([1998]({{ '/tags/1998' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0965377431/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0965377431/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0894805002.jpg"}
 book: {"identifiers": ["0894805002"], "primary_isbn": "0894805002", "cover_image": "/book-covers/0894805002.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of Wayne Douglas Barlowe and Ian Summer and Beth Meacham's “[Barlowe's Guide to Extraterrestrials](/ufo-history/ufo-books/barlowe-wayne-douglas-and-summer-ian-and-meacham-beth-barlowes-guide-to-extraterrestrials)” ([1979](/tags/1979)) (available [on Amazon USA](http://www.amazon.com/dp/0894805002/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0894805002/?&tag=ufot-21)).
+Brief review to be added of Wayne Douglas Barlowe and Ian Summer and Beth Meacham's “[Barlowe's Guide to Extraterrestrials]({{ '/ufo-history/ufo-books/barlowe-wayne-douglas-and-summer-ian-and-meacham-beth-barlowes-guide-to-extraterrestrials' | relative_url }})” ([1979]({{ '/tags/1979' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0894805002/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0894805002/?&tag=ufot-21)).
 
 1. [Web Resources](#web)
 
@@ -52,10 +52,10 @@ Many of the tables of references on this website are considerably longer than th
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1979">1979</a></p>
+<p><a href="{{ '/tags/1979' | relative_url }}">1979</a></p>
 </td>
 <td valign="top" width="547">
-<p>Silverberg, Robert in “<a href="/ufo-history/ufo-books/barlowe-wayne-douglas-and-summer-ian-and-meacham-beth-barlowes-guide-to-extraterrestrials">Barlowe's Guide to Extraterrestrials</a>” (<a href="/tags/1979">1979</a>) (by Barlowe, Wayne Douglas and Summer, Ian and Meacham, Beth) at pages 9-10 (in the Foreword to the <a href="/tags/1987">1987</a> Workman softcover edition) of the Workman softcover edition.</p>
+<p>Silverberg, Robert in “<a href="{{ '/ufo-history/ufo-books/barlowe-wayne-douglas-and-summer-ian-and-meacham-beth-barlowes-guide-to-extraterrestrials' | relative_url }}">Barlowe's Guide to Extraterrestrials</a>” (<a href="{{ '/tags/1979' | relative_url }}">1979</a>) (by Barlowe, Wayne Douglas and Summer, Ian and Meacham, Beth) at pages 9-10 (in the Foreword to the <a href="{{ '/tags/1987' | relative_url }}">1987</a> Workman softcover edition) of the Workman softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

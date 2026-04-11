@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0312965214.jpg"}
 book: {"identifiers": ["0312965214"], "primary_isbn": "0312965214", "cover_image": "/book-covers/0312965214.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of “[Investigating the Truth Behind MIB](/ufo-history/ufo-books/randles-jenny-investigating-the-truth-behind-mib)” ([1997](/tags/1997)) (available [on Amazon USA](http://www.amazon.com/dp/0312965214/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0312965214/?&tag=ufot-21)) by [Jenny Randles](/ufo-history/ufo-personalities/randles-jenny).
+Brief review to be added of “[Investigating the Truth Behind MIB]({{ '/ufo-history/ufo-books/randles-jenny-investigating-the-truth-behind-mib' | relative_url }})” ([1997]({{ '/tags/1997' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0312965214/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0312965214/?&tag=ufot-21)) by [Jenny Randles]({{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}).
 
 1. [Web Resources](#web)
 

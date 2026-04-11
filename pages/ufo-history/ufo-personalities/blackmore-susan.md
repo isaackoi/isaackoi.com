@@ -13,13 +13,13 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/blackmore_susan_1.jpg"}
 ---
 
-![blackmore_susan_1](/images/stories/ufo_personalities/blackmore_susan_1.jpg)
+![blackmore_susan_1]({{ '/images/stories/ufo_personalities/blackmore_susan_1.jpg' | relative_url }})
 
 *Susan Blackmore*
 
 Brief comments to be added on this individual.
 
-During 1994, BBC 2 broadcast a Horizon episode devoted to alleged alien abductions, presented by [Dr Susan Blackmore](/ufo-history/ufo-personalities/blackmore-susan).
+During 1994, BBC 2 broadcast a Horizon episode devoted to alleged alien abductions, presented by [Dr Susan Blackmore]({{ '/ufo-history/ufo-personalities/blackmore-susan' | relative_url }}).
 
 Sections below:
 
@@ -61,10 +61,10 @@ For discussion of Dr Susan Blackmore see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2007">2007</a></p>
+<p><a href="{{ '/tags/2007' | relative_url }}">2007</a></p>
 </td>
 <td valign="top" width="547">
-<p>Carter, Chris in his “<a href="/ufo-history/ufo-books/carter-chris-parapsychology-and-the-skeptics">Parapsychology and the Skeptics : A Scientific Argument for the Existence of ESP</a>” (<a href="/tags/2007">2007</a>) (available <a href="http://www.amazon.com/dp/1585011088/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1585011088/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 15, 48, 54, 69-73, 80, 85, 121, 137, 179 of the Paja Books softcover edition.</p>
+<p>Carter, Chris in his “<a href="{{ '/ufo-history/ufo-books/carter-chris-parapsychology-and-the-skeptics' | relative_url }}">Parapsychology and the Skeptics : A Scientific Argument for the Existence of ESP</a>” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (available <a href="http://www.amazon.com/dp/1585011088/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1585011088/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 15, 48, 54, 69-73, 80, 85, 121, 137, 179 of the Paja Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>13</p>
@@ -72,10 +72,10 @@ For discussion of Dr Susan Blackmore see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/hough-peter">Hough, Peter</a> and Moyshe Kalman in their “<a href="/ufo-history/ufo-books/hough-peter-and-kalman-moyshe-the-ufo-files-alien-abductions">The UFO Files: Alien Abductions</a>” (<a href="/tags/1999">1999</a>) (previously published under the title “The Truth About Alien Abductions) (available <a href="http://www.amazon.com/dp/0713727977/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713727977/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 171 (in Chapter 14) of the Blandford softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hough-peter' | relative_url }}">Hough, Peter</a> and Moyshe Kalman in their “<a href="{{ '/ufo-history/ufo-books/hough-peter-and-kalman-moyshe-the-ufo-files-alien-abductions' | relative_url }}">The UFO Files: Alien Abductions</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (previously published under the title “The Truth About Alien Abductions) (available <a href="http://www.amazon.com/dp/0713727977/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713727977/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 171 (in Chapter 14) of the Blandford softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -83,10 +83,10 @@ For discussion of Dr Susan Blackmore see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/marks-david">Marks, David</a> in his “<a href="/ufo-history/ufo-books/marks-david-the-psychology-of-the-psychic-second-edition">The Psychology of the Psychic: Second Edition</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/1573927988/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573927988/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 28 (in Chapter 1) of the Prometheus Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/marks-david' | relative_url }}">Marks, David</a> in his “<a href="{{ '/ufo-history/ufo-books/marks-david-the-psychology-of-the-psychic-second-edition' | relative_url }}">The Psychology of the Psychic: Second Edition</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/1573927988/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573927988/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 28 (in Chapter 1) of the Prometheus Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -94,10 +94,10 @@ For discussion of Dr Susan Blackmore see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/pope-nick">Pope, Nick</a> in his “<a href="/ufo-history/ufo-books/pope-nick-open-skies-closed-minds">Open Skies, Closed Minds</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/0684816644/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684816644/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 48 (in Chapter 3) of the Simon and Schuster hardback edition, with the same page numbering in the Pocket Books paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/pope-nick' | relative_url }}">Pope, Nick</a> in his “<a href="{{ '/ufo-history/ufo-books/pope-nick-open-skies-closed-minds' | relative_url }}">Open Skies, Closed Minds</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/0684816644/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684816644/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 48 (in Chapter 3) of the Simon and Schuster hardback edition, with the same page numbering in the Pocket Books paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -105,10 +105,10 @@ For discussion of Dr Susan Blackmore see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/pope-nick">Pope, Nick</a> in his “<a href="/ufo-history/ufo-books/pope-nick-the-uninvited">The Uninvited</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0879518782/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879518782/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 250-251 (in Chapter 15) of the Simon and Schuster hardback edition, with the same page numbering in the Pocket Books paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/pope-nick' | relative_url }}">Pope, Nick</a> in his “<a href="{{ '/ufo-history/ufo-books/pope-nick-the-uninvited' | relative_url }}">The Uninvited</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0879518782/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879518782/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 250-251 (in Chapter 15) of the Simon and Schuster hardback edition, with the same page numbering in the Pocket Books paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -116,10 +116,10 @@ For discussion of Dr Susan Blackmore see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randi-james">Randi, James</a> in his “<a href="/ufo-history/ufo-books/randi-james-an-encyclopedia-of-claims-frauds-and-hoaxes-of-the-occult-and-supernatural">An Encyclopedia of Claims, Frauds and Hoaxes of the Occult and Supernatural</a>” (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/031213066X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/031213066X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 33 (in the entry entitled “Blackmore, Dr Susan J”) of the St Martin’s Press hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randi-james' | relative_url }}">Randi, James</a> in his “<a href="{{ '/ufo-history/ufo-books/randi-james-an-encyclopedia-of-claims-frauds-and-hoaxes-of-the-occult-and-supernatural' | relative_url }}">An Encyclopedia of Claims, Frauds and Hoaxes of the Occult and Supernatural</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/031213066X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/031213066X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 33 (in the entry entitled “Blackmore, Dr Susan J”) of the St Martin’s Press hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -127,10 +127,10 @@ For discussion of Dr Susan Blackmore see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randi-james">Randi, James</a> in his “<a href="/ufo-history/ufo-books/randi-james-the-supernatural-a-z-the-truth-and-the-lies">The Supernatural A-Z: The Truth and the Lies</a>” (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/1860197949/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1860197949/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 44 (in the entry entitled “Blackmore, Dr Susan J”) of the Brockhampton Press hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randi-james' | relative_url }}">Randi, James</a> in his “<a href="{{ '/ufo-history/ufo-books/randi-james-the-supernatural-a-z-the-truth-and-the-lies' | relative_url }}">The Supernatural A-Z: The Truth and the Lies</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/1860197949/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1860197949/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 44 (in the entry entitled “Blackmore, Dr Susan J”) of the Brockhampton Press hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -138,10 +138,10 @@ For discussion of Dr Susan Blackmore see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-alien-contact-the-first-fifty-years">Alien Contact – The First Fifty Years</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0806904763/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806904763/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 131 (in the chapter entitled “<a href="/tags/1994">1994</a>”) of the Collins and Brown hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-alien-contact-the-first-fifty-years' | relative_url }}">Alien Contact – The First Fifty Years</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0806904763/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806904763/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 131 (in the chapter entitled “<a href="{{ '/tags/1994' | relative_url }}">1994</a>”) of the Collins and Brown hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -149,10 +149,10 @@ For discussion of Dr Susan Blackmore see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-the-complete-book-of-aliens-and-abductions">The Complete Book of Aliens and Abductions</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0749921005/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0749921005/ref=nosim?tag=ufot-21">on Amazon UK</a>) a page 173 (in Part 5) of the Piatkus hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-the-complete-book-of-aliens-and-abductions' | relative_url }}">The Complete Book of Aliens and Abductions</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0749921005/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0749921005/ref=nosim?tag=ufot-21">on Amazon UK</a>) a page 173 (in Part 5) of the Piatkus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -160,10 +160,10 @@ For discussion of Dr Susan Blackmore see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-the-paranormal-source-book">The Paranormal Source Book</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/0749914114/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0749914114/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 158-159 (in the unnumbered, but alphabetically arranged, chapter entitled “Out-Of-Body Experience”) of the Piatkus hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-the-paranormal-source-book' | relative_url }}">The Paranormal Source Book</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/0749914114/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0749914114/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 158-159 (in the unnumbered, but alphabetically arranged, chapter entitled “Out-Of-Body Experience”) of the Piatkus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -171,10 +171,10 @@ For discussion of Dr Susan Blackmore see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p>Wilkinson, David in his “<a href="/ufo-history/ufo-books/wilkinson-david-alone-in-the-universe">Alone in the Universe?</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/083081938X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/083081938X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 99 (in Chapter 6) of the Monarch softcover edition.</p>
+<p>Wilkinson, David in his “<a href="{{ '/ufo-history/ufo-books/wilkinson-david-alone-in-the-universe' | relative_url }}">Alone in the Universe?</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/083081938X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/083081938X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 99 (in Chapter 6) of the Monarch softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -182,10 +182,10 @@ For discussion of Dr Susan Blackmore see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p>Wright, Susan in her “<a href="/ufo-history/ufo-books/wright-susan-ufo-headquarters">UFO Headquarters</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0312193475/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312193475/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 219 (in Chapter 11) of the St Martin’s Press softcover edition.</p>
+<p>Wright, Susan in her “<a href="{{ '/ufo-history/ufo-books/wright-susan-ufo-headquarters' | relative_url }}">UFO Headquarters</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0312193475/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312193475/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 219 (in Chapter 11) of the St Martin’s Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

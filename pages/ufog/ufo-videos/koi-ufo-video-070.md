@@ -21,7 +21,7 @@ Some of those still photos (particularly the one below) have become popular on s
 
 As detailed below, the video is in fact a short fictional movie by Seb Janiak (a French photographer and director) containing numerous hoaxed photos (some of which were created for the video whereas others were hoaxes borrowed from other sources).
 
-![](/images/stories/ufo_videos/video070_1.JPG)
+![]({{ '/images/stories/ufo_videos/video070_1.JPG' | relative_url }})
 
 https://www.youtube.com/watch?v=hJfc63rCnWE
 
@@ -44,7 +44,7 @@ The futuristic F-14 / UFO photograph is a still photograph shown 48 seconds into
 
 A screenshot is included below for ease of identification.
 
-![](/images/stories/ufo_videos/video070_6.JPG)
+![]({{ '/images/stories/ufo_videos/video070_6.JPG' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this video
@@ -64,29 +64,29 @@ Seb Janiak's website includes copies of the various photographs used in the vide
 
 http://theorionconspiracy.com/html/secret_prototypes.html#
 
-![](/images/stories/ufo_videos/video070_5.JPG)
+![]({{ '/images/stories/ufo_videos/video070_5.JPG' | relative_url }})
 
 The original (unedited) photo of the above photo can be traced back to a photograph entitled "F14 - Crete" taken on 8 June 2002 and posted by "Jack" on his Flickr account.
 
-![](/images/stories/ufo_videos/video070_2.JPG)
+![]({{ '/images/stories/ufo_videos/video070_2.JPG' | relative_url }})
 
 According to [a press release issued by Phoenix International Inc in 2002](http://www.phnx-international.com/news/Med_Sea_F-14B.pdf) (embedded below), that company located and recovered the relevant US Navy F-14B Tomcat from 9,840 ft. in the Mediterranean Sea south of Crete. The F-14B had been lost during carrier launch operations aboard USS JOHN F. KENNEDY (CV 67). Phoenix’s Remotely Operated Vehicle, Remora II, re-located the aircraft using a CTFM forward looking sonar. The main body was recovered on June 6th using the Navy’s Fly Away Deep Ocean Salvage System.
 
-![](/images/stories/ufo_videos/video070_3.JPG)
+![]({{ '/images/stories/ufo_videos/video070_3.JPG' | relative_url }})
 
 That press release includes another image of the recovery of the F14. An enlarged copy of that image is embedded below.
 
-![](/images/stories/ufo_videos/video070_4.JPG)
+![]({{ '/images/stories/ufo_videos/video070_4.JPG' | relative_url }})
 
 Not all the photos in "The Orion Conspiracy" were created for that video. For example, the slide-show in the video aslo includes:
 
-(1) photos of [a dummy in a well-known display at the UFO museum in Roswell](/ufog/alien-photos/koi-alien-photo-34) (i.e. Koi Alien Photo 34).
+(1) photos of [a dummy in a well-known display at the UFO museum in Roswell]({{ '/ufog/alien-photos/koi-alien-photo-34' | relative_url }}) (i.e. Koi Alien Photo 34).
 
-![](/images/stories/alien_photos/koi_ap_34_f.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_34_f.jpg' | relative_url }})
 
 (2) A hoaxed of a giant skeleton. This photo which won third prize [in an online Photoshop competition in 2002 called "Archaeological Anomalies 2" on the Worth1000 website](http://www.worth1000.com/contests/447/archaeological-anomalies-2). That competition invited contestants to create a hoax archaeological discovery. The artist that created this image used the username "IronKite". He entitled the image "Giants".
 
-![](/images/stories/ufo_videos/video070_7.JPG)
+![]({{ '/images/stories/ufo_videos/video070_7.JPG' | relative_url }})
 
 <a id="forums"></a>
 ### 4. Relevant online discussions
@@ -109,4 +109,4 @@ Relevant discussions on the AboveTopSecret.com forum include the following:
 
 2008 (June) discussion entitled "[UFO Discovered Under Ice.. Disclosure Imminent??](http://www.abovetopsecret.com/forum/thread952089/pg1)"
 
-![](/images/stories/ufo_videos/video070_1d.jpg)
+![]({{ '/images/stories/ufo_videos/video070_1d.jpg' | relative_url }})

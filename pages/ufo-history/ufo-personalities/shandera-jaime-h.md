@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/shandera_jaime_2.jpg"}
 ---
 
-![shandera_jaime_2](/images/stories/ufo_personalities/shandera_jaime_2.jpg)
+![shandera_jaime_2]({{ '/images/stories/ufo_personalities/shandera_jaime_2.jpg' | relative_url }})
 
 *Jaime H Shandera*
 
@@ -57,10 +57,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2006">2006</a></p>
+<p><a href="{{ '/tags/2006' | relative_url }}">2006</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/collins-robert-m">Collins, Robert M</a> (with <a href="/ufo-history/ufo-personalities/doty-richard">Doty, Richard C</a> and <a href="/ufo-history/ufo-personalities/cooper-timothy-s">Cooper, Timothy S</a>) in “<a href="/ufo-history/ufo-books/collins-robert-m-with-doty-richard-c-and-cooper-timothy-s-exempt-from-disclosure">Exempt From Disclosure</a>” (<a href="/tags/2006">2006</a>) (available <a href="http://www.amazon.com/dp/0976642638/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0976642638/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 3, 4 (in the Introduction), 7, 9, 10, 11, 12 (in Section 1, Chapter 1), 103 (in Section 2, Chapter 4) of the Peregrine Communications softcover second edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/collins-robert-m' | relative_url }}">Collins, Robert M</a> (with <a href="{{ '/ufo-history/ufo-personalities/doty-richard' | relative_url }}">Doty, Richard C</a> and <a href="{{ '/ufo-history/ufo-personalities/cooper-timothy-s' | relative_url }}">Cooper, Timothy S</a>) in “<a href="{{ '/ufo-history/ufo-books/collins-robert-m-with-doty-richard-c-and-cooper-timothy-s-exempt-from-disclosure' | relative_url }}">Exempt From Disclosure</a>” (<a href="{{ '/tags/2006' | relative_url }}">2006</a>) (available <a href="http://www.amazon.com/dp/0976642638/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0976642638/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 3, 4 (in the Introduction), 7, 9, 10, 11, 12 (in Section 1, Chapter 1), 103 (in Section 2, Chapter 4) of the Peregrine Communications softcover second edition.</p>
 </td>
 <td valign="top" width="52">
 <p>8</p>
@@ -68,10 +68,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/cooper-william">Cooper, William</a> in his “<a href="/ufo-history/ufo-books/cooper-william-behold-a-pale-horse">Behold a Pale Horse</a>” (<a href="/tags/1991">1991</a>) (available <a href="http://www.amazon.com/dp/0929385225/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0929385225/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 226, 227, 228 (in Chapter 12) of the Light Technology softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/cooper-william' | relative_url }}">Cooper, William</a> in his “<a href="{{ '/ufo-history/ufo-books/cooper-william-behold-a-pale-horse' | relative_url }}">Behold a Pale Horse</a>” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/0929385225/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0929385225/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 226, 227, 228 (in Chapter 12) of the Light Technology softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -79,10 +79,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/nickell-joe">Nickell, Joe</a> and Fischer, John F in their “<a href="/ufo-history/ufo-books/nickell-joe-and-fischer-john-f-mysterious-realms">Mysterious Realms</a>” (<a href="/tags/1992">1992</a>) (available <a href="http://www.amazon.com/dp/0879757655/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879757655/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 85 (in Chapter 6) of the Prometheus hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/nickell-joe' | relative_url }}">Nickell, Joe</a> and Fischer, John F in their “<a href="{{ '/ufo-history/ufo-books/nickell-joe-and-fischer-john-f-mysterious-realms' | relative_url }}">Mysterious Realms</a>” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="http://www.amazon.com/dp/0879757655/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879757655/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 85 (in Chapter 6) of the Prometheus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

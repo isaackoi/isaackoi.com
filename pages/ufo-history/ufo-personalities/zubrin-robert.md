@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/zubrin_robert_2.JPG"}
 ---
 
-![zubrin_robert_2](/images/stories/ufo_personalities/zubrin_robert_2.JPG)
+![zubrin_robert_2]({{ '/images/stories/ufo_personalities/zubrin_robert_2.JPG' | relative_url }})
 
 *Robert Zubrin*
 
@@ -36,18 +36,18 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/zubrin-robert">Zubrin, Robert</a> “<a href="/ufo-history/ufo-books/zubrin-robert-the-case-for-mars">The Case for Mars</a>” (<a href="/tags/1996">1996</a>)(available <a href="http://www.amazon.com/dp/0684835509/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684835509/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/zubrin-robert' | relative_url }}">Zubrin, Robert</a> “<a href="{{ '/ufo-history/ufo-books/zubrin-robert-the-case-for-mars' | relative_url }}">The Case for Mars</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>)(available <a href="http://www.amazon.com/dp/0684835509/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684835509/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/zubrin-robert">Zubrin, Robert</a> “Entering Space: Creating a Spacefaring Civilization”</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/zubrin-robert' | relative_url }}">Zubrin, Robert</a> “Entering Space: Creating a Spacefaring Civilization”</p>
 </td>
 </tr>
 </tbody>
@@ -67,7 +67,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-See the references provided in the entry for “[The Case for Mars](/ufo-history/ufo-books/zubrin-robert-the-case-for-mars)” ([1996](/tags/1996)).
+See the references provided in the entry for “[The Case for Mars]({{ '/ufo-history/ufo-books/zubrin-robert-the-case-for-mars' | relative_url }})” ([1996]({{ '/tags/1996' | relative_url }})).
 
 <a id="other"></a>
 ### Other Material

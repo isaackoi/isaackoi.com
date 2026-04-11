@@ -13,13 +13,13 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/schwa_1.jpg"}
 ---
 
-![schwa_1](/images/stories/ufo_personalities/schwa_1.jpg)
+![schwa_1]({{ '/images/stories/ufo_personalities/schwa_1.jpg' | relative_url }})
 
 *Schwa Corporation*
 
 Brief comments to be added on this entity.
 
-The [Schwa Corporation](/ufo-history/ufo-personalities/schwa-corporation) was established by [Bill Barker](/ufo-history/ufo-personalities/barker-bill) in [1992](/tags/1992).
+The [Schwa Corporation]({{ '/ufo-history/ufo-personalities/schwa-corporation' | relative_url }}) was established by [Bill Barker]({{ '/ufo-history/ufo-personalities/barker-bill' | relative_url }}) in [1992]({{ '/tags/1992' | relative_url }}).
 
 1. [Web Resources](#web)
 
@@ -65,10 +65,10 @@ For discussion of Schwa see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/baker-alan">Baker, Alan</a> in his “<a href="/ufo-history/ufo-books/baker-alan-the-encyclopaedia-of-alien-encounters">The Encyclopaedia of Alien Encounters</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/1852277343/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1852277343/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 219-220 (in an entry entitled “Schwa”) of the Virgin hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/baker-alan' | relative_url }}">Baker, Alan</a> in his “<a href="{{ '/ufo-history/ufo-books/baker-alan-the-encyclopaedia-of-alien-encounters' | relative_url }}">The Encyclopaedia of Alien Encounters</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/1852277343/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1852277343/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 219-220 (in an entry entitled “Schwa”) of the Virgin hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

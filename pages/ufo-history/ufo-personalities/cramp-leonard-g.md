@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/cramp_leonard_1.jpg"}
 ---
 
-![cramp_leonard_1](/images/stories/ufo_personalities/cramp_leonard_1.jpg)
+![cramp_leonard_1]({{ '/images/stories/ufo_personalities/cramp_leonard_1.jpg' | relative_url }})
 
 *Leonard G Cramp*
 
@@ -36,26 +36,26 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1954">1954</a></p>
+<p><a href="{{ '/tags/1954' | relative_url }}">1954</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/cramp-leonard-g">Cramp, Leonard G</a> “<a href="/ufo-history/ufo-books/cramp-leonard-g-space-gravity-and-the-flying-saucer">Space, Gravity and the Flying Saucer</a>” (<a href="/tags/1954">1954</a>) (available <a href="http://www.amazon.com/dp/B0007EWCY6/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0007EWCY6/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/cramp-leonard-g' | relative_url }}">Cramp, Leonard G</a> “<a href="{{ '/ufo-history/ufo-books/cramp-leonard-g-space-gravity-and-the-flying-saucer' | relative_url }}">Space, Gravity and the Flying Saucer</a>” (<a href="{{ '/tags/1954' | relative_url }}">1954</a>) (available <a href="http://www.amazon.com/dp/B0007EWCY6/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0007EWCY6/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1966">1966</a></p>
+<p><a href="{{ '/tags/1966' | relative_url }}">1966</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/cramp-leonard-g">Cramp, Leonard G</a> “<a href="/ufo-history/ufo-books/cramp-leonard-g-piece-for-a-jig-saw">Piece for a Jig-Saw</a>” (<a href="/tags/1966">1966</a>) (available <a href="http://www.amazon.com/dp/0932813437/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0932813437/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/cramp-leonard-g' | relative_url }}">Cramp, Leonard G</a> “<a href="{{ '/ufo-history/ufo-books/cramp-leonard-g-piece-for-a-jig-saw' | relative_url }}">Piece for a Jig-Saw</a>” (<a href="{{ '/tags/1966' | relative_url }}">1966</a>) (available <a href="http://www.amazon.com/dp/0932813437/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0932813437/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/cramp-leonard-g">Cramp, Leonard G</a> “The Cosmic Matrix : Piece for a Jig-Saw Part 2”</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/cramp-leonard-g' | relative_url }}">Cramp, Leonard G</a> “The Cosmic Matrix : Piece for a Jig-Saw Part 2”</p>
 </td>
 </tr>
 </tbody>

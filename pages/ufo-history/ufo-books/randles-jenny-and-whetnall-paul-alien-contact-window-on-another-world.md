@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/087542001X.jpg"}
 book: {"identifiers": ["B000OVBWKC", "087542001X", "0753704250", "0600572293", "1576072495", "075251217X", "0760704406", "0631135634", "0881621684", "070901080X", "1933665335"], "primary_isbn": "087542001X", "cover_image": "/book-covers/087542001X.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of “[Alien Contact: Window on Another World](/ufo-history/ufo-books/randles-jenny-and-whetnall-paul-alien-contact-window-on-another-world)” ([1981](/tags/1981)) (available [on Amazon USA](http://www.amazon.com/dp/B000OVBWKC/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B000OVBWKC/?&tag=ufot-21)) by [Jenny Randles](/ufo-history/ufo-personalities/randles-jenny) and [Paul Whetnall](/ufo-history/ufo-personalities/whetnall-paul).
+Brief review to be added of “[Alien Contact: Window on Another World]({{ '/ufo-history/ufo-books/randles-jenny-and-whetnall-paul-alien-contact-window-on-another-world' | relative_url }})” ([1981]({{ '/tags/1981' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/B000OVBWKC/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B000OVBWKC/?&tag=ufot-21)) by [Jenny Randles]({{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}) and [Paul Whetnall]({{ '/ufo-history/ufo-personalities/whetnall-paul' | relative_url }}).
 
 Focuses on sightings of Gaynor Sunderland and the Sunderland family.
 
@@ -56,10 +56,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1986">1986</a></p>
+<p><a href="{{ '/tags/1986' | relative_url }}">1986</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/andrews-george-c">Andrews, George C</a> in his “<a href="/ufo-history/ufo-books/andrews-george-c-extra-terrestrials-among-us">Extra-Terrestrials Among Us</a>” (<a href="/tags/1986">1986</a>) (available <a href="http://www.amazon.com/dp/087542001X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/087542001X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 236-237 (in Chapter 7) of the Llewellyn softcover edition, at pages 268-269 of the Llewellyn paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/andrews-george-c' | relative_url }}">Andrews, George C</a> in his “<a href="{{ '/ufo-history/ufo-books/andrews-george-c-extra-terrestrials-among-us' | relative_url }}">Extra-Terrestrials Among Us</a>” (<a href="{{ '/tags/1986' | relative_url }}">1986</a>) (available <a href="http://www.amazon.com/dp/087542001X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/087542001X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 236-237 (in Chapter 7) of the Llewellyn softcover edition, at pages 268-269 of the Llewellyn paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -67,10 +67,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p>Blundell, Nigel and Boar, Roger in “<a href="/ufo-history/ufo-books/cawthorne-nigel-the-worlds-greatest-alien-abduction-mysteries">The World’s Greatest Alien Abduction Mysteries</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/0753704250/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0753704250/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 280-281 (in the chapter entitled “Encounters of the Worlwide Kind”) of the Chancellor Press softcover edition.</p>
+<p>Blundell, Nigel and Boar, Roger in “<a href="{{ '/ufo-history/ufo-books/cawthorne-nigel-the-worlds-greatest-alien-abduction-mysteries' | relative_url }}">The World’s Greatest Alien Abduction Mysteries</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/0753704250/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0753704250/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 280-281 (in the chapter entitled “Encounters of the Worlwide Kind”) of the Chancellor Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -78,10 +78,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1986">1986</a></p>
+<p><a href="{{ '/tags/1986' | relative_url }}">1986</a></p>
 </td>
 <td valign="top" width="547">
-<p>Blundell, Nigel and Boar, Roger in their “<a href="/ufo-history/ufo-books/blundell-nigel-and-boar-roger-the-worlds-greatest-ufo-mysteries">The World’s Greatest UFO Mysteries</a>” (<a href="/tags/1986">1986</a>) (available <a href="http://www.amazon.com/dp/0600572293/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0600572293/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 30 (in the chapter entitled “Encounters of the Worlwide Kind”) of the Octopus hardback edition (with the same page numbering in the Hamlyn softcover edition).</p>
+<p>Blundell, Nigel and Boar, Roger in their “<a href="{{ '/ufo-history/ufo-books/blundell-nigel-and-boar-roger-the-worlds-greatest-ufo-mysteries' | relative_url }}">The World’s Greatest UFO Mysteries</a>” (<a href="{{ '/tags/1986' | relative_url }}">1986</a>) (available <a href="http://www.amazon.com/dp/0600572293/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0600572293/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 30 (in the chapter entitled “Encounters of the Worlwide Kind”) of the Octopus hardback edition (with the same page numbering in the Hamlyn softcover edition).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -89,10 +89,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-extraordinary-encounters">Extraordinary Encounters : An Encyclopedia of Extraterrestrials and Otherworldly Beings</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/1576072495/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1576072495/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 26 (in an entry entitled “Arna and Parz”) of the ABC-Clio hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-extraordinary-encounters' | relative_url }}">Extraordinary Encounters : An Encyclopedia of Extraterrestrials and Otherworldly Beings</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/1576072495/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1576072495/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 26 (in an entry entitled “Arna and Parz”) of the ABC-Clio hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -100,10 +100,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p>Marvels and Mysteries (Editors Of) in “Marvels and Mysteries: Aliens” (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/075251217X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/075251217X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 51, 66 of the Parrallel softcover edition.</p>
+<p>Marvels and Mysteries (Editors Of) in “Marvels and Mysteries: Aliens” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/075251217X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/075251217X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 51, 66 of the Parrallel softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -111,10 +111,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> and <a href="/ufo-history/ufo-personalities/hough-peter">Hough, Peter</a> in their “<a href="/ufo-history/ufo-books/randles-jenny-and-hough-peter-looking-for-the-aliens">Looking for the Aliens</a>” (<a href="/tags/1991">1991</a>) (available <a href="http://www.amazon.com/dp/0760704406/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0760704406/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 49 (in Chapter 6) of the Blandford softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> and <a href="{{ '/ufo-history/ufo-personalities/hough-peter' | relative_url }}">Hough, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-hough-peter-looking-for-the-aliens' | relative_url }}">Looking for the Aliens</a>” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/0760704406/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0760704406/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 49 (in Chapter 6) of the Blandford softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -122,10 +122,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1985">1985</a></p>
+<p><a href="{{ '/tags/1985' | relative_url }}">1985</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> and <a href="/ufo-history/ufo-personalities/warrington-peter">Warrington, Peter</a> in their “<a href="/ufo-history/ufo-books/randles-jenny-and-warrington-peter-science-and-the-ufos">Science and the UFOs</a> " (<a href="/tags/1985">1985</a>) (available <a href="http://www.amazon.com/dp/0631135634/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0631135634/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 205 (in the Bibliography) of the Blackwell hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> and <a href="{{ '/ufo-history/ufo-personalities/warrington-peter' | relative_url }}">Warrington, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-warrington-peter-science-and-the-ufos' | relative_url }}">Science and the UFOs</a> " (<a href="{{ '/tags/1985' | relative_url }}">1985</a>) (available <a href="http://www.amazon.com/dp/0631135634/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0631135634/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 205 (in the Bibliography) of the Blackwell hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -133,10 +133,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1981">1981</a></p>
+<p><a href="{{ '/tags/1981' | relative_url }}">1981</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> and <a href="/ufo-history/ufo-personalities/whetnall-paul">Whetnall, Paul</a> in their “<a href="/ufo-history/ufo-books/randles-jenny-and-whetnall-paul-alien-contact-window-on-another-world">Alien Contact: Window on Another World</a>” (<a href="/tags/1981">1981</a>) (available <a href="http://www.amazon.com/dp/B000OVBWKC/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000OVBWKC/ref=nosim?tag=ufot-21">on Amazon UK</a>) generally, particularly at pages 7-150, 158-159, 168-169, 172, 180, 184, 194, 199-200 of the Coronet paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> and <a href="{{ '/ufo-history/ufo-personalities/whetnall-paul' | relative_url }}">Whetnall, Paul</a> in their “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-whetnall-paul-alien-contact-window-on-another-world' | relative_url }}">Alien Contact: Window on Another World</a>” (<a href="{{ '/tags/1981' | relative_url }}">1981</a>) (available <a href="http://www.amazon.com/dp/B000OVBWKC/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000OVBWKC/ref=nosim?tag=ufot-21">on Amazon UK</a>) generally, particularly at pages 7-150, 158-159, 168-169, 172, 180, 184, 194, 199-200 of the Coronet paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>154</p>
@@ -144,10 +144,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1985">1985</a></p>
+<p><a href="{{ '/tags/1985' | relative_url }}">1985</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-beyond-explanation-the-paranormal-experiences-of-famous-people">Beyond Explanation? : The Paranormal Experiences of Famous People</a>” (<a href="/tags/1985">1985</a>) (available <a href="http://www.amazon.com/dp/0881621684/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0881621684/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 120-121 (in Chapter 10) of the TLC hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-beyond-explanation-the-paranormal-experiences-of-famous-people' | relative_url }}">Beyond Explanation? : The Paranormal Experiences of Famous People</a>” (<a href="{{ '/tags/1985' | relative_url }}">1985</a>) (available <a href="http://www.amazon.com/dp/0881621684/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0881621684/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 120-121 (in Chapter 10) of the TLC hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -155,10 +155,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1983">1983</a></p>
+<p><a href="{{ '/tags/1983' | relative_url }}">1983</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> in her “<a href="/ufo-history/ufo-books/randles-jenny-ufo-reality">UFO Reality</a>” (<a href="/tags/1983">1983</a>) (available <a href="http://www.amazon.com/dp/070901080X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/070901080X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 72 (in Chapter 4), 141 (in Chapter 10) of the Hale hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-ufo-reality' | relative_url }}">UFO Reality</a>” (<a href="{{ '/tags/1983' | relative_url }}">1983</a>) (available <a href="http://www.amazon.com/dp/070901080X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/070901080X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 72 (in Chapter 4), 141 (in Chapter 10) of the Hale hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -166,10 +166,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p>Rogo, D. Scott in “<a href="/ufo-history/ufo-books/rogo-d-scott-and-druffel-ann-the-tujunga-canyon-contacts">The Tujunga Canyon Contacts</a>” (<a href="/tags/1980">1980</a>) (by D. Scott Rogo and Ann Druffel) (available <a href="http://www.amazon.com/dp/1933665335/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1933665335/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 316-317 (in Part 5, in the unnumbered chapter entitled “Current Research on UFO Abductions”) of the revised <a href="/tags/1988">1988</a> Signet paperback edition.</p>
+<p>Rogo, D. Scott in “<a href="{{ '/ufo-history/ufo-books/rogo-d-scott-and-druffel-ann-the-tujunga-canyon-contacts' | relative_url }}">The Tujunga Canyon Contacts</a>” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) (by D. Scott Rogo and Ann Druffel) (available <a href="http://www.amazon.com/dp/1933665335/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1933665335/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 316-317 (in Part 5, in the unnumbered chapter entitled “Current Research on UFO Abductions”) of the revised <a href="{{ '/tags/1988' | relative_url }}">1988</a> Signet paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

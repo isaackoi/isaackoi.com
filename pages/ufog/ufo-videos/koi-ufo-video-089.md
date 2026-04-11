@@ -42,11 +42,11 @@ The video appears to show an unidentified flying object very similar to photogra
 
 Screen shots from the video are included below for ease of identification:
 
-![](/images/stories/ufo_videos/video089_1.JPG)
+![]({{ '/images/stories/ufo_videos/video089_1.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video089_2.JPG)
+![]({{ '/images/stories/ufo_videos/video089_2.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video089_3.JPG)
+![]({{ '/images/stories/ufo_videos/video089_3.JPG' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this video
@@ -66,11 +66,11 @@ The other videos he has posted on his Youtube video account include a music vide
 
 [Kris Avery’s website](http://www.krisavery.co.uk)includes details of his animation company, "Avery Animation":
 
-![](/images/stories/ufo_videos/video089_6.JPG)
+![]({{ '/images/stories/ufo_videos/video089_6.JPG' | relative_url }})
 
 [Kris Avery’s website](http://www.krisavery.co.uk)includes some of his "drone" artwork within a gallery showcasing his (considerable) talents:
 
-![](/images/stories/ufo_videos/video089_4.JPG)
+![]({{ '/images/stories/ufo_videos/video089_4.JPG' | relative_url }})
 
 Kris Avery has posted on various website explaining that he created his videos based on the photographs which were circulating online. He has denied that he created those photographs and I am not aware of any evidence which contradicts that denial.
 
@@ -86,7 +86,7 @@ I'm very glad that the video has been enjoyed, and I am extremely flattered by s
 
 I have at times thrown my hands up in the air and said that this has got to be CG! But I haven't proved that. Has anyone? But it hasn't been proved to be real either. It is the unanswered questions that drive us mad, which is why it is so easy to throw the towel in and resign ourselves to our feelings. I am still wide open to this case being real, so please don't think I say it is a hoax, full stop, the end.
 
-![](/images/stories/ufo_videos/video089_5.JPG)
+![]({{ '/images/stories/ufo_videos/video089_5.JPG' | relative_url }})
 
 Similar comments by Kris Avery are also included in [an article on the Io9 website](http://io9.com/374831/cgi-artist-did-not-create-ufo-pics--who-did). That article quotes Kris Avery as stating:"
 
@@ -94,7 +94,7 @@ Similar comments by Kris Avery are also included in [an article on the Io9 websi
 
 "Since then, I have been accused of being the originator of the whole drone saga, and the photos were in fact just a viral campaign to promote the eventual video. This is definitely NOT the truth. In a way, I wish it had been, because that would make me some kind of viral genius, and I'd be in completely the wrong job lol."
 
-![](/images/stories/ufo_videos/video089_7.JPG)
+![]({{ '/images/stories/ufo_videos/video089_7.JPG' | relative_url }})
 
 While Kris Avery does not appear to have been very active on UFO forums in most of the period from 2007 to 2015, he has recently posted[comments on the AboveTopSecret.com](http://www.abovetopsecret.com/forum/thread1050046/pg3#pid18871535) in which he commented that since he created his Drone videos "things in 3d have got so much more realistic". He also said:
 
@@ -145,4 +145,4 @@ Relevant discussions on the AboveTopSecret.com forum include the following:
 
 2007 (July) discussion entitled "[Chad drone makes it's video debut](http://www.abovetopsecret.com/forum/thread291259/pg1)"
 
-![](/images/stories/ufo_videos/video089_1d.jpg)
+![]({{ '/images/stories/ufo_videos/video089_1d.jpg' | relative_url }})

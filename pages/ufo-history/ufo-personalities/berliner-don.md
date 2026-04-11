@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/berliner_don_1.JPG"}
 ---
 
-![berliner_don_1](/images/stories/ufo_personalities/berliner_don_1.JPG)
+![berliner_don_1]({{ '/images/stories/ufo_personalities/berliner_don_1.JPG' | relative_url }})
 
 *Don Berliner*
 
@@ -36,34 +36,34 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/friedman-stanton">Friedman, Stanton</a> and <a href="/ufo-history/ufo-personalities/berliner-don">Don Berliner</a> “<a href="/ufo-history/ufo-books/friedman-stanton-and-don-berliner-crash-at-corona">Crash at Corona</a>” (<a href="/tags/1992">1992</a>) (available <a href="http://www.amazon.com/dp/1569247331/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1569247331/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/friedman-stanton' | relative_url }}">Friedman, Stanton</a> and <a href="{{ '/ufo-history/ufo-personalities/berliner-don' | relative_url }}">Don Berliner</a> “<a href="{{ '/ufo-history/ufo-books/friedman-stanton-and-don-berliner-crash-at-corona' | relative_url }}">Crash at Corona</a>” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="http://www.amazon.com/dp/1569247331/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1569247331/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/berliner-don">Berliner, Don</a> with <a href="/ufo-history/ufo-personalities/galbraith-marie">Galbraith, Marie</a> and <a href="/ufo-history/ufo-personalities/huneeus-antonio">Huneeus, Antonio</a> “<a href="/ufo-history/ufo-books/berliner-don-with-galbraith-marie-and-huneeus-antonio-ufo-briefing-document-the-best-available-evidence">UFO Briefing Document : The Best Available Evidence</a>” (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/044023638X/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/044023638X/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/berliner-don' | relative_url }}">Berliner, Don</a> with <a href="{{ '/ufo-history/ufo-personalities/galbraith-marie' | relative_url }}">Galbraith, Marie</a> and <a href="{{ '/ufo-history/ufo-personalities/huneeus-antonio' | relative_url }}">Huneeus, Antonio</a> “<a href="{{ '/ufo-history/ufo-books/berliner-don-with-galbraith-marie-and-huneeus-antonio-ufo-briefing-document-the-best-available-evidence' | relative_url }}">UFO Briefing Document : The Best Available Evidence</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/044023638X/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/044023638X/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-As noted in [Part 3](/ufog/best-ufo-cases/3-experts-short-lists) of Isaac Koi’s “[Best UFO Cases](/ufog/best-ufo-cases)” article (i.e. in the Part entitled “[Existing lists by various individuals](/ufog/best-ufo-cases/3-experts-short-lists)”), in an interview by Milton Frank, Brazilian Ufology Center President, circulated on the UFO UpDates discussion List on 14 January 2007 (see Footnote 3.14), [Don Berliner](/ufo-history/ufo-personalities/berliner-don) listed in chronological order “the top 10 cases of World Ufology” in his opinion:
+As noted in [Part 3]({{ '/ufog/best-ufo-cases/3-experts-short-lists' | relative_url }}) of Isaac Koi’s “[Best UFO Cases]({{ '/ufog/best-ufo-cases' | relative_url }})” article (i.e. in the Part entitled “[Existing lists by various individuals]({{ '/ufog/best-ufo-cases/3-experts-short-lists' | relative_url }})”), in an interview by Milton Frank, Brazilian Ufology Center President, circulated on the UFO UpDates discussion List on 14 January 2007 (see Footnote 3.14), [Don Berliner]({{ '/ufo-history/ufo-personalities/berliner-don' | relative_url }}) listed in chronological order “the top 10 cases of World Ufology” in his opinion:
 
-1947 - [Kenneth Arnold, Cascade Mountains, Washington](/ufo-history/ufo/19470624-kenneth-arnold-sighting) (Case 1 in [Isaac Koi's “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases));
-1947 - [Roswell, New Mexico, crash](/ufo-history/ufo/19470708-roswell-story) (Case 4 in [Isaac Koi's “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases));
-1952 - [Washington, D.C., radar/visual sightings over city](/ufo-history/ufo/19520700-washington-national-sightings) (Case 8 in [Isaac Koi's “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases));
+1947 - [Kenneth Arnold, Cascade Mountains, Washington]({{ '/ufo-history/ufo/19470624-kenneth-arnold-sighting' | relative_url }}) (Case 1 in [Isaac Koi's “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}));
+1947 - [Roswell, New Mexico, crash]({{ '/ufo-history/ufo/19470708-roswell-story' | relative_url }}) (Case 4 in [Isaac Koi's “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}));
+1952 - [Washington, D.C., radar/visual sightings over city]({{ '/ufo-history/ufo/19520700-washington-national-sightings' | relative_url }}) (Case 8 in [Isaac Koi's “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}));
 1952 - Glowing formation buzzes airliner near Norfolk, Virginia;
-1952 - [radar/visual sightings from RB-47 over southern USA](/ufo-history/ufo/19570717-rb-47-incident) (Case 63 in [Isaac Koi's “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases));
-1956 - [radar/visual sightings around RAF Lakenheath, England](/ufo-history/ufo/19560813-lakenheath-incident) (Case 21 in [Isaac Koi's “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases));
-1957 - [Electromagnetic interference cases around Levelland, Texas](/ufo-history/ufo/19571102-levelland-texas-incident) (Case 16 in [Isaac Koi's “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases));
-1961 - [Abduction of Betty and Barney Hill in New England](/ufo-history/ufo/19610919-hill-abduction) (Case 2 in [Isaac Koi's “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases));
-1964 - [Landing with occupants outside Socorro, New Mexico](/ufo-history/ufo/19640424-lonnie-zamora-sighting) (Case 5 in [Isaac Koi's “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases));
+1952 - [radar/visual sightings from RB-47 over southern USA]({{ '/ufo-history/ufo/19570717-rb-47-incident' | relative_url }}) (Case 63 in [Isaac Koi's “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}));
+1956 - [radar/visual sightings around RAF Lakenheath, England]({{ '/ufo-history/ufo/19560813-lakenheath-incident' | relative_url }}) (Case 21 in [Isaac Koi's “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}));
+1957 - [Electromagnetic interference cases around Levelland, Texas]({{ '/ufo-history/ufo/19571102-levelland-texas-incident' | relative_url }}) (Case 16 in [Isaac Koi's “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}));
+1961 - [Abduction of Betty and Barney Hill in New England]({{ '/ufo-history/ufo/19610919-hill-abduction' | relative_url }}) (Case 2 in [Isaac Koi's “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}));
+1964 - [Landing with occupants outside Socorro, New Mexico]({{ '/ufo-history/ufo/19640424-lonnie-zamora-sighting' | relative_url }}) (Case 5 in [Isaac Koi's “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}));
 1966 - "Swamp Gas" sightings in southeastern Michigan.
 
 Sections below:
@@ -106,10 +106,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p>Mannion, Michael in his “<a href="/ufo-history/ufo-books/mannion-michael-project-mindshift">Project Mindshift</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0871318563/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0871318563/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 99, 152-158 (in Chapter 5), 289 (in Chapter 12) of the Evans hardback edition.</p>
+<p>Mannion, Michael in his “<a href="{{ '/ufo-history/ufo-books/mannion-michael-project-mindshift' | relative_url }}">Project Mindshift</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0871318563/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0871318563/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 99, 152-158 (in Chapter 5), 289 (in Chapter 12) of the Evans hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>8</p>
@@ -117,10 +117,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/brookesmith-peter">Brookesmith, Peter</a> in his “<a href="/ufo-history/ufo-books/brookesmith-peter-ufo-the-government-files">UFO: The Government Files</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/0760702187/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0760702187/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 151 (in Chapter 8) of the Parragon hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/brookesmith-peter' | relative_url }}">Brookesmith, Peter</a> in his “<a href="{{ '/ufo-history/ufo-books/brookesmith-peter-ufo-the-government-files' | relative_url }}">UFO: The Government Files</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/0760702187/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0760702187/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 151 (in Chapter 8) of the Parragon hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

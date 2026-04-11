@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/documents_1.gif"}
 ---
 
-![documents_1](/images/stories/ufo_tags/documents_1.gif)
+![documents_1]({{ '/images/stories/ufo_tags/documents_1.gif' | relative_url }})
 
 *"Serious Business" memo*
 
@@ -43,9 +43,9 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-Image of relevant document presented by [Keyhoe, Donald E](/ufo-history/ufo-personalities/keyhoe-donald-e) in his “[Flying Saucers: Top Secret](/ufo-history/ufo-books/keyhoe-donald-flying-saucers-top-secret)” ([1960](/tags/1960)) (available [on Amazon USA](http://www.amazon.com/dp/B0007F2EIY/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B0007F2EIY/ref=nosim?tag=ufot-21)) at the unnumbered final page of the G P Putnam hardback edition.
+Image of relevant document presented by [Keyhoe, Donald E]({{ '/ufo-history/ufo-personalities/keyhoe-donald-e' | relative_url }}) in his “[Flying Saucers: Top Secret]({{ '/ufo-history/ufo-books/keyhoe-donald-flying-saucers-top-secret' | relative_url }})” ([1960]({{ '/tags/1960' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/B0007F2EIY/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B0007F2EIY/ref=nosim?tag=ufot-21)) at the unnumbered final page of the G P Putnam hardback edition.
 
-Image of memo presented by [Edwards, Frank](/ufo-history/ufo-personalities/edwards-frank) in his “[Flying Saucers – Serious Business](/ufo-history/ufo-books/edwards-frank-flying-saucers-serious-business)” ([1966](/tags/1966)) as Plate 1 of the Bantam paperback edition, and the Mayflower-Dell paperback edition.
+Image of memo presented by [Edwards, Frank]({{ '/ufo-history/ufo-personalities/edwards-frank' | relative_url }}) in his “[Flying Saucers – Serious Business]({{ '/ufo-history/ufo-books/edwards-frank-flying-saucers-serious-business' | relative_url }})” ([1966]({{ '/tags/1966' | relative_url }})) as Plate 1 of the Bantam paperback edition, and the Mayflower-Dell paperback edition.
 
 The table below includes references to relevant discussions in UFO/SETI books noted by Isaac Koi during a review of approximately 963 UFO/SETI books during the period 2003-2006 (with a few later additions). The table can be sorted by author, date and length of discussion by clicking on the relevant word in the top line of the table.
 
@@ -71,10 +71,10 @@ For discussion of the “UFOs – serious business” memo see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/bennett-colin">Bennett, Colin</a> in his “<a href="/ufo-history/ufo-books/bennett-colin-looking-for-orthon">Looking for Orthon</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/1931044325/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1931044325/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 164 (in Chapter 14) of the Paraview softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/bennett-colin' | relative_url }}">Bennett, Colin</a> in his “<a href="{{ '/ufo-history/ufo-books/bennett-colin-looking-for-orthon' | relative_url }}">Looking for Orthon</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/1931044325/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1931044325/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 164 (in Chapter 14) of the Paraview softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -82,10 +82,10 @@ For discussion of the “UFOs – serious business” memo see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/dolan-richard">Dolan, Richard</a> M in his “<a href="/ufo-history/ufo-books/dolan-richard-ufos-and-the-national-security-state-volume-1-1941-1973">UFOs and the National Security State: Volume 1: 1941-1973</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/1571743170/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1571743170/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 321 (in Chapter 6) of the Keyhole softcover edition, at page 237 of the <a href="/tags/2002">2002</a> revised Hampton Road softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/dolan-richard' | relative_url }}">Dolan, Richard</a> M in his “<a href="{{ '/ufo-history/ufo-books/dolan-richard-ufos-and-the-national-security-state-volume-1-1941-1973' | relative_url }}">UFOs and the National Security State: Volume 1: 1941-1973</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/1571743170/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1571743170/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 321 (in Chapter 6) of the Keyhole softcover edition, at page 237 of the <a href="{{ '/tags/2002' | relative_url }}">2002</a> revised Hampton Road softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -93,10 +93,10 @@ For discussion of the “UFOs – serious business” memo see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1967">1967</a></p>
+<p><a href="{{ '/tags/1967' | relative_url }}">1967</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/edwards-frank">Edwards, Frank</a> in his “<a href="/ufo-history/ufo-books/edwards-frank-flying-saucers-here-and-now">Flying Saucers – Here and Now!</a>” (<a href="/tags/1967">1967</a>) (available <a href="http://www.amazon.com/dp/B0000CODS3/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0000CODS3/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 96 (in Chapter 5) of the Lyle Stuart hardback edition, at page 57 of the Bantam paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/edwards-frank' | relative_url }}">Edwards, Frank</a> in his “<a href="{{ '/ufo-history/ufo-books/edwards-frank-flying-saucers-here-and-now' | relative_url }}">Flying Saucers – Here and Now!</a>” (<a href="{{ '/tags/1967' | relative_url }}">1967</a>) (available <a href="http://www.amazon.com/dp/B0000CODS3/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0000CODS3/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 96 (in Chapter 5) of the Lyle Stuart hardback edition, at page 57 of the Bantam paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -104,10 +104,10 @@ For discussion of the “UFOs – serious business” memo see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1964">1964</a></p>
+<p><a href="{{ '/tags/1964' | relative_url }}">1964</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/edwards-frank">Edwards, Frank</a> in his “Strange World” (<a href="/tags/1964">1964</a>) (available <a href="http://www.amazon.com/dp/0806509783/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806509783/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 23 (in Chapter 3) of the Ace paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/edwards-frank' | relative_url }}">Edwards, Frank</a> in his “Strange World” (<a href="{{ '/tags/1964' | relative_url }}">1964</a>) (available <a href="http://www.amazon.com/dp/0806509783/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806509783/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 23 (in Chapter 3) of the Ace paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -115,10 +115,10 @@ For discussion of the “UFOs – serious business” memo see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1976">1976</a></p>
+<p><a href="{{ '/tags/1976' | relative_url }}">1976</a></p>
 </td>
 <td valign="top" width="547">
-<p>Flammonde, Paris in his “<a href="/ufo-history/ufo-books/flammonde-paris-ufo-exist">Ufo Exist!</a>” (<a href="/tags/1976">1976</a>) (available <a href="http://www.amazon.com/dp/0345339517/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0345339517/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 406 (in Chapter 20) of the Ballantine Books paperback edition.</p>
+<p>Flammonde, Paris in his “<a href="{{ '/ufo-history/ufo-books/flammonde-paris-ufo-exist' | relative_url }}">Ufo Exist!</a>” (<a href="{{ '/tags/1976' | relative_url }}">1976</a>) (available <a href="http://www.amazon.com/dp/0345339517/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0345339517/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 406 (in Chapter 20) of the Ballantine Books paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -126,10 +126,10 @@ For discussion of the “UFOs – serious business” memo see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1966">1966</a></p>
+<p><a href="{{ '/tags/1966' | relative_url }}">1966</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/fuller-john-g">Fuller, John G</a> in his “<a href="/ufo-history/ufo-books/fuller-john-g-incident-at-exeter">Incident at Exeter</a>” (<a href="/tags/1966">1966</a>) (available <a href="http://www.amazon.com/dp/042502539X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/042502539X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 166-167 (in Chapter 11) of the Berkley paperback editions.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/fuller-john-g' | relative_url }}">Fuller, John G</a> in his “<a href="{{ '/ufo-history/ufo-books/fuller-john-g-incident-at-exeter' | relative_url }}">Incident at Exeter</a>” (<a href="{{ '/tags/1966' | relative_url }}">1966</a>) (available <a href="http://www.amazon.com/dp/042502539X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/042502539X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 166-167 (in Chapter 11) of the Berkley paperback editions.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -137,10 +137,10 @@ For discussion of the “UFOs – serious business” memo see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1987">1987</a></p>
+<p><a href="{{ '/tags/1987' | relative_url }}">1987</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/good-timothy">Good, Timothy</a> in his “<a href="/ufo-history/ufo-books/good-timothy-above-top-secret">Above Top Secret</a>” (<a href="/tags/1987">1987</a>) (available <a href="http://www.amazon.com/dp/0688092020/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0688092020/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 281-282 (in Chapter 12) of the Sidgwick &amp; Jackson hardback edition (with the same page numbering in the Guild Publishing hardback edition and the Grafton paperback edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/good-timothy' | relative_url }}">Good, Timothy</a> in his “<a href="{{ '/ufo-history/ufo-books/good-timothy-above-top-secret' | relative_url }}">Above Top Secret</a>” (<a href="{{ '/tags/1987' | relative_url }}">1987</a>) (available <a href="http://www.amazon.com/dp/0688092020/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0688092020/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 281-282 (in Chapter 12) of the Sidgwick &amp; Jackson hardback edition (with the same page numbering in the Guild Publishing hardback edition and the Grafton paperback edition).</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -148,10 +148,10 @@ For discussion of the “UFOs – serious business” memo see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/good-timothy">Good, Timothy</a> in his “<a href="/ufo-history/ufo-books/good-timothy-beyond-top-secret">Beyond Top Secret</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/0283062452/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0283062452/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 360-361 (in Chapter 15) of the Sidgwick &amp; Jackson hardback edition (with the same page numbering in the Pan paperback edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/good-timothy' | relative_url }}">Good, Timothy</a> in his “<a href="{{ '/ufo-history/ufo-books/good-timothy-beyond-top-secret' | relative_url }}">Beyond Top Secret</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/0283062452/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0283062452/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 360-361 (in Chapter 15) of the Sidgwick &amp; Jackson hardback edition (with the same page numbering in the Pan paperback edition).</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -159,10 +159,10 @@ For discussion of the “UFOs – serious business” memo see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2006">2006</a></p>
+<p><a href="{{ '/tags/2006' | relative_url }}">2006</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/good-timothy">Good, Timothy</a> in his “<a href="/ufo-history/ufo-books/good-timothy-need-to-know-ufos-the-military-and-intelligence">Need To Know : UFOs, the Military and Intelligence</a>” (<a href="/tags/2006">2006</a>) (available <a href="http://www.amazon.com/dp/028307034X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/028307034X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 226, 229 (in Chapter 15) of the Sidgwick &amp; Jackson hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/good-timothy' | relative_url }}">Good, Timothy</a> in his “<a href="{{ '/ufo-history/ufo-books/good-timothy-need-to-know-ufos-the-military-and-intelligence' | relative_url }}">Need To Know : UFOs, the Military and Intelligence</a>” (<a href="{{ '/tags/2006' | relative_url }}">2006</a>) (available <a href="http://www.amazon.com/dp/028307034X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/028307034X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 226, 229 (in Chapter 15) of the Sidgwick &amp; Jackson hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -170,10 +170,10 @@ For discussion of the “UFOs – serious business” memo see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1960">1960</a></p>
+<p><a href="{{ '/tags/1960' | relative_url }}">1960</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/keyhoe-donald-e">Keyhoe, Donald E</a> in his “<a href="/ufo-history/ufo-books/keyhoe-donald-flying-saucers-top-secret">Flying Saucers: Top Secret</a>” (<a href="/tags/1960">1960</a>) (available <a href="http://www.amazon.com/dp/B0007F2EIY/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0007F2EIY/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 10 of the G P Putnam hardback edition (in the Foreword) with image of relevant document at the unnumbered final page.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/keyhoe-donald-e' | relative_url }}">Keyhoe, Donald E</a> in his “<a href="{{ '/ufo-history/ufo-books/keyhoe-donald-flying-saucers-top-secret' | relative_url }}">Flying Saucers: Top Secret</a>” (<a href="{{ '/tags/1960' | relative_url }}">1960</a>) (available <a href="http://www.amazon.com/dp/B0007F2EIY/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0007F2EIY/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 10 of the G P Putnam hardback edition (in the Foreword) with image of relevant document at the unnumbered final page.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -181,10 +181,10 @@ For discussion of the “UFOs – serious business” memo see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1968">1968</a></p>
+<p><a href="{{ '/tags/1968' | relative_url }}">1968</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/lorenzen-coral-e">Lorenzen, Coral</a> and <a href="/ufo-history/ufo-personalities/lorenzen-jim">Lorenzen, Jim</a> “<a href="/ufo-history/ufo-books/lorenzen-coral-ufos-over-the-americas">UFOs over the Americas</a>” (<a href="/tags/1968">1968</a>) (available <a href="http://www.amazon.com/dp/B00005X1IY/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B00005X1IY/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 186 (in Chapter 10) and (with relatively lengthy extract) at pages 218-219 (Appendix 1 generally) of the Signet paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/lorenzen-coral-e' | relative_url }}">Lorenzen, Coral</a> and <a href="{{ '/ufo-history/ufo-personalities/lorenzen-jim' | relative_url }}">Lorenzen, Jim</a> “<a href="{{ '/ufo-history/ufo-books/lorenzen-coral-ufos-over-the-americas' | relative_url }}">UFOs over the Americas</a>” (<a href="{{ '/tags/1968' | relative_url }}">1968</a>) (available <a href="http://www.amazon.com/dp/B00005X1IY/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B00005X1IY/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 186 (in Chapter 10) and (with relatively lengthy extract) at pages 218-219 (Appendix 1 generally) of the Signet paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -192,10 +192,10 @@ For discussion of the “UFOs – serious business” memo see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1976">1976</a></p>
+<p><a href="{{ '/tags/1976' | relative_url }}">1976</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/lorenzen-coral-e">Lorenzen, Coral</a> and <a href="/ufo-history/ufo-personalities/lorenzen-jim">Lorenzen, Jim</a> in “<a href="/ufo-history/ufo-books/lorenzen-coral-and-lorenzen-jim-encounters-with-ufo-occupants">Encounters with UFO Occupants</a>” (<a href="/tags/1976">1976</a>) (available <a href="http://www.amazon.com/dp/0425030938/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0425030938/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 247 (in Chapter 14) and (with relatively lengthy extract) at pages 403-404 (Appendix B generally) of the Berkley paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/lorenzen-coral-e' | relative_url }}">Lorenzen, Coral</a> and <a href="{{ '/ufo-history/ufo-personalities/lorenzen-jim' | relative_url }}">Lorenzen, Jim</a> in “<a href="{{ '/ufo-history/ufo-books/lorenzen-coral-and-lorenzen-jim-encounters-with-ufo-occupants' | relative_url }}">Encounters with UFO Occupants</a>” (<a href="{{ '/tags/1976' | relative_url }}">1976</a>) (available <a href="http://www.amazon.com/dp/0425030938/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0425030938/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 247 (in Chapter 14) and (with relatively lengthy extract) at pages 403-404 (Appendix B generally) of the Berkley paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -203,10 +203,10 @@ For discussion of the “UFOs – serious business” memo see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1961">1961</a></p>
+<p><a href="{{ '/tags/1961' | relative_url }}">1961</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/maney-charles-a">Maney, Charles A</a>nd <a href="/ufo-history/ufo-personalities/hall-richard-h">Hall, Richard</a> in their “<a href="/ufo-history/ufo-books/maney-charles-a-and-hall-richard-the-challenge-of-unidentified-flying-objects">Challenge of Unidentified Flying Objects</a>” (<a href="/tags/1961">1961</a>) (available <a href="http://www.amazon.com/dp/B00117X9ZO/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B00117X9ZO/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 100-101, 105 (in Part 2, Chapter 10, by Charles Maney) of the privately published hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/maney-charles-a' | relative_url }}">Maney, Charles A</a>nd <a href="{{ '/ufo-history/ufo-personalities/hall-richard-h' | relative_url }}">Hall, Richard</a> in their “<a href="{{ '/ufo-history/ufo-books/maney-charles-a-and-hall-richard-the-challenge-of-unidentified-flying-objects' | relative_url }}">Challenge of Unidentified Flying Objects</a>” (<a href="{{ '/tags/1961' | relative_url }}">1961</a>) (available <a href="http://www.amazon.com/dp/B00117X9ZO/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B00117X9ZO/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 100-101, 105 (in Part 2, Chapter 10, by Charles Maney) of the privately published hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -214,10 +214,10 @@ For discussion of the “UFOs – serious business” memo see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2006">2006</a></p>
+<p><a href="{{ '/tags/2006' | relative_url }}">2006</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/redfern-nicholas">Redfern, Nicholas</a> in his “<a href="/ufo-history/ufo-books/redfern-nicholas-on-the-trail-of-the-saucer-spies">On the Trail of the Saucer Spies : UFOs and Government Surveillance</a>” (<a href="/tags/2006">2006</a>) (available <a href="http://www.amazon.com/dp/0743497538/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743497538/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 85-87 (in Chapter 5) of the Anomalist Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/redfern-nicholas' | relative_url }}">Redfern, Nicholas</a> in his “<a href="{{ '/ufo-history/ufo-books/redfern-nicholas-on-the-trail-of-the-saucer-spies' | relative_url }}">On the Trail of the Saucer Spies : UFOs and Government Surveillance</a>” (<a href="{{ '/tags/2006' | relative_url }}">2006</a>) (available <a href="http://www.amazon.com/dp/0743497538/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743497538/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 85-87 (in Chapter 5) of the Anomalist Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -225,10 +225,10 @@ For discussion of the “UFOs – serious business” memo see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/stone-clifford-e">Stone, Clifford E</a> in his “<a href="/ufo-history/ufo-books/stone-clifford-e-ufos-are-real">UFOs are Real</a>“ (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1561719722/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1561719722/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 6 (in Chapter 1) of the SPI softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/stone-clifford-e' | relative_url }}">Stone, Clifford E</a> in his “<a href="{{ '/ufo-history/ufo-books/stone-clifford-e-ufos-are-real' | relative_url }}">UFOs are Real</a>“ (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1561719722/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1561719722/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 6 (in Chapter 1) of the SPI softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -236,10 +236,10 @@ For discussion of the “UFOs – serious business” memo see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1967">1967</a></p>
+<p><a href="{{ '/tags/1967' | relative_url }}">1967</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/young-mort">Young, Mort</a> in his “<a href="/ufo-history/ufo-books/young-mort-ufo-top-secret">UFO Top Secret</a>” (<a href="/tags/1967">1967</a>) (available <a href="http://www.amazon.com/dp/0671102125/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0671102125/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 28 (in Chapter 2) of the Essandess softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/young-mort' | relative_url }}">Young, Mort</a> in his “<a href="{{ '/ufo-history/ufo-books/young-mort-ufo-top-secret' | relative_url }}">UFO Top Secret</a>” (<a href="{{ '/tags/1967' | relative_url }}">1967</a>) (available <a href="http://www.amazon.com/dp/0671102125/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0671102125/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 28 (in Chapter 2) of the Essandess softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

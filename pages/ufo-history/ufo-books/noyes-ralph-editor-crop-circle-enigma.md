@@ -14,7 +14,7 @@ header: {"preview_image": "https://covers.openlibrary.org/b/isbn/0946551669-L.jp
 book: {"identifiers": ["0946551669", "1591021103"], "primary_isbn": "0946551669", "cover_image": "https://covers.openlibrary.org/b/isbn/0946551669-L.jpg?default=false", "cover_source": "openlibrary"}
 ---
 
-Brief review to be added of “[Crop Circle Enigma](/ufo-history/ufo-books/noyes-ralph-editor-crop-circle-enigma)” ([1990](/tags/1990)) (available [on Amazon USA](http://www.amazon.com/dp/0946551669/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0946551669/?&tag=ufot-21)) edited by [Ralph Noyes](/ufo-history/ufo-personalities/noyes-ralph).
+Brief review to be added of “[Crop Circle Enigma]({{ '/ufo-history/ufo-books/noyes-ralph-editor-crop-circle-enigma' | relative_url }})” ([1990]({{ '/tags/1990' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0946551669/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0946551669/?&tag=ufot-21)) edited by [Ralph Noyes]({{ '/ufo-history/ufo-personalities/noyes-ralph' | relative_url }}).
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1993">1993</a></p>
+<p><a href="{{ '/tags/1993' | relative_url }}">1993</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/schnabel-jim">Schnabel, Jim</a> in his “<a href="/ufo-history/ufo-books/schnabel-jim-round-in-circles">Round in Circles</a>” (<a href="/tags/1993">1993</a>) (available <a href="http://www.amazon.com/dp/1591021103/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1591021103/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 139-140 (in Chapter 13) of the Hamish Hamilton hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/schnabel-jim' | relative_url }}">Schnabel, Jim</a> in his “<a href="{{ '/ufo-history/ufo-books/schnabel-jim-round-in-circles' | relative_url }}">Round in Circles</a>” (<a href="{{ '/tags/1993' | relative_url }}">1993</a>) (available <a href="http://www.amazon.com/dp/1591021103/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1591021103/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 139-140 (in Chapter 13) of the Hamish Hamilton hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

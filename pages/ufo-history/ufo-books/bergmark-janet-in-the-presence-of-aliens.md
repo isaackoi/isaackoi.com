@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/1567180639.jpg"}
 book: {"identifiers": ["1567180639"], "primary_isbn": "1567180639", "cover_image": "/book-covers/1567180639.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of Janet Bergmark's book “[In The Presence Of Aliens](/ufo-history/ufo-books/bergmark-janet-in-the-presence-of-aliens)” ([1997](/tags/1997)) (available [on Amazon USA](http://www.amazon.com/dp/1567180639/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1567180639/?&tag=ufot-21))
+Brief review to be added of Janet Bergmark's book “[In The Presence Of Aliens]({{ '/ufo-history/ufo-books/bergmark-janet-in-the-presence-of-aliens' | relative_url }})” ([1997]({{ '/tags/1997' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1567180639/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1567180639/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -52,10 +52,10 @@ Many of the tables of references on this website are considerably longer than th
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p>Dallek, Gary in Janet Bergmark’s “<a href="/ufo-history/ufo-books/bergmark-janet-in-the-presence-of-aliens">In The Presence Of Aliens</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1567180639/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1567180639/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages ix-xi (in the Foreword) of the Llewellyn softcover edition.</p>
+<p>Dallek, Gary in Janet Bergmark’s “<a href="{{ '/ufo-history/ufo-books/bergmark-janet-in-the-presence-of-aliens' | relative_url }}">In The Presence Of Aliens</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1567180639/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1567180639/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages ix-xi (in the Foreword) of the Llewellyn softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>

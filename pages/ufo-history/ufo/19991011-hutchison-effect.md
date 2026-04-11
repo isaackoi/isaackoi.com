@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -63,10 +63,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/cook-nick">Cook, Nick</a> in his “<a href="/ufo-history/ufo-books/cook-nick-the-hunt-for-zero-point">The Hunt for Zero Point</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/0767906284/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0767906284/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 257, 258, 260-268 (in Chapter 25), 270-271, 272 (in Chapter 26) of the Century hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/cook-nick' | relative_url }}">Cook, Nick</a> in his “<a href="{{ '/ufo-history/ufo-books/cook-nick-the-hunt-for-zero-point' | relative_url }}">The Hunt for Zero Point</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/0767906284/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0767906284/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 257, 258, 260-268 (in Chapter 25), 270-271, 272 (in Chapter 26) of the Century hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>14</p>
@@ -74,10 +74,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/o-leary-brian">O’ Leary, Brian</a> in his “<a href="/ufo-history/ufo-books/o-leary-brian-miracle-in-the-void-free-energy-ufos-and-other-scientific-revelations">Miracle in the Void: Free Energy, UFOs and Other Scientific Revelations</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/1893157199/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1893157199/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 187 (in Chapter 11) of the Kamapua softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/o-leary-brian' | relative_url }}">O’ Leary, Brian</a> in his “<a href="{{ '/ufo-history/ufo-books/o-leary-brian-miracle-in-the-void-free-energy-ufos-and-other-scientific-revelations' | relative_url }}">Miracle in the Void: Free Energy, UFOs and Other Scientific Revelations</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/1893157199/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1893157199/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 187 (in Chapter 11) of the Kamapua softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

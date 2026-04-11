@@ -42,9 +42,9 @@ Koi UFO Video 066 appears to show a UFO moving around under clouds in the night 
 
 Screen shots from these videos are included below for ease of identification.
 
-![](/images/stories/ufo_videos/video066_1.JPG)
+![]({{ '/images/stories/ufo_videos/video066_1.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video066_2.JPG)
+![]({{ '/images/stories/ufo_videos/video066_2.JPG' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this video
@@ -107,4 +107,4 @@ Relevant discussions on the AboveTopSecret.com forum include the following:
 
 2012 (June) discussion entitled "[UFO over Australia -- 17-09-2010](http://www.abovetopsecret.com/forum/thread615097/pg1)"
 
-![](/images/stories/ufo_videos/video066_2d.jpg)
+![]({{ '/images/stories/ufo_videos/video066_2d.jpg' | relative_url }})

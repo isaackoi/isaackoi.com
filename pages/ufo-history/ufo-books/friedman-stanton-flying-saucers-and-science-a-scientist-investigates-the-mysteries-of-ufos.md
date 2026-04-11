@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/1601630115.jpg"}
 book: {"identifiers": ["1601630115"], "primary_isbn": "1601630115", "cover_image": "/book-covers/1601630115.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Stanton Friedman](/ufo-history/ufo-personalities/friedman-stanton)'s book “[Flying Saucers and Science: A Scientist Investigates the Mysteries of UFOs](/ufo-history/ufo-books/friedman-stanton-flying-saucers-and-science-a-scientist-investigates-the-mysteries-of-ufos)” ([2008](/tags/2008)) (available [on Amazon USA](http://www.amazon.com/dp/1601630115/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1601630115/?&tag=ufot-21))
+Brief review to be added of [Stanton Friedman]({{ '/ufo-history/ufo-personalities/friedman-stanton' | relative_url }})'s book “[Flying Saucers and Science: A Scientist Investigates the Mysteries of UFOs]({{ '/ufo-history/ufo-books/friedman-stanton-flying-saucers-and-science-a-scientist-investigates-the-mysteries-of-ufos' | relative_url }})” ([2008]({{ '/tags/2008' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1601630115/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1601630115/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

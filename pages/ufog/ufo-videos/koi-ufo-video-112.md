@@ -42,15 +42,15 @@ Koi UFO Video 112 appears to show a light appearing in the night sky above Canbe
 
 Screen shots from the video are included below for ease of identification:
 
-![](/images/stories/ufo_videos/video112_1.JPG)
+![]({{ '/images/stories/ufo_videos/video112_1.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video112_2.JPG)
+![]({{ '/images/stories/ufo_videos/video112_2.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video112_3.JPG)
+![]({{ '/images/stories/ufo_videos/video112_3.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video112_4.JPG)
+![]({{ '/images/stories/ufo_videos/video112_4.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video112_5.JPG)
+![]({{ '/images/stories/ufo_videos/video112_5.JPG' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this video
@@ -71,7 +71,7 @@ Suggestions have been made that extraterrestrial activity could been linked to t
 
 That article also reported on speculation on Reddit and Youtube that the video might show ball lightning.
 
-![](/images/stories/ufo_videos/video112_7.JPG)
+![]({{ '/images/stories/ufo_videos/video112_7.JPG' | relative_url }})
 
 Similarly, the website of another British tabloid newspaper (The Sun) included [an article in January 2016 entitled 'Is this a UFO exiting a portal from another dimension? Bizarre flash of light sparks 'extra-terrestrial' claims"](http://www.thesun.co.uk/sol/homepage/news/6840618/Is-this-a-UFO-exiting-a-portal-from-another-dimension-Bizarre-flash-of-flight-sparks-extra-terrestrial-claims.html). That article included the following:
 
@@ -79,7 +79,7 @@ Similarly, the website of another British tabloid newspaper (The Sun) included [
 
 Others suggested the video was a hoax but Brad Tucker, an Australian National University astronomer, told ABC: "It's probably not photoshop. Everything kind of fits and it seems right." Others suggested the video was a hoax but Brad Tucker, an Australian National University astronomer, told ABC: "It's probably not photoshop. Everything kind of fits and it seems right.""
 
-![](/images/stories/ufo_videos/video112_8.JPG)
+![]({{ '/images/stories/ufo_videos/video112_8.JPG' | relative_url }})
 
 <a id="truth"></a>
 ### 3. The real background to this video
@@ -88,17 +88,17 @@ In fact, this video was a hoax. The hoaxer released a video admitting the hoax w
 
 [https://www.youtube.com/watch?v=BxJoA2sBaSI](https://www.youtube.com/watch?v=BxJoA2sBaSI)
 
-![](/images/stories/ufo_videos/video112_9.JPG)
+![]({{ '/images/stories/ufo_videos/video112_9.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video112_10.JPG)
+![]({{ '/images/stories/ufo_videos/video112_10.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video112_11.JPG)
+![]({{ '/images/stories/ufo_videos/video112_11.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video112_12.JPG)
+![]({{ '/images/stories/ufo_videos/video112_12.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video112_13.JPG)
+![]({{ '/images/stories/ufo_videos/video112_13.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video112_14.JPG)
+![]({{ '/images/stories/ufo_videos/video112_14.JPG' | relative_url }})
 
 Unusually, the video containing the admission of the hoax obtained a significant number of views. It obtained approximately 250,000 views in its first 10 days online. (Often, follow-up videos showing how a UFO hoax was created only get a minuscule number of views compared to the original hoax videos).
 
@@ -112,7 +112,7 @@ Ball lightning was one explanation. Unsurprisingly, aliens were another.
 
 But, proving yet again that the simplest solution is probably the best, YouTuber Johnson Thompson said it was an experiment gone wrong that set the viral ‘hoax’ in motion."
 
-![](/images/stories/ufo_videos/video112_6.JPG)
+![]({{ '/images/stories/ufo_videos/video112_6.JPG' | relative_url }})
 
 While media coverage of the admission of the hoax was more extensive than usual, I would estimate the number of relevant articles at about half those that covered the original "UFO" video. Similarly, while the number of views of the video admitting the hoax was rather high relative to most such confession videos, it still only received about half as many views as the original "UFO" video. I would be prepared to wager that the "UFO" video will circulate on Facebook and elsewhere during the coming year/years whereas the video admitting the hoax is considerably less likely to be remembered.
 
@@ -131,4 +131,4 @@ Relevant discussions on the AboveTopSecret.com forum include the following:
 
 Other relevant online discussions include[a discussion in January 2016 on the "Discuss" Facebook page](https://www.facebook.com/groups/1563321930555122/permalink/1590091464544835/) (a UFO discussion group on Facebook).
 
-![](/images/stories/ufo_videos/video112_3d.jpg)
+![]({{ '/images/stories/ufo_videos/video112_3d.jpg' | relative_url }})

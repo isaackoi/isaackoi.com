@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0709032765.jpg"}
 book: {"identifiers": ["0709032765", "0806981326", "0709052677", "0708847781"], "primary_isbn": "0709032765", "cover_image": "/book-covers/0709032765.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of “[Abduction](/ufo-history/ufo-books/randles-jenny-abduction)” ([1988](/tags/1988)) (available [on Amazon USA](http://www.amazon.com/dp/0709032765/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0709032765/?&tag=ufot-21)) by [Jenny Randles](/ufo-history/ufo-personalities/randles-jenny).
+Brief review to be added of “[Abduction]({{ '/ufo-history/ufo-books/randles-jenny-abduction' | relative_url }})” ([1988]({{ '/tags/1988' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0709032765/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0709032765/?&tag=ufot-21)) by [Jenny Randles]({{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}).
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> and <a href="/ufo-history/ufo-personalities/hough-peter">Hough, Peter</a> in their “<a href="/ufo-history/ufo-books/randles-jenny-and-hough-peter-the-complete-book-of-ufos">The Complete Book of UFOs</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/0806981326/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806981326/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 288 (in Chapter 25) of the Piatkus softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> and <a href="{{ '/ufo-history/ufo-personalities/hough-peter' | relative_url }}">Hough, Peter</a> in their “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-hough-peter-the-complete-book-of-ufos' | relative_url }}">The Complete Book of UFOs</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/0806981326/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806981326/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 288 (in Chapter 25) of the Piatkus softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -65,10 +65,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> and <a href="/ufo-history/ufo-personalities/fuller-paul">Fuller, Paul</a> in their “<a href="http://isaackoi.com/tags/crop-circles.html">Crop Circles:</a> A Mystery Solved” (<a href="/tags/1990">1990</a>) (available <a href="http://www.amazon.com/dp/0709052677/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0709052677/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 13 (in the Introduction) of the Hale softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> and <a href="{{ '/ufo-history/ufo-personalities/fuller-paul' | relative_url }}">Fuller, Paul</a> in their “<a href="http://isaackoi.com/tags/crop-circles.html">Crop Circles:</a> A Mystery Solved” (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) (available <a href="http://www.amazon.com/dp/0709052677/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0709052677/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 13 (in the Introduction) of the Hale softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -76,10 +76,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1989">1989</a></p>
+<p><a href="{{ '/tags/1989' | relative_url }}">1989</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/spencer-john">Spencer, John</a> in his “<a href="/ufo-history/ufo-books/spencer-john-perspectives">Perspectives</a>“ (<a href="/tags/1989">1989</a>) (available <a href="http://www.amazon.com/dp/0708847781/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0708847781/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 221-222 of the Futura paperback edition (in Part 6(b)).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">Spencer, John</a> in his “<a href="{{ '/ufo-history/ufo-books/spencer-john-perspectives' | relative_url }}">Perspectives</a>“ (<a href="{{ '/tags/1989' | relative_url }}">1989</a>) (available <a href="http://www.amazon.com/dp/0708847781/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0708847781/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 221-222 of the Futura paperback edition (in Part 6(b)).</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

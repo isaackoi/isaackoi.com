@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0283060697.jpg"}
 book: {"identifiers": ["0283060697"], "primary_isbn": "0283060697", "cover_image": "/book-covers/0283060697.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of “[The UFO Report 1991](/ufo-history/ufo-books/good-timothy-editor-the-ufo-report-1991)” ([1990](/tags/1990)) (available [on Amazon USA](http://www.amazon.com/dp/0283060697/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0283060697/?&tag=ufot-21)) edited by [Timothy Good](/ufo-history/ufo-personalities/good-timothy).
+Brief review to be added of “[The UFO Report 1991]({{ '/ufo-history/ufo-books/good-timothy-editor-the-ufo-report-1991' | relative_url }})” ([1990]({{ '/tags/1990' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0283060697/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0283060697/?&tag=ufot-21)) edited by [Timothy Good]({{ '/ufo-history/ufo-personalities/good-timothy' | relative_url }}).
 
 1. [Web Resources](#web)
 

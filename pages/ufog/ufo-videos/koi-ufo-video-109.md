@@ -46,9 +46,9 @@ This video appears to show two men engaged in baseball batting practice, with fo
 
 Screen shots from this video are included below for ease of identification.
 
-![](/images/stories/ufo_videos/video109_1.JPG)
+![]({{ '/images/stories/ufo_videos/video109_1.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video109_2.JPG)
+![]({{ '/images/stories/ufo_videos/video109_2.JPG' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this video
@@ -70,7 +70,7 @@ The [Easton.com website](http://www.easton.com/) gives details of the baseball b
 
 The relevant Easton advert can be found in online databases of viral adverts, including on [the Coloribus website](http://www.coloribus.com/adsarchive/online-viral/easton-baseball-skeet-ball-14706705/):
 
-![](/images/stories/ufo_videos/video109_5.JPG)
+![]({{ '/images/stories/ufo_videos/video109_5.JPG' | relative_url }})
 
 The viral marketers used by Easton have (quite understandably) included this highly successful video on their webpages.
 
@@ -78,25 +78,25 @@ Ross Harris directed and edited the video. Ross Harris is clearly rather versati
 
 Apart from Easton, his clients have included Apple, Ford, Starbucks, Honda, Yo Gabba Gabba and Coca Cola.
 
-![](/images/stories/ufo_videos/video109_8.JPG)
+![]({{ '/images/stories/ufo_videos/video109_8.JPG' | relative_url }})
 
 A summary of his past projects [on his website](http://rossangeles.net/following/all) includes the relevant Easton video.
 
-![](/images/stories/ufo_videos/video109_7.JPG)
+![]({{ '/images/stories/ufo_videos/video109_7.JPG' | relative_url }})
 
 Joel Fox provided the special effects for the "Ultimate Batting Practice" video. [His website](http://joeldepartment.com/projects.html)states that his "animations and artworks have been seen in galleries and film festivals in the US and Europe". He has created "many segments" for the Yo Gabba Gabba show, also creating short films and lectures.
 
 A [list of Joel Fox's previous clients on his website](http://joeldepartment.com/clients.html) includes Easton Sports, referring to his "technical direction and effects" for the "successful viral" video "Ultimate Batting Practice".
 
-![](/images/stories/ufo_videos/video109_10.JPG)
+![]({{ '/images/stories/ufo_videos/video109_10.JPG' | relative_url }})
 
 A page of past projects on Joel Fox's website includes the "Ultimate Batting Practice" video.
 
-![](/images/stories/ufo_videos/video109_9.JPG)
+![]({{ '/images/stories/ufo_videos/video109_9.JPG' | relative_url }})
 
 A [Deadspin.com article](http://deadspin.com/5829675/okay-easton-pr-guy-you-win) has referred to the "egregious sodomy of physics" in the video and shown how various blogs were sent emails by purported fans to encourage them to share the video with their readers - including at least one sent directly from Easton.
 
-![](/images/stories/ufo_videos/video109_6.JPG)
+![]({{ '/images/stories/ufo_videos/video109_6.JPG' | relative_url }})
 
 The original uploader of the "Ultimate Batting Practice" video (i.e. the Youtube user "Eastondreamcrazy") also uploaded a related video called "Ultimate Batting Practice - Skeet Ball". That video is equally amusing, appearing to show someone batting baseballs to hit clay targets being launched from a skeet launcher.
 
@@ -104,9 +104,9 @@ The original uploader of the "Ultimate Batting Practice" video (i.e. the Youtube
 
 Some screen shots from the skeet shoot video are included below for ease of reference.
 
-![](/images/stories/ufo_videos/video109_3.JPG)
+![]({{ '/images/stories/ufo_videos/video109_3.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video109_4.JPG)
+![]({{ '/images/stories/ufo_videos/video109_4.JPG' | relative_url }})
 
 <a id="forums"></a>
 #
@@ -115,4 +115,4 @@ Some screen shots from the skeet shoot video are included below for ease of refe
 
 Relevant discussions include a [Deadspin.com article](http://deadspin.com/5829675/okay-easton-pr-guy-you-win).
 
-![](/images/stories/ufo_videos/video109_2d.jpg)
+![]({{ '/images/stories/ufo_videos/video109_2d.jpg' | relative_url }})

@@ -44,15 +44,15 @@ The UFOs appear to be large balls of light, that make a whooshing noise as they 
 
 Screen shots from the video are included below for ease of identification:
 
-![](/images/stories/ufo_videos/video005_1.JPG)
+![]({{ '/images/stories/ufo_videos/video005_1.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video005_2.JPG)
+![]({{ '/images/stories/ufo_videos/video005_2.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video005_3.JPG)
+![]({{ '/images/stories/ufo_videos/video005_3.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video005_4.JPG)
+![]({{ '/images/stories/ufo_videos/video005_4.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video005_5.JPG)
+![]({{ '/images/stories/ufo_videos/video005_5.JPG' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this video
@@ -68,11 +68,11 @@ This video was part of a viral advertising campaign for Toyota (specifically for
 
 The video formed an early part of a series of videos that made the link to Toyota increasingly obvious, with one video including supposed alien markings that looked like Toyota's logo and the final videos featuring the new Toyota Camry itself. A few screen shots from those later videos are shown below:
 
-![](/images/stories/ufo_videos/video005_9.JPG)
+![]({{ '/images/stories/ufo_videos/video005_9.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video005_8.JPG)
+![]({{ '/images/stories/ufo_videos/video005_8.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video005_10.JPG)
+![]({{ '/images/stories/ufo_videos/video005_10.JPG' | relative_url }})
 
 These videos, and a related (fake) news website, were the first viral advertising campaign by Toyota and involved work by Great Urban Myth (an Australian creative advertising consultancy).
 
@@ -80,15 +80,15 @@ Great Urban Myth's website includes [an informative and entertaining webpage giv
 
 "We were approached by Hothouse Interactive to work with them on a viral campaign to launch the new Toyota Camry. It was the first time Toyota had attempted such a campaign. We conceived the idea of a sensationalist American news network, running a story about an alien landing in outback Australia which coincided with - and becomes about - the run up to the launch of the new car. As well as this series of ‘News Reports’ we created an entire website for WBC News, where our campaign appeared amongst genuine news stories on RSS feeds. Great Urban Myth wrote and produced 12 episodes, which culminate with the real news story at the heart of our campaign - the launch of the new Toyota Camry".
 
-![](/images/stories/ufo_videos/video005_7.JPG)
+![]({{ '/images/stories/ufo_videos/video005_7.JPG' | relative_url }})
 
 According to [Great Urban Myth's website](http://www.greaturbanmyth.com/Great_Urban_Myth/Creative_Team.html), its Creative Director (Adrian Hayward, pictured below) has been making TV commercials in Australasia and around the world for 25 years (including campaigns for several major brands, such as McDonalds, Volkswagen and British Airways).
 
-![](/images/stories/ufo_videos/video005_6.JPG)
+![]({{ '/images/stories/ufo_videos/video005_6.JPG' | relative_url }})
 
 The related (fake) news website for "WBC News" included a webpage on its "reporters", including Ted Maynard (said to be "the anchor of WBC News' "Today Early," and he also serves as a daytime anchor for WBC Live"). In fact, Ted Maynard is an actor with [an entry on the IMDB website](http://www.imdb.com/name/nm0562792/):
 
-![](/images/stories/ufo_videos/video005_11.JPG)
+![]({{ '/images/stories/ufo_videos/video005_11.JPG' | relative_url }})
 
 That webpage also listed other "reporters" and "anchors", including Brenda Hamilton, Liam Frost and Roger Marshall. I'll leave finding their IMDB entries as an exercise for their readers.
 
@@ -105,4 +105,4 @@ Notably, long before the webpage of the Great Urban Myth advertising agency made
 
 This video was also discussed on the GodLikeProductions.com discussion forum in [a discussion in 2006](http://www.godlikeproductions.com/bbs/message.php?messageid=275797&mpage=1&showdate=8/9/06).
 
-![](/images/stories/ufo_videos/video005_4d.jpg)
+![]({{ '/images/stories/ufo_videos/video005_4d.jpg' | relative_url }})

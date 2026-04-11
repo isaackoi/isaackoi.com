@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0760705496.jpg"}
 book: {"identifiers": ["0760705496"], "primary_isbn": "0760705496", "cover_image": "/book-covers/0760705496.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of “[UFOs and How to See Them](/ufo-history/ufo-books/randles-jenny-ufos-and-how-to-see-them)” ([1992](/tags/1992)) (available [on Amazon USA](http://www.amazon.com/dp/0760705496/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0760705496/?&tag=ufot-21)) by [Jenny Randles](/ufo-history/ufo-personalities/randles-jenny).
+Brief review to be added of “[UFOs and How to See Them]({{ '/ufo-history/ufo-books/randles-jenny-ufos-and-how-to-see-them' | relative_url }})” ([1992]({{ '/tags/1992' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0760705496/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0760705496/?&tag=ufot-21)) by [Jenny Randles]({{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}).
 
 1. [Web Resources](#web)
 

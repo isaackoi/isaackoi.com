@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/arnold_kenneth_1.jpg"}
 ---
 
-![arnold_kenneth_1](/images/stories/ufo_personalities/arnold_kenneth_1.jpg)
+![arnold_kenneth_1]({{ '/images/stories/ufo_personalities/arnold_kenneth_1.jpg' | relative_url }})
 
 *Image needed*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1952">1952</a></p>
+<p><a href="{{ '/tags/1952' | relative_url }}">1952</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/arnold-kenneth">Arnold, Kenneth</a> and <a href="/ufo-history/ufo-personalities/palmer-raymond-a">Palmer, Ray</a> “<a href="/ufo-history/ufo-books/arnold-kenneth-and-palmer-ray-the-coming-of-the-saucers">The Coming of the Saucers</a>” (<a href="/tags/1952">1952</a>) (available <a href="http://www.amazon.com/dp/0964499711/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0964499711/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/arnold-kenneth' | relative_url }}">Arnold, Kenneth</a> and <a href="{{ '/ufo-history/ufo-personalities/palmer-raymond-a' | relative_url }}">Palmer, Ray</a> “<a href="{{ '/ufo-history/ufo-books/arnold-kenneth-and-palmer-ray-the-coming-of-the-saucers' | relative_url }}">The Coming of the Saucers</a>” (<a href="{{ '/tags/1952' | relative_url }}">1952</a>) (available <a href="http://www.amazon.com/dp/0964499711/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0964499711/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>
@@ -59,7 +59,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-See the references provided in the entries for [Kenneth Arnold's various sightings and his book](/tags/kenneth-arnold).
+See the references provided in the entries for [Kenneth Arnold's various sightings and his book]({{ '/tags/kenneth-arnold' | relative_url }}).
 
 <a id="other"></a>
 ### Other Material

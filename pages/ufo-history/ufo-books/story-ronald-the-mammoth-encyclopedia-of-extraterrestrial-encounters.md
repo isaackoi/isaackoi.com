@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/1841196134.jpg"}
 book: {"identifiers": ["1841196134"], "primary_isbn": "1841196134", "cover_image": "/book-covers/1841196134.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of “[The Mammoth Encyclopedia of Extraterrestrial Encounters](/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters)” ([2001](/tags/2001)) (available [on Amazon USA](http://www.amazon.com/dp/1841196134/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1841196134/?&tag=ufot-21)) by [Ronald Story](/ufo-history/ufo-personalities/story-ronald).
+Brief review to be added of “[The Mammoth Encyclopedia of Extraterrestrial Encounters]({{ '/ufo-history/ufo-books/story-ronald-the-mammoth-encyclopedia-of-extraterrestrial-encounters' | relative_url }})” ([2001]({{ '/tags/2001' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1841196134/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1841196134/?&tag=ufot-21)) by [Ronald Story]({{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}).
 
 1. [Web Resources](#web)
 

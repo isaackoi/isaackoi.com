@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/mciver_shirley_1.jpg"}
 ---
 
-![mciver_shirley_1](/images/stories/ufo_personalities/mciver_shirley_1.jpg)
+![mciver_shirley_1]({{ '/images/stories/ufo_personalities/mciver_shirley_1.jpg' | relative_url }})
 
 *Shirley McIver*
 
@@ -33,7 +33,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-See the references provided in [the entry for McIver's dissertation](/ufo-history/ufo/19850000-shirley-mcivers-thesis).
+See the references provided in [the entry for McIver's dissertation]({{ '/ufo-history/ufo/19850000-shirley-mcivers-thesis' | relative_url }}).
 
 <a id="other"></a>
 ### Other Material

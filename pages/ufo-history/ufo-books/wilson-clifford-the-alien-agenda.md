@@ -14,9 +14,9 @@ header: {"preview_image": "https://covers.openlibrary.org/b/isbn/0451157060-L.jp
 book: {"identifiers": ["0451157060"], "primary_isbn": "0451157060", "cover_image": "https://covers.openlibrary.org/b/isbn/0451157060-L.jpg?default=false", "cover_source": "openlibrary"}
 ---
 
-Brief review to be added of [Clifford Wilson](/ufo-history/ufo-personalities/wilson-clifford)'s “[The Alien Agenda](/ufo-history/ufo-books/wilson-clifford-the-alien-agenda)” ([1988](/tags/1988)) (available [on Amazon USA](http://www.amazon.com/dp/0451157060/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0451157060/?&tag=ufot-21)).
+Brief review to be added of [Clifford Wilson]({{ '/ufo-history/ufo-personalities/wilson-clifford' | relative_url }})'s “[The Alien Agenda]({{ '/ufo-history/ufo-books/wilson-clifford-the-alien-agenda' | relative_url }})” ([1988]({{ '/tags/1988' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0451157060/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0451157060/?&tag=ufot-21)).
 
-Updated version of “[UFOs and Their Mission Impossible](/ufo-history/ufo-books/wilson-clifford-ufos-and-their-mission-impossible)”.
+Updated version of “[UFOs and Their Mission Impossible]({{ '/ufo-history/ufo-books/wilson-clifford-ufos-and-their-mission-impossible' | relative_url }})”.
 
 1. [Web Resources](#web)
 

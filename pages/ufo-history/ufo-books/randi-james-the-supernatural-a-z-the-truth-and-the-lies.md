@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/1860197949.jpg"}
 book: {"identifiers": ["1860197949"], "primary_isbn": "1860197949", "cover_image": "/book-covers/1860197949.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [James Randi](/ufo-history/ufo-personalities/randi-james)'s book “[The Supernatural A-Z: The Truth and the Lies](/ufo-history/ufo-books/randi-james-the-supernatural-a-z-the-truth-and-the-lies)” (available [on Amazon USA](http://www.amazon.com/dp/1860197949/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1860197949/?&tag=ufot-21))
+Brief review to be added of [James Randi]({{ '/ufo-history/ufo-personalities/randi-james' | relative_url }})'s book “[The Supernatural A-Z: The Truth and the Lies]({{ '/ufo-history/ufo-books/randi-james-the-supernatural-a-z-the-truth-and-the-lies' | relative_url }})” (available [on Amazon USA](http://www.amazon.com/dp/1860197949/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1860197949/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

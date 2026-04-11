@@ -13,13 +13,13 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/filer_george_1.jpg"}
 ---
 
-![filer_george_1](/images/stories/ufo_personalities/filer_george_1.jpg)
+![filer_george_1]({{ '/images/stories/ufo_personalities/filer_george_1.jpg' | relative_url }})
 
 *George Filer*
 
 Brief comments to be added on this individual.
 
-[George Filer](/ufo-history/ufo-personalities/filer-george) claims to have seen (visually and on radar) a UFO over England whilst in a KB-50 J tanker aircraft during February 1962.
+[George Filer]({{ '/ufo-history/ufo-personalities/filer-george' | relative_url }}) claims to have seen (visually and on radar) a UFO over England whilst in a KB-50 J tanker aircraft during February 1962.
 
 Sections below:
 
@@ -61,10 +61,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/greer-steven">Greer, Steven</a> in his “<a href="/ufo-history/ufo-books/greer-steven-disclosure-military-and-government-witnesses-reveal-the-greatest-secrets-in-modern-history">Disclosure : Military and Government Witnesses Reveal the Greatest Secrets in Modern History</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/0967323819/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0967323819/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 284-288 (in Section 4) of the Crossing Point softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/greer-steven' | relative_url }}">Greer, Steven</a> in his “<a href="{{ '/ufo-history/ufo-books/greer-steven-disclosure-military-and-government-witnesses-reveal-the-greatest-secrets-in-modern-history' | relative_url }}">Disclosure : Military and Government Witnesses Reveal the Greatest Secrets in Modern History</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/0967323819/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0967323819/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 284-288 (in Section 4) of the Crossing Point softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>
@@ -72,10 +72,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p>Michaels, Susan in her “<a href="/ufo-history/ufo-books/michaels-susan-sightings-ufos">Sightings: UFOs</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0684836300/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684836300/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 37 (in the unnumbered chapter entitled “Flying Saucers are Real”) of the Fireside softcover edition.</p>
+<p>Michaels, Susan in her “<a href="{{ '/ufo-history/ufo-books/michaels-susan-sightings-ufos' | relative_url }}">Sightings: UFOs</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0684836300/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684836300/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 37 (in the unnumbered chapter entitled “Flying Saucers are Real”) of the Fireside softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

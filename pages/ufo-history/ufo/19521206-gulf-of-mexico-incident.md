@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -63,10 +63,10 @@ For discussion of the Gulf of Mexico B-29 incident see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p>Blundell, Nigel in his “<a href="/ufo-history/ufo-books/blundell-nigel-worlds-most-amazing-ufo-visits">World’s Most Amazing UFO Visits</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/1857781589/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1857781589/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 27 of the Select softcover edition.</p>
+<p>Blundell, Nigel in his “<a href="{{ '/ufo-history/ufo-books/blundell-nigel-worlds-most-amazing-ufo-visits' | relative_url }}">World’s Most Amazing UFO Visits</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/1857781589/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1857781589/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 27 of the Select softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -74,10 +74,10 @@ For discussion of the Gulf of Mexico B-29 incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/brookesmith-peter">Brookesmith, Peter</a> in his “<a href="/ufo-history/ufo-books/brookesmith-peter-ufo-the-complete-sightings-catalogue">UFO: The Complete Sightings Catalogue</a>” (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/0713725184/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713725184/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 55 (in Chapter 3) of the BCA hardback edition (with the same page numbering in the Blitz hardback edition, and in the Barnes &amp; Noble hardback edition published under the title “UFO: The Complete Sightings”).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/brookesmith-peter' | relative_url }}">Brookesmith, Peter</a> in his “<a href="{{ '/ufo-history/ufo-books/brookesmith-peter-ufo-the-complete-sightings-catalogue' | relative_url }}">UFO: The Complete Sightings Catalogue</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/0713725184/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713725184/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 55 (in Chapter 3) of the BCA hardback edition (with the same page numbering in the Blitz hardback edition, and in the Barnes &amp; Noble hardback edition published under the title “UFO: The Complete Sightings”).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -85,10 +85,10 @@ For discussion of the Gulf of Mexico B-29 incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1969">1969</a></p>
+<p><a href="{{ '/tags/1969' | relative_url }}">1969</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects">Condon Report</a> (“<a href="/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects">Scientific Study of Unidentified Flying Objects</a>”, Edward U Condon (Director) and Daniel S Gillmor (Editor) (<a href="/tags/1969">1969</a>)) as radar incident 103-B at pages 220-223 (in Section 3, Chapter 5 “Optical and Radar Analyses of Field Cases”, by Gordon D Thayer) of the uncorrected version submitted to the Air Force (with the same page numbering in the 3 volume paperbound edition distributed by the National Technical Information Service, US Department of Commerce) at pages 148-150 of the Vision hardback edition (with the same page numbering in the Bantam paperback edition). The first of these editions has the same page numbering as the edition available free online at the following links:</p>
+<p><a href="{{ '/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects' | relative_url }}">Condon Report</a> (“<a href="{{ '/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects' | relative_url }}">Scientific Study of Unidentified Flying Objects</a>”, Edward U Condon (Director) and Daniel S Gillmor (Editor) (<a href="{{ '/tags/1969' | relative_url }}">1969</a>)) as radar incident 103-B at pages 220-223 (in Section 3, Chapter 5 “Optical and Radar Analyses of Field Cases”, by Gordon D Thayer) of the uncorrected version submitted to the Air Force (with the same page numbering in the 3 volume paperbound edition distributed by the National Technical Information Service, US Department of Commerce) at pages 148-150 of the Vision hardback edition (with the same page numbering in the Bantam paperback edition). The first of these editions has the same page numbering as the edition available free online at the following links:</p>
 <p><a href="http://www.project1947.com/shg/condon/contents.html">http://www.project1947.com/shg/condon/contents.html</a></p>
 </td>
 <td valign="top" width="52">
@@ -97,10 +97,10 @@ For discussion of the Gulf of Mexico B-29 incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/davenport-marc">Davenport, Marc</a> in his “<a href="/ufo-history/ufo-books/davenport-marc-visitors-from-time">Visitors from Time</a>” (<a href="/tags/1992">1992</a>) (available <a href="http://www.amazon.com/dp/1883729025/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1883729025/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 76-77 (in Chapter 6) of the <a href="/tags/1994">1994</a> revised Greenleaf softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/davenport-marc' | relative_url }}">Davenport, Marc</a> in his “<a href="{{ '/ufo-history/ufo-books/davenport-marc-visitors-from-time' | relative_url }}">Visitors from Time</a>” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="http://www.amazon.com/dp/1883729025/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1883729025/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 76-77 (in Chapter 6) of the <a href="{{ '/tags/1994' | relative_url }}">1994</a> revised Greenleaf softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -108,10 +108,10 @@ For discussion of the Gulf of Mexico B-29 incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1956">1956</a></p>
+<p><a href="{{ '/tags/1956' | relative_url }}">1956</a></p>
 </td>
 <td valign="top" width="547">
-<p>Gibbons, Gavin in his “The Coming of the Space Ships” (<a href="/tags/1956">1956</a>) (available <a href="http://www.amazon.com/dp/B0007EKTUU/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0007EKTUU/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 28-29 (in Chapter 3) of the Neville Spearman hardback edition.</p>
+<p>Gibbons, Gavin in his “The Coming of the Space Ships” (<a href="{{ '/tags/1956' | relative_url }}">1956</a>) (available <a href="http://www.amazon.com/dp/B0007EKTUU/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0007EKTUU/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 28-29 (in Chapter 3) of the Neville Spearman hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -119,10 +119,10 @@ For discussion of the Gulf of Mexico B-29 incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1956">1956</a></p>
+<p><a href="{{ '/tags/1956' | relative_url }}">1956</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/guieu-jimmy">Guieu, Jimmy</a> in his “<a href="/ufo-history/ufo-books/guieu-jimmy-flying-saucers-come-from-another-world">Flying Saucers Come From Another World</a>” (<a href="/tags/1956">1956</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (edited by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/B0000CJCUL/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0000CJCUL/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 125-126 (in Chapter 5) of the Hutchinson hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/guieu-jimmy' | relative_url }}">Guieu, Jimmy</a> in his “<a href="{{ '/ufo-history/ufo-books/guieu-jimmy-flying-saucers-come-from-another-world' | relative_url }}">Flying Saucers Come From Another World</a>” (<a href="{{ '/tags/1956' | relative_url }}">1956</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) (available <a href="http://www.amazon.com/dp/B0000CJCUL/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0000CJCUL/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 125-126 (in Chapter 5) of the Hutchinson hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -130,10 +130,10 @@ For discussion of the Gulf of Mexico B-29 incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/hall-michael-david">Hall, Michael David</a> and <a href="/ufo-history/ufo-personalities/connors-wendy-ann">Connors, Wendy Ann</a> in their “<a href="/ufo-history/ufo-books/hall-michael-david-and-connors-wendy-ann-captain-edward-j-ruppelt">Captain Edward J Ruppelt : Summer of the Saucers - 1952</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/0970505507/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0970505507/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 203 (in Chapter 7) of the Rose Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hall-michael-david' | relative_url }}">Hall, Michael David</a> and <a href="{{ '/ufo-history/ufo-personalities/connors-wendy-ann' | relative_url }}">Connors, Wendy Ann</a> in their “<a href="{{ '/ufo-history/ufo-books/hall-michael-david-and-connors-wendy-ann-captain-edward-j-ruppelt' | relative_url }}">Captain Edward J Ruppelt : Summer of the Saucers - 1952</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/0970505507/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0970505507/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 203 (in Chapter 7) of the Rose Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -141,10 +141,10 @@ For discussion of the Gulf of Mexico B-29 incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/hall-michael-david">Hall, Michael David</a> in his “<a href="/ufo-history/ufo-books/hall-michael-david-ufos-a-century-of-sightings">UFOs : A Century of Sightings</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/1880090627/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1880090627/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 205 (in Chapter 4) of the Galde Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hall-michael-david' | relative_url }}">Hall, Michael David</a> in his “<a href="{{ '/ufo-history/ufo-books/hall-michael-david-ufos-a-century-of-sightings' | relative_url }}">UFOs : A Century of Sightings</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/1880090627/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1880090627/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 205 (in Chapter 4) of the Galde Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -152,10 +152,10 @@ For discussion of the Gulf of Mexico B-29 incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/hall-richard-h">Hall, Richard</a> in “<a href="/ufo-history/ufo-books/hall-richard-the-ufo-evidence-volume-2-a-thirty-year-report">The UFO Evidence: Volume 2 – A Thirty Year Report</a>” (<a href="/tags/2001">2001</a>) (edited by <a href="/ufo-history/ufo-personalities/hall-richard-h">Richard Hall</a>) (available <a href="http://www.amazon.com/dp/0810838818/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0810838818/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 1 (in the unnumbered chapter entitled “Master Chronology”), 413-414 (in Section 10) of the Scarecrow Press hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hall-richard-h' | relative_url }}">Hall, Richard</a> in “<a href="{{ '/ufo-history/ufo-books/hall-richard-the-ufo-evidence-volume-2-a-thirty-year-report' | relative_url }}">The UFO Evidence: Volume 2 – A Thirty Year Report</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/hall-richard-h' | relative_url }}">Richard Hall</a>) (available <a href="http://www.amazon.com/dp/0810838818/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0810838818/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 1 (in the unnumbered chapter entitled “Master Chronology”), 413-414 (in Section 10) of the Scarecrow Press hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -163,10 +163,10 @@ For discussion of the Gulf of Mexico B-29 incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/hill-paul-r">Hill, Paul R</a> in his “<a href="/ufo-history/ufo-books/hill-paul-r-unconventional-flying-objects-a-scientific-analysis">Unconventional Flying Objects : A Scientific Analysis</a>” (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/1571740279/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1571740279/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 42-43 (in Chapter 2) of the Hampton Roads softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hill-paul-r' | relative_url }}">Hill, Paul R</a> in his “<a href="{{ '/ufo-history/ufo-books/hill-paul-r-unconventional-flying-objects-a-scientific-analysis' | relative_url }}">Unconventional Flying Objects : A Scientific Analysis</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/1571740279/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1571740279/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 42-43 (in Chapter 2) of the Hampton Roads softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -174,10 +174,10 @@ For discussion of the Gulf of Mexico B-29 incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1976">1976</a></p>
+<p><a href="{{ '/tags/1976' | relative_url }}">1976</a></p>
 </td>
 <td valign="top" width="547">
-<p>Holzer, Hans in his “<a href="/ufo-history/ufo-books/holzer-hans-the-ufonauts">The UFOnauts</a>” (<a href="/tags/1976">1976</a>) (available <a href="http://www.amazon.com/dp/0449135691/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0449135691/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 125-126 (in Chapter 5) of the Fawcett Gold Medal paperback edition.</p>
+<p>Holzer, Hans in his “<a href="{{ '/ufo-history/ufo-books/holzer-hans-the-ufonauts' | relative_url }}">The UFOnauts</a>” (<a href="{{ '/tags/1976' | relative_url }}">1976</a>) (available <a href="http://www.amazon.com/dp/0449135691/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0449135691/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 125-126 (in Chapter 5) of the Fawcett Gold Medal paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -185,10 +185,10 @@ For discussion of the Gulf of Mexico B-29 incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1972">1972</a></p>
+<p><a href="{{ '/tags/1972' | relative_url }}">1972</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/hynek-j-allen">Hynek, J Allen</a> in his “<a href="/ufo-history/ufo-books/hynek-j-allen-the-ufo-experience">The UFO Experience</a>” (<a href="/tags/1972">1972</a>) (available <a href="http://www.amazon.com/dp/0345239539/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0345239539/ref=nosim?tag=ufot-21">on Amazon UK</a>) (in Chapter 7) at page 70 of the Henry Regnery hardback edition (with same page numbering in the Abelard-Schuman hardback edition) at page 81 of the various Ballantine paperback editions, at pages 97 of the Corgi paperback edition. Included in a table indicating an assessment of Strangeness Rating/Probability Rating of 2/8 as RV-10 in Appendix 1 at page 237 of the Henry Regnery hardback edition (with same page numbering in the Abelard-Schuman hardback edition) at page 267 of the various Ballantine paperback editions, at page 291 of the Corgi paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hynek-j-allen' | relative_url }}">Hynek, J Allen</a> in his “<a href="{{ '/ufo-history/ufo-books/hynek-j-allen-the-ufo-experience' | relative_url }}">The UFO Experience</a>” (<a href="{{ '/tags/1972' | relative_url }}">1972</a>) (available <a href="http://www.amazon.com/dp/0345239539/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0345239539/ref=nosim?tag=ufot-21">on Amazon UK</a>) (in Chapter 7) at page 70 of the Henry Regnery hardback edition (with same page numbering in the Abelard-Schuman hardback edition) at page 81 of the various Ballantine paperback editions, at pages 97 of the Corgi paperback edition. Included in a table indicating an assessment of Strangeness Rating/Probability Rating of 2/8 as RV-10 in Appendix 1 at page 237 of the Henry Regnery hardback edition (with same page numbering in the Abelard-Schuman hardback edition) at page 267 of the various Ballantine paperback editions, at page 291 of the Corgi paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -196,10 +196,10 @@ For discussion of the Gulf of Mexico B-29 incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1992">1992</a></p>
+<p><a href="{{ '/tags/1992' | relative_url }}">1992</a></p>
 </td>
 <td valign="top" width="547">
-<p>Jackson, Robert in his “UFOs” (<a href="/tags/1992">1992</a>) (available <a href="http://www.amazon.com/dp/0831790563/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0831790563/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 11 (in the unnumbered chapter entitled “Where it all started”) of the Smithmark hardback edition.</p>
+<p>Jackson, Robert in his “UFOs” (<a href="{{ '/tags/1992' | relative_url }}">1992</a>) (available <a href="http://www.amazon.com/dp/0831790563/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0831790563/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 11 (in the unnumbered chapter entitled “Where it all started”) of the Smithmark hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -207,10 +207,10 @@ For discussion of the Gulf of Mexico B-29 incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1973">1973</a></p>
+<p><a href="{{ '/tags/1973' | relative_url }}">1973</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/keyhoe-donald-e">Keyhoe, Donald E</a> in his “<a href="/ufo-history/ufo-books/keyhoe-donald-e-aliens-from-space">Aliens from Space</a>” (<a href="/tags/1973">1973</a>) (available <a href="http://www.amazon.com/dp/0385067518/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0385067518/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 135 (in Chapter 9), 229 (in Chapter 15) of the Signet paperback edition, pages 157 and 257-258 of the Panther paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/keyhoe-donald-e' | relative_url }}">Keyhoe, Donald E</a> in his “<a href="{{ '/ufo-history/ufo-books/keyhoe-donald-e-aliens-from-space' | relative_url }}">Aliens from Space</a>” (<a href="{{ '/tags/1973' | relative_url }}">1973</a>) (available <a href="http://www.amazon.com/dp/0385067518/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0385067518/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 135 (in Chapter 9), 229 (in Chapter 15) of the Signet paperback edition, pages 157 and 257-258 of the Panther paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -218,10 +218,10 @@ For discussion of the Gulf of Mexico B-29 incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1953">1953</a></p>
+<p><a href="{{ '/tags/1953' | relative_url }}">1953</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/keyhoe-donald-e">Keyhoe, Donald E</a> in his “<a href="/ufo-history/ufo-books/keyhoe-donald-e-flying-saucers-from-outer-space">Flying Saucers from Outer Space</a>” (<a href="/tags/1953">1953</a>) (available <a href="http://www.amazon.com/dp/B000OKUWRM/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000OKUWRM/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 161-167 (in Chapter 9) of the Henry Holt hardback edition, pages 162-168 of the Tandem paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/keyhoe-donald-e' | relative_url }}">Keyhoe, Donald E</a> in his “<a href="{{ '/ufo-history/ufo-books/keyhoe-donald-e-flying-saucers-from-outer-space' | relative_url }}">Flying Saucers from Outer Space</a>” (<a href="{{ '/tags/1953' | relative_url }}">1953</a>) (available <a href="http://www.amazon.com/dp/B000OKUWRM/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000OKUWRM/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 161-167 (in Chapter 9) of the Henry Holt hardback edition, pages 162-168 of the Tandem paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>7</p>
@@ -229,10 +229,10 @@ For discussion of the Gulf of Mexico B-29 incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1960">1960</a></p>
+<p><a href="{{ '/tags/1960' | relative_url }}">1960</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/keyhoe-donald-e">Keyhoe, Donald E</a> in his “<a href="/ufo-history/ufo-books/keyhoe-donald-flying-saucers-top-secret">Flying Saucers: Top Secret</a>” (<a href="/tags/1960">1960</a>) (available <a href="http://www.amazon.com/dp/B0007F2EIY/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0007F2EIY/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 160 (in Chapter 11) of the G P Putnam hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/keyhoe-donald-e' | relative_url }}">Keyhoe, Donald E</a> in his “<a href="{{ '/ufo-history/ufo-books/keyhoe-donald-flying-saucers-top-secret' | relative_url }}">Flying Saucers: Top Secret</a>” (<a href="{{ '/tags/1960' | relative_url }}">1960</a>) (available <a href="http://www.amazon.com/dp/B0007F2EIY/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0007F2EIY/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 160 (in Chapter 11) of the G P Putnam hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -240,10 +240,10 @@ For discussion of the Gulf of Mexico B-29 incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1955">1955</a></p>
+<p><a href="{{ '/tags/1955' | relative_url }}">1955</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/keyhoe-donald-e">Keyhoe, Donald E</a> in his “<a href="/ufo-history/ufo-books/keyhoe-donald-e-the-flying-saucer-conspiracy">The Flying Saucer Conspiracy</a>” (<a href="/tags/1955">1955</a>) (available <a href="http://www.amazon.com/dp/B000NPBT9S/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000NPBT9S/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 33 of the Hutchinson hardback edition (in Chapter 3).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/keyhoe-donald-e' | relative_url }}">Keyhoe, Donald E</a> in his “<a href="{{ '/ufo-history/ufo-books/keyhoe-donald-e-the-flying-saucer-conspiracy' | relative_url }}">The Flying Saucer Conspiracy</a>” (<a href="{{ '/tags/1955' | relative_url }}">1955</a>) (available <a href="http://www.amazon.com/dp/B000NPBT9S/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000NPBT9S/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 33 of the Hutchinson hardback edition (in Chapter 3).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -251,10 +251,10 @@ For discussion of the Gulf of Mexico B-29 incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1961">1961</a></p>
+<p><a href="{{ '/tags/1961' | relative_url }}">1961</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/maney-charles-a">Maney, Charles A</a>nd <a href="/ufo-history/ufo-personalities/hall-richard-h">Hall, Richard</a> in their “<a href="/ufo-history/ufo-books/maney-charles-a-and-hall-richard-the-challenge-of-unidentified-flying-objects">Challenge of Unidentified Flying Objects</a>” (<a href="/tags/1961">1961</a>) (available <a href="http://www.amazon.com/dp/B00117X9ZO/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B00117X9ZO/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 18 (in Part 1, Chapter 2, in a quote from NICAP’s “confidential report to Congress” (<a href="/tags/1960">1960</a>.0621)) of the privately published hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/maney-charles-a' | relative_url }}">Maney, Charles A</a>nd <a href="{{ '/ufo-history/ufo-personalities/hall-richard-h' | relative_url }}">Hall, Richard</a> in their “<a href="{{ '/ufo-history/ufo-books/maney-charles-a-and-hall-richard-the-challenge-of-unidentified-flying-objects' | relative_url }}">Challenge of Unidentified Flying Objects</a>” (<a href="{{ '/tags/1961' | relative_url }}">1961</a>) (available <a href="http://www.amazon.com/dp/B00117X9ZO/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B00117X9ZO/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 18 (in Part 1, Chapter 2, in a quote from NICAP’s “confidential report to Congress” (<a href="{{ '/tags/1960' | relative_url }}">1960</a>.0621)) of the privately published hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -262,10 +262,10 @@ For discussion of the Gulf of Mexico B-29 incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p>Mannion, Michael in his “<a href="/ufo-history/ufo-books/mannion-michael-project-mindshift">Project Mindshift</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0871318563/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0871318563/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 72 (in Chapter 3) of the Evans hardback edition.</p>
+<p>Mannion, Michael in his “<a href="{{ '/ufo-history/ufo-books/mannion-michael-project-mindshift' | relative_url }}">Project Mindshift</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0871318563/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0871318563/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 72 (in Chapter 3) of the Evans hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -273,10 +273,10 @@ For discussion of the Gulf of Mexico B-29 incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1963">1963</a></p>
+<p><a href="{{ '/tags/1963' | relative_url }}">1963</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/menzel-donald-h">Menzel, Donald</a> and <a href="/ufo-history/ufo-personalities/boyd-lyle">Boyd, Lyle</a> in their “<a href="/ufo-history/ufo-books/menzel-donald-h-and-boyd-lyle-the-world-of-flying-saucers">The World of Flying Saucers</a>” (<a href="/tags/1963">1963</a>) (available <a href="http://www.amazon.com/dp/B0015NVBB8/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0015NVBB8/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 5-6 of the Doubleday hardback edition (Chapter 1).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/menzel-donald-h' | relative_url }}">Menzel, Donald</a> and <a href="{{ '/ufo-history/ufo-personalities/boyd-lyle' | relative_url }}">Boyd, Lyle</a> in their “<a href="{{ '/ufo-history/ufo-books/menzel-donald-h-and-boyd-lyle-the-world-of-flying-saucers' | relative_url }}">The World of Flying Saucers</a>” (<a href="{{ '/tags/1963' | relative_url }}">1963</a>) (available <a href="http://www.amazon.com/dp/B0015NVBB8/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0015NVBB8/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 5-6 of the Doubleday hardback edition (Chapter 1).</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -284,10 +284,10 @@ For discussion of the Gulf of Mexico B-29 incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1956">1956</a></p>
+<p><a href="{{ '/tags/1956' | relative_url }}">1956</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/michel-aime">Michel, Aime</a> in his “<a href="/ufo-history/ufo-books/michel-aime-the-truth-about-flying-saucers">The Truth about Flying Saucers</a>” (<a href="/tags/1956">1956</a>) (available <a href="http://www.amazon.com/dp/B000OZY8EA/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000OZY8EA/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 88-91 (in Part 1, Chapter 5) of the Robert Hale hardback edition, at pages 95-98 of the Pyramid paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/michel-aime' | relative_url }}">Michel, Aime</a> in his “<a href="{{ '/ufo-history/ufo-books/michel-aime-the-truth-about-flying-saucers' | relative_url }}">The Truth about Flying Saucers</a>” (<a href="{{ '/tags/1956' | relative_url }}">1956</a>) (available <a href="http://www.amazon.com/dp/B000OZY8EA/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000OZY8EA/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 88-91 (in Part 1, Chapter 5) of the Robert Hale hardback edition, at pages 95-98 of the Pyramid paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -295,10 +295,10 @@ For discussion of the Gulf of Mexico B-29 incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1964">1964</a></p>
+<p><a href="{{ '/tags/1964' | relative_url }}">1964</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/nicap">NICAP</a> in its “<a href="/ufo-history/ufo-books/hall-richard-h-ed-nicap-the-ufo-evidence">The UFO Evidence</a>” (<a href="/tags/1964">1964</a>) (edited by <a href="/ufo-history/ufo-personalities/hall-richard-h">Richard Hall</a>) (available <a href="http://www.amazon.com/dp/0760706271/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0760706271/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 15-16 (in Section 2) of the privately published paperbound edition, with the same page numbering in the <a href="/tags/1997">1997</a> Barnes &amp; Noble paperbound reprint. Available free online at: <a href="http://www.nicap.org/ufoe/section_2.htm">http://www.nicap.org/ufoe/section_2.htm</a></p>
+<p><a href="{{ '/ufo-history/ufo-personalities/nicap' | relative_url }}">NICAP</a> in its “<a href="{{ '/ufo-history/ufo-books/hall-richard-h-ed-nicap-the-ufo-evidence' | relative_url }}">The UFO Evidence</a>” (<a href="{{ '/tags/1964' | relative_url }}">1964</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/hall-richard-h' | relative_url }}">Richard Hall</a>) (available <a href="http://www.amazon.com/dp/0760706271/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0760706271/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 15-16 (in Section 2) of the privately published paperbound edition, with the same page numbering in the <a href="{{ '/tags/1997' | relative_url }}">1997</a> Barnes &amp; Noble paperbound reprint. Available free online at: <a href="http://www.nicap.org/ufoe/section_2.htm">http://www.nicap.org/ufoe/section_2.htm</a></p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -306,10 +306,10 @@ For discussion of the Gulf of Mexico B-29 incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2003">2003</a></p>
+<p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sparks-brad">Sparks, Brad</a> in version 1.7 of his “Comprehensive Catalog of 1,500 Project BLUE BOOK UFO Unknowns” (<a href="/tags/2003">2003</a>) as Case Number 700 on page 100 of the PDF edition (with the same page numbering in the Microsoft Word edition). Both editions are available online, respectively at the following links:</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sparks-brad' | relative_url }}">Sparks, Brad</a> in version 1.7 of his “Comprehensive Catalog of 1,500 Project BLUE BOOK UFO Unknowns” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) as Case Number 700 on page 100 of the PDF edition (with the same page numbering in the Microsoft Word edition). Both editions are available online, respectively at the following links:</p>
 <p><a href="http://www.cufos.org/BB_Unknowns_1_7.pdf">http://www.cufos.org/BB_Unknowns_1_7.pdf</a></p>
 <p><a href="http://www.nicap.org/bluebook/CufosBBUnknowns.doc">http://www.nicap.org/bluebook/CufosBBUnknowns.doc</a></p>
 </td>
@@ -319,10 +319,10 @@ For discussion of the Gulf of Mexico B-29 incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/spencer-john">Spencer, John</a> in his “<a href="/ufo-history/ufo-books/spencer-john-ufos-the-definitive-casebook">UFOs: The Definitive Casebook</a>” (<a href="/tags/1991">1991</a>) (available <a href="http://www.amazon.com/dp/B000S52VNG/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000S52VNG/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 32 (in the unnumbered section entitled “North America”, in the chapter entitled “Database”) of the Hamlyn hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">Spencer, John</a> in his “<a href="{{ '/ufo-history/ufo-books/spencer-john-ufos-the-definitive-casebook' | relative_url }}">UFOs: The Definitive Casebook</a>” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/B000S52VNG/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000S52VNG/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 32 (in the unnumbered section entitled “North America”, in the chapter entitled “Database”) of the Hamlyn hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -330,10 +330,10 @@ For discussion of the Gulf of Mexico B-29 incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1965">1965</a></p>
+<p><a href="{{ '/tags/1965' | relative_url }}">1965</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/vallee-jacques">Vallee, Jacques</a> in his “<a href="/ufo-history/ufo-books/vallee-jacques-anatomy-of-a-phenomenon-ufos-in-space">Anatomy of a Phenomenon</a>” (<a href="/tags/1965">1965</a>) (available <a href="http://www.amazon.com/dp/0345270754/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0345270754/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 63 (in Chapter 3) of the Henry Regnery hardback edition (with the same page numbering in the Tandem paperback edition), page 69 of the Ballantine Books paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/vallee-jacques' | relative_url }}">Vallee, Jacques</a> in his “<a href="{{ '/ufo-history/ufo-books/vallee-jacques-anatomy-of-a-phenomenon-ufos-in-space' | relative_url }}">Anatomy of a Phenomenon</a>” (<a href="{{ '/tags/1965' | relative_url }}">1965</a>) (available <a href="http://www.amazon.com/dp/0345270754/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0345270754/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 63 (in Chapter 3) of the Henry Regnery hardback edition (with the same page numbering in the Tandem paperback edition), page 69 of the Ballantine Books paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -341,10 +341,10 @@ For discussion of the Gulf of Mexico B-29 incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/watts-alan">Watts, Alan</a> in his “<a href="/ufo-history/ufo-books/watts-alan-ufo-quest">UFO Quest</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/0713724498/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713724498/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 17 (in Chapter 2) of the Blandford softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/watts-alan' | relative_url }}">Watts, Alan</a> in his “<a href="{{ '/ufo-history/ufo-books/watts-alan-ufo-quest' | relative_url }}">UFO Quest</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/0713724498/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713724498/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 17 (in Chapter 2) of the Blandford softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -352,10 +352,10 @@ For discussion of the Gulf of Mexico B-29 incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1968">1968</a></p>
+<p><a href="{{ '/tags/1968' | relative_url }}">1968</a></p>
 </td>
 <td valign="top" width="547">
-<p>White, Dale in his “<a href="/ufo-history/ufo-books/white-dale-is-something-up-there">Is Something Up There?</a>” (<a href="/tags/1968">1968</a>) (available <a href="http://www.amazon.com/dp/B000J5A9OI/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000J5A9OI/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 102-108 (in Chapter 9) of the Scholastic Book Services paperback edition.</p>
+<p>White, Dale in his “<a href="{{ '/ufo-history/ufo-books/white-dale-is-something-up-there' | relative_url }}">Is Something Up There?</a>” (<a href="{{ '/tags/1968' | relative_url }}">1968</a>) (available <a href="http://www.amazon.com/dp/B000J5A9OI/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000J5A9OI/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 102-108 (in Chapter 9) of the Scholastic Book Services paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>7</p>
@@ -367,7 +367,7 @@ For discussion of the Gulf of Mexico B-29 incident see the following:
 <a id="other"></a>
 ### Other Material
 
-Listed as Project Blue Book Case Number 2265 on the redacted US National Archives and Records Administration (“NARA”) microfilm records of Project Blue Book, released to the National Archives in [1975](/tags/1975) – see National Archives Microfilm Publication T1206 roll number 1. An image of the relevant index page has been given the unique Page ID (“PID”) of NARA-PBB1-88 (page 88 of 1014) at the link below.
+Listed as Project Blue Book Case Number 2265 on the redacted US National Archives and Records Administration (“NARA”) microfilm records of Project Blue Book, released to the National Archives in [1975]({{ '/tags/1975' | relative_url }}) – see National Archives Microfilm Publication T1206 roll number 1. An image of the relevant index page has been given the unique Page ID (“PID”) of NARA-PBB1-88 (page 88 of 1014) at the link below.
 
 Listed (without a Project Blue Book Case Number) on the unredacted Maxwell Air Force Base (“Maxwell”) microfilm records of Project Blue Book – see Maxwell microfilm roll number 30,363. An image of the relevant index page has been given the unique Page ID (“PID”) of MAXW-PBB2-321 (page 321 of 1352) at the link below.
 

@@ -13,7 +13,7 @@ planned_sections: []
 header: {"preview_image": null}
 ---
 
-“[Best UFO Cases](/ufog/best-ufo-cases)” by Isaac Koi
+“[Best UFO Cases]({{ '/ufog/best-ufo-cases' | relative_url }})” by Isaac Koi
 
 PART 19: Quantitative criteria: Introduction
 
@@ -29,19 +29,19 @@ Jacques Vallee has commented (in his book Confrontations) that assigning credibi
 
 Several proposals for quantitative criteria are discussed in subsequent Parts of this article, including:
 
-1. J Allen Hynek’s Stangeness/Probability ratings (adopted and extended by several researchers, including Don Berliner, Jim Speiser and Clause Poher). See [PART 20: Quantitative criteria: Hynek – Strangeness and Probability](/ufog/best-ufo-cases/20-quantitative-criteria-hynek-strangeness-and-probability).
+1. J Allen Hynek’s Stangeness/Probability ratings (adopted and extended by several researchers, including Don Berliner, Jim Speiser and Clause Poher). See [PART 20: Quantitative criteria: Hynek – Strangeness and Probability]({{ '/ufog/best-ufo-cases/20-quantitative-criteria-hynek-strangeness-and-probability' | relative_url }}).
 
-2. Jacques Vallee’s SVP ratings - i.e. [S]ource reliability, [V]isit to site and [P]ossible explanations. See [PART 21: Quantitative criteria: Vallee’s SVP ratings](/ufog/best-ufo-cases/21-quantitative-criteria-vallees-svp-ratings);
+2. Jacques Vallee’s SVP ratings - i.e. [S]ource reliability, [V]isit to site and [P]ossible explanations. See [PART 21: Quantitative criteria: Vallee’s SVP ratings]({{ '/ufog/best-ufo-cases/21-quantitative-criteria-vallees-svp-ratings' | relative_url }});
 
-3. Jenny Randles’ strangeness-investigation level classification (adopted by BUFORA). See [PART 22: Quantitative criteria: BUFORA’s case priority](/ufog/best-ufo-cases/22-quantitative-criteria-buforas-case-priority);
+3. Jenny Randles’ strangeness-investigation level classification (adopted by BUFORA). See [PART 22: Quantitative criteria: BUFORA’s case priority]({{ '/ufog/best-ufo-cases/22-quantitative-criteria-buforas-case-priority' | relative_url }});
 
-4. A system proposed by Ballester-Guasp (endorsed by MUFON). MUFON's field investigator's manual sets out this system in some detail and in relation to which it comments that “since 1992, MUFON has aimed to give reports processed into the MUFON files a numeric evaluation using this method”. See [PART 23: Quantitative criteria: Ballester/MUFON index](/ufog/best-ufo-cases/23-quantitative-criteria-ballestermufon-index).
+4. A system proposed by Ballester-Guasp (endorsed by MUFON). MUFON's field investigator's manual sets out this system in some detail and in relation to which it comments that “since 1992, MUFON has aimed to give reports processed into the MUFON files a numeric evaluation using this method”. See [PART 23: Quantitative criteria: Ballester/MUFON index]({{ '/ufog/best-ufo-cases/23-quantitative-criteria-ballestermufon-index' | relative_url }}).
 
-5. Thomas Olsen's reliability index (applied by Thomas Olsen in his book "The Reference for Outstanding UFO Sighting Reports" (1966) and more recently by Illobrand Von Ludwigger in his book “Best UFO Cases – Europe”). See [PART 24: Quantitative criteria: Olsen’s Reliability Index](/ufog/best-ufo-cases/24-quantitative-criteria-olsens-reliability-index);
+5. Thomas Olsen's reliability index (applied by Thomas Olsen in his book "The Reference for Outstanding UFO Sighting Reports" (1966) and more recently by Illobrand Von Ludwigger in his book “Best UFO Cases – Europe”). See [PART 24: Quantitative criteria: Olsen’s Reliability Index]({{ '/ufog/best-ufo-cases/24-quantitative-criteria-olsens-reliability-index' | relative_url }});
 
-6. Criteria suggested by M. Figuet in relation to the FRANCAT database. See [PART 25: Quantitative criteria: Figuet’s hardest cases](/ufog/best-ufo-cases/25-quantitative-criteria-figuets-hardest-cases).
+6. Criteria suggested by M. Figuet in relation to the FRANCAT database. See [PART 25: Quantitative criteria: Figuet’s hardest cases]({{ '/ufog/best-ufo-cases/25-quantitative-criteria-figuets-hardest-cases' | relative_url }}).
 
-7. Mark Moravec’s “UFO Report Rating System”. [PART 26: Quantitative criteria: Moravec's rating system](/ufog/best-ufo-cases/26-quantitative-criteria-moravecs-rating-system).
+7. Mark Moravec’s “UFO Report Rating System”. [PART 26: Quantitative criteria: Moravec's rating system]({{ '/ufog/best-ufo-cases/26-quantitative-criteria-moravecs-rating-system' | relative_url }}).
 
 8. Miscellaneous other quantitative criteria. See Part 27.
 

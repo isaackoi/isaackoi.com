@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0312968353.jpg"}
 book: {"identifiers": ["0312968353"], "primary_isbn": "0312968353", "cover_image": "/book-covers/0312968353.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of “[Enter The Valley](/ufo-history/ufo-books/o-brien-christopher-enter-the-valley)” ([1999](/tags/1999)) (available [on Amazon USA](http://www.amazon.com/dp/0312968353/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0312968353/?&tag=ufot-21)) by Christopher O’ Brien.
+Brief review to be added of “[Enter The Valley]({{ '/ufo-history/ufo-books/o-brien-christopher-enter-the-valley' | relative_url }})” ([1999]({{ '/tags/1999' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0312968353/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0312968353/?&tag=ufot-21)) by Christopher O’ Brien.
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Perkins, David in Christopher O’ Brien’s “<a href="/ufo-history/ufo-books/o-brien-christopher-enter-the-valley">Enter The Valley</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0312968353/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312968353/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 1-15 (in the Foreword) of the St Martin’s Paperbacks paperback edition.</p>
+<p>Perkins, David in Christopher O’ Brien’s “<a href="{{ '/ufo-history/ufo-books/o-brien-christopher-enter-the-valley' | relative_url }}">Enter The Valley</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0312968353/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312968353/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 1-15 (in the Foreword) of the St Martin’s Paperbacks paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>15</p>

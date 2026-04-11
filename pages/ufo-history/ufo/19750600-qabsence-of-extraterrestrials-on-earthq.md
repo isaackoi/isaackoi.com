@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/seti_1.jpg"}
 ---
 
-![seti_1](/images/stories/ufo_tags/seti_1.jpg)
+![seti_1]({{ '/images/stories/ufo_tags/seti_1.jpg' | relative_url }})
 
 *"Absence of Extraterrestrials on Earth"*
 
@@ -43,9 +43,9 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-Complete text reprinted in “[Extraterrestrials: Where are they?](/ufo-history/ufo-books/hart-michael-and-zuckerman-ben-extraterrestrials-where-are-they)” ([1982](/tags/1982)) (edited by [Michael Hart](/ufo-history/ufo-personalities/hart-michael) and [Ben Zuckerman](/ufo-history/ufo-personalities/zuckerman-ben)) (available [on Amazon USA](http://www.amazon.com/dp/0521448034/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0521448034/ref=nosim?tag=ufot-21)) at pages 1-8 (in Chapter 1 generally) of the Cambridge softcover second edition.
+Complete text reprinted in “[Extraterrestrials: Where are they?]({{ '/ufo-history/ufo-books/hart-michael-and-zuckerman-ben-extraterrestrials-where-are-they' | relative_url }})” ([1982]({{ '/tags/1982' | relative_url }})) (edited by [Michael Hart]({{ '/ufo-history/ufo-personalities/hart-michael' | relative_url }}) and [Ben Zuckerman]({{ '/ufo-history/ufo-personalities/zuckerman-ben' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0521448034/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0521448034/ref=nosim?tag=ufot-21)) at pages 1-8 (in Chapter 1 generally) of the Cambridge softcover second edition.
 
-Complete text of article reprinted in “The Quest For Extraterrestrial Life: A Book of Readings” ([1980](/tags/1980)) (edited by Donald Goldsmith) (available [on Amazon USA](http://www.amazon.com/dp/0935702083/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0935702083/ref=nosim?tag=ufot-21)) at pages 228-231 (in Chapter 42) of the University Science Books hardback edition.
+Complete text of article reprinted in “The Quest For Extraterrestrial Life: A Book of Readings” ([1980]({{ '/tags/1980' | relative_url }})) (edited by Donald Goldsmith) (available [on Amazon USA](http://www.amazon.com/dp/0935702083/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0935702083/ref=nosim?tag=ufot-21)) at pages 228-231 (in Chapter 42) of the University Science Books hardback edition.
 
 The table below includes references to relevant discussions in UFO/SETI books noted by Isaac Koi during a review of approximately 963 UFO/SETI books during the period 2003-2006 (with a few later additions). The table can be sorted by author, date and length of discussion by clicking on the relevant word in the top line of the table.
 
@@ -71,10 +71,10 @@ For discussion of Hart’s paper see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Achenbach, Joel in his “<a href="/ufo-history/ufo-books/achenbach-joel-captured-by-aliens">Captured by Aliens</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0684848562/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684848562/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 65-66 (in Chapter 6) of the Simon and Schuster hardback edition.</p>
+<p>Achenbach, Joel in his “<a href="{{ '/ufo-history/ufo-books/achenbach-joel-captured-by-aliens' | relative_url }}">Captured by Aliens</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0684848562/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0684848562/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 65-66 (in Chapter 6) of the Simon and Schuster hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -82,10 +82,10 @@ For discussion of Hart’s paper see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1976">1976</a></p>
+<p><a href="{{ '/tags/1976' | relative_url }}">1976</a></p>
 </td>
 <td valign="top" width="547">
-<p>Cox, Laurence in “The Quest For Extraterrestrial Life : A Book of Readings” (<a href="/tags/1980">1980</a>) (edited by Donald Goldsmith) (available <a href="http://www.amazon.com/dp/0935702083/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0935702083/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 232-235 (in Chapter 43) of the University Science Books hardback edition. The relevant chapter is a reprint of “An Explanation for the Absence of Extraterrestrials on Earth”, Quarterly Journal of the Royal Astronomical Society, volume 17, pages 201ff (<a href="/tags/1976">1976</a>).</p>
+<p>Cox, Laurence in “The Quest For Extraterrestrial Life : A Book of Readings” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) (edited by Donald Goldsmith) (available <a href="http://www.amazon.com/dp/0935702083/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0935702083/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 232-235 (in Chapter 43) of the University Science Books hardback edition. The relevant chapter is a reprint of “An Explanation for the Absence of Extraterrestrials on Earth”, Quarterly Journal of the Royal Astronomical Society, volume 17, pages 201ff (<a href="{{ '/tags/1976' | relative_url }}">1976</a>).</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -93,10 +93,10 @@ For discussion of Hart’s paper see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Davidson, Keay in his “<a href="/ufo-history/ufo-personalities/sagan-carl">Carl Sagan</a>: A Life” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0471395366/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0471395366/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 346 (in Chapter 14) of the Wiley softcover edition.</p>
+<p>Davidson, Keay in his “<a href="{{ '/ufo-history/ufo-personalities/sagan-carl' | relative_url }}">Carl Sagan</a>: A Life” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0471395366/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0471395366/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 346 (in Chapter 14) of the Wiley softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -104,10 +104,10 @@ For discussion of Hart’s paper see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/drake-frank">Drake, Frank</a> and Dava Sobel in their “<a href="/ufo-history/ufo-books/drake-frank-and-sobel-dava-is-anyone-out-there">Is Anyone Out There?</a>“ (<a href="/tags/1991">1991</a>) (available <a href="http://www.amazon.com/dp/038530532X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/038530532X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 202-204 (in Chapter 9) of the Pocket Books paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/drake-frank' | relative_url }}">Drake, Frank</a> and Dava Sobel in their “<a href="{{ '/ufo-history/ufo-books/drake-frank-and-sobel-dava-is-anyone-out-there' | relative_url }}">Is Anyone Out There?</a>“ (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/038530532X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/038530532X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 202-204 (in Chapter 9) of the Pocket Books paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -115,10 +115,10 @@ For discussion of Hart’s paper see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1977">1977</a></p>
+<p><a href="{{ '/tags/1977' | relative_url }}">1977</a></p>
 </td>
 <td valign="top" width="547">
-<p>Schwartzman, David W in “The Quest For Extraterrestrial Life : A Book of Readings” (<a href="/tags/1980">1980</a>) (edited by Donald Goldsmith) (available <a href="http://www.amazon.com/dp/0935702083/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0935702083/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 264-265 (in Chapter 51) of the University Science Books hardback edition. The relevant chapter is a reprint of “The Absence of Extraterrestrials on Earth and the Prospects for CETI” in Icarus, Volume 23 (<a href="/tags/1977">1977</a>), pages 473ff.</p>
+<p>Schwartzman, David W in “The Quest For Extraterrestrial Life : A Book of Readings” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) (edited by Donald Goldsmith) (available <a href="http://www.amazon.com/dp/0935702083/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0935702083/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 264-265 (in Chapter 51) of the University Science Books hardback edition. The relevant chapter is a reprint of “The Absence of Extraterrestrials on Earth and the Prospects for CETI” in Icarus, Volume 23 (<a href="{{ '/tags/1977' | relative_url }}">1977</a>), pages 473ff.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -130,6 +130,6 @@ For discussion of Hart’s paper see the following:
 <a id="other"></a>
 ### Other Material
 
-[Hart, Michael](/ufo-history/ufo-personalities/hart-michael) “An Explanation for the Absence of Extraterrestrials on Earth”, in the Quarterly Journal of the Royal Astronomical Society, volume 16, pages 128-135 ([1975](/tags/1975)).
+[Hart, Michael]({{ '/ufo-history/ufo-personalities/hart-michael' | relative_url }}) “An Explanation for the Absence of Extraterrestrials on Earth”, in the Quarterly Journal of the Royal Astronomical Society, volume 16, pages 128-135 ([1975]({{ '/tags/1975' | relative_url }})).
 
 Please use the comments section below to share references to any particularly interesting relevant articles.

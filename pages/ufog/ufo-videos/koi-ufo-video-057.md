@@ -40,13 +40,13 @@ Koi UFO Video 057 appears to show a large flying saucer, with various different 
 
 Screen shots from the video are included below for ease of identification:
 
-![](/images/stories/ufo_videos/video057_1.JPG)
+![]({{ '/images/stories/ufo_videos/video057_1.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video057_2.JPG)
+![]({{ '/images/stories/ufo_videos/video057_2.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video057_3.JPG)
+![]({{ '/images/stories/ufo_videos/video057_3.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video057_4.JPG)
+![]({{ '/images/stories/ufo_videos/video057_4.JPG' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this video
@@ -63,7 +63,7 @@ What are your opinions on this event? I for one think it’s very strange, but j
 
 Another post on the AboveTopSecret.com discussion forum included the following:
 
-![](/images/stories/ufo_videos/video057_9.JPG)
+![]({{ '/images/stories/ufo_videos/video057_9.JPG' | relative_url }})
 
 <a id="truth"></a>
 ### 3. The real background to this video
@@ -90,7 +90,7 @@ Project designer Bob Gurr wrote [an article in 2004](https://web.archive.org/web
 
 "... we did the flying saucer job in just five weeks start to finish".
 
-![](/images/stories/ufo_videos/video057_7.JPG)
+![]({{ '/images/stories/ufo_videos/video057_7.JPG' | relative_url }})
 
 The producer of the opening and closing ceremonies, David L Wolper, wrote [an article in 2009](http://articles.latimes.com/2009/aug/12/sports/sp-wolper-olympics12) about the "moment of sheer wonderment" created by the "UFO" about how this project. He wrote that the saucer "weighed 2 tons and was 52 feet in diameter fully covered with fabric". His article included the following details:
 
@@ -108,11 +108,11 @@ The producer of the opening and closing ceremonies, David L Wolper, wrote [an ar
 
 "I'm sure there were some flying saucer addicts who wanted to believe it was real. I hope they did; it would prove that we successfully accomplished our grand illusion".
 
-![](/images/stories/ufo_videos/video057_8.JPG)
+![]({{ '/images/stories/ufo_videos/video057_8.JPG' | relative_url }})
 
 Anyone that still thinks that the "UFO" was, or might have been, an alien spaceship might like to attempt to explain the "alien" that was seen after the UFO at the end of the closing ceremony, pictured below. Was this just a coincidence??
 
-![](/images/stories/ufo_videos/video057_5.JPG)
+![]({{ '/images/stories/ufo_videos/video057_5.JPG' | relative_url }})
 
 That "alien" can be seen at the end of the longer footage from the closing ceremony embedded below:
 
@@ -135,4 +135,4 @@ Relevant discussions on the AboveTopSecret.com forum include the following:
 
 2007 (November) discussion entitled "[City of Angels (LA): Esoteric UFO Ceremony 1984](http://www.abovetopsecret.com/forum/thread845125/pg1)"
 
-![](/images/stories/ufo_videos/video057_2d.jpg)
+![]({{ '/images/stories/ufo_videos/video057_2d.jpg' | relative_url }})

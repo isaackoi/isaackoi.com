@@ -14,7 +14,7 @@ header: {"preview_image": "https://covers.openlibrary.org/b/isbn/079740533X-L.jp
 book: {"identifiers": ["079740533X"], "primary_isbn": "079740533X", "cover_image": "https://covers.openlibrary.org/b/isbn/079740533X-L.jpg?default=false", "cover_source": "openlibrary"}
 ---
 
-Brief review to be added of [Cynthia Hind](/ufo-history/ufo-personalities/hind-cynthia)'s book “[UFOs: African Encounters](/ufo-history/ufo-books/hind-cynthia-ufos-african-encounters)” ([1982](/tags/1982)) (available [on Amazon USA](http://www.amazon.com/dp/079740533X/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/079740533X/?&tag=ufot-21))
+Brief review to be added of [Cynthia Hind]({{ '/ufo-history/ufo-personalities/hind-cynthia' | relative_url }})'s book “[UFOs: African Encounters]({{ '/ufo-history/ufo-books/hind-cynthia-ufos-african-encounters' | relative_url }})” ([1982]({{ '/tags/1982' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/079740533X/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/079740533X/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

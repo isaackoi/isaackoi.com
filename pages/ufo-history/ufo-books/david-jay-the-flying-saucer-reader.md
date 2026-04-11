@@ -14,7 +14,7 @@ header: {"preview_image": null}
 book: {"identifiers": ["B000OO1DYY"]}
 ---
 
-Brief review to be added of “[The Flying Saucer Reader](/ufo-history/ufo-books/david-jay-the-flying-saucer-reader)” ([1967](/tags/1967)) (available [on Amazon USA](http://www.amazon.com/dp/B000OO1DYY/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B000OO1DYY/?&tag=ufot-21)) edited by [Jay David](/ufo-history/ufo-personalities/david-jay).
+Brief review to be added of “[The Flying Saucer Reader]({{ '/ufo-history/ufo-books/david-jay-the-flying-saucer-reader' | relative_url }})” ([1967]({{ '/tags/1967' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/B000OO1DYY/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B000OO1DYY/?&tag=ufot-21)) edited by [Jay David]({{ '/ufo-history/ufo-personalities/david-jay' | relative_url }}).
 
 1. [Web Resources](#web)
 

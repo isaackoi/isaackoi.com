@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/blum_howard_1.jpg"}
 ---
 
-![blum_howard_1](/images/stories/ufo_personalities/blum_howard_1.jpg)
+![blum_howard_1]({{ '/images/stories/ufo_personalities/blum_howard_1.jpg' | relative_url }})
 
 *Howard Blum*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/blum-howard">Blum, Howard</a> “<a href="/ufo-history/ufo-books/blum-howard-out-there">Out There</a>“ (<a href="/tags/1990">1990</a>) (available <a href="http://www.amazon.com/dp/0671662600/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0671662600/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/blum-howard' | relative_url }}">Blum, Howard</a> “<a href="{{ '/ufo-history/ufo-books/blum-howard-out-there' | relative_url }}">Out There</a>“ (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) (available <a href="http://www.amazon.com/dp/0671662600/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0671662600/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>
@@ -61,7 +61,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 
 Please use the comments section at the bottom of this page to share any relevant book references or other useful resources.
 
-See references provided in the entry for Howard Blum's book “[Out There](/ufo-history/ufo-books/blum-howard-out-there)“ ([1990](/tags/1990)).
+See references provided in the entry for Howard Blum's book “[Out There]({{ '/ufo-history/ufo-books/blum-howard-out-there' | relative_url }})“ ([1990]({{ '/tags/1990' | relative_url }})).
 
 <a id="other"></a>
 ### Other Material

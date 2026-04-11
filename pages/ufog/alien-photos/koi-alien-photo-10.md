@@ -13,7 +13,7 @@ planned_sections: ["1. The relevant image", "2. Stories and claims relating to t
 header: {"preview_image": "/images/stories/alien_photos/koi_ap_10_a.jpg"}
 ---
 
-![](/images/stories/alien_photos/koi_ap_10_a.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_10_a.jpg' | relative_url }})
 
 *Koi Alien Photo 10*
 
@@ -54,13 +54,13 @@ Sections below:
 <a id="image"></a>
 ### 1. The relevant image
 
-![](/images/stories/alien_photos/koi_ap_10_a.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_10_a.jpg' | relative_url }})
 
-![](/images/stories/alien_photos/koi_ap_10_b.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_10_b.jpg' | relative_url }})
 
-![](/images/stories/alien_photos/koi_ap_10_c.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_10_c.jpg' | relative_url }})
 
-![](/images/stories/alien_photos/koi_ap_10_f.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_10_f.jpg' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this image
@@ -99,7 +99,7 @@ The photograph of an "alien" in Koi Alien Photo 10 was taken at [the "Aliens: Wo
 
 As can be seen from a photograph of that exhibit (below, labelled "koi_ap_10_d") the "alien" is the same one, the rippled corrugated iron background is the same and that the mesh fence on the right hand side of the photograph is the same:
 
-![](/images/stories/alien_photos/koi_ap_10_d.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_10_d.jpg' | relative_url }})
 
 The fact that the "alien" was in fact part of the exhibit was confirmed to me by the Manager of Exhibit Development of the Pacific Science Center. When I raised various questions with her, she kindly responded answers:
 
@@ -137,7 +137,7 @@ I had some doubts about this identification of the relevant individual as Victor
 
 However, I contacted Mr Morales, who took the suggestion in good humour. He replied: "I found your email to be very amusing. Though the person in the photograph has some similarities to me, it is not me in the photo. We did have the exhibit here in the summer of 2004 but I do not have any pictures of this piece. It is indeed part of the exhibit, to include the back ground" (email to Isaac Koi dated 16 May 2007). A photograph of Mr Morales is included below with the label "Koi_ap_10_h".
 
-![](/images/stories/alien_photos/koi_ap_10_h.JPG):
+![]({{ '/images/stories/alien_photos/koi_ap_10_h.JPG' | relative_url }}):
 
 It would have been a nice finishing touch to my research into this particular photograph to have identified the man pictured with the "alien", but given the timing problem mentioned above I was not very surprised to hear that it was not Mr Morales.
 
@@ -147,11 +147,11 @@ The [website for "Dapper Cadaver"](http://www.dappercadaver.com/) (a "specialty 
 
 Mr Winslow went on to say that "Just because a photo is easily faked doesn't mean they're all faked. I fake crime scenes and crime scene photography for a living, for television shows, but it doesn't mean all crime scene photos are fake. It's kind of embarrassing that anyone who sincerely wants to prove the existence of aliens would cling to photos that are so clearly staged. It's like a bigfoot researcher trying to pass off photos form Disney's Matterhorn ride as proof of Yet"i.
 
-![](/images/stories/alien_photos/koi_ap_10_i.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_10_i.jpg' | relative_url }})
 
 To make it easier to compare that "alien body" prop with Koi Alien Photo 10, I have flipped the image around and superimposed the black-and-white photo of an "alien" from Koi Alien Photo 10 (see image below labelled "koi_ap_10_j").
 
-![](/images/stories/alien_photos/koi_ap_10_j.jpg)
+![]({{ '/images/stories/alien_photos/koi_ap_10_j.jpg' | relative_url }})
 
 <a id="forums"></a>**4. Relevant online forum discussions**
 

@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/078670800X.jpg"}
 book: {"identifiers": ["078670800X"], "primary_isbn": "078670800X", "cover_image": "/book-covers/078670800X.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of Lynn Picknett's book “[The Mammoth Book of UFOs](/ufo-history/ufo-books/picknett-lynn-the-mammoth-book-of-ufos)” ([2001](/tags/2001)) (available [on Amazon USA](http://www.amazon.com/dp/078670800X/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/078670800X/?&tag=ufot-21))
+Brief review to be added of Lynn Picknett's book “[The Mammoth Book of UFOs]({{ '/ufo-history/ufo-books/picknett-lynn-the-mammoth-book-of-ufos' | relative_url }})” ([2001]({{ '/tags/2001' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/078670800X/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/078670800X/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

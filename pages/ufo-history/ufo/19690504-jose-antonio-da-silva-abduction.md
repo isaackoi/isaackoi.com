@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -59,10 +59,10 @@ For discussion of the Jose Antonio da Silva incident see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1977">1977</a></p>
+<p><a href="{{ '/tags/1977' | relative_url }}">1977</a></p>
 </td>
 <td valign="top" width="547">
-<p>Aleixo, Hulvio Brant in “Encounter Cases from Flying Saucer Review” (<a href="/tags/1977">1977</a>) (edited by Charles Bowen) (available <a href="http://www.amazon.com/dp/0451079523/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451079523/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 175-193 of the Signet paperback edition (unnumbered chapter entitled “Abduction at Bebedouro”). The relevant chapter reprints an article published in Flying Saucer Review, Volume 19, Number 6 (November-December <a href="/tags/1973">1973</a>) and the opening paragraphs of a further article in Flying Saucer Review, Volume 21, Numbers 3-4 of <a href="/tags/1975">1975</a> (a double issue).</p>
+<p>Aleixo, Hulvio Brant in “Encounter Cases from Flying Saucer Review” (<a href="{{ '/tags/1977' | relative_url }}">1977</a>) (edited by Charles Bowen) (available <a href="http://www.amazon.com/dp/0451079523/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0451079523/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 175-193 of the Signet paperback edition (unnumbered chapter entitled “Abduction at Bebedouro”). The relevant chapter reprints an article published in Flying Saucer Review, Volume 19, Number 6 (November-December <a href="{{ '/tags/1973' | relative_url }}">1973</a>) and the opening paragraphs of a further article in Flying Saucer Review, Volume 21, Numbers 3-4 of <a href="{{ '/tags/1975' | relative_url }}">1975</a> (a double issue).</p>
 </td>
 <td valign="top" width="52">
 <p>19</p>
@@ -70,10 +70,10 @@ For discussion of the Jose Antonio da Silva incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/baker-alan">Baker, Alan</a> in his “<a href="/ufo-history/ufo-books/baker-alan-the-encyclopaedia-of-alien-encounters">The Encyclopaedia of Alien Encounters</a>” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/1852277343/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1852277343/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 31-32 (in an entry entitled “Bebedouro, Brazil”) of the Virgin hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/baker-alan' | relative_url }}">Baker, Alan</a> in his “<a href="{{ '/ufo-history/ufo-books/baker-alan-the-encyclopaedia-of-alien-encounters' | relative_url }}">The Encyclopaedia of Alien Encounters</a>” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/1852277343/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1852277343/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 31-32 (in an entry entitled “Bebedouro, Brazil”) of the Virgin hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -81,10 +81,10 @@ For discussion of the Jose Antonio da Silva incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p>Blundell, Nigel in his “<a href="/ufo-history/ufo-books/blundell-nigel-worlds-most-amazing-ufo-visits">World’s Most Amazing UFO Visits</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/1857781589/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1857781589/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 156 of the Select softcover edition.</p>
+<p>Blundell, Nigel in his “<a href="{{ '/ufo-history/ufo-books/blundell-nigel-worlds-most-amazing-ufo-visits' | relative_url }}">World’s Most Amazing UFO Visits</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/1857781589/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1857781589/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 156 of the Select softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -92,10 +92,10 @@ For discussion of the Jose Antonio da Silva incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/brookesmith-peter">Brookesmith, Peter</a> in his “<a href="/ufo-history/ufo-books/brookesmith-peter-alien-abductions">Alien Abductions</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0760707642/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0760707642/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 19 (in Chapter 1) of the Barnes &amp; Noble hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/brookesmith-peter' | relative_url }}">Brookesmith, Peter</a> in his “<a href="{{ '/ufo-history/ufo-books/brookesmith-peter-alien-abductions' | relative_url }}">Alien Abductions</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0760707642/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0760707642/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 19 (in Chapter 1) of the Barnes &amp; Noble hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -103,10 +103,10 @@ For discussion of the Jose Antonio da Silva incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/brookesmith-peter">Brookesmith, Peter</a> in his “<a href="/ufo-history/ufo-books/brookesmith-peter-ufo-the-complete-sightings-catalogue">UFO: The Complete Sightings Catalogue</a>” (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/0713725184/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713725184/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 95 (in Chapter 4) of the BCA hardback edition (with the same page numbering in the Blitz hardback edition, and in the Barnes &amp; Noble hardback edition published under the title “UFO: The Complete Sightings”).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/brookesmith-peter' | relative_url }}">Brookesmith, Peter</a> in his “<a href="{{ '/ufo-history/ufo-books/brookesmith-peter-ufo-the-complete-sightings-catalogue' | relative_url }}">UFO: The Complete Sightings Catalogue</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/0713725184/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0713725184/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 95 (in Chapter 4) of the BCA hardback edition (with the same page numbering in the Blitz hardback edition, and in the Barnes &amp; Noble hardback edition published under the title “UFO: The Complete Sightings”).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -114,10 +114,10 @@ For discussion of the Jose Antonio da Silva incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p>Cassirer, Manfred in his “<a href="/ufo-history/ufo-books/cassirer-manfred-dimensions-of-enchantment">Dimensions of Enchantment</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/0947533893/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0947533893/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 85-88 (in Chapter 7) of the Breese Books softcover edition.</p>
+<p>Cassirer, Manfred in his “<a href="{{ '/ufo-history/ufo-books/cassirer-manfred-dimensions-of-enchantment' | relative_url }}">Dimensions of Enchantment</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/0947533893/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0947533893/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 85-88 (in Chapter 7) of the Breese Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>
@@ -125,10 +125,10 @@ For discussion of the Jose Antonio da Silva incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1975">1975</a></p>
+<p><a href="{{ '/tags/1975' | relative_url }}">1975</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> and Coleman, Loren in their “<a href="/ufo-history/ufo-books/clark-jerome-and-coleman-loren-the-unidentified">The Unidentified</a>” (<a href="/tags/1975">1975</a>) (available <a href="http://www.amazon.com/dp/1933665114/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1933665114/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 165-172 and 176-181 of the Warner paperback edition (unnumbered section entitled “UFOs: The Mystery in the Machine”, parts 1 and 2) and pages 190, 192-193 of the Warner paperback edition (unnumbered section entitled “UFOs: The Mystery in the Machine”, part 4).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> and Coleman, Loren in their “<a href="{{ '/ufo-history/ufo-books/clark-jerome-and-coleman-loren-the-unidentified' | relative_url }}">The Unidentified</a>” (<a href="{{ '/tags/1975' | relative_url }}">1975</a>) (available <a href="http://www.amazon.com/dp/1933665114/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1933665114/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 165-172 and 176-181 of the Warner paperback edition (unnumbered section entitled “UFOs: The Mystery in the Machine”, parts 1 and 2) and pages 190, 192-193 of the Warner paperback edition (unnumbered section entitled “UFOs: The Mystery in the Machine”, part 4).</p>
 </td>
 <td valign="top" width="52">
 <p>14</p>
@@ -136,10 +136,10 @@ For discussion of the Jose Antonio da Silva incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq">The UFO Encyclopedia: 1st edition</a>: Volume 3 – High Strangeness” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/1558887423/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558887423/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 44-49 (in an entry entitled “Bebedouro Abduction Case”) of the Omnigraphics hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-1st-editionq' | relative_url }}">The UFO Encyclopedia: 1st edition</a>: Volume 3 – High Strangeness” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/1558887423/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1558887423/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 44-49 (in an entry entitled “Bebedouro Abduction Case”) of the Omnigraphics hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>6</p>
@@ -147,10 +147,10 @@ For discussion of the Jose Antonio da Silva incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/clark-jerome">Clark, Jerome</a> in his “<a href="/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) in Volume 1:A-K at pages 149-153 (in an entry entitled “Bebedouro Abduction Case”), 250 (in an entry entitled “Contactees”) of the Omnigraphics hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition' | relative_url }}">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) in Volume 1:A-K at pages 149-153 (in an entry entitled “Bebedouro Abduction Case”), 250 (in an entry entitled “Contactees”) of the Omnigraphics hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>6</p>
@@ -158,10 +158,10 @@ For discussion of the Jose Antonio da Silva incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p>Dash, Mike in his “Borderlands” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0879517247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879517247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 152-153 (in Chapter 4) of the Arrow paperback edition.</p>
+<p>Dash, Mike in his “Borderlands” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0879517247/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879517247/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 152-153 (in Chapter 4) of the Arrow paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -169,10 +169,10 @@ For discussion of the Jose Antonio da Silva incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1996">1996</a></p>
+<p><a href="{{ '/tags/1996' | relative_url }}">1996</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/huyghe-patrick">Huyghe, Patrick</a> in his “<a href="/ufo-history/ufo-books/huyghe-patrick-the-field-guide-to-extraterrestrials">The Field Guide to Extraterrestrials</a>” (<a href="/tags/1996">1996</a>) (available <a href="http://www.amazon.com/dp/038078128X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/038078128X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 44-45 (in the unnumbered section entitled “Humanoid”) of the Avon softcover edition (with the same page numbering in the NEL softcover edition).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/huyghe-patrick' | relative_url }}">Huyghe, Patrick</a> in his “<a href="{{ '/ufo-history/ufo-books/huyghe-patrick-the-field-guide-to-extraterrestrials' | relative_url }}">The Field Guide to Extraterrestrials</a>” (<a href="{{ '/tags/1996' | relative_url }}">1996</a>) (available <a href="http://www.amazon.com/dp/038078128X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/038078128X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 44-45 (in the unnumbered section entitled “Humanoid”) of the Avon softcover edition (with the same page numbering in the NEL softcover edition).</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -180,10 +180,10 @@ For discussion of the Jose Antonio da Silva incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1988">1988</a></p>
+<p><a href="{{ '/tags/1988' | relative_url }}">1988</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/keel-john-a">Keel, John A</a> in his “<a href="/ufo-history/ufo-books/keel-john-disneyland-of-the-gods">Disneyland of the Gods</a>” (<a href="/tags/1988">1988</a>) (available <a href="http://www.amazon.com/dp/1881532062/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1881532062/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 146 (in the unnumbered chapter entitled “On Top of Mount Olympus”) of the I-Net softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/keel-john-a' | relative_url }}">Keel, John A</a> in his “<a href="{{ '/ufo-history/ufo-books/keel-john-disneyland-of-the-gods' | relative_url }}">Disneyland of the Gods</a>” (<a href="{{ '/tags/1988' | relative_url }}">1988</a>) (available <a href="http://www.amazon.com/dp/1881532062/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1881532062/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 146 (in the unnumbered chapter entitled “On Top of Mount Olympus”) of the I-Net softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -191,10 +191,10 @@ For discussion of the Jose Antonio da Silva incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1975">1975</a></p>
+<p><a href="{{ '/tags/1975' | relative_url }}">1975</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/keel-john-a">Keel, John A</a> in his “<a href="/ufo-history/ufo-books/keel-john-a-the-cosmic-question">The Cosmic Question</a>” (<a href="/tags/1975">1975</a>) (formerly “The Eighth Tower”) (available <a href="http://www.amazon.com/dp/B000K03IOA/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000K03IOA/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 143 (in Chapter 16) of the Panther paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/keel-john-a' | relative_url }}">Keel, John A</a> in his “<a href="{{ '/ufo-history/ufo-books/keel-john-a-the-cosmic-question' | relative_url }}">The Cosmic Question</a>” (<a href="{{ '/tags/1975' | relative_url }}">1975</a>) (formerly “The Eighth Tower”) (available <a href="http://www.amazon.com/dp/B000K03IOA/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000K03IOA/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 143 (in Chapter 16) of the Panther paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -202,10 +202,10 @@ For discussion of the Jose Antonio da Silva incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p>Morris, Peter J in his “Aliens Amongst Us: A Beginner’s Guide” (<a href="/tags/1999">1999</a>) (available <a href="http://www.amazon.com/dp/0340758333/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0340758333/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 62 (in Chapter 5) of the Hodder &amp; Stoughton softcover edition.</p>
+<p>Morris, Peter J in his “Aliens Amongst Us: A Beginner’s Guide” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (available <a href="http://www.amazon.com/dp/0340758333/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0340758333/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 62 (in Chapter 5) of the Hodder &amp; Stoughton softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -213,10 +213,10 @@ For discussion of the Jose Antonio da Silva incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1988">1988</a></p>
+<p><a href="{{ '/tags/1988' | relative_url }}">1988</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/rimmer-john">Rimmer, John</a> in “<a href="/ufo-history/ufo-books/spencer-john-and-evans-hilary-phenomenon">Phenomenon</a>“ (<a href="/tags/1988">1988</a>) (edited by <a href="/ufo-history/ufo-personalities/spencer-john">John Spencer</a> and <a href="/ufo-history/ufo-personalities/evans-hilary">Hilary Evans</a>) (available <a href="http://www.amazon.com/dp/0380706547/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380706547/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 161-162, 167 (in Part 2, in the unnumbered chapter entitled “Evaluating the Abductee Experience”) of the MacDonald hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/rimmer-john' | relative_url }}">Rimmer, John</a> in “<a href="{{ '/ufo-history/ufo-books/spencer-john-and-evans-hilary-phenomenon' | relative_url }}">Phenomenon</a>“ (<a href="{{ '/tags/1988' | relative_url }}">1988</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">John Spencer</a> and <a href="{{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }}">Hilary Evans</a>) (available <a href="http://www.amazon.com/dp/0380706547/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380706547/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 161-162, 167 (in Part 2, in the unnumbered chapter entitled “Evaluating the Abductee Experience”) of the MacDonald hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -224,10 +224,10 @@ For discussion of the Jose Antonio da Silva incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1984">1984</a></p>
+<p><a href="{{ '/tags/1984' | relative_url }}">1984</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/rimmer-john">Rimmer, John</a> in his “<a href="/ufo-history/ufo-books/rimmer-john-the-evidence-for-alien-abductions">The Evidence for Alien Abductions</a>” (<a href="/tags/1984">1984</a>) (available <a href="http://www.amazon.com/dp/0850303621/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0850303621/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 25-30 (in Chapter 1) of the Aquarian softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/rimmer-john' | relative_url }}">Rimmer, John</a> in his “<a href="{{ '/ufo-history/ufo-books/rimmer-john-the-evidence-for-alien-abductions' | relative_url }}">The Evidence for Alien Abductions</a>” (<a href="{{ '/tags/1984' | relative_url }}">1984</a>) (available <a href="http://www.amazon.com/dp/0850303621/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0850303621/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 25-30 (in Chapter 1) of the Aquarian softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>6</p>
@@ -235,10 +235,10 @@ For discussion of the Jose Antonio da Silva incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1978">1978</a></p>
+<p><a href="{{ '/tags/1978' | relative_url }}">1978</a></p>
 </td>
 <td valign="top" width="547">
-<p>Seargent, D A J in his “UFOs: A Scientific Enigma” (<a href="/tags/1978">1978</a>) (available <a href="http://www.amazon.com/dp/0722176945/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0722176945/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 126 (in Chapter 6) of the Sphere paperback edition.</p>
+<p>Seargent, D A J in his “UFOs: A Scientific Enigma” (<a href="{{ '/tags/1978' | relative_url }}">1978</a>) (available <a href="http://www.amazon.com/dp/0722176945/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0722176945/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 126 (in Chapter 6) of the Sphere paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -246,10 +246,10 @@ For discussion of the Jose Antonio da Silva incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1989">1989</a></p>
+<p><a href="{{ '/tags/1989' | relative_url }}">1989</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/spencer-john">Spencer, John</a> in his “<a href="/ufo-history/ufo-books/spencer-john-perspectives">Perspectives</a>“ (<a href="/tags/1989">1989</a>) (available <a href="http://www.amazon.com/dp/0708847781/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0708847781/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 152 (in Part 4) of the Futura paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">Spencer, John</a> in his “<a href="{{ '/ufo-history/ufo-books/spencer-john-perspectives' | relative_url }}">Perspectives</a>“ (<a href="{{ '/tags/1989' | relative_url }}">1989</a>) (available <a href="http://www.amazon.com/dp/0708847781/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0708847781/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 152 (in Part 4) of the Futura paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -257,10 +257,10 @@ For discussion of the Jose Antonio da Silva incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/spencer-john">Spencer, John</a> in his “<a href="/ufo-history/ufo-books/spencer-john-the-ufo-encyclopedia">The UFO Encyclopedia</a>” (<a href="/tags/1991">1991</a>) (available <a href="http://www.amazon.com/dp/0380768879/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380768879/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 40 (in an entry entitled “Belo Horizonte, Brazil”) of the Guild hardback edition (with the same page numbering in the Avon softcover edition) at page 47-48 of the Headline paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">Spencer, John</a> in his “<a href="{{ '/ufo-history/ufo-books/spencer-john-the-ufo-encyclopedia' | relative_url }}">The UFO Encyclopedia</a>” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/0380768879/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380768879/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 40 (in an entry entitled “Belo Horizonte, Brazil”) of the Guild hardback edition (with the same page numbering in the Avon softcover edition) at page 47-48 of the Headline paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -268,10 +268,10 @@ For discussion of the Jose Antonio da Silva incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1993">1993</a></p>
+<p><a href="{{ '/tags/1993' | relative_url }}">1993</a></p>
 </td>
 <td valign="top" width="547">
-<p>Stone, Reuben in his “<a href="/ufo-history/ufo-books/stone-reuben-ufo-investigation">UFO Investigation</a>” (<a href="/tags/1993">1993</a>) (available <a href="http://www.amazon.com/dp/1856051285/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1856051285/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 59 (in the unnumbered chapter entitled “Abducted by Aliens”) of the Blitz Editions hardback edition.</p>
+<p>Stone, Reuben in his “<a href="{{ '/ufo-history/ufo-books/stone-reuben-ufo-investigation' | relative_url }}">UFO Investigation</a>” (<a href="{{ '/tags/1993' | relative_url }}">1993</a>) (available <a href="http://www.amazon.com/dp/1856051285/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1856051285/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 59 (in the unnumbered chapter entitled “Abducted by Aliens”) of the Blitz Editions hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -279,10 +279,10 @@ For discussion of the Jose Antonio da Silva incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1977">1977</a></p>
+<p><a href="{{ '/tags/1977' | relative_url }}">1977</a></p>
 </td>
 <td valign="top" width="547">
-<p>Strickland, Joshua in his “Extra-terrestrials on Earth” (<a href="/tags/1977">1977</a>) (available <a href="http://www.amazon.com/dp/044821461X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/044821461X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 10-14 (in Chapter 1) of the Granada softcover edition.</p>
+<p>Strickland, Joshua in his “Extra-terrestrials on Earth” (<a href="{{ '/tags/1977' | relative_url }}">1977</a>) (available <a href="http://www.amazon.com/dp/044821461X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/044821461X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 10-14 (in Chapter 1) of the Granada softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>
@@ -290,10 +290,10 @@ For discussion of the Jose Antonio da Silva incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1988">1988</a></p>
+<p><a href="{{ '/tags/1988' | relative_url }}">1988</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/vallee-jacques">Vallee, Jacques</a> in his “<a href="/ufo-history/ufo-books/vallee-jaques-dimensions">Dimensions</a>“ (<a href="/tags/1988">1988</a>) (available <a href="http://www.amazon.com/dp/1933665289/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1933665289/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 188-190 (in Part 2, Chapter 6) of the Souvenir Press hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/vallee-jacques' | relative_url }}">Vallee, Jacques</a> in his “<a href="{{ '/ufo-history/ufo-books/vallee-jaques-dimensions' | relative_url }}">Dimensions</a>“ (<a href="{{ '/tags/1988' | relative_url }}">1988</a>) (available <a href="http://www.amazon.com/dp/1933665289/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1933665289/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 188-190 (in Part 2, Chapter 6) of the Souvenir Press hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -301,10 +301,10 @@ For discussion of the Jose Antonio da Silva incident see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1975">1975</a></p>
+<p><a href="{{ '/tags/1975' | relative_url }}">1975</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/vallee-jacques">Vallee, Jacques</a> in his “<a href="/ufo-history/ufo-books/vallee-jacques-the-invisible-college">The Invisible College</a>” (<a href="/tags/1975">1975</a>) (available <a href="http://www.amazon.com/dp/0525134700/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0525134700/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 118-120 (in Chapter 5) of the Dutton hardback edition, at pages 125-127 of the Panther paperback edition (published under the title “<a href="/ufo-history/ufo-books/vallee-jacques-ufos-the-psychic-solution">UFOs : The Psychic Solution</a>”).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/vallee-jacques' | relative_url }}">Vallee, Jacques</a> in his “<a href="{{ '/ufo-history/ufo-books/vallee-jacques-the-invisible-college' | relative_url }}">The Invisible College</a>” (<a href="{{ '/tags/1975' | relative_url }}">1975</a>) (available <a href="http://www.amazon.com/dp/0525134700/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0525134700/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 118-120 (in Chapter 5) of the Dutton hardback edition, at pages 125-127 of the Panther paperback edition (published under the title “<a href="{{ '/ufo-history/ufo-books/vallee-jacques-ufos-the-psychic-solution' | relative_url }}">UFOs : The Psychic Solution</a>”).</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>

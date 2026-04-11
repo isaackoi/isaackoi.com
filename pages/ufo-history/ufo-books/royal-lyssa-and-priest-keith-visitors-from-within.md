@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0963132016.jpg"}
 book: {"identifiers": ["0963132016"], "primary_isbn": "0963132016", "cover_image": "/book-covers/0963132016.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of “[Visitors from Within](/ufo-history/ufo-books/royal-lyssa-and-priest-keith-visitors-from-within)” ([1992](/tags/1992)) (available [on Amazon USA](http://www.amazon.com/dp/0963132016/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0963132016/?&tag=ufot-21)) by Lyssa Royal and Keith Priest.
+Brief review to be added of “[Visitors from Within]({{ '/ufo-history/ufo-books/royal-lyssa-and-priest-keith-visitors-from-within' | relative_url }})” ([1992]({{ '/tags/1992' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0963132016/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0963132016/?&tag=ufot-21)) by Lyssa Royal and Keith Priest.
 
 1. [Web Resources](#web)
 

@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -43,9 +43,9 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-Discussed by [Clark, Jerome](/ufo-history/ufo-personalities/clark-jerome) in his “[The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition](/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition)” ([1998](/tags/1998)) (available [on Amazon USA](http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21)) in Volume 2:L-Z at page 953 (part of the entry entitled “University of Colorado UFO Project” at pages 946-959) of the Omnigraphics hardback edition forming.
+Discussed by [Clark, Jerome]({{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}) in his “[The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition]({{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition' | relative_url }})” ([1998]({{ '/tags/1998' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21)) in Volume 2:L-Z at page 953 (part of the entry entitled “University of Colorado UFO Project” at pages 946-959) of the Omnigraphics hardback edition forming.
 
-See also references provided in the main entry for the [Condon Report](/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects) (9 January [1969](/tags/1969)).
+See also references provided in the main entry for the [Condon Report]({{ '/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects' | relative_url }}) (9 January [1969]({{ '/tags/1969' | relative_url }})).
 
 <a id="other"></a>
 ### Other Material

@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -67,10 +67,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1975">1975</a></p>
+<p><a href="{{ '/tags/1975' | relative_url }}">1975</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/jacobs-david-michael">Jacobs, David Michael</a> in his “<a href="/ufo-history/ufo-books/jacobs-david-michael-the-ufo-controversy-in-america">The UFO Controversy in America</a>” (<a href="/tags/1975">1975</a>) (available <a href="http://www.amazon.com/dp/0253190061/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0253190061/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 214-216 (in Chapter 8) of the Indiana hardback edition, pages 190-191 of the Signet paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/jacobs-david-michael' | relative_url }}">Jacobs, David Michael</a> in his “<a href="{{ '/ufo-history/ufo-books/jacobs-david-michael-the-ufo-controversy-in-america' | relative_url }}">The UFO Controversy in America</a>” (<a href="{{ '/tags/1975' | relative_url }}">1975</a>) (available <a href="http://www.amazon.com/dp/0253190061/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0253190061/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 214-216 (in Chapter 8) of the Indiana hardback edition, pages 190-191 of the Signet paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -82,7 +82,7 @@ For discussion see the following:
 <a id="other"></a>
 ### Other Material
 
-Text of letter presented in the transcript of the Roush Hearing (the U.S. House of Representatives Committee on Science and Astronautics "Symposium on Unidentified Flying Objects" on [1968](/tags/1968).0729) at pages 12-13 of the transcript of the Ninetieth Congress, Second Session, Number 7. Complete transcript available free online at the following links:
+Text of letter presented in the transcript of the Roush Hearing (the U.S. House of Representatives Committee on Science and Astronautics "Symposium on Unidentified Flying Objects" on [1968]({{ '/tags/1968' | relative_url }}).0729) at pages 12-13 of the transcript of the Ninetieth Congress, Second Session, Number 7. Complete transcript available free online at the following links:
 
 [http://ncas.sawco.com/ufosymposium/contents.html](http://ncas.sawco.com/ufosymposium/contents.html)
 

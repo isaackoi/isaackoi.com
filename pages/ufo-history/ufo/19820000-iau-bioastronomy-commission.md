@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/seti_1.jpg"}
 ---
 
-![seti_1](/images/stories/ufo_tags/seti_1.jpg)
+![seti_1]({{ '/images/stories/ufo_tags/seti_1.jpg' | relative_url }})
 
 *IAU Bioastronomy commission*
 
@@ -59,10 +59,10 @@ For discussion of the IAU Bioastronomy Commission see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="547">
-<p>Billings, Linda in “First Contact” (<a href="/tags/1990">1990</a>) (edited by <a href="/ufo-history/ufo-personalities/bova-ben">Ben Bova</a> and Byron Preiss) (available <a href="http://www.amazon.com/dp/0747235082/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0747235082/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 232-233 (in Chapter 7) of the NAL Books hardback edition, at page 294 of the Headline paperback edition.</p>
+<p>Billings, Linda in “First Contact” (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/bova-ben' | relative_url }}">Ben Bova</a> and Byron Preiss) (available <a href="http://www.amazon.com/dp/0747235082/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0747235082/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 232-233 (in Chapter 7) of the NAL Books hardback edition, at page 294 of the Headline paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -70,10 +70,10 @@ For discussion of the IAU Bioastronomy Commission see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p>Clark, Stuart in his “<a href="/ufo-history/ufo-books/clark-stuart-life-on-other-worlds-and-how-to-find-it">Life on Other Worlds and How to Find It</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/185233097X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/185233097X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 105 (in Chapter 8), 130 (in Chapter 9) of the Springer hardback edition.</p>
+<p>Clark, Stuart in his “<a href="{{ '/ufo-history/ufo-books/clark-stuart-life-on-other-worlds-and-how-to-find-it' | relative_url }}">Life on Other Worlds and How to Find It</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/185233097X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/185233097X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 105 (in Chapter 8), 130 (in Chapter 9) of the Springer hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -81,10 +81,10 @@ For discussion of the IAU Bioastronomy Commission see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2003">2003</a></p>
+<p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/darling-david">Darling, David</a> in his online encyclopedia, “The Encyclopedia of Astrobiology, Astronomy and Spaceflight” (<a href="/tags/2003">2003</a>) in the entry entitled “Bioastronomy”. The relevant entry is available online at:</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/darling-david' | relative_url }}">Darling, David</a> in his online encyclopedia, “The Encyclopedia of Astrobiology, Astronomy and Spaceflight” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) in the entry entitled “Bioastronomy”. The relevant entry is available online at:</p>
 <p><a href="http://www.daviddarling.info/encyclopedia/B/bioastronomy.html">http://www.daviddarling.info/encyclopedia/B/bioastronomy.html</a></p>
 </td>
 <td valign="top" width="52">
@@ -93,10 +93,10 @@ For discussion of the IAU Bioastronomy Commission see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/drake-frank">Drake, Frank</a> and Sobel, Dava in their “<a href="/ufo-history/ufo-books/drake-frank-and-sobel-dava-is-anyone-out-there">Is Anyone Out There?</a>“ (<a href="/tags/1991">1991</a>) (available <a href="http://www.amazon.com/dp/038530532X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/038530532X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 199-201 (in Chapter 9) of the Pocket Books paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/drake-frank' | relative_url }}">Drake, Frank</a> and Sobel, Dava in their “<a href="{{ '/ufo-history/ufo-books/drake-frank-and-sobel-dava-is-anyone-out-there' | relative_url }}">Is Anyone Out There?</a>“ (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/038530532X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/038530532X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 199-201 (in Chapter 9) of the Pocket Books paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -104,10 +104,10 @@ For discussion of the IAU Bioastronomy Commission see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p>Heidmann, Jean in his “Extraterrestrial Intelligence” (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/0521585635/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521585635/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 210 (in the Epilog) of the Cambridge hardback edition.</p>
+<p>Heidmann, Jean in his “Extraterrestrial Intelligence” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/0521585635/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521585635/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 210 (in the Epilog) of the Cambridge hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -115,10 +115,10 @@ For discussion of the IAU Bioastronomy Commission see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p>Heidmann, Jean in his “Life in the Universe" (<a href="/tags/1995">1995</a>) (available <a href="http://www.amazon.com/dp/0070278873/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0070278873/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 33 (in Chapter 2) of the Cambridge softcover edition.</p>
+<p>Heidmann, Jean in his “Life in the Universe" (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) (available <a href="http://www.amazon.com/dp/0070278873/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0070278873/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 33 (in Chapter 2) of the Cambridge softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -126,10 +126,10 @@ For discussion of the IAU Bioastronomy Commission see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="547">
-<p>Kraus, John D in an interview in David W Swift’s “<a href="/ufo-history/ufo-books/swift-david-w-seti-pioneers-scientists-talk-about-their-search-for-extraterrestrial-intelligence">SETI Pioneers : Scientists Talk About Their Search for Extraterrestrial Intelligence</a>” (<a href="/tags/1990">1990</a>) (available <a href="http://www.amazon.com/dp/0816511195/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0816511195/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 234 (in the unnumbered chapter entitled “John D Kraus”) of the Arizona hardback edition.</p>
+<p>Kraus, John D in an interview in David W Swift’s “<a href="{{ '/ufo-history/ufo-books/swift-david-w-seti-pioneers-scientists-talk-about-their-search-for-extraterrestrial-intelligence' | relative_url }}">SETI Pioneers : Scientists Talk About Their Search for Extraterrestrial Intelligence</a>” (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) (available <a href="http://www.amazon.com/dp/0816511195/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0816511195/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 234 (in the unnumbered chapter entitled “John D Kraus”) of the Arizona hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -137,10 +137,10 @@ For discussion of the IAU Bioastronomy Commission see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p>Lamb, David in his “<a href="/ufo-history/ufo-books/lamb-david-the-search-of-extraterrestrial-intelligence-a-philosophical-inquiry">The Search for Extraterrestrial Intelligence : A Philosophical Inquiry</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/0415243424/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0415243424/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 40 (in Chapter 2) of the Routledge softcover edition.</p>
+<p>Lamb, David in his “<a href="{{ '/ufo-history/ufo-books/lamb-david-the-search-of-extraterrestrial-intelligence-a-philosophical-inquiry' | relative_url }}">The Search for Extraterrestrial Intelligence : A Philosophical Inquiry</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/0415243424/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0415243424/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 40 (in Chapter 2) of the Routledge softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -148,10 +148,10 @@ For discussion of the IAU Bioastronomy Commission see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/papagiannis-michael">Papagiannis, Michael</a> in “Are We Alone in the Cosmos” (<a href="/tags/1999">1999</a>) (edited by <a href="/ufo-history/ufo-personalities/bova-ben">Ben Bova</a> and Byron Preiss) (available <a href="http://www.amazon.com/dp/0671038923/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0671038923/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 210 (in Chapter 5) of the ibooks softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/papagiannis-michael' | relative_url }}">Papagiannis, Michael</a> in “Are We Alone in the Cosmos” (<a href="{{ '/tags/1999' | relative_url }}">1999</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/bova-ben' | relative_url }}">Ben Bova</a> and Byron Preiss) (available <a href="http://www.amazon.com/dp/0671038923/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0671038923/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 210 (in Chapter 5) of the ibooks softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -159,10 +159,10 @@ For discussion of the IAU Bioastronomy Commission see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1982">1982</a></p>
+<p><a href="{{ '/tags/1982' | relative_url }}">1982</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/papagiannis-michael">Papagiannis, Michael</a> in “<a href="/ufo-history/ufo-books/hart-michael-and-zuckerman-ben-extraterrestrials-where-are-they">Extraterrestrials: Where are they?</a>” (<a href="/tags/1982">1982</a>) (edited by <a href="/ufo-history/ufo-personalities/hart-michael">Michael Hart</a> and <a href="/ufo-history/ufo-personalities/zuckerman-ben">Ben Zuckerman</a>) (available <a href="http://www.amazon.com/dp/0521448034/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521448034/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 104 (in Chapter 12) of the Cambridge softcover second edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/papagiannis-michael' | relative_url }}">Papagiannis, Michael</a> in “<a href="{{ '/ufo-history/ufo-books/hart-michael-and-zuckerman-ben-extraterrestrials-where-are-they' | relative_url }}">Extraterrestrials: Where are they?</a>” (<a href="{{ '/tags/1982' | relative_url }}">1982</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/hart-michael' | relative_url }}">Michael Hart</a> and <a href="{{ '/ufo-history/ufo-personalities/zuckerman-ben' | relative_url }}">Ben Zuckerman</a>) (available <a href="http://www.amazon.com/dp/0521448034/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521448034/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 104 (in Chapter 12) of the Cambridge softcover second edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -170,10 +170,10 @@ For discussion of the IAU Bioastronomy Commission see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/papagiannis-michael">Papagiannis, Michael</a> in “First Contact” (<a href="/tags/1990">1990</a>) (edited by <a href="/ufo-history/ufo-personalities/bova-ben">Ben Bova</a> and Byron Preiss) (available <a href="http://www.amazon.com/dp/0747235082/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0747235082/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 186 (in Chapter 5) of the NAL Books hardback edition, at pages 235-236 of the Headline paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/papagiannis-michael' | relative_url }}">Papagiannis, Michael</a> in “First Contact” (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/bova-ben' | relative_url }}">Ben Bova</a> and Byron Preiss) (available <a href="http://www.amazon.com/dp/0747235082/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0747235082/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 186 (in Chapter 5) of the NAL Books hardback edition, at pages 235-236 of the Headline paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

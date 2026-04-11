@@ -6,6 +6,47 @@
     return value || "/";
   }
 
+  function normalizeBaseUrl(baseUrl) {
+    var value = String(baseUrl || "").trim();
+    if (!value || value === "/") {
+      return "";
+    }
+    value = value.replace(/\/+$/, "");
+    if (value.charAt(0) !== "/") {
+      value = "/" + value;
+    }
+    return value;
+  }
+
+  function getSiteBaseUrl() {
+    var body = document.body;
+    if (!body || typeof body.getAttribute !== "function") {
+      return "";
+    }
+    return normalizeBaseUrl(body.getAttribute("data-site-baseurl") || "");
+  }
+
+  function resolveSiteHref(path) {
+    var value = String(path || "").trim();
+    if (!value || value.charAt(0) === "#" || value.indexOf("{{") !== -1) {
+      return value;
+    }
+    if (/^(?:[a-z][a-z0-9+.-]*:|\/\/)/i.test(value)) {
+      return value;
+    }
+    if (value.charAt(0) !== "/") {
+      return value;
+    }
+    var baseUrl = getSiteBaseUrl();
+    if (!baseUrl) {
+      return value;
+    }
+    if (value === baseUrl || value.indexOf(baseUrl + "/") === 0) {
+      return value;
+    }
+    return baseUrl + value;
+  }
+
   function parseCssPixels(value) {
     var parsed = parseFloat(String(value || "").trim());
     return Number.isFinite(parsed) ? parsed : 0;
@@ -153,7 +194,7 @@
 
     var link = document.createElement("a");
     link.className = "sidebar-link";
-    link.href = item.url;
+    link.href = resolveSiteHref(item.url);
     link.title = fullTitle;
     link.setAttribute("aria-label", getUiString("open_report", "Open report") + ": " + fullTitle);
     link.setAttribute("data-sidebar-search", (title + " " + fullTitle).toLowerCase());
@@ -237,7 +278,7 @@
           root.innerHTML = "";
           var fallback = document.createElement("p");
           fallback.className = "sidebar-loading";
-          fallback.innerHTML = '<a href="/sitemap/">Open sitemap</a>';
+          fallback.innerHTML = '<a href="' + resolveSiteHref('/sitemap/') + '">Open sitemap</a>';
           root.appendChild(fallback);
         });
     }));

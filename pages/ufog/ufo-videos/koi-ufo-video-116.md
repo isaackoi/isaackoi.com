@@ -23,7 +23,7 @@ header: {"preview_image": "/images/stories/ufo_videos/video116_1.JPG"}
 
 In fact, this video was made as part of a promotional campaign for an online video game, "Zhu Xian 2", by the Chinese based company "Perfect World" involving the character "Dragon Totem Girl". The video prominently featured a logo associated with that game and the video appeared on a website promoting that game.
 
-Viral adverts for computer games have been responsible for a small number of other UFO videos (e.g. [a viral advertisement for the "Act of War: Direct Action"](/ufog/ufo-videos/koi-ufo-video-009)) with viral advertising for other products accounting for several of the more polished hoaxed UFO videos in recent years. The other products and services promoted by viral UFO videos have been very wide ranging, including [a new Toyota](/ufog/ufo-videos/koi-ufo-video-005), [an energy company](/ufog/ufo-videos/koi-ufo-video-076), [a science-fiction television show](/ufog/ufo-videos/koi-ufo-video-077)and [company offering advertising on pizza-box](/ufog/ufo-videos/koi-ufo-video-079)).
+Viral adverts for computer games have been responsible for a small number of other UFO videos (e.g. [a viral advertisement for the "Act of War: Direct Action"]({{ '/ufog/ufo-videos/koi-ufo-video-009' | relative_url }})) with viral advertising for other products accounting for several of the more polished hoaxed UFO videos in recent years. The other products and services promoted by viral UFO videos have been very wide ranging, including [a new Toyota]({{ '/ufog/ufo-videos/koi-ufo-video-005' | relative_url }}), [an energy company]({{ '/ufog/ufo-videos/koi-ufo-video-076' | relative_url }}), [a science-fiction television show]({{ '/ufog/ufo-videos/koi-ufo-video-077' | relative_url }})and [company offering advertising on pizza-box]({{ '/ufog/ufo-videos/koi-ufo-video-079' | relative_url }})).
 
 Sections below:
 
@@ -42,11 +42,11 @@ Koi UFO Video 116 appears to show someone teleporting a man on a rickshaw to saf
 
 Screen shots from the video are included below for ease of identification:
 
-![](/images/stories/ufo_videos/video116_1.JPG)
+![]({{ '/images/stories/ufo_videos/video116_1.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video116_3.JPG)
+![]({{ '/images/stories/ufo_videos/video116_3.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video116_2.JPG)
+![]({{ '/images/stories/ufo_videos/video116_2.JPG' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this video
@@ -64,13 +64,13 @@ When this video appeared online in 2012, in a discussion of the video on the the
 
 That logo can be seen in the middle of the screen-shot below from the teleportation video.
 
-![](/images/stories/ufo_videos/video116_4.JPG)
+![]({{ '/images/stories/ufo_videos/video116_4.JPG' | relative_url }})
 
 The logo appeared on the website promoting the game in various places, including in the news item as follows:
 
-![](/images/stories/ufo_videos/video116_5.JPG)
+![]({{ '/images/stories/ufo_videos/video116_5.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video116_6.JPG)
+![]({{ '/images/stories/ufo_videos/video116_6.JPG' | relative_url }})
 
 The new game mentioned on that website was called "Zhu Xian 2" in China, but marketed in the west as "Jade Dynasty 2". Jade Dynasty is a massively multiplayer online role-playing game (MMORPGs).
 
@@ -78,33 +78,33 @@ The new game mentioned on that website was called "Zhu Xian 2" in China, but mar
 
 The following day, on 16 September 2012, several people on the AboveTopSecret.com discussion forum posted links to [another part of the wanmei.com](http://x.wanmei.com/) website. That part related to a female character named "Dragon Totem Girl" and included the relevant logo and the teleportation video.
 
-![](/images/stories/ufo_videos/video116_7.JPG)
+![]({{ '/images/stories/ufo_videos/video116_7.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video116_8.JPG)
+![]({{ '/images/stories/ufo_videos/video116_8.JPG' | relative_url }})
 
 Some other websites subsequently posted about the connection between the video and the video game website (almost invariably without giving credit to earlier identifications of this connection...). One of the more informative articles, entitled "[Teleporting superhero alien, or video game character](http://www.openminds.tv/teleporting-superhero-alien-or-video-game-character-848/17093)" appeared on the Open Minds website on 20 September 2012 with [a more detailed article appearing on the Hoax Slayer website](http://www.hoax-slayer.com/teleporting-alien-saves-man-china-video.shtml) in 2013 (although that latter article did include some minor factual errors, e.g. referring to the relevant computer game as "Dragon Totem Girl" when in fact Dragon Totem Girl is a character associated with the game).
 
 A "Brand Strategy Consultant", Julia Makhalova, living in China wrote [a blog item in 2013 explaining "Dragon Totem Girl"](https://monkeywatching.wordpress.com/2013/04/10/chinese-style-marketing/) and the related promotional campaign. She described "Dragon Totem Girl" as a girl that "looks like Lara Croft, but with a batman style costume on".
 
-![](/images/stories/ufo_videos/video116_9.JPG)
+![]({{ '/images/stories/ufo_videos/video116_9.JPG' | relative_url }})
 
 Ms Makhalova explained that Perfect World promoted the game by getting someone to look like the "main character from the game and showed how this person can use ones superpowers in regular life". The company made other videos on different superpowers, including telekinesis and teletransportation. Dragon Totem Girl also visited a children's hospital and participation in charities.
 
-![](/images/stories/ufo_videos/video116_10.JPG)
+![]({{ '/images/stories/ufo_videos/video116_10.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video116_11.JPG)
+![]({{ '/images/stories/ufo_videos/video116_11.JPG' | relative_url }})
 
 Ms Makhalova noted that Dragon Totem Girl had over 10 thousand fans on her[page on the Chinese social website Weibo](http://weibo.com/lttnh). (Dragon Totem Girl's Weibo page also features the logo from the teleportation video).
 
-![](/images/stories/ufo_videos/video116_12.JPG)
+![]({{ '/images/stories/ufo_videos/video116_12.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video116_13.JPG)
+![]({{ '/images/stories/ufo_videos/video116_13.JPG' | relative_url }})
 
 Ms Makhalova also reported that Perfect World got into newspapers without paying for advertisements by using Dragon Totem Girl.
 
-![](/images/stories/ufo_videos/video116_14.JPG)
+![]({{ '/images/stories/ufo_videos/video116_14.JPG' | relative_url }})
 
-Viral adverts for computer games have been responsible for a small number of other UFO videos (e.g. [a viral advertisement for the "Act of War: Direct Action"](/ufog/ufo-videos/koi-ufo-video-009)) with viral advertising for other products accounting for several of the more polished hoaxed UFO videos in recent years. The other products and services promoted by viral UFO videos have been very wide ranging, including [a new Toyota](/ufog/ufo-videos/koi-ufo-video-005), [an energy company](/ufog/ufo-videos/koi-ufo-video-076), [a science-fiction television show](/ufog/ufo-videos/koi-ufo-video-077)and [company offering advertising on pizza-box](/ufog/ufo-videos/koi-ufo-video-079)).
+Viral adverts for computer games have been responsible for a small number of other UFO videos (e.g. [a viral advertisement for the "Act of War: Direct Action"]({{ '/ufog/ufo-videos/koi-ufo-video-009' | relative_url }})) with viral advertising for other products accounting for several of the more polished hoaxed UFO videos in recent years. The other products and services promoted by viral UFO videos have been very wide ranging, including [a new Toyota]({{ '/ufog/ufo-videos/koi-ufo-video-005' | relative_url }}), [an energy company]({{ '/ufog/ufo-videos/koi-ufo-video-076' | relative_url }}), [a science-fiction television show]({{ '/ufog/ufo-videos/koi-ufo-video-077' | relative_url }})and [company offering advertising on pizza-box]({{ '/ufog/ufo-videos/koi-ufo-video-079' | relative_url }})).
 
 <a id="forums"></a>
 ### 4. Relevant online discussions
@@ -117,4 +117,4 @@ Relevant discussions on the AboveTopSecret.com discussion forum include the foll
 
 2012 (November) discussion entitled "[Time traveling "Alien" saves man on bike from being hit by truck (Sept 16th)](http://www.abovetopsecret.com/forum/thread900604/pg1)"
 
-![](/images/stories/ufo_videos/video116_2d.JPG)
+![]({{ '/images/stories/ufo_videos/video116_2d.JPG' | relative_url }})

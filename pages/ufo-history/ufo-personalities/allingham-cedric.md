@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/allingham_cedric_2.jpg"}
 ---
 
-![allingham_cedric_2](/images/stories/ufo_personalities/allingham_cedric_2.jpg)
+![allingham_cedric_2]({{ '/images/stories/ufo_personalities/allingham_cedric_2.jpg' | relative_url }})
 
 *Cedric Allingham*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1954">1954</a></p>
+<p><a href="{{ '/tags/1954' | relative_url }}">1954</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/allingham-cedric">Allingham, Cedric</a> “<a href="/ufo-history/ufo-books/allingham-cedric-flying-saucers-from-mars">Flying Saucers from Mars</a>” (<a href="/tags/1954">1954</a>) (available <a href="http://www.amazon.com/dp/B0000CIZ8R/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0000CIZ8R/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/allingham-cedric' | relative_url }}">Allingham, Cedric</a> “<a href="{{ '/ufo-history/ufo-books/allingham-cedric-flying-saucers-from-mars' | relative_url }}">Flying Saucers from Mars</a>” (<a href="{{ '/tags/1954' | relative_url }}">1954</a>) (available <a href="http://www.amazon.com/dp/B0000CIZ8R/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B0000CIZ8R/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>
@@ -61,7 +61,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-For discussion of Allingham, see the list of references provided in the entry for Allingham's book “[Flying Saucers from Mars](/ufo-history/ufo-books/allingham-cedric-flying-saucers-from-mars)”.
+For discussion of Allingham, see the list of references provided in the entry for Allingham's book “[Flying Saucers from Mars]({{ '/ufo-history/ufo-books/allingham-cedric-flying-saucers-from-mars' | relative_url }})”.
 
 <a id="other"></a>
 ### Other Material

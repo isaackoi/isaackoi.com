@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/targ_russell_7.jpg"}
 ---
 
-![targ_russell_7](/images/stories/ufo_personalities/targ_russell_7.jpg)
+![targ_russell_7]({{ '/images/stories/ufo_personalities/targ_russell_7.jpg' | relative_url }})
 
 *Russell Targ*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1977">1977</a></p>
+<p><a href="{{ '/tags/1977' | relative_url }}">1977</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/puthoff-hal">Puthoff, Hal</a> and <a href="/ufo-history/ufo-personalities/targ-russell">Targ, Russell</a> “<a href="/ufo-history/ufo-books/puthoff-hal-and-targ-russell-mind-reach-scientists-look-at-psychic-ability">Mind-Reach : Scientists Look at Psychic Ability</a>” (<a href="/tags/1977">1977</a>) (available <a href="http://www.amazon.com/dp/0440056888/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0440056888/?&amp;tag=ufot-21">on Amazon UK</a>), with Foreword by Bach, Richard.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/puthoff-hal' | relative_url }}">Puthoff, Hal</a> and <a href="{{ '/ufo-history/ufo-personalities/targ-russell' | relative_url }}">Targ, Russell</a> “<a href="{{ '/ufo-history/ufo-books/puthoff-hal-and-targ-russell-mind-reach-scientists-look-at-psychic-ability' | relative_url }}">Mind-Reach : Scientists Look at Psychic Ability</a>” (<a href="{{ '/tags/1977' | relative_url }}">1977</a>) (available <a href="http://www.amazon.com/dp/0440056888/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0440056888/?&amp;tag=ufot-21">on Amazon UK</a>), with Foreword by Bach, Richard.</p>
 </td>
 </tr>
 </tbody>
@@ -83,10 +83,10 @@ For discussion of Russell Targ see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1989">1989</a></p>
+<p><a href="{{ '/tags/1989' | relative_url }}">1989</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/cantril-hadley">Hyman, Ray</a> in his “The Elusive Quarry: A Scientific Appraisal of Psychical Research” (<a href="/tags/1989">1989</a>) (available <a href="http://www.amazon.com/dp/0879755040/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879755040/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 309 of the Prometheus hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/cantril-hadley' | relative_url }}">Hyman, Ray</a> in his “The Elusive Quarry: A Scientific Appraisal of Psychical Research” (<a href="{{ '/tags/1989' | relative_url }}">1989</a>) (available <a href="http://www.amazon.com/dp/0879755040/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879755040/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 309 of the Prometheus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p> </p>
@@ -94,10 +94,10 @@ For discussion of Russell Targ see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/marks-david">Marks, David</a> in his “<a href="/ufo-history/ufo-books/marks-david-the-psychology-of-the-psychic-second-edition">The Psychology of the Psychic: Second Edition</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/1573927988/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573927988/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 30, 31-71, 124-125, 167-187 of the Prometheus Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/marks-david' | relative_url }}">Marks, David</a> in his “<a href="{{ '/ufo-history/ufo-books/marks-david-the-psychology-of-the-psychic-second-edition' | relative_url }}">The Psychology of the Psychic: Second Edition</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/1573927988/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573927988/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 30, 31-71, 124-125, 167-187 of the Prometheus Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>64</p>
@@ -105,10 +105,10 @@ For discussion of Russell Targ see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2007">2007</a></p>
+<p><a href="{{ '/tags/2007' | relative_url }}">2007</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/marrs-jim">Marrs, Jim</a> in his “<a href="/ufo-history/ufo-books/marrs-jim-psi-spies-the-true-story-of-americas-psychic-warfare-program">PSI Spies: The True Story of America’s Psychic Warfare Program</a>” (<a href="/tags/2007">2007</a>) (available <a href="http://www.amazon.com/dp/1564149609/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1564149609/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 93 (in Chapter 3), 102, 104, 111, 113, 115-119 (in Chapter 4), 133, 147 (in Chapter 5), 241 (in Chapter 9) of the New Page Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/marrs-jim' | relative_url }}">Marrs, Jim</a> in his “<a href="{{ '/ufo-history/ufo-books/marrs-jim-psi-spies-the-true-story-of-americas-psychic-warfare-program' | relative_url }}">PSI Spies: The True Story of America’s Psychic Warfare Program</a>” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (available <a href="http://www.amazon.com/dp/1564149609/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1564149609/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 93 (in Chapter 3), 102, 104, 111, 113, 115-119 (in Chapter 4), 133, 147 (in Chapter 5), 241 (in Chapter 9) of the New Page Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>13</p>
@@ -116,10 +116,10 @@ For discussion of Russell Targ see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1984">1984</a></p>
+<p><a href="{{ '/tags/1984' | relative_url }}">1984</a></p>
 </td>
 <td valign="top" width="547">
-<p>McRae, Ronald in his “<a href="/ufo-history/ufo-books/mcrae-ronald-mind-wars-the-true-story-of-government-research-into-the-military-potential-of-psychic-weapons">Mind Wars: The true story of government research into the military potential of psychic weapons</a>” (<a href="/tags/1984">1984</a>) (available <a href="http://www.amazon.com/dp/0312533187/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312533187/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 5, 22, 29, 80-82, 84, 92, 93-113 of the St Martin’s Press hardback edition.</p>
+<p>McRae, Ronald in his “<a href="{{ '/ufo-history/ufo-books/mcrae-ronald-mind-wars-the-true-story-of-government-research-into-the-military-potential-of-psychic-weapons' | relative_url }}">Mind Wars: The true story of government research into the military potential of psychic weapons</a>” (<a href="{{ '/tags/1984' | relative_url }}">1984</a>) (available <a href="http://www.amazon.com/dp/0312533187/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312533187/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 5, 22, 29, 80-82, 84, 92, 93-113 of the St Martin’s Press hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>29</p>
@@ -127,10 +127,10 @@ For discussion of Russell Targ see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/schnabel-jim">Schnabel, Jim</a> in his “<a href="/ufo-history/ufo-books/schnabel-jim-remote-viewers-the-secret-history-of-americas-psychic-spies">Remote Viewers : The Secret History of America’s Psychic Spies</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0440614058/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0440614058/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 94-97 (in Chapter 6), 98-104, 112 (in Chapter 7), 117, 119-124, 126-127 (in Chapter 8), 130-131, 136-138 (in Chapter 9), 143, 147-157 (in Chapter 10), 159, 168-169 (in Chapter 11), 184, 190-192 (in Chapter 13), 194-198, 200, 204-205 (in Chapter 14), 221 (in Chapter 15), 231 (in Chapter 16), 262-266 (in Chapter 17), 322 (in Chapter 20) of the Dell paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/schnabel-jim' | relative_url }}">Schnabel, Jim</a> in his “<a href="{{ '/ufo-history/ufo-books/schnabel-jim-remote-viewers-the-secret-history-of-americas-psychic-spies' | relative_url }}">Remote Viewers : The Secret History of America’s Psychic Spies</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0440614058/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0440614058/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 94-97 (in Chapter 6), 98-104, 112 (in Chapter 7), 117, 119-124, 126-127 (in Chapter 8), 130-131, 136-138 (in Chapter 9), 143, 147-157 (in Chapter 10), 159, 168-169 (in Chapter 11), 184, 190-192 (in Chapter 13), 194-198, 200, 204-205 (in Chapter 14), 221 (in Chapter 15), 231 (in Chapter 16), 262-266 (in Chapter 17), 322 (in Chapter 20) of the Dell paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>61</p>
@@ -138,10 +138,10 @@ For discussion of Russell Targ see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2005">2005</a></p>
+<p><a href="{{ '/tags/2005' | relative_url }}">2005</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/smith-paul">Smith, Paul</a> in his “<a href="/ufo-history/ufo-books/smith-paul-reading-the-enemys-mind">Reading the Enemy’s Mind</a>” (<a href="/tags/2005">2005</a>) (available <a href="http://www.amazon.com/dp/0312875150/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312875150/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 61-62, 237, 467 of the Forge hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/smith-paul' | relative_url }}">Smith, Paul</a> in his “<a href="{{ '/ufo-history/ufo-books/smith-paul-reading-the-enemys-mind' | relative_url }}">Reading the Enemy’s Mind</a>” (<a href="{{ '/tags/2005' | relative_url }}">2005</a>) (available <a href="http://www.amazon.com/dp/0312875150/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312875150/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 61-62, 237, 467 of the Forge hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>

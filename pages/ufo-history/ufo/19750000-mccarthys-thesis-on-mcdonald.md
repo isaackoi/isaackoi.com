@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -67,10 +67,10 @@ For discussion of Paul McCarthy’s thesis see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/klass-philip-j">Klass, Philip J</a> in “<a href="/ufo-history/ufo-books/frazier-kendrick-and-nickell-joseph-ed-the-ufo-invasion">The UFO Invasion</a>” (<a href="/tags/1997">1997</a>) (edited by <a href="/ufo-history/ufo-personalities/frazier-kendrick">Kendrick Frazier</a>, Barry Karr and <a href="/ufo-history/ufo-personalities/nickell-joe">Joe Nickell</a>) (available <a href="http://www.amazon.com/dp/1573921319/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573921319/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 34-40 of the Prometheus hardback edition (part of Chapter 2 at pages 29-43, “The Condon <a href="/ufo-history/ufo-books/randles-jenny-ufo-study">UFO Study</a>”). The relevant chapter is a reprint of an article in the <em>Skeptical Inquirer </em>10, number 4 (Summer <a href="/tags/1986">1986</a>).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/klass-philip-j' | relative_url }}">Klass, Philip J</a> in “<a href="{{ '/ufo-history/ufo-books/frazier-kendrick-and-nickell-joseph-ed-the-ufo-invasion' | relative_url }}">The UFO Invasion</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/frazier-kendrick' | relative_url }}">Kendrick Frazier</a>, Barry Karr and <a href="{{ '/ufo-history/ufo-personalities/nickell-joe' | relative_url }}">Joe Nickell</a>) (available <a href="http://www.amazon.com/dp/1573921319/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573921319/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 34-40 of the Prometheus hardback edition (part of Chapter 2 at pages 29-43, “The Condon <a href="{{ '/ufo-history/ufo-books/randles-jenny-ufo-study' | relative_url }}">UFO Study</a>”). The relevant chapter is a reprint of an article in the <em>Skeptical Inquirer </em>10, number 4 (Summer <a href="{{ '/tags/1986' | relative_url }}">1986</a>).</p>
 </td>
 <td valign="top" width="52">
 <p>7</p>
@@ -78,10 +78,10 @@ For discussion of Paul McCarthy’s thesis see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2007">2007</a></p>
+<p><a href="{{ '/tags/2007' | relative_url }}">2007</a></p>
 </td>
 <td valign="top" width="547">
-<p>Lagrange, Pierre in “Alien Worlds : Social and Religious Dimensions of Extraterrestrial Contact” (<a href="/tags/2007">2007</a>) (edited by Diana Tumminia) (available <a href="http://www.amazon.com/dp/0815608586/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0815608586/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 155 (in Chapter 9) of the Syracuse University Press softcover edition.</p>
+<p>Lagrange, Pierre in “Alien Worlds : Social and Religious Dimensions of Extraterrestrial Contact” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (edited by Diana Tumminia) (available <a href="http://www.amazon.com/dp/0815608586/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0815608586/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 155 (in Chapter 9) of the Syracuse University Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/hyman_ray_1.jpg"}
 ---
 
-![hyman_ray_1](/images/stories/ufo_personalities/hyman_ray_1.jpg)
+![hyman_ray_1]({{ '/images/stories/ufo_personalities/hyman_ray_1.jpg' | relative_url }})
 
 *Ray Hyman*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1989">1989</a></p>
+<p><a href="{{ '/tags/1989' | relative_url }}">1989</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/cantril-hadley">Hyman, Ray</a> “The Elusive Quarry: A Scientific Appraisal of Psychical Research” (<a href="/tags/1989">1989</a>) (available <a href="http://www.amazon.com/dp/0879755040/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879755040/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/cantril-hadley' | relative_url }}">Hyman, Ray</a> “The Elusive Quarry: A Scientific Appraisal of Psychical Research” (<a href="{{ '/tags/1989' | relative_url }}">1989</a>) (available <a href="http://www.amazon.com/dp/0879755040/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0879755040/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>
@@ -83,10 +83,10 @@ For discussion of Ray Hyman see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2007">2007</a></p>
+<p><a href="{{ '/tags/2007' | relative_url }}">2007</a></p>
 </td>
 <td valign="top" width="547">
-<p>Carter, Chris in his “<a href="/ufo-history/ufo-books/carter-chris-parapsychology-and-the-skeptics">Parapsychology and the Skeptics : A Scientific Argument for the Existence of ESP</a>” (<a href="/tags/2007">2007</a>) (available <a href="http://www.amazon.com/dp/1585011088/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1585011088/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 17, 19, 53-58, 60, 62-64, 66-67, 84, 86, 89, 131, 143-147, 165 of the Paja Books softcover edition.</p>
+<p>Carter, Chris in his “<a href="{{ '/ufo-history/ufo-books/carter-chris-parapsychology-and-the-skeptics' | relative_url }}">Parapsychology and the Skeptics : A Scientific Argument for the Existence of ESP</a>” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (available <a href="http://www.amazon.com/dp/1585011088/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1585011088/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 17, 19, 53-58, 60, 62-64, 66-67, 84, 86, 89, 131, 143-147, 165 of the Paja Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>24</p>
@@ -95,10 +95,10 @@ For discussion of Ray Hyman see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2008">2008</a></p>
+<p><a href="{{ '/tags/2008' | relative_url }}">2008</a></p>
 </td>
 <td valign="top" width="547">
-<p>Hansen, George P in his “The Trickster and the Paranormal” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/1401000827/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1401000827/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 159, 449-450 of the Xlibris softcover edition.</p>
+<p>Hansen, George P in his “The Trickster and the Paranormal” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/1401000827/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1401000827/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 159, 449-450 of the Xlibris softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -106,10 +106,10 @@ For discussion of Ray Hyman see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1984">1984</a></p>
+<p><a href="{{ '/tags/1984' | relative_url }}">1984</a></p>
 </td>
 <td valign="top" width="547">
-<p>McRae, Ronald in his “<a href="/ufo-history/ufo-books/mcrae-ronald-mind-wars-the-true-story-of-government-research-into-the-military-potential-of-psychic-weapons">Mind Wars: The true story of government research into the military potential of psychic weapons</a>” (<a href="/tags/1984">1984</a>) (available <a href="http://www.amazon.com/dp/0312533187/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312533187/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 81, 87 (in Chapter 4) of the St Martin’s Press hardback edition.</p>
+<p>McRae, Ronald in his “<a href="{{ '/ufo-history/ufo-books/mcrae-ronald-mind-wars-the-true-story-of-government-research-into-the-military-potential-of-psychic-weapons' | relative_url }}">Mind Wars: The true story of government research into the military potential of psychic weapons</a>” (<a href="{{ '/tags/1984' | relative_url }}">1984</a>) (available <a href="http://www.amazon.com/dp/0312533187/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312533187/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 81, 87 (in Chapter 4) of the St Martin’s Press hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -117,10 +117,10 @@ For discussion of Ray Hyman see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2007">2007</a></p>
+<p><a href="{{ '/tags/2007' | relative_url }}">2007</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/marrs-jim">Marrs, Jim</a> in his “<a href="/ufo-history/ufo-books/marrs-jim-psi-spies-the-true-story-of-americas-psychic-warfare-program">PSI Spies: The True Story of America’s Psychic Warfare Program</a>” (<a href="/tags/2007">2007</a>) (available <a href="http://www.amazon.com/dp/1564149609/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1564149609/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 14-15 (in the Preface), 185-193 (in Chapter 6) of the New Page Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/marrs-jim' | relative_url }}">Marrs, Jim</a> in his “<a href="{{ '/ufo-history/ufo-books/marrs-jim-psi-spies-the-true-story-of-americas-psychic-warfare-program' | relative_url }}">PSI Spies: The True Story of America’s Psychic Warfare Program</a>” (<a href="{{ '/tags/2007' | relative_url }}">2007</a>) (available <a href="http://www.amazon.com/dp/1564149609/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1564149609/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 14-15 (in the Preface), 185-193 (in Chapter 6) of the New Page Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>11</p>
@@ -128,10 +128,10 @@ For discussion of Ray Hyman see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2003">2003</a></p>
+<p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/marrs-jim">Marrs, Jim</a> in <a href="/ufo-history/ufo-personalities/buchanan-lyn">Buchanan, Lyn</a>’s “<a href="/ufo-history/ufo-books/buchanan-lyn-the-seventh-sense-the-secrets-of-remote-viewing-as-told-by-a-psychic-spy-for-the-us-military">The Seventh Sense: The Secrets of Remote Viewing as Told by a Psychic Spy for the US Military</a>” (<a href="/tags/2003">2003</a>) (available <a href="http://www.amazon.com/dp/0743462688/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743462688/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page x (in the Foreword) of the Paraview Pocket Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/marrs-jim' | relative_url }}">Marrs, Jim</a> in <a href="{{ '/ufo-history/ufo-personalities/buchanan-lyn' | relative_url }}">Buchanan, Lyn</a>’s “<a href="{{ '/ufo-history/ufo-books/buchanan-lyn-the-seventh-sense-the-secrets-of-remote-viewing-as-told-by-a-psychic-spy-for-the-us-military' | relative_url }}">The Seventh Sense: The Secrets of Remote Viewing as Told by a Psychic Spy for the US Military</a>” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) (available <a href="http://www.amazon.com/dp/0743462688/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0743462688/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page x (in the Foreword) of the Paraview Pocket Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -139,10 +139,10 @@ For discussion of Ray Hyman see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1977">1977</a></p>
+<p><a href="{{ '/tags/1977' | relative_url }}">1977</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/puthoff-hal">Puthoff, Hal</a> and <a href="/ufo-history/ufo-personalities/targ-russell">Targ, Russell</a> in their “<a href="/ufo-history/ufo-books/puthoff-hal-and-targ-russell-mind-reach-scientists-look-at-psychic-ability">Mind-Reach : Scientists Look at Psychic Ability</a>” (<a href="/tags/1977">1977</a>) (available <a href="http://www.amazon.com/dp/0440056888/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0440056888/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 172-174 (in Chapter 8) of the Jonathan Cape hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/puthoff-hal' | relative_url }}">Puthoff, Hal</a> and <a href="{{ '/ufo-history/ufo-personalities/targ-russell' | relative_url }}">Targ, Russell</a> in their “<a href="{{ '/ufo-history/ufo-books/puthoff-hal-and-targ-russell-mind-reach-scientists-look-at-psychic-ability' | relative_url }}">Mind-Reach : Scientists Look at Psychic Ability</a>” (<a href="{{ '/tags/1977' | relative_url }}">1977</a>) (available <a href="http://www.amazon.com/dp/0440056888/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0440056888/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 172-174 (in Chapter 8) of the Jonathan Cape hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -150,10 +150,10 @@ For discussion of Ray Hyman see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/schnabel-jim">Schnabel, Jim</a> in his “<a href="/ufo-history/ufo-books/schnabel-jim-remote-viewers-the-secret-history-of-americas-psychic-spies">Remote Viewers : The Secret History of America’s Psychic Spies</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0440614058/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0440614058/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 367 (in Chapter 22), 386 (in the Epilogue) of the Dell paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/schnabel-jim' | relative_url }}">Schnabel, Jim</a> in his “<a href="{{ '/ufo-history/ufo-books/schnabel-jim-remote-viewers-the-secret-history-of-americas-psychic-spies' | relative_url }}">Remote Viewers : The Secret History of America’s Psychic Spies</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0440614058/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0440614058/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 367 (in Chapter 22), 386 (in the Epilogue) of the Dell paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -161,10 +161,10 @@ For discussion of Ray Hyman see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2005">2005</a></p>
+<p><a href="{{ '/tags/2005' | relative_url }}">2005</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/smith-paul">Smith, Paul</a> in his “<a href="/ufo-history/ufo-books/smith-paul-reading-the-enemys-mind">Reading the Enemy’s Mind</a>” (<a href="/tags/2005">2005</a>) (available <a href="http://www.amazon.com/dp/0312875150/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312875150/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 67-68, 371-372, 449 of the Forge hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/smith-paul' | relative_url }}">Smith, Paul</a> in his “<a href="{{ '/ufo-history/ufo-books/smith-paul-reading-the-enemys-mind' | relative_url }}">Reading the Enemy’s Mind</a>” (<a href="{{ '/tags/2005' | relative_url }}">2005</a>) (available <a href="http://www.amazon.com/dp/0312875150/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312875150/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 67-68, 371-372, 449 of the Forge hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>

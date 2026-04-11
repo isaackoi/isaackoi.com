@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0926524585.jpg"}
 book: {"identifiers": ["0926524585"], "primary_isbn": "0926524585", "cover_image": "/book-covers/0926524585.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Ann Druffel](/ufo-history/ufo-personalities/druffel-ann)'s book “[Firestorm: Dr James E McDonald's Fight for UFO Science](/ufo-history/ufo-books/druffel-ann-firestorm-dr-james-e-mcdonalds-fight-for-ufo-science)” ([2003](/tags/2003)) (available [on Amazon USA](http://www.amazon.com/dp/0926524585/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0926524585/?&tag=ufot-21))
+Brief review to be added of [Ann Druffel]({{ '/ufo-history/ufo-personalities/druffel-ann' | relative_url }})'s book “[Firestorm: Dr James E McDonald's Fight for UFO Science]({{ '/ufo-history/ufo-books/druffel-ann-firestorm-dr-james-e-mcdonalds-fight-for-ufo-science' | relative_url }})” ([2003]({{ '/tags/2003' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0926524585/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0926524585/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -52,10 +52,10 @@ Many of the tables of references on this website are considerably longer than th
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2003">2003</a></p>
+<p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/vallee-jacques">Vallee, Jacques</a> in Ann Druffel’s “<a href="/ufo-history/ufo-books/druffel-ann-firestorm-dr-james-e-mcdonalds-fight-for-ufo-science">Firestorm : Dr James E McDonald's Fight for UFO Science</a>” (<a href="/tags/2003">2003</a>) (available <a href="http://www.amazon.com/dp/0926524585/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0926524585/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages xi-xiv (in the Foreword) of the Wild Flower Press softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/vallee-jacques' | relative_url }}">Vallee, Jacques</a> in Ann Druffel’s “<a href="{{ '/ufo-history/ufo-books/druffel-ann-firestorm-dr-james-e-mcdonalds-fight-for-ufo-science' | relative_url }}">Firestorm : Dr James E McDonald's Fight for UFO Science</a>” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) (available <a href="http://www.amazon.com/dp/0926524585/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0926524585/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages xi-xiv (in the Foreword) of the Wild Flower Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>

@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/street_dot_1.jpg"}
 ---
 
-![street_dot_1](/images/stories/ufo_personalities/street_dot_1.jpg)
+![street_dot_1]({{ '/images/stories/ufo_personalities/street_dot_1.jpg' | relative_url }})
 
 *Dot Street*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1984">1984</a></p>
+<p><a href="{{ '/tags/1984' | relative_url }}">1984</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/butler-brenda">Butler, Brenda</a> and <a href="/ufo-history/ufo-personalities/street-dot">Street, Dot</a> and <a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> “<a href="/ufo-history/ufo-books/butler-brenda-and-street-dot-and-randles-jenny-sky-crash">Sky Crash</a>” (<a href="/tags/1984">1984</a>) (available <a href="http://www.amazon.com/dp/0586066780/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0586066780/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/butler-brenda' | relative_url }}">Butler, Brenda</a> and <a href="{{ '/ufo-history/ufo-personalities/street-dot' | relative_url }}">Street, Dot</a> and <a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> “<a href="{{ '/ufo-history/ufo-books/butler-brenda-and-street-dot-and-randles-jenny-sky-crash' | relative_url }}">Sky Crash</a>” (<a href="{{ '/tags/1984' | relative_url }}">1984</a>) (available <a href="http://www.amazon.com/dp/0586066780/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0586066780/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>

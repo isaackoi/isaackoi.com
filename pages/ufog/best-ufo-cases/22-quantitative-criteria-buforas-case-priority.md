@@ -13,15 +13,15 @@ planned_sections: []
 header: {"preview_image": null}
 ---
 
-“[Best UFO Cases](/ufog/best-ufo-cases)” by Isaac Koi
+“[Best UFO Cases]({{ '/ufog/best-ufo-cases' | relative_url }})” by Isaac Koi
 
-[PART 22: Quantitative criteria: BUFORA’s case priority](/ufog/best-ufo-cases/22-quantitative-criteria-buforas-case-priority)
+[PART 22: Quantitative criteria: BUFORA’s case priority]({{ '/ufog/best-ufo-cases/22-quantitative-criteria-buforas-case-priority' | relative_url }})
 
 One of Britain’s most profilic and respected ufologists, Jenny Randles, wrote a book entitled “UFO Study” (1981) as a “handbook for enthusiasts”. A revised and updated version of that book has generously been made available online by Jenny Randles and Robert Moore (see Footnote 22.07) - see the separate entry on this website in relation to that book.
 
 That book included, in effect, two different proposed systems in relation to the ranking of cases. They had different purposes:
 
-(1) Firstly, Jenny Randles suggested that case reports written by UFO investigators (i.e. after an investigation is concluded) should include an evaluation of the strangeness and probability rating of the case. That suggestion adopts (and adds to) J Allen Hynek’s Strangeness/Probability Ratings and is discussed in [PART 20: Quantitative criteria: Hynek – Strangeness and Probability](/ufog/best-ufo-cases/20-quantitative-criteria-hynek-strangeness-and-probability).
+(1) Firstly, Jenny Randles suggested that case reports written by UFO investigators (i.e. after an investigation is concluded) should include an evaluation of the strangeness and probability rating of the case. That suggestion adopts (and adds to) J Allen Hynek’s Strangeness/Probability Ratings and is discussed in [PART 20: Quantitative criteria: Hynek – Strangeness and Probability]({{ '/ufog/best-ufo-cases/20-quantitative-criteria-hynek-strangeness-and-probability' | relative_url }}).
 
 (2) Secondly, Jenny Randles included a “chart to determine case priority” (i.e. when a report is received by an investigator, prior to an investigation) – see Footnote 22.01. That chart is discussed below, along with similar proposals and their implementation.
 
@@ -89,7 +89,7 @@ The purpose and content of the “chart to determine case priority” devised by
 
 BUFORA’s manual set out BUFORA’s “Investigation Classification System”, the purpose of which is to assist in determining “the degree of urgency which is likely to be involved” when a UFO report is first made. That system was stated to be “based on an original system devised by Mr Charles Lockwood, BUFORA’s Research Projects Officer” (although no reference is given in BUFORA’s manual for any relevant publication by Lockwood).
 
-BUFORA’s 1976 manual states that it is likely that the system of classification to be used after evaluation of a case will be different, and details will be published “as soon as this final system has been agreed” and refers to the desirability of obtaining international agreement on such a system. I am not aware of BUFORA adopting or promoting any such system, although it may be that the proposals of Jenny Randles for that system are reflected in her proposals based on Hynek’s Strangeness/Credibility ratings (discussed in [PART 20: Quantitative criteria: Hynek – Strangeness and Probability](/ufog/best-ufo-cases/20-quantitative-criteria-hynek-strangeness-and-probability)).
+BUFORA’s 1976 manual states that it is likely that the system of classification to be used after evaluation of a case will be different, and details will be published “as soon as this final system has been agreed” and refers to the desirability of obtaining international agreement on such a system. I am not aware of BUFORA adopting or promoting any such system, although it may be that the proposals of Jenny Randles for that system are reflected in her proposals based on Hynek’s Strangeness/Credibility ratings (discussed in [PART 20: Quantitative criteria: Hynek – Strangeness and Probability]({{ '/ufog/best-ufo-cases/20-quantitative-criteria-hynek-strangeness-and-probability' | relative_url }})).
 
 The BUFORA system also assigned points to three different factors:
 

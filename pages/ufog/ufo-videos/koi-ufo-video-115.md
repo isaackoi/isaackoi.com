@@ -40,15 +40,15 @@ Koi UFO Video 115 appears to show a horrible pulsating lifeform in a sewer in No
 
 Screen shots from the video are included below for ease of identification (although still images don't really capture the grossness of the pulsating mass with its writhing and contractions...):
 
-![](/images/stories/ufo_videos/video115_1.JPG)
+![]({{ '/images/stories/ufo_videos/video115_1.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video115_2.JPG)
+![]({{ '/images/stories/ufo_videos/video115_2.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video115_3.JPG)
+![]({{ '/images/stories/ufo_videos/video115_3.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video115_4.JPG)
+![]({{ '/images/stories/ufo_videos/video115_4.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video115_5.JPG)
+![]({{ '/images/stories/ufo_videos/video115_5.JPG' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this video
@@ -61,7 +61,7 @@ Some UFO websites included comments suggesting that the video shows an alien lif
 
 The coverage in 2009 was universal in acknowledging the nightmarish nature of the video. [A typical report, on the website of The Metro (a British newspaper)](http://metro.co.uk/2009/07/02/what-are-these-hideous-sewer-flesh-blobs-239834/), referred to the "sinister, pulsating, fleshy mounds of ichorous slime, which seem to be breathing in and out, and occasionally clench like a traumatised sphincter".
 
-![](/images/stories/ufo_videos/video115_8.JPG)
+![]({{ '/images/stories/ufo_videos/video115_8.JPG' | relative_url }})
 
 <a id="truth"></a>
 ### 3. The real background to this video
@@ -74,11 +74,11 @@ After quite a few different ideas were discussed in 2009 (e.g. bryzoans), expert
 
 "Thanks for the video – I had not see it before. No, these are not bryozoans! They are clumps of annelid worms, almost certainly tubificids (Naididae, probably genus Tubifex). Normally these occur in soil and sediment, especially at the bottom and edges of polluted streams. In the photo they have apparently entered a pipeline somehow, and in the absence of soil they are coiling around each other. The contractions you see are the result of a single worm contracting and then stimulating all the others to do the same almost simultaneously, so it looks like a single big muscle contracting. Interesting video".
 
-![](/images/stories/ufo_videos/video115_6.JPG)
+![]({{ '/images/stories/ufo_videos/video115_6.JPG' | relative_url }})
 
 An [article by the Daily Mail newspaper in 2009](http://www.dailymail.co.uk/news/article-1196884/No-hoax-Video-alien-life-form-sewer-internet-hit.html) reported that Ed Buchan, environmental coordinator at the Raleigh Public Utilities Department, had stated that staff biologists had confirmed that the 'creature' was actually a colony of worms. The colonies attach themselves to roots that gradually work themselves into weak points in the pipes. "They seem to respond to the light from the camera," Mr Buchan said. "That light is pretty hot."
 
-![](/images/stories/ufo_videos/video115_7.JPG)
+![]({{ '/images/stories/ufo_videos/video115_7.JPG' | relative_url }})
 
 Tubifex worms are also known as sludge worms or sewage worms, and often live near polluted water, feeding on bacteria and organic impurities.
 
@@ -92,9 +92,9 @@ As an article on The Metro website concluded, "The good people of North Carolina
 
 At least [one UFO website](http://web.archive.org/web/20150310031323/http://www.uforadar.com/2009/09/north-carolina-sewer-blob-update) dismissed the tubifex worm colony explanation, preferring the view that the video shows an "alien egg sac". (I sometimes find it hard to tell whether certain UFO researchers are just having a bit of fun...).
 
-Sewers containing aliens or other strange creatures crop up repeatedly in the UFO literature (not to mention in urban legends). Another relevant video is [Koi UFO Video 114 ("What not to flush")](/ufog/ufo-videos/koi-ufo-video-114), but such stories date back further - e.g. an item from 1978 entitled "Mummified Water Breathing Aliens Discovered in Chicago Sewers" in the "Official UFO Special" publication entitled "Ancient Astronauts" (kindly mentioned to me by Robert Sheaffer).
+Sewers containing aliens or other strange creatures crop up repeatedly in the UFO literature (not to mention in urban legends). Another relevant video is [Koi UFO Video 114 ("What not to flush")]({{ '/ufog/ufo-videos/koi-ufo-video-114' | relative_url }}), but such stories date back further - e.g. an item from 1978 entitled "Mummified Water Breathing Aliens Discovered in Chicago Sewers" in the "Official UFO Special" publication entitled "Ancient Astronauts" (kindly mentioned to me by Robert Sheaffer).
 
-![](/images/stories/ufo_videos/video115_9.JPG)
+![]({{ '/images/stories/ufo_videos/video115_9.JPG' | relative_url }})
 
 <a id="forums"></a>
 #
@@ -113,4 +113,4 @@ Relevant discussions on the AboveTopSecret.com discussion forum include the foll
 
 2009 (November) discussion entitled "[]What on God's Green Earth IS THIS THING??](http://www.abovetopsecret.com/forum/thread521630/pg1)"
 
-![](/images/stories/ufo_videos/video115_2d.jpg)
+![]({{ '/images/stories/ufo_videos/video115_2d.jpg' | relative_url }})

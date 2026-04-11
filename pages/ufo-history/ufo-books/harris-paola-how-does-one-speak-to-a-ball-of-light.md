@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/1425994024.jpg"}
 book: {"identifiers": ["1425994024"], "primary_isbn": "1425994024", "cover_image": "/book-covers/1425994024.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Paola Harris](/ufo-history/ufo-personalities/harris-paola)['s](/ufo-history/ufo-personalities/wood-ryan) book “[How does one speak to a ball of light?](/ufo-history/ufo-books/harris-paola-how-does-one-speak-to-a-ball-of-light)” ([2007](/tags/2007)) (available [on Amazon USA](http://www.amazon.com/dp/1425994024/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1425994024/?&tag=ufot-21)).
+Brief review to be added of [Paola Harris]({{ '/ufo-history/ufo-personalities/harris-paola' | relative_url }})['s]({{ '/ufo-history/ufo-personalities/wood-ryan' | relative_url }}) book “[How does one speak to a ball of light?]({{ '/ufo-history/ufo-books/harris-paola-how-does-one-speak-to-a-ball-of-light' | relative_url }})” ([2007]({{ '/tags/2007' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1425994024/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1425994024/?&tag=ufot-21)).
 
 1. [Web Resources](#web)
 

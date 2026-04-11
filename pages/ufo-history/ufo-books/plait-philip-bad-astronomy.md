@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0471409766.jpg"}
 book: {"identifiers": ["0471409766"], "primary_isbn": "0471409766", "cover_image": "/book-covers/0471409766.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Philip Plait](/ufo-history/ufo-personalities/plait-philip)'s book “[Bad Astronomy](/ufo-history/ufo-books/plait-philip-bad-astronomy)” ([2002](/tags/2002)) (available [on Amazon USA](http://www.amazon.com/dp/0471409766/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0471409766/?&tag=ufot-21))
+Brief review to be added of [Philip Plait]({{ '/ufo-history/ufo-personalities/plait-philip' | relative_url }})'s book “[Bad Astronomy]({{ '/ufo-history/ufo-books/plait-philip-bad-astronomy' | relative_url }})” ([2002]({{ '/tags/2002' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0471409766/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0471409766/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

@@ -44,7 +44,7 @@ This video involves the zooming in and out of various parts of a still photograp
 
 The relevant still photograph is shown below for ease of identification:
 
-![](/images/stories/ufo_videos/video060_1.JPG)
+![]({{ '/images/stories/ufo_videos/video060_1.JPG' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this video
@@ -60,21 +60,21 @@ This video in fact shows a rubber dummy used by [Ballahack Airsoft](http://www.b
 
 ([Ballahack Airsoft](http://www.ballahackairsoft.com/) is the largest airsoft field on the East Coast. "Airsoft" is a sport in which participants eliminate opponents by hitting each other with spherical non-metallic pellets launched via replica firearms called Airsoft guns).
 
-![](/images/stories/ufo_videos/video060_6.JPG)
+![]({{ '/images/stories/ufo_videos/video060_6.JPG' | relative_url }})
 
 Ballahack Airsoft is fairly active [on Facebook](https://www.facebook.com/ballahackairsoft) and [on Youtube](https://www.youtube.com/user/cwratten). The individuals associated with that business followed, and clearly enjoyed, online the interest in their promotional photograph. In September 2014 they staged a further event using multiple dummies and individuals wearing alien face masks, posting a video of that second event with comments indicating they considered some of the individuals involved in the UFO community to be - well - nuts.
 
 Some photos from the two "alien" airsoft events organised by Ballahack Airsoft.
 
-![](/images/stories/ufo_videos/video060_2.JPG)
+![]({{ '/images/stories/ufo_videos/video060_2.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video060_3.JPG)
+![]({{ '/images/stories/ufo_videos/video060_3.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video060_4.JPG)
+![]({{ '/images/stories/ufo_videos/video060_4.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video060_5.JPG)
+![]({{ '/images/stories/ufo_videos/video060_5.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video060_1s.JPG)
+![]({{ '/images/stories/ufo_videos/video060_1s.JPG' | relative_url }})
 
 Below is a video released to promote the first "Nokri incident" scenario.
 
@@ -93,4 +93,4 @@ Relevant discussions on the AboveTopSecret.com forum include the following:
 
 2014 (August) discussion entitled "[UFO Crash, alien body.](http://www.abovetopsecret.com/forum/thread1029397/pg1)"
 
-![](/images/stories/ufo_videos/video060_1d.jpg)
+![]({{ '/images/stories/ufo_videos/video060_1d.jpg' | relative_url }})

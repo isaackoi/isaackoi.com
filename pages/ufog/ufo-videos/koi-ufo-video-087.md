@@ -42,11 +42,11 @@ Koi UFO Video 087 appears to show a ring of lights in the night sky above some t
 
 Screen shots from the video are included below for ease of identification:
 
-![](/images/stories/ufo_videos/video087_1.JPG)
+![]({{ '/images/stories/ufo_videos/video087_1.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video087_2.JPG)
+![]({{ '/images/stories/ufo_videos/video087_2.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video087_3.JPG)
+![]({{ '/images/stories/ufo_videos/video087_3.JPG' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this video
@@ -112,11 +112,11 @@ Signs from the sky was born!! WOO HOO $$$$$
 
 When i realized how much money i made off the silly ass movie i did something i never planned to do... but did anyway's because i didn't really give a shit about UFOS once i realized nobody else did either.. In order to properly expose my new dvd i had to break some stories out... so i decided to get stoned and rense.com webmaster was making ufo prints and selling them so i emailed him and asked him what program he made the graphics with and he told me bryce so i obtained bryce and in about a week i made my first fake ufo video.... i pioneered my own stoner techniques... some that would later be used in the phoenix video "years later".. and with bryce i had managed to create not only a super silly looking fake video with black orbs flying around... but the orbs themselves were so cool that skeptics who knew the video was fake called the video "birds in reverse"... i laughed my ass off because there were no birds involved... just a few rendered black orbs in a bryce scene with the "depth of 3d" option enabled... this made the orbs seem to be real and birdy.. HEHE.. I did this entire bryce scene on a bluescreen background and imported it into a video program and did the same thing they do in hollywood... Put the stuff from the bluescreen on top of the real video and walla! Cheap ass hoax...
 
-![](/images/stories/ufo_videos/video087_5.jpg)
+![]({{ '/images/stories/ufo_videos/video087_5.jpg' | relative_url }})
 
 Brian Bessent is pictured below.
 
-![](/images/stories/ufo_videos/video087_4.jpg)
+![]({{ '/images/stories/ufo_videos/video087_4.jpg' | relative_url }})
 
 <a id="forums"></a>
 ### 4. Relevant online discussions
@@ -137,4 +137,4 @@ Relevant discussions on the AboveTopSecret.com forum include the following:
 
 2013 (December) discussion entitled "[The most convincing UFO video footage we have](http://www.abovetopsecret.com/forum/thread989864/pg1)"
 
-![](/images/stories/ufo_videos/video087_3d.jpg)
+![]({{ '/images/stories/ufo_videos/video087_3d.jpg' | relative_url }})

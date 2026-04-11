@@ -46,11 +46,11 @@ Koi UFO Video 138 appears to show an object giving off sparks cavorting in the s
 
 Screen shots from this video are included below for ease of identification.
 
-![](/images/stories/ufo_videos/video138_1.JPG)
+![]({{ '/images/stories/ufo_videos/video138_1.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video138_2.JPG)
+![]({{ '/images/stories/ufo_videos/video138_2.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video138_3.JPG)
+![]({{ '/images/stories/ufo_videos/video138_3.JPG' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this video
@@ -59,7 +59,7 @@ This video was posted online on 30 May 2017 on a local news website ("Somerset L
 
 [http://www.somersetlive.co.uk/news/somerset-news/ufo-spotted-hovering-over-cley-80484](http://www.somersetlive.co.uk/news/somerset-news/ufo-spotted-hovering-over-cley-80484)
 
-![](/images/stories/ufo_videos/video138_8.JPG)
+![]({{ '/images/stories/ufo_videos/video138_8.JPG' | relative_url }})
 
 The video quickly spread via Facebook and other social media.
 
@@ -67,15 +67,15 @@ Articles appeared on the websites of various tabloid newspapers in the UK, inclu
 
 [http://www.dailymail.co.uk/sciencetech/article-4558858/UFO-spotted-Warminster-spark-rumours-extra-terrestrial.html](http://www.dailymail.co.uk/sciencetech/article-4558858/UFO-spotted-Warminster-spark-rumours-extra-terrestrial.html)
 
-![](/images/stories/ufo_videos/video138_9.JPG)
+![]({{ '/images/stories/ufo_videos/video138_9.JPG' | relative_url }})
 
 http://www.mirror.co.uk/news/uk-news/bizarre-sighting-light-circling-above-10533640
 
-![](/images/stories/ufo_videos/video138_10.JPG)
+![]({{ '/images/stories/ufo_videos/video138_10.JPG' | relative_url }})
 
 https://www.thesun.co.uk/news/3728760/ufo-spotted-uk-video-leaving-trail-white-light/
 
-![](/images/stories/ufo_videos/video138_11.JPG)
+![]({{ '/images/stories/ufo_videos/video138_11.JPG' | relative_url }})
 
 Most of the articles mentioned that the video was filmed near Warminster, "Britain's UFO capital" and referred to UFO sightings there in the 1960s.
 
@@ -86,17 +86,17 @@ One copy of the video received over 350,000 in just its first week online.
 
 Tim Dews of a local company known as "[AeroSparx](http://www.aerosparx.com/)" kindly confirmed to me that this video showed one of his company's "Twister" aircraft.
 
-![](/images/stories/ufo_videos/video138_7.JPG)
+![]({{ '/images/stories/ufo_videos/video138_7.JPG' | relative_url }})
 
 AeroSparx uses "wingtip pyrotechnics" to perform a "formation firework at night, and coordinate ground-based fireworks with a flying display".
 
 Various videos of AeroSparx performing at several airshows can be found online. The "UFO" video shows one of Tim Dews' practice flights in an AeroSparx Twister.
 
-![](/images/stories/ufo_videos/video138_4.JPG)
+![]({{ '/images/stories/ufo_videos/video138_4.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video138_5.JPG)
+![]({{ '/images/stories/ufo_videos/video138_5.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video138_6.JPG)
+![]({{ '/images/stories/ufo_videos/video138_6.JPG' | relative_url }})
 
 https://www.youtube.com/watch?v=Hv46c5it2PQ
 
@@ -112,11 +112,11 @@ Tim Dews obviously found the coverage amusing. He posted on Facebook about the n
 
 [https://www.facebook.com/tim.dews.9/posts/10154558806032231?pnref=story](https://www.facebook.com/tim.dews.9/posts/10154558806032231?pnref=story)
 
-![](/images/stories/ufo_videos/video138_12.JPG)
+![]({{ '/images/stories/ufo_videos/video138_12.JPG' | relative_url }})
 
 Rather unusually, one of the news websites involved (the "Somerset Live") posted a follow-up article briefly giving the facts behind this video, in a further article (entitled "[UFO spotted over Cley Hill near Frome was not aliens](http://www.somersetlive.co.uk/news/somerset-news/ufo-spotted-over-cley-hill-94962)").
 
-![](/images/stories/ufo_videos/video138_13.JPG)
+![]({{ '/images/stories/ufo_videos/video138_13.JPG' | relative_url }})
 
 Similarly, attempts by some other researchers with an interest in viral "UFO" videos (notably [Scott Brando](https://twitter.com/_scottbrando_?lang=en) of "ufoofinterest.org") resulted in the explanation being given briefly in an article in The Express:
 
@@ -133,4 +133,4 @@ Quite a few comments on this UFO video were posted in the comments section on Yo
 
 As at mid-June 2017 (i.e. approximately two weeks after the original copy of the video was uploaded), a copy of the video on the "Secureteam10" website has over 10,000 "thumbs up" (roughly twenty times the number of "thumbs down" votes for this video).
 
-![](/images/stories/ufo_videos/video138_2d.JPG)
+![]({{ '/images/stories/ufo_videos/video138_2d.JPG' | relative_url }})

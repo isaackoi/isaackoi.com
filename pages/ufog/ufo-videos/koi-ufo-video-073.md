@@ -40,9 +40,9 @@ This video appears to show a ring shaped flying object.
 
 Screen shots from this video are included below for ease of identification.
 
-![](/images/stories/ufo_videos/video073_3.JPG)
+![]({{ '/images/stories/ufo_videos/video073_3.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video073_4.JPG)
+![]({{ '/images/stories/ufo_videos/video073_4.JPG' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this video
@@ -56,15 +56,15 @@ However, both of those articles following the revelation of a hoax - outlined be
 
 This video shows Linn Murphy flying a 3 foot ring-shaped remote controlled toy aircraft designed by Steve Zingali.
 
-![](/images/stories/ufo_videos/video073_2.JPG)
+![]({{ '/images/stories/ufo_videos/video073_2.JPG' | relative_url }})
 
 An [article on the website of The Orange County Register](http://www.ocregister.com/articles/ufo-64158-orangecounty-unidentifiedflyingobject.html) in 2007 reported that the model aircraft "spiked Orange County's unidentified flying object sightings for the past three years" and had "fooled thousands". The article refers to Linn Murphy as "A man who has generated hundreds, if not thousands, of calls to police and dozens of videos on UFO Web sites". Linn Murphy claimed to have flown the "UFO" over various crowds and fooled lots of people.
 
 However, I have so far been unable to find any "UFO" videos showing this particular model aircraft other than those put online to promote sales of the toy aircraft. I wonder if there was an element of hype involved by those selling the relevant toy aircraft. The toy aircraft was pretty expensive (reportedly selling for US$ 1,000).
 
-![](/images/stories/ufo_videos/video073_1.JPG)
+![]({{ '/images/stories/ufo_videos/video073_1.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video073_5.JPG)
+![]({{ '/images/stories/ufo_videos/video073_5.JPG' | relative_url }})
 
 <a id="forums"></a>
 ### 4. Relevant online discussions
@@ -77,4 +77,4 @@ Relevant discussions on the AboveTopSecret.com forum include the following:
 
 2010 (May) discussion entitled "[Ring-Shaped UFO Over Los Angeles](http://www.abovetopsecret.com/forum/thread577105/pg1)"
 
-![](/images/stories/ufo_videos/video073_4d.jpg)
+![]({{ '/images/stories/ufo_videos/video073_4d.jpg' | relative_url }})

@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/fortean_times_1.jpg"}
 ---
 
-![fortean_times_1](/images/stories/ufo_personalities/fortean_times_1.jpg)
+![fortean_times_1]({{ '/images/stories/ufo_personalities/fortean_times_1.jpg' | relative_url }})
 
 *Fortean Times*
 

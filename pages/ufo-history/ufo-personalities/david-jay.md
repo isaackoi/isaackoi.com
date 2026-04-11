@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/david_jay_1.jpg"}
 ---
 
-![david_jay_1](/images/stories/ufo_personalities/david_jay_1.jpg)
+![david_jay_1]({{ '/images/stories/ufo_personalities/david_jay_1.jpg' | relative_url }})
 
 *Jay David*
 
@@ -36,18 +36,18 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1967">1967</a></p>
+<p><a href="{{ '/tags/1967' | relative_url }}">1967</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/david-jay">David, Jay</a> (Editor) “<a href="/ufo-history/ufo-books/david-jay-the-flying-saucer-reader">The Flying Saucer Reader</a>” (<a href="/tags/1967">1967</a>) (edited by <a href="/ufo-history/ufo-personalities/david-jay">Jay David</a>) (available <a href="http://www.amazon.com/dp/B000OO1DYY/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000OO1DYY/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/david-jay' | relative_url }}">David, Jay</a> (Editor) “<a href="{{ '/ufo-history/ufo-books/david-jay-the-flying-saucer-reader' | relative_url }}">The Flying Saucer Reader</a>” (<a href="{{ '/tags/1967' | relative_url }}">1967</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/david-jay' | relative_url }}">Jay David</a>) (available <a href="http://www.amazon.com/dp/B000OO1DYY/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000OO1DYY/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1970">1970</a></p>
+<p><a href="{{ '/tags/1970' | relative_url }}">1970</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/david-jay">David, Jay</a> (Editor) “<a href="/ufo-history/ufo-books/david-jay-flying-saucers-have-arrived">Flying Saucers Have Arrived!</a>” (<a href="/tags/1970">1970</a>) (available <a href="http://www.amazon.com/dp/B000EH5018/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000EH5018/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/david-jay' | relative_url }}">David, Jay</a> (Editor) “<a href="{{ '/ufo-history/ufo-books/david-jay-flying-saucers-have-arrived' | relative_url }}">Flying Saucers Have Arrived!</a>” (<a href="{{ '/tags/1970' | relative_url }}">1970</a>) (available <a href="http://www.amazon.com/dp/B000EH5018/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000EH5018/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>

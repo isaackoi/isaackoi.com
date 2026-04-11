@@ -48,17 +48,17 @@ This amusing video appears to show several highly improbable fairground rides.
 
 Screen shots from this video are included below for ease of identification.
 
-![](/images/stories/ufo_videos/video105_1.JPG)
+![]({{ '/images/stories/ufo_videos/video105_1.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video105_3.JPG)
+![]({{ '/images/stories/ufo_videos/video105_3.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video105_4.JPG)
+![]({{ '/images/stories/ufo_videos/video105_4.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video105_7.JPG)
+![]({{ '/images/stories/ufo_videos/video105_7.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video105_8.JPG)
+![]({{ '/images/stories/ufo_videos/video105_8.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video105_9.JPG)
+![]({{ '/images/stories/ufo_videos/video105_9.JPG' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this video
@@ -80,33 +80,33 @@ The entire short mockumentary can be found online and is embedded below.
 
 According to [Till Nowak's website](http://www.framebox.com/) (Framebox.com), Till Nowak is a "digital artist, designer and filmmaker based in Los Angeles". That website includes details of some of his projects, including this mockumentary.
 
-![](/images/stories/ufo_videos/video105_13.JPG)
+![]({{ '/images/stories/ufo_videos/video105_13.JPG' | relative_url }})
 
 Till Nowak is photographed below with Leslie Barany (that actor that played "Dr Laslowicz" in the mockumentary).
 
-![](/images/stories/ufo_videos/video105_14.JPG)
+![]({{ '/images/stories/ufo_videos/video105_14.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video105_11.JPG)
+![]({{ '/images/stories/ufo_videos/video105_11.JPG' | relative_url }})
 
 The dialogue in the mock interviews with Dr. Nick Laslowicz is almost as hiliarious as the "rides" in the video. For example, "Dr Laslowicz" describes, with a dead-pan face, how people would get on the "High Altitude Conveyance" ride without realising that it lasted "14 hours" and would sometimes fall asleep, miss their stop and have to go around for another 14 hours.
 
 "The Centrifuge Brain Project" mockumentary has an associated website. The [website of the fictitious "Institute for Centrifugal Research"](http://www.icr-science.org/) gives details of "the world's leading research laboratory in the highly specialized field of spinning people around". That website also gives details of some of the many film-making awards won by the mockumentary. There is also [a Facebook page](https://www.facebook.com/TheCentrifugeBrainProject) devoted to the mockumentary.
 
-![](/images/stories/ufo_videos/video105_6.JPG)
+![]({{ '/images/stories/ufo_videos/video105_6.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video105_2.JPG)
+![]({{ '/images/stories/ufo_videos/video105_2.JPG' | relative_url }})
 
 As with many hoaxed UFO videos, the abridged copy of the video (which does NOT indicate its true nature [or give any credit to the film-maker](https://www.facebook.com/TheCentrifugeBrainProject/posts/864761816933514)) has MANY more views than the full video that made its origins clearer. Mystery, like sex, sells. (The fact that Till Nowak is not getting proper credit for this video on Facebook is one of my reasons for covering this video in my series of pages about infamous "UFO" videos...). The full version of the mockumentary includes credits for Till Nowak and others involved in the project.
 
-# ![](/images/stories/ufo_videos/video105_10.JPG)
+# ![]({{ '/images/stories/ufo_videos/video105_10.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video105_12.JPG)
+![]({{ '/images/stories/ufo_videos/video105_12.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video105_5.JPG)
+![]({{ '/images/stories/ufo_videos/video105_5.JPG' | relative_url }})
 
 <a id="forums"></a>
 ### 4. Relevant online discussions
 
 There are many comments on o[ne copy of the video on Facebook](https://www.facebook.com/juksymag/videos/10152995678468937/?pnref=story), which has had over 43,000,000 views as at October 2015.
 
-![](/images/stories/ufo_videos/video105_1d.jpg)
+![]({{ '/images/stories/ufo_videos/video105_1d.jpg' | relative_url }})

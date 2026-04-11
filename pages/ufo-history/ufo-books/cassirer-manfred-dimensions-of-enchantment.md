@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0947533893.jpg"}
 book: {"identifiers": ["0947533893"], "primary_isbn": "0947533893", "cover_image": "/book-covers/0947533893.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of Manfred Cassirer's book “[Dimensions of Enchantment](/ufo-history/ufo-books/cassirer-manfred-dimensions-of-enchantment)” ([1994](/tags/1994)) (available [on Amazon USA](http://www.amazon.com/dp/0947533893/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0947533893/?&tag=ufot-21))
+Brief review to be added of Manfred Cassirer's book “[Dimensions of Enchantment]({{ '/ufo-history/ufo-books/cassirer-manfred-dimensions-of-enchantment' | relative_url }})” ([1994]({{ '/tags/1994' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0947533893/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0947533893/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

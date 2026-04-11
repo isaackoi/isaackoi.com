@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/presley_reg_3.jpg"}
 ---
 
-![presley_reg_3](/images/stories/ufo_personalities/presley_reg_3.jpg)
+![presley_reg_3]({{ '/images/stories/ufo_personalities/presley_reg_3.jpg' | relative_url }})
 
 *Reg Presley*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/2002">2002</a></p>
+<p><a href="{{ '/tags/2002' | relative_url }}">2002</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/presley-reg">Presley, Reg</a> “<a href="/ufo-history/ufo-books/presley-reg-wild-things-they-dont-tell-us">Wild Things (They Don’t Tell Us)</a>” (<a href="/tags/2002">2002</a>) (available <a href="http://www.amazon.com/dp/184358073X/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/184358073X/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/presley-reg' | relative_url }}">Presley, Reg</a> “<a href="{{ '/ufo-history/ufo-books/presley-reg-wild-things-they-dont-tell-us' | relative_url }}">Wild Things (They Don’t Tell Us)</a>” (<a href="{{ '/tags/2002' | relative_url }}">2002</a>) (available <a href="http://www.amazon.com/dp/184358073X/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/184358073X/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>
@@ -83,10 +83,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2002">2002</a></p>
+<p><a href="{{ '/tags/2002' | relative_url }}">2002</a></p>
 </td>
 <td valign="top" width="547">
-<p>Faith, Adam in Reg Presley’s “<a href="/ufo-history/ufo-books/presley-reg-wild-things-they-dont-tell-us">Wild Things (They Don’t Tell Us)</a>” (<a href="/tags/2002">2002</a>) (available <a href="http://www.amazon.com/dp/184358073X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/184358073X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 11-12 (in the Foreword) of the Metro hardback edition.</p>
+<p>Faith, Adam in Reg Presley’s “<a href="{{ '/ufo-history/ufo-books/presley-reg-wild-things-they-dont-tell-us' | relative_url }}">Wild Things (They Don’t Tell Us)</a>” (<a href="{{ '/tags/2002' | relative_url }}">2002</a>) (available <a href="http://www.amazon.com/dp/184358073X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/184358073X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 11-12 (in the Foreword) of the Metro hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -94,10 +94,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/hesemann-michael">Hesemann, Michael</a> and <a href="/ufo-history/ufo-personalities/mantle-philip">Mantle, Philip</a> in their “<a href="/ufo-history/ufo-books/hesemann-michael-and-mantle-philip-beyond-roswell">Beyond Roswell</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1569247811/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1569247811/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 188 (in Chapter 13) of the Michael O’Mara hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/hesemann-michael' | relative_url }}">Hesemann, Michael</a> and <a href="{{ '/ufo-history/ufo-personalities/mantle-philip' | relative_url }}">Mantle, Philip</a> in their “<a href="{{ '/ufo-history/ufo-books/hesemann-michael-and-mantle-philip-beyond-roswell' | relative_url }}">Beyond Roswell</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1569247811/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1569247811/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 188 (in Chapter 13) of the Michael O’Mara hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -105,10 +105,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2005">2005</a></p>
+<p><a href="{{ '/tags/2005' | relative_url }}">2005</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/luckman-michael">Luckman, Michael</a> in his “<a href="/ufo-history/ufo-books/luckman-michael-alien-rock-the-rock-n-roll-extraterrestrial-connection">Alien Rock : The Rock ‘n’ Roll Extraterrestrial Connection</a>” (<a href="/tags/2005">2005</a>) (available <a href="http://www.amazon.com/dp/074346673X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/074346673X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 155-158 (in Chapter 5) of the Pocket Books softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/luckman-michael' | relative_url }}">Luckman, Michael</a> in his “<a href="{{ '/ufo-history/ufo-books/luckman-michael-alien-rock-the-rock-n-roll-extraterrestrial-connection' | relative_url }}">Alien Rock : The Rock ‘n’ Roll Extraterrestrial Connection</a>” (<a href="{{ '/tags/2005' | relative_url }}">2005</a>) (available <a href="http://www.amazon.com/dp/074346673X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/074346673X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 155-158 (in Chapter 5) of the Pocket Books softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>4</p>

@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/1573922005.jpg"}
 book: {"identifiers": ["1573922005", "0964491702", "1903047889"], "primary_isbn": "1573922005", "cover_image": "/book-covers/1573922005.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Bartholomew, Robert E](/ufo-history/ufo-personalities/bartholomew-robert-e) and Howard, George S “[UFOs and Alien Contact](/ufo-history/ufo-books/bartholomew-robert-e-and-howard-george-s-ufos-and-alien-contact)” ([1998](/tags/1998)) (available [on Amazon USA](http://www.amazon.com/dp/1573922005/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1573922005/?&tag=ufot-21))
+Brief review to be added of [Bartholomew, Robert E]({{ '/ufo-history/ufo-personalities/bartholomew-robert-e' | relative_url }}) and Howard, George S “[UFOs and Alien Contact]({{ '/ufo-history/ufo-books/bartholomew-robert-e-and-howard-george-s-ufos-and-alien-contact' | relative_url }})” ([1998]({{ '/tags/1998' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1573922005/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1573922005/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -52,10 +52,10 @@ Many of the tables of references on this website are considerably longer than th
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/basterfield-keith">Basterfield, Keith</a> in “<a href="/ufo-history/ufo-books/pritchard-andrea-et-al-editors-alien-discussions-abduction-study-conference-held-at-m-i-t">Alien Discussions: Abduction Study Conference Held at M. I. T.</a>” (<a href="/tags/1994">1994</a>) (edited by Andrea Pritchard et al.) (available <a href="http://www.amazon.com/dp/0964491702/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0964491702/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 371-372 (in Chapter 5, unnumbered sub-chapter entitled “The Fantasy-Prone Personality Hypothesis”) of the North Cambridge Press hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/basterfield-keith' | relative_url }}">Basterfield, Keith</a> in “<a href="{{ '/ufo-history/ufo-books/pritchard-andrea-et-al-editors-alien-discussions-abduction-study-conference-held-at-m-i-t' | relative_url }}">Alien Discussions: Abduction Study Conference Held at M. I. T.</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (edited by Andrea Pritchard et al.) (available <a href="http://www.amazon.com/dp/0964491702/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0964491702/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 371-372 (in Chapter 5, unnumbered sub-chapter entitled “The Fantasy-Prone Personality Hypothesis”) of the North Cambridge Press hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -63,10 +63,10 @@ Many of the tables of references on this website are considerably longer than th
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2002">2002</a></p>
+<p><a href="{{ '/tags/2002' | relative_url }}">2002</a></p>
 </td>
 <td valign="top" width="547">
-<p>Nixon, Neil in his “<a href="/ufo-history/ufo-books/nixon-neil-pocket-essentials-ufos">Pocket Essentials : UFOs</a>” (<a href="/tags/2002">2002</a>) (available <a href="http://www.amazon.com/dp/1903047889/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1903047889/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 42-43 (in Chapter 3) of the Pocket Essentials softcover edition.</p>
+<p>Nixon, Neil in his “<a href="{{ '/ufo-history/ufo-books/nixon-neil-pocket-essentials-ufos' | relative_url }}">Pocket Essentials : UFOs</a>” (<a href="{{ '/tags/2002' | relative_url }}">2002</a>) (available <a href="http://www.amazon.com/dp/1903047889/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1903047889/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 42-43 (in Chapter 3) of the Pocket Essentials softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

@@ -13,21 +13,21 @@ planned_sections: []
 header: {"preview_image": null}
 ---
 
-“[Best UFO Cases](/ufog/best-ufo-cases)” by Isaac Koi
+“[Best UFO Cases]({{ '/ufog/best-ufo-cases' | relative_url }})” by Isaac Koi
 
-[PART 11: Consensus lists: The Rockefeller Briefing Document](/ufog/best-ufo-cases/11-consensus-lists-the-rockefeller-briefing-document)
+[PART 11: Consensus lists: The Rockefeller Briefing Document]({{ '/ufog/best-ufo-cases/11-consensus-lists-the-rockefeller-briefing-document' | relative_url }})
 
-Earlier parts of this article have indicated the diverse lists of cases that are nominated by individual ufologists as being the “best cases” (see [PART 3: Existing lists by various individuals](/ufog/best-ufo-cases/3-experts-short-lists)) and various problems in relation to conducting polls of individual ufologists on this issue - see:
+Earlier parts of this article have indicated the diverse lists of cases that are nominated by individual ufologists as being the “best cases” (see [PART 3: Existing lists by various individuals]({{ '/ufog/best-ufo-cases/3-experts-short-lists' | relative_url }})) and various problems in relation to conducting polls of individual ufologists on this issue - see:
 
-[PART 5: Consensus lists: Jacques Vallee’s poll (1965)](/ufog/best-ufo-cases/5-consensus-lists-jacques-vallees-poll-1965)
+[PART 5: Consensus lists: Jacques Vallee’s poll (1965)]({{ '/ufog/best-ufo-cases/5-consensus-lists-jacques-vallees-poll-1965' | relative_url }})
 
-[PART 6: Consensus lists: Ronald Story’s poll (1979)](/ufog/best-ufo-cases/6-consensus-lists-ronald-storys-poll)
+[PART 6: Consensus lists: Ronald Story’s poll (1979)]({{ '/ufog/best-ufo-cases/6-consensus-lists-ronald-storys-poll' | relative_url }})
 
-[PART 7: Consensus lists: Paul Kimball’s Vox Populi poll (2006)](/ufog/best-ufo-cases/7-consensus-lists-paul-kimballs-vox-populi-poll-2006)
+[PART 7: Consensus lists: Paul Kimball’s Vox Populi poll (2006)]({{ '/ufog/best-ufo-cases/7-consensus-lists-paul-kimballs-vox-populi-poll-2006' | relative_url }})
 
-[PART 8: Consensus lists: Paul Kimball’s expert poll (2005/6)](/ufog/best-ufo-cases/8-consensus-lists-kimballs-expert-poll-2007)
+[PART 8: Consensus lists: Paul Kimball’s expert poll (2005/6)]({{ '/ufog/best-ufo-cases/8-consensus-lists-kimballs-expert-poll-2007' | relative_url }})
 
-[PART 9: Consensus lists: Fortean Times expert poll (2007)](/ufog/best-ufo-cases/9-consensus-lists-fortean-times-expert-poll-2007)
+[PART 9: Consensus lists: Fortean Times expert poll (2007)]({{ '/ufog/best-ufo-cases/9-consensus-lists-fortean-times-expert-poll-2007' | relative_url }})
 
 What if, instead of attempting to obtain a consensus of individual ufologists, the most respected existing UFO research groups got together and made a list of the top cases?
 
@@ -62,7 +62,7 @@ A letter of endorsement dated 15 December 1995 was signed by Dr Mark Rodeghier (
 
 “We believe that this Briefing Document on Unidentified Flying Objects presents the best available evidence for the existence of UFOs. Although just a brief sample of the scientific and military evidence available worldwide is given, it represents some of the most carefully documented incidents. … We, the undersigned, endorse the information contained in this Briefing Document as the best available evidence from open sources”.
 
-Yet, the Rockefeller Briefing Document is rarely mentioned in most discussions of the “best cases”. Indeed, Don Berliner - one of the co-authors of the Rockefeller Briefing Document - stated in 2007 that it had had “very little impact” (see Footnote 11.02). (This is very similar to the situation in relation to the National Enquirer’s “Blue-Ribbon” Panel (see [PART 10: Consensus lists: National Enquirer Panel](/ufog/best-ufo-cases/10-consensus-lists-national-enquirer-panel)).)
+Yet, the Rockefeller Briefing Document is rarely mentioned in most discussions of the “best cases”. Indeed, Don Berliner - one of the co-authors of the Rockefeller Briefing Document - stated in 2007 that it had had “very little impact” (see Footnote 11.02). (This is very similar to the situation in relation to the National Enquirer’s “Blue-Ribbon” Panel (see [PART 10: Consensus lists: National Enquirer Panel]({{ '/ufog/best-ufo-cases/10-consensus-lists-national-enquirer-panel' | relative_url }})).)
 
 Although rarely mentioned, copies of the entirety of the Rockefeller Briefing Document are available in html format and as a PDF document on various websites. The full document appears to have been placed on the Internet by the International Space Sciences Organization (“the ISSO”, founded by Joe Firmage), with a statement (that I have no cause to doubt) that this was done with the permission of the UFO Research Coalition.
 
@@ -91,24 +91,24 @@ One of the very few discussions of the Rockefeller Briefing Document within a UF
 
 The cases actually focused upon were:
 
-1. [Foo fighters](/ufo-history/ufo/19430000-foo-fighters) (1944-1945)
-2. [Ghost Rockets](/ufo-history/ufo/19460000-qghost-rocketsq) (1946)
-3. [Kenneth Arnold](/ufo-history/ufo/19470624-kenneth-arnold-sighting) (1947) (Case 1 in [Isaac Koi’s “Top 100” article](best-ufo-cases/13-the-top-100-ufo-cases.html%20'))
-4. [Washington, D.C. sightings](/ufo-history/ufo/19520700-washington-national-sightings) (1952) (Case 8 in [Isaac Koi’s “Top 100” article](best-ufo-cases/13-the-top-100-ufo-cases.html'))
-5. [Lakenheath, England](/ufo-history/ufo/19560813-lakenheath-incident) (1956) (Case 21 in [Isaac Koi’s “Top 100” article](best-ufo-cases/13-the-top-100-ufo-cases.html'))
-6. [Levelland, Texas](/ufo-history/ufo/19571102-levelland-texas-incident) (1957) (Case 16 in [Isaac Koi’s “Top 100” article](best-ufo-cases/13-the-top-100-ufo-cases.html'))
-7. [Trindade photographic case](/ufo-history/ufo/19580116-trindade-island-photos) (1958) (Case 26 in [Isaac Koi’s “Top 100” article](best-ufo-cases/13-the-top-100-ufo-cases.html'))
-8. [Michalak / Falcon Lake, Canada](/ufo-history/ufo/19670520-falcon-lake-encounter) (1967) (Case 50 in [Isaac Koi’s “Top 100” article](best-ufo-cases/13-the-top-100-ufo-cases.html'))
-9. [Zamora /Socorro landing](/ufo-history/ufo/19640424-lonnie-zamora-sighting) (Case 5 in [Isaac Koi’s “Top 100” article](best-ufo-cases/13-the-top-100-ufo-cases.html'))
-10. [SAC Bases alert](/ufo-history/ufo/19751000-sac-bases-incidents)
-11. [Canary Islands case](/ufo-history/ufo/19760622-canary-islands-sightings)
-12. [Dogfight over Tehran](/ufo-history/ufo/19760919-tehran-jet-chase-incident) (Case 47 in [Isaac Koi’s “Top 100” article](best-ufo-cases/13-the-top-100-ufo-cases.html'))
-13. [Rendlesham Forest, England](/ufo-history/ufo/19801227-rendlesham-forest-incident) (Case 18 in [Isaac Koi’s “Top 100” article](best-ufo-cases/13-the-top-100-ufo-cases.html'))
-14. [Trans-En-Provence, France](/ufo-history/ufo/19810108-trans-en-provence-qlandingq) (Case 65 in [Isaac Koi’s “Top 100” article](best-ufo-cases/13-the-top-100-ufo-cases.html'))
-15. [Jet Chase over Brazil](/ufo-history/ufo/19860519-jet-chase-in-brazil) (1986)
-16. [Japan Airlines 747 over Alaska](/ufo-history/ufo/19861117-jal-flight-1628) (Case 89 in [Isaac Koi’s “Top 100” article](best-ufo-cases/13-the-top-100-ufo-cases.html'))
-17. [Kaputin Yar, Russian missile base case](/ufo-history/ufo/19890728-kasputin-yar-missile-base) (1989)
-18. [Belgium sighting wave](/ufo-history/ufo/19891129-belgium-radarvisuals) (Case 40 in [Isaac Koi’s “Top 100” article](best-ufo-cases/13-the-top-100-ufo-cases.html'))
+1. [Foo fighters]({{ '/ufo-history/ufo/19430000-foo-fighters' | relative_url }}) (1944-1945)
+2. [Ghost Rockets]({{ '/ufo-history/ufo/19460000-qghost-rocketsq' | relative_url }}) (1946)
+3. [Kenneth Arnold]({{ '/ufo-history/ufo/19470624-kenneth-arnold-sighting' | relative_url }}) (1947) (Case 1 in [Isaac Koi’s “Top 100” article](best-ufo-cases/13-the-top-100-ufo-cases.html%20'))
+4. [Washington, D.C. sightings]({{ '/ufo-history/ufo/19520700-washington-national-sightings' | relative_url }}) (1952) (Case 8 in [Isaac Koi’s “Top 100” article](best-ufo-cases/13-the-top-100-ufo-cases.html'))
+5. [Lakenheath, England]({{ '/ufo-history/ufo/19560813-lakenheath-incident' | relative_url }}) (1956) (Case 21 in [Isaac Koi’s “Top 100” article](best-ufo-cases/13-the-top-100-ufo-cases.html'))
+6. [Levelland, Texas]({{ '/ufo-history/ufo/19571102-levelland-texas-incident' | relative_url }}) (1957) (Case 16 in [Isaac Koi’s “Top 100” article](best-ufo-cases/13-the-top-100-ufo-cases.html'))
+7. [Trindade photographic case]({{ '/ufo-history/ufo/19580116-trindade-island-photos' | relative_url }}) (1958) (Case 26 in [Isaac Koi’s “Top 100” article](best-ufo-cases/13-the-top-100-ufo-cases.html'))
+8. [Michalak / Falcon Lake, Canada]({{ '/ufo-history/ufo/19670520-falcon-lake-encounter' | relative_url }}) (1967) (Case 50 in [Isaac Koi’s “Top 100” article](best-ufo-cases/13-the-top-100-ufo-cases.html'))
+9. [Zamora /Socorro landing]({{ '/ufo-history/ufo/19640424-lonnie-zamora-sighting' | relative_url }}) (Case 5 in [Isaac Koi’s “Top 100” article](best-ufo-cases/13-the-top-100-ufo-cases.html'))
+10. [SAC Bases alert]({{ '/ufo-history/ufo/19751000-sac-bases-incidents' | relative_url }})
+11. [Canary Islands case]({{ '/ufo-history/ufo/19760622-canary-islands-sightings' | relative_url }})
+12. [Dogfight over Tehran]({{ '/ufo-history/ufo/19760919-tehran-jet-chase-incident' | relative_url }}) (Case 47 in [Isaac Koi’s “Top 100” article](best-ufo-cases/13-the-top-100-ufo-cases.html'))
+13. [Rendlesham Forest, England]({{ '/ufo-history/ufo/19801227-rendlesham-forest-incident' | relative_url }}) (Case 18 in [Isaac Koi’s “Top 100” article](best-ufo-cases/13-the-top-100-ufo-cases.html'))
+14. [Trans-En-Provence, France]({{ '/ufo-history/ufo/19810108-trans-en-provence-qlandingq' | relative_url }}) (Case 65 in [Isaac Koi’s “Top 100” article](best-ufo-cases/13-the-top-100-ufo-cases.html'))
+15. [Jet Chase over Brazil]({{ '/ufo-history/ufo/19860519-jet-chase-in-brazil' | relative_url }}) (1986)
+16. [Japan Airlines 747 over Alaska]({{ '/ufo-history/ufo/19861117-jal-flight-1628' | relative_url }}) (Case 89 in [Isaac Koi’s “Top 100” article](best-ufo-cases/13-the-top-100-ufo-cases.html'))
+17. [Kaputin Yar, Russian missile base case]({{ '/ufo-history/ufo/19890728-kasputin-yar-missile-base' | relative_url }}) (1989)
+18. [Belgium sighting wave]({{ '/ufo-history/ufo/19891129-belgium-radarvisuals' | relative_url }}) (Case 40 in [Isaac Koi’s “Top 100” article](best-ufo-cases/13-the-top-100-ufo-cases.html'))
 19. “Recent cases” (1991-1994)
 
 The case selection appears to have been based on fairly conservative criteria. There appears to have been a deliberate (and entirely sensible) effort to avoid the more sensational reports, e.g. those involving reports of occupants or abductions. Michael Lindemann has commented that “Apparently, the authors and sponsors of this project intend to maximize their credibility by minimizing any sensational aspects of the subject” (see Footnote 11.13). The UFO Research Coalition itself has referred to the cases (going rather too far) as “non-controversial” case histories (see Footnote 11.14). In comments upon a draft of this article, Don Berliner indicated that “We wanted to convince the readers of the acceptability of UFOs as a matter for serious consideration, not to frighten them off. To the amazement of many in the private UFO community (ranging from certified loonies to gullible hobbyists) our goal was _not_ to convince the readers that UFOs are alien spacecraft” (see Footnote 11.34).
@@ -249,36 +249,36 @@ As at 2007, the relevant webpage is at:
 
 The cases listed by MUFON on that webpage are:
 
-(1) [Aurora Texas Crash](/ufo-history/ufo/18970417-crash-at-aurora) (Case 51 in [the “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
-(2) [Maury Island Incident](/ufo-history/ufo/19470621-maury-island-incident) (Case 12 in [the “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
+(1) [Aurora Texas Crash]({{ '/ufo-history/ufo/18970417-crash-at-aurora' | relative_url }}) (Case 51 in [the “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
+(2) [Maury Island Incident]({{ '/ufo-history/ufo/19470621-maury-island-incident' | relative_url }}) (Case 12 in [the “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
 (3) Piedmont Missouri Case
-(4) [Heflin Photos](/ufo-history/ufo/19650803-rex-heflin-photos) (Case 62 in [the “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
-(5) [Valentich Dissapearance](/ufo-history/ufo/19781021-valentich-disappearance) (Case 35 in [the “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
-(6) [Incident at Exeter](/ufo-history/ufo/19650903-exeter-incidents) (Case 29 in [the “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
-(7) [Travis Walton Abduction](/ufo-history/ufo/19751105-travis-walton-abduction) (Case 11 in [the “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
-(8) [RAF Bentwaters Case](/ufo-history/ufo/19560813-lakenheath-incident) (Case 18 in [the “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
-(9) [Phoenix Lights](/ufo-history/ufo/19970313-phoenix-lights-sightings)
-(10) [Japanese Airlines Flight 1628](/ufo-history/ufo/19861117-jal-flight-1628) (Case 89 in [the “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
-(11) [Kecksburg Crash](/ufo-history/ufo/19651209-kecksburg-incident)
-(12) [1952 UFOs over Washington DC](/ufo-history/ufo/19520700-washington-national-sightings) (Case 8 in [the “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
-(13) [Betty and Barney Hill Abduction](/ufo-history/ufo/19610919-hill-abduction) (Case 2 in [the “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
-(14) [1976 Iran UFO](/ufo-history/ufo/19760919-tehran-jet-chase-incident) (Case 47 in [the “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
+(4) [Heflin Photos]({{ '/ufo-history/ufo/19650803-rex-heflin-photos' | relative_url }}) (Case 62 in [the “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
+(5) [Valentich Dissapearance]({{ '/ufo-history/ufo/19781021-valentich-disappearance' | relative_url }}) (Case 35 in [the “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
+(6) [Incident at Exeter]({{ '/ufo-history/ufo/19650903-exeter-incidents' | relative_url }}) (Case 29 in [the “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
+(7) [Travis Walton Abduction]({{ '/ufo-history/ufo/19751105-travis-walton-abduction' | relative_url }}) (Case 11 in [the “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
+(8) [RAF Bentwaters Case]({{ '/ufo-history/ufo/19560813-lakenheath-incident' | relative_url }}) (Case 18 in [the “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
+(9) [Phoenix Lights]({{ '/ufo-history/ufo/19970313-phoenix-lights-sightings' | relative_url }})
+(10) [Japanese Airlines Flight 1628]({{ '/ufo-history/ufo/19861117-jal-flight-1628' | relative_url }}) (Case 89 in [the “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
+(11) [Kecksburg Crash]({{ '/ufo-history/ufo/19651209-kecksburg-incident' | relative_url }})
+(12) [1952 UFOs over Washington DC]({{ '/ufo-history/ufo/19520700-washington-national-sightings' | relative_url }}) (Case 8 in [the “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
+(13) [Betty and Barney Hill Abduction]({{ '/ufo-history/ufo/19610919-hill-abduction' | relative_url }}) (Case 2 in [the “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
+(14) [1976 Iran UFO]({{ '/ufo-history/ufo/19760919-tehran-jet-chase-incident' | relative_url }}) (Case 47 in [the “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
 (15) American West Airlines Case
-(16) [Cash Landrum Case](/ufo-history/ufo/19801229-cashlandrum-incident) (Case 30 in [the “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
-(17) [Pascagoula Mississippi Case](v) (Case 9 in [the “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
-(18) [Mantell Case](/ufo-history/ufo/19480107-captain-mantell-incident) (Case 6 in [the “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
+(16) [Cash Landrum Case]({{ '/ufo-history/ufo/19801229-cashlandrum-incident' | relative_url }}) (Case 30 in [the “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
+(17) [Pascagoula Mississippi Case](v) (Case 9 in [the “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
+(18) [Mantell Case]({{ '/ufo-history/ufo/19480107-captain-mantell-incident' | relative_url }}) (Case 6 in [the “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
 
 As at 2007, material is actually currently available on the MUFON website for 4 of these cases:
-(1) [Aurora Texas Crash (Case 51 in the “Top 100” article)](/ufo-history/ufo/18970417-crash-at-aurora):
+(1) [Aurora Texas Crash (Case 51 in the “Top 100” article)]({{ '/ufo-history/ufo/18970417-crash-at-aurora' | relative_url }}):
 [http://www.mufon.com/famous_cases/Aurora Texas Crash Part 1 MUFON Case File.pdf](http://www.mufon.com/famous_cases/Aurora%20Texas%20Crash%20Part%201%20MUFON%20Case%20File.pdf)
 
-(2) [Travis Walton Abduction](/ufo-history/ufo/19751105-travis-walton-abduction) (Case 11 in [the “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases)):
+(2) [Travis Walton Abduction]({{ '/ufo-history/ufo/19751105-travis-walton-abduction' | relative_url }}) (Case 11 in [the “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }})):
 [http://www.mufon.com/famous_cases/Travis Walton Part 1 MUFON Case File.pdf](http://www.mufon.com/famous_cases/Travis%20Walton%20Part%201%20MUFON%20Case%20File.pdf)
 
-(3) [Incident at Exeter](/ufo-history/ufo/19650903-exeter-incidents) (Case 29 in [the “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases)):
+(3) [Incident at Exeter]({{ '/ufo-history/ufo/19650903-exeter-incidents' | relative_url }}) (Case 29 in [the “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }})):
 [http://www.mufon.com/famous_cases/Exeter Part 1 MUFON Case File.pdf](http://www.mufon.com/famous_cases/Exeter%20Part%201%20MUFON%20Case%20File.pdf)
 
-(4) [1976 Iran UFO](/ufo-history/ufo/19760919-tehran-jet-chase-incident) (Case 47 in [the “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases)):
+(4) [1976 Iran UFO]({{ '/ufo-history/ufo/19760919-tehran-jet-chase-incident' | relative_url }}) (Case 47 in [the “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }})):
 [http://www.mufon.com/famous_cases/1976 Iran Part 1 MUFON Case File.pdf](http://www.mufon.com/famous_cases/1976%20Iran%20Part%201%20MUFON%20Case%20File.pdf)
 
 The material provided in relation to these four incidents is quite extensive (indeed, surprisingly so given the general lack of reference on the internet to this section of the MUFON website – possibly because it is rather hidden away). However, the selection of these four cases as a priority for presenting detailed information is rather at odds with the strategy implicit in the Rockefeller Briefing Document. While the Rockefeller Briefing Document has a rather pronounced tendency to avoid the most controversial aspects of the UFO phenomenon (including abductions and accounts of crashed UFOs), two of the four cases on the relevant section of the MUFON website fall into these categories.
@@ -292,24 +292,24 @@ That webpage does not include the Rockefeller Briefing Document. It is notable, 
 
 Dwight Connelly’s book includes discussion of the following:
 
-(1) [Betty & Barney Hill (1961)](/ufo-history/ufo/19610919-hill-abduction) (Case 2 in [the “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
+(1) [Betty & Barney Hill (1961)]({{ '/ufo-history/ufo/19610919-hill-abduction' | relative_url }}) (Case 2 in [the “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
 (2) Buff Ledge abductions (1968)
-(3) [Hickson/Parker, Pascagoula (1971)](/ufo-history/ufo/19731011-pascagoula-abduction) (Case 9 in [the “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
-(4) [Travis Walton abduction case](/ufo-history/ufo/19751105-travis-walton-abduction) (1975) (Case 11 in [the “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
-(5) [Kentucky abductions (1976)](/ufo-history/ufo/19760106-kentucky-multiple-abduction) (Case 68 in [the “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
+(3) [Hickson/Parker, Pascagoula (1971)]({{ '/ufo-history/ufo/19731011-pascagoula-abduction' | relative_url }}) (Case 9 in [the “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
+(4) [Travis Walton abduction case]({{ '/ufo-history/ufo/19751105-travis-walton-abduction' | relative_url }}) (1975) (Case 11 in [the “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
+(5) [Kentucky abductions (1976)]({{ '/ufo-history/ufo/19760106-kentucky-multiple-abduction' | relative_url }}) (Case 68 in [the “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
 (6) Allagash abductions (1976)
-(7) [Kelly Cahill encounter (1993)](/ufo-history/ufo/19940808-kelly-cahill-abduction)
+(7) [Kelly Cahill encounter (1993)]({{ '/ufo-history/ufo/19940808-kelly-cahill-abduction' | relative_url }})
 (8) Apparent abduction on video tape (1996)
 (9) DNA analysis of possible alien hair (1992-1998)
-(10) [McMinnville photos (1950)](/ufo-history/ufo/19500511-mcminnville-photographs) (Case 17 in [the “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
-(11) [Delphos case (1971)](/ufo-history/ufo/19711102-delphos-ring-incident) (Case 60 in [the “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
-(12) [Father Gill's New Guinea sighting](/ufo-history/ufo/19590626-father-gill-sightings) (1959) (Case 15 in [the “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
+(10) [McMinnville photos (1950)]({{ '/ufo-history/ufo/19500511-mcminnville-photographs' | relative_url }}) (Case 17 in [the “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
+(11) [Delphos case (1971)]({{ '/ufo-history/ufo/19711102-delphos-ring-incident' | relative_url }}) (Case 60 in [the “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
+(12) [Father Gill's New Guinea sighting]({{ '/ufo-history/ufo/19590626-father-gill-sightings' | relative_url }}) (1959) (Case 15 in [the “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
 (13) Various animal mutilation cases
-(14) [Roswell](/ufo-history/ufo/19470708-roswell-story) (Case 4 in [the “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
+(14) [Roswell]({{ '/ufo-history/ufo/19470708-roswell-story' | relative_url }}) (Case 4 in [the “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
 (15) Various crop circles
 (16) New Berlin UFO repair case (1964)
 (17) Various implant cases
-(18) [Cash-Landrum encounter](/ufo-history/ufo/19801229-cashlandrum-incident) (Case 30 in [the “Top 100” article](/ufog/best-ufo-cases/13-the-top-100-ufo-cases))
+(18) [Cash-Landrum encounter]({{ '/ufo-history/ufo/19801229-cashlandrum-incident' | relative_url }}) (Case 30 in [the “Top 100” article]({{ '/ufog/best-ufo-cases/13-the-top-100-ufo-cases' | relative_url }}))
 (19) Stanley Romanek case
 
 While the book edited by Dwight Connelly contains a lot of interesting information from several of the most famous UFO researchers, I wonder how many ufologists would agree that its contents do indeed represent “The World's Best UFO Cases”. In particular, I doubt that many ufologists would be keen to endorse a book which contains:

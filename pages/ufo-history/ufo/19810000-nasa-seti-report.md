@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/nasa_1.jpg"}
 ---
 
-![nasa_1](/images/stories/ufo_tags/nasa_1.jpg)
+![nasa_1]({{ '/images/stories/ufo_tags/nasa_1.jpg' | relative_url }})
 
 *NASA SETI report*
 
@@ -83,10 +83,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1978">1978</a></p>
+<p><a href="{{ '/tags/1978' | relative_url }}">1978</a></p>
 </td>
 <td valign="top" width="547">
-<p>Edelson, Edward in his “Who Goes There?” (<a href="/tags/1978">1978</a>) (available <a href="http://www.amazon.com/dp/0385112572/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0385112572/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 150 (in Chapter 11) of the NEL paperback edition (with the same page numbering in the NEL paperback edition combining this book and Chris Boyce’s “Extraterrestrial Encounter).</p>
+<p>Edelson, Edward in his “Who Goes There?” (<a href="{{ '/tags/1978' | relative_url }}">1978</a>) (available <a href="http://www.amazon.com/dp/0385112572/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0385112572/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 150 (in Chapter 11) of the NEL paperback edition (with the same page numbering in the NEL paperback edition combining this book and Chris Boyce’s “Extraterrestrial Encounter).</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -98,7 +98,7 @@ For discussion see the following:
 <a id="other"></a>
 ### Other Material
 
-[NASA](/ufo-history/ufo-personalities/nasa) Conference Publication 2151
+[NASA]({{ '/ufo-history/ufo-personalities/nasa' | relative_url }}) Conference Publication 2151
 
 Report available free online at:
 

@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/poll_1.jpg"}
 ---
 
-![poll_1](/images/stories/ufo_tags/poll_1.jpg)
+![poll_1]({{ '/images/stories/ufo_tags/poll_1.jpg' | relative_url }})
 
 *"New Scientist" ESP poll*
 
@@ -63,10 +63,10 @@ For discussion of this poll see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1977">1977</a></p>
+<p><a href="{{ '/tags/1977' | relative_url }}">1977</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/puthoff-hal">Puthoff, Hal</a> and <a href="/ufo-history/ufo-personalities/targ-russell">Targ, Russell</a> in their “<a href="/ufo-history/ufo-books/puthoff-hal-and-targ-russell-mind-reach-scientists-look-at-psychic-ability">Mind-Reach : Scientists Look at Psychic Ability</a>” (<a href="/tags/1977">1977</a>) (available <a href="http://www.amazon.com/dp/0440056888/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0440056888/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 167 (in Chapter 8) of the Jonathan Cape hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/puthoff-hal' | relative_url }}">Puthoff, Hal</a> and <a href="{{ '/ufo-history/ufo-personalities/targ-russell' | relative_url }}">Targ, Russell</a> in their “<a href="{{ '/ufo-history/ufo-books/puthoff-hal-and-targ-russell-mind-reach-scientists-look-at-psychic-ability' | relative_url }}">Mind-Reach : Scientists Look at Psychic Ability</a>” (<a href="{{ '/tags/1977' | relative_url }}">1977</a>) (available <a href="http://www.amazon.com/dp/0440056888/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0440056888/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 167 (in Chapter 8) of the Jonathan Cape hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

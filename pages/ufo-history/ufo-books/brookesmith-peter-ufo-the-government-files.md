@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0760702187.jpg"}
 book: {"identifiers": ["0760702187"], "primary_isbn": "0760702187", "cover_image": "/book-covers/0760702187.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Peter Brookesmith](/ufo-history/ufo-personalities/brookesmith-peter)'s book “[UFO: The Government Files](/ufo-history/ufo-books/brookesmith-peter-ufo-the-government-files)” ([1996](/tags/1996)) (available [on Amazon USA](http://www.amazon.com/dp/0760702187/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0760702187/?&tag=ufot-21))
+Brief review to be added of [Peter Brookesmith]({{ '/ufo-history/ufo-personalities/brookesmith-peter' | relative_url }})'s book “[UFO: The Government Files]({{ '/ufo-history/ufo-books/brookesmith-peter-ufo-the-government-files' | relative_url }})” ([1996]({{ '/tags/1996' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0760702187/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0760702187/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 

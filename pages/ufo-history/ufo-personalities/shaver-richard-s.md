@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/shaver_richard_1.jpg"}
 ---
 
-![shaver_richard_1](/images/stories/ufo_personalities/shaver_richard_1.jpg)
+![shaver_richard_1]({{ '/images/stories/ufo_personalities/shaver_richard_1.jpg' | relative_url }})
 
 *Richard Shaver*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1999">1999</a></p>
+<p><a href="{{ '/tags/1999' | relative_url }}">1999</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/childress-david-hatcher">Childress, David Hatcher</a> and <a href="/ufo-history/ufo-personalities/shaver-richard-s">Shaver, Richard</a> “Lost Continents and The Hollow Earth”</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/childress-david-hatcher' | relative_url }}">Childress, David Hatcher</a> and <a href="{{ '/ufo-history/ufo-personalities/shaver-richard-s' | relative_url }}">Shaver, Richard</a> “Lost Continents and The Hollow Earth”</p>
 </td>
 </tr>
 </tbody>
@@ -59,7 +59,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-See the references provided in [the entry on the Shaver Mystery](/ufo-history/ufo/19450300-shaver-mystery).
+See the references provided in [the entry on the Shaver Mystery]({{ '/ufo-history/ufo/19450300-shaver-mystery' | relative_url }}).
 
 <a id="other"></a>
 ### Other Material

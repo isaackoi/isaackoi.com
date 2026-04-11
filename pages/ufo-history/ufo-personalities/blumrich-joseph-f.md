@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/blumrich_joseph_1.jpg"}
 ---
 
-![blumrich_joseph_1](/images/stories/ufo_personalities/blumrich_joseph_1.jpg)
+![blumrich_joseph_1]({{ '/images/stories/ufo_personalities/blumrich_joseph_1.jpg' | relative_url }})
 
 *Joseph Blumrich*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1974">1974</a></p>
+<p><a href="{{ '/tags/1974' | relative_url }}">1974</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/blumrich-joseph-f">Blumrich, Joseph F</a> “<a href="/ufo-history/ufo-books/blumrich-joseph-f-the-spaceships-of-ezekiel">The Spaceships of Ezekiel</a>” (<a href="/tags/1974">1974</a>) (available <a href="http://www.amazon.com/dp/0552095567/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0552095567/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/blumrich-joseph-f' | relative_url }}">Blumrich, Joseph F</a> “<a href="{{ '/ufo-history/ufo-books/blumrich-joseph-f-the-spaceships-of-ezekiel' | relative_url }}">The Spaceships of Ezekiel</a>” (<a href="{{ '/tags/1974' | relative_url }}">1974</a>) (available <a href="http://www.amazon.com/dp/0552095567/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0552095567/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>
@@ -61,7 +61,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 
 Please use the comments section at the bottom of this page to share any relevant book references or other useful resources.
 
-See the refrerences provided in relation to Blumrich's book “[The Spaceships of Ezekiel](/ufo-history/ufo-books/blumrich-joseph-f-the-spaceships-of-ezekiel)” ([1974](/tags/1974)).
+See the refrerences provided in relation to Blumrich's book “[The Spaceships of Ezekiel]({{ '/ufo-history/ufo-books/blumrich-joseph-f-the-spaceships-of-ezekiel' | relative_url }})” ([1974]({{ '/tags/1974' | relative_url }})).
 
 <a id="other"></a>
 ### Other Material

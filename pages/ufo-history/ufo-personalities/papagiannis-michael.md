@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/papagiannis_michael_1.jpg"}
 ---
 
-![papagiannis_michael_1](/images/stories/ufo_personalities/papagiannis_michael_1.jpg)
+![papagiannis_michael_1]({{ '/images/stories/ufo_personalities/papagiannis_michael_1.jpg' | relative_url }})
 
 *Michael Papagiannis*
 

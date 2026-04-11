@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0935834648.jpg"}
 book: {"identifiers": ["0935834648", "087542001X"], "primary_isbn": "0935834648", "cover_image": "/book-covers/0935834648.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Berthold E Schwarz](/ufo-history/ufo-personalities/schwarz-berthold-e)'s book “UFO Dynamics: Psychiatric and Psychic Aspects of the UFO Syndrome” ([1983](/tags/1983)) (available [on Amazon USA](http://www.amazon.com/dp/0935834648/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0935834648/?&tag=ufot-21))
+Brief review to be added of [Berthold E Schwarz]({{ '/ufo-history/ufo-personalities/schwarz-berthold-e' | relative_url }})'s book “UFO Dynamics: Psychiatric and Psychic Aspects of the UFO Syndrome” ([1983]({{ '/tags/1983' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0935834648/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0935834648/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1986">1986</a></p>
+<p><a href="{{ '/tags/1986' | relative_url }}">1986</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/andrews-george-c">Andrews, George C</a> in his “<a href="/ufo-history/ufo-books/andrews-george-c-extra-terrestrials-among-us">Extra-Terrestrials Among Us</a>” (<a href="/tags/1986">1986</a>) (available <a href="http://www.amazon.com/dp/087542001X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/087542001X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 20-24 (in Chapter 1) of the Llewellyn softcover edition, at pages 23-28 of the Llewellyn paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/andrews-george-c' | relative_url }}">Andrews, George C</a> in his “<a href="{{ '/ufo-history/ufo-books/andrews-george-c-extra-terrestrials-among-us' | relative_url }}">Extra-Terrestrials Among Us</a>” (<a href="{{ '/tags/1986' | relative_url }}">1986</a>) (available <a href="http://www.amazon.com/dp/087542001X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/087542001X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 20-24 (in Chapter 1) of the Llewellyn softcover edition, at pages 23-28 of the Llewellyn paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>

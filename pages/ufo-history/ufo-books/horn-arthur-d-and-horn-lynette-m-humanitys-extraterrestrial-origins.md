@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/3931652319.jpg"}
 book: {"identifiers": ["3931652319"], "primary_isbn": "3931652319", "cover_image": "/book-covers/3931652319.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of “[Humanity's Extraterrestrial Origins](/ufo-history/ufo-books/horn-arthur-d-and-horn-lynette-m-humanitys-extraterrestrial-origins)” ([1994](/tags/1994)) (available [on Amazon USA](http://www.amazon.com/dp/3931652319/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/3931652319/?&tag=ufot-21)) by Arthur D Horn and Lynette M Horn.
+Brief review to be added of “[Humanity's Extraterrestrial Origins]({{ '/ufo-history/ufo-books/horn-arthur-d-and-horn-lynette-m-humanitys-extraterrestrial-origins' | relative_url }})” ([1994]({{ '/tags/1994' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/3931652319/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/3931652319/?&tag=ufot-21)) by Arthur D Horn and Lynette M Horn.
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/von-daniken-erich">Von Daniken, Erich</a> in “<a href="/ufo-history/ufo-books/horn-arthur-d-and-horn-lynette-m-humanitys-extraterrestrial-origins">Humanity's Extraterrestrial Origins</a>” (<a href="/tags/1994">1994</a>) (by Arthur D Horn and Lynette M Horn) at page xiii (in the Foreword) of the Silberschnur softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/von-daniken-erich' | relative_url }}">Von Daniken, Erich</a> in “<a href="{{ '/ufo-history/ufo-books/horn-arthur-d-and-horn-lynette-m-humanitys-extraterrestrial-origins' | relative_url }}">Humanity's Extraterrestrial Origins</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (by Arthur D Horn and Lynette M Horn) at page xiii (in the Foreword) of the Silberschnur softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

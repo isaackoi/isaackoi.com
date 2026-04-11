@@ -14,7 +14,7 @@ header: {"preview_image": null}
 book: {"identifiers": ["B001I43BGW", "B000EZY1RO", "B000GRISSS"]}
 ---
 
-Brief review to be added of “[Aids to Identification of Flying Objects](/ufo-history/ufo-books/usaf-aids-to-identification-of-flying-objects)” ([1968](/tags/1968)) (available [on Amazon USA](http://www.amazon.com/dp/B001I43BGW/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B001I43BGW/?&tag=ufot-21)) by the US Air Force
+Brief review to be added of “[Aids to Identification of Flying Objects]({{ '/ufo-history/ufo-books/usaf-aids-to-identification-of-flying-objects' | relative_url }})” ([1968]({{ '/tags/1968' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/B001I43BGW/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B001I43BGW/?&tag=ufot-21)) by the US Air Force
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1969">1969</a></p>
+<p><a href="{{ '/tags/1969' | relative_url }}">1969</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects">Condon Report</a> (“<a href="/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects">Scientific Study of Unidentified Flying Objects</a>”, Edward U Condon (Director) and Daniel S Gillmor (Editor) (<a href="/tags/1969">1969</a>)) (available <a href="http://www.amazon.com/dp/B000EZY1RO/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000EZY1RO/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 14 (in Section 2 “Summary of the Study”, by Edward U Condon) of the uncorrected version submitted to the Air Force (with the same page numbering in the 3 volume paperbound edition distributed by the National Technical Information Service, US Department of Commerce) at page 10 of the Vision hardback edition (with the same page numbering in the Bantam paperback edition). The first of these editions has the same page numbering as the edition available free online at the following link:</p>
+<p><a href="{{ '/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects' | relative_url }}">Condon Report</a> (“<a href="{{ '/ufo-history/ufo-books/condon-edward-scientific-study-of-unidentified-flying-objects' | relative_url }}">Scientific Study of Unidentified Flying Objects</a>”, Edward U Condon (Director) and Daniel S Gillmor (Editor) (<a href="{{ '/tags/1969' | relative_url }}">1969</a>)) (available <a href="http://www.amazon.com/dp/B000EZY1RO/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000EZY1RO/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 14 (in Section 2 “Summary of the Study”, by Edward U Condon) of the uncorrected version submitted to the Air Force (with the same page numbering in the 3 volume paperbound edition distributed by the National Technical Information Service, US Department of Commerce) at page 10 of the Vision hardback edition (with the same page numbering in the Bantam paperback edition). The first of these editions has the same page numbering as the edition available free online at the following link:</p>
 <p><a href="http://www.project1947.com/shg/condon/contents.html">http://www.project1947.com/shg/condon/contents.html</a></p>
 </td>
 <td valign="top" width="52">
@@ -67,9 +67,9 @@ For discussion see the following:
 </tbody>
 </table>
 
-Complete text of booklet presented in “[The Total UFO Story](/ufo-history/ufo-books/machlin-milt-the-total-ufo-story)” ([1979](/tags/1979)) (edited by Milt Machlin) (available [on Amazon USA](http://www.amazon.com/dp/B000GRISSS/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B000GRISSS/ref=nosim?tag=ufot-21)) at pages 288-312 (in Chapter 18 generally) of the Dale paperback edition.
+Complete text of booklet presented in “[The Total UFO Story]({{ '/ufo-history/ufo-books/machlin-milt-the-total-ufo-story' | relative_url }})” ([1979]({{ '/tags/1979' | relative_url }})) (edited by Milt Machlin) (available [on Amazon USA](http://www.amazon.com/dp/B000GRISSS/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B000GRISSS/ref=nosim?tag=ufot-21)) at pages 288-312 (in Chapter 18 generally) of the Dale paperback edition.
 
-Complete images of the relevant booklet included on the redacted US National Archives and Records Administration (“NARA”) microfilm records of Project Blue Book, released to the National Archives in [1975](/tags/1975) – see National Archives Microfilm Publication T1206 roll number 86 (“Administrative Files: Box 3”). Images of the relevant pages are at the link below from the page with the unique Page ID (“PID”) of NARA-PBB86-922 (page 922 of 1249) to the page with the PID of NARA-PBB86-959 (page 959 of 1249).
+Complete images of the relevant booklet included on the redacted US National Archives and Records Administration (“NARA”) microfilm records of Project Blue Book, released to the National Archives in [1975]({{ '/tags/1975' | relative_url }}) – see National Archives Microfilm Publication T1206 roll number 86 (“Administrative Files: Box 3”). Images of the relevant pages are at the link below from the page with the unique Page ID (“PID”) of NARA-PBB86-922 (page 922 of 1249) to the page with the PID of NARA-PBB86-959 (page 959 of 1249).
 
 http://www.bluebookarchive.org
 

@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0743497538.jpg"}
 book: {"identifiers": ["0743497538"], "primary_isbn": "0743497538", "cover_image": "/book-covers/0743497538.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of [Nicholas Redfern](/ufo-history/ufo-personalities/redfern-nicholas)'s book “[On the Trail of the Saucer Spies: UFOs and Government Surveillance](/ufo-history/ufo-books/redfern-nicholas-on-the-trail-of-the-saucer-spies)” ([2006](/tags/2006)) (available [on Amazon USA](http://www.amazon.com/dp/0743497538/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0743497538/?&tag=ufot-21)).
+Brief review to be added of [Nicholas Redfern]({{ '/ufo-history/ufo-personalities/redfern-nicholas' | relative_url }})'s book “[On the Trail of the Saucer Spies: UFOs and Government Surveillance]({{ '/ufo-history/ufo-books/redfern-nicholas-on-the-trail-of-the-saucer-spies' | relative_url }})” ([2006]({{ '/tags/2006' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0743497538/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0743497538/?&tag=ufot-21)).
 
 1. [Web Resources](#web)
 

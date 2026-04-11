@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/seti_1.jpg"}
 ---
 
-![seti_1](/images/stories/ufo_tags/seti_1.jpg)
+![seti_1]({{ '/images/stories/ufo_tags/seti_1.jpg' | relative_url }})
 
 *Ukraine LINCOS transmissions*
 
@@ -67,10 +67,10 @@ For discussion of these transmissions see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p>Clark, Stuart in his “<a href="/ufo-history/ufo-books/clark-stuart-life-on-other-worlds-and-how-to-find-it">Life on Other Worlds and How to Find It</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/185233097X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/185233097X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 145-146 (in Chapter 10) of the Springer hardback edition.</p>
+<p>Clark, Stuart in his “<a href="{{ '/ufo-history/ufo-books/clark-stuart-life-on-other-worlds-and-how-to-find-it' | relative_url }}">Life on Other Worlds and How to Find It</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/185233097X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/185233097X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 145-146 (in Chapter 10) of the Springer hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -78,10 +78,10 @@ For discussion of these transmissions see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/darling-david">Darling, David</a> in his “<a href="/ufo-history/ufo-books/darling-david-the-extraterrestrial-encyclopedia">The Extraterrestrial Encyclopedia</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/081293248X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/081293248X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 71 (in the entry entitled “CETI”), 127 (in the entry entitled “Encounter <a href="/tags/2001">2001</a> message”) of the Three Rivers softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/darling-david' | relative_url }}">Darling, David</a> in his “<a href="{{ '/ufo-history/ufo-books/darling-david-the-extraterrestrial-encyclopedia' | relative_url }}">The Extraterrestrial Encyclopedia</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/081293248X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/081293248X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 71 (in the entry entitled “CETI”), 127 (in the entry entitled “Encounter <a href="{{ '/tags/2001' | relative_url }}">2001</a> message”) of the Three Rivers softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -89,10 +89,10 @@ For discussion of these transmissions see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p>Lamb, David in his “<a href="/ufo-history/ufo-books/lamb-david-the-search-of-extraterrestrial-intelligence-a-philosophical-inquiry">The Search for Extraterrestrial Intelligence : A Philosophical Inquiry</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/0415243424/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0415243424/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 33-34 (in Chapter 1) of the Routledge softcover edition.</p>
+<p>Lamb, David in his “<a href="{{ '/ufo-history/ufo-books/lamb-david-the-search-of-extraterrestrial-intelligence-a-philosophical-inquiry' | relative_url }}">The Search for Extraterrestrial Intelligence : A Philosophical Inquiry</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/0415243424/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0415243424/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 33-34 (in Chapter 1) of the Routledge softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -100,10 +100,10 @@ For discussion of these transmissions see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p>McConnell, Brian in his “<a href="/ufo-history/ufo-books/mcdonnell-brian-beyond-contact-a-guide-to-seti-and-communicating-with-alien-civilizations">Beyond Contact : A Guide to SETI and Communicating with Alien Civilizations</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/0596000375/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0596000375/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 190-192 (in Chapter 11) of the O’Reilly hardback edition.</p>
+<p>McConnell, Brian in his “<a href="{{ '/ufo-history/ufo-books/mcdonnell-brian-beyond-contact-a-guide-to-seti-and-communicating-with-alien-civilizations' | relative_url }}">Beyond Contact : A Guide to SETI and Communicating with Alien Civilizations</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/0596000375/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0596000375/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 190-192 (in Chapter 11) of the O’Reilly hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -111,10 +111,10 @@ For discussion of these transmissions see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2002">2002</a></p>
+<p><a href="{{ '/tags/2002' | relative_url }}">2002</a></p>
 </td>
 <td valign="top" width="547">
-<p>Webb, Stephen in his “<a href="/ufo-history/ufo-books/webb-stephen-where-is-everybody-fifty-solutions-to-the-fermi-paradox">Where is Everybody?: Fifty Solutions to the Fermi Paradox</a>” (<a href="/tags/2002">2002</a>) (available <a href="http://www.amazon.com/dp/0387955011/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0387955011/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 111 (in Chapter 4), 260 (in the Notes and Further Reading) of the Copernicus hardback edition.</p>
+<p>Webb, Stephen in his “<a href="{{ '/ufo-history/ufo-books/webb-stephen-where-is-everybody-fifty-solutions-to-the-fermi-paradox' | relative_url }}">Where is Everybody?: Fifty Solutions to the Fermi Paradox</a>” (<a href="{{ '/tags/2002' | relative_url }}">2002</a>) (available <a href="http://www.amazon.com/dp/0387955011/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0387955011/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 111 (in Chapter 4), 260 (in the Notes and Further Reading) of the Copernicus hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -146,10 +146,10 @@ For discussion of LINCOS see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1974">1974</a></p>
+<p><a href="{{ '/tags/1974' | relative_url }}">1974</a></p>
 </td>
 <td valign="top" width="547">
-<p>Arbib, Michael in “Interstellar Communication : Scientific Perspectives” (<a href="/tags/1974">1974</a>) (edited by Cyril Ponnamperuma and A G W Cameron) (available <a href="http://www.amazon.com/dp/0395178096/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0395178096/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 77 (in Chapter 4) of the Houghton Mifflin softcover edition.</p>
+<p>Arbib, Michael in “Interstellar Communication : Scientific Perspectives” (<a href="{{ '/tags/1974' | relative_url }}">1974</a>) (edited by Cyril Ponnamperuma and A G W Cameron) (available <a href="http://www.amazon.com/dp/0395178096/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0395178096/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 77 (in Chapter 4) of the Houghton Mifflin softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -157,10 +157,10 @@ For discussion of LINCOS see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1987">1987</a></p>
+<p><a href="{{ '/tags/1987' | relative_url }}">1987</a></p>
 </td>
 <td valign="top" width="547">
-<p>Baird, John C in his “<a href="/ufo-history/ufo-books/baird-john-c-the-inner-limits-of-outer-space">The Inner Limits of Outer Space</a>” (<a href="/tags/1987">1987</a>) (available <a href="http://www.amazon.com/dp/0874514223/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0874514223/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 183 (in Chapter 11) of the Dartmouth hardback edition.</p>
+<p>Baird, John C in his “<a href="{{ '/ufo-history/ufo-books/baird-john-c-the-inner-limits-of-outer-space' | relative_url }}">The Inner Limits of Outer Space</a>” (<a href="{{ '/tags/1987' | relative_url }}">1987</a>) (available <a href="http://www.amazon.com/dp/0874514223/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0874514223/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 183 (in Chapter 11) of the Dartmouth hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -168,10 +168,10 @@ For discussion of LINCOS see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1963">1963</a></p>
+<p><a href="{{ '/tags/1963' | relative_url }}">1963</a></p>
 </td>
 <td valign="top" width="547">
-<p>Cameron, A G W in “Interstellar Communication : A Collection of Reprints and Original Contributions” (<a href="/tags/1963">1963</a>) (edited by A G W Cameron) (available <a href="http://www.amazon.com/dp/B000Q9VTPU/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000Q9VTPU/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 315 (in Chapter 31) of the W A Benjamin hardback edition.</p>
+<p>Cameron, A G W in “Interstellar Communication : A Collection of Reprints and Original Contributions” (<a href="{{ '/tags/1963' | relative_url }}">1963</a>) (edited by A G W Cameron) (available <a href="http://www.amazon.com/dp/B000Q9VTPU/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000Q9VTPU/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 315 (in Chapter 31) of the W A Benjamin hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -179,10 +179,10 @@ For discussion of LINCOS see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p>Clark, Stuart in his “<a href="/ufo-history/ufo-books/clark-stuart-life-on-other-worlds-and-how-to-find-it">Life on Other Worlds and How to Find It</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/185233097X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/185233097X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 145 (in Chapter 10) of the Springer hardback edition.</p>
+<p>Clark, Stuart in his “<a href="{{ '/ufo-history/ufo-books/clark-stuart-life-on-other-worlds-and-how-to-find-it' | relative_url }}">Life on Other Worlds and How to Find It</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/185233097X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/185233097X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 145 (in Chapter 10) of the Springer hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -190,10 +190,10 @@ For discussion of LINCOS see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/darling-david">Darling, David</a> in his “<a href="/ufo-history/ufo-books/darling-david-the-extraterrestrial-encyclopedia">The Extraterrestrial Encyclopedia</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/081293248X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/081293248X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 239 (in the entry entitled “LINCOS”) of the Three Rivers softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/darling-david' | relative_url }}">Darling, David</a> in his “<a href="{{ '/ufo-history/ufo-books/darling-david-the-extraterrestrial-encyclopedia' | relative_url }}">The Extraterrestrial Encyclopedia</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/081293248X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/081293248X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 239 (in the entry entitled “LINCOS”) of the Three Rivers softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -201,10 +201,10 @@ For discussion of LINCOS see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2003">2003</a></p>
+<p><a href="{{ '/tags/2003' | relative_url }}">2003</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/darling-david">Darling, David</a> in his online encyclopedia, “The Encyclopedia of Astrobiology, Astronomy and Spaceflight” (<a href="/tags/2003">2003</a>) in the entry entitled “Lincos”. The relevant entry is available online at:</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/darling-david' | relative_url }}">Darling, David</a> in his online encyclopedia, “The Encyclopedia of Astrobiology, Astronomy and Spaceflight” (<a href="{{ '/tags/2003' | relative_url }}">2003</a>) in the entry entitled “Lincos”. The relevant entry is available online at:</p>
 <p><a href="http://www.daviddarling.info/encyclopedia/L/Lincos.html">http://www.daviddarling.info/encyclopedia/L/Lincos.html</a></p>
 </td>
 <td valign="top" width="52">
@@ -213,10 +213,10 @@ For discussion of LINCOS see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1985">1985</a></p>
+<p><a href="{{ '/tags/1985' | relative_url }}">1985</a></p>
 </td>
 <td valign="top" width="547">
-<p>Deavours, Cipher A in “Extraterrestrials: Science and alien intelligence” (<a href="/tags/1985">1985</a>) (edited by Edward Regis) (available <a href="http://www.amazon.com/dp/0521262275/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521262275/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 203 (in Part 5) of the Cambridge University Press softcover edition.</p>
+<p>Deavours, Cipher A in “Extraterrestrials: Science and alien intelligence” (<a href="{{ '/tags/1985' | relative_url }}">1985</a>) (edited by Edward Regis) (available <a href="http://www.amazon.com/dp/0521262275/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521262275/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 203 (in Part 5) of the Cambridge University Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -224,10 +224,10 @@ For discussion of LINCOS see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1974">1974</a></p>
+<p><a href="{{ '/tags/1974' | relative_url }}">1974</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/drake-frank">Drake, Frank</a> in “Interstellar Communication : Scientific Perspectives” (<a href="/tags/1974">1974</a>) (edited by Cyril Ponnamperuma and A G W Cameron) (available <a href="http://www.amazon.com/dp/0395178096/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0395178096/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 135 (in Chapter 8) of the Houghton Mifflin softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/drake-frank' | relative_url }}">Drake, Frank</a> in “Interstellar Communication : Scientific Perspectives” (<a href="{{ '/tags/1974' | relative_url }}">1974</a>) (edited by Cyril Ponnamperuma and A G W Cameron) (available <a href="http://www.amazon.com/dp/0395178096/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0395178096/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 135 (in Chapter 8) of the Houghton Mifflin softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -235,10 +235,10 @@ For discussion of LINCOS see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1985">1985</a></p>
+<p><a href="{{ '/tags/1985' | relative_url }}">1985</a></p>
 </td>
 <td valign="top" width="547">
-<p>Freudenthal, Hans in “Extraterrestrials: Science and alien intelligence” (<a href="/tags/1985">1985</a>) (edited by Edward Regis) (available <a href="http://www.amazon.com/dp/0521262275/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521262275/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 215-228 (in Part 5) of the Cambridge University Press softcover edition.</p>
+<p>Freudenthal, Hans in “Extraterrestrials: Science and alien intelligence” (<a href="{{ '/tags/1985' | relative_url }}">1985</a>) (edited by Edward Regis) (available <a href="http://www.amazon.com/dp/0521262275/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521262275/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 215-228 (in Part 5) of the Cambridge University Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>14</p>
@@ -246,10 +246,10 @@ For discussion of LINCOS see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/harrison-albert-a">Harrison, Albert A</a> in his “<a href="/ufo-history/ufo-books/harrison-albert-a-after-contact-the-human-response-to-extraterrestrial-life">After Contact: The Human Response to Extraterrestrial Life</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0306456214/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0306456214/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 59-60 (in Chapter 2) of the Plenum Trade hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/harrison-albert-a' | relative_url }}">Harrison, Albert A</a> in his “<a href="{{ '/ufo-history/ufo-books/harrison-albert-a-after-contact-the-human-response-to-extraterrestrial-life' | relative_url }}">After Contact: The Human Response to Extraterrestrial Life</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0306456214/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0306456214/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 59-60 (in Chapter 2) of the Plenum Trade hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -257,10 +257,10 @@ For discussion of LINCOS see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1988">1988</a></p>
+<p><a href="{{ '/tags/1988' | relative_url }}">1988</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/keel-john-a">Keel, John A</a> in his “<a href="/ufo-history/ufo-books/keel-john-disneyland-of-the-gods">Disneyland of the Gods</a>” (<a href="/tags/1988">1988</a>) (available <a href="http://www.amazon.com/dp/1881532062/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1881532062/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 44, 46 (in the unnumbered chapter entitled “Living Legends and Dying Worlds”) of the I-Net softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/keel-john-a' | relative_url }}">Keel, John A</a> in his “<a href="{{ '/ufo-history/ufo-books/keel-john-disneyland-of-the-gods' | relative_url }}">Disneyland of the Gods</a>” (<a href="{{ '/tags/1988' | relative_url }}">1988</a>) (available <a href="http://www.amazon.com/dp/1881532062/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1881532062/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 44, 46 (in the unnumbered chapter entitled “Living Legends and Dying Worlds”) of the I-Net softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -268,10 +268,10 @@ For discussion of LINCOS see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p>Lamb, David in his “<a href="/ufo-history/ufo-books/lamb-david-the-search-of-extraterrestrial-intelligence-a-philosophical-inquiry">The Search for Extraterrestrial Intelligence : A Philosophical Inquiry</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/0415243424/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0415243424/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 32-33, 33-34 (in Chapter 1) of the Routledge softcover edition.</p>
+<p>Lamb, David in his “<a href="{{ '/ufo-history/ufo-books/lamb-david-the-search-of-extraterrestrial-intelligence-a-philosophical-inquiry' | relative_url }}">The Search for Extraterrestrial Intelligence : A Philosophical Inquiry</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/0415243424/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0415243424/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 32-33, 33-34 (in Chapter 1) of the Routledge softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -279,10 +279,10 @@ For discussion of LINCOS see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p>McConnell, Brian in his “<a href="/ufo-history/ufo-books/mcdonnell-brian-beyond-contact-a-guide-to-seti-and-communicating-with-alien-civilizations">Beyond Contact : A Guide to SETI and Communicating with Alien Civilizations</a>” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/0596000375/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0596000375/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 192, 194 (in Chapter 11) of the O’Reilly hardback edition.</p>
+<p>McConnell, Brian in his “<a href="{{ '/ufo-history/ufo-books/mcdonnell-brian-beyond-contact-a-guide-to-seti-and-communicating-with-alien-civilizations' | relative_url }}">Beyond Contact : A Guide to SETI and Communicating with Alien Civilizations</a>” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/0596000375/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0596000375/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 192, 194 (in Chapter 11) of the O’Reilly hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -290,10 +290,10 @@ For discussion of LINCOS see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1985">1985</a></p>
+<p><a href="{{ '/tags/1985' | relative_url }}">1985</a></p>
 </td>
 <td valign="top" width="547">
-<p>Minsky, Marvin in “Extraterrestrials: Science and alien intelligence” (<a href="/tags/1985">1985</a>) (edited by Edward Regis) (available <a href="http://www.amazon.com/dp/0521262275/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521262275/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 127, 128 (in Part 3) of the Cambridge University Press softcover edition.</p>
+<p>Minsky, Marvin in “Extraterrestrials: Science and alien intelligence” (<a href="{{ '/tags/1985' | relative_url }}">1985</a>) (edited by Edward Regis) (available <a href="http://www.amazon.com/dp/0521262275/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521262275/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 127, 128 (in Part 3) of the Cambridge University Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -301,10 +301,10 @@ For discussion of LINCOS see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p>Pickover, Clifford in his “<a href="/ufo-history/ufo-books/pickover-clifford-the-science-of-aliens">The Science of Aliens</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0465073158/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0465073158/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 149-150 (in Chapter 7), 206 (in the Notes) of the Basic Books hardback edition.</p>
+<p>Pickover, Clifford in his “<a href="{{ '/ufo-history/ufo-books/pickover-clifford-the-science-of-aliens' | relative_url }}">The Science of Aliens</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0465073158/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0465073158/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 149-150 (in Chapter 7), 206 (in the Notes) of the Basic Books hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -312,10 +312,10 @@ For discussion of LINCOS see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1985">1985</a></p>
+<p><a href="{{ '/tags/1985' | relative_url }}">1985</a></p>
 </td>
 <td valign="top" width="547">
-<p>Regis, Edward in “Extraterrestrials: Science and alien intelligence” (<a href="/tags/1985">1985</a>) (edited by Edward Regis) (available <a href="http://www.amazon.com/dp/0521262275/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521262275/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 165 (in Part 5) of the Cambridge University Press softcover edition.</p>
+<p>Regis, Edward in “Extraterrestrials: Science and alien intelligence” (<a href="{{ '/tags/1985' | relative_url }}">1985</a>) (edited by Edward Regis) (available <a href="http://www.amazon.com/dp/0521262275/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0521262275/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 165 (in Part 5) of the Cambridge University Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -323,10 +323,10 @@ For discussion of LINCOS see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1973">1973</a></p>
+<p><a href="{{ '/tags/1973' | relative_url }}">1973</a></p>
 </td>
 <td valign="top" width="547">
-<p>Roulet, Alfred in his “The Search for Intelligent Life in Outer Space” (<a href="/tags/1973">1973</a>) (available <a href="http://www.amazon.com/dp/0425033198/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0425033198/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 47-48 (in the unnumbered chapter entitled “Hello, Out There”) of the Berkley paperback edition.</p>
+<p>Roulet, Alfred in his “The Search for Intelligent Life in Outer Space” (<a href="{{ '/tags/1973' | relative_url }}">1973</a>) (available <a href="http://www.amazon.com/dp/0425033198/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0425033198/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 47-48 (in the unnumbered chapter entitled “Hello, Out There”) of the Berkley paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -334,10 +334,10 @@ For discussion of LINCOS see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1990">1990</a></p>
+<p><a href="{{ '/tags/1990' | relative_url }}">1990</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/seeger-charles">Seeger, Charles</a> L in an interview in David W Swift’s “<a href="/ufo-history/ufo-books/swift-david-w-seti-pioneers-scientists-talk-about-their-search-for-extraterrestrial-intelligence">SETI Pioneers : Scientists Talk About Their Search for Extraterrestrial Intelligence</a>” (<a href="/tags/1990">1990</a>) (available <a href="http://www.amazon.com/dp/0816511195/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0816511195/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 292-293 (in the unnumbered chapter entitled “Charles L Seeger”) of the Arizona hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/seeger-charles' | relative_url }}">Seeger, Charles</a> L in an interview in David W Swift’s “<a href="{{ '/ufo-history/ufo-books/swift-david-w-seti-pioneers-scientists-talk-about-their-search-for-extraterrestrial-intelligence' | relative_url }}">SETI Pioneers : Scientists Talk About Their Search for Extraterrestrial Intelligence</a>” (<a href="{{ '/tags/1990' | relative_url }}">1990</a>) (available <a href="http://www.amazon.com/dp/0816511195/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0816511195/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 292-293 (in the unnumbered chapter entitled “Charles L Seeger”) of the Arizona hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -345,10 +345,10 @@ For discussion of LINCOS see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1966">1966</a></p>
+<p><a href="{{ '/tags/1966' | relative_url }}">1966</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/shklovskii-i-s">Shklovskii, Iosef Shmuelovich</a> and <a href="/ufo-history/ufo-personalities/sagan-carl">Sagan, Carl</a> in their “<a href="/ufo-history/ufo-books/shklovskii-i-s-and-sagan-carl-intelligent-life-in-the-universe">Intelligent Life in the Universe</a>” (<a href="/tags/1966">1966</a>) (available <a href="http://www.amazon.com/dp/189280302X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/189280302X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 428-430 (in Chapter 30), 439-440 (in Chapter 32) of the Picador softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/shklovskii-i-s' | relative_url }}">Shklovskii, Iosef Shmuelovich</a> and <a href="{{ '/ufo-history/ufo-personalities/sagan-carl' | relative_url }}">Sagan, Carl</a> in their “<a href="{{ '/ufo-history/ufo-books/shklovskii-i-s-and-sagan-carl-intelligent-life-in-the-universe' | relative_url }}">Intelligent Life in the Universe</a>” (<a href="{{ '/tags/1966' | relative_url }}">1966</a>) (available <a href="http://www.amazon.com/dp/189280302X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/189280302X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 428-430 (in Chapter 30), 439-440 (in Chapter 32) of the Picador softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>5</p>
@@ -356,10 +356,10 @@ For discussion of LINCOS see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1975">1975</a></p>
+<p><a href="{{ '/tags/1975' | relative_url }}">1975</a></p>
 </td>
 <td valign="top" width="547">
-<p>Stern, Donald K in “<a href="/ufo-history/ufo-books/maruyama-magoroh-and-harkins-arthur-editors-cultures-beyond-the-earth-the-role-of-anthropology-in-outer-space">Cultures beyond the Earth : The Role of Anthropology in Outer Space</a>” (<a href="/tags/1975">1975</a>) (edited by Magoroh Maruyama and Arthur Harkins) (available <a href="http://www.amazon.com/dp/B000NVY6YW/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000NVY6YW/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 33-35 (in Chapter 2) of the Vintage paperback edition.</p>
+<p>Stern, Donald K in “<a href="{{ '/ufo-history/ufo-books/maruyama-magoroh-and-harkins-arthur-editors-cultures-beyond-the-earth-the-role-of-anthropology-in-outer-space' | relative_url }}">Cultures beyond the Earth : The Role of Anthropology in Outer Space</a>” (<a href="{{ '/tags/1975' | relative_url }}">1975</a>) (edited by Magoroh Maruyama and Arthur Harkins) (available <a href="http://www.amazon.com/dp/B000NVY6YW/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000NVY6YW/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 33-35 (in Chapter 2) of the Vintage paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>
@@ -367,10 +367,10 @@ For discussion of LINCOS see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1964">1964</a></p>
+<p><a href="{{ '/tags/1964' | relative_url }}">1964</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/sullivan-walter">Sullivan, Walter</a> in his “<a href="/ufo-history/ufo-books/sullivan-walter-we-are-not-alone">We Are Not Alone</a>” (<a href="/tags/1964">1964</a>) (available <a href="http://www.amazon.com/dp/B00005X52F/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B00005X52F/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 268-270 (in Chapter 18) of the Signet paperback revised editions.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/sullivan-walter' | relative_url }}">Sullivan, Walter</a> in his “<a href="{{ '/ufo-history/ufo-books/sullivan-walter-we-are-not-alone' | relative_url }}">We Are Not Alone</a>” (<a href="{{ '/tags/1964' | relative_url }}">1964</a>) (available <a href="http://www.amazon.com/dp/B00005X52F/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B00005X52F/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 268-270 (in Chapter 18) of the Signet paperback revised editions.</p>
 </td>
 <td valign="top" width="52">
 <p>3</p>

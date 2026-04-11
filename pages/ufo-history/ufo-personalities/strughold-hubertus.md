@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/strughold_hubertus_2.jpg"}
 ---
 
-![strughold_hubertus_2](/images/stories/ufo_personalities/strughold_hubertus_2.jpg)
+![strughold_hubertus_2]({{ '/images/stories/ufo_personalities/strughold_hubertus_2.jpg' | relative_url }})
 
 *Hubertus Strughold*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1954">1954</a></p>
+<p><a href="{{ '/tags/1954' | relative_url }}">1954</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/strughold-hubertus">Strughold, Hubertus</a> “<a href="/ufo-history/ufo-books/strughold-hubertus-the-green-and-red-planet">The Green and Red Planet</a>” (<a href="/tags/1954">1954</a>) (available <a href="http://www.amazon.com/dp/B000IOHL3C/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000IOHL3C/?&amp;tag=ufot-21">on Amazon UK</a>) (<a href="/tags/seti">SETI</a>:)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/strughold-hubertus' | relative_url }}">Strughold, Hubertus</a> “<a href="{{ '/ufo-history/ufo-books/strughold-hubertus-the-green-and-red-planet' | relative_url }}">The Green and Red Planet</a>” (<a href="{{ '/tags/1954' | relative_url }}">1954</a>) (available <a href="http://www.amazon.com/dp/B000IOHL3C/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000IOHL3C/?&amp;tag=ufot-21">on Amazon UK</a>) (<a href="{{ '/tags/seti' | relative_url }}">SETI</a>:)</p>
 </td>
 </tr>
 </tbody>

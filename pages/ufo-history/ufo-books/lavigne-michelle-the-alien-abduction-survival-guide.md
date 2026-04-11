@@ -14,7 +14,7 @@ header: {"preview_image": "/book-covers/0970263015.jpg"}
 book: {"identifiers": ["0970263015"], "primary_isbn": "0970263015", "cover_image": "/book-covers/0970263015.jpg", "cover_source": "local-cache"}
 ---
 
-Brief review to be added of Michelle LaVigne's book “[The Alien Abduction Survival Guide](/ufo-history/ufo-books/lavigne-michelle-the-alien-abduction-survival-guide)” ([1995](/tags/1995)) (available [on Amazon USA](http://www.amazon.com/dp/0970263015/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0970263015/?&tag=ufot-21))
+Brief review to be added of Michelle LaVigne's book “[The Alien Abduction Survival Guide]({{ '/ufo-history/ufo-books/lavigne-michelle-the-alien-abduction-survival-guide' | relative_url }})” ([1995]({{ '/tags/1995' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0970263015/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0970263015/?&tag=ufot-21))
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1995">1995</a></p>
+<p><a href="{{ '/tags/1995' | relative_url }}">1995</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/davenport-marc">Davenport, Marc</a> in Michelle LaVigne’s “<a href="/ufo-history/ufo-books/lavigne-michelle-the-alien-abduction-survival-guide">The Alien Abduction Survival Guide</a>” (<a href="/tags/1995">1995</a>) at pages ix-x (in the Foreword) of the Wild Flower Press softback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/davenport-marc' | relative_url }}">Davenport, Marc</a> in Michelle LaVigne’s “<a href="{{ '/ufo-history/ufo-books/lavigne-michelle-the-alien-abduction-survival-guide' | relative_url }}">The Alien Abduction Survival Guide</a>” (<a href="{{ '/tags/1995' | relative_url }}">1995</a>) at pages ix-x (in the Foreword) of the Wild Flower Press softback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

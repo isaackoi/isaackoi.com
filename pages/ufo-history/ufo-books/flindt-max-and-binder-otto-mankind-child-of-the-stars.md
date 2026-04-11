@@ -14,7 +14,7 @@ header: {"preview_image": "https://covers.openlibrary.org/b/isbn/1886940061-L.jp
 book: {"identifiers": ["1886940061", "0806507632"], "primary_isbn": "1886940061", "cover_image": "https://covers.openlibrary.org/b/isbn/1886940061-L.jpg?default=false", "cover_source": "openlibrary"}
 ---
 
-Brief review to be added of [Max Flindt](/ufo-history/ufo-personalities/flindt-max) and [Otto Binder](/ufo-history/ufo-personalities/binder-otto)'s book “[Mankind – Child of the Stars](/ufo-history/ufo-books/flindt-max-and-binder-otto-mankind-child-of-the-stars)” ([1974](/tags/1974)) (available [on Amazon USA](http://www.amazon.com/dp/1886940061/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1886940061/?&tag=ufot-21)).
+Brief review to be added of [Max Flindt]({{ '/ufo-history/ufo-personalities/flindt-max' | relative_url }}) and [Otto Binder]({{ '/ufo-history/ufo-personalities/binder-otto' | relative_url }})'s book “[Mankind – Child of the Stars]({{ '/ufo-history/ufo-books/flindt-max-and-binder-otto-mankind-child-of-the-stars' | relative_url }})” ([1974]({{ '/tags/1974' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/1886940061/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/1886940061/?&tag=ufot-21)).
 
 A book based on Maz Flindt’s original pamphlet, “On Tiptoe Beyond Darwin”.
 
@@ -54,10 +54,10 @@ Many of the tables of references on this website are considerably longer than th
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1978">1978</a></p>
+<p><a href="{{ '/tags/1978' | relative_url }}">1978</a></p>
 </td>
 <td valign="top" width="547">
-<p>Briazack, Norman and Mennick, Simon in their “<a href="/ufo-history/ufo-books/briazack-norman-and-mennick-simon-the-ufo-guidebook">The UFO Guidebook</a>” (<a href="/tags/1978">1978</a>) (available <a href="http://www.amazon.com/dp/0806507632/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806507632/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 90-91 (in the entry entitled “<a href="/ufo-history/ufo-personalities/flindt-max">Flindt, Max</a> H”) of the Citadel softcover edition.</p>
+<p>Briazack, Norman and Mennick, Simon in their “<a href="{{ '/ufo-history/ufo-books/briazack-norman-and-mennick-simon-the-ufo-guidebook' | relative_url }}">The UFO Guidebook</a>” (<a href="{{ '/tags/1978' | relative_url }}">1978</a>) (available <a href="http://www.amazon.com/dp/0806507632/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0806507632/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 90-91 (in the entry entitled “<a href="{{ '/ufo-history/ufo-personalities/flindt-max' | relative_url }}">Flindt, Max</a> H”) of the Citadel softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -65,10 +65,10 @@ Many of the tables of references on this website are considerably longer than th
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1980">1980</a></p>
+<p><a href="{{ '/tags/1980' | relative_url }}">1980</a></p>
 </td>
 <td valign="top" width="547">
-<p>Greenwell, Richard in “<a href="/ufo-history/ufo-books/story-ronald-guardians-of-the-universe">Guardians of the Universe?</a>” (<a href="/tags/1980">1980</a>) (by <a href="/ufo-history/ufo-personalities/story-ronald">Ronald Story</a>) at pages 153-169 (in the Appendix generally) of the New English Library paperback edition.</p>
+<p>Greenwell, Richard in “<a href="{{ '/ufo-history/ufo-books/story-ronald-guardians-of-the-universe' | relative_url }}">Guardians of the Universe?</a>” (<a href="{{ '/tags/1980' | relative_url }}">1980</a>) (by <a href="{{ '/ufo-history/ufo-personalities/story-ronald' | relative_url }}">Ronald Story</a>) at pages 153-169 (in the Appendix generally) of the New English Library paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>17</p>
@@ -76,10 +76,10 @@ Many of the tables of references on this website are considerably longer than th
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1974">1974</a></p>
+<p><a href="{{ '/tags/1974' | relative_url }}">1974</a></p>
 </td>
 <td valign="top" width="547">
-<p>Von Dankien, Erich in “<a href="/ufo-history/ufo-books/flindt-max-and-binder-otto-mankind-child-of-the-stars">Mankind – Child of the Stars</a>” (<a href="/tags/1974">1974</a>) (by Max H Flindt and Otto Binder) at pages 10, 12 (in the Foreword) of the Fawcett paperback edition.</p>
+<p>Von Dankien, Erich in “<a href="{{ '/ufo-history/ufo-books/flindt-max-and-binder-otto-mankind-child-of-the-stars' | relative_url }}">Mankind – Child of the Stars</a>” (<a href="{{ '/tags/1974' | relative_url }}">1974</a>) (by Max H Flindt and Otto Binder) at pages 10, 12 (in the Foreword) of the Fawcett paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

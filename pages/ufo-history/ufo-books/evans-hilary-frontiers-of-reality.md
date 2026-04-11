@@ -14,7 +14,7 @@ header: {"preview_image": "https://covers.openlibrary.org/b/isbn/0850308097-L.jp
 book: {"identifiers": ["0850308097"], "primary_isbn": "0850308097", "cover_image": "https://covers.openlibrary.org/b/isbn/0850308097-L.jpg?default=false", "cover_source": "openlibrary"}
 ---
 
-Brief review to be added of “[Frontiers of Reality](/ufo-history/ufo-books/evans-hilary-frontiers-of-reality)” ([1989](/tags/1989)) (available [on Amazon USA](http://www.amazon.com/dp/0850308097/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0850308097/?&tag=ufot-21)) edited by [Hilary Evans](/ufo-history/ufo-personalities/evans-hilary).
+Brief review to be added of “[Frontiers of Reality]({{ '/ufo-history/ufo-books/evans-hilary-frontiers-of-reality' | relative_url }})” ([1989]({{ '/tags/1989' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0850308097/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0850308097/?&tag=ufot-21)) edited by [Hilary Evans]({{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }}).
 
 1. [Web Resources](#web)
 

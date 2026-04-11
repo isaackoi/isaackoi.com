@@ -13,9 +13,9 @@ planned_sections: []
 header: {"preview_image": null}
 ---
 
-“[Best UFO Cases](/ufog/best-ufo-cases)” by Isaac Koi
+“[Best UFO Cases]({{ '/ufog/best-ufo-cases' | relative_url }})” by Isaac Koi
 
-[PART 26: Quantitative criteria: Moravec's rating system](/ufog/best-ufo-cases/26-quantitative-criteria-moravecs-rating-system)[/ufog/best-ufo-cases/26-quantitative-criteria-moravecs-rating-system](/ufog/best-ufo-cases/26-quantitative-criteria-moravecs-rating-system)
+[PART 26: Quantitative criteria: Moravec's rating system]({{ '/ufog/best-ufo-cases/26-quantitative-criteria-moravecs-rating-system' | relative_url }})[{{ '/ufog/best-ufo-cases/26-quantitative-criteria-moravecs-rating-system' | relative_url }}]({{ '/ufog/best-ufo-cases/26-quantitative-criteria-moravecs-rating-system' | relative_url }})
 
 Mark Moravec has suggested that assigning “numerical weights” to the factors which are considered important when comparing UFO reports produces “a system whereby UFO reports can be objectively compared”. He has suggested that “a good system is one that is more than just a logical exercise; that does not violently clash with our own subjective (but carefully considered) comparisons of cases; and is simple and practical to use” (see Footnote 19.02).
 

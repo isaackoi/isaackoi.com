@@ -14,7 +14,7 @@ header: {"preview_image": "https://covers.openlibrary.org/b/isbn/0801497272-L.jp
 book: {"identifiers": ["0801497272", "048640675X", "0306456214"], "primary_isbn": "0801497272", "cover_image": "https://covers.openlibrary.org/b/isbn/0801497272-L.jpg?default=false", "cover_source": "openlibrary"}
 ---
 
-Brief review to be added of Karl Guthke's book “[The Last Frontier: Imagining Other Worlds From the Copernican Revolution to Modern Science Fiction: Imagining Other Worlds From the Copernican Revolution to Modern Science Fiction](/ufo-history/ufo-books/guthke-karl-s-the-last-frontier-imagining-other-worlds-from-the-copernican-revolution-to-modern-science-fiction)” ([1990](/tags/1990)) (available [on Amazon USA](http://www.amazon.com/dp/0801497272/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0801497272/?&tag=ufot-21)).
+Brief review to be added of Karl Guthke's book “[The Last Frontier: Imagining Other Worlds From the Copernican Revolution to Modern Science Fiction: Imagining Other Worlds From the Copernican Revolution to Modern Science Fiction]({{ '/ufo-history/ufo-books/guthke-karl-s-the-last-frontier-imagining-other-worlds-from-the-copernican-revolution-to-modern-science-fiction' | relative_url }})” ([1990]({{ '/tags/1990' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0801497272/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0801497272/?&tag=ufot-21)).
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1986">1986</a></p>
+<p><a href="{{ '/tags/1986' | relative_url }}">1986</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/crowe-michael-j">Crowe, Michael J</a> in his “<a href="/ufo-history/ufo-books/crowe-michael-j-the-extraterrestrial-life-debate-1750-1900">The Extraterrestrial Life Debate, 1750-1900</a>” (<a href="/tags/1986">1986</a>) (available <a href="http://www.amazon.com/dp/048640675X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/048640675X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages xi-xii (in the “Preface to the Dover edition”) of the <a href="/tags/1999">1999</a> Dover softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/crowe-michael-j' | relative_url }}">Crowe, Michael J</a> in his “<a href="{{ '/ufo-history/ufo-books/crowe-michael-j-the-extraterrestrial-life-debate-1750-1900' | relative_url }}">The Extraterrestrial Life Debate, 1750-1900</a>” (<a href="{{ '/tags/1986' | relative_url }}">1986</a>) (available <a href="http://www.amazon.com/dp/048640675X/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/048640675X/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages xi-xii (in the “Preface to the Dover edition”) of the <a href="{{ '/tags/1999' | relative_url }}">1999</a> Dover softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -65,10 +65,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/harrison-albert-a">Harrison, Albert A</a> in his “<a href="/ufo-history/ufo-books/harrison-albert-a-after-contact-the-human-response-to-extraterrestrial-life">After Contact: The Human Response to Extraterrestrial Life</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0306456214/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0306456214/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 118 (in Chapter 4) of the Plenum Trade hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/harrison-albert-a' | relative_url }}">Harrison, Albert A</a> in his “<a href="{{ '/ufo-history/ufo-books/harrison-albert-a-after-contact-the-human-response-to-extraterrestrial-life' | relative_url }}">After Contact: The Human Response to Extraterrestrial Life</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0306456214/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0306456214/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 118 (in Chapter 4) of the Plenum Trade hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

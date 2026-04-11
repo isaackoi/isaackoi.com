@@ -13,13 +13,13 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/cufon_1.jpg"}
 ---
 
-![cufon_1](/images/stories/ufo_personalities/cufon_1.jpg)
+![cufon_1]({{ '/images/stories/ufo_personalities/cufon_1.jpg' | relative_url }})
 
 *CUFON*
 
 Brief comments to be added on this group.
 
-The Computer UFO Network (“[CUFON](/ufo-history/ufo-personalities/cufon)”) was established in [1985](/tags/1985).
+The Computer UFO Network (“[CUFON]({{ '/ufo-history/ufo-personalities/cufon' | relative_url }})”) was established in [1985]({{ '/tags/1985' | relative_url }}).
 
 CUFON has a website at:
 
@@ -65,10 +65,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1998">1998</a></p>
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
 </td>
 <td valign="top" width="547">
-<p>Wright, Susan in her “<a href="/ufo-history/ufo-books/wright-susan-ufo-headquarters">UFO Headquarters</a>” (<a href="/tags/1998">1998</a>) (available <a href="http://www.amazon.com/dp/0312193475/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312193475/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 236-237 (in Chapter 12) of the St Martin’s Press softcover edition.</p>
+<p>Wright, Susan in her “<a href="{{ '/ufo-history/ufo-books/wright-susan-ufo-headquarters' | relative_url }}">UFO Headquarters</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0312193475/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0312193475/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 236-237 (in Chapter 12) of the St Martin’s Press softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>

@@ -44,15 +44,15 @@ Koi UFO Video 122 appears to show a UFO slowly hovering in the distance beyond s
 
 Screen shots from this video are included below for ease of identification.
 
-![](/images/stories/ufo_videos/video122_1.JPG)
+![]({{ '/images/stories/ufo_videos/video122_1.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video122_2.JPG)
+![]({{ '/images/stories/ufo_videos/video122_2.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video122_3.JPG)
+![]({{ '/images/stories/ufo_videos/video122_3.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video122_4.JPG)
+![]({{ '/images/stories/ufo_videos/video122_4.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video122_5.JPG)
+![]({{ '/images/stories/ufo_videos/video122_5.JPG' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this video
@@ -72,13 +72,13 @@ The relevant source footage can be seen on the Military.com website at the link 
 
 Here are some screenshots from that original footage:
 
-![](/images/stories/ufo_videos/video122_6.JPG)
+![]({{ '/images/stories/ufo_videos/video122_6.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video122_7.JPG)
+![]({{ '/images/stories/ufo_videos/video122_7.JPG' | relative_url }})
 
 The source footage was uploaded to [the Military.com website](http://www.military.com/video/forces/navy/uss-boxer-in-action/4786182259001)on 3 March 2016, i.e. several weeks before the "UFO" video was uploaded (indeed, several weeks before the "UFO" video was supposedly filmed in May 2016). Thus, the source footage was online approximately 2 months before the "UFO" video was uploaded.
 
-![](/images/stories/ufo_videos/video122_8.JPG)
+![]({{ '/images/stories/ufo_videos/video122_8.JPG' | relative_url }})
 
 The slightly unusual aircraft seen taking off from the naval vessel is a MV-22 Osprey, which can also be seen in the video below:
 
@@ -86,23 +86,23 @@ The slightly unusual aircraft seen taking off from the naval vessel is a MV-22 O
 
 The logo in the UFO video refers to "Section 51", a name which commonly appears on lists of known/probable hoaxers of UFO videos - such as [a black list on the amusing "UFO Theater" website](http://ufotheater.com/ufo-channel-reviews/ufo-black-list/):
 
-![](/images/stories/ufo_videos/video085_11.JPG)
+![]({{ '/images/stories/ufo_videos/video085_11.JPG' | relative_url }})
 
 As I've repeatedly tried to communicate to the UFO community, behind the Youtube username that uploaded this "UFO" video (i.e. Section 51) is a in fact [a small team that has described THEMSELVES as "Internet-video creators specialized in dreaming up sci-fi, action YouTube videos, jam-packed with stunning VFX](https://web.archive.org/web/20141020050148/http://www.patreon.com/Section51)". They offer various incentives for those prepared to provide funding for their science-fiction projects (which include planned movies). The incentives include offering, for a small fee, to take the video of your choice and "we insert an original UFO on it".
 
 So now you know what present to get for the ufologist that has everything!
 
-The various other "UFO" videos created by "Section 51" include [Koi UFO Video 085](/ufog/ufo-videos/koi-ufo-video-085). That appears to show a triangular craft causing a large explosion, with a tank in the foreground. It was uploaded to Youtube in May 2014 with a caption stating that it US marines had filmed a mysterious UFO attacking a Taliban cam in the Asadabad District of Afghanistan in March 2014. Many of the early comments on the video speculated that it should a TR-3B (a secret flying triangle aircraft operated by the US Air Force). One copy of the video on Youtube has approximately 2.5 million views as at October 2014. The video was the subject of an article by a popular British newspaper, The Daily Maill. In fact, the "triangular craft" was CGI (Computer Generated Imagery) inserted into footage of an explosion which had been online since 2007, i.e. for about 7 years before the "UFO" event supposedly occurred.
+The various other "UFO" videos created by "Section 51" include [Koi UFO Video 085]({{ '/ufog/ufo-videos/koi-ufo-video-085' | relative_url }}). That appears to show a triangular craft causing a large explosion, with a tank in the foreground. It was uploaded to Youtube in May 2014 with a caption stating that it US marines had filmed a mysterious UFO attacking a Taliban cam in the Asadabad District of Afghanistan in March 2014. Many of the early comments on the video speculated that it should a TR-3B (a secret flying triangle aircraft operated by the US Air Force). One copy of the video on Youtube has approximately 2.5 million views as at October 2014. The video was the subject of an article by a popular British newspaper, The Daily Maill. In fact, the "triangular craft" was CGI (Computer Generated Imagery) inserted into footage of an explosion which had been online since 2007, i.e. for about 7 years before the "UFO" event supposedly occurred.
 
 [https://www.youtube.com/watch?v=AA1yiOehuy8](https://www.youtube.com/watch?v=AA1yiOehuy8)
 
-Other "UFO" videos created by "Section 51" (in relation to which I have previously posted the original footage into which a "UFO" was composited by Section 51...) include [Koi UFO Video 104](/ufog/ufo-videos/koi-ufo-video-104), which supposedly shows a UFO attacking China - but in fact is edited footage of a tanker explosion:
+Other "UFO" videos created by "Section 51" (in relation to which I have previously posted the original footage into which a "UFO" was composited by Section 51...) include [Koi UFO Video 104]({{ '/ufog/ufo-videos/koi-ufo-video-104' | relative_url }}), which supposedly shows a UFO attacking China - but in fact is edited footage of a tanker explosion:
 
 # [https://www.youtube.com/watch?v=Qi-SZLtcZ2o](https://www.youtube.com/watch?v=Qi-SZLtcZ2o)
 
 #
 
-Other videos created by "Section 51" debunked on this website include [Koi UFO Video 111](/ufog/ufo-videos/koi-ufo-video-111):
+Other videos created by "Section 51" debunked on this website include [Koi UFO Video 111]({{ '/ufog/ufo-videos/koi-ufo-video-111' | relative_url }}):
 
 # [https://www.youtube.com/watch?v=ST6X0Ra7zOQ](https://www.youtube.com/watch?v=ST6X0Ra7zOQ)
 
@@ -111,4 +111,4 @@ Other videos created by "Section 51" debunked on this website include [Koi UFO V
 
 Quite a few comments on this UFO video were posted in the comments section on Youtube. As at June 2016, the number of "thumbs up" votes for this "UFO" video on Youtube were slightly exceeded by the number of "thumbs down" votes i.e. the reaction to this video was unusually unfavourable (with most Section 51 getting more "thumbs up" votes than "thumbs down" votes). This may be because the close-ups of the "UFO" in the second half of the video are rather patently unrealistic and below the unusually fair high standards of Section 51 hoaxed footage.
 
-![](/images/stories/ufo_videos/video122_2d.JPG)
+![]({{ '/images/stories/ufo_videos/video122_2d.JPG' | relative_url }})

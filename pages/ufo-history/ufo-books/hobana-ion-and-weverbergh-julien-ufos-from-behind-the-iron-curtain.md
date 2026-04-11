@@ -14,7 +14,7 @@ header: {"preview_image": "https://covers.openlibrary.org/b/isbn/0285621262-L.jp
 book: {"identifiers": ["0285621262", "B000OVBWKC", "B000S52VNG"], "primary_isbn": "0285621262", "cover_image": "https://covers.openlibrary.org/b/isbn/0285621262-L.jpg?default=false", "cover_source": "openlibrary"}
 ---
 
-Brief review to be added of “[UFO's from behind the iron curtain](/ufo-history/ufo-books/hobana-ion-and-weverbergh-julien-ufos-from-behind-the-iron-curtain)” ([1974](/tags/1974)) (available [on Amazon USA](http://www.amazon.com/dp/0285621262/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0285621262/?&tag=ufot-21)) by Ion Hobana and Julien Weverbergh.
+Brief review to be added of “[UFO's from behind the iron curtain]({{ '/ufo-history/ufo-books/hobana-ion-and-weverbergh-julien-ufos-from-behind-the-iron-curtain' | relative_url }})” ([1974]({{ '/tags/1974' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0285621262/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0285621262/?&tag=ufot-21)) by Ion Hobana and Julien Weverbergh.
 
 1. [Web Resources](#web)
 
@@ -54,10 +54,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1981">1981</a></p>
+<p><a href="{{ '/tags/1981' | relative_url }}">1981</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randles-jenny">Randles, Jenny</a> and <a href="/ufo-history/ufo-personalities/whetnall-paul">Whetnall, Paul</a> in their “<a href="/ufo-history/ufo-books/randles-jenny-and-whetnall-paul-alien-contact-window-on-another-world">Alien Contact: Window on Another World</a>” (<a href="/tags/1981">1981</a>) (available <a href="http://www.amazon.com/dp/B000OVBWKC/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000OVBWKC/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 179 (in the unnumbered chapter entitled “Towards a Solution”) of the Coronet paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> and <a href="{{ '/ufo-history/ufo-personalities/whetnall-paul' | relative_url }}">Whetnall, Paul</a> in their “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-whetnall-paul-alien-contact-window-on-another-world' | relative_url }}">Alien Contact: Window on Another World</a>” (<a href="{{ '/tags/1981' | relative_url }}">1981</a>) (available <a href="http://www.amazon.com/dp/B000OVBWKC/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000OVBWKC/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 179 (in the unnumbered chapter entitled “Towards a Solution”) of the Coronet paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -65,10 +65,10 @@ For discussion see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/evans-hilary">Evans, Hilary</a> in John Spencer’s “<a href="/ufo-history/ufo-books/spencer-john-ufos-the-definitive-casebook">UFOs: The Definitive Casebook</a>” (<a href="/tags/1991">1991</a>) (available <a href="http://www.amazon.com/dp/B000S52VNG/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000S52VNG/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 126 (in the unnumbered section entitled “The East”, in the chapter entitled “UFOs and Freedom of Information”) of the Hamlyn hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }}">Evans, Hilary</a> in John Spencer’s “<a href="{{ '/ufo-history/ufo-books/spencer-john-ufos-the-definitive-casebook' | relative_url }}">UFOs: The Definitive Casebook</a>” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/B000S52VNG/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B000S52VNG/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 126 (in the unnumbered section entitled “The East”, in the chapter entitled “UFOs and Freedom of Information”) of the Hamlyn hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

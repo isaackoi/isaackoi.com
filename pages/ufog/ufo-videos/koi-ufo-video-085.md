@@ -42,13 +42,13 @@ In fact, the "triangular craft" was CGI (Computer Generated Imagery) inserted in
 
 Screen shots from the video are included below for ease of identification:
 
-![](/images/stories/ufo_videos/video085_3.JPG)
+![]({{ '/images/stories/ufo_videos/video085_3.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video085_4.JPG)
+![]({{ '/images/stories/ufo_videos/video085_4.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video085_5.JPG)
+![]({{ '/images/stories/ufo_videos/video085_5.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video085_6.JPG)
+![]({{ '/images/stories/ufo_videos/video085_6.JPG' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this video
@@ -57,7 +57,7 @@ It was uploaded to Youtube on 5 May 2014 by a Youtube user with the username "Se
 
 A popular British newspaper (The Daily Mail) ran a story about the video. The [article was entitled "What is this mysterious aircraft filmed 'blitzing Taliban base in Afghanistan'? Footage shows 'UFO' blasting terrorists' encampment](http://www.dailymail.co.uk/news/article-2623330/Is-Inter-Stellar-Assistance-Force-Mysterious-UFO-filmed-blitzing-Taliban-base-Afghanistan.html)". That article included in the following: " With Nato forces withdrawing from the badlands of Afghanistan, the country's people need all the help they can get to keep extremists from once again seizing power. But it seems a new intervention has come from an unlikely source... outer space. U.S. Marines captured this incredible footage of what looks like a UFO hovering over a Taliban encampment - then blowing it to kingdom come".
 
-![](/images/stories/ufo_videos/video085_9.JPG)
+![]({{ '/images/stories/ufo_videos/video085_9.JPG' | relative_url }})
 
 <a id="truth"></a>
 ### 3. The real background to this video
@@ -70,11 +70,11 @@ The "UFO" video appears to have flipped the original footage horizontally, presu
 
 The explosion occurs at 40 seconds into the original video. A jet can clearly be heard (and no triangular craft is hovering in the area...).
 
-![](/images/stories/ufo_videos/video085_7.JPG)
+![]({{ '/images/stories/ufo_videos/video085_7.JPG' | relative_url }})
 
 The original footage of the explosion prompted hundreds of comments since 2007 onwards, mainly about the ethics of American foreign policy and American activities in Iraq. Those comments clearly show that the original footage long predates the "UFO" version of the footage uploaded in May 2014 and predate the supposed date of the "UFO" incident in March 2014.
 
-![](/images/stories/ufo_videos/video085_8.JPG)
+![]({{ '/images/stories/ufo_videos/video085_8.JPG' | relative_url }})
 
 The original footage appears to have been first identified by "AlphaHawk" (a member of the AboveTopSecret.com discussion forum)[in a post on the ATS forum on 6 May 2014](http://www.abovetopsecret.com/forum/thread1011357/pg1#pid17888375), i.e. just one day after the "UFO" footage was uploaded by Youtube user "Section 51".
 
@@ -86,29 +86,29 @@ Those of you that have read over pages in my series about the real stories behin
 
 The user that uploaded the hoaxed video to Youtube, i.e. "Section 51", commonly appears on lists of known/probable hoaxers of UFO videos - such as [a black list on the amusing "UFO Theater" website](http://ufotheater.com/ufo-channel-reviews/ufo-black-list/) a
 
-![](/images/stories/ufo_videos/video085_11.JPG)
+![]({{ '/images/stories/ufo_videos/video085_11.JPG' | relative_url }})
 
 Behind the Youtube username that uploaded this "UFO" video (i.e. Section 51) is a in fact [a small team that describe themselves as "Internet-video creators specialized in dreaming up sci-fi, action YouTube videos, jam-packed with stunning VFX](https://web.archive.org/web/20141020050148/http://www.patreon.com/Section51)". They offer various incentives for those prepared to provide funding for their science-fiction projects (which include planned movies). The incentives include offering, for a small fee, to take the video of your choice and "we insert an original UFO on it". So now you know what present to get for the ufologist that has everything!
 
-![](/images/stories/ufo_videos/video085_13.JPG)
+![]({{ '/images/stories/ufo_videos/video085_13.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video085_12.JPG)
+![]({{ '/images/stories/ufo_videos/video085_12.JPG' | relative_url }})
 
 A considerable number of the members of the military that commentated on the original video suggested that the jet strike probably used [JDAM (Joint Direct Attack Munitions)](http://www.boeing.com/boeing/defense-space/missiles/jdam/) i.e. a guidance kit is a low-cost guidance kit that converts existing unguided free-fall bombs into accurately guided "smart" weapons.
 
 [https://www.youtube.com/watch?v=OtZ_6XTsWBg](https://www.youtube.com/watch?v=7fc8bgf1pGk)
 
-![](/images/stories/ufo_videos/video085_10.JPG)
+![]({{ '/images/stories/ufo_videos/video085_10.JPG' | relative_url }})
 
-Other videos created by "Section 51" debunked on this website include [Koi UFO Video 104](/ufog/ufo-videos/koi-ufo-video-104):
+Other videos created by "Section 51" debunked on this website include [Koi UFO Video 104]({{ '/ufog/ufo-videos/koi-ufo-video-104' | relative_url }}):
 
 # [https://www.youtube.com/watch?v=Qi-SZLtcZ2o](https://www.youtube.com/watch?v=Qi-SZLtcZ2o)
 
-Other videos created by "Section 51" debunked on this website include [Koi UFO Video 111](/ufog/ufo-videos/koi-ufo-video-111):
+Other videos created by "Section 51" debunked on this website include [Koi UFO Video 111]({{ '/ufog/ufo-videos/koi-ufo-video-111' | relative_url }}):
 
 # [https://www.youtube.com/watch?v=ST6X0Ra7zOQ](https://www.youtube.com/watch?v=ST6X0Ra7zOQ)
 
-Other videos created by "Section 51" debunked on this website include [Koi UFO Video 11](/ufog/ufo-videos/koi-ufo-video-117)7:
+Other videos created by "Section 51" debunked on this website include [Koi UFO Video 11]({{ '/ufog/ufo-videos/koi-ufo-video-117' | relative_url }})7:
 
 [https://www.youtube.com/watch?v=Qi-SZLtcZ2o](https://www.youtube.com/watch?v=Qi-SZLtcZ2o)
 
@@ -121,4 +121,4 @@ Relevant discussions on the AboveTopSecret.com forum include the following:
 
 2014 (May) discussion entitled "[UFO attack Taliban camp in Afghanistan](http://www.abovetopsecret.com/forum/thread1011760/pg1)"
 
-![](/images/stories/ufo_videos/video085_1d.jpg)
+![]({{ '/images/stories/ufo_videos/video085_1d.jpg' | relative_url }})

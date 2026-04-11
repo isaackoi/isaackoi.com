@@ -42,15 +42,15 @@ The footage apparently filmed from a boat near Galicia (Spain) of a UFO dropping
 
 Screen shots from the video are included below for ease of identification:
 
-![](/images/stories/ufo_videos/video064_1.JPG)
+![]({{ '/images/stories/ufo_videos/video064_1.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video064_2.JPG)
+![]({{ '/images/stories/ufo_videos/video064_2.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video064_3.JPG)
+![]({{ '/images/stories/ufo_videos/video064_3.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video064_4.JPG)
+![]({{ '/images/stories/ufo_videos/video064_4.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video064_5.JPG)
+![]({{ '/images/stories/ufo_videos/video064_5.JPG' | relative_url }})
 
 <a id="stories"></a>
 ### 2. Stories and claims relating to this video
@@ -61,7 +61,7 @@ The title of the most viewed copy of this video on Youtube is "Galicia UFO High 
 
 The webpage on the "Terra" website on which the video was originally released is defunct, but an archived copy of that webpage can be recovered using the Wayback Machine's Internet Archive.
 
-![](/images/stories/ufo_videos/video064_6.JPG)
+![]({{ '/images/stories/ufo_videos/video064_6.JPG' | relative_url }})
 
 <a id="truth"></a>
 ### 3. The real background to this video
@@ -74,17 +74,17 @@ The Spanish "Terra" online media website which released the original video poste
 
 On 5 October 2009 [a further article was published](https://web.archive.org/web/20110401013537/http://noticias.terra.es/especiales/mundo-insolito/actualidad/ovni-gallego-making.aspx) which included the following video on the making of the hoaxed footage and a message stating (translated into English)
 
-![](/images/stories/ufo_videos/video064_10.JPG)
+![]({{ '/images/stories/ufo_videos/video064_10.JPG' | relative_url }})
 
 https://www.youtube.com/watch?v=mkrnEPoaPiU
 
 The relevant video explaining how the hoaxed footage was made includes various shots of the relevant boat and helicopter, plus a glimpse into the special effects used. A few screenshots are embedded below.
 
-![](/images/stories/ufo_videos/video064_7.JPG)
+![]({{ '/images/stories/ufo_videos/video064_7.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video064_8.JPG)
+![]({{ '/images/stories/ufo_videos/video064_8.JPG' | relative_url }})
 
-![](/images/stories/ufo_videos/video064_9.JPG)
+![]({{ '/images/stories/ufo_videos/video064_9.JPG' | relative_url }})
 
 Copies of the video by the hoaxers explaining how they made their hoaxed footage have a tiny fraction of the number of views of the hoaxed footage.
 
@@ -105,4 +105,4 @@ Relevant discussions on the AboveTopSecret.com forum include the following:
 
 2009 (October) discussion entitled "t[he making of the spanish galicia fisherboat video](http://www.abovetopsecret.com/forum/thread507986/pg1)"
 
-![](/images/stories/ufo_videos/video064_3d.jpg)
+![]({{ '/images/stories/ufo_videos/video064_3d.jpg' | relative_url }})

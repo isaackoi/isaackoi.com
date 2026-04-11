@@ -13,7 +13,7 @@ planned_sections: []
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -31,4 +31,4 @@ The Flying Saucers are Real
 
 ” is published
 
-For references and further information, see separate entry in relation to [Donald Keyhoe](/ufo-history/ufo-personalities/keyhoe-donald-e)’s book “[The Flying Saucers are Real](/ufo-history/ufo-books/keyhoe-donald-e-the-flying-saucers-are-real)” ([1950](/tags/1950)).
+For references and further information, see separate entry in relation to [Donald Keyhoe]({{ '/ufo-history/ufo-personalities/keyhoe-donald-e' | relative_url }})’s book “[The Flying Saucers are Real]({{ '/ufo-history/ufo-books/keyhoe-donald-e-the-flying-saucers-are-real' | relative_url }})” ([1950]({{ '/tags/1950' | relative_url }})).

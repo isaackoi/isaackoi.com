@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/clipart_ufo.png"}
 ---
 
-![](/images/stories/clipart_ufo.png)
+![]({{ '/images/stories/clipart_ufo.png' | relative_url }})
 
 *Image needed*
 
@@ -43,7 +43,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-[Salisbury, Frank](/ufo-history/ufo-personalities/salisbury-frank) B, "The Scientist and the UFO", BioScience, January [1967](/tags/1967), pages 15-24. Reprinted in “[The Total UFO Story](/ufo-history/ufo-books/machlin-milt-the-total-ufo-story)” ([1979](/tags/1979)) (edited by Milt Machlin) (available [on Amazon USA](http://www.amazon.com/dp/B000GRISSS/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B000GRISSS/ref=nosim?tag=ufot-21)) at pages 61-84 (in Chapter 4 generally) of the Dale paperback edition.
+[Salisbury, Frank]({{ '/ufo-history/ufo-personalities/salisbury-frank' | relative_url }}) B, "The Scientist and the UFO", BioScience, January [1967]({{ '/tags/1967' | relative_url }}), pages 15-24. Reprinted in “[The Total UFO Story]({{ '/ufo-history/ufo-books/machlin-milt-the-total-ufo-story' | relative_url }})” ([1979]({{ '/tags/1979' | relative_url }})) (edited by Milt Machlin) (available [on Amazon USA](http://www.amazon.com/dp/B000GRISSS/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/B000GRISSS/ref=nosim?tag=ufot-21)) at pages 61-84 (in Chapter 4 generally) of the Dale paperback edition.
 
 The table below includes references to relevant discussions in UFO/SETI books noted by Isaac Koi during a review of approximately 963 UFO/SETI books during the period 2003-2006 (with a few later additions). The table can be sorted by author, date and length of discussion by clicking on the relevant word in the top line of the table.
 
@@ -69,10 +69,10 @@ For discussion see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1974">1974</a></p>
+<p><a href="{{ '/tags/1974' | relative_url }}">1974</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/salisbury-frank">Salisbury, Frank</a> in his “The Utah UFO Display: A Biologist’s Report” (<a href="/tags/1974">1974</a>) (available <a href="http://www.amazon.com/dp/0815970005/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0815970005/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 227 (in the Appendix entitled “The Literature of Ufology”) of the Devin Adair hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/salisbury-frank' | relative_url }}">Salisbury, Frank</a> in his “The Utah UFO Display: A Biologist’s Report” (<a href="{{ '/tags/1974' | relative_url }}">1974</a>) (available <a href="http://www.amazon.com/dp/0815970005/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0815970005/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 227 (in the Appendix entitled “The Literature of Ufology”) of the Devin Adair hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>

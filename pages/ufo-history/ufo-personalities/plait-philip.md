@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/plait_philip_3.jpg"}
 ---
 
-![plait_philip_3](/images/stories/ufo_personalities/plait_philip_3.jpg)
+![plait_philip_3]({{ '/images/stories/ufo_personalities/plait_philip_3.jpg' | relative_url }})
 
 *Philip Plait*
 
@@ -36,10 +36,10 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/2002">2002</a></p>
+<p><a href="{{ '/tags/2002' | relative_url }}">2002</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/plait-philip">Plait, Philip</a> “<a href="/ufo-history/ufo-books/plait-philip-bad-astronomy">Bad Astronomy</a>” (<a href="/tags/2002">2002</a>) (available <a href="http://www.amazon.com/dp/0471409766/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0471409766/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/plait-philip' | relative_url }}">Plait, Philip</a> “<a href="{{ '/ufo-history/ufo-books/plait-philip-bad-astronomy' | relative_url }}">Bad Astronomy</a>” (<a href="{{ '/tags/2002' | relative_url }}">2002</a>) (available <a href="http://www.amazon.com/dp/0471409766/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0471409766/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>

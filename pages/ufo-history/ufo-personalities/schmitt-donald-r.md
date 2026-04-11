@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/schmitt_don_1.jpg"}
 ---
 
-![schmitt_don_1](/images/stories/ufo_personalities/schmitt_don_1.jpg)
+![schmitt_don_1]({{ '/images/stories/ufo_personalities/schmitt_don_1.jpg' | relative_url }})
 
 *Don Schmitt*
 
@@ -36,26 +36,26 @@ Books by this person include:
 <tbody>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1991">1991</a></p>
+<p><a href="{{ '/tags/1991' | relative_url }}">1991</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/randle-kevin">Randle, Kevin</a> and <a href="/ufo-history/ufo-personalities/schmitt-donald-r">Schmitt, Donald</a> “<a href="/ufo-history/ufo-books/randle-kevin-d-and-schmitt-donald-r-ufo-crash-at-roswell">UFO Crash at Roswell</a>” (<a href="/tags/1991">1991</a>) (available <a href="http://www.amazon.com/dp/B00137C3LI/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B00137C3LI/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randle-kevin' | relative_url }}">Randle, Kevin</a> and <a href="{{ '/ufo-history/ufo-personalities/schmitt-donald-r' | relative_url }}">Schmitt, Donald</a> “<a href="{{ '/ufo-history/ufo-books/randle-kevin-d-and-schmitt-donald-r-ufo-crash-at-roswell' | relative_url }}">UFO Crash at Roswell</a>” (<a href="{{ '/tags/1991' | relative_url }}">1991</a>) (available <a href="http://www.amazon.com/dp/B00137C3LI/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/B00137C3LI/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/1994">1994</a></p>
+<p><a href="{{ '/tags/1994' | relative_url }}">1994</a></p>
 </td>
 <td valign="top" width="564">
-<p><a href="/ufo-history/ufo-personalities/randle-kevin">Randle, Kevin</a> and <a href="file:///C:/Users/homelap/Documents/koi/Notes%20active%20files%20-%20videos%20photos%20etc/Schmitt,%20Donald%20R">Schmitt, Donald</a> “<a href="/ufo-history/ufo-books/randle-kevin-and-schmitt-donald-the-truth-about-the-ufo-crash-at-roswell">The Truth About the UFO Crash At Roswell</a>” (<a href="/tags/1994">1994</a>) (available <a href="http://www.amazon.com/dp/0380778033/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380778033/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randle-kevin' | relative_url }}">Randle, Kevin</a> and <a href="file:///C:/Users/homelap/Documents/koi/Notes%20active%20files%20-%20videos%20photos%20etc/Schmitt,%20Donald%20R">Schmitt, Donald</a> “<a href="{{ '/ufo-history/ufo-books/randle-kevin-and-schmitt-donald-the-truth-about-the-ufo-crash-at-roswell' | relative_url }}">The Truth About the UFO Crash At Roswell</a>” (<a href="{{ '/tags/1994' | relative_url }}">1994</a>) (available <a href="http://www.amazon.com/dp/0380778033/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380778033/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="91">
-<p><a href="/tags/2009">2009</a></p>
+<p><a href="{{ '/tags/2009' | relative_url }}">2009</a></p>
 </td>
 <td valign="top" width="564">
-<p>Carey, Thomas J and <a href="/ufo-history/ufo-personalities/schmitt-donald-r">Schmitt, Donald</a> “<a href="/ufo-history/ufo-books/carey-thomas-j-and-schmitt-donald-witness-to-roswell">Witness to Roswell : Unmasking the Government’s Biggest Cover-up</a>” (<a href="/tags/2009">2009</a>) (available <a href="http://www.amazon.com/dp/1601630662/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1601630662/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
+<p>Carey, Thomas J and <a href="{{ '/ufo-history/ufo-personalities/schmitt-donald-r' | relative_url }}">Schmitt, Donald</a> “<a href="{{ '/ufo-history/ufo-books/carey-thomas-j-and-schmitt-donald-witness-to-roswell' | relative_url }}">Witness to Roswell : Unmasking the Government’s Biggest Cover-up</a>” (<a href="{{ '/tags/2009' | relative_url }}">2009</a>) (available <a href="http://www.amazon.com/dp/1601630662/?&amp;tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1601630662/?&amp;tag=ufot-21">on Amazon UK</a>)</p>
 </td>
 </tr>
 </tbody>
@@ -99,10 +99,10 @@ For discussion of Don Schmitt see the following:
 <tbody>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2001">2001</a></p>
+<p><a href="{{ '/tags/2001' | relative_url }}">2001</a></p>
 </td>
 <td valign="top" width="547">
-<p>Hansen, George P in his “The Trickster and the Paranormal” (<a href="/tags/2001">2001</a>) (available <a href="http://www.amazon.com/dp/1401000827/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1401000827/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 225 of the Xlibris softcover edition.</p>
+<p>Hansen, George P in his “The Trickster and the Paranormal” (<a href="{{ '/tags/2001' | relative_url }}">2001</a>) (available <a href="http://www.amazon.com/dp/1401000827/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1401000827/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 225 of the Xlibris softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>1</p>
@@ -110,10 +110,10 @@ For discussion of Don Schmitt see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/klass-philip-j">Klass, Philip J</a> in his “<a href="/ufo-history/ufo-books/klass-philip-j-the-real-roswell-crashed-saucer-coverup">The Real Roswell Crashed-Saucer Coverup</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/1573921645/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573921645/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 151-159 (in Chapter 20) of the Prometheus Books hardback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/klass-philip-j' | relative_url }}">Klass, Philip J</a> in his “<a href="{{ '/ufo-history/ufo-books/klass-philip-j-the-real-roswell-crashed-saucer-coverup' | relative_url }}">The Real Roswell Crashed-Saucer Coverup</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/1573921645/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1573921645/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 151-159 (in Chapter 20) of the Prometheus Books hardback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>9</p>
@@ -121,10 +121,10 @@ For discussion of Don Schmitt see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1997">1997</a></p>
+<p><a href="{{ '/tags/1997' | relative_url }}">1997</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/korff-kal-k">Korff, Kal K</a> in his “<a href="/ufo-history/ufo-books/korff-kal-k-the-roswell-ufo-crash-what-they-dont-want-you-to-know">The Roswell UFO Crash: What They Don’t Want You to Know</a>” (<a href="/tags/1997">1997</a>) (available <a href="http://www.amazon.com/dp/0440236134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0440236134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 260-261 (in Chapter 8) of the Dell paperback edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/korff-kal-k' | relative_url }}">Korff, Kal K</a> in his “<a href="{{ '/ufo-history/ufo-books/korff-kal-k-the-roswell-ufo-crash-what-they-dont-want-you-to-know' | relative_url }}">The Roswell UFO Crash: What They Don’t Want You to Know</a>” (<a href="{{ '/tags/1997' | relative_url }}">1997</a>) (available <a href="http://www.amazon.com/dp/0440236134/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0440236134/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 260-261 (in Chapter 8) of the Dell paperback edition.</p>
 </td>
 <td valign="top" width="52">
 <p>2</p>
@@ -132,10 +132,10 @@ For discussion of Don Schmitt see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/2000">2000</a></p>
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randle-kevin">Randle, Kevin</a> in his “<a href="/ufo-history/ufo-books/randle-kevin-the-roswell-encyclopedia">The Roswell Encyclopedia</a>” (<a href="/tags/2000">2000</a>) (available <a href="http://www.amazon.com/dp/0380798530/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380798530/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 346-351 (in an entry entitled “<a href="/ufo-history/ufo-personalities/schmitt-donald-r">Schmitt, Donald R</a>”) of the Quill softcover edition.</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randle-kevin' | relative_url }}">Randle, Kevin</a> in his “<a href="{{ '/ufo-history/ufo-books/randle-kevin-the-roswell-encyclopedia' | relative_url }}">The Roswell Encyclopedia</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/0380798530/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0380798530/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 346-351 (in an entry entitled “<a href="{{ '/ufo-history/ufo-personalities/schmitt-donald-r' | relative_url }}">Schmitt, Donald R</a>”) of the Quill softcover edition.</p>
 </td>
 <td valign="top" width="52">
 <p>6</p>
@@ -143,10 +143,10 @@ For discussion of Don Schmitt see the following:
 </tr>
 <tr>
 <td valign="top" width="46">
-<p><a href="/tags/1989">1989</a></p>
+<p><a href="{{ '/tags/1989' | relative_url }}">1989</a></p>
 </td>
 <td valign="top" width="547">
-<p><a href="/ufo-history/ufo-personalities/randle-kevin">Randle, Kevin</a> in his “<a href="/ufo-history/ufo-books/randle-kevin-d-the-ufo-casebook">The UFO Casebook</a>” (<a href="/tags/1989">1989</a>) (available <a href="http://www.amazon.com/dp/0446357154/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0446357154/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 203-217 of the Warner Books paperback edition (entry entitled “June 12, <a href="/tags/1988">1988</a>: Don Schmitt”).</p>
+<p><a href="{{ '/ufo-history/ufo-personalities/randle-kevin' | relative_url }}">Randle, Kevin</a> in his “<a href="{{ '/ufo-history/ufo-books/randle-kevin-d-the-ufo-casebook' | relative_url }}">The UFO Casebook</a>” (<a href="{{ '/tags/1989' | relative_url }}">1989</a>) (available <a href="http://www.amazon.com/dp/0446357154/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0446357154/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 203-217 of the Warner Books paperback edition (entry entitled “June 12, <a href="{{ '/tags/1988' | relative_url }}">1988</a>: Don Schmitt”).</p>
 </td>
 <td valign="top" width="52">
 <p>15</p>

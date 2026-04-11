@@ -13,7 +13,7 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_tags/nasa_1.jpg"}
 ---
 
-![nasa_1](/images/stories/ufo_tags/nasa_1.jpg)
+![nasa_1]({{ '/images/stories/ufo_tags/nasa_1.jpg' | relative_url }})
 
 *NASA Exobiology Division*
 
@@ -43,7 +43,7 @@ The table below includes references to relevant discussions in UFO/SETI books no
 
 Many of the tables of references on this website are considerably longer than the references to books found on most other UFO websites. Indeed, some are probably the longest that have been collated in relation to some events and personalities. I hope that these tables are found to be a useful contribution to UFOlogy.
 
-Discussed by [Billingham, John](/ufo-history/ufo-personalities/billingham-john) and Pierson, Thomas in “[SETI 2020: A Roadmap for the Search for Extraterrestrial Intelligence](/ufo-history/ufo-books/elkers-ronald-d-and-cullers-kent-d-and-billingham-john-and-scheffer-louis-k-editors-seti-2020-a-roadmap-for-the-search-for-extraterrestrial-intelligence)” ([2002](/tags/2002)) (edited by Elkers, Ronald D and [Cullers, Kent D](/ufo-history/ufo-personalities/cullers-kent-d) and [Billingham, John](/ufo-history/ufo-personalities/billingham-john) and Scheffer, Louis K) (available [on Amazon USA](http://www.amazon.com/dp/0966633539/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0966633539/ref=nosim?tag=ufot-21)) at page xxxiv (in the Preface) of the SETI Press softcover edition.
+Discussed by [Billingham, John]({{ '/ufo-history/ufo-personalities/billingham-john' | relative_url }}) and Pierson, Thomas in “[SETI 2020: A Roadmap for the Search for Extraterrestrial Intelligence]({{ '/ufo-history/ufo-books/elkers-ronald-d-and-cullers-kent-d-and-billingham-john-and-scheffer-louis-k-editors-seti-2020-a-roadmap-for-the-search-for-extraterrestrial-intelligence' | relative_url }})” ([2002]({{ '/tags/2002' | relative_url }})) (edited by Elkers, Ronald D and [Cullers, Kent D]({{ '/ufo-history/ufo-personalities/cullers-kent-d' | relative_url }}) and [Billingham, John]({{ '/ufo-history/ufo-personalities/billingham-john' | relative_url }}) and Scheffer, Louis K) (available [on Amazon USA](http://www.amazon.com/dp/0966633539/ref=nosim?tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0966633539/ref=nosim?tag=ufot-21)) at page xxxiv (in the Preface) of the SETI Press softcover edition.
 
 <a id="other"></a>
 ### Other Material

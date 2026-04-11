@@ -13,11 +13,11 @@ planned_sections: ["Web Resources", "Book References", "Other Material"]
 header: {"preview_image": "/images/stories/ufo_personalities/cometa_1.jpg"}
 ---
 
-![cometa_1](/images/stories/ufo_personalities/cometa_1.jpg)
+![cometa_1]({{ '/images/stories/ufo_personalities/cometa_1.jpg' | relative_url }})
 
 *COMETA*
 
-See the entry for [the COMETA report](/ufo-history/ufo/19990700-french-cometa-report).
+See the entry for [the COMETA report]({{ '/ufo-history/ufo/19990700-french-cometa-report' | relative_url }}).
 
 Sections below:
 
@@ -35,7 +35,7 @@ There is a rapid turnover of UFO material on the Internet. Many links to materia
 <a id="books"></a>
 ### Book References
 
-See references provided in the entry for [the COMETA report](/ufo-history/ufo/19990700-french-cometa-report).
+See references provided in the entry for [the COMETA report]({{ '/ufo-history/ufo/19990700-french-cometa-report' | relative_url }}).
 
 <a id="other"></a>
 ### Other Material
