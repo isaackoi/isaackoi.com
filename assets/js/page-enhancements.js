@@ -808,7 +808,9 @@
       var homeFilter = document.querySelector("[data-home-filter]");
       if (homeFilter && typeof homeFilter.focus === "function") {
         homeFilter.focus();
+        return;
       }
+      window.location.href = resolveSiteHref("/search/");
     };
 
     Array.prototype.forEach.call(quickSearchButtons, function (button) {
@@ -1722,6 +1724,323 @@
       applyFilter();
     });
     applyFilter();
+  }
+
+  function scoreArchiveSearchResult(item, query) {
+    var normalizedQuery = normalizeSearchText(query);
+    if (!normalizedQuery) {
+      return 0;
+    }
+    var tokens = getSearchTokens(normalizedQuery);
+    var title = normalizeSearchText(item && item.title);
+    var section = normalizeSearchText(item && item.section);
+    var summary = normalizeSearchText(item && item.summary);
+    var tags = normalizeSearchText(item && item.tags ? item.tags.join(" ") : "");
+    var haystack = normalizeSearchText(item && item.search_text);
+    var score = 0;
+
+    if (title === normalizedQuery) {
+      score += 1200;
+    } else if (title.indexOf(normalizedQuery) !== -1) {
+      score += 320;
+    }
+    if (section.indexOf(normalizedQuery) !== -1) {
+      score += 80;
+    }
+    if (tags.indexOf(normalizedQuery) !== -1) {
+      score += 120;
+    }
+    if (summary.indexOf(normalizedQuery) !== -1) {
+      score += 70;
+    }
+
+    tokens.forEach(function (token) {
+      if (!token) {
+        return;
+      }
+      if (title.indexOf(token) === 0) {
+        score += 90;
+      } else if (title.indexOf(token) !== -1) {
+        score += 45;
+      }
+      if (tags.indexOf(token) !== -1) {
+        score += 24;
+      }
+      if (section.indexOf(token) !== -1) {
+        score += 16;
+      }
+      if (summary.indexOf(token) !== -1) {
+        score += 12;
+      }
+      if (haystack.indexOf(token) !== -1) {
+        score += 4;
+      }
+    });
+
+    if ((item && item.kind) === "page") {
+      score += 20;
+    } else if ((item && item.kind) === "section") {
+      score += 8;
+    }
+
+    return score;
+  }
+
+  function createArchiveSearchResultCard(item) {
+    var article = document.createElement("article");
+    var hasPreview = Boolean(item && item.preview_image);
+    article.className = hasPreview ? "fr-search-card fr-search-card-visual" : "fr-search-card";
+
+    var mediaLink = document.createElement("a");
+    mediaLink.className = hasPreview ? "fr-search-cover" : "fr-search-cover fr-search-cover-placeholder";
+    mediaLink.href = resolveSiteHref(item && item.url ? item.url : "/search/");
+    mediaLink.title = String(item && item.title || "Search result");
+
+    if (hasPreview) {
+      var image = document.createElement("img");
+      image.src = resolveSiteHref(item.preview_image);
+      image.alt = "Preview for " + String(item && item.title || "Search result");
+      image.loading = "lazy";
+      image.decoding = "async";
+      image.referrerPolicy = "no-referrer";
+      image.addEventListener("error", function () {
+        mediaLink.classList.add("fr-search-cover-placeholder");
+        mediaLink.textContent = "";
+        var fallback = document.createElement("span");
+        fallback.textContent = String((item && item.title || "?").charAt(0) || "?").toUpperCase();
+        mediaLink.appendChild(fallback);
+      }, { once: true });
+      mediaLink.appendChild(image);
+    } else {
+      var placeholder = document.createElement("span");
+      placeholder.textContent = String((item && item.title || "?").charAt(0) || "?").toUpperCase();
+      mediaLink.appendChild(placeholder);
+    }
+    article.appendChild(mediaLink);
+
+    var info = document.createElement("div");
+    info.className = "fr-search-info";
+
+    var kicker = document.createElement("p");
+    kicker.className = "fr-search-kicker";
+    kicker.textContent = String(item && item.kicker || "Page");
+    info.appendChild(kicker);
+
+    var title = document.createElement("h2");
+    title.className = "fr-search-title";
+    var titleLink = document.createElement("a");
+    titleLink.href = resolveSiteHref(item && item.url ? item.url : "/search/");
+    titleLink.textContent = String(item && item.title || "Untitled");
+    title.appendChild(titleLink);
+    info.appendChild(title);
+
+    if (item && item.summary) {
+      var summary = document.createElement("p");
+      summary.className = "fr-search-desc";
+      summary.textContent = String(item.summary);
+      info.appendChild(summary);
+    }
+
+    var metaParts = [];
+    if (item && item.section) {
+      metaParts.push(String(item.section));
+    }
+    if (item && item.kind && item.kind !== "page") {
+      metaParts.push(String(item.kind).charAt(0).toUpperCase() + String(item.kind).slice(1));
+    }
+    if (metaParts.length) {
+      var meta = document.createElement("p");
+      meta.className = "archive-search-meta";
+      meta.textContent = metaParts.join(" · ");
+      info.appendChild(meta);
+    }
+
+    if (item && item.tags && item.tags.length) {
+      var tagRow = document.createElement("div");
+      tagRow.className = "fr-search-tags";
+      item.tags.slice(0, 6).forEach(function (label) {
+        var chip = document.createElement("span");
+        chip.className = "fr-search-tag";
+        chip.textContent = String(label);
+        tagRow.appendChild(chip);
+      });
+      info.appendChild(tagRow);
+    }
+
+    article.appendChild(info);
+    return article;
+  }
+
+  function initArchiveSearch() {
+    var root = document.querySelector("[data-archive-search]");
+    if (!root) {
+      return;
+    }
+    var source = String(root.getAttribute("data-search-source") || "").trim();
+    var pageSize = Math.max(1, parseInt(root.getAttribute("data-search-page-size") || "48", 10) || 48);
+    var form = root.querySelector("[data-archive-search-form]");
+    var input = root.querySelector("[data-archive-search-input]");
+    var clearButton = root.querySelector("[data-archive-search-clear]");
+    var status = root.querySelector("[data-archive-search-status]");
+    var results = root.querySelector("[data-archive-search-results]");
+    if (!source || !form || !input || !results) {
+      return;
+    }
+
+    var loadedEntries = [];
+    var loadPromise = null;
+    var inputTimer = 0;
+
+    var setStatus = function (message, state) {
+      if (!status) {
+        return;
+      }
+      status.textContent = String(message || "");
+      if (state) {
+        status.setAttribute("data-state", state);
+      } else {
+        status.removeAttribute("data-state");
+      }
+    };
+
+    var renderEmptyState = function (message) {
+      results.innerHTML = "";
+      var empty = document.createElement("div");
+      empty.className = "archive-search-empty";
+      var paragraph = document.createElement("p");
+      paragraph.textContent = message;
+      empty.appendChild(paragraph);
+      results.appendChild(empty);
+    };
+
+    var syncUrl = function (query) {
+      if (!window.history || typeof window.history.replaceState !== "function") {
+        return;
+      }
+      var url = new URL(window.location.href);
+      var normalized = String(query || "").trim();
+      if (normalized) {
+        url.searchParams.set("q", normalized);
+      } else {
+        url.searchParams.delete("q");
+      }
+      window.history.replaceState({}, "", url.toString());
+    };
+
+    var ensureLoaded = function () {
+      if (loadPromise) {
+        return loadPromise;
+      }
+      setStatus("Loading search index...", "loading");
+      loadPromise = fetch(source, { credentials: "same-origin" })
+        .then(function (response) {
+          if (!response.ok) {
+            throw new Error("Search index request failed with " + String(response.status));
+          }
+          return response.json();
+        })
+        .then(function (payload) {
+          loadedEntries = Array.isArray(payload) ? payload : [];
+          return loadedEntries;
+        });
+      return loadPromise;
+    };
+
+    var applySearch = function () {
+      var query = String(input.value || "").trim();
+      syncUrl(query);
+      if (clearButton) {
+        clearButton.hidden = !query;
+      }
+      ensureLoaded()
+        .then(function (entries) {
+          if (!query) {
+            setStatus("Loaded " + String(entries.length) + " archive entries. Enter keywords to search the archive.", "default");
+            renderEmptyState("Enter a keyword to search across titles, summaries, headings, tags, and section labels.");
+            return;
+          }
+
+          var matches = entries
+            .filter(function (entry) {
+              return matchesSearchQuery(query, entry && entry.search_text ? entry.search_text : entry && entry.title ? entry.title : "");
+            })
+            .map(function (entry, index) {
+              return {
+                item: entry,
+                score: scoreArchiveSearchResult(entry, query),
+                index: index
+              };
+            })
+            .sort(function (left, right) {
+              if (right.score !== left.score) {
+                return right.score - left.score;
+              }
+              var leftTitle = String(left.item && left.item.title || "");
+              var rightTitle = String(right.item && right.item.title || "");
+              if (leftTitle !== rightTitle) {
+                return leftTitle.localeCompare(rightTitle);
+              }
+              return left.index - right.index;
+            });
+
+          results.innerHTML = "";
+          if (!matches.length) {
+            setStatus("No archive entries match \"" + query + "\". Try a broader year, person, tag, or case name.", "empty");
+            renderEmptyState("No results for \"" + query + "\". Try a broader year, case, author, personality, place, or tag.");
+            return;
+          }
+
+          matches.slice(0, pageSize).forEach(function (entry) {
+            results.appendChild(createArchiveSearchResultCard(entry.item));
+          });
+          var visibleCount = Math.min(matches.length, pageSize);
+          if (matches.length > visibleCount) {
+            setStatus("Showing " + String(visibleCount) + " of " + String(matches.length) + " results for \"" + query + "\".", "active");
+          } else {
+            setStatus("Showing " + String(matches.length) + " results for \"" + query + "\".", "active");
+          }
+        })
+        .catch(function () {
+          setStatus("Search is temporarily unavailable because the archive index could not be loaded.", "empty");
+          renderEmptyState("Search is temporarily unavailable because the archive index could not be loaded.");
+        });
+    };
+
+    form.addEventListener("submit", function (event) {
+      event.preventDefault();
+      applySearch();
+    });
+    input.addEventListener("input", function () {
+      window.clearTimeout(inputTimer);
+      inputTimer = window.setTimeout(applySearch, 120);
+    });
+    input.addEventListener("keydown", function (event) {
+      if (String(event.key || "") === "Escape" && String(input.value || "").trim()) {
+        input.value = "";
+        applySearch();
+      }
+    });
+    if (clearButton) {
+      clearButton.addEventListener("click", function () {
+        input.value = "";
+        applySearch();
+        input.focus();
+      });
+    }
+
+    ensureLoaded()
+      .then(function () {
+        var params = new URLSearchParams(window.location.search || "");
+        var initialQuery = String(params.get("q") || "").trim();
+        if (initialQuery) {
+          input.value = initialQuery;
+        }
+        applySearch();
+      })
+      .catch(function () {
+        setStatus("Search is temporarily unavailable because the archive index could not be loaded.", "empty");
+        renderEmptyState("Search is temporarily unavailable because the archive index could not be loaded.");
+      });
   }
 
   function initHomeCardNavigation() {
@@ -6023,6 +6342,7 @@
     initHomeResponsiveDisclosures();
     initHomeModeSwitcher();
     initHomeFilter();
+    initArchiveSearch();
     initHomeCardNavigation();
     initHierarchyGraphs();
     initEndnotesCollapsing();

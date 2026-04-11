@@ -42,6 +42,9 @@
       {% unless is_home_page %}
       <a class="nav-pill" href="{{ '/' | relative_url }}">{{ ui.home | default: 'Home' }}</a>
       {% endunless %}
+      {% unless current_url == '/search/' %}
+      <a class="nav-pill" href="{{ '/search/' | relative_url }}">{{ ui.search | default: 'Search' }}</a>
+      {% endunless %}
       {% assign top_topics = site.data.navigation.sidebar_generated %}
       {% if top_topics and top_topics.size > 0 %}
       {% assign single_topic = top_topics | first %}

@@ -13144,6 +13144,10 @@
       "url": "/"
     },
     {
+      "title": "Search",
+      "url": "/search"
+    },
+    {
       "title": "Archive intro",
       "url": "/homepage"
     },
