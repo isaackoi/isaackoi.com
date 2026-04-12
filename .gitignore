@@ -9,3 +9,7 @@ __pycache__/
 backups/
 content/
 site/
+jekyll-site/
+jekyll-site-preview/
+jekyll-site-preview-*/
+jekyll-public-repo/

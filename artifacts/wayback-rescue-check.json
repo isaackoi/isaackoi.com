@@ -1,0 +1,3041 @@
+{
+  "summary": {
+    "dead_urls_total": 433,
+    "with_any_capture": 9,
+    "with_2008_2012_capture": 5,
+    "errors": 423
+  },
+  "by_url": {
+    "http://www.star.ucl.ac.uk/~iac/isflight/isflight.html": {
+      "any_capture": true,
+      "near_2010_capture": false,
+      "latest_any": "20041205100045",
+      "latest_near": null,
+      "error": null
+    },
+    "http://www.nicap.dabsol.co.uk/Rufo.htm": {
+      "any_capture": true,
+      "near_2010_capture": false,
+      "latest_any": "20160201222858",
+      "latest_near": null,
+      "error": null
+    },
+    "http://toolbar.google.com": {
+      "any_capture": true,
+      "near_2010_capture": true,
+      "latest_any": "20191023023316",
+      "latest_near": "20120921081223",
+      "error": null
+    },
+    "http://www.projectbluebook.us/UFOs%20An%20Air%20Force%20Dilemma%20By%20Quintanilla.pdf": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.cufos.org/BB_Unknowns_1_7.pdf": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.alienphotos.k-netti.nu/main/photos.asp?wid=1611": {
+      "any_capture": true,
+      "near_2010_capture": true,
+      "latest_any": "20120823044344",
+      "latest_near": "20120823044344",
+      "error": null
+    },
+    "http://www.amazon.co.uk/dp/B000RATSR4/ref=nosim?tag=ufot-21": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.nicap.org/fsar/chapters.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.cia.gov/csi/studies/97unclass/ufo.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.nicap.dabsol.co.uk/fsar-chapters.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.forteantimes.com/strangedays/ufofiles/516/bill_chalkers_ufo_top_ten.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.csicop.org/si/2002-05/barker.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.aeiveos.com/~bradbury/ETI/Authors/Dyson-FJ/SfASSoIR_ltr.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.project1947.com/shg/symposium/contents.html%20": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.nicap.dabsol.co.uk/ufology.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.bluebookarchive.org": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.bluebookarchive.org/": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.scientificexploration.org/jse/articles/ufo_reports/sturrock/toc.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.scientificexploration.org/jse/articles/ufo_reports/sturrock/4.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.forteantimes.com/strangedays/ufofiles/524/hilary_evanss_ufo_top_ten.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.paranetinfo.com/UFO_Files/ufo/napol.txt": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.parascope.com/articles/0597/romindex.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://arealiensreal.org/alien-pictures-proof-that-aliens-exist/": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.forteantimes.com/strangedays/ufofiles/517/stanton_friedmans_ufo_top_ten.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.forteantimes.com/strangedays/ufofiles/520/thomas_e_bullards_ufo_top_ten.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.forteantimes.com/strangedays/ufofiles/518/gary_heseltines_ufo_top_ten.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.forteantimes.com/strangedays/ufofiles/521/nick_popes_ufo_top_ten.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.amazon.co.uk/dp/B00188IDHK/ref=nosim?tag=ufot-21": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://atitudesc.com.br/": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.forteantimes.com/strangedays/ufofiles/522/jenny_randless_ufo_top_ten.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.scientificexploration.org/jse/articles/maccabee/toc.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.scientificexploration.org/jse/articles/pdf/maccabee.pdf": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.scientificexploration.org/jse/articles/ufo_reports/vallee_phys/toc.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.setv.org/online_mss/reply92.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.v-j-enterprises.com/rockrept.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.daviddarling.info/encyclopedia/T/Tsiolkovskii.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://theparacast.com/cast/": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://tinyurl.com/2z89bq": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://tinyurl.com/oahe7": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.forteantimes.com/strangedays/ufofiles/519/greg_bishops_ufo_top_ten.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.forteantimes.com/strangedays/ufofiles/525/60_years_of_ufos_the_top_ten_cases.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://tinyurl.com/re7ae": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.associatedcontent.com/article/530855/interview_with_jeff_thomas_director.html?cat=40": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.bufora.org.uk/": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.crowdedskies.com/ufo_videos.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.nicap.org/cashlan.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.pacsci.org/traveling_exhibits/Aliens/Debunking.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.grantham.karoo.net/paul/silpho.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.krisavery.co.uk": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.imdb.com/title/tt0374474/": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.hyper.net/ufo.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.magonia.demon.co.uk/arc/90/entirelymk.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.magonia.demon.co.uk/arc/90/mysticspy.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.manbirdproductions.com/": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.nicap.org/hanedadir.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.theblackvault.com/content-9.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.sobeps.org/mainpage.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.ufodigest.com/news/0906/etmurders.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.nickpope.net/official_history.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.unknowncountry.com/insight/profound-wisdom-alien-video-whitley-strieber": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.shoah.plus.com/801/abduct/linda2.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.sufoi.dk/index-gb.php": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.thewhyfiles.net/": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.vania1917.com/": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://UFO-Personalities/gepan.htmlhttp:/www.isaackoi.com/UFO-Personalities/gepan.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://astrobiology.arc.nasa.gov/workshops/societal/societal_report.pdf": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.nicap.org/hilldir.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://bestevidence.blogspot.com/": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://bestevidence.blogspot.com/2007/04/first-30-seconds.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.daviddarling.info/encyclopedia/S/SciAdPanel.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://hessdalen.hiof.no/index_e.shtml": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://hessdalen.hiof.no/reports/hpreport84.shtml": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.shoah.plus.com/801/abduct/linda.html": {
+      "any_capture": true,
+      "near_2010_capture": false,
+      "latest_any": "20020911052416",
+      "latest_near": null,
+      "error": null
+    },
+    "http://illuminatethearts.org/projects/pi-in-the-sky/": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://home.fuse.net/arcsite/tomato.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://clydelewis.com/invest/lowery/lowery.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://magonia.haaan.com/2009/headhunt/": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://magsupp.mysite.wanadoo-members.co.uk/ms55.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://mufon.com/MUFON_Library_Author.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://cct.georgetown.edu/thesis/TimothyMitchell.pdf": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://binnallofamerica.com/koca.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://lakenheath.mysite.wanadoo-members.co.uk/background.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://redstarfilms.blogspot.com/2006/03/best-evidence-poll.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://hubpages.com/hub/Alien-Real-photos-UFO-original-Real-photos-images-Pictures": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://exhibits.pacsci.org/aliens/welcome2.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://redstarfilms.blogspot.com/2006/04/best-evidence-poll-results.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://redstarfilms.blogspot.com/2007/03/final-plug-for-radio-mysteriosos.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://ilmyanov.com/": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://rr0.org/Documents/Pratique/Ballester-Guasp.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.wptv.com/news/local-news/water-cooler/ufo-hoax-video-youtube-ufo-over-santa-clarita-video-from-aristomenis-tsirbas-goes-viral": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://science.nasa.gov/science-news/science-at-nasa/2004/03sep_genesisreentry/": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://theparacast.com/forums/showthread.php?t=352": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://tinwiki.org/wiki/Category:Aliens_and_UFOs": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://tinyurl.com/2kyzo5": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://tinyurl.com/2mn3c8": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://tinyurl.com/2nqzwy": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://tinyurl.com/2pzuo3": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://pitchfork.com/features/interviews/6103-chris-cunningham/": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://nai.arc.nasa.gov/": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://tinyurl.com/2vtr5c": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://tinyurl.com/2sx5le": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://tinyurl.com/2uln9h": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://tinyurl.com/3ay6jv": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://tinyurl.com/57mfn8": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://tinyurl.com/6cvbb9": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://tinyurl.com/yhzeall": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://ufocasebook.com/bestufovideos2.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://web.archive.org/web/20021213043204/http:/www2.strw.leidenuniv.nl/%7Evdmeulen/deeper/Articles/UFOfake.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://ufos.about.com/": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://users.ev1.net/~seektress/above.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://video.google.co.uk/videosearch?q=ufo+duration%3Along&num=10&so=0&start=0": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.aeiveos.com/~bradbury/ETI/Authors/Ball-JA/TZH.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.aeiveos.com/~bradbury/ETI/Authors/Dyson-FJ/DysonFA.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.aeiveos.com/~bradbury/ETI/Authors/Dyson-FJ/SfASSoIR.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://rossangeles.net/following/all": {
+      "any_capture": true,
+      "near_2010_capture": true,
+      "latest_any": "20110724045018",
+      "latest_near": "20110724045018",
+      "error": null
+    },
+    "http://www.aeiveos.com/~bradbury/ETI/FermiParadox/index.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.aemann.pwp.blueyonder.co.uk/spacecraft/nerva/nerva.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.alcione.org/VIDEONY1/videony1en.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.3dshop.org.uk/product.php?products_id=216&sessionid=645d5b1d2808edfbab6fce4b08aa4259": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.aaaa.demon.nl/reagan.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.abcfield.force9.co.uk/rpit/": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.alien-ufos.com/forum/showthread.php?t=10169": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.accesssacramento.org/about_us/event_calendars_section/training_workshops.html/event/2011/08/13/-omni-youth-programs-family-fun-fest-": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.aeiveos.com/~bradbury/ETI/Authors/Dyson-FJ/DysonShells.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.aeiveos.com/~bradbury/ETI/DrakeEquation/index.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.aemann.pwp.blueyonder.co.uk/spacecraft/daedalus/daedalus.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.artincontext.org/welcome/board.aspx": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.bautforum.com/showthread.php?t=37870": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.alien-ufos.com/forum/": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://video.google.com/videosearch?q=ufo+duration%3Ashort": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://tinyurl.com/3aucfw": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.alien-ufos.com/forum/showthread.php?t=16346": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.alien-ufos.com/forum/showthread.php?t=17948": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.alien-ufos.com/ufo-alien-discussions/2853-photo-severed-reptilian-head-mildly-graphic.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.amc.com/shows/freakshow/talk/2013/03/freakshow-george-bell-interview": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.archives.gov/foia/ufos.html<br ></a>": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.artincontext.org/exhibition/exhibition_image.aspx?id=2192": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.blackvault.com/documents/ufos/cia/robertson0.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.bluebookarchive.org/download.aspx": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.bluebookarchive.org/page.aspx?PageCode=MAXW-PBB1-5": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.bluebookarchive.org/page.aspx?PageCode=MAXW-PBB2-1095": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.bluebookarchive.org/page.aspx?PageCode=MAXW-PBB2-746": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.bluebookarchive.org/page.aspx?PageCode=MAXW-PBB2-892": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.bluebookarchive.org/page.aspx?PageCode=MAXW-PBB2-999": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.bluebookarchive.org/page.aspx?PageCode=MAXW-PBB1-83": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.bluebookarchive.org/page.aspx?PageCode=MAXW-PBB5-1451": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.bluebookarchive.org/page.aspx?PageCode=USAF-SIGN1-117": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.bluebookarchive.org/page.aspx?PageCode=MAXW-PBB2-817": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.bluebookarchive.org/page.aspx?PageCode=MAXW-PBB3-657": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.bluebookarchive.org/page.aspx?PageCode=MAXW-PBB4-684": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.bluebookarchive.org/page.aspx?PageCode=MAXW-PBB4-4": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.bluebookarchive.org/page.aspx?PageCode=MAXW-PBB11-911": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.bluebookarchive.org/page.aspx?PageCode=MAXW-PBB11-915": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.bluebookarchive.org/page.aspx?PageCode=USAF-SIGN1-173": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.bluebookarchive.org/page.aspx?PageCode=USAF-SIGN1-274": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.bluebookarchive.org/page.aspx?PageCode=MAXW-PBB8-196": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.bluebookarchive.org/page.aspx?PageCode=MAXW-PBB2-1111": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.bluebookarchive.org/page.aspx?PageCode=USAF-SIGN1-279": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.bluebookarchive.org/page.aspx?PageCode=USAF-SIGN2-532": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.chrisoakley.com/sales": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.cryptozoology.com/forum/topic_view_thread.php?tid=25&pid=297130": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.bluebookarchive.org/page.aspx?PageCode=USAF-SIGN1-512": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.bluebookarchive.org/page.aspx?PageCode=USAF-SIGN1-675": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.bluebookarchive.org/page.aspx?PageCode=USAF-SIGN1-81": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.conspiracyarchive.com/UFOs/boas-abduction.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.bluebookarchive.org/page.aspx?PageCode=USAF-SIGN1-245": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.boeing.com/boeing/defense-space/missiles/jdam/": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.bluebookarchive.org/page.aspx?PageCode=MAXW-PBB9-4": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.bluebookarchive.org/page.aspx?PageCode=USAF-SIGN2-779": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.cnes-geipan.fr/documents/stat_poher_71.pdf": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.coloribus.com/adsarchive/online-viral/easton-baseball-skeet-ball-14706705/": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.cufon.org/cufon/wash_nat/wash1952.ht": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.cinesite.com/visualeffects/": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.cufon.org/uhr/UHR10.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.cufon.org/uhr/uhr7.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.cufos.org/Roswell_fs1.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.csicop.org/si/2000-11/i-files.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.csicop.org/si/7809/sirius.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.csicop.org/si/9507/roswell.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.daviddarling.info/encyclopedia/A/APRO.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.cufos.org/Trindade_Clark_article.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.csicop.org/si/9511/mediawatch.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.cufos.org/advbooks.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.cufos.org/books.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.cufos.org/cometa.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.cufos.org/pubform.pdf": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.daviddarling.info/encyclopedia/C/Carter.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.dailystar.co.uk/news/latest-news/393350/Russian-climbing-monster-terrifies-YouTube-users-weirdest-stories": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.daviddarling.info/encyclopedia/A/Adamski.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.daviddarling.info/encyclopedia/A/Area51.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.daviddarling.info/encyclopedia/C/CondonE.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.cufon.org/uhr/uhr3.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.csicop.org/si/9511/autopsy.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.daviddarling.info/encyclopedia/A/Arnold.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.daviddarling.info/encyclopedia/A/alienab.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.daviddarling.info/encyclopedia/B/bioastronomy.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.daviddarling.info/encyclopedia/C/CUFOS.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.daviddarling.info/encyclopedia/C/Cascade.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.daviddarling.info/encyclopedia/C/Comm14.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.daviddarling.info/encyclopedia/K/Keyhoe.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.daviddarling.info/encyclopedia/C/CondonR.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.daviddarling.info/encyclopedia/E/Egryn.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.daviddarling.info/encyclopedia/K/Klass.html": {
+      "any_capture": true,
+      "near_2010_capture": true,
+      "latest_any": "20210415114506",
+      "latest_near": "20120510121854",
+      "error": null
+    },
+    "http://www.daviddarling.info/encyclopedia/D/Daniken.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.daviddarling.info/encyclopedia/D/Destination.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.daviddarling.info/encyclopedia/F/Freitas.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.daviddarling.info/encyclopedia/F/foofighter.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.daviddarling.info/encyclopedia/L/Lifearticle.html": {
+      "any_capture": true,
+      "near_2010_capture": true,
+      "latest_any": "20210507235501",
+      "latest_near": "20120124203626",
+      "error": null
+    },
+    "http://www.daviddarling.info/encyclopedia/I/IntelLife.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.daviddarling.info/encyclopedia/H/Hopkins.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.daviddarling.info/encyclopedia/L/LGM.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.daviddarling.info/encyclopedia/M/Mack.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.daviddarling.info/encyclopedia/L/LosAngelesAR.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.daviddarling.info/encyclopedia/M/McDonaldJ.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.daviddarling.info/encyclopedia/P/Palmer.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.daviddarling.info/encyclopedia/H/HorowitzP.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.daviddarling.info/encyclopedia/R/Ruppelt.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.daviddarling.info/encyclopedia/P/Persinger.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.daviddarling.info/encyclopedia/L/Lubbock.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.daviddarling.info/encyclopedia/M/MCconj.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.daviddarling.info/encyclopedia/S/Scully.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.daviddarling.info/encyclopedia/S/SearchforLife.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.daviddarling.info/encyclopedia/P/Panel2.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.daviddarling.info/encyclopedia/S/Socorro.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.daviddarling.info/encyclopedia/S/Sturrock.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.daviddarling.info/encyclopedia/V/Vallee.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.daviddarling.info/encyclopedia/R/RoswellUSAF.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.daviddarling.info/encyclopedia/D/DrakeE.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": null
+    },
+    "http://www.daviddarling.info/encyclopedia/S/SagansResponse.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.daviddarling.info/encyclopedia/T/templobelability.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.daviddarling.info/encyclopedia/W/WeNotAlone.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.daviddarling.info/encyclopedia/U/UFO_entries.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.daviddarling.info/encyclopedia/categories.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.eisenhower.archives.gov/research/Audiovisual/audiovisual/Photos/WorldWarII/WorldWarII.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.daviddarling.info/encyclopedia/W/WarofWorldsradio.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.daviddarling.info/encyclopedia/R/RoswellGAO.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.daviddarling.info/encyclopedia/W/WashInvasion.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.fatemag.com/1948Spring.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.daviddarling.info/encyclopedia/T/Tiplersargument.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.department47.com/index.php": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.daviddarling.info/encyclopedia/S/Shapiro.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.daviddarling.info/encyclopedia/S/Shaver.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.euroufo.net/content.asp?CatId=220&ContentType=Projects": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.daviddarling.info/encyclopedia/W/WarofWorldsnovel.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.eyebelieve.tv/10742/1417563/projects/petronas-mercedes-amg-abduction": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.daviddarling.info/encyclopedia/T/Tipler.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.fas.org/sgp/othergov/doe/lanl/la-10311-ms.pdf": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.foia.cia.gov/search.asp?pageNumber=1&freqReqRecord=ufo.txt": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.forteantimes.com/strangedays/ufofiles/348/alien_photography": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.forteantimes.com/articles/122_disin2.shtml": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.forteantimes.com/articles/191_space1.shtml": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.forteantimes.com/forum/viewtopic.php?t=30195": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.director-file.com/cunningham/sony-playstation-mental-wealth/": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.forteantimes.com/strangedays/ufofiles/348/alien_photography.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.forteantimes.com/strangedays/ufofiles/523/david_clarke_and_andy_roberts_ufo_top_ten.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.history.army.mil/brochures/normandy/nor-pam.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.jacquesvallee.net/bookdocs/classif.pdf": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.huffingtonpost.com/karin-e-baker/french-artist-barzolff-on_b_3717199.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.imdb.com/name/nm0203194/": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.imdb.com/title/tt0111021/fullcredits": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.indietalk.com/member.php?s=d4ca5938300096c6dd87040727ce9258&u=32870": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.iwm.org.uk/upload/package/2/gallipoli/pdf_files/azmak.pdf": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.magonia.demon.co.uk/abwatch/stars/stars2.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.hanasiana.com/archives/000107.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.john-humphreys.co.uk/gallery/alien_autopsy": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.homepagedaily.com/Pages/article1892-rottencom.aspx": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.magonia.demon.co.uk/arc/00/09.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.forteantimes.com/": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.gufoa.kheta.ge/ural-et.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.independent.ie/national-news/were-not-alone----politician--and-pilot--spot-ufo-1484949.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.magonia.demon.co.uk/abwatch/stars/stars3.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.magonia.demon.co.uk/abwatch/stars/stars4.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.magonia.demon.co.uk/abwatch/stars/stars5.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.magonia.demon.co.uk/arc/70/hoax.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.konsulting.com/PDF/LaPaz.PDF": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.majesticdocuments.com/index.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.lyricsdownload.com/byrds-the-cta102-lyrics.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.magonia.demon.co.uk/abwatch/stars/stars1.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.mufon.com/books.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.majesticdocuments.com/official.documents.nara.php": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.martiansgohome.com/smear/": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.microsoft.com/downloads/details.aspx?FamilyId=04D26402-3199-48A3-AFA2-2DC0B40A73B6&displaylang=en": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.mod.uk/DefenceInternet/FreedomOfInformation/PublicationScheme/SearchPublicationScheme/UnidentifiedAerialPhenomenauapInTheUkAirDefenceRegion.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.magonia.demon.co.uk/arc/00/hoaxreview.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.nicap.dabsol.co.uk/bolender2.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.nicap.dabsol.co.uk/fsar-chIII.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.mufon.com/famous_cases.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.mufon.com/famous_cases/Aurora%20Texas%20Crash%20Part%201%20MUFON%20Case%20File.pdf": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.mufon.com/famous_cases/Exeter%20Part%201%20MUFON%20Case%20File.pdf": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.mufon.com/famous_cases/Travis%20Walton%20Part%201%20MUFON%20Case%20File.pdf": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.nicap.org/470704edir.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.majesticdocuments.com/official/nicap.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.narcap.org/reports/004/tr-4c.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.nicap.dabsol.co.uk/fsar-chXVIII.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.nicap.org/baraunadir.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.nicap.org/480724adir.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.magonia.demon.co.uk/arc/00/ms20.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.mufon.com/famous_cases/1976%20Iran%20Part%201%20MUFON%20Case%20File.pdf": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.nicap.org/541014dir.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.nicap.org/640904dir.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.nicap.org/650903damondir.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.mundogrump.com.br,": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.nicap.org/660314dir.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.nicap.org/bios/connors.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.nicap.org/bios/friedman.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.nicap.dabsol.co.uk/zeta.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.nicap.dabsol.co.uk/two.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.nicap.org/bios/bullard.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.nicap.org/bios/fowler.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.nicap.org/bios/greenwood.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.nicap.org/bios/gross.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.nicap.org/bios/haines.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.nicap.org/bios/mhall.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.nicap.org/bios/johnson.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.nicap.org/arnolddir.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.nicap.org/bios/keyhoe.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.nicap.org/barradir.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.nicap.org/bios/mcdonald.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.nicap.org/bios/rodeghier.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.nicap.org/bios/stringfield.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.nicap.org/bios/wandrus.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.nicap.org/bios/hall.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.nicap.org/boacdir.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.nicap.org/gulfdir.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.nicap.org/bios/mccampbell.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.nicap.org/bios/ballester-olmos.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.nicap.org/ellsworthdir.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.nicap.org/heflindir.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.nicap.org/en-590626dir.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.nicap.org/exeterdir.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.nicap.org/bios/sturrock.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.nicap.org/fsar/chVIX.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.nicap.org/gormandir.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.nicap.org/brazmaj.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.nicap.org/mantell2.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.nicap.org/mcmindir.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.nicap.org/hicksontape.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.nicap.org/coynedir.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.nicap.org/bios/wbsmith.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.nicap.org/kelly-hendrydir.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.nicap.org/kinrossdir.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.nicap.org/leveldir.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.nicap.org/johnsondir.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.nicap.org/wns3.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.nicap.org/mainbrace.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.nicap.org/pascagouladir.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.nicap.org/portagedir.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.nicap.org/rb47dir.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.nicap.org/tehrandir.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.nicap.org/utahdir.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.nicap.org/lakendir.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.nickpope.net/Selected_Documents.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.odci.gov/csi/books/U2/u2.pdf": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.outoftheblue.tv/data/*": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.parascope.com/articles/0697/usafreport.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.nicap.org/ubatubadir.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.nicap.org/waltondir.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.phnx-international.com/news/Med_Sea_F-14B.pdf": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.nicap.org/wnsdir.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.pizzboxx.com/template.php?id_nav=1517": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.rand.org/pubs/reports/R414/": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.nicap.org/zamoradir.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.premiumwanadoo.com/universons": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.parascope.com/articles/0697/gaoreport.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.seti.org/site/pp.asp?c=ktJ2J9MMIsE&b=374605": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.project": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.scientificexploration.org/jse/articles/ufo_reports/sturrock/3.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.sartelcom.net/ET/ufo_nlo/ufo_nlo_sarajevo.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.nicap.org/wsandsdir.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.setv.org/online_mss/seta83.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.scifi.com/ufo/roper/": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.sebjaniak.com/": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.shoah.plus.com/801/abduct/rebutl.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.skepticfiles.org/mys5/ufo-4-27.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.nsa.gov/ufo/ufo00035.pdf": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.skepticfiles.org/ufo1/zetareti.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.skepticfiles.org/ufo1/hynekufo.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.prnewswire.com/news-releases/tequila--tbwachiatday-los-angeles-take-top-honors-at-40th-annual-belding-awards-56562432.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.theparacast.com/forums/": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.setv.org/online_mss/michaud92.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.theschwacorporation.com/": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.totse.com/en/fringe/government_ufo_coverups/reganufo.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.totse.com/en/fringe/mj_12_the_alien_government_conspiracy/goodbook.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.s-mart.freeserve.co.uk/BPRD/Geography/whogoes00.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.scientificexploration.org/jse/articles/ufo_reports/sturrock/5.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.ufo-blogger.com/2008/10/update-on-claimed-irish-ufooctober.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.spacecentre.ca/images/spacecentre-drone-creates-buzz-091013.pdf": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.sprocketfilms.net/clients.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.starseeds.net/profiles/blogs/ufo-crashes-into-latvia": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.stopabductions.com/gblHelp.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.sufoi.dk/publika/links/lnkeu-gb.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.ufodigest.com/video.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.ufocasebook.com/1954ufomothership.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.ufocasebook.com/bestufovideos1.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.ufocasebook.com/mpegvideo.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.skepticfiles.org/moretext/apollo.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.setv.org/online_mss/SETI-DofP.html": {
+      "any_capture": true,
+      "near_2010_capture": false,
+      "latest_any": "20061002142930",
+      "latest_near": null,
+      "error": null
+    },
+    "http://www.ufocasebook.com/videos2.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.ufodigest.com/news/0507/boas.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.ufoevidence.org/newsite/files/COMETA_part2.pdf": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.ufoscience.org/index.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.ufoskeptic.org/JBIS.pdf": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.virtuallystrange.net/cgi-bin/search-email.cgi?index=/ufo/updates/&key=cenap": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.virtuallystrange.net/cgi-bin/search-email.cgi?index=/ufo/updates/&key=ufo_miger": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.virtuallystrange.net/ufo/ufoupdates/listers/mantell.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.virtuallystrange.net/ufo/updates/1997/feb/m01-014.shtml": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.virtuallystrange.net/ufo/updates/1997/feb/m01-015.shtml": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.virtuallystrange.net/ufo/updates/1997/feb/m01-016.shtml": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.virtuallystrange.net/ufo/updates/1998/nov/m03-005.shtml": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.ufoevidence.org/newsite/files/COMETA_part1.pdf": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.virtuallystrange.net/ufo/updates/2002/jun/m17-012.shtml": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.v-j-enterprises.com/krill1.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.virtuallystrange.net/ufo/updates/2006/sep/m13-005.shtml": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.virtuallystrange.net/ufo/updates/2007/jan/m14-012.shtml": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.virtuallystrange.net/ufo/updates/1998/nov/m23-015.shtml": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.watchmen.de/people/": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.virtuallystrange.net/ufo/updates/1998/oct/m31-006.shtml": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.virtuallystrange.net/ufo/updates/latest/": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.virtuallystrange.net/ufo/updates/1998/nov/m01-008.shtml": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.virtuallystrange.net:80/ufo/sdi/program/": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.watchmen.de\"": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "https://vimeo.com/6037424": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.virtuallystrange.net/cgi-bin/search-email.cgi?index=/ufo/updates/&key=alexvi": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.yousaytoo.com/gigglesme/bizaree-and-weird-alien-and-ufo-pictures/7951": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://x.wanmei.com/": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "URLError(ConnectionRefusedError(10061, 'No connection could be made because the target machine actively refused it', None, 10061, None))"
+    },
+    "http://www.virtuallystrange.net/cgi-bin/search-email.cgi?index=/ufo/updates/&key=updates": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.virtuallystrange.net/ufo/updates/2002/jun/m06-014.shtml": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.virtuallystrange.net/ufo/updates/2002/jun/m03-007.shtml": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.virtuallystrange.net/ufo/updates/2006/may/m14-012.shtml": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "http://www.www.nicap.org/walesville-incident.htm": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "https://vk.com/diman_kataev": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "https://thetruthbehindthescenes.wordpress.com/2011/08/20/fleet-of-thousands-of-objects-over-sacramento-ca-a-sign-august-2011/": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    },
+    "https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/csi-studies/studies/97unclass/ufo.html": {
+      "any_capture": false,
+      "near_2010_capture": false,
+      "latest_any": null,
+      "latest_near": null,
+      "error": "TimeoutError('The read operation timed out')"
+    }
+  }
+}

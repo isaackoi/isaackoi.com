@@ -16,15 +16,32 @@ from dataclasses import dataclass
 from html import unescape
 from pathlib import Path, PurePosixPath
 from typing import Any
-from urllib.parse import parse_qs, urlparse
+from urllib.parse import parse_qs, unquote, urlencode, urlparse
 
 
 ASSET_PATTERN = re.compile(
     r"""(?:src|href)\s*=\s*["']([^"'#?]+(?:\?[^"']*)?)["']""",
     re.IGNORECASE,
 )
-RELATIVE_HTML_LINK_PATTERN = re.compile(
-    r'href=(["\'])(?!https?://|mailto:|/)([^"\']+\.html)(#[^"\']*)?\1',
+RELATIVE_LINK_HREF_PATTERN = re.compile(
+    r'href=(["\'])(?!https?://|mailto:|/|#)(.*?)\1',
+    re.IGNORECASE,
+)
+ABSOLUTE_INTERNAL_HTML_LINK_PATTERN = re.compile(
+    r'href=(["\'])(https?://(?:www\.)?isaackoi\.com/[^"\']+\.html)(#[^"\']*)?\1',
+    re.IGNORECASE,
+)
+LOCAL_FILE_LINK_PATTERN = re.compile(
+    r"<a\b(?P<before>[^>]*?)href=(?P<quote>[\"'])(?P<href>file:(?:/{2,3})?[^\"']+)"
+    r"(?P=quote)(?P<after>[^>]*)>(?P<label>.*?)</a>",
+    re.IGNORECASE | re.DOTALL,
+)
+LOCAL_FILE_IMAGE_PATTERN = re.compile(
+    r"<img\b[^>]*src=(?:[\"'])file:(?:/{2,3})?[^\"']+(?:[\"'])[^>]*>",
+    re.IGNORECASE,
+)
+CONTEXT_LINK_HREF_PATTERN = re.compile(
+    r'href=(["\'])([^"\']+)\1',
     re.IGNORECASE,
 )
 ARTICLE_INCLUDE_PATTERN = re.compile(
@@ -43,6 +60,7 @@ GOOGLE_HIGHLIGHT_SPAN_PATTERN = re.compile(
     r'<span\b[^>]*id="google-navclient-highlight"[^>]*>(.*?)</span>',
     re.IGNORECASE | re.DOTALL,
 )
+TAG_LINK_PATTERN = re.compile(r'href="/tags/([^"#?]+)"', re.IGNORECASE)
 STRIP_TAGS_PATTERN = re.compile(r"<[^>]+>")
 WHITESPACE_PATTERN = re.compile(r"\s+")
 MOJIBAKE_MARKERS = ("â", "Ã", "Â", "�")
@@ -78,6 +96,31 @@ BARE_EXTERNAL_LINK_PATTERN = re.compile(
     r"^[a-z0-9-]+(?:\.[a-z0-9-]+){2,}(?:/.*)?$",
     re.IGNORECASE,
 )
+LEGACY_SECTION_ROUTE_PREFIXES = {
+    "alien-photos": "/ufog/alien-photos",
+    "best-ufo-cases": "/ufog/best-ufo-cases",
+    "starter-pack": "/ufog/starter-pack",
+    "tags": "/tags",
+    "ufo": "/ufo-history/ufo",
+    "ufo-books": "/ufo-history/ufo-books",
+    "ufo-personalities": "/ufo-history/ufo-personalities",
+    "ufo-videos": "/ufog/ufo-videos",
+    "ufog": "/ufog",
+}
+TAG_STRIP_PATTERN = re.compile(r"<[^>]+>")
+LOCAL_FILE_LINK_TEXT_LOOKUP = {
+    "out of the shadows": "/ufo-history/ufo-books/clarke-david-and-roberts-andy-out-of-the-shadows",
+    "schmitt, donald": "/ufo-history/ufo-personalities/schmitt-donald-r",
+    "donald schmitt": "/ufo-history/ufo-personalities/schmitt-donald-r",
+    "john g fuller": "/ufo-history/ufo-personalities/fuller-john-g",
+}
+LOCAL_FILE_LINK_PATH_LOOKUP = {
+    "schmitt, donald r": "/ufo-history/ufo-personalities/schmitt-donald-r",
+}
+LOCAL_FILE_LINK_AUTHOR_TITLE_LOOKUP = {
+    ("stranges-frank", "the ufo conspiracy"): "/ufo-history/ufo-books/stranges-frank-the-ufo-conspiracy",
+    ("randles-jenny", "the ufo conspiracy"): "/ufo-history/ufo-books/randles-jenny-the-ufo-conspiracy",
+}
 LEGACY_LINK_ALIAS_LOOKUP = {
     "best-ufo-cases/27-quantitative-criteria-kois-card-ratings.html":
         "best-ufo-cases/27-quantitative-criteria-kois-ices-ratings.html",
@@ -88,6 +131,10 @@ LEGACY_LINK_ALIAS_LOOKUP = {
     "ufo-personalities/wilkins-harold-t.html": "ufo-personalities/wilkins-harold.html",
     "ufo-personalities/wilson-katharina.html": "ufo-personalities/wilson-k.html",
     "sitemap.html": "/sitemap",
+}
+INTENTIONALLY_OMITTED_ASSET_REFS = {
+    "images/stories/alien_photos/koi_ap_17_d.jpg",
+    "images/stories/alien_photos/koi_ap_66_bREMOVEDASTHISSHOWSADEADBODY.jpg",
 }
 
 
@@ -397,10 +444,23 @@ def select_core_tables(raw_tables: dict[str, list[dict[str, Any]]]) -> dict[str,
         "categories": f"{prefix}_categories",
         "users": f"{prefix}_users",
         "menu": f"{prefix}_menu",
+        "content_frontpage": f"{prefix}_content_frontpage",
         "redirect_links": f"{prefix}_redirect_links",
         "sefurls_bak": f"{prefix}_sefurls_bak",
         "tags": f"{prefix}_tags",
         "contentitem_tag_map": f"{prefix}_contentitem_tag_map",
+        "itpm_tags": f"{prefix}_itpm_tags",
+        "itpm_urls": f"{prefix}_itpm_urls",
+        "modules": f"{prefix}_modules",
+        "modules_menu": f"{prefix}_modules_menu",
+        "route66_metadata": f"{prefix}_route66_metadata",
+        "route66_sitemaps": f"{prefix}_route66_sitemaps",
+        "osmap_sitemaps": f"{prefix}_osmap_sitemaps",
+        "osmap_sitemap_menus": f"{prefix}_osmap_sitemap_menus",
+        "kunena_categories": f"{prefix}_kunena_categories",
+        "kunena_topics": f"{prefix}_kunena_topics",
+        "kunena_messages": f"{prefix}_kunena_messages",
+        "kunena_messages_text": f"{prefix}_kunena_messages_text",
     }
     selected = {alias: raw_tables.get(raw_name, []) for alias, raw_name in mapping.items()}
     selected["_prefix"] = [{"value": prefix}]
@@ -412,6 +472,7 @@ class AssetLookup:
     filesystem_root: Path
     archive_index: JPAArchiveIndex | None
     asset_source: dict[str, Any]
+    canonical_assets: dict[str, str]
 
 
 class MultiPartBinaryReader:
@@ -554,6 +615,41 @@ def read_jpa_member_with_reader(
     raise ValueError(f"Unsupported JPA compression type: {entry.compression_type}")
 
 
+def asset_alias_keys(path: str) -> set[str]:
+    normalized = normalize_archive_path(path)
+    path_obj = PurePosixPath(normalized)
+    keys = {normalized.lower()}
+    stem = path_obj.stem
+    suffix = path_obj.suffix
+    if stem.lower().startswith("koi_"):
+        keys.add(str(path_obj.with_name(stem[4:] + suffix)).lower())
+    else:
+        keys.add(str(path_obj.with_name(f"koi_{stem}{suffix}")).lower())
+    return keys
+
+
+def collect_available_assets(joomla_root: Path, archive_index: JPAArchiveIndex | None) -> set[str]:
+    available_assets: set[str] = set()
+    if archive_index:
+        available_assets.update(path for path in archive_index.entries.keys() if is_asset_ref(path))
+    if joomla_root.exists():
+        for path in joomla_root.rglob("*"):
+            if not path.is_file():
+                continue
+            relative = normalize_archive_path(path.relative_to(joomla_root).as_posix())
+            if is_asset_ref(relative):
+                available_assets.add(relative)
+    return available_assets
+
+
+def build_canonical_asset_lookup(available_assets: set[str]) -> dict[str, str]:
+    canonical_assets: dict[str, str] = {}
+    for asset in sorted(available_assets):
+        for alias_key in asset_alias_keys(asset):
+            canonical_assets.setdefault(alias_key, asset)
+    return canonical_assets
+
+
 def build_asset_lookup(joomla_root: Path) -> AssetLookup:
     archive_parts = detect_jpa_parts(joomla_root)
     archive_index = build_jpa_index(archive_parts) if archive_parts else None
@@ -577,22 +673,30 @@ def build_asset_lookup(joomla_root: Path) -> AssetLookup:
         "archives": [path.name for path in archive_parts],
         "archive_indexed_entries": archive_index.file_count if archive_index else 0,
     }
-    return AssetLookup(filesystem_root=joomla_root, archive_index=archive_index, asset_source=asset_source)
+    available_assets = collect_available_assets(joomla_root, archive_index)
+    canonical_assets = build_canonical_asset_lookup(available_assets)
+    return AssetLookup(
+        filesystem_root=joomla_root,
+        archive_index=archive_index,
+        asset_source=asset_source,
+        canonical_assets=canonical_assets,
+    )
 
 
 def materialize_asset(asset_ref: str, asset_lookup: AssetLookup, output_root: Path) -> str | None:
     normalized = normalize_archive_path(asset_ref)
+    canonical = asset_lookup.canonical_assets.get(normalized.lower(), normalized)
     output_path = output_root.joinpath(*PurePosixPath(normalized).parts)
     output_path.parent.mkdir(parents=True, exist_ok=True)
 
-    filesystem_source = asset_lookup.filesystem_root.joinpath(*PurePosixPath(normalized).parts)
+    filesystem_source = asset_lookup.filesystem_root.joinpath(*PurePosixPath(canonical).parts)
     if filesystem_source.exists():
         shutil.copyfile(filesystem_source, output_path)
         return "filesystem"
 
-    if asset_lookup.archive_index and normalized in asset_lookup.archive_index.entries:
+    if asset_lookup.archive_index and canonical in asset_lookup.archive_index.entries:
         reader = MultiPartBinaryReader(asset_lookup.archive_index.archives)
-        payload = read_jpa_member_with_reader(asset_lookup.archive_index, normalized, reader)
+        payload = read_jpa_member_with_reader(asset_lookup.archive_index, canonical, reader)
         output_path.write_bytes(payload)
         return "jpa-archive"
 
@@ -741,10 +845,29 @@ def extract_asset_refs(body: str, image_refs: list[str]) -> list[str]:
     seen: set[str] = set()
     for ref in refs:
         normalized = ref.replace("\\", "/")
+        if normalized in INTENTIONALLY_OMITTED_ASSET_REFS:
+            continue
         if normalized not in seen:
             seen.add(normalized)
             unique.append(normalized)
     return unique
+
+
+def strip_intentionally_omitted_assets(body: str) -> str:
+    normalized = body
+    for asset_ref in INTENTIONALLY_OMITTED_ASSET_REFS:
+        escaped = re.escape(asset_ref)
+        paragraph_pattern = re.compile(
+            rf'<p\b[^>]*>\s*<img\b[^>]*src=["\']{escaped}["\'][^>]*>\s*</p>',
+            re.IGNORECASE,
+        )
+        image_pattern = re.compile(
+            rf'<img\b[^>]*src=["\']{escaped}["\'][^>]*>',
+            re.IGNORECASE,
+        )
+        normalized = paragraph_pattern.sub("", normalized)
+        normalized = image_pattern.sub("", normalized)
+    return normalized
 
 
 def build_link_lookup(
@@ -828,6 +951,12 @@ def normalize_sef_target(sefurl: str) -> str:
     return "/" + cleaned if cleaned else "/"
 
 
+def append_fragment(route: str, fragment: str | None) -> str:
+    if not fragment:
+        return route
+    return f"{route}#{fragment}"
+
+
 def classify_origurl(origurl: str) -> str:
     if "option=com_tags" in origurl:
         return "com_tags"
@@ -886,32 +1015,523 @@ def normalize_summary_text(value: str | None) -> str | None:
     return text or None
 
 
+def tag_slug_to_label(slug: str) -> str:
+    if slug.isdigit():
+        return slug
+    words = slug.replace("-", " ").replace("_", " ").split()
+    if not words:
+        return slug
+    return " ".join(word.capitalize() for word in words)
+
+
+def extract_body_tags(body: str) -> list[str]:
+    tags: list[str] = []
+    seen: set[str] = set()
+    for raw_tag in TAG_LINK_PATTERN.findall(body):
+        decoded = unquote(raw_tag).strip().strip("/")
+        tag = slugify(decoded, fallback="")
+        if not tag or tag in seen:
+            continue
+        seen.add(tag)
+        tags.append(tag)
+    return sorted(tags)
+
+
+def merge_item_tags(items: list[dict[str, Any]]) -> None:
+    for item in items:
+        merged = sorted(set(item.get("tags", [])) | set(extract_body_tags(item.get("body", ""))))
+        item["tags"] = merged
+
+
+def build_tags_index(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    tag_map: dict[str, dict[str, Any]] = {}
+    for item in items:
+        if item.get("status") != "published":
+            continue
+        for tag in item.get("tags", []):
+            record = tag_map.setdefault(
+                tag,
+                {
+                    "slug": tag,
+                    "label": tag_slug_to_label(tag),
+                    "count": 0,
+                    "items": [],
+                },
+            )
+            record["count"] += 1
+            record["items"].append(
+                {
+                    "source_id": item["source_id"],
+                    "title": item["title"],
+                    "url": item["original_url"],
+                    "category": item.get("category"),
+                }
+            )
+    for record in tag_map.values():
+        record["items"].sort(key=lambda row: (row["title"].lower(), row["url"]))
+    return sorted(tag_map.values(), key=lambda row: (-row["count"], row["slug"]))
+
+
+def build_homepage_intent(
+    frontpage_rows: list[dict[str, Any]],
+    menu_index: list[dict[str, Any]],
+    items: list[dict[str, Any]],
+) -> dict[str, Any]:
+    item_by_id = {
+        item["source_id"]: item
+        for item in items
+        if isinstance(item.get("source_id"), int)
+    }
+    featured_items: list[dict[str, Any]] = []
+    for row in sorted(frontpage_rows, key=lambda entry: (entry.get("ordering") or 0, entry.get("content_id") or 0)):
+        content_id = row.get("content_id")
+        item = item_by_id.get(content_id)
+        featured_items.append(
+            {
+                "content_id": content_id,
+                "ordering": row.get("ordering"),
+                "featured_up": normalize_timestamp(row.get("featured_up")),
+                "featured_down": normalize_timestamp(row.get("featured_down")),
+                "matched_item": (
+                    {
+                        "source_id": item["source_id"],
+                        "title": item["title"],
+                        "url": item["original_url"],
+                        "status": item["status"],
+                    }
+                    if item
+                    else None
+                ),
+            }
+        )
+
+    home_menu = next(
+        (
+            row for row in menu_index
+            if row.get("published") in (1, "1", True)
+            and row.get("home") in (1, "1", True)
+        ),
+        None,
+    )
+    if home_menu is None:
+        home_menu = next(
+            (
+                row for row in menu_index
+                if row.get("published") in (1, "1", True)
+                and str(row.get("title") or "").strip().lower() == "home"
+            ),
+            None,
+        )
+
+    return {
+        "featured_count": len(featured_items),
+        "featured_items": featured_items,
+        "home_menu": (
+            {
+                "id": home_menu.get("id"),
+                "title": home_menu.get("title"),
+                "path": home_menu.get("path"),
+                "link": home_menu.get("link"),
+                "menutype": home_menu.get("menutype"),
+            }
+            if home_menu
+            else None
+        ),
+    }
+
+
+def build_social_metadata(
+    legacy_route_catalog: list[dict[str, Any]],
+    url_rows: list[dict[str, Any]],
+    tag_rows: list[dict[str, Any]],
+) -> list[dict[str, Any]]:
+    legacy_lookup = {
+        "/" + str(row["sefurl"]).strip().lstrip("/"): row["target_path"]
+        for row in legacy_route_catalog
+    }
+    tags_by_url_id: dict[int, list[dict[str, Any]]] = defaultdict(list)
+    for row in tag_rows:
+        url_id = row.get("url_id")
+        if isinstance(url_id, int):
+            tags_by_url_id[url_id].append(row)
+
+    records: list[dict[str, Any]] = []
+    for row in sorted(url_rows, key=lambda entry: entry.get("id") or 0):
+        url_id = row.get("id")
+        if not isinstance(url_id, int):
+            continue
+        uri = str(row.get("uri") or "").strip()
+        if not uri:
+            continue
+        metadata: dict[str, list[str]] = defaultdict(list)
+        for tag in sorted(tags_by_url_id.get(url_id, []), key=lambda entry: (entry.get("ordering") or 0, entry.get("id") or 0)):
+            tag_type = str(tag.get("type") or tag.get("name") or "").strip()
+            content = str(tag.get("content") or "").strip()
+            if tag_type and content:
+                metadata[tag_type].append(content)
+        records.append(
+            {
+                "url_id": url_id,
+                "uri": uri,
+                "target_path": legacy_lookup.get(uri, normalize_sef_target(uri)),
+                "published": row.get("published"),
+                "primary_url": row.get("primary_url"),
+                "metadata": dict(sorted(metadata.items())),
+            }
+        )
+    return records
+
+
+def build_secondary_content_inventory(tables: dict[str, list[dict[str, Any]]]) -> dict[str, Any]:
+    published_frontend_modules = [
+        row
+        for row in tables.get("modules", [])
+        if row.get("published") in (1, "1", True) and row.get("client_id") in (0, "0", None)
+    ]
+    kunena_topics = tables.get("kunena_topics", [])
+    kunena_messages = tables.get("kunena_messages", [])
+
+    return {
+        "homepage_feature_rows": len(tables.get("content_frontpage", [])),
+        "social_metadata_urls": len(tables.get("itpm_urls", [])),
+        "social_metadata_tags": len(tables.get("itpm_tags", [])),
+        "published_frontend_modules": len(published_frontend_modules),
+        "published_frontend_module_titles": [
+            str(row.get("title") or "")
+            for row in published_frontend_modules[:12]
+        ],
+        "kunena": {
+            "categories": len(tables.get("kunena_categories", [])),
+            "topics": len(kunena_topics),
+            "messages": len(kunena_messages),
+            "sample_subjects": [
+                str(row.get("subject") or "")
+                for row in kunena_topics[:5]
+            ],
+        },
+        "route66": {
+            "metadata_rows": len(tables.get("route66_metadata", [])),
+            "sitemaps": len(tables.get("route66_sitemaps", [])),
+        },
+        "osmap": {
+            "sitemaps": len(tables.get("osmap_sitemaps", [])),
+            "sitemap_menu_links": len(tables.get("osmap_sitemap_menus", [])),
+        },
+    }
+
+
+def parse_content_identifier(value: str | None) -> int | None:
+    if not value:
+        return None
+    raw = value.split(":")[0]
+    if raw.isdigit():
+        return int(raw)
+    return None
+
+
+def build_public_nav(
+    menus: list[dict[str, Any]],
+    items: list[dict[str, Any]],
+    categories: list[dict[str, Any]],
+) -> list[dict[str, Any]]:
+    allowed_content_views = {"article", "category", "categories"}
+    article_routes = {
+        item["source_id"]: item["original_url"]
+        for item in items
+        if isinstance(item.get("source_id"), int)
+    }
+    category_routes = {
+        row["id"]: "/" + str(row.get("path") or "").strip("/")
+        for row in categories
+        if isinstance(row.get("id"), int)
+        and row.get("extension") in (None, "com_content")
+        and str(row.get("path") or "").strip("/")
+    }
+
+    included_rows: list[dict[str, Any]] = []
+    included_ids: set[int] = set()
+    for menu in menus:
+        identifier = menu.get("id")
+        if not isinstance(identifier, int):
+            continue
+        if menu.get("published") not in (1, "1", True):
+            continue
+        link = menu.get("link")
+        if not isinstance(link, str) or not link.strip():
+            continue
+
+        route = None
+        parsed = urlparse(link)
+        query = parse_qs(parsed.query)
+        option = (query.get("option") or [None])[0]
+        view = (query.get("view") or [None])[0]
+
+        if option == "com_content" and view == "article":
+            article_id = parse_content_identifier((query.get("id") or query.get("a_id") or [None])[0])
+            if article_id is not None:
+                route = article_routes.get(article_id)
+        elif option == "com_content" and view in {"category", "categories"}:
+            category_id = parse_content_identifier((query.get("id") or [None])[0])
+            if category_id is not None:
+                route = category_routes.get(category_id)
+        elif option == "com_tags" and view == "tags":
+            route = "/tags"
+
+        if not route:
+            continue
+
+        if option == "com_content" and view not in allowed_content_views:
+            continue
+        if option not in {"com_content", "com_tags"}:
+            continue
+
+        included_rows.append(
+            {
+                "id": identifier,
+                "title": menu.get("title"),
+                "path": menu.get("path"),
+                "route": route,
+                "type": menu.get("type"),
+                "menutype": menu.get("menutype"),
+                "level": menu.get("level"),
+                "parent_id": menu.get("parent_id"),
+                "home": menu.get("home"),
+                "link": link,
+            }
+        )
+        included_ids.add(identifier)
+
+    for row in included_rows:
+        if row["parent_id"] not in included_ids:
+            row["parent_id"] = None
+
+    return sorted(included_rows, key=lambda row: ((row["path"] or ""), row["id"]))
+
+
+def build_missing_assets_audit(items: list[dict[str, Any]], asset_lookup: AssetLookup) -> list[dict[str, Any]]:
+    available_assets = collect_available_assets(asset_lookup.filesystem_root, asset_lookup.archive_index)
+
+    directory_index: dict[str, list[str]] = defaultdict(list)
+    for asset in available_assets:
+        directory_index[str(PurePosixPath(asset).parent)].append(asset)
+    for siblings in directory_index.values():
+        siblings.sort()
+
+    grouped: dict[str, dict[str, Any]] = {}
+    for item in items:
+        for asset in item["asset_resolution"]["missing"]:
+            normalized = normalize_archive_path(asset)
+            record = grouped.setdefault(
+                normalized,
+                {
+                    "asset_ref": normalized,
+                    "count": 0,
+                    "affected_items": [],
+                },
+            )
+            record["count"] += 1
+            if len(record["affected_items"]) < 10:
+                record["affected_items"].append(
+                    {
+                        "source_id": item["source_id"],
+                        "title": item["title"],
+                        "url": item["original_url"],
+                    }
+                )
+
+    audit: list[dict[str, Any]] = []
+    for asset_ref, record in grouped.items():
+        asset_path = PurePosixPath(asset_ref)
+        directory = str(asset_path.parent)
+        siblings = directory_index.get(directory, [])
+        stem = asset_path.stem.lower()
+        suffix = asset_path.suffix.lower()
+
+        def split_sequence_marker(value: str) -> tuple[str, str] | None:
+            match = re.match(r"^(.*?)(?:[_-]?)([a-z]|\d+)$", value, re.IGNORECASE)
+            if not match:
+                return None
+            base = match.group(1)
+            marker = match.group(2)
+            if not base:
+                return None
+            return base.lower(), marker.lower()
+
+        same_stem = [
+            candidate
+            for candidate in siblings
+            if PurePosixPath(candidate).stem.lower() == stem and PurePosixPath(candidate).suffix.lower() != suffix
+        ]
+        renamed_prefix = stem.removeprefix("koi_")
+        rename_candidates = [
+            candidate
+            for candidate in siblings
+            if PurePosixPath(candidate).stem.lower() in {stem, renamed_prefix}
+            or PurePosixPath(candidate).stem.lower().removeprefix("koi_") == renamed_prefix
+        ]
+        desired_sequence = split_sequence_marker(stem)
+        sequence_candidates = [
+            candidate
+            for candidate in siblings
+            if desired_sequence
+            and split_sequence_marker(PurePosixPath(candidate).stem.lower())
+            and split_sequence_marker(PurePosixPath(candidate).stem.lower())[0] == desired_sequence[0]
+        ]
+
+        nearby_candidates = same_stem or rename_candidates or sequence_candidates
+        classification = "missing-in-backup"
+        suggested_action = "verify-source-or-remove-reference"
+        suggested_target = None
+        if same_stem:
+            classification = "extension-variant-candidate"
+            suggested_action = "review-extension-variant"
+        elif rename_candidates and any(PurePosixPath(candidate).stem.lower() != stem for candidate in rename_candidates):
+            classification = "possible-rename"
+            suggested_action = "alias-to-existing-asset"
+            if len(rename_candidates) == 1:
+                suggested_target = rename_candidates[0]
+        elif sequence_candidates:
+            classification = "sequence-gap"
+            suggested_action = "source-missing-sequence-member"
+
+        audit.append(
+            {
+                "asset_ref": asset_ref,
+                "count": record["count"],
+                "classification": classification,
+                "suggested_action": suggested_action,
+                "suggested_target": suggested_target,
+                "nearby_candidates": nearby_candidates[:12],
+                "affected_items": record["affected_items"],
+            }
+        )
+
+    return sorted(audit, key=lambda row: (-row["count"], row["asset_ref"]))
+
+
 def resolve_relative_link_target(href: str, link_lookup: dict[str, str]) -> str | None:
-    href_lower = href.lower()
+    raw = href.strip()
+    parsed = urlparse(raw)
+    if parsed.scheme.lower() in {"http", "https"} and parsed.netloc:
+        return None
+    if parsed.path.lower() == "search.html":
+        params = parse_qs(parsed.query)
+        query = (params.get("searchword") or params.get("q") or [""])[0].strip()
+        if not query:
+            return "/search/"
+        return "/search/?" + urlencode({"q": query})
+
+    cleaned_path = unquote(parsed.path or "").strip().lstrip("/").rstrip(" '\"")
+    if not cleaned_path:
+        return None
+
+    href_lower = cleaned_path.lower()
     target = link_lookup.get(href_lower)
     if target:
-        return target
+        return append_fragment(target, parsed.fragment)
 
     if href_lower.startswith("tags/"):
-        return normalize_sef_target(href)
+        return append_fragment(normalize_sef_target(cleaned_path), parsed.fragment)
 
     alias_target = LEGACY_LINK_ALIAS_LOOKUP.get(href_lower)
     if alias_target:
         resolved_alias_target = link_lookup.get(alias_target.lower())
         if resolved_alias_target:
-            return resolved_alias_target
-        return normalize_sef_target(alias_target)
+            return append_fragment(resolved_alias_target, parsed.fragment)
+        return append_fragment(normalize_sef_target(alias_target), parsed.fragment)
 
     if href_lower.endswith("q.html"):
         without_q = f"{href_lower[:-6]}.html"
         target = link_lookup.get(without_q)
         if target:
-            return target
+            return append_fragment(target, parsed.fragment)
 
-    if BARE_EXTERNAL_LINK_PATTERN.match(href):
-        return f"http://{href}"
+    if BARE_EXTERNAL_LINK_PATTERN.match(raw):
+        return f"http://{raw}"
+
+    if href_lower.endswith(".html"):
+        stem = cleaned_path[:-5]
+        first_segment = stem.split("/", 1)[0].lower()
+        if first_segment in LEGACY_SECTION_ROUTE_PREFIXES:
+            base_route = LEGACY_SECTION_ROUTE_PREFIXES[first_segment]
+            remainder = stem.split("/", 1)[1] if "/" in stem else ""
+            route = base_route if not remainder else f"{base_route}/{remainder}"
+            return append_fragment(route, parsed.fragment)
+        return append_fragment(normalize_sef_target(cleaned_path), parsed.fragment)
+
+    first_segment = cleaned_path.split("/", 1)[0].lower()
+    if first_segment in LEGACY_SECTION_ROUTE_PREFIXES:
+        base_route = LEGACY_SECTION_ROUTE_PREFIXES[first_segment]
+        remainder = cleaned_path.split("/", 1)[1] if "/" in cleaned_path else ""
+        route = base_route if not remainder else f"{base_route}/{remainder}"
+        return append_fragment(route, parsed.fragment)
 
     return None
+
+
+def resolve_absolute_internal_link_target(href: str, link_lookup: dict[str, str]) -> str | None:
+    parsed = urlparse(href)
+    if parsed.scheme.lower() not in {"http", "https"}:
+        return None
+    if parsed.netloc.lower() not in {"isaackoi.com", "www.isaackoi.com"}:
+        return None
+    candidate = parsed.path.lstrip("/")
+    if not candidate:
+        return "/"
+    candidate_with_suffix = candidate
+    if parsed.query:
+        candidate_with_suffix += f"?{parsed.query}"
+    if parsed.fragment:
+        candidate_with_suffix += f"#{parsed.fragment}"
+    target = resolve_relative_link_target(candidate_with_suffix, link_lookup)
+    if target:
+        return target
+    if candidate.lower().endswith(".html"):
+        return append_fragment(normalize_sef_target(candidate), parsed.fragment)
+    return None
+
+
+def normalize_link_label(label_html: str) -> str:
+    stripped = TAG_STRIP_PATTERN.sub("", label_html)
+    return " ".join(unescape(stripped).replace("\xa0", " ").split()).lower()
+
+
+def resolve_contextual_personality_slug(context_html: str, link_lookup: dict[str, str]) -> str | None:
+    for _, href in reversed(CONTEXT_LINK_HREF_PATTERN.findall(context_html)):
+        candidate = href.strip()
+        if not candidate or candidate.lower().startswith("file:"):
+            continue
+        if candidate.startswith("/ufo-history/ufo-personalities/"):
+            return candidate.rstrip("/").split("/")[-1].lower()
+        resolved = resolve_relative_link_target(candidate, link_lookup)
+        if resolved and resolved.startswith("/ufo-history/ufo-personalities/"):
+            return resolved.rstrip("/").split("/")[-1].lower()
+    return None
+
+
+def resolve_local_file_link_target(
+    href: str,
+    label_html: str,
+    link_lookup: dict[str, str],
+    context_html: str = "",
+) -> str | None:
+    label_key = normalize_link_label(label_html)
+    target = LOCAL_FILE_LINK_TEXT_LOOKUP.get(label_key)
+    if target:
+        return target
+
+    author_slug = resolve_contextual_personality_slug(context_html, link_lookup)
+    if author_slug:
+        contextual_target = LOCAL_FILE_LINK_AUTHOR_TITLE_LOOKUP.get((author_slug, label_key))
+        if contextual_target:
+            return contextual_target
+
+    parsed = urlparse(href)
+    normalized_path = unquote(parsed.path or "").replace("\\", "/").rstrip("/")
+    if not normalized_path:
+        return None
+    path_key = normalized_path.split("/")[-1].strip().lower()
+    return LOCAL_FILE_LINK_PATH_LOOKUP.get(path_key)
 
 
 def normalize_body_html(
@@ -927,6 +1547,8 @@ def normalize_body_html(
     normalized = SCRIPT_TAG_PATTERN.sub("", normalized)
     normalized = NAMESPACED_TAG_PATTERN.sub("", normalized)
     normalized = GOOGLE_HIGHLIGHT_SPAN_PATTERN.sub(r"\1", normalized)
+    normalized = LOCAL_FILE_IMAGE_PATTERN.sub("", normalized)
+    normalized = strip_intentionally_omitted_assets(normalized)
 
     if depth < 2:
         def replace_article(match: re.Match[str]) -> str:
@@ -941,16 +1563,42 @@ def normalize_body_html(
     else:
         normalized = ARTICLE_INCLUDE_PATTERN.sub("", normalized)
 
+    def replace_local_file_link(match: re.Match[str]) -> str:
+        context_html = normalized[max(0, match.start() - 500):match.start()]
+        target = resolve_local_file_link_target(
+            match.group("href"),
+            match.group("label"),
+            link_lookup,
+            context_html,
+        )
+        if not target:
+            return match.group("label")
+        before = match.group("before")
+        after = match.group("after")
+        return f'<a{before}href="{target}"{after}>{match.group("label")}</a>'
+
+    normalized = LOCAL_FILE_LINK_PATTERN.sub(replace_local_file_link, normalized)
+
     def replace_href(match: re.Match[str]) -> str:
         quote = match.group(1)
         href = match.group(2)
-        fragment = match.group(3) or ""
         target = resolve_relative_link_target(href, link_lookup)
+        if not target:
+            return match.group(0)
+        return f'href={quote}{target}{quote}'
+
+    normalized = RELATIVE_LINK_HREF_PATTERN.sub(replace_href, normalized)
+
+    def replace_absolute_internal_href(match: re.Match[str]) -> str:
+        quote = match.group(1)
+        href = match.group(2)
+        fragment = match.group(3) or ""
+        target = resolve_absolute_internal_link_target(href, link_lookup)
         if not target:
             return match.group(0)
         return f'href={quote}{target}{fragment}{quote}'
 
-    normalized = RELATIVE_HTML_LINK_PATTERN.sub(replace_href, normalized)
+    normalized = ABSOLUTE_INTERNAL_HTML_LINK_PATTERN.sub(replace_absolute_internal_href, normalized)
     return normalized
 
 
@@ -1088,11 +1736,12 @@ def resolve_assets(asset_refs: list[str], asset_lookup: AssetLookup) -> dict[str
     missing: list[str] = []
     for asset_ref in asset_refs:
         normalized = normalize_archive_path(asset_ref)
-        candidate = asset_lookup.filesystem_root.joinpath(*PurePosixPath(normalized).parts)
+        canonical = asset_lookup.canonical_assets.get(normalized.lower(), normalized)
+        candidate = asset_lookup.filesystem_root.joinpath(*PurePosixPath(canonical).parts)
         exists_in_fs = candidate.exists()
         exists_in_archive = (
             asset_lookup.archive_index is not None
-            and normalized in asset_lookup.archive_index.entries
+            and canonical in asset_lookup.archive_index.entries
         )
         if exists_in_fs or exists_in_archive:
             resolved.append(asset_ref)
@@ -1200,6 +1849,7 @@ def build_items(tables: dict[str, list[dict[str, Any]]], asset_lookup: AssetLook
         }
         items.append(item)
 
+    merge_item_tags(items)
     items.sort(key=lambda item: (item["slug"], item["source_id"]))
     return items
 
@@ -1247,6 +1897,7 @@ def build_menu_index(menus: list[dict[str, Any]]) -> list[dict[str, Any]]:
                 "type": row.get("type"),
                 "menutype": row.get("menutype"),
                 "published": row.get("published"),
+                "home": row.get("home"),
                 "parent_id": row.get("parent_id"),
                 "level": row.get("level"),
             }
@@ -1277,8 +1928,10 @@ def build_category_index(categories: list[dict[str, Any]]) -> list[dict[str, Any
 def build_unresolved_relative_links(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
     refs: dict[str, dict[str, Any]] = {}
     for item in items:
-        for match in RELATIVE_HTML_LINK_PATTERN.finditer(item["body"]):
-            href = match.group(2) + (match.group(3) or "")
+        for match in RELATIVE_LINK_HREF_PATTERN.finditer(item["body"]):
+            href = match.group(2)
+            if is_asset_ref(href):
+                continue
             entry = refs.setdefault(href, {"href": href, "count": 0, "source_ids": []})
             entry["count"] += 1
             if len(entry["source_ids"]) < 10 and item["source_id"] not in entry["source_ids"]:
@@ -1338,6 +1991,8 @@ def build_content_audit(items: list[dict[str, Any]], unresolved_relative_links: 
         "items_with_missing_assets": sum(1 for item in items if item["asset_resolution"]["missing"]),
         "unresolved_relative_link_targets": len(unresolved_relative_links),
         "unresolved_relative_link_occurrences": sum(row["count"] for row in unresolved_relative_links),
+        "items_with_tags": sum(1 for item in items if item.get("tags")),
+        "distinct_tags": len({tag for item in items for tag in item.get("tags", [])}),
     }
 
 
@@ -1505,7 +2160,17 @@ def run_extraction(
     legacy_route_catalog = build_legacy_route_catalog(tables.get("sefurls_bak", []))
     menu_index = build_menu_index(tables.get("menu", []))
     category_index = build_category_index(tables.get("categories", []))
+    public_nav = build_public_nav(menu_index, items, category_index)
+    tags_index = build_tags_index(items)
+    homepage_intent = build_homepage_intent(tables.get("content_frontpage", []), menu_index, items)
+    social_metadata = build_social_metadata(
+        legacy_route_catalog,
+        tables.get("itpm_urls", []),
+        tables.get("itpm_tags", []),
+    )
     unresolved_relative_links = build_unresolved_relative_links(items)
+    missing_assets_audit = build_missing_assets_audit(items, asset_lookup)
+    secondary_content_inventory = build_secondary_content_inventory(tables)
     template_inventory = build_template_inventory(asset_lookup)
     content_audit = build_content_audit(items, unresolved_relative_links)
     asset_export = None
@@ -1527,12 +2192,41 @@ def run_extraction(
         "template_count": len(template_inventory),
         "names": [row["name"] for row in template_inventory],
     }
+    report["public_nav"] = {
+        "item_count": len(public_nav),
+    }
+    report["tags"] = {
+        "tag_count": len(tags_index),
+        "items_with_tags": content_audit["items_with_tags"],
+    }
+    report["homepage_intent"] = {
+        "featured_count": homepage_intent["featured_count"],
+        "home_menu_present": homepage_intent["home_menu"] is not None,
+    }
+    report["social_metadata"] = {
+        "url_count": len(social_metadata),
+        "tagged_url_count": sum(1 for row in social_metadata if row["metadata"]),
+    }
+    missing_asset_classes = Counter(row["classification"] for row in missing_assets_audit)
+    missing_asset_actions = Counter(row["suggested_action"] for row in missing_assets_audit)
+    report["missing_assets_audit"] = {
+        "unique_missing_assets": len(missing_assets_audit),
+        "by_classification": dict(sorted(missing_asset_classes.items())),
+        "by_suggested_action": dict(sorted(missing_asset_actions.items())),
+    }
+    report["secondary_content_inventory"] = secondary_content_inventory
     if archive_export is not None:
         report["archive_export"] = archive_export
     meta = {
         "menu-index.json": menu_index,
+        "public-nav.json": public_nav,
         "category-index.json": category_index,
+        "tags-index.json": tags_index,
+        "homepage-intent.json": homepage_intent,
+        "social-metadata.json": social_metadata,
         "legacy-routes.json": legacy_route_catalog,
+        "missing-assets.json": missing_assets_audit,
+        "secondary-content-inventory.json": secondary_content_inventory,
         "unresolved-relative-links.json": unresolved_relative_links,
         "template-inventory.json": template_inventory,
     }

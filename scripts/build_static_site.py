@@ -9,13 +9,61 @@ from collections import Counter, defaultdict
 from datetime import datetime
 from pathlib import Path
 from typing import Any
-from urllib.parse import parse_qs, urlparse
+from urllib.parse import parse_qs, unquote, urlencode, urlparse
 
 
 TAG_LINK_PATTERN = re.compile(r'href="/tags/([^"#?]+)"', re.IGNORECASE)
 TABLE_OPEN_PATTERN = re.compile(r"<table\b(?![^>]*\bdata-sortable\b)([^>]*)>", re.IGNORECASE)
+HTML_URL_ATTRIBUTE_PATTERN = re.compile(
+    r'(?P<prefix>\b(?:href|src)\s*=\s*)(?P<quote>["\'])(?P<url>.*?)(?P=quote)',
+    re.IGNORECASE,
+)
 HTML_TAG_PATTERN = re.compile(r"<[^>]+>")
 WHITESPACE_PATTERN = re.compile(r"\s+")
+SCHEMELESS_EXTERNAL_HOST_PATTERN = re.compile(
+    r"^(?:www\.)?[a-z0-9-]+(?:\.[a-z0-9-]+)+(?::\d+)?$",
+    re.IGNORECASE,
+)
+NON_HOST_SUFFIXES = (
+    ".7z",
+    ".avi",
+    ".csv",
+    ".doc",
+    ".docx",
+    ".gif",
+    ".htm",
+    ".html",
+    ".jpeg",
+    ".jpg",
+    ".json",
+    ".mov",
+    ".mp3",
+    ".mp4",
+    ".pdf",
+    ".php",
+    ".png",
+    ".rar",
+    ".svg",
+    ".txt",
+    ".webm",
+    ".webp",
+    ".wmv",
+    ".xls",
+    ".xlsx",
+    ".xml",
+    ".zip",
+)
+LEGACY_SECTION_ROUTE_PREFIXES = {
+    "alien-photos": "/ufog/alien-photos",
+    "best-ufo-cases": "/ufog/best-ufo-cases",
+    "starter-pack": "/ufog/starter-pack",
+    "tags": "/tags",
+    "ufo": "/ufo-history/ufo",
+    "ufo-books": "/ufo-history/ufo-books",
+    "ufo-personalities": "/ufo-history/ufo-personalities",
+    "ufo-videos": "/ufog/ufo-videos",
+    "ufog": "/ufog",
+}
 SITE_TITLE = "Isaac Koi Archive"
 SITE_SUBTITLE = "Static migration preview assembled from normalized Joomla content."
 
@@ -50,8 +98,126 @@ def excerpt(value: str | None, limit: int = 220) -> str:
     return text[: limit - 1].rstrip() + "..."
 
 
-def ensure_sortable_tables(body: str) -> str:
-    return TABLE_OPEN_PATTERN.sub(r"<table\1 data-sortable>", body)
+def route_search_text(route: str) -> str:
+    cleaned = route.strip("/")
+    if not cleaned:
+        return ""
+    return cleaned.replace("/", " ").replace("-", " ").replace("_", " ")
+
+
+def extract_headings(body: str, limit: int = 6) -> list[str]:
+    headings = re.findall(r"<h[23]\b[^>]*>(.*?)</h[23]>", body, flags=re.IGNORECASE | re.DOTALL)
+    cleaned: list[str] = []
+    for heading in headings:
+        text = strip_html(heading)
+        if text and text not in cleaned:
+            cleaned.append(text)
+        if len(cleaned) >= limit:
+            break
+    return cleaned
+
+
+def absolutize_schemeless_external_url(value: str | None) -> str:
+    raw = str(value or "").strip()
+    if not raw or raw.startswith(("#", "/", "//")):
+        return raw
+    lowered = raw.lower()
+    if lowered.startswith(("http://", "https://", "mailto:", "tel:", "data:", "javascript:")):
+        return raw
+    authority = raw.split("/", 1)[0].split("?", 1)[0].split("#", 1)[0]
+    if not authority or "." not in authority or any(char.isspace() for char in authority):
+        return raw
+    authority_no_port = re.sub(r":\d+$", "", authority)
+    if authority_no_port.lower().endswith(NON_HOST_SUFFIXES):
+        return raw
+    if SCHEMELESS_EXTERNAL_HOST_PATTERN.fullmatch(authority):
+        return f"http://{raw}"
+    return raw
+
+
+def normalize_external_html_urls(body: str) -> str:
+    def replace(match: re.Match[str]) -> str:
+        normalized = normalize_html_url(match.group("url"))
+        return f'{match.group("prefix")}{match.group("quote")}{normalized}{match.group("quote")}'
+
+    return HTML_URL_ATTRIBUTE_PATTERN.sub(replace, body)
+
+
+def rewrite_external_html_urls(body: str, external_link_rewrites: dict[str, str] | None) -> str:
+    if not external_link_rewrites:
+        return body
+
+    def replace(match: re.Match[str]) -> str:
+        normalized = normalize_html_url(match.group("url"))
+        rewritten = external_link_rewrites.get(normalized, normalized)
+        return f'{match.group("prefix")}{match.group("quote")}{rewritten}{match.group("quote")}'
+
+    return HTML_URL_ATTRIBUTE_PATTERN.sub(replace, body)
+
+
+def normalize_html_url(value: str | None) -> str:
+    raw = str(value or "").strip()
+    if not raw:
+        return ""
+    if raw.lower().startswith("vhttp://") or raw.lower().startswith("vhttps://"):
+        raw = raw[1:]
+    if raw == "undefined/":
+        return "/"
+    if raw.startswith("documents/"):
+        return "/" + raw.lstrip("/")
+    if raw.startswith("wiki/"):
+        return "https://en.wikipedia.org/" + raw.lstrip("/")
+    if "imdb.com/title/tt0824290/" in raw and not raw.lower().startswith(("http://", "https://")):
+        return "https://www.imdb.com/title/tt0824290/"
+    if raw.startswith(("#", "/", "//")):
+        return raw
+
+    parsed = urlparse(raw)
+    if parsed.scheme.lower() in {"http", "https"} and parsed.netloc:
+        return raw
+    if parsed.path.lower() == "search.html":
+        params = parse_qs(parsed.query)
+        query = (params.get("searchword") or params.get("q") or [""])[0].strip()
+        if not query:
+            return "/search/"
+        return "/search/?" + urlencode({"q": query})
+
+    normalized = absolutize_schemeless_external_url(raw)
+    if normalized != raw:
+        return normalized
+
+    cleaned_path = unquote(parsed.path or "").strip().lstrip("/").rstrip(" '\"")
+    if cleaned_path.lower().endswith(".html"):
+        stem = cleaned_path[:-5]
+        first_segment = stem.split("/", 1)[0].lower()
+        if first_segment in LEGACY_SECTION_ROUTE_PREFIXES:
+            base_route = LEGACY_SECTION_ROUTE_PREFIXES[first_segment]
+            remainder = stem.split("/", 1)[1] if "/" in stem else ""
+            route = base_route if not remainder else f"{base_route}/{remainder}"
+            if parsed.fragment:
+                route += f"#{parsed.fragment}"
+            return route
+        route = "/" + stem
+        if parsed.fragment:
+            route += f"#{parsed.fragment}"
+        return route
+
+    first_segment = cleaned_path.split("/", 1)[0].lower() if cleaned_path else ""
+    if first_segment in LEGACY_SECTION_ROUTE_PREFIXES:
+        base_route = LEGACY_SECTION_ROUTE_PREFIXES[first_segment]
+        remainder = cleaned_path.split("/", 1)[1] if "/" in cleaned_path else ""
+        route = base_route if not remainder else f"{base_route}/{remainder}"
+        if parsed.fragment:
+            route += f"#{parsed.fragment}"
+        return route
+
+    return raw
+
+
+def ensure_sortable_tables(body: str, external_link_rewrites: dict[str, str] | None = None) -> str:
+    normalized = normalize_external_html_urls(body)
+    rewritten = rewrite_external_html_urls(normalized, external_link_rewrites)
+    return TABLE_OPEN_PATTERN.sub(r"<table\1 data-sortable>", rewritten)
 
 
 def route_to_output_path(output_root: Path, route: str) -> Path:
@@ -84,6 +250,14 @@ def slug_to_label(slug: str) -> str:
     return " ".join(word.capitalize() for word in words)
 
 
+def first_preview_image(item: dict[str, Any]) -> str | None:
+    for ref in item.get("asset_resolution", {}).get("resolved", []):
+        suffix = Path(ref).suffix.lower()
+        if suffix in {".jpg", ".jpeg", ".png", ".gif", ".webp", ".svg"}:
+            return "/" + str(ref).lstrip("/")
+    return None
+
+
 def render_layout(title: str, description: str, body: str, body_class: str = "") -> str:
     return f"""<!doctype html>
 <html lang="en">
@@ -100,6 +274,7 @@ def render_layout(title: str, description: str, body: str, body_class: str = "")
       <div class="masthead-inner">
         <a class="brand" href="/">{SITE_TITLE}</a>
         <nav class="masthead-nav" aria-label="Primary">
+          <a href="/search/">Search</a>
           <a href="/sitemap">Sitemap</a>
           <a href="/tags">Tags</a>
         </nav>
@@ -107,6 +282,7 @@ def render_layout(title: str, description: str, body: str, body_class: str = "")
     </header>
     {body}
     <script src="/assets/js/table-sort.js"></script>
+    <script src="/assets/js/archive-search.js"></script>
   </body>
 </html>
 """
@@ -143,6 +319,7 @@ def render_article_page(
     item: dict[str, Any],
     related_items: list[dict[str, Any]],
     category_route_lookup: dict[str, str],
+    external_link_rewrites: dict[str, str] | None = None,
 ) -> str:
     category_name = item.get("category") or "Uncategorized"
     category_route = category_route_lookup.get(category_name, "")
@@ -190,7 +367,10 @@ def render_article_page(
 
     summary = excerpt(item.get("summary"), limit=320)
     summary_block = f'<p class="standfirst">{html.escape(summary)}</p>' if summary else ""
-    body_html = ensure_sortable_tables(item.get("body", ""))
+    body_html = ensure_sortable_tables(
+        sanitize_article_body(item.get("body", ""), item["original_url"]),
+        external_link_rewrites=external_link_rewrites,
+    )
 
     return render_layout(
         title=item["title"],
@@ -337,6 +517,160 @@ def render_listing_page(title: str, description: str, rows: list[tuple[str, str,
     )
 
 
+def sanitize_article_body(body: str | None, route: str) -> str:
+    cleaned = str(body or "")
+    if route == "/ufog/best-ufo-cases/11-consensus-lists-the-rockefeller-briefing-document":
+        cleaned = cleaned.replace('href="v"', 'href="/ufo-history/ufo/19731011-pascagoula-abduction"')
+    if route == "/ufog/ufo-videos/koi-ufo-video-070":
+        cleaned = re.sub(
+            r'<a\s+href="/ufog/alien-photos/koi-alien-photo-34"[^>]*>(.*?)</a>',
+            r"\1",
+            cleaned,
+            flags=re.IGNORECASE | re.DOTALL,
+        )
+    return cleaned
+
+
+def render_search_page(total_entries: int) -> str:
+    return render_layout(
+        title="Search",
+        description="Search titles, sections, tags, and page summaries across the Isaac Koi archive.",
+        body=f"""
+    <main class="page-shell search-shell">
+      <section class="hero compact archive-search-shell" data-archive-search data-search-source="/search-index.json" data-search-page-size="48">
+        <p class="eyebrow">Archive Search</p>
+        <h1>Search the archive</h1>
+        <p class="intro">Search titles, summaries, headings, tags, and section labels across {total_entries} indexed entries.</p>
+        <form class="archive-search-form" role="search" data-archive-search-form>
+          <label class="archive-search-label" for="archive-search-input">Keywords</label>
+          <div class="archive-search-row">
+            <input id="archive-search-input" class="archive-search-input" type="search" name="q" placeholder="Try 1952, Hynek, Pascagoula, or SETI" autocomplete="off" data-archive-search-input>
+            <button type="submit">Search</button>
+            <button type="button" data-archive-search-clear hidden>Clear</button>
+          </div>
+          <p class="archive-search-help">Try years, case names, authors, books, personalities, places, or recurring tags.</p>
+          <p class="archive-search-status" data-archive-search-status aria-live="polite">Loading search index...</p>
+        </form>
+      </section>
+      <section class="panel-card">
+        <div class="search-results-grid archive-search-results" data-archive-search-results></div>
+      </section>
+    </main>
+""",
+        body_class="page-search",
+    )
+
+
+def build_search_index(
+    items: list[dict[str, Any]],
+    categories: list[dict[str, Any]],
+    category_counts: Counter[str],
+    category_route_lookup: dict[str, str],
+    tag_groups: dict[str, list[dict[str, Any]]],
+) -> list[dict[str, Any]]:
+    search_index: list[dict[str, Any]] = [
+        {
+            "kind": "overview",
+            "kicker": "Overview",
+            "title": SITE_TITLE,
+            "url": "/",
+            "summary": SITE_SUBTITLE,
+            "section": "Overview",
+            "tags": [],
+            "preview_image": None,
+            "search_text": " ".join([SITE_TITLE, SITE_SUBTITLE, "overview archive search"]),
+        }
+    ]
+
+    tag_labels_by_source: dict[int, list[str]] = defaultdict(list)
+    for tag_slug, tag_items in tag_groups.items():
+        label = slug_to_label(tag_slug)
+        for item in tag_items:
+            source_id = item.get("source_id")
+            if isinstance(source_id, int) and label not in tag_labels_by_source[source_id]:
+                tag_labels_by_source[source_id].append(label)
+
+    for item in items:
+        route = str(item.get("original_url") or "").strip()
+        if not route:
+            continue
+        category_name = str(item.get("category") or "Page")
+        tag_labels = tag_labels_by_source.get(int(item.get("source_id") or 0), [])
+        summary = excerpt(str(item.get("summary") or item.get("body") or ""), 220)
+        body_excerpt = excerpt(str(item.get("body") or ""), 420)
+        headings = extract_headings(str(item.get("body") or ""), limit=6)
+        route_text = route_search_text(route)
+        tags_text = " ".join(tag_labels)
+        headings_text = " ".join(headings)
+        search_index.append(
+            {
+                "kind": "page",
+                "kicker": "Page",
+                "title": str(item.get("title") or route),
+                "url": route,
+                "summary": summary,
+                "section": category_name,
+                "tags": tag_labels[:6],
+                "preview_image": first_preview_image(item),
+                "search_text": " ".join(
+                    [
+                        str(item.get("title") or route),
+                        route_text,
+                        summary,
+                        body_excerpt,
+                        category_name,
+                        tags_text,
+                        headings_text,
+                    ]
+                ),
+            }
+        )
+
+    for category in categories:
+        title = str(category.get("title") or "").strip()
+        path = str(category.get("path") or "").strip("/")
+        if not title or not path:
+            continue
+        count = category_counts.get(path, 0)
+        if count <= 0:
+            continue
+        route = category_route_lookup.get(title, relative_route(path))
+        summary = f"{count} published pages in this section."
+        search_index.append(
+            {
+                "kind": "section",
+                "kicker": "Section",
+                "title": title,
+                "url": route,
+                "summary": summary,
+                "section": "Section",
+                "tags": [],
+                "preview_image": None,
+                "search_text": " ".join([title, route_search_text(route), summary, "section"]),
+            }
+        )
+
+    for tag_slug, tag_items in tag_groups.items():
+        label = slug_to_label(tag_slug)
+        route = f"/tags/{tag_slug}"
+        summary = f"{len(tag_items)} published pages reference this tag."
+        search_index.append(
+            {
+                "kind": "tag",
+                "kicker": "Tag",
+                "title": label,
+                "url": route,
+                "summary": summary,
+                "section": "Tags",
+                "tags": [label],
+                "preview_image": None,
+                "search_text": " ".join([label, route_search_text(route), summary, "tag tags"]),
+            }
+        )
+
+    return search_index
+
+
 def file_route_to_output_path(output_root: Path, route: str) -> Path:
     cleaned = route.strip("/")
     if not cleaned:
@@ -433,11 +767,24 @@ def build_category_groups(
     return by_route, counts, title_to_route
 
 
+def build_category_children(categories: list[dict[str, Any]]) -> dict[int, list[dict[str, Any]]]:
+    children: dict[int, list[dict[str, Any]]] = defaultdict(list)
+    for category in categories:
+        parent_id = category.get("parent_id")
+        if isinstance(parent_id, int):
+            children[parent_id].append(category)
+    for rows in children.values():
+        rows.sort(key=lambda row: str(row.get("title") or "").lower())
+    return children
+
+
 def build_tag_groups(items: list[dict[str, Any]]) -> dict[str, list[dict[str, Any]]]:
     tag_groups: dict[str, list[dict[str, Any]]] = defaultdict(list)
     for item in items:
         seen: set[str] = set()
-        for tag_slug in TAG_LINK_PATTERN.findall(item.get("body", "")):
+        explicit_tags = [str(tag).strip().strip("/") for tag in item.get("tags", []) if str(tag).strip()]
+        body_tags = [tag_slug.strip().strip("/") for tag_slug in TAG_LINK_PATTERN.findall(item.get("body", ""))]
+        for tag_slug in explicit_tags or body_tags:
             cleaned = tag_slug.strip().strip("/")
             if not cleaned or cleaned in seen:
                 continue
@@ -474,6 +821,7 @@ def build_site(
     category_index_path = meta_root / "category-index.json"
     legacy_routes_path = meta_root / "legacy-routes.json"
     redirects_path = meta_root / "redirects.json"
+    external_link_rewrites_path = meta_root / "external-link-rewrites.json"
 
     items = [item for item in load_json(manifest_path) if item.get("status") == "published" and item.get("original_url")]
     report = load_json(report_path)
@@ -484,13 +832,23 @@ def build_site(
     ]
     legacy_routes = load_json(legacy_routes_path) if legacy_routes_path.exists() else []
     redirects = load_json(redirects_path) if redirects_path.exists() else []
+    external_link_rewrites = (
+        {
+            str(row.get("original_url") or "").strip(): str(row.get("replacement_url") or "").strip()
+            for row in load_json(external_link_rewrites_path)
+            if str(row.get("original_url") or "").strip() and str(row.get("replacement_url") or "").strip()
+        }
+        if external_link_rewrites_path.exists()
+        else {}
+    )
 
     category_groups, category_counts, category_route_lookup = build_category_groups(items, categories)
+    category_children = build_category_children(categories)
     category_route_lookup_by_id = build_category_route_lookup_by_id(categories)
     article_route_lookup_by_id = build_article_route_lookup_by_id(items)
     tag_groups = build_tag_groups(items)
     article_routes = {item["original_url"] for item in items}
-    built_routes = {"/", "/sitemap", "/tags"} | set(article_routes) | set(category_route_lookup.values())
+    built_routes = {"/", "/search", "/sitemap", "/tags"} | set(article_routes) | set(category_route_lookup.values())
 
     reset_output_root(output_root)
     write_text(output_root / ".nojekyll", "")
@@ -515,6 +873,12 @@ def build_site(
         output_root / "index.html",
         render_index_page(items, report, categories, category_counts, category_route_lookup),
     )
+    search_index = build_search_index(items, categories, category_counts, category_route_lookup, tag_groups)
+    write_text(output_root / "search-index.json", json.dumps(search_index, indent=2, ensure_ascii=False))
+    write_text(
+        route_to_output_path(output_root, "/search"),
+        render_search_page(len(search_index)),
+    )
 
     category_pages = 0
     for category in categories:
@@ -523,8 +887,20 @@ def build_site(
         if not path or not title or relative_route(path) in article_routes:
             continue
         category_items = category_groups.get(path, [])
-        if not category_items:
-            continue
+        child_rows = []
+        for child in category_children.get(int(category.get("id") or -1), []):
+            child_path = str(child.get("path") or "").strip("/")
+            child_title = str(child.get("title") or "").strip()
+            if not child_path or not child_title:
+                continue
+            child_count = category_counts.get(child_path, 0)
+            child_rows.append(
+                (
+                    child_title,
+                    relative_route(child_path),
+                    f"{child_count} pages" if child_count else "Section",
+                )
+            )
         rows = [
             (
                 item["title"],
@@ -532,12 +908,21 @@ def build_site(
                 format_timestamp(item.get("updated_at")) or "Undated",
             )
             for item in category_items
-        ]
+        ] or child_rows
+        description = (
+            f"{len(category_items)} published pages in this section."
+            if category_items
+            else (
+                f"{len(child_rows)} child sections in this part of the archive."
+                if child_rows
+                else "Section landing page for this part of the archive."
+            )
+        )
         write_text(
             route_to_output_path(output_root, path),
             render_listing_page(
                 title=title,
-                description=f"{len(rows)} published pages in this section.",
+                description=description,
                 rows=rows,
                 eyebrow="Section",
             ),
@@ -553,7 +938,12 @@ def build_site(
             related_items = category_groups.get(category_route.strip("/"), [])
         write_text(
             route_to_output_path(output_root, item["original_url"]),
-            render_article_page(item, related_items, category_route_lookup),
+            render_article_page(
+                item,
+                related_items,
+                category_route_lookup,
+                external_link_rewrites=external_link_rewrites,
+            ),
         )
         article_pages += 1
 

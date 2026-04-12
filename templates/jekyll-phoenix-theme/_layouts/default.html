@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}" dir="{{ page.dir | default: site.direction | default: 'ltr' }}" data-theme="light" data-visual-profile="{{ site.visual_profile | default: 'atlas' }}" data-layout-archetype="{{ site.layout_archetype | default: 'atlas' | replace: '_', '-' }}" data-visual-motif="{{ site.visual_motif | default: 'orbital' }}" data-visual-palette="{{ site.visual_palette | default: 'north-atlantic' }}" data-ui-priority="{{ site.ui_priority | default: 'home-first' }}" data-home-layout-mode="{{ site.home_layout_mode | default: 'cluster' }}" data-auto-home-layout-mode="{{ site.auto_home_layout_mode | default: 'cluster' }}" data-hierarchy-viz-mode="{{ site.hierarchy_viz_mode | default: 'off' }}" data-appearance-enabled="{{ site.appearance_menu_enabled | default: true }}" data-appearance-default-open="{{ site.appearance_menu_default_open | default: false }}" data-appearance-toast-ms="{{ site.appearance_toast_ms | default: 5000 }}" data-appearance-text-default="{{ site.appearance_text_default | default: 'standard' }}" data-appearance-width-default="{{ site.appearance_width_default | default: 'standard' }}" data-appearance-color-default="{{ site.appearance_color_default | default: 'automatic' }}" data-mobile-layout="{{ site.mobile_layout_mode | default: 'article-first' }}" data-mobile-sidebar="{{ site.mobile_sidebar_mode | default: 'collapsible' }}" data-mobile-sidebar-default="{{ site.mobile_sidebar_default | default: 'closed' }}" data-endnotes-mode="{{ site.endnotes_mode | default: 'auto' }}" data-endnotes-collapse-threshold="{{ site.endnotes_collapse_threshold | default: 10 }}" data-endnotes-initial-visible="{{ site.endnotes_initial_visible | default: 10 }}" data-endnotes-show-accessed="{{ site.endnotes_show_accessed | default: false }}">
+  {% include head.html %}
+  {% assign ui = page.ui_strings | default: site.ui_strings %}
+  <body id="top" class="profile-{{ site.visual_profile | default: 'atlas' }} layout-{{ site.layout_archetype | default: 'atlas' | replace: '_', '-' }} motif-{{ site.visual_motif | default: 'orbital' }} {% if page.home %}page-home{% else %}page-article{% endif %}{% if page.suppress_page_tools %} page-no-tools{% endif %}" data-site-baseurl="{{ site.baseurl | default: '' | escape }}" data-ui-contents="{{ ui.contents | default: 'Contents' | escape }}" data-ui-website-contents="{{ ui.website_contents | default: 'Site contents' | escape }}" data-ui-search="{{ ui.search | default: 'Search' | escape }}" data-ui-search-panel-title="{{ ui.search_panel_title | default: ui.search | default: 'Search' | escape }}" data-ui-open-search="{{ ui.open_search | default: 'Open search' | escape }}" data-ui-close-search="{{ ui.close_search | default: 'Close search' | escape }}" data-ui-open-contents="{{ ui.open_contents | default: 'Open contents' | escape }}" data-ui-close-contents="{{ ui.close_contents | default: 'Close contents' | escape }}" data-ui-overview="{{ ui.overview | default: 'Overview' | escape }}" data-ui-cluster-focus-path="{{ ui.cluster_focus_path | default: 'Cluster focus path' | escape }}" data-ui-active-branch="{{ ui.active_branch | default: 'Active branch' | escape }}" data-ui-preview-branch="{{ ui.preview_branch | default: 'Preview branch' | escape }}" data-ui-hover-preview="{{ ui.hover_preview | default: 'Hover preview' | escape }}" data-ui-selected-branch="{{ ui.selected_branch | default: 'Selected branch' | escape }}" data-ui-pinned-branch="{{ ui.pinned_branch | default: 'Pinned branch' | escape }}" data-ui-previewing-focus-selected-template="{{ ui.previewing_focus_selected_template | escape }}" data-ui-vertical-selected-branch-hint="{{ ui.vertical_selected_branch_hint | default: 'Tap another branch to switch the selection, or open a report from this branch.' | escape }}" data-ui-horizontal-pinned-branch-hint="{{ ui.horizontal_pinned_branch_hint | default: 'Click another branch to pin it, or hover to preview without leaving this branch.' | escape }}" data-ui-vertical-branch-card-hint="{{ ui.vertical_branch_card_hint | default: 'Tap a branch card to open its subtopics here.' | escape }}" data-ui-horizontal-branch-card-hint="{{ ui.horizontal_branch_card_hint | default: 'Hover to preview a branch, then click to pin it in place.' | escape }}" data-ui-pin-branch="{{ ui.pin_branch | default: 'Pin Branch' | escape }}" data-ui-back-to-pinned="{{ ui.back_to_pinned | default: 'Back to Pinned' | escape }}" data-ui-back-to-overview="{{ ui.back_to_overview | default: 'Back to Overview' | escape }}">
+    {% include header.html %}
+    <main class="page-content" aria-label="Content">
+      <div class="container">
+        {% assign is_home = page.home | default: false %}
+        <div class="layout-grid{% unless is_home %} layout-grid-article{% endunless %}">
+          {% unless is_home %}
+          {% assign suppress_page_tools = page.suppress_page_tools | default: false %}
+          <aside class="sidebar" id="page-sidebar" data-mobile-sidebar-panel>
+            <div class="mobile-sidebar-header">
+              <p class="mobile-sidebar-title">{{ ui.website_contents | default: 'Site contents' }}</p>
+              <button class="sidebar-tree-btn" type="button" data-mobile-sidebar-close aria-label="{{ ui.close_contents | default: 'Close contents' | escape }}">{{ ui.close | default: 'Close' }}</button>
+            </div>
+            <div class="sidebar-section-header">
+              <p class="sidebar-section-title">{{ ui.website_contents | default: 'Site contents' }}</p>
+              <button class="sidebar-tree-btn sidebar-hide-btn" type="button" data-sidebar-hide="right" aria-label="{{ ui.close_contents | default: 'Close contents' | escape }}">{{ ui.close | default: 'Close' }}</button>
+            </div>
+            {% if site.appearance_menu_enabled %}
+            <div class="appearance-control" data-appearance-control>
+              <button class="appearance-toggle" type="button" data-appearance-button aria-expanded="false" aria-controls="appearance-panel" aria-label="{{ ui.show_appearance_settings | default: 'Show appearance settings' | escape }}" title="{{ ui.show_appearance_settings | default: 'Show appearance settings' | escape }}">
+                <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+                  <circle cx="8" cy="12" r="3"></circle>
+                  <circle cx="16" cy="12" r="3"></circle>
+                  <path d="M11 12h2"></path>
+                  <path d="M2.5 11.8H5"></path>
+                  <path d="M19 11.8h2.5"></path>
+                </svg>
+              </button>
+              <div class="appearance-toast" data-appearance-toast hidden>{{ ui.appearance_menu_moved_here | default: 'The appearance menu has moved here.' }}</div>
+              <section class="appearance-panel" id="appearance-panel" data-appearance-panel hidden>
+                <div class="appearance-panel-head">
+                  <p class="appearance-panel-title">{{ ui.appearance | default: 'Appearance' }}</p>
+                  <button class="appearance-hide" type="button" data-appearance-hide>{{ ui.close | default: 'Close' }}</button>
+                </div>
+                <fieldset class="appearance-group">
+                  <legend>{{ ui.text | default: 'Text' }}</legend>
+                  <div class="appearance-group-options">
+                    <label class="appearance-option"><input type="radio" name="appearance-text" value="small" data-appearance-text><span class="appearance-option-label">{{ ui.small | default: 'Small' }}</span></label>
+                    <label class="appearance-option"><input type="radio" name="appearance-text" value="standard" data-appearance-text><span class="appearance-option-label">{{ ui.standard | default: 'Standard' }}</span></label>
+                    <label class="appearance-option"><input type="radio" name="appearance-text" value="large" data-appearance-text><span class="appearance-option-label">{{ ui.large | default: 'Large' }}</span></label>
+                  </div>
+                </fieldset>
+                <fieldset class="appearance-group">
+                  <legend>{{ ui.width | default: 'Width' }}</legend>
+                  <div class="appearance-group-options">
+                    <label class="appearance-option"><input type="radio" name="appearance-width" value="standard" data-appearance-width><span class="appearance-option-label">{{ ui.standard | default: 'Standard' }}</span></label>
+                    <label class="appearance-option"><input type="radio" name="appearance-width" value="wide" data-appearance-width><span class="appearance-option-label">{{ ui.wide | default: 'Wide' }}</span></label>
+                  </div>
+                </fieldset>
+                <fieldset class="appearance-group">
+                  <legend>{{ ui.theme | default: 'Theme' }}</legend>
+                  <div class="appearance-group-options">
+                    <label class="appearance-option"><input type="radio" name="appearance-color" value="automatic" data-appearance-color><span class="appearance-option-label">{{ ui.automatic | default: 'Automatic' }}</span></label>
+                    <label class="appearance-option"><input type="radio" name="appearance-color" value="light" data-appearance-color><span class="appearance-option-label">{{ ui.light | default: 'Light' }}</span></label>
+                    <label class="appearance-option"><input type="radio" name="appearance-color" value="dark" data-appearance-color><span class="appearance-option-label">{{ ui.dark | default: 'Dark' }}</span></label>
+                  </div>
+                </fieldset>
+              </section>
+            </div>
+            {% endif %}
+            <div class="sidebar-nav-shell" data-sidebar-root data-sidebar-source="{{ '/navigation-tree.json' | relative_url }}">
+              <p class="sidebar-loading">{{ ui.loading_navigation | default: 'Loading site contents...' }}</p>
+            </div>
+            <div class="sidebar-tools" role="search" aria-label="{{ ui.search_this_branch | default: 'Search this branch' | escape }}">
+              <label class="sidebar-tools-label" for="sidebar-filter">{{ ui.search_this_branch | default: 'Search this branch' }}</label>
+              <div class="sidebar-filter-row">
+                <input id="sidebar-filter" class="sidebar-filter" type="search" placeholder="{{ ui.search_reports_in_this_branch | default: 'Search reports in this branch...' | escape }}" data-sidebar-filter>
+                <button class="sidebar-filter-clear sidebar-tree-btn" type="button" data-sidebar-filter-clear hidden>{{ ui.clear | default: 'Clear' }}</button>
+              </div>
+              <p class="sidebar-filter-status" data-sidebar-filter-status aria-live="polite"></p>
+            </div>
+            <div class="sidebar-tree-actions">
+              <button class="sidebar-tree-btn" type="button" data-sidebar-expand-all>{{ ui.expand_all | default: 'Expand all' }}</button>
+              <button class="sidebar-tree-btn" type="button" data-sidebar-collapse-all>{{ ui.collapse_all | default: 'Collapse all' }}</button>
+            </div>
+          </aside>
+          {% endunless %}
+          <section class="main-content{% unless is_home %} article-content{% endunless %}">
+            {% unless is_home %}
+            {% assign page_display_title = page.display_title_short | default: page.nav_short_title | default: page.display_title | default: page.title | default: 'Untitled Report' %}
+            {% assign raw_heading_title = page.heading_title | to_s | strip %}
+            {% assign normalized_heading_title = raw_heading_title | downcase %}
+            {% if raw_heading_title == blank or normalized_heading_title == 'untitled' or normalized_heading_title == 'untitled report' %}
+            {% assign page_heading_title = page_display_title %}
+            {% else %}
+            {% assign page_heading_title = raw_heading_title %}
+            {% endif %}
+            {% assign page_parent_label = page.parent_nav_short_title | default: page.parent_title %}
+            {% assign page_hero_parent_label = page.parent_nav_short_title | default: page.up_link.short_title | default: page.parent_title %}
+            {% assign breadcrumb_links = page.breadcrumb_links | default: page.ancestor_links %}
+            <nav class="mobile-quick-nav" aria-label="{{ ui.quick_navigation | default: 'Quick navigation' | escape }}">
+              <button class="nav-pill nav-pill-button mobile-sidebar-trigger" type="button" data-mobile-sidebar-open aria-expanded="false" aria-controls="page-sidebar">{{ ui.contents | default: 'Contents' }}</button>
+              {% if page.parent_permalink and page_parent_label %}
+              <a class="nav-pill" href="{{ page.parent_permalink | relative_url }}" title="{{ page.parent_title | default: page_parent_label | escape }}">{{ ui.parent | default: 'Parent' }}</a>
+              {% endif %}
+              <button class="nav-pill nav-pill-button" type="button" data-quick-search>{{ ui.search | default: 'Search' }}</button>
+              {% unless suppress_page_tools %}
+              <button class="nav-pill nav-pill-button" type="button" data-mobile-page-tools-toggle>{{ ui.outline | default: 'Outline' }}</button>
+              {% endunless %}
+            </nav>
+            <nav class="article-breadcrumbs" aria-label="{{ ui.breadcrumb | default: 'Breadcrumb' | escape }}">
+              <a href="{{ '/' | relative_url }}">{{ ui.home | default: 'Home' }}</a>
+              {% if breadcrumb_links and breadcrumb_links.size > 0 %}
+              {% for crumb in breadcrumb_links %}
+              {% assign crumb_label = crumb.short_title | default: crumb.title %}
+              {% if crumb.permalink and crumb_label %}
+              <span class="crumb-sep" aria-hidden="true">/</span>
+              <a class="breadcrumb-link" href="{{ crumb.permalink | relative_url }}" title="{{ crumb.title | default: crumb_label | escape }}">{{ crumb_label | escape }}</a>
+              {% endif %}
+              {% endfor %}
+              {% elsif page.parent_permalink and page.parent_title %}
+              <span class="crumb-sep" aria-hidden="true">/</span>
+              <a class="breadcrumb-link" href="{{ page.parent_permalink | relative_url }}" title="{{ page.parent_title | default: page_parent_label | escape }}">{{ page_parent_label | escape }}</a>
+              {% endif %}
+              <span class="crumb-sep" aria-hidden="true">/</span>
+              <span class="breadcrumb-current" title="{{ page.title | default: page_display_title | escape }}">{{ page_display_title | escape }}</span>
+            </nav>
+            <script type="application/ld+json">
+              {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                  {"@type": "ListItem", "position": 1, "name": {{ ui.home | default: 'Home' | jsonify }}, "item": "{{ '/' | absolute_url }}"}
+                  {% assign breadcrumb_position = 1 %}
+                  {% if breadcrumb_links and breadcrumb_links.size > 0 %}
+                  {% for crumb in breadcrumb_links %}
+                  {% assign crumb_label = crumb.short_title | default: crumb.title %}
+                  {% if crumb.permalink and crumb_label %}
+                  ,{"@type": "ListItem", "position": {{ forloop.index | plus: 1 }}, "name": {{ crumb_label | jsonify }}, "item": "{{ crumb.permalink | absolute_url }}"}
+                  {% assign breadcrumb_position = forloop.index | plus: 1 %}
+                  {% endif %}
+                  {% endfor %}
+                  {% elsif page.parent_permalink and page_parent_label %}
+                  ,{"@type": "ListItem", "position": 2, "name": {{ page_parent_label | jsonify }}, "item": "{{ page.parent_permalink | absolute_url }}"}
+                  {% assign breadcrumb_position = 2 %}
+                  {% endif %}
+                  ,{"@type": "ListItem", "position": {{ breadcrumb_position | plus: 1 }}, "name": {{ page_display_title | jsonify }}, "item": "{{ page.url | absolute_url }}"}
+                ]
+              }
+            </script>
+            {% assign page_preview_image = page.header.preview_image | default: page.header.og_image %}
+            {% assign page_preview_image_href = page_preview_image %}
+            {% if page_preview_image and page_preview_image contains '://' %}
+            {% assign page_preview_image_href = page_preview_image %}
+            {% elsif page_preview_image %}
+            {% assign page_preview_image_href = page_preview_image | relative_url %}
+            {% endif %}
+            <header class="article-hero">
+              <div class="article-hero-grid{% if page_preview_image %} has-visual{% endif %}">
+                <div class="article-hero-copy">
+                  {% if page_hero_parent_label and page_hero_parent_label != page_display_title %}
+                  <p class="article-hero-eyebrow">{{ ui.within | default: 'Within' }} {{ page_hero_parent_label }}</p>
+                  {% endif %}
+                  <h1>{{ page_heading_title }}</h1>
+                  {% if page.description %}
+                  <p class="article-hero-summary">{{ page.description }}</p>
+                  {% endif %}
+                  {% if page.planned_sections and page.planned_sections.size > 0 %}
+                  <section class="article-hero-highlights" aria-label="{{ ui.key_sections | default: 'Key sections' | escape }}">
+                    <p class="article-hero-highlights-title">{{ ui.inside_this_report | default: 'Inside this report' }}</p>
+                    <ul class="article-hero-highlights-list">
+                      {% for item in page.planned_sections limit: 3 %}
+                      <li>{{ item }}</li>
+                      {% endfor %}
+                    </ul>
+                  </section>
+                  {% endif %}
+                </div>
+                {% if page_preview_image %}
+                <a class="article-hero-media" href="{{ page_preview_image_href }}" aria-label="{{ ui.open_report_preview_image | default: 'Open report preview image' | escape }}">
+                  <img src="{{ page_preview_image_href }}" alt="Preview for {{ page_heading_title | escape }}" loading="eager" referrerpolicy="no-referrer">
+                </a>
+                {% endif %}
+              </div>
+            </header>
+            {% unless suppress_page_tools %}
+            <details class="mobile-page-tools" id="mobile-page-tools" data-mobile-page-tools hidden>
+              <summary class="mobile-page-tools-summary">
+                <span class="mobile-page-tools-title">{{ ui.page_outline | default: 'Page outline' }}</span>
+                <span class="mobile-page-tools-hint">{{ ui.jump_by_section | default: 'Jump by section' }}</span>
+              </summary>
+              <div class="mobile-page-tools-body">
+                <nav class="page-toc mobile-page-toc" data-mobile-page-toc aria-label="{{ ui.on_this_page | default: 'On this page' | escape }}"></nav>
+                <div class="page-toc-actions mobile-page-toc-actions">
+                  <button class="sidebar-tree-btn" type="button" data-page-toc-expand-all>{{ ui.expand_all | default: 'Expand all' }}</button>
+                  <button class="sidebar-tree-btn" type="button" data-page-toc-collapse-all>{{ ui.collapse_all | default: 'Collapse all' }}</button>
+                </div>
+                <div class="mobile-page-tools-actions">
+                  <a class="nav-pill" href="#endnotes">{{ ui.jump_to_endnotes | default: 'Jump to endnotes' }}</a>
+                  <button class="nav-pill nav-pill-button" type="button" data-mobile-back-to-top>{{ ui.back_to_top | default: 'Back to top' }}</button>
+                </div>
+              </div>
+            </details>
+            {% endunless %}
+            {% endunless %}
+            <article class="article-body">
+              {{ content }}
+            </article>
+            {% assign has_sibling_links = false %}
+            {% if page.sibling_links %}
+            {% if page.sibling_links.size > 0 %}
+            {% assign has_sibling_links = true %}
+            {% endif %}
+            {% endif %}
+            {% assign has_child_links = false %}
+            {% if page.child_links %}
+            {% if page.child_links.size > 0 %}
+            {% assign has_child_links = true %}
+            {% endif %}
+            {% endif %}
+            {% assign show_branch_nav = true %}
+            {% if page.has_inline_related_reports_panel %}
+            {% assign show_branch_nav = false %}
+            {% endif %}
+            {% assign has_branch_nav_links = false %}
+            {% if page.up_link or page.parent_permalink or has_sibling_links or has_child_links %}
+            {% assign has_branch_nav_links = true %}
+            {% endif %}
+            {% if show_branch_nav and has_branch_nav_links %}
+            <section class="article-branch-nav" aria-label="{{ ui.topic_tree_navigation | default: 'Topic tree navigation' | escape }}">
+              <div class="article-branch-head">
+                <p class="article-branch-kicker">{{ ui.topic_tree | default: 'Topic Tree' }}</p>
+                <h2>{{ ui.follow_this_branch | default: 'Follow this branch' }}</h2>
+              </div>
+              {% assign sibling_links_total = 0 %}
+              {% if page.sibling_links %}{% assign sibling_links_total = page.sibling_links.size %}{% endif %}
+              {% assign child_links_total = page.child_links_total | default: 0 %}
+              {% if child_links_total == 0 and page.child_links %}{% assign child_links_total = page.child_links.size %}{% endif %}
+              {% assign _total_branch_links = sibling_links_total | plus: child_links_total %}
+              {% if _total_branch_links <= 10 %}
+              {% assign branch_preview_limit = 99 %}
+              {% elsif _total_branch_links > 30 %}
+              {% assign branch_preview_limit = 5 %}
+              {% else %}
+              {% assign branch_preview_limit = 8 %}
+              {% endif %}
+              {% assign has_up_link = false %}
+              {% if page.up_link %}
+              {% if page.up_link.permalink %}
+              {% assign has_up_link = true %}
+              {% endif %}
+              {% endif %}
+              {% assign has_parent_permalink = false %}
+              {% if page.parent_permalink %}
+              {% if page_parent_label %}
+              {% assign has_parent_permalink = true %}
+              {% endif %}
+              {% endif %}
+              <div class="article-branch-grid">
+                {% if has_up_link or has_parent_permalink %}
+                <section class="article-branch-section">
+                  <h3>{{ ui.parent_topic | default: 'Parent topic' }}</h3>
+                  {% if page.up_link and page.up_link.permalink %}
+                  {% assign page_up_label = page.up_link.short_title | default: page.up_link.title %}
+                  <a class="article-branch-parent" href="{{ page.up_link.permalink | relative_url }}" title="{{ page.up_link.title | default: page_up_label | escape }}">{{ page_up_label | escape }}</a>
+                  {% else %}
+                  <a class="article-branch-parent" href="{{ page.parent_permalink | relative_url }}" title="{{ page.parent_title | default: page_parent_label | escape }}">{{ page_parent_label | escape }}</a>
+                  {% endif %}
+                </section>
+                {% endif %}
+                {% if page.sibling_links and page.sibling_links.size > 0 %}
+                <section class="article-branch-section">
+                  <h3>{{ ui.peer_reports | default: 'Peer reports' }} <span class="article-branch-count">{{ sibling_links_total }}</span></h3>
+                  <ul>
+                    {% for item in page.sibling_links limit: branch_preview_limit %}
+                    {% assign item_label = item.short_title | default: item.title %}
+                    {% if item.permalink and item_label %}
+                    <li><a href="{{ item.permalink | relative_url }}" title="{{ item.title | default: item_label | escape }}">{{ item_label | escape }}</a></li>
+                    {% endif %}
+                    {% endfor %}
+                    {% if sibling_links_total > branch_preview_limit %}
+                    <li class="article-branch-more">+{{ sibling_links_total | minus: branch_preview_limit }} {{ ui.more_in_sidebar | default: 'more in sidebar' }}</li>
+                    {% endif %}
+                  </ul>
+                </section>
+                {% endif %}
+                {% if page.child_links and page.child_links.size > 0 %}
+                <section class="article-branch-section">
+                  <h3>{{ ui.child_reports | default: 'Child reports' }} <span class="article-branch-count">{{ child_links_total }}</span></h3>
+                  <ul>
+                    {% for item in page.child_links limit: branch_preview_limit %}
+                    {% assign item_label = item.short_title | default: item.title %}
+                    {% if item.permalink and item_label %}
+                    <li><a href="{{ item.permalink | relative_url }}" title="{{ item.title | default: item_label | escape }}">{{ item_label | escape }}</a></li>
+                    {% endif %}
+                    {% endfor %}
+                    {% if child_links_total > branch_preview_limit %}
+                    <li class="article-branch-more">+{{ child_links_total | minus: branch_preview_limit }} {{ ui.more_in_sidebar | default: 'more in sidebar' }}</li>
+                    {% endif %}
+                  </ul>
+                </section>
+                {% endif %}
+              </div>
+            </section>
+            {% endif %}
+          </section>
+          {% unless is_home %}
+          {% unless suppress_page_tools %}
+          <aside class="page-tools" id="page-tools-panel" data-page-tools>
+            <div class="page-tools-card">
+              <div class="page-tools-header">
+                <p class="page-tools-label">{{ ui.on_this_page | default: 'On this page' }}</p>
+                <button class="sidebar-tree-btn sidebar-hide-btn" type="button" data-sidebar-hide="left" aria-label="{{ ui.close_page_outline_panel | default: 'Close page outline panel' | escape }}">{{ ui.close | default: 'Close' }}</button>
+              </div>
+              <nav class="page-toc" data-page-toc aria-label="{{ ui.on_this_page | default: 'On this page' | escape }}"></nav>
+              <div class="page-toc-actions">
+                <button class="sidebar-tree-btn" type="button" data-page-toc-expand-all>{{ ui.expand_all | default: 'Expand all' }}</button>
+                <button class="sidebar-tree-btn" type="button" data-page-toc-collapse-all>{{ ui.collapse_all | default: 'Collapse all' }}</button>
+              </div>
+            </div>
+            <div class="page-tools-card page-tools-actions">
+              <a class="nav-pill" href="#endnotes">{{ ui.jump_to_endnotes | default: 'Jump to endnotes' }}</a>
+              <button class="nav-pill nav-pill-button" type="button" data-back-to-top>{{ ui.back_to_top | default: 'Back to top' }}</button>
+            </div>
+          </aside>
+          {% endunless %}
+          {% endunless %}
+        </div>
+      </div>
+    </main>
+    {% include footer.html %}
+  </body>
+</html>
