@@ -2,6 +2,7 @@ _site/
 .jekyll-cache/
 .jekyll-metadata
 .sass-cache/
+.pytest_cache/
 .bundle/
 vendor/bundle/
 tmp/
