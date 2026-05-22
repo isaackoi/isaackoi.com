@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://isaackoi.com/sitemap.xml
+Host: isaackoi.com

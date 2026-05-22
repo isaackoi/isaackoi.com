@@ -1,0 +1,117 @@
+---
+layout: "default"
+title: "Evans, Hilary “Visions, Apparitions, Alien Visitors”"
+description: "Brief review to be added of Hilary Evans 's book “ Visions, Apparitions, Alien Visitors ” ( 1984 ) (available on Amazon USA and on Amazon UK )"
+permalink: "/ufo-history/ufo-books/evans-hilary-visions-apparitions-alien-visitors/"
+display_title_short: "Evans, Hilary “Visions, Apparitions, Alie..."
+nav_short_title: "Evans, Hilary “Visions, Apparitions, Alie..."
+breadcrumb_links: [{"title": "UFO History", "permalink": "/ufo-history", "short_title": "UFO History"}, {"title": "UFO Books", "permalink": "/ufo-history/ufo-books", "short_title": "UFO Books"}]
+parent_permalink: "/ufo-history/ufo-books"
+parent_title: "UFO Books"
+sibling_links: [{"title": "Evans, Christopher “Cults of Unreason”", "permalink": "/ufo-history/ufo-books/evans-christopher-cults-of-unreason", "short_title": "Evans, Christopher “Cults of Unreason”"}, {"title": "Evans, Hilary and Spencer, John “UFO: 1947-1987”", "permalink": "/ufo-history/ufo-books/evans-hilary-and-spencer-john-ufo-1947-1987", "short_title": "Evans, Hilary and Spencer, John “UFO: 194..."}, {"title": "Evans, Hilary and Stacy, Dennis “UFO 1947-1997”", "permalink": "/ufo-history/ufo-books/evans-hilary-and-stacy-dennis-ufo-1947-1997", "short_title": "Evans, Hilary and Stacy, Dennis “UFO 1947..."}, {"title": "Evans, Hilary “From Other Worlds”", "permalink": "/ufo-history/ufo-books/evans-hilary-from-other-worlds", "short_title": "Evans, Hilary “From Other Worlds”"}, {"title": "Evans, Hilary “Frontiers of Reality”", "permalink": "/ufo-history/ufo-books/evans-hilary-frontiers-of-reality", "short_title": "Evans, Hilary “Frontiers of Reality”"}, {"title": "Evans, Hilary “Gods, Spirits, Cosmic Guardians”", "permalink": "/ufo-history/ufo-books/evans-hilary-gods-spirits-cosmic-guardians", "short_title": "Evans, Hilary “Gods, Spirits, Cosmic Guar..."}, {"title": "Evans, Hilary “The Evidence for UFOs”", "permalink": "/ufo-history/ufo-books/evans-hilary-the-evidence-for-ufos", "short_title": "Evans, Hilary “The Evidence for UFOs”"}, {"title": "Fawcett, Bill (ed) “Making Contact”", "permalink": "/ufo-history/ufo-books/fawcett-bill-ed-making-contact", "short_title": "Fawcett, Bill (ed) “Making Contact”"}, {"title": "Fawcett, George and Greenwood, Barry “Clear Intent”", "permalink": "/ufo-history/ufo-books/fawcett-george-and-greenwood-barry-clear-intent", "short_title": "Fawcett, George and Greenwood, Barry “Cle..."}, {"title": "Ferguson, V S “Inanna Returns”", "permalink": "/ufo-history/ufo-books/ferguson-v-s-inanna-returns", "short_title": "Ferguson, V S “Inanna Returns”"}, {"title": "Festinger, Leon and Riecken, Henry and Schachter, Stanley “When Prophecy Fails”", "permalink": "/ufo-history/ufo-books/festinger-leon-and-riecken-henry-and-schachter-stanley-when-prophecy-fails", "short_title": "Festinger, Leon and Riecken, Henry and Sc..."}, {"title": "Fiore, Edith “Abductions”", "permalink": "/ufo-history/ufo-books/fiore-edith-abductions", "short_title": "Fiore, Edith “Abductions”"}, {"title": "Fitzgerald, Randall “The Cosmic Test Tube”", "permalink": "/ufo-history/ufo-books/fitzgerald-randall-the-cosmic-test-tube", "short_title": "Fitzgerald, Randall “The Cosmic Test Tube”"}]
+planned_sections: ["Web Resources", "Book References", "Other Material"]
+header: {"preview_image": "/book-covers/0850304148.jpg"}
+status: "published"
+source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
+confidence: 0.6
+book: {"identifiers": ["0850304148", "0688088643", "0709032765", "1578590299", "0780800974", "1870021029"], "cover_image": "/book-covers/0850304148.jpg", "cover_source": "local-cache", "primary_isbn": "0850304148"}
+---
+
+Brief review to be added of [Hilary Evans]({{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }})'s book “[Visions, Apparitions, Alien Visitors]({{ '/ufo-history/ufo-books/evans-hilary-visions-apparitions-alien-visitors' | relative_url }})” ([1984]({{ '/tags/1984' | relative_url }})) (available [on Amazon USA](http://www.amazon.com/dp/0850304148/?&tag=ufot-20) and [on Amazon UK](http://www.amazon.co.uk/dp/0850304148/?&tag=ufot-21))
+
+1. [Web Resources](#web)
+
+2. [Book References](#books)
+
+3. [Other material](#other)
+
+<a id="web"></a>
+### Web Resources
+
+There is a rapid turnover of UFO material on the Internet. Many links to material on UFO websites quickly become out of date. Therefore, instead of giving many links to specific webpages I have instead focused on providing tables of references to discussion of UFO incidents, personalities and other matters in various books. Those tables of references to discussion in books can be sorted by author, length and date. I hope these tools are useful.
+
+<a id="books"></a>
+### Book References
+
+The table below includes references to relevant discussions in UFO/SETI books noted by Isaac Koi during a review of approximately 963 UFO/SETI books during the period 2003-2006 (with a few later additions). The table can be sorted by author, date and length of discussion by clicking on the relevant word in the top line of the table.
+
+Many of the tables of references on this website are considerably longer than the references to books found on most other UFO websites. Indeed, some are probably the longest that have been collated in relation to some events and personalities. I hope that these tables are found to be a useful contribution to UFOlogy.
+
+<table border="1" cellpadding="0" cellspacing="0" class="sortable" data-sortable="true" id="sortabletable">
+<thead>
+<tr>
+<td valign="top" width="46">
+<p>Year</p>
+</td>
+<td valign="top" width="547">
+<p>Discussion by:</p>
+<p> </p>
+</td>
+<td valign="top" width="52">
+<p>No. of Pages</p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" width="46">
+<p><a href="{{ '/tags/1989' | relative_url }}">1989</a></p>
+</td>
+<td valign="top" width="547">
+<p><a href="{{ '/ufo-history/ufo-personalities/conroy-ed' | relative_url }}">Conroy, Ed</a> in his “<a href="{{ '/ufo-history/ufo-books/conroy-ed-report-on-communion' | relative_url }}">Report on Communion</a>” (<a href="{{ '/tags/1989' | relative_url }}">1989</a>) (available <a href="http://www.amazon.com/dp/0688088643/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0688088643/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 240-241, 268 (in Chapter 7) of the Avon paperback edition.</p>
+</td>
+<td valign="top" width="52">
+<p>3</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="46">
+<p><a href="{{ '/tags/1988' | relative_url }}">1988</a></p>
+</td>
+<td valign="top" width="547">
+<p><a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Randles, Jenny</a> in her “<a href="{{ '/ufo-history/ufo-books/randles-jenny-abduction' | relative_url }}">Abduction</a>“ (<a href="{{ '/tags/1988' | relative_url }}">1988</a>) (available <a href="http://www.amazon.com/dp/0709032765/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0709032765/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 35 (in Chapter 2) of the Hale hardback edition (with the same page numbering in the Headline paperback edition).</p>
+</td>
+<td valign="top" width="52">
+<p>1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="46">
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
+</td>
+<td valign="top" width="547">
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-the-ufo-book' | relative_url }}">The UFO Book</a>: Encyclopedia of the Extraterrestrial” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/1578590299/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1578590299/ref=nosim?tag=ufot-21">on Amazon UK</a>) at page 500 (in an entry entitled “Psychosocial Hypothesis”) of the Visible Ink Press softcover edition.</p>
+</td>
+<td valign="top" width="52">
+<p>1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="46">
+<p><a href="{{ '/tags/1998' | relative_url }}">1998</a></p>
+</td>
+<td valign="top" width="547">
+<p><a href="{{ '/ufo-history/ufo-personalities/clark-jerome' | relative_url }}">Clark, Jerome</a> in his “<a href="{{ '/ufo-history/ufo-books/clark-jerome-ufo-encyclopaedia-2nd-edition' | relative_url }}">The UFO Encyclopedia: The Phenomenon from the Beginning - 2<sup>nd</sup> edition</a>” (<a href="{{ '/tags/1998' | relative_url }}">1998</a>) (available <a href="http://www.amazon.com/dp/0780800974/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/0780800974/ref=nosim?tag=ufot-21">on Amazon UK</a>) in Volume 2:L-Z at page 755-757 (forming part of the entry entitled “Psychosocial Hypothesis” at pages 749-759) of the Omnigraphics hardback edition.</p>
+</td>
+<td valign="top" width="52">
+<p>3</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="46">
+<p><a href="{{ '/tags/1987' | relative_url }}">1987</a></p>
+</td>
+<td valign="top" width="547">
+<p><a href="{{ '/ufo-history/ufo-personalities/hough-peter' | relative_url }}">Hough, Peter</a> in “<a href="{{ '/ufo-history/ufo-books/evans-hilary-and-spencer-john-ufo-1947-1987' | relative_url }}">UFO: 1947-1987</a>” (<a href="{{ '/tags/1987' | relative_url }}">1987</a>) (edited by <a href="{{ '/ufo-history/ufo-personalities/evans-hilary' | relative_url }}">Hilary Evans</a> with <a href="{{ '/ufo-history/ufo-personalities/spencer-john' | relative_url }}">John Spencer</a>) (available <a href="http://www.amazon.com/dp/1870021029/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1870021029/ref=nosim?tag=ufot-21">on Amazon UK</a>) at pages 130-131 (in Chapter 2.4, entitled “UFO Occupants”) of the Fortean Tomes softcover edition.</p>
+</td>
+<td valign="top" width="52">
+<p>2</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<a id="other"></a>
+### Other Material
+
+Please use the comments section below to share references to any particularly interesting relevant articles.

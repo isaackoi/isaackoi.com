@@ -1,0 +1,84 @@
+---
+layout: "default"
+title: "1997.0324 Howden Moor Incident"
+description: "Howden Moor Incident On 24 March 1997 , an alleged UFO sighting/attack occurred over the Howden Moors, near Sheffield, Yorkshire, England. (Commonly referred to as “the Sheffield Incident” and “the Howden Moor Incident”)."
+permalink: "/ufo-history/ufo/19970324-howden-moor-incident/"
+display_title_short: "1997.0324 Howden Moor Incident"
+nav_short_title: "1997.0324 Howden Moor Incident"
+breadcrumb_links: [{"title": "UFO History", "permalink": "/ufo-history", "short_title": "UFO History"}, {"title": "UFO Timeline", "permalink": "/ufo-history/ufo", "short_title": "UFO Timeline"}]
+parent_permalink: "/ufo-history/ufo"
+parent_title: "UFO Timeline"
+sibling_links: [{"title": "1996.1026 Outer Hebrides sighting", "permalink": "/ufo-history/ufo/19961026-outer-hebrides-sighting", "short_title": "1996.1026 Outer Hebrides sighting"}, {"title": "1997.0000 Gerald Haines on “CIA's role”", "permalink": "/ufo-history/ufo/19970000-gerald-haines-on-cias-role", "short_title": "1997.0000 Gerald Haines on “CIA's role”"}, {"title": "1997.0000 Movie: “Conspiracy Theory”", "permalink": "/ufo-history/ufo/19970000-movie-conspiracy-theory", "short_title": "1997.0000 Movie: “Conspiracy Theory”"}, {"title": "1997.0000 Movie: “Contact”", "permalink": "/ufo-history/ufo/19970000-movie-contact", "short_title": "1997.0000 Movie: “Contact”"}, {"title": "1997.0000 Movie: “Men In Black”", "permalink": "/ufo-history/ufo/19970000-movie-men-in-black", "short_title": "1997.0000 Movie: “Men In Black”"}, {"title": "1997.0000 Movie: “Starship Troopers”", "permalink": "/ufo-history/ufo/19970000-movie-starship-troopers", "short_title": "1997.0000 Movie: “Starship Troopers”"}, {"title": "1997.0313 Phoenix lights sightings", "permalink": "/ufo-history/ufo/19970313-phoenix-lights-sightings", "short_title": "1997.0313 Phoenix lights sightings"}, {"title": "1997.0326 Heaven’s Gate suicide", "permalink": "/ufo-history/ufo/19970326-heavens-gate-suicide", "short_title": "1997.0326 Heaven’s Gate suicide"}, {"title": "1997.0617 Time magazine poll", "permalink": "/ufo-history/ufo/19970617-time-magazine-poll", "short_title": "1997.0617 Time magazine poll"}, {"title": "1997.0624 Further Air Force Roswell Report", "permalink": "/ufo-history/ufo/19970624-further-air-force-roswell-report", "short_title": "1997.0624 Further Air Force Roswell Report"}, {"title": "1997.0700 Roswell Initiative petition", "permalink": "/ufo-history/ufo/19970700-roswell-initiative-petition", "short_title": "1997.0700 Roswell Initiative petition"}, {"title": "1997.0700 “Best Evidence Ever Caught on Tape”", "permalink": "/ufo-history/ufo/19970700-best-evidence-ever-caught-on-tape", "short_title": "1997.0700 “Best Evidence Ever Caught on T..."}, {"title": "1997.0930 Sturrock Panel", "permalink": "/ufo-history/ufo/19970930-sturrock-panel", "short_title": "1997.0930 Sturrock Panel"}]
+planned_sections: ["Web Resources", "Book References", "Other Material"]
+header: {"preview_image": "/images/stories/ufo_tags/britain_1.gif"}
+status: "published"
+source_notes: ["Imported from the Joomla backup during the Jekyll migration."]
+confidence: 0.6
+---
+
+![britain_1]({{ '/images/stories/ufo_tags/britain_1.gif' | relative_url }})
+
+*Howden Moor Incident*
+
+On 24 March
+
+1997
+
+, an alleged UFO sighting/attack occurred over the Howden Moors, near Sheffield, Yorkshire, England. (Commonly referred to as “the Sheffield Incident” and “the Howden Moor Incident”).
+
+Sections below
+
+1. [Web Resources](#web)
+
+2. [Book References](#books)
+
+3. [Other material](#other)
+
+<a id="web"></a>
+### Web Resources
+
+There is a rapid turnover of UFO material on the Internet. Many links to material on UFO websites quickly become out of date. Therefore, instead of giving many links to specific webpages I have instead focused on providing tables of references to discussion of UFO incidents, personalities and other matters in various books. Those tables of references to discussion in books can be sorted by author, length and date. I hope these tools are useful.
+
+<a id="books"></a>
+### Book References
+
+The table below includes references to relevant discussions in UFO/SETI books noted by Isaac Koi during a review of approximately 963 UFO/SETI books during the period 2003-2006 (with a few later additions). The table can be sorted by author, date and length of discussion by clicking on the relevant word in the top line of the table.
+
+Many of the tables of references on this website are considerably longer than the references to books found on most other UFO websites. Indeed, some are probably the longest that have been collated in relation to some events and personalities. I hope that these tables are found to be a useful contribution to UFOlogy.
+
+For discussion of “the Howden Moor Incident” see the following:
+
+<table border="1" cellpadding="0" cellspacing="0" class="sortable" data-sortable="true" id="sortabletable">
+<thead>
+<tr>
+<td valign="top" width="46">
+<p>Year</p>
+</td>
+<td valign="top" width="547">
+<p>Discussion by:</p>
+<p> </p>
+</td>
+<td valign="top" width="52">
+<p>No. of Pages</p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" width="46">
+<p><a href="{{ '/tags/2000' | relative_url }}">2000</a></p>
+</td>
+<td valign="top" width="547">
+<p><a href="{{ '/ufo-history/ufo-personalities/clarke-david' | relative_url }}">Clarke, David</a> in “<a href="{{ '/ufo-history/ufo-books/randles-jenny-and-clarke-david-and-roberts-andy-the-ufos-that-never-were' | relative_url }}">The UFOs that never were</a>” (<a href="{{ '/tags/2000' | relative_url }}">2000</a>) (available <a href="http://www.amazon.com/dp/1902809351/ref=nosim?tag=ufot-20">on Amazon USA</a> and <a href="http://www.amazon.co.uk/dp/1902809351/ref=nosim?tag=ufot-21">on Amazon UK</a>) by <a href="{{ '/ufo-history/ufo-personalities/randles-jenny' | relative_url }}">Jenny Randles</a>, <a href="{{ '/ufo-history/ufo-personalities/roberts-andy' | relative_url }}">Andy Roberts</a> and <a href="{{ '/ufo-history/ufo-personalities/clarke-david' | relative_url }}">David Clarke</a> at pages 33-51 (in Chapter 2, “The Howden Moor Incident” by <a href="{{ '/ufo-history/ufo-personalities/clarke-david' | relative_url }}">David Clarke</a>) of the London House hardback edition.</p>
+</td>
+<td valign="top" width="52">
+<p>19</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<a id="other"></a>
+### Other Material
+
+Please use the comments section below to share references to any particularly interesting relevant articles.

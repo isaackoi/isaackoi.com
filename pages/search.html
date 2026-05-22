@@ -1,0 +1,28 @@
+---
+layout: "default"
+title: "Search"
+permalink: "/search/"
+suppress_page_tools: true
+description: "Search titles, sections, tags, and page summaries across the Isaac Koi archive."
+---
+
+<section class="fr-section-shell archive-search-shell" data-archive-search data-search-source="{{ '/search-index.json' | relative_url }}" data-search-page-size="48">
+  <header class="fr-section-header">
+    <div class="fr-section-heading">
+      <p class="fr-search-kicker">Archive search</p>
+      <h1 class="fr-heading">Search the archive</h1>
+      <p class="fr-search-desc">Search titles, summaries, headings, tags, and section labels across 2300 archived entries.</p>
+    </div>
+    <form class="archive-search-form" role="search" data-archive-search-form>
+      <label class="archive-search-label" for="archive-search-input">Keywords</label>
+      <div class="archive-search-row">
+        <input id="archive-search-input" class="archive-search-input" type="search" name="q" placeholder="Try 1952, Hynek, Pascagoula, or SETI" autocomplete="off" data-archive-search-input>
+        <button class="nav-pill nav-pill-primary" type="submit">Search</button>
+        <button class="nav-pill" type="button" data-archive-search-clear hidden>Clear</button>
+      </div>
+      <p class="archive-search-help">Try years, case names, authors, books, personalities, places, or recurring tags.</p>
+      <p class="archive-search-status" data-archive-search-status aria-live="polite">Loading search index...</p>
+    </form>
+  </header>
+  <div class="fr-search-grid archive-search-results" data-archive-search-results></div>
+</section>
